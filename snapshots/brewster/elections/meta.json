@@ -1,0 +1,19 @@
+{
+  "county": "Brewster",
+  "page_type": "elections",
+  "requested_url": "https://www.brewstercounty.gov/page/elections.information",
+  "final_url": "https://www.brewstercounty.gov/page/elections.information",
+  "redirect_chain": [
+    "https://www.brewstercounty.gov/page/elections.information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "8cf00010c6261ab5842dc29446d822cb6b39c344c36cb0711942785c97f6b434",
+  "text_sha256": "f322fae7ecf369786c00e5f3a4026d66faaad5538b17616c9f1314b9c1307ca2",
+  "byte_size": 55924,
+  "title": "Brewster County, Texas",
+  "error": null
+}

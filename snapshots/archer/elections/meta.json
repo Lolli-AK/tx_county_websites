@@ -1,0 +1,19 @@
+{
+  "county": "Archer",
+  "page_type": "elections",
+  "requested_url": "https://www.co.archer.tx.us/page/archer.Elections",
+  "final_url": "https://www.co.archer.tx.us/page/archer.Elections",
+  "redirect_chain": [
+    "https://www.co.archer.tx.us/page/archer.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "820a0ec95ce0fd463acf158fee305ab5f44af3f91d204c9b4d31abfa63a82938",
+  "text_sha256": "9bafe480a049dbbc32178c582e581edfa5fe3de1864b60f52d116675c79ce29c",
+  "byte_size": 159567,
+  "title": "Archer County, Texas",
+  "error": null
+}

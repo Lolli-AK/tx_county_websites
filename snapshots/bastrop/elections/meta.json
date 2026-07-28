@@ -1,0 +1,19 @@
+{
+  "county": "Bastrop",
+  "page_type": "elections",
+  "requested_url": "https://www.bastropvotes.org/",
+  "final_url": "https://www.bastropvotes.org/",
+  "redirect_chain": [
+    "https://www.bastropvotes.org/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "d1dbe8f3ee49f386f16cdf5d82448177c14ab85a248516b9afb2d65bce0863e8",
+  "text_sha256": "5434e50d037943c64fcf494ca25c82632b69f91b3f784e36117554ad33ce3916",
+  "byte_size": 31087,
+  "title": "Bastrop County, TX Elections | Bastrop County, TX Elections",
+  "error": null
+}

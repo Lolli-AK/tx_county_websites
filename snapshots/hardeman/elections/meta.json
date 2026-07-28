@@ -1,0 +1,19 @@
+{
+  "county": "Hardeman",
+  "page_type": "elections",
+  "requested_url": "https://www.co.hardeman.tx.us/page/hardeman.Elections",
+  "final_url": "https://www.co.hardeman.tx.us/page/hardeman.Elections",
+  "redirect_chain": [
+    "https://www.co.hardeman.tx.us/page/hardeman.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "370a0089dcecc29a5b925a3ce96dfc2e9e9dea95f26693c7f2822582e44b2ec8",
+  "text_sha256": "0609734ec594cf621df5e03f2d961d8a19682efe343aa7ab9db9124f7289e646",
+  "byte_size": 39172,
+  "title": "Hardeman County, Texas",
+  "error": null
+}

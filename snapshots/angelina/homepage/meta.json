@@ -1,0 +1,19 @@
+{
+  "county": "Angelina",
+  "page_type": "homepage",
+  "requested_url": "https://www.angelinacounty.net/",
+  "final_url": "https://www.angelinacounty.net/",
+  "redirect_chain": [
+    "https://www.angelinacounty.net/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "00717d6b650cf2ff08aea2445ff810bc41af93fa1f2f27beabb5a9076d6d9273",
+  "text_sha256": "bc2259e5884ec9631e0d30f2fff29534f7453ccc246ca6ea7d134b2886054f8b",
+  "byte_size": 44076,
+  "title": "Angelina County – Angelina County, Texas",
+  "error": null
+}

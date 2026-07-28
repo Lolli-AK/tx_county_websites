@@ -1,0 +1,19 @@
+{
+  "county": "Franklin",
+  "page_type": "polling",
+  "requested_url": "https://franklincountytxelections.gov/election-information/upcoming-election/",
+  "final_url": "https://franklincountytxelections.gov/election-information/upcoming-election/",
+  "redirect_chain": [
+    "https://franklincountytxelections.gov/election-information/upcoming-election/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "93422132c11835384000b816598754d7bc8ac310940e05437a1105dfeefb67b4",
+  "text_sha256": "76a8b2df062226717a34b246049990dfcecdc88e5f2e67de14200313cde0465d",
+  "byte_size": 146086,
+  "title": "Upcoming Election – Franklin, TX",
+  "error": null
+}

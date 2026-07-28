@@ -1,0 +1,19 @@
+{
+  "county": "Caldwell",
+  "page_type": "early_voting",
+  "requested_url": "https://www.co.caldwell.tx.us/page/Elections.EarlyVotingPollingLocations",
+  "final_url": "https://www.co.caldwell.tx.us/page/Elections.EarlyVotingPollingLocations",
+  "redirect_chain": [
+    "https://www.co.caldwell.tx.us/page/Elections.EarlyVotingPollingLocations"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "4499ace82cf17063e8701a4cadf87e45a19f5ef04403b1395bc79d0eee3c3f53",
+  "text_sha256": "f8d58167bd85a1c13123c766fa6889bccf6a0ad02f704d10a2ee0733bad96928",
+  "byte_size": 79503,
+  "title": "Early Voting Locations - Caldwell County, Texas",
+  "error": null
+}

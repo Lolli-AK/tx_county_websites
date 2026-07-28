@@ -1,0 +1,19 @@
+{
+  "county": "Crosby",
+  "page_type": "elections",
+  "requested_url": "https://www.co.crosby.tx.us/page/crosby.Elections",
+  "final_url": "https://www.co.crosby.tx.us/page/crosby.Elections",
+  "redirect_chain": [
+    "https://www.co.crosby.tx.us/page/crosby.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "22072737339cd176a813968ab28655d630e53778ae5baf2977073ae06ca7154b",
+  "text_sha256": "824e6c2092ad8f9cda9397186dbbf10ccc89debcaa4fe38454d77aa28f64e4f6",
+  "byte_size": 40157,
+  "title": "Crosby County, Texas",
+  "error": null
+}

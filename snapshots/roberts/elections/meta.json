@@ -1,0 +1,19 @@
+{
+  "county": "Roberts",
+  "page_type": "elections",
+  "requested_url": "https://www.co.roberts.tx.us/page/roberts.elections",
+  "final_url": "https://www.co.roberts.tx.us/page/roberts.elections",
+  "redirect_chain": [
+    "https://www.co.roberts.tx.us/page/roberts.elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "ccac15e74fa0f056ed18d2ce82ab23cafcbbebca668507aec3ac8efeeb9ecfa0",
+  "text_sha256": "87f1c2d2f4ae11af220f170a4f19e79a085272a45903735ec901216da66ad7ba",
+  "byte_size": 50668,
+  "title": "Roberts County, Texas",
+  "error": null
+}

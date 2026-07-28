@@ -1,0 +1,19 @@
+{
+  "county": "Comanche",
+  "page_type": "early_voting",
+  "requested_url": "https://www.comanchecountytx.gov/253/2026-November-3rd-General-Election",
+  "final_url": "https://www.comanchecountytx.gov/253/2026-November-3rd-General-Election",
+  "redirect_chain": [
+    "https://www.comanchecountytx.gov/253/2026-November-3rd-General-Election"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "8747b6df4e142525f9c04636dc7c4247b02e2e3c81a04050762cfb87834877d2",
+  "text_sha256": "ed16bb52d2cd26e7510151758067e20213daf3882a145b991fb32aaf119d0956",
+  "byte_size": 82947,
+  "title": "2026 November 3rd General Election | Comanche County, TX",
+  "error": null
+}

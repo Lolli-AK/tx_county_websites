@@ -1,0 +1,19 @@
+{
+  "county": "Brown",
+  "page_type": "elections",
+  "requested_url": "https://www.browncountytx.gov/page/brown.Elections",
+  "final_url": "https://www.browncountytx.gov/page/brown.Elections",
+  "redirect_chain": [
+    "https://www.browncountytx.gov/page/brown.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "daaf1d8a48605d62359d9d0b731c6b8adabc1fe80a70e0c9817113ef65c73bf8",
+  "text_sha256": "c98a38554b4e1f457fc5aa858809522cf331ce6266839a4437fdaed79da90afd",
+  "byte_size": 294054,
+  "title": "Elections & Voter Information - Brown County",
+  "error": null
+}

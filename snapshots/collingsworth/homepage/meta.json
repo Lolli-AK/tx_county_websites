@@ -1,0 +1,19 @@
+{
+  "county": "Collingsworth",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.collingsworth.tx.us/",
+  "final_url": "https://www.co.collingsworth.tx.us/",
+  "redirect_chain": [
+    "https://www.co.collingsworth.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "e60a4d148ad47f21ca1b2088d6238483d42b5578806cec6d726fd63f1b624bc2",
+  "text_sha256": "d30e2eb824bae2d73275558cee6ebb83d27cda543cce2d5abb38b068ef46c05d",
+  "byte_size": 22007,
+  "title": "Collingsworth County, Texas",
+  "error": null
+}

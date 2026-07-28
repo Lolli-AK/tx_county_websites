@@ -1,0 +1,19 @@
+{
+  "county": "Guadalupe",
+  "page_type": "early_voting",
+  "requested_url": "https://www.guadalupetx.gov/page/elections.early_voting",
+  "final_url": "https://www.guadalupetx.gov/page/elections.early_voting",
+  "redirect_chain": [
+    "https://www.guadalupetx.gov/page/elections.early_voting"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "39238a2d2f0eab80fe9f4382ebb4eeb31a0e8c8f86c90af9307b097cf45ab611",
+  "text_sha256": "c1ada1df7981d1bcd00b3e77eabe8878dcc3d5666afa19653c4a587054ec6e5e",
+  "byte_size": 48498,
+  "title": "Early Voting | Guadalupe County, Texas",
+  "error": null
+}

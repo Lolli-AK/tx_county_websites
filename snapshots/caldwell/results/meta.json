@@ -1,0 +1,19 @@
+{
+  "county": "Caldwell",
+  "page_type": "results",
+  "requested_url": "https://www.co.caldwell.tx.us/page/Elections.Results%20Page",
+  "final_url": "https://www.co.caldwell.tx.us/page/Elections.Results%20Page",
+  "redirect_chain": [
+    "https://www.co.caldwell.tx.us/page/Elections.Results%20Page"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "2134854ca7ba94ba27876a48db32389b5d73faae7a3c248a11ccb80bc80adfce",
+  "text_sha256": "ae9643b888199a7d63f2f457b4d30c8937180cb365ba45c8523567a14d892de7",
+  "byte_size": 145651,
+  "title": "Elections Results - Caldwell County, TX",
+  "error": null
+}

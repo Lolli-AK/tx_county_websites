@@ -1,0 +1,19 @@
+{
+  "county": "Fayette",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.fayette.tx.us/",
+  "final_url": "https://www.co.fayette.tx.us/",
+  "redirect_chain": [
+    "https://www.co.fayette.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "c2b78cd351dca89a937db3dffad8bfe4f1eeadeed2d655dddab93da31889efd1",
+  "text_sha256": "4a05e126c8a4a74fc2df0e4f2b74d99dc32fe3dbcc3d93a8cfacb9519ca06064",
+  "byte_size": 36739,
+  "title": "Fayette County, Texas",
+  "error": null
+}

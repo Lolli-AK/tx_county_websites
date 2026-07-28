@@ -1,0 +1,401 @@
+county,batch,page_type,url,external,notes
+Anderson,2,elections,https://www.andersoncountytx.gov/page/Elections,false,"found via link ""Elections & Voting"" score=25"
+Anderson,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Anderson,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Anderson,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Andrews,2,elections,https://www.co.andrews.tx.us/190/Elections-Department,false,"found via link ""Elections"" score=20"
+Andrews,2,polling,https://www.co.andrews.tx.us/BusinessDirectoryII.aspx?lngBusinessCategoryID=23,false,"found via ""Polling Locations"" score=21"
+Andrews,2,early_voting,https://www.co.andrews.tx.us/192/Election-Information,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Andrews,2,results,https://www.co.andrews.tx.us/193/Election-Results,false,"found via ""Election Results"" score=21"
+Angelina,2,elections,https://www.angelinacounty.net/elections/,false,"found via link ""Elections"" score=20"
+Angelina,2,polling,,false,GAP: no county-specific page found (best candidate was an unrelated third-party site)
+Angelina,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Angelina,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Aransas,2,elections,https://www.aransascountytx.gov/electionadmin/,true,"found via link ""Elections Administration"" score=18 [via headless render]"
+Aransas,2,polling,https://www.aransascountytx.gov/electionadmin/precinctmap.php,true,"found via ""Interactive Precinct Map"" score=3 (weak match — review)"
+Aransas,2,early_voting,https://www.aransascountytx.gov/electionadmin/voteelectinfo.php,true,no standing early_voting page; using per-election hub page (shared with other types) — review
+Aransas,2,results,https://www.aransascountytx.gov/main/elecres.php,true,"found via ""Election Results"" score=21"
+Archer,2,elections,https://www.co.archer.tx.us/page/archer.Elections,false,"found via link ""Elections"" score=20"
+Archer,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Archer,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Archer,2,results,,false,GAP: candidate is non-HTML (image/jpeg) — out of scope
+Armstrong,2,elections,https://www.co.armstrong.tx.us/page/armstrong.Elections,false,"found via link ""Elections"" score=20"
+Armstrong,2,polling,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Armstrong,2,early_voting,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Armstrong,2,results,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Atascosa,2,elections,https://co.atascosa.tx.us/elections-administration/,false,"found via link ""Elections Administration"" score=20"
+Atascosa,2,polling,https://co.atascosa.tx.us/precinct-map/,false,"found via ""Precinct Map"" score=5 (weak match — review)"
+Atascosa,2,early_voting,https://atascosacounty-my.sharepoint.com/:x:/g/personal/cseiter_co_atascosa_tx_us/IQAVvZJaczEzSpO9nJE5CHxnAaib13gCwpIsvw91kcjYkxQ?rtime=-jVFc87s3kg,true,"found via ""Democratic Early Voting Roster"" score=9 (weak match — review)"
+Atascosa,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Austin,2,elections,https://www.austincounty.com/page/austin.Elections,false,"found via link ""Elections"" score=20"
+Austin,2,polling,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Austin,2,early_voting,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Austin,2,results,https://newtools.cira.state.tx.us/page/austin.ArchivedElectionResults,true,"found via ""Past Election Results"" score=21"
+Bailey,2,elections,https://www.co.bailey.tx.us/page/bailey.Elections,false,"found via link ""Elections"" score=20"
+Bailey,2,polling,,false,GAP: candidate unreachable (https://www.co.bailey.tx.us/upload/page/8143/docs/Election Information/Bailey County Precincts Map.jpg)
+Bailey,2,early_voting,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Bailey,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Bandera,2,elections,https://www.banderacounty.gov/page/elections.home,false,"found via link ""ELECTIONS"" score=20"
+Bandera,2,polling,https://www.banderacounty.gov/page/elections.current.elections,false,no standing polling page; using per-election hub page (shared with other types) — review
+Bandera,2,early_voting,https://www.banderacounty.gov/page/elections.current.elections,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Bandera,2,results,https://www.banderacounty.gov/page/elections.past.results,false,"found via ""Past Election Results"" score=21"
+Bastrop,2,elections,https://www.bastropvotes.org/,true,"found via link ""Elections Administration"" score=31"
+Bastrop,2,polling,https://www.bastropvotes.org/election-information-2/upcoming-elections/,true,"found via ""Election Day Vote Center locations"" score=18"
+Bastrop,2,early_voting,https://www.bastropvotes.org/election-information-2/early-voting-information/,true,"found via ""Early Voting Information"" score=9 (weak match — review)"
+Bastrop,2,results,https://www.bastropvotes.org/election-results-2/,true,"found via ""Results Archive"" score=14"
+Baylor,2,elections,https://www.co.baylor.tx.us/page/baylor.Elections,false,"found via link ""Elections"" score=20"
+Baylor,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Baylor,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Baylor,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Bee,2,elections,https://www.beecounty.gov/162/Elections-Administration,false,"found via link ""Elections Administration"" score=20 [via Government page]"
+Bee,2,polling,,false,GAP: candidate is non-HTML (application/pdf) — out of scope
+Bee,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Bee,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Blanco,2,elections,https://www.blancocountytexas.gov/page/Elections.Information,false,"found via link ""Elections & Voting"" score=20"
+Blanco,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Blanco,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Blanco,2,results,https://www.blancocountytexas.gov/page/election%20results-old,false,"found via ""Past Elections"" score=10"
+Borden,2,elections,https://www.co.borden.tx.us/page/Elections,false,"found via link ""Elections & Voting"" score=25"
+Borden,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Borden,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Borden,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Bosque,2,elections,https://www.bosquecounty.gov/Directory.aspx?did=37,false,"found via link ""Elections Administrator"" score=20 [via directory page]"
+Bosque,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Bosque,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Bosque,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Bowie,2,elections,https://www.co.bowie.tx.us/page/bowie.Elections,false,"found via link ""Elections"" score=20"
+Bowie,2,polling,https://www.co.bowie.tx.us/page/bowie.PastElectionInformation,false,no standing polling page; using per-election hub page (shared with other types) — review
+Bowie,2,early_voting,https://www.co.bowie.tx.us/page/bowie.PastElectionInformation,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Bowie,2,results,https://www.co.bowie.tx.us/page/bowie.PastElections,false,"found via ""Past Election Results"" score=21"
+Brazoria,2,elections,,false,GAP: could not crawl — homepage blocked/unreachable (HTTP 403); needs manual URL discovery
+Brazoria,2,polling,,false,GAP: could not crawl — homepage blocked/unreachable (HTTP 403); needs manual URL discovery
+Brazoria,2,early_voting,,false,GAP: could not crawl — homepage blocked/unreachable (HTTP 403); needs manual URL discovery
+Brazoria,2,results,,false,GAP: could not crawl — homepage blocked/unreachable (HTTP 403); needs manual URL discovery
+Brazos,2,elections,https://elections.brazoscountytx.gov/,false,"found via link ""Elections"" score=31"
+Brazos,2,polling,https://elections.brazoscountytx.gov/where-and-when-to-vote/,false,"found via ""where to vote"" score=9"
+Brazos,2,early_voting,https://elections.brazoscountytx.gov/where-and-when-to-vote/,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Brazos,2,results,https://elections.brazoscountytx.gov/results/,false,"found via ""Results"" score=8"
+Briscoe,2,elections,https://www.co.briscoe.tx.us/page/briscoe.Elections,false,"found via link ""Elections"" score=20"
+Briscoe,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Briscoe,2,early_voting,,false,GAP: candidate unreachable (https://newtools.cira.state.tx.us/upload/page/5196/04.20.26%20VoterHistory202604211058.txt)
+Briscoe,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Brooks,2,elections,https://www.co.brooks.tx.us/page/brooks.Elections,false,"found via link ""Elections Administrator"" score=20"
+Brooks,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Brooks,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Brooks,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Brown,2,elections,https://www.browncountytx.gov/page/brown.Elections,false,"found via link ""Elections"" score=20"
+Brown,2,polling,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Brown,2,early_voting,,false,GAP: candidate unreachable (https://www.browncountytx.gov/page/Post Audit County Primary 2026)
+Brown,2,results,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Burleson,2,elections,https://www.burlesoncountytx.gov/page/gov.elections,false,"found via link ""Elections"" score=20"
+Burleson,2,polling,https://www.burlesoncountytx.gov/page/gov.polling.locations,false,"found via ""County Polling Locations"" score=21"
+Burleson,2,early_voting,https://www.burlesoncountytx.gov/page/gov.elections.earlyvoting,false,"found via ""Early Voting"" score=11"
+Burleson,2,results,https://www.burlesoncountytx.gov/page/gov.election.results,false,"found via ""Election Results"" score=21"
+Burnet,2,elections,https://burnetcountyelections.com/,true,"found via link ""Elections"" score=18"
+Burnet,2,polling,https://burnetcountyelections.com/polling-locations/,true,"found via ""Click Here for Election Day Vote Center "" score=28"
+Burnet,2,early_voting,https://burnetcountyelections.com/current-election/,true,no standing early_voting page; using per-election hub page (shared with other types) — review
+Burnet,2,results,https://burnetcountyelections.com/election-results-2/,true,"found via ""Election Results"" score=21"
+Caldwell,2,elections,https://www.co.caldwell.tx.us/page/ElectionsOffice,false,"found via link ""Elections Office & Voter Registration"" score=33"
+Caldwell,2,polling,https://www.co.caldwell.tx.us/page/Elections.Current%20and%20Upcoming%20Elections,false,no standing polling page; using per-election hub page (shared with other types) — review
+Caldwell,2,early_voting,https://www.co.caldwell.tx.us/page/Elections.EarlyVotingPollingLocations,false,"found via ""Early Voting Locations"" score=24"
+Caldwell,2,results,https://www.co.caldwell.tx.us/page/Elections.Results%20Page,false,"found via ""Election Results"" score=21"
+Calhoun,2,elections,https://www.calhouncotx.org/calhoun-county-elections/,false,"found via link ""Election Administration"" score=9 [via government page]"
+Calhoun,2,polling,https://www.calhouncotx.org/march-5-2026-primary-election-information/,false,no standing polling page; using per-election hub page (shared with other types) — review
+Calhoun,2,early_voting,https://www.calhouncotx.org/ccisd-election-early-voting-rosters/,false,"found via ""CCISD ELECTION EARLY VOTING ROSTERS"" score=11"
+Calhoun,2,results,,false,GAP: candidate is non-HTML (application/pdf) — out of scope
+Callahan,2,elections,https://www.callahancounty.org/page/callahan.Election,false,"found via link ""Elections"" score=20"
+Callahan,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Callahan,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Callahan,2,results,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Cameron,2,elections,https://www.cameroncountytx.gov/elections/,false,"found via link ""Elections Department"" score=20"
+Cameron,2,polling,https://www.cameroncountytx.gov/elections/index.php/locations/,false,"found via ""Polling Places"" score=21"
+Cameron,2,early_voting,https://www.cameroncountytx.gov/elections/index.php/locations/,false,"found via ""Early Voting and Election Day Locations"" score=7 (weak match — review)"
+Cameron,2,results,https://cameroncountytx.gov/elections/results/,false,"found via ""Results"" score=8"
+Camp,2,elections,https://www.co.camp.tx.us/page/camp.Elections,false,"found via link ""Election Information"" score=12"
+Camp,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Camp,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Camp,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Carson,2,elections,https://www.co.carson.tx.us/page/carson.Elections,false,"found via link ""Carson County Elections"" score=12"
+Carson,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Carson,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Carson,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Cass,2,elections,https://www.co.cass.tx.us/page/cass.Elections,false,"found via link ""Elections - County Clerk"" score=12"
+Cass,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Cass,2,early_voting,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Cass,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Castro,2,elections,https://www.co.castro.tx.us/page/castro.Elections,false,"found via link ""Elections"" score=20"
+Castro,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Castro,2,early_voting,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Castro,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Chambers,2,elections,https://www.chamberscountytx.gov/169/Elections,false,"found via link ""Elections Learn More"" score=12"
+Chambers,2,polling,https://www.chamberscountytx.gov/503/Current-Elections,false,no standing polling page; using per-election hub page (shared with other types) — review
+Chambers,2,early_voting,https://www.chamberscountytx.gov/503/Current-Elections,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Chambers,2,results,,false,GAP: candidate is non-HTML (application/pdf) — out of scope
+Cherokee,2,elections,http://www.co.cherokee.tx.us/ips/cms/othercountyoffices/elections.html,false,"found via link ""Election Department"" score=9"
+Cherokee,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Cherokee,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Cherokee,2,results,http://www.co.cherokee.tx.us/ips/cms/othercountyoffices/previousElectionResults.html,false,"found via ""CLICK for Previous Election Results"" score=21"
+Childress,2,elections,https://www.childresstx.us/pages/election-administrator-and-voter-registration-contact-information,false,"found via link ""ELECTION ADMINISTRATION/VOTER REGISTRATI"" score=14"
+Childress,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Childress,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Childress,2,results,,false,GAP: candidate unreachable (https://www.childresstx.us/pages/republican-primary-2026-results)
+Clay,2,elections,https://www.claycountytx.net/electionsadmin,false,"found via link ""Elections Information"" score=7"
+Clay,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Clay,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Clay,2,results,https://results.enr.clarityelections.com/TX/Clay/,true,"found via ""Constitutional Amendments: Results Novem"" score=8 [normalized to stable Clarity index]"
+Cochran,2,elections,https://www.co.cochran.tx.us/page/cochran.Elections,false,"found via link ""Elections"" score=20"
+Cochran,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Cochran,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Cochran,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Coke,2,elections,https://www.co.coke.tx.us/page/coke.Elections,false,"found via link ""Elections"" score=20"
+Coke,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Coke,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Coke,2,results,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Coleman,2,elections,https://www.co.coleman.tx.us/page/coleman.Elections,false,"found via link ""Elections"" score=20"
+Coleman,2,polling,https://www.co.coleman.tx.us/page/ELECTION%20DAY%20INFORMATION,false,no standing polling page; using per-election hub page (shared with other types) — review
+Coleman,2,early_voting,https://www.co.coleman.tx.us/page/EARLY%20VOTING%20INFORMATION,false,"found via ""Early Voting Information"" score=11"
+Coleman,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Collingsworth,2,elections,https://www.co.collingsworth.tx.us/page/collingsworth.Elections,false,"found via link ""Elections"" score=20"
+Collingsworth,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Collingsworth,2,early_voting,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Collingsworth,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Colorado,2,elections,https://www.co.colorado.tx.us/page/colorado.Elections,false,"found via link ""Elections"" score=20"
+Colorado,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Colorado,2,early_voting,https://www.co.colorado.tx.us/page/Colorado.Elections_Early%20Voting,false,"found via ""Early Voting"" score=11"
+Colorado,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Comal,2,elections,https://www.comalcounty.gov/193/Elections-Voter-Registration,false,"found via link ""Voter Information"" score=11"
+Comal,2,polling,,false,GAP: candidate is non-HTML (application/pdf) — out of scope
+Comal,2,early_voting,,false,GAP: candidate is non-HTML (application/pdf) — out of scope
+Comal,2,results,https://results.enr.clarityelections.com/TX/Comal/,true,"found via ""Past Election Results"" score=21"
+Comanche,2,elections,https://www.comanchecountytx.gov/213/Elections,false,"found via link ""Elections"" score=20"
+Comanche,2,polling,https://www.comanchecountytx.gov/253/2026-November-3rd-General-Election,false,no standing polling page; using per-election hub page (shared with other types) — review
+Comanche,2,early_voting,https://www.comanchecountytx.gov/253/2026-November-3rd-General-Election,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Comanche,2,results,,false,GAP: candidate is non-HTML (application/pdf) — out of scope
+Concho,2,elections,https://www.co.concho.tx.us/page/concho.Elections,false,"found via link ""Elections"" score=20"
+Concho,2,polling,https://www.co.concho.tx.us/page/concho.CountyMaps,false,"found via ""Precinct Maps"" score=5 (weak match — review)"
+Concho,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Concho,2,results,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Cooke,2,elections,https://www.co.cooke.tx.us/page/cooke.Elections,false,"found via link ""Elections"" score=20"
+Cooke,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Cooke,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Cooke,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Coryell,2,elections,https://www.co.coryell.tx.us/page/coryell.Election.Notices,false,"found via link ""Notice of Elections"" score=12"
+Coryell,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Coryell,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Coryell,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Cottle,2,elections,https://www.co.cottle.tx.us/page/cottle.Elections,false,"found via link ""Elections"" score=20"
+Cottle,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Cottle,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Cottle,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Crane,2,elections,https://www.co.crane.tx.us/page/crane.Elections,false,"found via link ""Election Information"" score=12"
+Crane,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Crane,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Crane,2,results,https://www.co.crane.tx.us/page/crane.Election.Results,false,"found via ""Election Results"" score=21"
+Crockett,2,elections,https://www.co.crockett.tx.us/page/crockett.Elections,false,"found via link ""Elections"" score=20"
+Crockett,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Crockett,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Crockett,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Crosby,2,elections,https://www.co.crosby.tx.us/page/crosby.Elections,false,"found via link ""Elections"" score=20"
+Crosby,2,polling,,false,GAP: candidate is non-HTML (application/msword) — out of scope
+Crosby,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Crosby,2,results,,false,GAP: candidate is non-HTML (application/msword) — out of scope
+Culberson,2,elections,https://www.co.culberson.tx.us/page/Elections%202026,false,"found via link ""Elections & Voting"" score=25"
+Culberson,2,polling,https://www.co.culberson.tx.us/page/Elections.information,false,no standing polling page; using per-election hub page (shared with other types) — review
+Culberson,2,early_voting,https://www.co.culberson.tx.us/page/Elections.information,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Culberson,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Dallam,2,elections,https://www.co.dallam.tx.us/vote/,false,"found via link ""Voting/Votacion"" score=6"
+Dallam,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Dallam,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Dallam,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Dawson,2,elections,https://www.co.dawson.tx.us/page/dawson.Voter.Registration,false,"found via link ""Voter Registration"" score=13"
+Dawson,2,polling,https://www.co.dawson.tx.us/page/dawson.Election.Information,false,no standing polling page; using per-election hub page (shared with other types) — review
+Dawson,2,early_voting,https://www.co.dawson.tx.us/page/dawson.Election.Information,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Dawson,2,results,,false,GAP: no county-specific page found (best candidate was an unrelated third-party site)
+Deaf Smith,2,elections,https://www.co.deaf-smith.tx.us/page/deafsmith.Election.Administrator,false,"found via link ""Election Administrator"" score=6"
+Deaf Smith,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Deaf Smith,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Deaf Smith,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Delta,2,elections,https://www.deltacountytx.com/elections,false,"found via link ""Elections"" score=20"
+Delta,2,polling,https://www.deltacountytx.com/commissioners/page/county-precinct-maps,false,"found via ""County Precinct Maps"" score=5 (weak match — review)"
+Delta,2,early_voting,https://www.deltacountytx.com/elections/page/march-5-2024-primary-election-campaign-filings,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Delta,2,results,https://www.deltacountytx.com/elections/page/election-results,false,"found via ""Election Results"" score=21"
+Denton,2,elections,https://www.votedenton.gov/,true,"dedicated elections portal, reached via Elections"
+Denton,2,polling,https://www.votedenton.gov/election-day-information/election-day-polling-sites/,true,"found via ""Election Day Polling Sites"" score=7 (weak match — review)"
+Denton,2,early_voting,https://www.votedenton.gov/election-day-information/current-and-upcoming-election-information/,true,"found via ""Early Voting Locations"" score=22"
+Denton,2,results,https://results.enr.clarityelections.com/TX/Denton/,true,"found via ""Election Results"" score=21"
+DeWitt,2,elections,https://www.co.dewitt.tx.us/page/dewitt.Elections,false,"found via link ""Elections"" score=20"
+DeWitt,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+DeWitt,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+DeWitt,2,results,https://www.co.dewitt.tx.us/page/dewitt.BidNotices,false,"found via ""Awarded Bid Results"" score=8"
+Dickens,2,elections,https://www.co.dickens.tx.us/page/dickens.Elections,false,"found via link ""Elections"" score=20"
+Dickens,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Dickens,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Dickens,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Dimmit,2,elections,https://dimmitcounty.org/government/departments/elections/index.php,false,"found via link ""ELECTIONS"" score=20"
+Dimmit,2,polling,,false,GAP: candidate unreachable (https://dimmitcounty.org/government/departments/elections/2025 Notice to Change of Polling Place.pdf?t=202509151100480)
+Dimmit,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Dimmit,2,results,,false,GAP: candidate unreachable (https://dimmitcounty.org/government/departments/elections/IMG_9727.JPG?t=202605262143410)
+Donley,2,elections,https://www.co.donley.tx.us/page/donley.Elections,false,"found via link ""Elections"" score=20"
+Donley,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Donley,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Donley,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Duval,2,elections,https://www.co.duval.tx.us/page/duval.Elections,false,"found via link ""Elections and Voting Information"" score=12"
+Duval,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Duval,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Duval,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Eastland,2,elections,https://www.eastlandcounty.gov/1196/Eastland-County-Elections,false,"found via link ""Elections"" score=20"
+Eastland,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Eastland,2,early_voting,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Eastland,2,results,,false,GAP: candidate is non-HTML (application/pdf) — out of scope
+Ector,2,elections,https://www.ectorcountytx.gov/271/Elections,false,"found via link ""Voting & Elections"" score=25"
+Ector,2,polling,,false,GAP: candidate is non-HTML (application/pdf) — out of scope
+Ector,2,early_voting,,false,GAP: candidate is non-HTML (application/pdf) — out of scope
+Ector,2,results,,false,GAP: candidate is non-HTML (application/pdf) — out of scope
+Edwards,2,elections,https://www.co.edwards.tx.us/page/Elections.Home,false,"found via link ""Elections & Voting"" score=25"
+Edwards,2,polling,https://www.co.edwards.tx.us/page/Elections.Past,false,no standing polling page; using per-election hub page (shared with other types) — review
+Edwards,2,early_voting,https://www.co.edwards.tx.us/page/Elections.Past,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Edwards,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Ellis,2,elections,http://www.elliscountytx.gov/312/Elections,false,"found via link ""How to Get Information About Elections"" score=7"
+Ellis,2,polling,http://www.elliscountytx.gov/1338/Whats-Allowed-at-the-Polling-Place,false,"found via ""What's allowed at the polling place?"" score=21"
+Ellis,2,early_voting,http://www.elliscountytx.gov/739/Early-Voting-Information-Ballot-by-Mail,false,"found via ""Early Voting Information/ Ballot by Mail"" score=11"
+Ellis,2,results,http://www.elliscountytx.gov/403/Prior-Election-Results,false,"found via ""Prior Election Results"" score=21"
+Erath,2,elections,https://www.co.erath.tx.us/184/Elections-Administration,false,"found via link ""Elections Administration"" score=20 [via Departments page]"
+Erath,2,polling,https://www.co.erath.tx.us/186/Current-Elections,false,no standing polling page; using per-election hub page (shared with other types) — review
+Erath,2,early_voting,https://www.co.erath.tx.us/186/Current-Elections,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Erath,2,results,,false,GAP: candidate is non-HTML (application/pdf) — out of scope
+Falls,2,elections,https://www.co.falls.tx.us/page/Elections,false,"found via link ""Elections - Home"" score=12"
+Falls,2,polling,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Falls,2,early_voting,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Falls,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Fannin,2,elections,https://www.co.fannin.tx.us/page/fannin.Elections,false,"found via link ""Elections"" score=20"
+Fannin,2,polling,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Fannin,2,early_voting,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Fannin,2,results,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Fayette,2,elections,https://www.co.fayette.tx.us/page/fayette.Elections,false,"found via link ""Elections/Voter Registration"" score=33"
+Fayette,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Fayette,2,early_voting,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Fayette,2,results,https://newtools.cira.state.tx.us/page/fayette.Elections.PastResults,false,"found via ""Past Election Information"" score=4 (weak match — review)"
+Fisher,2,elections,https://www.fishercounty.org/page/fisher.VOTERRegistration,false,"found via link ""VOTER Registration"" score=13"
+Fisher,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Fisher,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Fisher,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Floyd,2,elections,https://www.co.floyd.tx.us/page/floyd.Elections,false,"found via link ""Elections"" score=20"
+Floyd,2,polling,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Floyd,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Floyd,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Foard,2,elections,https://www.foardcounty.texas.gov/page/Elections,false,"found via link ""Elections"" score=20"
+Foard,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Foard,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Foard,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Fort Bend,2,elections,https://www.fortbendcountytx.gov/government/departments/elections-voter-registration,false,"found via link ""Elections/Voter Registration"" score=33"
+Fort Bend,2,polling,https://www.fortbendcountytx.gov/government/departments/elections-voter-registration/maps/voter-precinct-maps,false,"found via ""Voter Precinct Maps"" score=5 (weak match — review)"
+Fort Bend,2,early_voting,https://www.fortbendcountytx.gov/government/departments/elections-voter-registration/early-voting-statistics,false,"found via ""Early Voting Statistics"" score=11"
+Fort Bend,2,results,https://www.fortbendcountytx.gov/government/departments/elections-voter-registration/2026-election-results,false,"found via ""Election Results"" score=21"
+Franklin,2,elections,https://franklincountytxelections.gov/,true,"found via link ""Elections Office"" score=26"
+Franklin,2,polling,https://franklincountytxelections.gov/election-information/upcoming-election/,true,no standing polling page; using per-election hub page (shared with other types) — review
+Franklin,2,early_voting,https://franklincountytxelections.gov/election-information/upcoming-election/early-voting-in-person-roster/,true,"found via ""EARLY VOTING IN PERSON ROSTER"" score=9 (weak match — review)"
+Franklin,2,results,,false,GAP: candidate unreachable (https://franklincountytxelections.gov/voting-info/view-voter-status/)
+Freestone,2,elections,https://www.co.freestone.tx.us/page/Freestone.Elections,false,"found via link ""Elections"" score=20"
+Freestone,2,polling,,false,GAP: candidate unreachable (https://www.co.freestone.tx.us/upload/page/1902/SOUTHERN OAKS PRECINCT.docx)
+Freestone,2,early_voting,,false,GAP: candidate unreachable (https://www.co.freestone.tx.us/upload/page/1902/CHANGE OF POLLING LOCATION.docx)
+Freestone,2,results,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Frio,2,elections,https://www.co.frio.tx.us/page/elect.home,false,"found via link ""Elections"" score=20"
+Frio,2,polling,,false,GAP: no county-specific page found (best candidate was an unrelated third-party site)
+Frio,2,early_voting,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Frio,2,results,https://www.co.frio.tx.us/page/ArchiveElection,false,"found via ""ARCHIVED ELECTION RESULTS 2014 - 2024"" score=21"
+Gaines,2,elections,https://www.co.gaines.tx.us/page/gaines.elections.current,false,"found via link ""Current Election"" score=9"
+Gaines,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Gaines,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Gaines,2,results,,false,GAP: candidate is non-HTML (image/png) — out of scope
+Garza,2,elections,https://www.garzacounty.gov/page/elections,false,"found via link ""Elections"" score=20"
+Garza,2,polling,https://www.garzacounty.gov/page/elections.11.04.2025,false,no standing polling page; using per-election hub page (shared with other types) — review
+Garza,2,early_voting,https://www.garzacounty.gov/page/EarlyVotingRosterMarch3,false,"found via ""March 3, 2026 Early Voting Roster"" score=11"
+Garza,2,results,https://www.garzacounty.gov/page/March3primary2026,false,"found via ""March 3, 2026 Primary Election Results"" score=21"
+Glasscock,2,elections,https://www.co.glasscock.tx.us/page/glasscock.Elections,false,"found via link ""Elections"" score=20"
+Glasscock,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Glasscock,2,early_voting,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Glasscock,2,results,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Goliad,2,elections,https://www.co.goliad.tx.us/page/goliad.Elections,false,"found via link ""Elections"" score=20"
+Goliad,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Goliad,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Goliad,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Gonzales,2,elections,https://www.co.gonzales.tx.us/page/gonzales.Elections.Admin,false,"found via link ""Election Admin and Voter Registration"" score=22"
+Gonzales,2,polling,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Gonzales,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Gonzales,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Gray,2,elections,https://www.co.gray.tx.us/page/gray.Elections,false,"found via link ""Elections"" score=20"
+Gray,2,polling,https://www.co.gray.tx.us/page/gray.Archived.Elections,false,no standing polling page; using per-election hub page (shared with other types) — review
+Gray,2,early_voting,https://www.co.gray.tx.us/page/gray.Archived.Elections,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Gray,2,results,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Grayson,2,elections,https://www.co.grayson.tx.us/page/elec.home,false,"found via link ""Elections"" score=20"
+Grayson,2,polling,https://www.co.grayson.tx.us/page/elec.maps,false,"found via ""Elections Area and Precinct Maps"" score=5 (weak match — review)"
+Grayson,2,early_voting,https://www.co.grayson.tx.us/page/Elec.CAD-Election,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Grayson,2,results,https://www.co.grayson.tx.us/page/elec.history,false,"found via ""Prior Election Results"" score=21"
+Gregg,2,elections,https://www.greggcountyvotes.com/,true,"found via link ""Voter Registration"" score=23"
+Gregg,2,polling,https://www.greggcountyvotes.com/upcoming-elections/,true,no standing polling page; using per-election hub page (shared with other types) — review
+Gregg,2,early_voting,https://www.greggcountyvotes.com/early-voting/,true,"found via ""EARLY VOTING LOCATIONS"" score=22"
+Gregg,2,results,https://www.greggcountyvotes.com/past-election-results/,true,"found via ""Past Election Results"" score=21"
+Grimes,2,elections,http://grimescountytexas.gov/index.asp?SEC={0AAAC5B5-04F7-460F-87D2-8DFEFAE23817},false,"found via link ""Elections"" score=20"
+Grimes,2,polling,https://grimescountytexas.gov/index.asp?SEC={88DD510B-11EB-4FED-9BB5-C63FCDF0850B},false,"found via ""Polling Place Postings"" score=21"
+Grimes,2,early_voting,https://grimescountytexas.gov/index.asp?SEC={C7508369-FC16-4DF1-871C-84EA22D98633},false,"found via ""Early Voting In Person Rosters"" score=11"
+Grimes,2,results,https://grimescountytexas.gov/index.asp?SEC={E96A035A-47B3-46B5-A872-37962314BD06},false,"found via ""CLICK HERE FOR UNOFFICIAL ELECTION RESUL"" score=21"
+Guadalupe,2,elections,https://www.guadalupetx.gov/page/elections.home,true,"found via link ""Elections and Voting"" score=23 [via headless render]"
+Guadalupe,2,polling,https://www.guadalupetx.gov/page/jp.maps,true,"found via ""Precinct Maps"" score=3 (weak match — review)"
+Guadalupe,2,early_voting,https://www.guadalupetx.gov/page/elections.early_voting,true,"found via ""Early Voting"" score=9 (weak match — review)"
+Guadalupe,2,results,https://www.guadalupetx.gov/page/elections.history,true,"found via ""Elections Results History"" score=8"
+Hale,2,elections,https://www.halecounty.org/county_offices/county_clerk.php,false,"found via link ""ALL ELECTION INFORMATION"" score=1 (weak match — review)"
+Hale,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Hale,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Hale,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Hall,2,elections,https://www.co.hall.tx.us/page/hall.County.Elections,false,"found via link ""Hall County Elections"" score=12"
+Hall,2,polling,,false,GAP: candidate is non-HTML (application/vnd.openxmlfo) — out of scope
+Hall,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Hall,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Hamilton,2,elections,https://www.hamiltoncountytx.gov/page/hamilton.elections,false,"found via link ""Elections"" score=20"
+Hamilton,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Hamilton,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Hamilton,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Hansford,2,elections,https://www.co.hansford.tx.us/page/hansford.Elections,false,"found via link ""Elections"" score=20"
+Hansford,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Hansford,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Hansford,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Hardeman,2,elections,https://www.co.hardeman.tx.us/page/hardeman.Elections,false,"found via link ""Elections"" score=20"
+Hardeman,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Hardeman,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Hardeman,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Hardin,2,elections,https://www.hardincountytx.gov/page/ElectionsDepartment,false,"found via link ""Elections & Voting"" score=25"
+Hardin,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Hardin,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Hardin,2,results,,false,GAP: candidate is non-HTML (text/plain) — out of scope
+Harrison,2,elections,https://www.harrisoncountytexas.gov/page/Elections,false,"found via link ""Elections & Voting"" score=25"
+Harrison,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Harrison,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Harrison,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Haskell,2,elections,https://www.haskellcountytx.gov/page/haskell.Elections,false,"found via link ""Elections"" score=20"
+Haskell,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Haskell,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Haskell,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Hays,2,elections,https://www.hayscountytx.gov/172/Elections,false,"found via link ""Elections"" score=20"
+Hays,2,polling,https://www.hayscountytx.gov/255/Current-Elections,false,no standing polling page; using per-election hub page (shared with other types) — review
+Hays,2,early_voting,https://www.hayscountytx.gov/255/Current-Elections,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Hays,2,results,https://www.hayscountytx.gov/257/Election-Results-Archive,false,"found via ""Election Results Archive"" score=21"
+Hemphill,2,elections,https://www.co.hemphill.tx.us/page/hemphill.Voter,false,"found via link ""Voter Registration"" score=13"
+Hemphill,2,polling,https://www.co.hemphill.tx.us/page/hemphill.ElectionInformation,false,no standing polling page; using per-election hub page (shared with other types) — review
+Hemphill,2,early_voting,https://www.co.hemphill.tx.us/page/hemphill.ElectionInformation,false,no standing early_voting page; using per-election hub page (shared with other types) — review
+Hemphill,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Henderson,2,elections,,false,GAP: could not crawl — homepage blocked/unreachable (HTTP 403); needs manual URL discovery
+Henderson,2,polling,,false,GAP: could not crawl — homepage blocked/unreachable (HTTP 403); needs manual URL discovery
+Henderson,2,early_voting,,false,GAP: could not crawl — homepage blocked/unreachable (HTTP 403); needs manual URL discovery
+Henderson,2,results,,false,GAP: could not crawl — homepage blocked/unreachable (HTTP 403); needs manual URL discovery
+Hill,2,elections,https://www.co.hill.tx.us/page/hill.Elections,false,"found via link ""Elections"" score=20"
+Hill,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Hill,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Hill,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Hockley,2,elections,https://www.co.hockley.tx.us/page/ElectionsHome,false,"found via link ""Elections & Voting"" score=25"
+Hockley,2,polling,,false,GAP: no distinct page found (likely folded into elections page)
+Hockley,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Hockley,2,results,,false,GAP: no distinct page found (likely folded into elections page)
+Hood,2,elections,https://hoodcounty.texas.gov/departments/elections_administration/index.php,false,"found via link ""Elections Administration"" score=20"
+Hood,2,polling,,false,GAP: candidate unreachable (https://hoodcounty.texas.gov/departments/elections_administration/departments/elections_administration/vote_centers.php)
+Hood,2,early_voting,,false,GAP: no distinct page found (likely folded into elections page)
+Hood,2,results,https://results.enr.clarityelections.com/TX/Hood/,true,"found via ""Election Results"" score=21"

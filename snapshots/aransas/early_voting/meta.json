@@ -1,0 +1,19 @@
+{
+  "county": "Aransas",
+  "page_type": "early_voting",
+  "requested_url": "https://www.aransascountytx.gov/electionadmin/voteelectinfo.php",
+  "final_url": "https://www.aransascountytx.gov/electionadmin/voteelectinfo.php",
+  "redirect_chain": [
+    "https://www.aransascountytx.gov/electionadmin/voteelectinfo.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html",
+  "render_mode": "headless",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "2040600035498bd9915378a13aa9b72fca79a90e7198f5a033a58ab8fe12ad01",
+  "text_sha256": "af7ec9e047dddac975f5e2998d91bb709e015081a355073f4fcfb858165d3641",
+  "byte_size": 45938,
+  "title": "Aransas County Elections",
+  "error": null
+}

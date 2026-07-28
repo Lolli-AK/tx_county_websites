@@ -1,0 +1,19 @@
+{
+  "county": "Glasscock",
+  "page_type": "elections",
+  "requested_url": "https://www.co.glasscock.tx.us/page/glasscock.Elections",
+  "final_url": "https://www.co.glasscock.tx.us/page/glasscock.Elections",
+  "redirect_chain": [
+    "https://www.co.glasscock.tx.us/page/glasscock.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "9f1a8d7f0cd87059e042291f69b35ec3f21f4bd4d1bc0ddfe83f73f07171c3d3",
+  "text_sha256": "b8e5e823605ff3bfb501ba784e45166ef6b5f37beda7aaa4af1917df9a311f9f",
+  "byte_size": 50186,
+  "title": "Glasscock County, Texas",
+  "error": null
+}

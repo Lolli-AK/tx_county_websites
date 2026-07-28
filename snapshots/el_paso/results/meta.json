@@ -1,0 +1,19 @@
+{
+  "county": "El Paso",
+  "page_type": "results",
+  "requested_url": "https://results.enr.clarityelections.com/TX/El_Paso/",
+  "final_url": "https://results.enr.clarityelections.com/TX/El_Paso/",
+  "redirect_chain": [
+    "https://results.enr.clarityelections.com/TX/El_Paso/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "b8c8973df862a06a0444c0dbfca5b616a488fd3fdbab7b859e2154d611448587",
+  "text_sha256": "badc9d12a67057fcdda9dbdf64eb3a50f1103c2101fc6f25e4fcbb012afe6cd6",
+  "byte_size": 34301,
+  "title": "List Elections",
+  "error": null
+}

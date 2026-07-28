@@ -1,0 +1,19 @@
+{
+  "county": "Goliad",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.goliad.tx.us/",
+  "final_url": "https://www.co.goliad.tx.us/",
+  "redirect_chain": [
+    "https://www.co.goliad.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "f8a9549ad0d1e36c1647dfccbf459efd2eaf5a9d0e0b1124fab73384002ed418",
+  "text_sha256": "390f6dec5c0d6062c6cdef962a0a4e0c6ad0814e116fa43733df2a24bb642429",
+  "byte_size": 56719,
+  "title": "Goliad County, Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Brazos",
+  "page_type": "elections",
+  "requested_url": "https://elections.brazoscountytx.gov/",
+  "final_url": "https://elections.brazoscountytx.gov/",
+  "redirect_chain": [
+    "https://elections.brazoscountytx.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "2317a4c463a9786c3f7776b8b228c77b8a7970adc557867e4c5b2de3095c1789",
+  "text_sha256": "baae29ca62529c278578e5ebf08539faef86b53a9601be752d4cd3a6d2e9d661",
+  "byte_size": 28214,
+  "title": "Brazos Votes – Official Website of the Brazos County, Texas Elections Administration",
+  "error": null
+}

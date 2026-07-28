@@ -1,0 +1,19 @@
+{
+  "county": "Brooks",
+  "page_type": "elections",
+  "requested_url": "https://www.co.brooks.tx.us/page/brooks.Elections",
+  "final_url": "https://www.co.brooks.tx.us/page/brooks.Elections",
+  "redirect_chain": [
+    "https://www.co.brooks.tx.us/page/brooks.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "af8d855a8430e0d718bf40add1e12eaea165f453b36f88f254fd89dfb372bbd5",
+  "text_sha256": "aaa5fb3d5f3a9e08065f6f81507854daeeacbca817fda5b6d85bd84828aac9a8",
+  "byte_size": 541805,
+  "title": "Brooks County, Texas",
+  "error": null
+}

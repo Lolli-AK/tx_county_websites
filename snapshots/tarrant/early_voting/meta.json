@@ -1,0 +1,19 @@
+{
+  "county": "Tarrant",
+  "page_type": "early_voting",
+  "requested_url": "https://www.tarrantcountytx.gov/en/elections/current-election-information.html",
+  "final_url": "https://www.tarrantcountytx.gov/en/elections/current-election-information.html",
+  "redirect_chain": [
+    "https://www.tarrantcountytx.gov/en/elections/current-election-information.html"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "005c8d74a6c25776016651d8d6f0bd7ee87ef86e2563401d5cc9b183c441fb52",
+  "text_sha256": "f8953cdb49133df93a7d2bc0cc483f5374c3acf7ab197fd00f4342c5770aeff8",
+  "byte_size": 200788,
+  "title": "Current Election Information",
+  "error": null
+}

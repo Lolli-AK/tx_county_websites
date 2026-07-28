@@ -1,0 +1,19 @@
+{
+  "county": "Edwards",
+  "page_type": "polling",
+  "requested_url": "https://www.co.edwards.tx.us/page/Elections.Past",
+  "final_url": "https://www.co.edwards.tx.us/page/Elections.Past",
+  "redirect_chain": [
+    "https://www.co.edwards.tx.us/page/Elections.Past"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "1e9e96c121fce38d1092327d57ecfa0190dff80548da9e1bd62f5f92999f2054",
+  "text_sha256": "ce2a9a24562ccf5af3562d7ed85b333fd4ca2321774c4a64baeb23cb08648eb8",
+  "byte_size": 69529,
+  "title": "Past Elections | Edwards County, Texas",
+  "error": null
+}

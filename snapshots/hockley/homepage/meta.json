@@ -1,0 +1,19 @@
+{
+  "county": "Hockley",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.hockley.tx.us/",
+  "final_url": "https://www.co.hockley.tx.us/",
+  "redirect_chain": [
+    "https://www.co.hockley.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "0d0f2b34a988bbe8519ff6c76dab8cf29a8784325df2d1a80273798dff414b8d",
+  "text_sha256": "818c07089467f37d819579aecf3a4d97af4d02ed14e77d5ef96be5e2d8b5117d",
+  "byte_size": 52267,
+  "title": "Hockley County Texas",
+  "error": null
+}

@@ -1,0 +1,20 @@
+{
+  "county": "El Paso",
+  "page_type": "polling",
+  "requested_url": "https://epcountyvotes.com/voter-information/election-day-vote-centers",
+  "final_url": "https://epcountyvotestx.gov/voter-information/election-day-vote-centers",
+  "redirect_chain": [
+    "https://epcountyvotes.com/voter-information/election-day-vote-centers",
+    "https://epcountyvotestx.gov/voter-information/election-day-vote-centers"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "227af6564a1253b4b92b851a5f8437d73320dbcaa472097dbad59e945cce78fe",
+  "text_sha256": "ebe0161ec1c4cb5494d1e6a4874f9a7c274ff3171c3cbfd9f177143b461a9cd7",
+  "byte_size": 20362,
+  "title": "Election Day Vote Centers - El Paso County, TX Elections | El Paso County Elections Department",
+  "error": null
+}

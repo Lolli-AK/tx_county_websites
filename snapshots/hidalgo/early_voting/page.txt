@@ -1,0 +1,9 @@
+EV LOCATIONS
+Open information panel
+Search to learn more about a location and its surrounding area.
+Use one of the following search methods:
+Click the search box and type in an address or choose
+Use current location
+Click within the map
+Results will include information about features of interest.
+Search this extent

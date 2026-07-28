@@ -1,0 +1,19 @@
+{
+  "county": "Kenedy",
+  "page_type": "results",
+  "requested_url": "https://kenedycountyelections.com/results/",
+  "final_url": "https://kenedycountyelections.com/results/",
+  "redirect_chain": [
+    "https://kenedycountyelections.com/results/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "8d1b60a5e9cac80d31edee211c2ffb73fbe5981045721c79698e3c2b332778ad",
+  "text_sha256": "c5575741fee705a0cb5a35cbe40afcbc1948d52fca78deccb8fa4db301297414",
+  "byte_size": 41222,
+  "title": "Results – Kenedy County",
+  "error": null
+}

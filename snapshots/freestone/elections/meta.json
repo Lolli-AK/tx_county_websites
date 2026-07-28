@@ -1,0 +1,19 @@
+{
+  "county": "Freestone",
+  "page_type": "elections",
+  "requested_url": "https://www.co.freestone.tx.us/page/Freestone.Elections",
+  "final_url": "https://www.co.freestone.tx.us/page/Freestone.Elections",
+  "redirect_chain": [
+    "https://www.co.freestone.tx.us/page/Freestone.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "f8b0bf2fbf713bf489c7c5b860a259f5388fb4ac5320b1bd85d4fd3eeab798a8",
+  "text_sha256": "b31b81b762bdbc25c28880ed5da133fca15e8caf10fe6cf63cbd2006b5dfb1e0",
+  "byte_size": 300456,
+  "title": "MAY 28, 2024 REPUBLICAN PRIMARY RUNOFF DISTRICT 10",
+  "error": null
+}

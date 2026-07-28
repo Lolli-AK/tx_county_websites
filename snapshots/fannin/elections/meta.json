@@ -1,0 +1,19 @@
+{
+  "county": "Fannin",
+  "page_type": "elections",
+  "requested_url": "https://www.co.fannin.tx.us/page/fannin.Elections",
+  "final_url": "https://www.co.fannin.tx.us/page/fannin.Elections",
+  "redirect_chain": [
+    "https://www.co.fannin.tx.us/page/fannin.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "00195e5aff4b55d3ea618040ce6e756ce2209314b544d032844253ccfa090975",
+  "text_sha256": "2bee1527c23520df8b6b800522e2ac67908ca151e96bd2c23bdf27f3ff1400fa",
+  "byte_size": 235603,
+  "title": "2025 Elections",
+  "error": null
+}

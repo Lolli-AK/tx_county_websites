@@ -1,0 +1,19 @@
+{
+  "county": "Falls",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.falls.tx.us/",
+  "final_url": "https://www.co.falls.tx.us/",
+  "redirect_chain": [
+    "https://www.co.falls.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "98d9c523d410602dd9c9fe7e9ca12c1e68726fd6e2b99ea9635586568f38b264",
+  "text_sha256": "be4f65c17b055ef08ca0863e5b72a097dcd52a71943d2f7235bdd8b50fdc7d93",
+  "byte_size": 60384,
+  "title": "Falls County, Texas",
+  "error": null
+}

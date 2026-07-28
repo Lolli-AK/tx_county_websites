@@ -1,0 +1,19 @@
+{
+  "county": "DeWitt",
+  "page_type": "results",
+  "requested_url": "https://www.co.dewitt.tx.us/page/dewitt.BidNotices",
+  "final_url": "https://www.co.dewitt.tx.us/page/dewitt.BidNotices",
+  "redirect_chain": [
+    "https://www.co.dewitt.tx.us/page/dewitt.BidNotices"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "a956b69a0f263e52c155b0202e4a7715e9bba9d9459d8063de6060b26b42ef55",
+  "text_sha256": "69ab85d79df4624cc7b16ffad9d009a69a194e300f0afd7319386976e5fea392",
+  "byte_size": 36392,
+  "title": "DeWitt County, Texas",
+  "error": null
+}

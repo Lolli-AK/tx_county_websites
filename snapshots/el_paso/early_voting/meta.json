@@ -1,0 +1,20 @@
+{
+  "county": "El Paso",
+  "page_type": "early_voting",
+  "requested_url": "https://epcountyvotes.com/voter-information/early-voting-locations",
+  "final_url": "https://epcountyvotestx.gov/voter-information/early-voting-locations",
+  "redirect_chain": [
+    "https://epcountyvotes.com/voter-information/early-voting-locations",
+    "https://epcountyvotestx.gov/voter-information/early-voting-locations"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "146dc0e1a614978c787ec700b1a7506958e19b44858f162d71409f04d5d9b3af",
+  "text_sha256": "a41adad1091e7199cf4a0a779075464dd5586809dfe13b1b10b0d4a72ed3dfe6",
+  "byte_size": 20373,
+  "title": "Early Voting Locations - El Paso County, TX Elections | El Paso County Elections Department",
+  "error": null
+}

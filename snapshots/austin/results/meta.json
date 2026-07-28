@@ -1,0 +1,19 @@
+{
+  "county": "Austin",
+  "page_type": "results",
+  "requested_url": "https://newtools.cira.state.tx.us/page/austin.ArchivedElectionResults",
+  "final_url": "https://newtools.cira.state.tx.us/page/austin.ArchivedElectionResults",
+  "redirect_chain": [
+    "https://newtools.cira.state.tx.us/page/austin.ArchivedElectionResults"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "798249f45238f11245c5572c60663807c08cba5d367a3aa0a351b36e5753d2db",
+  "text_sha256": "a912397a0a0ce3b105161b775e661559df85b3324b9417540cfbc0252d0766e8",
+  "byte_size": 44954,
+  "title": "Austin County, Texas",
+  "error": null
+}

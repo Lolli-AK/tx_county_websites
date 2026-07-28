@@ -1,0 +1,19 @@
+{
+  "county": "Ector",
+  "page_type": "homepage",
+  "requested_url": "https://www.ectorcountytx.gov/",
+  "final_url": "https://www.ectorcountytx.gov/",
+  "redirect_chain": [
+    "https://www.ectorcountytx.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "3f7121601dc26bd95f0073ab1fd35a87ef6752617a94a3ddb92247ad4a2c91cf",
+  "text_sha256": "abd4f7a537327ce213e48da3a0f942d8be1eceb1fb6acf0d58f9a4e3379a2682",
+  "byte_size": 66591,
+  "title": "Ector County, TX | Official Website",
+  "error": null
+}

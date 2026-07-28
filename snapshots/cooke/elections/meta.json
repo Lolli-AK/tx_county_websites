@@ -1,0 +1,19 @@
+{
+  "county": "Cooke",
+  "page_type": "elections",
+  "requested_url": "https://www.co.cooke.tx.us/page/cooke.Elections",
+  "final_url": "https://www.co.cooke.tx.us/page/cooke.Elections",
+  "redirect_chain": [
+    "https://www.co.cooke.tx.us/page/cooke.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "b13cc5c2c3a854d28221ced77a39083e3039a82c903fa93d0715bb14e25fb1d3",
+  "text_sha256": "974d502c4f39369387779d50e393e81a913af1fb01148b2e57b0ce89d8bc4d56",
+  "byte_size": 353167,
+  "title": "Cooke County, Texas",
+  "error": null
+}

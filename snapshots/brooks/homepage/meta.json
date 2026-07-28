@@ -1,0 +1,19 @@
+{
+  "county": "Brooks",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.brooks.tx.us/",
+  "final_url": "https://www.co.brooks.tx.us/",
+  "redirect_chain": [
+    "https://www.co.brooks.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "dec9debf85f6004c6e08cc4e6a764d2cb02b76f532d09003ca24146b4bb92bfe",
+  "text_sha256": "b1c8faf8fb4c3180d5df43882d18da77018189eff2b48ab1cb7223694a434d2b",
+  "byte_size": 50450,
+  "title": "Brooks County, Texas",
+  "error": null
+}

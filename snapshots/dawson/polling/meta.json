@@ -1,0 +1,19 @@
+{
+  "county": "Dawson",
+  "page_type": "polling",
+  "requested_url": "https://www.co.dawson.tx.us/page/dawson.Election.Information",
+  "final_url": "https://www.co.dawson.tx.us/page/dawson.Election.Information",
+  "redirect_chain": [
+    "https://www.co.dawson.tx.us/page/dawson.Election.Information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "cbddf994acdfd179efe2d0f212f1e19246bd497aabf2ff5bcdc35e49610f83c8",
+  "text_sha256": "44f2779fd53a1e49ca6536b8fae689ea6885e1110b40e0ce9f69af55af406909",
+  "byte_size": 133278,
+  "title": "Dawson County, Texas",
+  "error": null
+}

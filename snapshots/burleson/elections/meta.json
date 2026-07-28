@@ -1,0 +1,19 @@
+{
+  "county": "Burleson",
+  "page_type": "elections",
+  "requested_url": "https://www.burlesoncountytx.gov/page/gov.elections",
+  "final_url": "https://www.burlesoncountytx.gov/page/gov.elections",
+  "redirect_chain": [
+    "https://www.burlesoncountytx.gov/page/gov.elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "98856d942196ca2e28e6af87f4974c8ce16cfe316c0367c6f1073a11adafa62b",
+  "text_sha256": "a279ff08a4d4d525db010dfd1c1e4f54b3aeec7f71b951899e2fae98d5d1fe1c",
+  "byte_size": 49699,
+  "title": "Burleson County, Texas",
+  "error": null
+}

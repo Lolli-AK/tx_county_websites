@@ -1,0 +1,19 @@
+{
+  "county": "Caldwell",
+  "page_type": "polling",
+  "requested_url": "https://www.co.caldwell.tx.us/page/Elections.Current%20and%20Upcoming%20Elections",
+  "final_url": "https://www.co.caldwell.tx.us/page/Elections.Current%20and%20Upcoming%20Elections",
+  "redirect_chain": [
+    "https://www.co.caldwell.tx.us/page/Elections.Current%20and%20Upcoming%20Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "72b7a2fba5e5f84d45b1144fbcd898075bed4f10092a5a84a8fe46457746ef53",
+  "text_sha256": "68977f3fd711959ec20171819de23df445c680d67411ec8c60621f75ead700ef",
+  "byte_size": 726464,
+  "title": "Current and Upcoming Elections - Caldwell County, TX",
+  "error": null
+}

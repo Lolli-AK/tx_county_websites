@@ -1,0 +1,19 @@
+{
+  "county": "Grimes",
+  "page_type": "early_voting",
+  "requested_url": "https://grimescountytexas.gov/index.asp?SEC={C7508369-FC16-4DF1-871C-84EA22D98633}",
+  "final_url": "https://grimescountytexas.gov/index.asp?SEC={C7508369-FC16-4DF1-871C-84EA22D98633}",
+  "redirect_chain": [
+    "https://grimescountytexas.gov/index.asp?SEC={C7508369-FC16-4DF1-871C-84EA22D98633}"
+  ],
+  "http_status": 200,
+  "content_type": "text/html",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "5929e5e0fc688e33aa3852559d08db17998a6a4bdc44b637a26b156ac30ef242",
+  "text_sha256": "3c1f4a7c0b7dd3ec4eb1bb638750c9d95278256ae2d60f2567ad9fd2b929cdfa",
+  "byte_size": 68387,
+  "title": "Primary Election Early Voting Rosters - Grimes County, TX",
+  "error": null
+}

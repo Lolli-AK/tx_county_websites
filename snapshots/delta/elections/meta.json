@@ -1,0 +1,19 @@
+{
+  "county": "Delta",
+  "page_type": "elections",
+  "requested_url": "https://www.deltacountytx.com/elections",
+  "final_url": "https://www.deltacountytx.com/elections",
+  "redirect_chain": [
+    "https://www.deltacountytx.com/elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
+  "external": false,
+  "fetched_at": "2026-07-28T20:21:09Z",
+  "html_sha256": "2d32d70b1009de882b4fe6dc1d27b141106a35e055a377a2d615796f7dd89163",
+  "text_sha256": "1f220428685294a20e580e1344ed30992e86619f09fe6d957083b16ea871858c",
+  "byte_size": 103869,
+  "title": "Elections | Delta County, TX",
+  "error": null
+}

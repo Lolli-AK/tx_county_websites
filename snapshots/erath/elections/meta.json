@@ -1,0 +1,19 @@
+{
+  "county": "Erath",
+  "page_type": "elections",
+  "requested_url": "https://www.co.erath.tx.us/184/Elections-Administration",
+  "final_url": "https://www.co.erath.tx.us/184/Elections-Administration",
+  "redirect_chain": [
+    "https://www.co.erath.tx.us/184/Elections-Administration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "86d71f7a5700988a3acc367f7dd5e9a0d1efd677cbd95f4b7850bfbbeb795426",
+  "text_sha256": "145eed9475f3655ec7a794c713cab24cecc06cb217295c2824067ec219bc6c05",
+  "byte_size": 53833,
+  "title": "Elections Administration | Erath County, TX",
+  "error": null
+}

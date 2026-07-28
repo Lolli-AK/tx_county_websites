@@ -1,0 +1,19 @@
+{
+  "county": "Webb",
+  "page_type": "elections",
+  "requested_url": "https://www.webbcountytx.gov/electionsadministration/",
+  "final_url": "https://www.webbcountytx.gov/electionsadministration/",
+  "redirect_chain": [
+    "https://www.webbcountytx.gov/electionsadministration/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "b05f76813bbc03addaa38eb93a3394798998880f89136a4990bdd8fa0afb0e48",
+  "text_sha256": "1f1182003b092f1d0330c68b1aecf08ebdcee47b564c69145f755c5aa610884b",
+  "byte_size": 33562,
+  "title": "Elections",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Glasscock",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.glasscock.tx.us/",
+  "final_url": "https://www.co.glasscock.tx.us/",
+  "redirect_chain": [
+    "https://www.co.glasscock.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "5ce2fc322d35248af925f9dff5225b081101062570f3caf722e2c3b5dad95e3e",
+  "text_sha256": "3c59c28ab668d677dbedfcdace7454e88cbca96613ea94683a07b630f037964a",
+  "byte_size": 22464,
+  "title": "Home Page - Glasscock County",
+  "error": null
+}

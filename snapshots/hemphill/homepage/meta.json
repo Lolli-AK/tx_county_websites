@@ -1,0 +1,19 @@
+{
+  "county": "Hemphill",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.hemphill.tx.us/",
+  "final_url": "https://www.co.hemphill.tx.us/",
+  "redirect_chain": [
+    "https://www.co.hemphill.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "43efe900c85f358f7e22a696f4974f7d784fcdda9b7e1449e65804bbf6efd372",
+  "text_sha256": "1a3b5011c97a1895fbdfd3ddf25ab5ee54f1b2d403dea420d3bda7a3770c2dc5",
+  "byte_size": 25725,
+  "title": "Hemphill County, Texas",
+  "error": null
+}

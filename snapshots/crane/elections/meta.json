@@ -1,0 +1,19 @@
+{
+  "county": "Crane",
+  "page_type": "elections",
+  "requested_url": "https://www.co.crane.tx.us/page/crane.Elections",
+  "final_url": "https://www.co.crane.tx.us/page/crane.Elections",
+  "redirect_chain": [
+    "https://www.co.crane.tx.us/page/crane.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "1c7c09d30a6cec36817440050e1ff589c54ce57419ef29842632454689639e85",
+  "text_sha256": "c2d444a3f727afc3a1a2d8bd4f20e6b6452c70b3d0ee16a7e9e35575dcc40144",
+  "byte_size": 137083,
+  "title": "Crane County, Texas",
+  "error": null
+}

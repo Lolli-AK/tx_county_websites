@@ -1,0 +1,20 @@
+{
+  "county": "El Paso",
+  "page_type": "elections",
+  "requested_url": "https://epcountyvotes.com/",
+  "final_url": "https://epcountyvotestx.gov/",
+  "redirect_chain": [
+    "https://epcountyvotes.com/",
+    "https://epcountyvotestx.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "ef5790e8f64f6f77aa7fac9ad8ad9f645fd6b5b75bb892410cd213ca7cc325cd",
+  "text_sha256": "99f0e4a285e3b49a1d04082d9d1d8b0a90c969357707900e74ee553b8a3fee90",
+  "byte_size": 35996,
+  "title": "El Paso County, TX Elections | El Paso County Elections Department",
+  "error": null
+}

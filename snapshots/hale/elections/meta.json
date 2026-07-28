@@ -1,0 +1,19 @@
+{
+  "county": "Hale",
+  "page_type": "elections",
+  "requested_url": "https://www.halecounty.org/county_offices/county_clerk.php",
+  "final_url": "https://www.halecounty.org/county_offices/county_clerk.php",
+  "redirect_chain": [
+    "https://www.halecounty.org/county_offices/county_clerk.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "a7dec6f22b081d7160ffc9f97e583a2113ee98b0b8bbc08611bdf676bee89d81",
+  "text_sha256": "cfa6e5fcab0a01772c79f51796a7e7db4dadc57b9ae5483c108361c2497f253c",
+  "byte_size": 31070,
+  "title": "Welcome to Hale County, TX",
+  "error": null
+}

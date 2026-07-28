@@ -1,0 +1,19 @@
+{
+  "county": "Fort Bend",
+  "page_type": "homepage",
+  "requested_url": "https://www.fortbendcountytx.gov/",
+  "final_url": "https://www.fortbendcountytx.gov/",
+  "redirect_chain": [
+    "https://www.fortbendcountytx.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "839aca263fb7e492c8d21786eaee8b7c1174fc5d5e4364266cc3fcbbeca85e5e",
+  "text_sha256": "ab975717ff24b17380e7180f72d955b3ea4bae9f040a2f880e012d98bd0a25fb",
+  "byte_size": 171653,
+  "title": "Welcome to Fort Bend County | Fort Bend County",
+  "error": null
+}

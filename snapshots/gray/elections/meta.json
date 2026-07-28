@@ -1,0 +1,19 @@
+{
+  "county": "Gray",
+  "page_type": "elections",
+  "requested_url": "https://www.co.gray.tx.us/page/gray.Elections",
+  "final_url": "https://www.co.gray.tx.us/page/gray.Elections",
+  "redirect_chain": [
+    "https://www.co.gray.tx.us/page/gray.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "37275f5c40ab2e47f114a9052f9cedde8b21c3f3b3c4b6718fe846fb3c9d7370",
+  "text_sha256": "15493899d73fdfa8930a8a234566444578b4524244800a4c86b3bd4e1b057362",
+  "byte_size": 77489,
+  "title": "Elections - Gray County",
+  "error": null
+}

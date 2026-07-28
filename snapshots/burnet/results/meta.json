@@ -1,0 +1,19 @@
+{
+  "county": "Burnet",
+  "page_type": "results",
+  "requested_url": "https://burnetcountyelections.com/election-results-2/",
+  "final_url": "https://burnetcountyelections.com/election-results-2/",
+  "redirect_chain": [
+    "https://burnetcountyelections.com/election-results-2/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "d0462a34356be40be7ffb904b33f644bc67a41fd9d40bce1fbd5caef94a31193",
+  "text_sha256": "294c219baa3303284af9a65a1d7ebacef55f1abb0e4503ce8c4ad2e879737a5f",
+  "byte_size": 48262,
+  "title": "Election Results - Burnet County Elections",
+  "error": null
+}

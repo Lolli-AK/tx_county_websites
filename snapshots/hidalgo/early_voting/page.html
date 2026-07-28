@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width" name="viewport"/>
+  <link href="../assets/instant-apps-favicon.svg" rel="icon"/>
+  <meta content="Astro v5.18.1" name="generator"/>
+  <title>
+   EV LOCATIONS
+  </title>
+  <link href="https://js.arcgis.com/5.1/esri/themes/light/main.css" id="coreAPILight" rel="stylesheet"/>
+  <meta content="#644b88" name="theme-color"/>
+  <meta content="Nearby Instant App" name="description"/>
+  <meta content="Nearby" name="application-name"/>
+  <link href="/apps/instant/_astro/index.CVR53Eho.css" rel="stylesheet"/>
+  <link href="/apps/instant/_astro/signal.RH1Gt5XA.css" rel="stylesheet"/>
+  <link href="/apps/instant/_astro/runtime.CQICVDmO.css" rel="stylesheet"/>
+  <link href="/apps/instant/_astro/index.BKSnW6-Z.css" rel="stylesheet"/>
+ </head>
+ <body class="calcite-mode-light" data-set-should-define-map-elements="true">
+  <astro-island client="only" component-export="default" component-url="/apps/instant/_astro/index.Baeez0gW.js" opts='{"name":"ReactESM","value":"react"}' props="{}" renderer-url="/apps/instant/_astro/client.DbrgGibI.js" uid="1df4Co">
+   <calcite-shell calcite-hydrated="" content-behind="">
+    <instant-apps-header background-color="var(--nearby-header-background, var(--header-background, var(--calcite-color-foreground-1)))" font-family="Avenir Next" header-alignment="left" hydrated="" logo-image="" logo-image-alt-text="" logo-link="" logo-scale="m" slot="header" text-color="var(--nearby-header-text, var(--header-color))" theme="light" title-text="EV LOCATIONS" title-text-link="">
+     <instant-apps-social-share display-tip-text="" hydrated="" iframe-inner-text="" inline-success-popover-placement="trailing" mode="popover" popover-button-icon-scale="s" popover-positioning="absolute" scale="s" share-button-color="neutral" share-button-scale="s" share-button-type="button" share-icons-layout="vertical" share-text="" shorten-share-url="" slot="actions-end" social-media="" success-message="" use-native-share="">
+     </instant-apps-social-share>
+    </instant-apps-header>
+    <calcite-shell-panel calcite-hydrated="" class="search-panel__shell" display-mode="float-content" layout="vertical" position="start" slot="panel-start" width="m" width-scale="m">
+     <div class="search-panel__header">
+      <div class="search-panel__main">
+       <arcgis-search class="search-panel__search" hydrated="">
+       </arcgis-search>
+       <span aria-describedby="" id="info-button-tooltip-ref">
+        <calcite-tooltip aria-live="polite" calcite-hydrated="" close-on-click="" inert="" offset-distance="6" offset-skidding="0" overlay-positioning="absolute" placement="auto" role="tooltip" scale="m">
+         Open information panel
+        </calcite-tooltip>
+        <calcite-button alignment="center" appearance="transparent" calcite-hydrated="" class="search-panel__action" icon-start="lightbulb" id="info-button" kind="neutral" scale="m" split-child="false" type="button" width="auto">
+        </calcite-button>
+       </span>
+      </div>
+     </div>
+     <div class="search-panel__body">
+      <div class="search-panel__panel-manager">
+       <calcite-panel calcite-hydrated="" class="info-panel" menu-placement="bottom-end" overlay-positioning="absolute" scale="m">
+        <div class="info-panel__content">
+         Search to learn more about a location and its surrounding area.
+         <br/>
+         Use one of the following search methods:
+         <ul>
+          <li>
+           Click the search box and type in an address or choose
+           <b>
+            Use current location
+           </b>
+          </li>
+          <li>
+           Click within the map
+           <div>
+           </div>
+          </li>
+         </ul>
+         <br/>
+         Results will include information about features of interest.
+        </div>
+       </calcite-panel>
+       <div class="search-panel__results-panel results-panel--hidden">
+        <div class="results-panel-container">
+         <div class="results-panel__directions-overlay">
+         </div>
+         <calcite-block calcite-hydrated="" class="results-panel" expanded="" icon-start="table" menu-placement="bottom-end" open="" overlay-positioning="absolute" scale="m">
+          <div class="results-panel__scrollable">
+          </div>
+         </calcite-block>
+        </div>
+       </div>
+      </div>
+     </div>
+    </calcite-shell-panel>
+    <arcgis-map class="panel-size-m panel-side-leading" hydrated="" id="nearbyMap" item-id="254297084fba4ff3a3ec2f035cb6e178">
+     <arcgis-popup hydrated="" slot="popup">
+     </arcgis-popup>
+     <div class="selection-toolbar" slot="top-left">
+      <div class="selection-toolbar__buttons">
+       <calcite-button alignment="center" appearance="solid" calcite-hydrated="" class="map__search-extent-btn" icon-start="extent" kind="brand" round="" scale="m" split-child="false" type="button" width="auto">
+        Search this extent
+       </calcite-button>
+      </div>
+     </div>
+     <div class="map-toolbar-custom vertical" data-layout="vertical" slot="top-right">
+      <calcite-action-bar calcite-hydrated="" expand-disabled="" expand-position="end" floating="" layout="vertical" overlay-positioning="absolute" scale="m" selection-appearance="neutral">
+       <span class="action-bar-item" id="action-bar-item-0">
+        <arcgis-home hydrated="" slot="top-right">
+        </arcgis-home>
+       </span>
+       <span class="action-bar-item" id="action-bar-item-1">
+        <arcgis-zoom hydrated="" layout="vertical" slot="top-right">
+        </arcgis-zoom>
+       </span>
+      </calcite-action-bar>
+     </div>
+    </arcgis-map>
+   </calcite-shell>
+  </astro-island>
+  <instant-apps-app-error hydrated="">
+  </instant-apps-app-error>
+ </body>
+</html>

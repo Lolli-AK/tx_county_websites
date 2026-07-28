@@ -1,0 +1,19 @@
+{
+  "county": "Erath",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.erath.tx.us/",
+  "final_url": "https://www.co.erath.tx.us/",
+  "redirect_chain": [
+    "https://www.co.erath.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "dbd39db03c73b1f8e331c78e36bf2227e2ca16ae1cf9a297031544e923342d3b",
+  "text_sha256": "bff3c2a413558dca4f4d8d2cf2dcaa9befa71d3d8987f4b120f929388faf84a1",
+  "byte_size": 62056,
+  "title": "Erath County, TX | Official Website",
+  "error": null
+}

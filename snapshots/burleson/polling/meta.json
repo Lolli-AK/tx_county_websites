@@ -1,0 +1,19 @@
+{
+  "county": "Burleson",
+  "page_type": "polling",
+  "requested_url": "https://www.burlesoncountytx.gov/page/gov.polling.locations",
+  "final_url": "https://www.burlesoncountytx.gov/page/gov.polling.locations",
+  "redirect_chain": [
+    "https://www.burlesoncountytx.gov/page/gov.polling.locations"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "a9651b2301fa5dbfe898dd5131aeb8036700017c52eb97d6d4d663b5be8edaab",
+  "text_sha256": "b50372763cbf8147355811cb85ce3dd6abc1da3e9f7ef29671f4d705ec436c7b",
+  "byte_size": 61107,
+  "title": "Burleson County, Texas",
+  "error": null
+}

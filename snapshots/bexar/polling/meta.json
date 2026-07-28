@@ -1,0 +1,19 @@
+{
+  "county": "Bexar",
+  "page_type": "polling",
+  "requested_url": "https://www.bexar.org/3184/Election-Day-Vote-Information",
+  "final_url": "https://www.bexar.org/3184/Election-Day-Vote-Information",
+  "redirect_chain": [
+    "https://www.bexar.org/3184/Election-Day-Vote-Information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "78d971c89913526d28dfaf29b7bd935a013cc5ba6288dd7ec46e1ba03ca7d242",
+  "text_sha256": "2cadbaf1f2f93f9df9d2ece8d8f4235f692765648d9a9c87c774359d1b9958a9",
+  "byte_size": 79150,
+  "title": "Election Day Vote Information | Bexar County, TX - Official Website",
+  "error": null
+}

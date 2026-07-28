@@ -1,0 +1,20 @@
+{
+  "county": "Bell",
+  "page_type": "elections",
+  "requested_url": "https://www.bellcountytx.com/departments/elections",
+  "final_url": "https://www.bellcountytx.com/departments/elections/",
+  "redirect_chain": [
+    "https://www.bellcountytx.com/departments/elections",
+    "https://www.bellcountytx.com/departments/elections/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "ed8fcee4973cf39a3d9d92a0f43c1fe2463c2216653c9d22b7a68860fd61b361",
+  "text_sha256": "b730ccb7e55db430381d2776448a2475e1b8c9e98090c50f0be90ab5d8b11f6b",
+  "byte_size": 90101,
+  "title": "Office of Elections Administration",
+  "error": null
+}

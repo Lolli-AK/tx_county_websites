@@ -1,0 +1,19 @@
+{
+  "county": "Duval",
+  "page_type": "elections",
+  "requested_url": "https://www.co.duval.tx.us/page/duval.Elections",
+  "final_url": "https://www.co.duval.tx.us/page/duval.Elections",
+  "redirect_chain": [
+    "https://www.co.duval.tx.us/page/duval.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "d3c24fe44ff0ccbf79e91e1df962d3211e1385efa0e35b060883acccecd103ef",
+  "text_sha256": "c15467fb3adae51b7cfbd332df01aa5b03c5c865c906fc744f28e461927b6d4c",
+  "byte_size": 35568,
+  "title": "Duval County, Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Collin",
+  "page_type": "homepage",
+  "requested_url": "https://www.collincountytx.gov/",
+  "final_url": "https://www.collincountytx.gov/",
+  "redirect_chain": [
+    "https://www.collincountytx.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "9cd151122a3575d8de1bac695a1f46e7987bc86e2650767303c990a89fa8ab7d",
+  "text_sha256": "6dbed9f845cdd59f309847761e0839fd1064a69a8d10bcc74373585e5c3483ce",
+  "byte_size": 22994,
+  "title": "Collin County Government",
+  "error": null
+}

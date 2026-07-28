@@ -1,0 +1,19 @@
+{
+  "county": "Kenedy",
+  "page_type": "early_voting",
+  "requested_url": "https://kenedycountyelections.com/current-election/",
+  "final_url": "https://kenedycountyelections.com/current-election/",
+  "redirect_chain": [
+    "https://kenedycountyelections.com/current-election/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "3ca9b11fa766071285ac0addaba146e51a3cd85619bbdd20bbc9ceed8a9c604d",
+  "text_sha256": "bc51fdc499d4f523a7c3d2b986a90d7ff8245f0a5331273883d2b648c636854a",
+  "byte_size": 142045,
+  "title": "Current Election – Kenedy County",
+  "error": null
+}

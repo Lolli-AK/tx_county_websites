@@ -1,0 +1,21 @@
+{
+  "county": "Bexar",
+  "page_type": "elections",
+  "requested_url": "https://www.bexar.org/elections",
+  "final_url": "https://www.bexar.org/1568/Elections-Department",
+  "redirect_chain": [
+    "https://www.bexar.org/elections",
+    "https://www.bexar.org/1568",
+    "https://www.bexar.org/1568/Elections-Department"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "e2ba255af8fc5d98397e57ba3ae7df2f10c11afef35396cdef1bfae3970614a0",
+  "text_sha256": "606f0232282b28157a9c26bc0efa1b9d613b2b126381b07503a742e53fb92c19",
+  "byte_size": 105221,
+  "title": "Bexar County Elections Department | Bexar County, TX - Official Website",
+  "error": null
+}

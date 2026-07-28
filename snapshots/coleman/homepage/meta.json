@@ -1,0 +1,19 @@
+{
+  "county": "Coleman",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.coleman.tx.us/",
+  "final_url": "https://www.co.coleman.tx.us/",
+  "redirect_chain": [
+    "https://www.co.coleman.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "4a1071bb1543a00ddde657fcce91217bd7fb4cb325c271f5037b6b96e0782a14",
+  "text_sha256": "a5490d82fa511bc0d5c77a8efe7ac6b45690da4976ad5d2a0a86762d70d08ee3",
+  "byte_size": 47618,
+  "title": "Coleman County Government",
+  "error": null
+}

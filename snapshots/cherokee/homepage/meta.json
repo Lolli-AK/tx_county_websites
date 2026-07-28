@@ -1,0 +1,19 @@
+{
+  "county": "Cherokee",
+  "page_type": "homepage",
+  "requested_url": "http://www.co.cherokee.tx.us/ips/cms/index.html",
+  "final_url": "http://www.co.cherokee.tx.us/ips/cms/index.html",
+  "redirect_chain": [
+    "http://www.co.cherokee.tx.us/ips/cms/index.html"
+  ],
+  "http_status": 200,
+  "content_type": "text/html",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "293689bf14eb306302c16b61911c233a442e6c978bdaa6bac00eb51c16b29aa2",
+  "text_sha256": "eb1ca2f577400fb788f3f2cb42fb827a3d8958a07a0ea3aef8bc40aa0ed46311",
+  "byte_size": 17213,
+  "title": "Cherokee County, Texas",
+  "error": null
+}

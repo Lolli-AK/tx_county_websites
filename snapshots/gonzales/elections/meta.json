@@ -1,0 +1,19 @@
+{
+  "county": "Gonzales",
+  "page_type": "elections",
+  "requested_url": "https://www.co.gonzales.tx.us/page/gonzales.Elections.Admin",
+  "final_url": "https://www.co.gonzales.tx.us/page/gonzales.Elections.Admin",
+  "redirect_chain": [
+    "https://www.co.gonzales.tx.us/page/gonzales.Elections.Admin"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "dd3ce0662c73f8bfb9e70fc03981533ecab76ecaf402aa4439f6bf73e1f2b526",
+  "text_sha256": "4dfe71f6d657448d6ae876e0832eec1b3633eb19c0ca156f4fda686a42e0fad7",
+  "byte_size": 169754,
+  "title": "Elections Administrator",
+  "error": null
+}

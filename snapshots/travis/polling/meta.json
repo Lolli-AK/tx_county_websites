@@ -1,0 +1,19 @@
+{
+  "county": "Travis",
+  "page_type": "polling",
+  "requested_url": "https://votetravis.gov/current-election-information/current-election/",
+  "final_url": "https://votetravis.gov/current-election-information/current-election/",
+  "redirect_chain": [
+    "https://votetravis.gov/current-election-information/current-election/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "6a1d64ca8a579336de3f04470a709876d491eedeef5ad3e275572d21a7ecc082",
+  "text_sha256": "ce1f23a88432c25e7fc309a2125a85579cb04f3fe3538b15abd1f4f9f8527979",
+  "byte_size": 88634,
+  "title": "Current Election – Travis County Clerk",
+  "error": null
+}

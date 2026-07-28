@@ -1,0 +1,19 @@
+{
+  "county": "Lubbock",
+  "page_type": "elections",
+  "requested_url": "https://votelubbock.gov/",
+  "final_url": "https://votelubbock.gov/",
+  "redirect_chain": [
+    "https://votelubbock.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "e0f0f93564bc74c2bfe7a35360a867e876e51bc0d97da7bd81ebf2a9574234ea",
+  "text_sha256": "11c637e0b334c1a77ef98bd4d76192d25654c7759c85bdd91fbcd14615ac083e",
+  "byte_size": 36578,
+  "title": "Lubbock County, TX Elections",
+  "error": null
+}

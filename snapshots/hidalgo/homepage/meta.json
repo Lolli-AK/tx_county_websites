@@ -1,0 +1,19 @@
+{
+  "county": "Hidalgo",
+  "page_type": "homepage",
+  "requested_url": "https://www.hidalgocounty.us/",
+  "final_url": "https://www.hidalgocounty.us/",
+  "redirect_chain": [
+    "https://www.hidalgocounty.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "cb95a1c8724885f0bf1aa542c79503fcc00566f15dbc851c4828f870f7ca5bd1",
+  "text_sha256": "f440588601371616610dc5920347b1812095072fdffc46d98220ca85beed0ffd",
+  "byte_size": 67670,
+  "title": "Hidalgo County, TX - Official Website | Official Website",
+  "error": null
+}

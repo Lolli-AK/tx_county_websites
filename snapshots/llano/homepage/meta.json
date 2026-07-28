@@ -1,0 +1,20 @@
+{
+  "county": "Llano",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.llano.tx.us/",
+  "final_url": "https://www.llanocounty.gov",
+  "redirect_chain": [
+    "https://www.co.llano.tx.us/",
+    "https://www.llanocounty.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "252618738d7a2ef9042d848c2d55f094024a9118c12618c7dc6a9648089e4296",
+  "text_sha256": "b78dd2c38f8e758e293f41bcbb5504970a299b8eba3e17fe8dcc749494144468",
+  "byte_size": 50858,
+  "title": "Homepage | Llano County, Texas",
+  "error": null
+}

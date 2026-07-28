@@ -1,0 +1,19 @@
+{
+  "county": "Bastrop",
+  "page_type": "homepage",
+  "requested_url": "https://www.bastropcounty.gov/",
+  "final_url": "https://www.bastropcounty.gov/",
+  "redirect_chain": [
+    "https://www.bastropcounty.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "8b6fa06f0d4d1ea3742aa8d7bc1fcf4da95de2ea84356ee7c08b79f348f628ea",
+  "text_sha256": "95f9b6d03ccf94708b7c08c73e49a11d370b73d61f1150c8467c95cc0d15e21f",
+  "byte_size": 31577,
+  "title": "Home | Bastrop County",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Bastrop",
+  "page_type": "early_voting",
+  "requested_url": "https://www.bastropvotes.org/election-information-2/early-voting-information/",
+  "final_url": "https://www.bastropvotes.org/election-information-2/early-voting-information/",
+  "redirect_chain": [
+    "https://www.bastropvotes.org/election-information-2/early-voting-information/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "9d789f2a42bbbe96a4bd77eef0bf9dc625357ab8af227decc079b3a2b0f4a5b9",
+  "text_sha256": "0f92f382e953b748896429a1bf697bb471eecaee28619036ddccc75f8a76a46a",
+  "byte_size": 27242,
+  "title": "Early Voting Information - Bastrop County, TX Elections",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Brown",
+  "page_type": "homepage",
+  "requested_url": "https://www.browncountytx.gov/",
+  "final_url": "https://www.browncountytx.gov/",
+  "redirect_chain": [
+    "https://www.browncountytx.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "ca0ce1dc3034bff8992782f22b3a1e1ac394a2e8b0178cf7c9af053775af9879",
+  "text_sha256": "592fb47ef0088c8bd32948c2174a611ba0b067b604aeaaf4699c0001b55889a6",
+  "byte_size": 26701,
+  "title": "Home Page - Brown County",
+  "error": null
+}

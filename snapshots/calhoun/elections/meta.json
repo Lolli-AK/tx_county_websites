@@ -1,0 +1,19 @@
+{
+  "county": "Calhoun",
+  "page_type": "elections",
+  "requested_url": "https://www.calhouncotx.org/calhoun-county-elections/",
+  "final_url": "https://www.calhouncotx.org/calhoun-county-elections/",
+  "redirect_chain": [
+    "https://www.calhouncotx.org/calhoun-county-elections/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "632b5d21d6794271c8661b2fba7e2ed23e9f6e87ddf5efcce77314b0a5a53a74",
+  "text_sha256": "5f3a0a2925ce16af846eed929535c15f4b86be0d2d40487f77ec9f2ad6b8c06e",
+  "byte_size": 33898,
+  "title": "CALHOUN COUNTY ELECTIONS - Calhoun County Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Cochran",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.cochran.tx.us/",
+  "final_url": "https://www.co.cochran.tx.us/",
+  "redirect_chain": [
+    "https://www.co.cochran.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "f65092fa14e236a311c92ea9fb15f8ac78cd7d7b8776820085831489c793bf7a",
+  "text_sha256": "101817d7ae9702a535d433b81afee81e6d0ad608c9b4c05404a9d51410c54b31",
+  "byte_size": 27606,
+  "title": "Cochran County, Texas",
+  "error": null
+}

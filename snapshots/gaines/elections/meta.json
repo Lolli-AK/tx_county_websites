@@ -1,0 +1,19 @@
+{
+  "county": "Gaines",
+  "page_type": "elections",
+  "requested_url": "https://www.co.gaines.tx.us/page/gaines.elections.current",
+  "final_url": "https://www.co.gaines.tx.us/page/gaines.elections.current",
+  "redirect_chain": [
+    "https://www.co.gaines.tx.us/page/gaines.elections.current"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "abe22145cd0e786c1af4a6e793507f50ce4df54c4469d3777999ccf322e20284",
+  "text_sha256": "4487cb60f243ecdcb95b9e87dc8d801da5c2d7cc06ff115f87a1289c72ac2e22",
+  "byte_size": 121154,
+  "title": "Gaines County, Texas",
+  "error": null
+}

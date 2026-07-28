@@ -1,0 +1,19 @@
+{
+  "county": "Concho",
+  "page_type": "elections",
+  "requested_url": "https://www.co.concho.tx.us/page/concho.Elections",
+  "final_url": "https://www.co.concho.tx.us/page/concho.Elections",
+  "redirect_chain": [
+    "https://www.co.concho.tx.us/page/concho.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "42462e3d747630dbc724c8de91cac9a150841dff7d9b75458a74fd3ab4f5b43e",
+  "text_sha256": "37fc3b130eb9374e7c41543c9e17d2e7969493db88eb0752dd1bf6ab3c794f4c",
+  "byte_size": 85745,
+  "title": "Concho County, Texas",
+  "error": null
+}

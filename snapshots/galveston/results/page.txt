@@ -1,0 +1,41 @@
+List Elections
+Election List
+Election Night Reporting
+Filter by:
+ALL
+2026
+2025
+2024
+2026
+2026 Entity Runoff Election
+6/13/2026
+2026 Joint Primary Runoff
+5/26/2026
+2026 May Entity Election
+5/2/2026
+2026 Joint Primary Election
+3/3/2026
+2025
+2025 November Constitutional Election
+11/4/2025
+2025 City of La Marque Runoff
+6/7/2025
+2025 May Entity Election
+5/3/2025
+2024
+2024 November Election
+11/5/2024
+2024 City of Galveston Runoff
+6/15/2024
+2024 Primary Runoff Election
+5/28/2024
+2024 May Entity Election
+5/4/2024
+2024 Primary
+3/5/2024
+2024 League City Special Election Runoff
+2/17/2024
+2024 League City Special Election
+1/13/2024
+Copyright 2026 - SOE Software
+Powered by SOE Software

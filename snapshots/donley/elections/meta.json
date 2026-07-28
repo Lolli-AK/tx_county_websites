@@ -1,0 +1,19 @@
+{
+  "county": "Donley",
+  "page_type": "elections",
+  "requested_url": "https://www.co.donley.tx.us/page/donley.Elections",
+  "final_url": "https://www.co.donley.tx.us/page/donley.Elections",
+  "redirect_chain": [
+    "https://www.co.donley.tx.us/page/donley.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "b0e9987e2954c1f53cdf9a4356aa836d5a3908303ce64bdc1677b3363ba5ca35",
+  "text_sha256": "784434dc83eba7548fbc9f8e5785ac30eae92bf01863dc94c822d4c29883d059",
+  "byte_size": 58897,
+  "title": "Donley County, Texas",
+  "error": null
+}

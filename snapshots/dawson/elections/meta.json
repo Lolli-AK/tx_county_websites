@@ -1,0 +1,19 @@
+{
+  "county": "Dawson",
+  "page_type": "elections",
+  "requested_url": "https://www.co.dawson.tx.us/page/dawson.Voter.Registration",
+  "final_url": "https://www.co.dawson.tx.us/page/dawson.Voter.Registration",
+  "redirect_chain": [
+    "https://www.co.dawson.tx.us/page/dawson.Voter.Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "0d9726ffab01ad1f19221152363966b6d81256ea1d69b6d6c6e35dc4686631ca",
+  "text_sha256": "7c0623946d646c9ebe0e19325a5070b6163922435a3091bae13d8867bcabb6b3",
+  "byte_size": 24762,
+  "title": "Dawson County, Texas",
+  "error": null
+}

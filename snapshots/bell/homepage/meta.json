@@ -1,0 +1,19 @@
+{
+  "county": "Bell",
+  "page_type": "homepage",
+  "requested_url": "https://www.bellcountytx.com/",
+  "final_url": "https://www.bellcountytx.com/",
+  "redirect_chain": [
+    "https://www.bellcountytx.com/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "f87b4b3996e4da59d0c36d5ff0d434ccbc990328855751b0b94d7b24964ded46",
+  "text_sha256": "e19ead7a852247b60cfee643b0dcb149d5a6869c1f026bba8c1552db5e4edaa6",
+  "byte_size": 75381,
+  "title": "Bell County, Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Culberson",
+  "page_type": "elections",
+  "requested_url": "https://www.co.culberson.tx.us/page/Elections%202026",
+  "final_url": "https://www.co.culberson.tx.us/page/Elections%202026",
+  "redirect_chain": [
+    "https://www.co.culberson.tx.us/page/Elections%202026"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "edc456380c73523be0e4d74f17c0cf7cacfc986a4c8f66247ddc7e46fa38630c",
+  "text_sha256": "9c3ee0bc9729b7affa91bd8d63ebed161b3fb5ccd9cdab2a10e6a172ed514548",
+  "byte_size": 50795,
+  "title": "Culberson County, Texas",
+  "error": null
+}

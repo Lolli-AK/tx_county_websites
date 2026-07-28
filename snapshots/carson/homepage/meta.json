@@ -1,0 +1,19 @@
+{
+  "county": "Carson",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.carson.tx.us/",
+  "final_url": "https://www.co.carson.tx.us/",
+  "redirect_chain": [
+    "https://www.co.carson.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "b5c8afeb73bcb5357fb3ba7a135c504c37fec9ae611c9e16972e1abc1500c599",
+  "text_sha256": "46fd7e88211a243d7c9a25784a87dc68a929f62c2ea48bb3384e6ad721456363",
+  "byte_size": 22420,
+  "title": "Carson County, TX - Home",
+  "error": null
+}

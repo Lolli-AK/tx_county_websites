@@ -1,0 +1,19 @@
+{
+  "county": "Carson",
+  "page_type": "elections",
+  "requested_url": "https://www.co.carson.tx.us/page/carson.Elections",
+  "final_url": "https://www.co.carson.tx.us/page/carson.Elections",
+  "redirect_chain": [
+    "https://www.co.carson.tx.us/page/carson.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "ab8581a8b911cab06e6eafe4193f9b6cd091fa49f5a0fcc757fd99be5a62abd3",
+  "text_sha256": "f33f1d5cfb0ba8e29080ccb54de48f7c9acd59fc8972c6400d278e02a5b279b5",
+  "byte_size": 142955,
+  "title": "Carson County, TX - Elections",
+  "error": null
+}

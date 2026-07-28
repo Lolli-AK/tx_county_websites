@@ -1,0 +1,49 @@
+List Elections
+Election List
+Election Night Reporting
+Filter by:
+ALL
+2026
+2025
+2024
+2023
+2022
+2026
+2026 May Joint Primary Runoff Elections
+5/26/2026
+2026 May Joint General and Special Elections
+5/2/2026
+2026 March Joint Primary Elections
+3/3/2026
+2025
+2025 December Joint General and Special Runoff Elections
+12/13/2025
+2025 November Joint General and Special Elections
+11/4/2025
+2025 May Joint General and Special Elections
+5/3/2025
+2024
+2024 December Joint General Runoff Election
+12/14/2024
+2024 November Joint General and Special Elections
+11/5/2024
+2024 June Joint General and Special Runoff Elections
+6/15/2024
+2024 May Joint Primary Runoff Elections
+5/28/2024
+2024 May Joint General and Special Elections
+5/4/2024
+2024 March Joint Primary Elections
+3/5/2024
+2023
+2023 November General and Special Elections
+11/7/2023
+2023 May General Election
+5/6/2023
+2022
+2022 City of Austin Runoff Election
+12/13/2022
+2022 General Election
+11/8/2022
+Copyright 2026 - SOE Software
+Powered by SOE Software

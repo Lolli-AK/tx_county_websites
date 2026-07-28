@@ -1,0 +1,19 @@
+{
+  "county": "Hays",
+  "page_type": "elections",
+  "requested_url": "https://www.hayscountytx.gov/172/Elections",
+  "final_url": "https://www.hayscountytx.gov/172/Elections",
+  "redirect_chain": [
+    "https://www.hayscountytx.gov/172/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "2509ebd7fb17802467dca2e390feb64b566997064172b3536d9d25136dda65a5",
+  "text_sha256": "c7ab57f857d0ee296dfb7a73550403864db955619beb459ff305ba3eb3e3d0be",
+  "byte_size": 68964,
+  "title": "Elections | Hays County, TX",
+  "error": null
+}

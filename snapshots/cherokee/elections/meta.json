@@ -1,0 +1,19 @@
+{
+  "county": "Cherokee",
+  "page_type": "elections",
+  "requested_url": "http://www.co.cherokee.tx.us/ips/cms/othercountyoffices/elections.html",
+  "final_url": "http://www.co.cherokee.tx.us/ips/cms/othercountyoffices/elections.html",
+  "redirect_chain": [
+    "http://www.co.cherokee.tx.us/ips/cms/othercountyoffices/elections.html"
+  ],
+  "http_status": 200,
+  "content_type": "text/html",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "6c5b4225bbeb4519f8821137942d861c89dab22e5df4bcb5f244b5893fb4149d",
+  "text_sha256": "05e17ba7dc0b293b465cfb2f73c611bd6737c2b3b5b932dcf2d395f4f779c106",
+  "byte_size": 33094,
+  "title": "Cherokee County - Elections",
+  "error": null
+}

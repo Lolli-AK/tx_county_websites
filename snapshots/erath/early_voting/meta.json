@@ -1,0 +1,19 @@
+{
+  "county": "Erath",
+  "page_type": "early_voting",
+  "requested_url": "https://www.co.erath.tx.us/186/Current-Elections",
+  "final_url": "https://www.co.erath.tx.us/186/Current-Elections",
+  "redirect_chain": [
+    "https://www.co.erath.tx.us/186/Current-Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "6849d41d7eddfc9e8eda099791750cbd1bccbf52e2bfb47741c6f77b2f485f57",
+  "text_sha256": "4c8b47f78b31121f5bbea2c3ebcdfd658839b40fa52e2bfab74a644e34faefd3",
+  "byte_size": 100090,
+  "title": "Current Elections | Erath County, TX",
+  "error": null
+}

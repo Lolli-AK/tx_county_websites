@@ -1,0 +1,19 @@
+{
+  "county": "Franklin",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.franklin.tx.us/",
+  "final_url": "https://www.co.franklin.tx.us/",
+  "redirect_chain": [
+    "https://www.co.franklin.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "5be4e9714ebdb3a0c3b880894d720056dbf038d6fcdf0dffc9610f3aeb6aaf51",
+  "text_sha256": "2edf8ad59dc8a02862ed24a51ce410a8489c37e115e4ac9cc07ba72c7fddc4bf",
+  "byte_size": 31838,
+  "title": "Franklin County, Texas",
+  "error": null
+}

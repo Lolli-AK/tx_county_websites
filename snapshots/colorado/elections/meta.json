@@ -1,0 +1,19 @@
+{
+  "county": "Colorado",
+  "page_type": "elections",
+  "requested_url": "https://www.co.colorado.tx.us/page/colorado.Elections",
+  "final_url": "https://www.co.colorado.tx.us/page/colorado.Elections",
+  "redirect_chain": [
+    "https://www.co.colorado.tx.us/page/colorado.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "3724b441f62e8bc285b63576669fafc47f71e4516d5991dceeff575f501f477a",
+  "text_sha256": "0ce5b74456043854a65c1a77b77a0d5ae0cf037ec8da1c328294716d70071a31",
+  "byte_size": 234624,
+  "title": "Colorado County Elections Department",
+  "error": null
+}

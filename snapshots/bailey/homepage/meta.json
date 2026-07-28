@@ -1,0 +1,19 @@
+{
+  "county": "Bailey",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.bailey.tx.us/",
+  "final_url": "https://www.co.bailey.tx.us/",
+  "redirect_chain": [
+    "https://www.co.bailey.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "b43f5595a796e2ebfefbae52b6b1e1b125ecd518a79320c80f7f2b9f665fc89e",
+  "text_sha256": "561ba662c55378216987bf020fcd02464172c9e85bc8d7ba5bd22ef3c25875dd",
+  "byte_size": 23816,
+  "title": "Bailey County, Texas",
+  "error": null
+}

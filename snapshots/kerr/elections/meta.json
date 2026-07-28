@@ -1,0 +1,19 @@
+{
+  "county": "Kerr",
+  "page_type": "elections",
+  "requested_url": "https://kerrcountytx.gov/voting-in-kerr-county",
+  "final_url": "https://kerrcountytx.gov/voting-in-kerr-county",
+  "redirect_chain": [
+    "https://kerrcountytx.gov/voting-in-kerr-county"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "6803e1bfb8c7c17dc778afb2accc420ea98a36efd87db2549ded3dcf55041025",
+  "text_sha256": "60a1749dc4b9404ebe5e23bddef0178f0d89c9c4bc069b8d1f39b24a64d6787c",
+  "byte_size": 27588,
+  "title": "Voting in Kerr County | Welcome to Kerr County | Kerrville, TX",
+  "error": null
+}

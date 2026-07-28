@@ -1,0 +1,19 @@
+{
+  "county": "Dickens",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.dickens.tx.us/",
+  "final_url": "https://www.co.dickens.tx.us/",
+  "redirect_chain": [
+    "https://www.co.dickens.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "8d21eb885ca1cacf6bf47aafe09e4c5d2947bd01d21538d66ca5be08c28737f5",
+  "text_sha256": "2e1d92a3656ea0d0ee242f5a65b7ab650a8a2d1e7e299a2be7b49a415e2b0d22",
+  "byte_size": 27579,
+  "title": "Dickens County, Texas",
+  "error": null
+}

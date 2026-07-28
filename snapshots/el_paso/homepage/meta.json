@@ -1,0 +1,19 @@
+{
+  "county": "El Paso",
+  "page_type": "homepage",
+  "requested_url": "https://www.epcounty.com/",
+  "final_url": "https://www.epcounty.com/",
+  "redirect_chain": [
+    "https://www.epcounty.com/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "ebf496b586c7a3f6db5e72517e242ad87727585e0837367d269562a22136bd41",
+  "text_sha256": "28cd0614634d0ab8e868dcb7d9d6d6a6f709852376f49d38d6d30d9853477d30",
+  "byte_size": 89850,
+  "title": "El Paso County, TX | Official Website",
+  "error": null
+}

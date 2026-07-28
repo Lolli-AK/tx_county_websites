@@ -1,0 +1,19 @@
+{
+  "county": "Brazos",
+  "page_type": "polling",
+  "requested_url": "https://elections.brazoscountytx.gov/where-and-when-to-vote/",
+  "final_url": "https://elections.brazoscountytx.gov/where-and-when-to-vote/",
+  "redirect_chain": [
+    "https://elections.brazoscountytx.gov/where-and-when-to-vote/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "073e46c6b66949d8a9573c7a717125bea73f28f6332db879340b6861dc6824bb",
+  "text_sha256": "b18240b86b1e140ef1d5e146a2f6205a59996a6f5ade2f278db26f3e48304039",
+  "byte_size": 35362,
+  "title": "Where and When to Vote – Brazos Votes",
+  "error": null
+}

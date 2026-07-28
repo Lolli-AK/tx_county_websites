@@ -1,0 +1,19 @@
+{
+  "county": "Concho",
+  "page_type": "polling",
+  "requested_url": "https://www.co.concho.tx.us/page/concho.CountyMaps",
+  "final_url": "https://www.co.concho.tx.us/page/concho.CountyMaps",
+  "redirect_chain": [
+    "https://www.co.concho.tx.us/page/concho.CountyMaps"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "350b1ddf17b6cebe3ae98302bc311928e0ff6a98798b80a9a093d5d6cc32b0d6",
+  "text_sha256": "7bc1ce8b6aeee12502898a7ed10a1924a3946089ff977d0a71925015b8731de8",
+  "byte_size": 21245,
+  "title": "Concho County, Texas",
+  "error": null
+}

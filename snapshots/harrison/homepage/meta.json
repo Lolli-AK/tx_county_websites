@@ -1,0 +1,19 @@
+{
+  "county": "Harrison",
+  "page_type": "homepage",
+  "requested_url": "https://www.harrisoncountytexas.gov/",
+  "final_url": "https://www.harrisoncountytexas.gov/",
+  "redirect_chain": [
+    "https://www.harrisoncountytexas.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "64c5c59902ebfee79a2376791ebce533f6e37400b5052769e52c5fbafae3594f",
+  "text_sha256": "d1a7b23ec0057e57f70c16b6a7f85e2c4b2cd37592938353e6fc3b9d783f4c2a",
+  "byte_size": 52763,
+  "title": "Home | Harrison County, Texas",
+  "error": null
+}

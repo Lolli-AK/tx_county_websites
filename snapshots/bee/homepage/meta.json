@@ -1,0 +1,19 @@
+{
+  "county": "Bee",
+  "page_type": "homepage",
+  "requested_url": "https://www.beecounty.gov/",
+  "final_url": "https://www.beecounty.gov/",
+  "redirect_chain": [
+    "https://www.beecounty.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "02e81f8e04b2be25b8e48178024011b99146bc149029634f96bfcddc924445e9",
+  "text_sha256": "21ea670f86bd84022209045af7ec01271f99ba2ca92de8773677f68ac1e2ba28",
+  "byte_size": 68926,
+  "title": "Bee County, TX | Official Website",
+  "error": null
+}

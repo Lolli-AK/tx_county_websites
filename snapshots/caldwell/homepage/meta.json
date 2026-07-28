@@ -1,0 +1,19 @@
+{
+  "county": "Caldwell",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.caldwell.tx.us/",
+  "final_url": "https://www.co.caldwell.tx.us/",
+  "redirect_chain": [
+    "https://www.co.caldwell.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "0bc2863f3fd246506f03be5a7ea474f7ac7eed2df00b5c3f5e7f339a8d81fa25",
+  "text_sha256": "912e4e664b20153209858ecf0a4e0994b5da9b561a8366fefd5d642c9df581d7",
+  "byte_size": 46288,
+  "title": "Homepage - Caldwell County, TX",
+  "error": null
+}

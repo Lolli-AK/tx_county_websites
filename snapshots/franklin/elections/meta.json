@@ -1,0 +1,19 @@
+{
+  "county": "Franklin",
+  "page_type": "elections",
+  "requested_url": "https://franklincountytxelections.gov/",
+  "final_url": "https://franklincountytxelections.gov/",
+  "redirect_chain": [
+    "https://franklincountytxelections.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "6c448295da4a2c33903e70e31c775d9b3ae1cf429a1ae84623c91670dfbbf0be",
+  "text_sha256": "7eccde90a7b6a900d17b5fcf8eb81623f343250391bfed606ef113c89b9a4b8b",
+  "byte_size": 84370,
+  "title": "Franklin, TX – Franklin, TX – Elections Website",
+  "error": null
+}

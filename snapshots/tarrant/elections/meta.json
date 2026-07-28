@@ -1,0 +1,19 @@
+{
+  "county": "Tarrant",
+  "page_type": "elections",
+  "requested_url": "https://www.tarrantcountytx.gov/en/elections.html",
+  "final_url": "https://www.tarrantcountytx.gov/en/elections.html",
+  "redirect_chain": [
+    "https://www.tarrantcountytx.gov/en/elections.html"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "1198717f9f9cf0b48bfd5b0919223ccaf02755f4eb628b9f5081878034739fef",
+  "text_sha256": "6d42d46e754bae120e9a5d974833556d75f015835732e899d4506b819c554d49",
+  "byte_size": 177705,
+  "title": "Elections",
+  "error": null
+}

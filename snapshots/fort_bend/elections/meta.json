@@ -1,0 +1,19 @@
+{
+  "county": "Fort Bend",
+  "page_type": "elections",
+  "requested_url": "https://www.fortbendcountytx.gov/government/departments/elections-voter-registration",
+  "final_url": "https://www.fortbendcountytx.gov/government/departments/elections-voter-registration",
+  "redirect_chain": [
+    "https://www.fortbendcountytx.gov/government/departments/elections-voter-registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "0aa29a6638f75038ffcd7d683d6928f63a29e9131009f4877c63a83beb43694f",
+  "text_sha256": "0dac0daccb032db2e6c6d65b0b407c0702fd509d9280a79e0d32a06968339473",
+  "byte_size": 169349,
+  "title": "Elections/ Voter Registration | Fort Bend County",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Burleson",
+  "page_type": "early_voting",
+  "requested_url": "https://www.burlesoncountytx.gov/page/gov.elections.earlyvoting",
+  "final_url": "https://www.burlesoncountytx.gov/page/gov.elections.earlyvoting",
+  "redirect_chain": [
+    "https://www.burlesoncountytx.gov/page/gov.elections.earlyvoting"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "b91941e907323588120fdbbba34b366a08a64f5c706d66501b6ba92e0c6f9cd9",
+  "text_sha256": "15f89d655b47e1c0e16243d4c44effe2c235b4764f0ae43b2f63c3a4efdf6783",
+  "byte_size": 47965,
+  "title": "Burleson County, Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Bowie",
+  "page_type": "elections",
+  "requested_url": "https://www.co.bowie.tx.us/page/bowie.Elections",
+  "final_url": "https://www.co.bowie.tx.us/page/bowie.Elections",
+  "redirect_chain": [
+    "https://www.co.bowie.tx.us/page/bowie.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "6f4f0d0447ed93e283e079cde6aba34f99f263ae5fb70fb67408cb87068cd04e",
+  "text_sha256": "227bdc61915c6f317132959b5041423c4836cab7efc5d8f50702d56f02499654",
+  "byte_size": 210098,
+  "title": "Elections - Bowie County",
+  "error": null
+}

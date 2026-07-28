@@ -1,0 +1,19 @@
+{
+  "county": "Bailey",
+  "page_type": "elections",
+  "requested_url": "https://www.co.bailey.tx.us/page/bailey.Elections",
+  "final_url": "https://www.co.bailey.tx.us/page/bailey.Elections",
+  "redirect_chain": [
+    "https://www.co.bailey.tx.us/page/bailey.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "5ed29532bb9a80b17553667c3685ea81764419d626daae9d3dc13bc8b16d8d00",
+  "text_sha256": "c3f11ce83dc1c80eba5da3e20a6b3a3995b690bdc1aea48fc6069e0e37dd10b8",
+  "byte_size": 246390,
+  "title": "Bailey County, Texas",
+  "error": null
+}

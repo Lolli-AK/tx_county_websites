@@ -1,0 +1,19 @@
+{
+  "county": "Galveston",
+  "page_type": "polling",
+  "requested_url": "https://galvestonvotes.org/polling-locations/",
+  "final_url": "https://galvestonvotes.org/polling-locations/",
+  "redirect_chain": [
+    "https://galvestonvotes.org/polling-locations/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "61c92754c3dadafbcd8166c2df4aeedf0210c7603673afa5d51bd644c206db54",
+  "text_sha256": "7473fdc17f369e3a68595e261b32949679309bbffc8ff1b1afaee2a9b679f170",
+  "byte_size": 44512,
+  "title": "Polling Locations - Galveston County, TX",
+  "error": null
+}

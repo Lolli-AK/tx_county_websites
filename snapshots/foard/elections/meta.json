@@ -1,0 +1,19 @@
+{
+  "county": "Foard",
+  "page_type": "elections",
+  "requested_url": "https://www.foardcounty.texas.gov/page/Elections",
+  "final_url": "https://www.foardcounty.texas.gov/page/Elections",
+  "redirect_chain": [
+    "https://www.foardcounty.texas.gov/page/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "7d4c0d35f3b2f1bdb4a24ddce696b6d334b7b054b32ac25ff4340869c51dfaf9",
+  "text_sha256": "a9e36fa6dfe7d6270102a49dd4ecfcb83aedcb8ee0cad1ad279c043700a643bd",
+  "byte_size": 37383,
+  "title": "Elections | Foard County, Texas",
+  "error": null
+}

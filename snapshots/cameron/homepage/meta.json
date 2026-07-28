@@ -1,0 +1,19 @@
+{
+  "county": "Cameron",
+  "page_type": "homepage",
+  "requested_url": "https://www.cameroncountytx.gov/",
+  "final_url": "https://www.cameroncountytx.gov/",
+  "redirect_chain": [
+    "https://www.cameroncountytx.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "ebac31255e5be7911dd8c3655a7bfb95f80fe81d528b4d59b2b32e7f6c716dcb",
+  "text_sha256": "d3e0237497811331f19544e568f7c5a6620435c0d78db0ad3def5ba3fdc77b4f",
+  "byte_size": 93676,
+  "title": "Cameron County Homepage - Cameron County",
+  "error": null
+}

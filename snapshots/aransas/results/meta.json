@@ -1,0 +1,19 @@
+{
+  "county": "Aransas",
+  "page_type": "results",
+  "requested_url": "https://www.aransascountytx.gov/main/elecres.php",
+  "final_url": "https://www.aransascountytx.gov/main/elecres.php",
+  "redirect_chain": [
+    "https://www.aransascountytx.gov/main/elecres.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html",
+  "render_mode": "headless",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "6faba288d29230289f2895e0280e82e1b44bf132494955383ac3c0b0cee2338b",
+  "text_sha256": "6ec36081b7cf43b13ca6ae70c9a78b5c62dca0fdffbdc508cb8e9e83b448b4c4",
+  "byte_size": 27560,
+  "title": "Aransas County Election Results",
+  "error": null
+}

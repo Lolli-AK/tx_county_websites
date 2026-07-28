@@ -1,0 +1,19 @@
+{
+  "county": "Galveston",
+  "page_type": "elections",
+  "requested_url": "https://galvestonvotes.org/election-information/",
+  "final_url": "https://galvestonvotes.org/election-information/",
+  "redirect_chain": [
+    "https://galvestonvotes.org/election-information/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "809acdc467c2f4d872d915f1794134f12a29b17373024b48cb5ce26004701dae",
+  "text_sha256": "27747ba2053bfe8e987f0f9baf378cd4f06db69c767bf2d0aa619e639c8989c3",
+  "byte_size": 22753,
+  "title": "Election Information - Galveston County, TX",
+  "error": null
+}

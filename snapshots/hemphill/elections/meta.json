@@ -1,0 +1,19 @@
+{
+  "county": "Hemphill",
+  "page_type": "elections",
+  "requested_url": "https://www.co.hemphill.tx.us/page/hemphill.Voter",
+  "final_url": "https://www.co.hemphill.tx.us/page/hemphill.Voter",
+  "redirect_chain": [
+    "https://www.co.hemphill.tx.us/page/hemphill.Voter"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "c1345df955be851a97404871205fab258179b49b1b6d8b74edcead368a15725e",
+  "text_sha256": "1f34c6c35e22c94ccbc70c386119cd7354b3132ffa27631590f0b4a4ef2a938d",
+  "byte_size": 39109,
+  "title": "Hemphill County, Texas",
+  "error": null
+}

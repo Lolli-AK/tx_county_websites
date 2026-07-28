@@ -1,0 +1,19 @@
+{
+  "county": "Hill",
+  "page_type": "elections",
+  "requested_url": "https://www.co.hill.tx.us/page/hill.Elections",
+  "final_url": "https://www.co.hill.tx.us/page/hill.Elections",
+  "redirect_chain": [
+    "https://www.co.hill.tx.us/page/hill.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "2b01c02d1c533c4a6cd7be0bd0bc9ef876f2ff21e813a78ddc43af216fee6828",
+  "text_sha256": "64b9bd0e1ebf20449a265167d4411172180d4d5bca18cfc3c631ff153c68b6e5",
+  "byte_size": 49433,
+  "title": "Hill County, Texas",
+  "error": null
+}

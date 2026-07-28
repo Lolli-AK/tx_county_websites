@@ -1,0 +1,19 @@
+{
+  "county": "Delta",
+  "page_type": "homepage",
+  "requested_url": "https://www.deltacountytx.com/",
+  "final_url": "https://www.deltacountytx.com/",
+  "redirect_chain": [
+    "https://www.deltacountytx.com/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:21:09Z",
+  "html_sha256": "55173a89233f22513c47c1a7b0cc3af424fad5776179328063acecbf5c1ded93",
+  "text_sha256": "13f3067b119c0fdecadd5586f05ab42ea690e69d777d0e228555bbd03134db82",
+  "byte_size": 117738,
+  "title": "Homepage | Delta County, TX",
+  "error": null
+}

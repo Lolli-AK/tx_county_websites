@@ -1,0 +1,19 @@
+{
+  "county": "Austin",
+  "page_type": "elections",
+  "requested_url": "https://www.austincounty.com/page/austin.Elections",
+  "final_url": "https://www.austincounty.com/page/austin.Elections",
+  "redirect_chain": [
+    "https://www.austincounty.com/page/austin.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "7eea8f9fc7f6ed2110b24ff33c15707daacc6f9c409930fcc7c16b7ddcc9408b",
+  "text_sha256": "d80655036243fd7cecaaae997cf5e47fbf20c5d617aba0dbf29800cecce22e9d",
+  "byte_size": 70439,
+  "title": "Austin County, Texas",
+  "error": null
+}

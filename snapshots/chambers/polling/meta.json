@@ -1,0 +1,19 @@
+{
+  "county": "Chambers",
+  "page_type": "polling",
+  "requested_url": "https://www.chamberscountytx.gov/503/Current-Elections",
+  "final_url": "https://www.chamberscountytx.gov/503/Current-Elections",
+  "redirect_chain": [
+    "https://www.chamberscountytx.gov/503/Current-Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "0082988ffdb0aa9305a758c1fdeb92be78e5c0e3a0c90cc9df1831d87df967f1",
+  "text_sha256": "77630795d2f3b969ab21e6e4dd52204ebaa1887b83444b175f166872bc95eacd",
+  "byte_size": 127201,
+  "title": "Current Elections | Chambers County, TX",
+  "error": null
+}

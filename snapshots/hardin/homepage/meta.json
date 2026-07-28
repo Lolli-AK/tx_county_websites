@@ -1,0 +1,19 @@
+{
+  "county": "Hardin",
+  "page_type": "homepage",
+  "requested_url": "https://www.hardincountytx.gov",
+  "final_url": "https://www.hardincountytx.gov",
+  "redirect_chain": [
+    "https://www.hardincountytx.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "8e0c7418c02321655fb80981ed384250eafa7797cf0121cee2a1c0142700d8d8",
+  "text_sha256": "f041ab4c9604e44bd675939e2693a0fd9e1db7b09315b4cc93e47ed3a18908fe",
+  "byte_size": 44997,
+  "title": "Home | Hardin County, Texas",
+  "error": null
+}

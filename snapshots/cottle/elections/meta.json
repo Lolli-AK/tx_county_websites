@@ -1,0 +1,19 @@
+{
+  "county": "Cottle",
+  "page_type": "elections",
+  "requested_url": "https://www.co.cottle.tx.us/page/cottle.Elections",
+  "final_url": "https://www.co.cottle.tx.us/page/cottle.Elections",
+  "redirect_chain": [
+    "https://www.co.cottle.tx.us/page/cottle.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "7091ed52ef05d63184d2443fdbe7e42088009be1dab7f033fd2b3bfb787b5ffd",
+  "text_sha256": "c91066781634f51d9f252c3e72af658336f7f04ab71647304a94a17d8a833a28",
+  "byte_size": 67988,
+  "title": "Cottle County, Texas",
+  "error": null
+}

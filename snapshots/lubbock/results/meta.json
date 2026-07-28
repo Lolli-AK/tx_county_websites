@@ -1,0 +1,19 @@
+{
+  "county": "Lubbock",
+  "page_type": "results",
+  "requested_url": "https://votelubbock.gov/election-information/historical-election-results/",
+  "final_url": "https://votelubbock.gov/election-information/historical-election-results/",
+  "redirect_chain": [
+    "https://votelubbock.gov/election-information/historical-election-results/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "9f811fcebda98c44b876ff1452043d39c74e26da2f2eafd9f96bae4ce143d6f1",
+  "text_sha256": "fc5d03ddc533fd98c7311dd9d88e34bd62af7c8c54cee01cb11d9f653e13cb65",
+  "byte_size": 184919,
+  "title": "Lubbock County, TX Elections",
+  "error": null
+}

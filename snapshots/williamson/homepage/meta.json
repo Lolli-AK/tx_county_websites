@@ -1,0 +1,19 @@
+{
+  "county": "Williamson",
+  "page_type": "homepage",
+  "requested_url": "https://www.wilcotx.gov/",
+  "final_url": "https://www.wilcotx.gov/",
+  "redirect_chain": [
+    "https://www.wilcotx.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "466ded157ac53db22a1e72e9b1430d3120fe182f41d7e11f0e8e62231b033a45",
+  "text_sha256": "30fed2069552c72b4177251b4f7147c4f521abfbe1d209867c781155f584c4f2",
+  "byte_size": 59937,
+  "title": "Williamson County, TX | Official Website",
+  "error": null
+}

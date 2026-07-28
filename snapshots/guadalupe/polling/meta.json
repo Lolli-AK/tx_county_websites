@@ -1,0 +1,19 @@
+{
+  "county": "Guadalupe",
+  "page_type": "polling",
+  "requested_url": "https://www.guadalupetx.gov/page/jp.maps",
+  "final_url": "https://www.guadalupetx.gov/page/jp.maps",
+  "redirect_chain": [
+    "https://www.guadalupetx.gov/page/jp.maps"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "85acbf86f805560dcea9004fe89d336c0f99447b0ffc89ebe4df767dd418e8cb",
+  "text_sha256": "5e084d44f3339097bd8b4ac7d916f18b9b6063b198acbc20ce53e36d24522a29",
+  "byte_size": 52449,
+  "title": "Justices of the Peace Maps | Guadalupe County, Texas",
+  "error": null
+}

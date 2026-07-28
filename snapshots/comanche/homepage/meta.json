@@ -1,0 +1,19 @@
+{
+  "county": "Comanche",
+  "page_type": "homepage",
+  "requested_url": "https://www.comanchecountytx.gov/",
+  "final_url": "https://www.comanchecountytx.gov/",
+  "redirect_chain": [
+    "https://www.comanchecountytx.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "3fb22c89f817c4e951f8d09d97030a8d44cf0850300c6f91e38ec31286fb6fe5",
+  "text_sha256": "11a6dd3b84a497cbac4e5bbaa65084a9ce22cc9ee8149fe8f7116604152c0888",
+  "byte_size": 48611,
+  "title": "Comanche County, TX | Official Website",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Fort Bend",
+  "page_type": "early_voting",
+  "requested_url": "https://www.fortbendcountytx.gov/government/departments/elections-voter-registration/early-voting-statistics",
+  "final_url": "https://www.fortbendcountytx.gov/government/departments/elections-voter-registration/early-voting-statistics",
+  "redirect_chain": [
+    "https://www.fortbendcountytx.gov/government/departments/elections-voter-registration/early-voting-statistics"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "d6c55a7e0146eba9e010086752e7efff5c679cc1691d3e11be18c4528a58957e",
+  "text_sha256": "a1135f64476dabaa28575e622d0e825a19cf72cc8be47895914814fd259daccb",
+  "byte_size": 159038,
+  "title": "Early Voting Statistics | Fort Bend County",
+  "error": null
+}

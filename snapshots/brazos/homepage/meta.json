@@ -1,0 +1,19 @@
+{
+  "county": "Brazos",
+  "page_type": "homepage",
+  "requested_url": "https://www.brazoscountytx.gov/",
+  "final_url": "https://www.brazoscountytx.gov/",
+  "redirect_chain": [
+    "https://www.brazoscountytx.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "39339855eaaffdeb2c4efde699a37d3e521eb4a123ead016f509cca7b7c26b2a",
+  "text_sha256": "ba37354ece25031230349637ad3b74936729ace80e955509c138f95926564a0d",
+  "byte_size": 100063,
+  "title": "Brazos County, TX - Official Website | Official Website",
+  "error": null
+}

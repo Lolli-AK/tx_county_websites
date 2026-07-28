@@ -1,0 +1,19 @@
+{
+  "county": "Lubbock",
+  "page_type": "early_voting",
+  "requested_url": "https://votelubbock.gov/election-information/early-voting-information/",
+  "final_url": "https://votelubbock.gov/election-information/early-voting-information/",
+  "redirect_chain": [
+    "https://votelubbock.gov/election-information/early-voting-information/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "75cf537eb5a0e546acbd56329eb8ade665e598f7492d06a9440a9a108c37ed87",
+  "text_sha256": "92f5c852a9c72cf0237355a8dc26f301824c5c9ee4c83ecff19090f9910fd7b0",
+  "byte_size": 18864,
+  "title": "Lubbock County, TX Elections",
+  "error": null
+}

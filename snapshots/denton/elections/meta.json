@@ -1,0 +1,19 @@
+{
+  "county": "Denton",
+  "page_type": "elections",
+  "requested_url": "https://www.votedenton.gov/",
+  "final_url": "https://www.votedenton.gov/",
+  "redirect_chain": [
+    "https://www.votedenton.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "01574e611a093002527bfd385b2649ff1e41d4bd10047b35023616418f9e7c4c",
+  "text_sha256": "27afc4d530e4deeabffbcbd3a30a6418b2336baed23ef1cf6ee20e863583f4f1",
+  "byte_size": 49039,
+  "title": "Denton County, TX Elections | Elections Information",
+  "error": null
+}

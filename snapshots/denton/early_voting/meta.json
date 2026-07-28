@@ -1,0 +1,19 @@
+{
+  "county": "Denton",
+  "page_type": "early_voting",
+  "requested_url": "https://www.votedenton.gov/election-day-information/current-and-upcoming-election-information/",
+  "final_url": "https://www.votedenton.gov/election-day-information/current-and-upcoming-election-information/",
+  "redirect_chain": [
+    "https://www.votedenton.gov/election-day-information/current-and-upcoming-election-information/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "9c94344147eba1526407557159fd986cfaef6d8356b988170ea1360fd7a0f04d",
+  "text_sha256": "cbaafb614bc89d248d210d9e83c71ec4400c4dae2f68bbbd91027481523102f7",
+  "byte_size": 38789,
+  "title": "Current and Upcoming Election Information - Denton County, TX Elections",
+  "error": null
+}

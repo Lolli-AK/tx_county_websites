@@ -1,0 +1,19 @@
+{
+  "county": "Frio",
+  "page_type": "elections",
+  "requested_url": "https://www.co.frio.tx.us/page/elect.home",
+  "final_url": "https://www.co.frio.tx.us/page/elect.home",
+  "redirect_chain": [
+    "https://www.co.frio.tx.us/page/elect.home"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "722edf19d5e8c4d52d8e164452b8951925d70ec0aa868313f9885915b218229e",
+  "text_sha256": "719662d5c0b98009a03f66270bb35fccfa8d49ba3472363dfe17103cea91d354",
+  "byte_size": 156377,
+  "title": "County Elections | Frio County, TX",
+  "error": null
+}

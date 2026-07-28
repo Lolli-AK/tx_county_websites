@@ -1,0 +1,19 @@
+{
+  "county": "Hill",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.hill.tx.us/",
+  "final_url": "https://www.co.hill.tx.us/",
+  "redirect_chain": [
+    "https://www.co.hill.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "3034c8691fce697af643cfbedb53c08a677cd482307ac907cb52bece830da660",
+  "text_sha256": "429798a65ccda094ea491a1160d97f8fe05be712035ffa502262379d921a81ef",
+  "byte_size": 62169,
+  "title": "Hill County, Texas",
+  "error": null
+}

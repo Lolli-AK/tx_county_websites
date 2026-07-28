@@ -1,0 +1,19 @@
+{
+  "county": "Ellis",
+  "page_type": "homepage",
+  "requested_url": "http://www.elliscountytx.gov/",
+  "final_url": "http://www.elliscountytx.gov/",
+  "redirect_chain": [
+    "http://www.elliscountytx.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "c7910d9610a9426492163fb37ddc90a544be53789ca7a44b4859681057d254f3",
+  "text_sha256": "fb5982b7310027582d5bd06bb5a54e0c123673c3632dc64212fbe847e29a04fa",
+  "byte_size": 144976,
+  "title": "Ellis County, TX Official Website | Official Website",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Aransas",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.aransas.tx.us/",
+  "final_url": "https://www.co.aransas.tx.us/",
+  "redirect_chain": [
+    "https://www.co.aransas.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-28T20:10:53Z",
+  "html_sha256": "b49aacb31e2866f6ae87c4dd91fd246ae8d8f61ebcb47e6521722527e796a3e3",
+  "text_sha256": "389f19e4d56fa6d9c48830db6281456b6af74d45ee86323bd88dd1246a756418",
+  "byte_size": 16165,
+  "title": "Aransas County Texas District Attorney",
+  "error": null
+}
