@@ -104,7 +104,7 @@ tx-county-watch/
 │                                       notes + 6 audit columns)
 └── snapshots/                       ← overwritten in place every run; history is in git
     │
-    ├── harris/                      ← 4 of 5 types exist
+    ├── harris/                      
     │   ├── homepage/
     │   │   ├── page.html            ← normalized HTML   (structural diff)
     │   │   ├── page.txt             ← visible text      (content diff)
@@ -118,12 +118,12 @@ tx-county-watch/
     │   └── (no early_voting/)       ← GAP: Harris posts EV only as a PDF,
     │                                  so the directory is simply absent
     │
-    ├── loving/                      ← 2 of 5 — typical rural county
+    ├── loving/                      
     │   ├── homepage/
     │   ├── elections/
     │   └── (no polling/, early_voting/ or results/)
     │
-    ├── king/                        ← 1 of 5 — publishes no election HTML at all
+    ├── king/                        
     │   └── homepage/
     │
     └── … 121 more counties
@@ -394,6 +394,35 @@ map/lookup apps that have no verifiable text, or blocked pages).
 > uses the stable portal *index* URL; check `notes` and refresh IDs each cycle.
 
 ---
+
+## Running on GitHub Actions vs. locally — a data-quality caveat
+
+The pipeline is identical either way, but **where it runs changes what some sites
+return**, because Actions runners use datacenter IPs that bot protection treats
+more suspiciously than a residential connection. Measured by diffing a local run
+against the first Actions run:
+
+| effect | pages | what it means |
+|---|---|---|
+| `HTTP 202` on Clarity ENR results portals | 13 | **Benign.** Content is complete and byte-identical to the local run — Clarity just answers `202` instead of `200`. Don't read these as failures. |
+| `HTTP 403` bot challenge | 7 (Delta ×4, Cherokee ×3) | **Real data loss.** These serve content fine locally but return a Cloudflare / "Security Check" page to the runner. |
+
+So a page appearing "broken" in the GitHub-run data may simply be blocked from that
+IP range. Two things make this unambiguous rather than silently wrong:
+
+- `meta.json.error` is set to **`bot_challenge_not_cleared`** whenever the captured
+  body is a security-check page, so those rows can be filtered out rather than
+  mistaken for "the county took the page down".
+- `interstitial_max_wait_ms` (default 45s) is the budget for waiting a challenge
+  out. It's deliberately much longer than the ~2s these take locally; raise it in
+  `config.json` if runs keep coming back blocked.
+
+If you need the handful of blocked counties, run `snapshot.py` locally for just
+those and push — the artifacts and commits are the same shape either way:
+
+```bash
+.venv/bin/python scripts/snapshot.py --county delta --county cherokee && git push
+```
 
 ## Phase 3: scheduling
 

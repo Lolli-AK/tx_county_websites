@@ -52,6 +52,7 @@ def _load_config() -> dict:
         "plain_retries": 2,
         "hydration_settle_ms": 2000,
         "hydration_max_wait_ms": 6000,
+        "interstitial_max_wait_ms": 45000,
     }
     try:
         cfg = json.loads(CONFIG_PATH.read_text(encoding="utf-8")).get("fetch", {})
@@ -91,8 +92,15 @@ _INTERSTITIAL_MARKERS = (
     "cf-browser-verification", "challenge-platform", "cf_chl",
     "enable javascript and cookies to continue", "ddos protection by",
     "attention required! | cloudflare",
+    # Seen on GitHub-runner IPs (Cherokee County) and Delta's Cloudflare check.
+    "security check", "verifying your browser", "performing security verification",
+    "performing a brief security check", "security service to protect",
 )
-INTERSTITIAL_MAX_WAIT_MS = 20000
+# Bot challenges take noticeably longer to clear from a datacenter IP than from a
+# residential one: the same Cloudflare check that passes in ~2s locally was still
+# mid-verification after 20s on a GitHub Actions runner. Configurable so it can be
+# raised further if runs keep coming back blocked.
+INTERSTITIAL_MAX_WAIT_MS = int(CONFIG["interstitial_max_wait_ms"])
 
 
 def _looks_like_interstitial(html: str) -> bool:
@@ -343,6 +351,14 @@ def process_target(row: dict, fetched_at: str, allow_headless: bool) -> dict:
 
     title = normalize.extract_title(cleaned_html) if cleaned_html else None
     byte_size = len(cleaned_html.encode("utf-8"))
+
+    # If what we captured is still a bot challenge, say so explicitly. Otherwise
+    # the artifact looks like a tiny legitimate page and an analyst could read it
+    # as "the county took this page down". This happens far more from datacenter
+    # IPs (GitHub Actions runners) than from a residential connection.
+    if cleaned_text and _looks_like_interstitial(cleaned_html):
+        marker = "bot_challenge_not_cleared: captured security-check page, not content"
+        result["error"] = f"{marker}; {result['error']}" if result["error"] else marker
 
     meta = {
         "county": county,

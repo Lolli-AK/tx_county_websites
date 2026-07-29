@@ -12,6 +12,7 @@
     "headless_timeout_ms": 45000,
     "plain_retries": 2,
     "hydration_settle_ms": 2000,
-    "hydration_max_wait_ms": 6000
+    "hydration_max_wait_ms": 6000,
+    "interstitial_max_wait_ms": 45000
   }
 }
