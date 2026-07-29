@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "22072737339cd176a813968ab28655d630e53778ae5baf2977073ae06ca7154b",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "67d1a03bb088a48b0869f5a201337bbd0276c55a18967ad90279187b8a28ec3b",
   "text_sha256": "824e6c2092ad8f9cda9397186dbbf10ccc89debcaa4fe38454d77aa28f64e4f6",
-  "byte_size": 40157,
+  "byte_size": 39231,
   "title": "Crosby County, Texas",
   "error": null
 }

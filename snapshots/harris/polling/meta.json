@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "04a86eb908d8be258d0a5ebf91284cf9d3ed80f66aeaf2b38663963f66bacc3b",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "06c5cce179071977a8c21c463b122a7611085fe2d55eb4ff2d58532550f80e2a",
   "text_sha256": "421689e449070c75f527e096033ba15634eede87a9759b06785df77bd3c9b564",
-  "byte_size": 7160,
+  "byte_size": 4726,
   "title": "Vote Centers",
   "error": null
 }

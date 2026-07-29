@@ -237,8 +237,12 @@ def _attr_is_volatile(name: str) -> bool:
 # <link rel="..."> resource hints reference build-hashed JS/CSS assets and vary
 # per load/build; they are never content. Drop these rels (keep stylesheet /
 # canonical / icon / alternate, which can be meaningful).
+# `stylesheet` is included: <style> is already stripped, so a stylesheet <link>
+# contributes no content — only churn. WordPress/Elementor emits per-post CSS files
+# conditionally (Midland's votemidlandtx.gov drops several between renders) and
+# stamps them with ?ver= cache-busters.
 _DROP_LINK_RELS = {"preload", "modulepreload", "prefetch", "preconnect",
-                   "dns-prefetch", "prerender"}
+                   "dns-prefetch", "prerender", "stylesheet"}
 
 # id attribute prefixes whose suffix is randomized per page load (widgets that
 # mint a unique id each time). Normalize the suffix to keep structure stable.

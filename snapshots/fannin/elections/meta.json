@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "1a02e0a415ebfd8d45b4730a7bf6455a7147a43c218c0dde48a779afb2e9956e",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "a877434287210e8eb2ceec8a700cf0ebbc16a0958a0a838eaec8084a226ba113",
   "text_sha256": "2bee1527c23520df8b6b800522e2ac67908ca151e96bd2c23bdf27f3ff1400fa",
-  "byte_size": 235599,
+  "byte_size": 234484,
   "title": "2025 Elections",
   "error": null
 }

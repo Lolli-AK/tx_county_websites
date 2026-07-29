@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "738bfc0bc4b14a5eaab928a5ef451f7e67ae6d883ba04d112d9b9733b653e317",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "adbb1488209cb278f0c2fe1b6ea3d8880bc9954cf916c4d778543daf570caeef",
   "text_sha256": "0ade7238a6b41b45896ce922d86610aecdb4f56f7702d8854dd1c8febcf60867",
-  "byte_size": 116003,
+  "byte_size": 115076,
   "title": "Elections - Jasper County",
   "error": null
 }

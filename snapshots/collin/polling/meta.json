@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "e5dfe85f4bd1280e0bb992644897a3ab7f4016fe2187545ff05fbf6b1924636a",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "ed96185cccf8bfb18a2dbcdfdcccd3adf00b627ccd0974a3ab915883b3220b6c",
   "text_sha256": "ca4121f05f7e4b806c9284f2f20b2489ac1ef5cc9e07bf94c8c39996dc1be14b",
-  "byte_size": 18859,
+  "byte_size": 17375,
   "title": "Polling Locations",
   "error": null
 }

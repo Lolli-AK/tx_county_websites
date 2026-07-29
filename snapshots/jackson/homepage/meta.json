@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "289ce67a443e86bd598e3e45b7c4d07741a07f700b4e516787deb74c352e848b",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "cd802d39161334bc86568cc6069d7d05bbac5e473a5cbc9e12e53187472ad3c9",
   "text_sha256": "548fd7c04d0715e0503df6e87ed2c182ed2017dce5eddb1eec3c31c9c32a4d5b",
-  "byte_size": 53669,
+  "byte_size": 52083,
   "title": "Jackson County, Texas",
   "error": null
 }

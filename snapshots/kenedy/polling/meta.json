@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "b944e3de8d686b28e09c0a234fd24dea4566305aabbad18b2dc71c0cd5b3fc0d",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "db94f8bfd35d06f12f069fba409b2b19c267c416e3e35cc859c233790101f2ac",
   "text_sha256": "19dbbf2ddc57ae7f30beb11753733f6c05e97b557ef42b395fec798c30fb69cc",
-  "byte_size": 23756,
+  "byte_size": 21865,
   "title": "Polling Places – Kenedy County",
   "error": null
 }

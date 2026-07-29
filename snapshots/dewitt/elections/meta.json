@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "17b813ed5bf115d1b80b0d694142cdcbfd2ec0b3928c48d1ab96cc550c1a2816",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "57b2e7c08c604befa18f508961a9e51067b7e4cca761ef48e1961477e0a251ed",
   "text_sha256": "d9ee8d9f6fcfc00176405b938898039b886845e7fff24de65ae2f4e9b371ac32",
-  "byte_size": 136062,
+  "byte_size": 133111,
   "title": "DeWitt County, Texas",
   "error": null
 }

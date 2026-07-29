@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "06f5844beb2f63dd7d1b279c1928fbe4fda5d7de1cd46ecb0bec2d0464d2ecc8",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "1caaac18d28460bf3952ba5677f3aabffe79cb44aaeda7db9b386b74b8d7e9f1",
   "text_sha256": "052cfb7ffd776b3b9b93b5a8de495abf0338bb2ad4c05768e6559dd17415ed6c",
-  "byte_size": 72094,
+  "byte_size": 70259,
   "title": "Early Voting Rosters March 2020",
   "error": null
 }

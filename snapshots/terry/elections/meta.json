@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "d2109cab947b1316f1dd265e9ee5f87a655fe9a4905baf0c72b33f4cc62fc3d1",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "d381123f2c1883dcf6dea026fb784f2b65bce2cd0119bfe19504bf8a154868ea",
   "text_sha256": "4c05ee31a5e11c7274f2462a19e53bffddba65a0c7c339e53330cc7d32b67d8d",
-  "byte_size": 26425,
+  "byte_size": 25593,
   "title": "Terry County, Texas",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "d181386b3dcedc1fa08b7264881f02d74674b4584285e38c5133f92f3df49cbc",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "3fc87f145c585fd59601baf4dd38afb095f89bc95c5c6e897194684bba4a21ee",
   "text_sha256": "58fc8c9526a9ceaae6314b5750fff1e7dde4a890f93d244e0f9d8c7f7389f45b",
-  "byte_size": 72761,
+  "byte_size": 69999,
   "title": "Throckmorton County Elections Administrator",
   "error": null
 }

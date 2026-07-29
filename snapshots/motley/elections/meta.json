@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "f3c5cd19be60aa9bf65e249c3aabbdfa65ab6e32bd9918f7d22bd914452e0ada",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "026fee90f6b3b86f09af55513811e1ce9c3c44df48d9c9743e5b2cda813c2081",
   "text_sha256": "719517c9e637e70f1b142b2a3e05ba52d1f4df8fd233969d1b429e95180f52ef",
-  "byte_size": 94075,
+  "byte_size": 93150,
   "title": "Motley County, Texas",
   "error": null
 }

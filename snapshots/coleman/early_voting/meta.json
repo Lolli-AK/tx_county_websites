@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "7ecf359657d3110e9a162b8f561f5a17ea2886f38636fcd11bac848e7e1d66d2",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "cf0498de07783a401b0b47edf01c561d7712998a230e34fc1ecb432966d9a8a8",
   "text_sha256": "c7327576b91792b73bfc5b346f5082e080afb3e98dbde6182a71f13a34e92564",
-  "byte_size": 28714,
+  "byte_size": 27883,
   "title": "Coleman County, Texas",
   "error": null
 }

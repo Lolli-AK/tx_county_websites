@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "7ad4c0ea6aa74f8ebf50c62265ece7c8900f3ab6e21bc38460424de239e6ac51",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "941d3582a1e228ccedbbe18d75e17b74abf301393649041543e8d862fa51f663",
   "text_sha256": "da87cf4989d15b12e9339c8372eff9ba5eb796d8ea1cc4f79c6fa16b6f7d5e3f",
-  "byte_size": 36856,
+  "byte_size": 35929,
   "title": "Live Oak County, Texas",
   "error": null
 }

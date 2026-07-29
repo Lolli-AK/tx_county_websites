@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "9184870512419eb768f5b8d04abde10f60649fff9e092f24c9521a2a9aa2957e",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "a0688f0a7fa10ff765ce5da955b22774a30db06f4eea42f251c1440492f8c84e",
   "text_sha256": "e46c931798c902c8bcc9f81995b86cbda6d5c703e6df048165259c8ec5d644be",
-  "byte_size": 44320,
+  "byte_size": 43489,
   "title": "Hopkins County, Texas",
   "error": null
 }

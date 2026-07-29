@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "915eb0bafd3c75004460c1eb40819c9cd93d8816151ea9bf0ab0448ad6320b70",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "64553a0861250d0b8e276af5c8dff9c6ea880ffefaf5f901002feec053050b69",
   "text_sha256": "e487689a1c6b73c16fdcbb68caaff49d619e60e8ca2d182038d3f3f23dec77e9",
-  "byte_size": 151622,
+  "byte_size": 151066,
   "title": "Elections | Lamar County, TX",
   "error": null
 }

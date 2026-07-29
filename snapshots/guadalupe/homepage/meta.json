@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "58e584ce4b3b3dff6351b219d8f5923a88031028243110731298a83def24c279",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "77488ce509db03a9681468ce891eb226d4c9ec11c993bc0dca434525210e5257",
   "text_sha256": "ad7d69ac9277398b90d58a6f0e8905373f9ffd64b2ec366c44d74f80708fd530",
-  "byte_size": 16452,
+  "byte_size": 16206,
   "title": "Guadalupe County Home Page",
   "error": null
 }

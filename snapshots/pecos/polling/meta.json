@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "7b8f405b7218d91a5fb72dfc17b9cb351aa1099a553969676018a52afd7e5a6c",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "d0994a89ed428c6d942ef614a40ecbce095719bb2739c72287e862168b564089",
   "text_sha256": "29a73f20d4bf50c97bc6e3c2fb07d55162135474a3958e210f539c175335ca08",
-  "byte_size": 20805,
+  "byte_size": 20330,
   "title": "Pecos County Precinct Map – Pecos County",
   "error": null
 }

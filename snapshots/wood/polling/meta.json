@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "cf53a02ba8c07ea5b19dbd080430992b0f054e23b7c5114056a53b5b9c5f785c",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "598cf4d398f1e4be2f3752708cb9e1e90672edcbdafe1a7ccf32f3d22bd07979",
   "text_sha256": "52f24c65a47d62095f69b1b961e0e5ac78f3252297ff03502b9c03e8ae1729ac",
-  "byte_size": 22716,
+  "byte_size": 21045,
   "title": "Polling Locations - Wood County, TX Elections",
   "error": null
 }

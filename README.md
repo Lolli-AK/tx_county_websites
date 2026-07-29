@@ -219,8 +219,9 @@ Every rule below was added because it was caught diffing an unchanged site:
 - Neutralizes **Cloudflare email obfuscation** (`/cdn-cgi/l/email-protection#…`
   hrefs and `data-cfemail` attrs) and **Akamai edge Reference #** ids on "Access
   Denied" pages — both re-generated per request.
-- Removes resource-hint `<link>`s (`preload`/`modulepreload`/`prefetch`/… of
-  build-hashed assets) and normalizes **randomized widget ids**
+- Removes **stylesheet and resource-hint `<link>`s** — `<style>` is already
+  stripped, so these carry no content, and WordPress/Elementor emits per-post CSS
+  files inconsistently between renders. Normalizes **randomized widget ids**
   (`gt-wrapper-<n>` GTranslate, `ivs-gallery-<hex>`).
 - Replaces **rotating image hero carousels** (class `slideshow`/`carousel` with an
   image/background-image) with a stable placeholder — some homepages (Lubbock)

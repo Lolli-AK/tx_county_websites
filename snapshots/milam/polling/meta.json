@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "24e8e5cf6635e70a9a6a96ced31d2612fb80d75bfcf4bc0a3fb67dbd1c45e15a",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "fb6cf48016b4164fa811de5420aabe0dcc6d0d1bb4709ff9774c2e1519981da0",
   "text_sha256": "e62cb87ecff0041136444ae87dbe69e7c03d71a3c8829f8f8976e37761858bba",
-  "byte_size": 66099,
+  "byte_size": 64960,
   "title": "Milam County, TX",
   "error": null
 }

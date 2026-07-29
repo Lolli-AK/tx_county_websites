@@ -10,10 +10,10 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "ea50364bcb54eb516fda372ca2bf7d405bee68f4e9221f1cdd02a051e5e72d79",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "16baef0504e21432169c5d57cb829fd0b671e787343aad47427b6382d630a9d9",
   "text_sha256": "7704162621852c1e096ca563789d912fd8b998b9040dfd244d89a7ff9f2df0d6",
-  "byte_size": 11266,
+  "byte_size": 10929,
   "title": "Montgomery County, Texas - Elections",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "d5b494602c78662ab8b0eefac0f77c7b7bdcc08aeea53c98136bb9ba3c774772",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "5bb41029f1a8c6623d2c42b5a989fc8bfe7cad95b6bc6224fdf5605905f8e857",
   "text_sha256": "05482b33132d61f7b5ddb775219b6122e1e86b345311cadb3c7aadb6bfbe594b",
-  "byte_size": 25454,
+  "byte_size": 24527,
   "title": "Hardeman County, Texas",
   "error": null
 }

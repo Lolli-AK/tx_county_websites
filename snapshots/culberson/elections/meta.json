@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "edc456380c73523be0e4d74f17c0cf7cacfc986a4c8f66247ddc7e46fa38630c",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "38e3394e85cc24aa3704a2d8b6e74295d710a0c3d5ca538d19c2ff2aad2506ea",
   "text_sha256": "9c3ee0bc9729b7affa91bd8d63ebed161b3fb5ccd9cdab2a10e6a172ed514548",
-  "byte_size": 50795,
+  "byte_size": 49690,
   "title": "Culberson County, Texas",
   "error": null
 }

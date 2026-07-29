@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "b3bdd2b795af1eeda17ce5efd42fcabfbae49b73d43108876bc3822864463764",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "af5b6d0b82aa301a1d1ecdb1cd49910e77dfe32f79a450c6ae6c4e8996c91d43",
   "text_sha256": "69c22ffa417d190175b9457153c960135dcccba0ebebea695d5e3eace6bf7986",
-  "byte_size": 49660,
+  "byte_size": 49104,
   "title": "Elections | Howard County, TX",
   "error": null
 }

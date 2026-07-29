@@ -10,10 +10,10 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "7c6c46ed716f3b9394d259fb24d984dd571c96063fa9cda9a6307278565279a7",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "7c224ebe8f34afab8ff1c58c356609a114f28ed634095d8805ecb5cba7bd4901",
   "text_sha256": "72a5daaaf26b63562c59150a3ef1c90a21c7fff74e9d1421623647d29e6af36d",
-  "byte_size": 4908,
+  "byte_size": 4771,
   "title": "Election Returns",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "80b10024af3ae34eaa79dbdfc5c3ff8694e2a0c4793b1ed44a1607e01307bcfa",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "6feb2eb18e5176c6317f93d329e43d2c0f9d8c63791bd0e47e37def30bc7ce9a",
   "text_sha256": "688648e4065cf77db64c3b9c41543fccd775c3b535a8077ce321c00099073a32",
-  "byte_size": 7285,
+  "byte_size": 6881,
   "title": "TC - Voting Center Lookup",
   "error": null
 }

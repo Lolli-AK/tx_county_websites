@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "87540b9d6ea8cc85582ba0d2f7c01c5411c8bc23b06dc11695b7e256b436f43a",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "e5d28f87778816e9bf8a6170f634f4ae723a5b34aad95d4371a59b1c7e77c109",
   "text_sha256": "11a252765c451a64741c7d2c9437744349d8f348991801af562d08667c85dce0",
-  "byte_size": 25200,
+  "byte_size": 24274,
   "title": "Hansford County, Texas",
   "error": null
 }

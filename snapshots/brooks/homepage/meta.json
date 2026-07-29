@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:23:32Z",
-  "html_sha256": "b16735aba999e305764c1f5a4bc0e737fba4a99d825ae79b0ad912f92fae36c9",
+  "fetched_at": "2026-07-29T18:38:44Z",
+  "html_sha256": "778f29aa92fcb4ea6b996b73f57e172fb5863e3a5903443b7ddf3120266497e8",
   "text_sha256": "b1c8faf8fb4c3180d5df43882d18da77018189eff2b48ab1cb7223694a434d2b",
-  "byte_size": 50450,
+  "byte_size": 49336,
   "title": "Brooks County, Texas",
   "error": null
 }
