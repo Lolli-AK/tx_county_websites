@@ -1,19 +1,19 @@
 {
   "county": "Potter",
   "page_type": "polling",
-  "requested_url": "https://www-pottercountytexasvotes-gov.translate.goog/copy-of-where-to-vote?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
-  "final_url": "https://www-pottercountytexasvotes-gov.translate.goog/copy-of-where-to-vote?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
+  "requested_url": "https://www.pottercountytexasvotes.gov/copy-of-where-to-vote",
+  "final_url": "https://www.pottercountytexasvotes.gov/copy-of-where-to-vote",
   "redirect_chain": [
-    "https://www-pottercountytexasvotes-gov.translate.goog/copy-of-where-to-vote?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp"
+    "https://www.pottercountytexasvotes.gov/copy-of-where-to-vote"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T18:07:05Z",
-  "html_sha256": "a36da0eb5759695dcd52ae2bacfe122d319c1efc7de341c84c60755cafc7ab9f",
+  "fetched_at": "2026-07-29T18:23:08Z",
+  "html_sha256": "08843e34371500ad7ea68dce4b3d774346f81dec81dd0a364d64483477319692",
   "text_sha256": "6f6a1ab79e6e111ebb5c191424923a845aaa61a9e659bbb87bfb0c928600109c",
-  "byte_size": 118385,
+  "byte_size": 104303,
   "title": "Current Election | Potter County Elections Administration | Amarillo",
   "error": null
 }

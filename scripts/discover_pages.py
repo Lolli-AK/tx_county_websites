@@ -33,7 +33,7 @@ import logging
 import re
 import sys
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, urlunparse
 
 import httpx
 from bs4 import BeautifulSoup
@@ -159,6 +159,11 @@ GENERIC_PORTAL_HINTS = (
     # Session-ID mapping viewer: the URL embeds a volatile SessID, so it could
     # never produce a stable, diffable snapshot.
     "logis-us.net",
+    # Translation proxies. Never a valid target in themselves, AND they launder
+    # every other entry in this list: Live Oak's elections link pointed at
+    # "www-vote411-org.translate.goog", i.e. vote411.org with dots swapped for
+    # dashes, which slipped straight past a plain substring check.
+    "translate.goog", "translate.google.com",
 )
 
 log = logging.getLogger("discover_pages")
@@ -168,7 +173,18 @@ BATCH_LABEL = "2"
 
 
 def is_generic_portal(url: str) -> bool:
-    return any(g in url.lower() for g in GENERIC_PORTAL_HINTS)
+    """True if the URL is a statewide/national/vendor portal, not a county page.
+
+    Also catches translation-proxy laundering: Google Translate rewrites a host's
+    dots to dashes ("www-vote411-org.translate.goog"), so we test the de-dashed
+    form of the host as well.
+    """
+    low = url.lower()
+    if any(g in low for g in GENERIC_PORTAL_HINTS):
+        return True
+    host = urlparse(low).netloc
+    dedashed = host.replace("-", ".")
+    return any(g in dedashed for g in GENERIC_PORTAL_HINTS)
 
 
 def _fetch_plain(url: str) -> dict:
@@ -391,7 +407,25 @@ def _find_elections(home: str, home_links: list[tuple[str, str]], exclude: set[s
 _CLARITY_RE = re.compile(r"^(https?://results\.enr\.clarityelections\.com/[A-Z]{2}/[^/]+/)")
 
 
+def unlaunder_translate_proxy(url: str) -> str:
+    """Recover the real URL behind a Google Translate proxy host.
+
+    County sites sometimes link their own elections portal through Translate, e.g.
+    "www-pottercountytexasvotes-gov.translate.goog/early-voting-locations". The
+    underlying site is the genuine target, so rewrite rather than discard — the
+    proxy adds a language layer and its own churn (rotating sponsor logos).
+    """
+    p = urlparse(url)
+    if not p.netloc.endswith(".translate.goog"):
+        return url
+    host = p.netloc[: -len(".translate.goog")].replace("-", ".")
+    query = "&".join(kv for kv in p.query.split("&")
+                     if kv and not kv.startswith("_x_tr_"))
+    return urlunparse(("https", host, p.path, p.params, query, ""))
+
+
 def stabilize_url(url: str) -> str:
+    url = unlaunder_translate_proxy(url)
     m = _CLARITY_RE.match(url)
     return m.group(1) if m else url
 

@@ -1,19 +1,19 @@
 {
   "county": "Potter",
   "page_type": "results",
-  "requested_url": "https://www-pottercountytexasvotes-gov.translate.goog/archived-election-results?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
-  "final_url": "https://www-pottercountytexasvotes-gov.translate.goog/archived-election-results?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
+  "requested_url": "https://www.pottercountytexasvotes.gov/archived-election-results",
+  "final_url": "https://www.pottercountytexasvotes.gov/archived-election-results",
   "redirect_chain": [
-    "https://www-pottercountytexasvotes-gov.translate.goog/archived-election-results?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp"
+    "https://www.pottercountytexasvotes.gov/archived-election-results"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T18:07:05Z",
-  "html_sha256": "7ccf3a32671ce9018efce19239e543e9ad8c26206cb74bf88d66442e51dfd6f4",
+  "fetched_at": "2026-07-29T18:23:08Z",
+  "html_sha256": "fd23ea981f091bcbb88e758057b228b8997be403cd6aec5619fcc5c99da9f6e2",
   "text_sha256": "a1aa926665af011951fd8956c272ccf2fef1bcebfa689ef89759ad8e07a47fcd",
-  "byte_size": 276753,
+  "byte_size": 251293,
   "title": "Historical Results | Potter County Elections Administration | Amarillo",
   "error": null
 }

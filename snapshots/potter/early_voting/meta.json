@@ -1,19 +1,19 @@
 {
   "county": "Potter",
   "page_type": "early_voting",
-  "requested_url": "https://www-pottercountytexasvotes-gov.translate.goog/early-voting-locations?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
-  "final_url": "https://www-pottercountytexasvotes-gov.translate.goog/early-voting-locations?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp",
+  "requested_url": "https://www.pottercountytexasvotes.gov/early-voting-locations",
+  "final_url": "https://www.pottercountytexasvotes.gov/early-voting-locations",
   "redirect_chain": [
-    "https://www-pottercountytexasvotes-gov.translate.goog/early-voting-locations?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp"
+    "https://www.pottercountytexasvotes.gov/early-voting-locations"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T18:07:05Z",
-  "html_sha256": "a59f1b54ad0eafca88c90f08af1ae6d1675807c3cde5d7a229873141b26c055c",
+  "fetched_at": "2026-07-29T18:23:08Z",
+  "html_sha256": "36620f7683d5ed4fddb4b0f15a1e5c7a491ba0975c6a5f39195a3cb03e8e44d5",
   "text_sha256": "bc5daca92b6d4736ad24f68d6b87e681e8fd30c59fe2869a87d2d3cf2c776c2d",
-  "byte_size": 115037,
+  "byte_size": 103821,
   "title": "Early Voting Locations | Potter County Elections Administration | Amarillo",
   "error": null
 }
