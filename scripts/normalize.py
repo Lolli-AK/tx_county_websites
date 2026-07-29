@@ -132,6 +132,9 @@ _GLUED_TOKEN_RE = re.compile(r"\b(pbckid|comp-|uid|guid|ctl)([0-9a-f]{10,})\b")
 # only some of them, which produced churn rather than removing it.
 _MIXEDCASE_SUFFIX_RE = re.compile(
     r"-(?=[A-Za-z0-9]*[A-Z])(?=[A-Za-z0-9]*[a-z])[A-Za-z0-9]{8,}\b")
+# WordPress child-theme build counter, e.g. Jefferson County's body carries
+# class="wp-child-theme-jefferson-tx-redesign_102" and bumps it on each deploy.
+_THEME_BUILD_RE = re.compile(r"\b(wp-(?:child-)?theme-[a-z0-9-]+)_\d+\b")
 
 # Attributes whose values are identifier-ish and safe to canonicalize.
 _ID_ATTRS = ("id", "class", "for", "aria-controls", "aria-labelledby",
@@ -175,8 +178,9 @@ _PLAYBACK_STATE_CLASSES = {"evo_slideshow_pause", "paused", "is-paused",
 # Live weather widgets on county homepages ("Fair" -> "Partly Cloudy"). Genuine
 # real-world data, but it changes hourly and is unrelated to election content, so
 # leaving it in would put permanent noise in every homepage diff.
-_WEATHER_HINTS = ("weathericon", "weather-widget", "wi wi-", "weatherwidget",
-                  "current-weather", "weather-current")
+_WEATHER_HINTS = ("weathercontainer", "weather-container", "weatherwidget",
+                  "weather-widget", "weatherblock", "weather-block",
+                  "weathericon", "current-weather", "weather-current")
 
 _INJECTED_WIDGET_HINTS = ("audioeye", "accessibe", "userway", "usablenet",
                           "recite-me", "recitememe", "equalweb",
@@ -202,6 +206,7 @@ def _canon_ids(value: str) -> str:
     value = _DASHDASH_TOKEN_RE.sub("--RANDOM", value)
     value = _GLUED_TOKEN_RE.sub(r"\1HEX", value)
     value = _MIXEDCASE_SUFFIX_RE.sub("-RANDOM", value)
+    value = _THEME_BUILD_RE.sub(r"\1_BUILD", value)
     value = _PREFIXED_SHORTHEX_RE.sub(r"\1-HEX", value)
     value = _DATETIME_RE.sub("TIMESTAMP", value)
     return _US_DATETIME_RE.sub("TIMESTAMP", value)

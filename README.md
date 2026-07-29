@@ -619,11 +619,15 @@ tx-county-watch/
     snapshot.py              # main: fetch -> normalize -> write -> commit
     normalize.py             # shared deterministic cleaning transform
     audit_targets.py         # verify + content-audit every manifest URL
-    discover.py              # Phase 1 helper, batch 1 (link scoring)
-    discover_homepages.py    # Phase 1, batch 2: find + verify county homepages
-    discover_pages.py        # Phase 1, batch 2: find the 4 election pages
-    merge_batch2.py          # merge batch 2 discovery into targets.csv
+    discover.py              # Phase 1 helper (link scoring)
+    discover_homepages.py    # Phase 1: find + verify county homepages (--batch N)
+    discover_pages.py        # Phase 1: find the 4 election pages (--batch N)
+    merge_batch2.py          # merge a batch's discovery into targets.csv (--batch N)
+    _build_counties_seed.py  # one-shot: generated manifest/counties.csv (provenance)
     _build_manifest.py       # one-shot: reproduces the curated batch 1 rows
+  tests/
+    test_manifest.py         # 254-county partition, manifest/artifact invariants
+    test_verification.py     # identity-verification regressions (name collisions)
   config.json                # cadence + fetch knobs
   logs/                      # run logs (git-ignored)
   .github/workflows/snapshot.yml
@@ -631,5 +635,9 @@ tx-county-watch/
 
 ## Out of scope
 
-PDF capture/parsing, screenshots/visual diffing, full-site crawling, counties
-beyond the manifest, and alerting (diffs are reviewed via git).
+PDF capture/parsing, screenshots/visual diffing, full-site crawling, and alerting
+(diffs are reviewed via git).
+
+Texas's 254 counties are the **complete** set, so there is no further batch. The
+code stays data-driven regardless: any future manifest edit — a corrected URL, a
+new page type, even a different state — needs no code change.
