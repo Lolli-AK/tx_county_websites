@@ -30,6 +30,9 @@ jobs:
       github.event.schedule == '0 8 * * *' ||
       (github.event.schedule == '0 */3 * * *' && vars.ELECTION_WINDOW == 'true')
     runs-on: ubuntu-latest
+    # A full 382-target run takes ~15-25 min. Cap it so a hung fetch can't sit
+    # there burning the 6-hour default and, on a private repo, billable minutes.
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
