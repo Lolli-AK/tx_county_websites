@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.deltacountytx.com/elections"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-07-28T20:21:09Z",
-  "html_sha256": "2d32d70b1009de882b4fe6dc1d27b141106a35e055a377a2d615796f7dd89163",
-  "text_sha256": "1f220428685294a20e580e1344ed30992e86619f09fe6d957083b16ea871858c",
-  "byte_size": 103869,
-  "title": "Elections | Delta County, TX",
+  "fetched_at": "2026-07-29T14:47:13Z",
+  "html_sha256": "e9e08d46225b65d751b728e580352772278ae6b130107e4ab9298dbabd3607e3",
+  "text_sha256": "095d88919cff790d3d23a331a0fd7a70fdec1834f52210e9412a4ef49c0e5e83",
+  "byte_size": 2753,
+  "title": "Just a moment...",
   "error": null
 }

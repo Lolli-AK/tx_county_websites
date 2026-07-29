@@ -6,11 +6,11 @@
   "redirect_chain": [
     "https://results.enr.clarityelections.com/TX/Bexar/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 202,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-07-28T20:10:53Z",
+  "fetched_at": "2026-07-29T14:47:13Z",
   "html_sha256": "d74127f352a965e65a802712b7a41fedd0fdbd161be72e15946e57eb308fa0b8",
   "text_sha256": "bc79e7990227334d1faaeb65966a3619721a7cead9a1302f85d307ca7dd9a47e",
   "byte_size": 3240,

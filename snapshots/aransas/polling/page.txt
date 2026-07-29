@@ -1,14 +1,14 @@
 Aransas County Commissioners Court
 Department Home
 Voter Information
+Interactive Precinct Map
+Services Available to Voters with Disabilities in Texas
 Election Information
+Campaign Finance Reports
 Election Results
 Contact Information
 County Homepage
 General Information
-Departments
-Public Notices & Press
-Search Online
 About Aransas County
 Employee Directory
 Holiday Schedule
@@ -21,11 +21,11 @@ Chapter 380-381 Economic Development Agreements
 Minutes and Agendas
 Aransas County Hazard Mitigation Action Plan
 Community Resources Directory
+Community Resources Directory - Cover
+Community Resources Directory Listings
 Weather Conditions
 Public Transportation Services
 Featured Links
-Community Resources Directory - Cover
-Community Resources Directory Listings
 Rockport-Fulton Independent School District
 Aransas County Navigation District
 City of Rockport
@@ -40,8 +40,11 @@ Rockport Warriors United
 Coast 2 Capital Bike Ride
 Texas Department of Insurance COAST Program
 WorkInTexas.com
+Departments
 Aransas Pathways
 Commissioners Court
+Aransas County Tree Committee
+Aransas Pathways Steering Committee
 Collections Department
 Council on Aging
 County Airport
@@ -64,17 +67,9 @@ Historical Commission
 Human Resources
 Information Technology
 Justice of the Peace
-Law Enforcement & Public Safety
-Community Awareness
-Parole & Probation
-Public Library
-Road and Bridge
-Tax Assessor-Collector
-Veteran Services
-Aransas County Tree Committee
-Aransas Pathways Steering Committee
 Precinct 1
 Precinct 2
+Law Enforcement & Public Safety
 Communications
 Constable, Precinct 1
 Constable, Precinct 2
@@ -82,11 +77,18 @@ Corrections Department
 Emergency Management
 Rockport Police Department
 Sheriff's Department
+Community Awareness
+Parole & Probation
 Adult Probation
 Juvenile Probation
+Public Library
+Road and Bridge
 Road and Bridge
 Fleet Maintenance
 Storm Water Management
+Tax Assessor-Collector
+Veteran Services
+Public Notices & Press
 Press Releases
 Public Minutes and Agendas
 Court Orders and Resolutions
@@ -97,6 +99,7 @@ Jury Information Links
 Requests for Qualifications/Bids/Sealed Quotes
 County Financial Transparency Reports
 Cedar Bayou & Vincent Slough Photo Gallery
+Search Online
 Precinct & Voting Map
 View larger map
 New Voting Precinct Maps
@@ -114,6 +117,3 @@ Site Map
 |
 Get Adobe Reader
 Aransas County, Texas; Office of the County Judge; 308 N Live Oak St, Rockport, TX 78382-2745
-Interactive Precinct Map
-Services Available to Voters with Disabilities in Texas
-Campaign Finance Reports

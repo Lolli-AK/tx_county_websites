@@ -6,14 +6,14 @@
   "redirect_chain": [
     "http://www.co.cherokee.tx.us/ips/cms/othercountyoffices/elections.html"
   ],
-  "http_status": 200,
-  "content_type": "text/html",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-07-28T20:10:53Z",
-  "html_sha256": "6c5b4225bbeb4519f8821137942d861c89dab22e5df4bcb5f244b5893fb4149d",
-  "text_sha256": "05e17ba7dc0b293b465cfb2f73c611bd6737c2b3b5b932dcf2d395f4f779c106",
-  "byte_size": 33094,
-  "title": "Cherokee County - Elections",
+  "fetched_at": "2026-07-29T14:47:13Z",
+  "html_sha256": "42298309e3230d4464e4dfdd1fdcbad158d9f707cebba5840daaaf7373f07fa0",
+  "text_sha256": "363d57b5c280fad1cd75b6ce9f9a4e10b823d10b498721d7dcfcfce792d5a33a",
+  "byte_size": 958,
+  "title": "Security Check",
   "error": null
 }
