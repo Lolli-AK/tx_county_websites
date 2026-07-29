@@ -3,26 +3,26 @@ Hopkins,Sulphur Springs,https://www.hopkinscountytx.org/,confident,"'Hopkins' in
 Houston,Crockett,https://www.co.houston.tx.us/,confident,"'Houston' in page; seat 'Crockett' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Howard,Big Spring,https://www.co.howard.tx.us/,confident,"'Howard' in page; seat 'Big Spring' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioner's court, courthouse",
 Hudspeth,Sierra Blanca,https://www.co.hudspeth.tx.us/,confident,"'Hudspeth' in page; seat 'Sierra Blanca' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
-Hunt,Greenville,,unresolved,no candidate pattern verified — needs web search,yes
+Hunt,Greenville,https://www.huntcounty.net/,confident,"web-search verified: county judge, commissioners court, clerk, sheriff, elections; courthouse Greenville TX",
 Hutchinson,Stinnett,https://www.co.hutchinson.tx.us/,confident,"'Hutchinson' in page; seat 'Stinnett' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Irion,Mertzon,https://www.co.irion.tx.us/,confident,"'Irion' in page; seat 'Mertzon' in page; Texas/TX present; official TLD (tx.us); gov signals: sheriff, courthouse",
-Jack,Jacksboro,,unresolved,no candidate pattern verified — needs web search,yes
+Jack,Jacksboro,https://www.jackcounty.texas.gov/,confident,"web-search verified: state .texas.gov; commissioners court, clerk, tax assessor, elections admin; Jacksboro. NOTE Cloudflare JS challenge; legacy jackcounty.org is dead",
 Jackson,Edna,https://www.co.jackson.tx.us/,confident,"'Jackson' in page; seat 'Edna' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Jasper,Jasper,https://www.co.jasper.tx.us/,confident,"'Jasper' in page; seat 'Jasper' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Jeff Davis,Fort Davis,https://www.jeffdaviscounty.texas.gov/,confident,"'Jeff Davis' in page; seat 'Fort Davis' in page; Texas/TX present; official TLD (texas.gov); gov signals: commissioners court, county judge, county clerk",
 Jefferson,Beaumont,https://jeffersoncountytx.gov/,confident,"'Jefferson' in page; seat 'Beaumont' in page; Texas/TX present; official TLD (jeffersoncountytx.gov); gov signals: commissioners court, county clerk, district clerk",
 Jim Hogg,Hebbronville,https://www.co.jim-hogg.tx.us/,confident,"'Jim Hogg' in page; seat 'Hebbronville' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Jim Wells,Alice,https://www.co.jim-wells.tx.us/,confident,"'Jim Wells' in page; seat 'Alice' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
-Johnson,Cleburne,,unresolved,no candidate pattern verified — needs web search,yes
+Johnson,Cleburne,https://www.johnsoncountytx.org/,confident,"web-search verified: 'Johnson County, TX'; commissioners court, clerks, sheriff; courthouse Cleburne. NOTE 403 to bare UA, 200 with full browser headers",
 Jones,Anson,https://www.co.jones.tx.us/,confident,"'Jones' in page; seat 'Anson' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Karnes,Karnes City,https://www.co.karnes.tx.us/,confident,"'Karnes' in page; seat 'Karnes City' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
-Kaufman,Kaufman,,unresolved,no candidate pattern verified — needs web search,yes
+Kaufman,Kaufman,https://www.kaufmancounty.net/,confident,"web-search verified: 'Kaufman County, TX | Official Website'; government/departments, elections; Kaufman TX",
 Kendall,Boerne,https://www.kendallcountytx.gov/,confident,"'Kendall' in page; seat 'Boerne' in page; Texas/TX present; official TLD (kendallcountytx.gov); gov signals: commissioner's court, county judge, county clerk",
 Kent,Jayton,https://www.co.kent.tx.us/,confident,"'Kent' in page; seat 'Jayton' in page; Texas/TX present; official TLD (tx.us); gov signals: county judge, county clerk, district clerk",
 Kimble,Junction,https://www.co.kimble.tx.us/,confident,"'Kimble' in page; seat 'Junction' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Kinney,Brackettville,https://www.co.kinney.tx.us/,confident,"'Kinney' in page; seat 'Brackettville' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, commissioner's court, county judge",
 Kleberg,Kingsville,https://www.co.kleberg.tx.us/,confident,"'Kleberg' in page; seat 'Kingsville' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
-Knox,Benjamin,,unresolved,no candidate pattern verified — needs web search,yes
+Knox,Benjamin,https://www.knoxcountytexas.org/,confident,"web-search verified: commissioners court, county judge, clerks, sheriff, tax assessor; Benjamin TX",
 Lamar,Paris,https://www.lamarcountytx.gov,confident,'Lamar' in page; seat 'Paris' in page; Texas/TX present; official TLD (lamarcountytx.gov); gov signals: courthouse,
 Lamb,Littlefield,https://www.co.lamb.tx.us/,confident,"'Lamb' in page; seat 'Littlefield' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Lampasas,Lampasas,https://www.co.lampasas.tx.us/,confident,"'Lampasas' in page; seat 'Lampasas' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
@@ -46,19 +46,19 @@ McLennan,Waco,https://www.mclennan.gov/,confident,"'McLennan' in page; seat 'Wac
 McMullen,Tilden,https://mcmullencounty.org/,confident,"'McMullen' in page; seat 'Tilden' in page; Texas/TX present; gov signals: commissioners court, commissioner's court, county judge",
 Menard,Menard,https://www.co.menard.tx.us/,confident,"'Menard' in page; seat 'Menard' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Midland,Midland,https://www.co.midland.tx.us/,confident,"'Midland' in page; seat 'Midland' in page; Texas/TX present; official TLD (tx.us); gov signals: courthouse, commissioners' court, precinct",
-Milam,Cameron,,unresolved,no candidate pattern verified — needs web search,yes
+Milam,Cameron,https://www.milamcounty.net/,confident,"web-search verified: 'Milam County, TX'; commissioners, clerks, sheriff, elections; Cameron TX 76520 (not Cameron County)",
 Mills,Goldthwaite,https://www.millscountytx.gov,confident,"'Mills' in page; seat 'Goldthwaite' in page; Texas/TX present; official TLD (millscountytx.gov); gov signals: commissioners court, county judge, county clerk",
 Mitchell,Colorado City,https://www.co.mitchell.tx.us/,confident,"'Mitchell' in page; seat 'Colorado City' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Montague,Montague,https://www.co.montague.tx.us/,confident,"'Montague' in page; seat 'Montague' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioner's court, county judge, county clerk",
-Montgomery,Conroe,,unresolved,no candidate pattern verified — needs web search,yes
+Montgomery,Conroe,https://mctx.org/,confident,"web-search verified: 'Montgomery County' TX; commissioners court, clerks, sheriff, tax assessor; Conroe",
 Moore,Dumas,https://www.co.moore.tx.us/,confident,"'Moore' in page; seat 'Dumas' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Morris,Daingerfield,https://www.co.morris.tx.us/,confident,"'Morris' in page; seat 'Daingerfield' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Motley,Matador,https://www.co.motley.tx.us/,confident,"'Motley' in page; seat 'Matador' in page; Texas/TX present; official TLD (tx.us); gov signals: county judge, county clerk, district clerk",
-Nacogdoches,Nacogdoches,,unresolved,no candidate pattern verified — needs web search,yes
+Nacogdoches,Nacogdoches,https://www.nacogdochesco.gov/,confident,"web-search verified: .gov; sheriff, elections; Nacogdoches TX. NOTE co.nacogdoches.tx.us 301s here; site advertises a future move",
 Navarro,Corsicana,https://www.co.navarro.tx.us/,confident,"'Navarro' in page; seat 'Corsicana' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Newton,Newton,https://www.co.newton.tx.us/,confident,"'Newton' in page; seat 'Newton' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Nolan,Sweetwater,https://www.co.nolan.tx.us/,confident,"'Nolan' in page; seat 'Sweetwater' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
-Nueces,Corpus Christi,,unresolved,no candidate pattern verified — needs web search,yes
+Nueces,Corpus Christi,https://www.nuecesco.com/,confident,"web-search verified: 'Nueces County, TX'; commissioners court, clerks, sheriff, elections; Corpus Christi. NOTE .gov alias fails TLS for non-Chrome clients",
 Ochiltree,Perryton,https://www.co.ochiltree.tx.us/,confident,"'Ochiltree' in page; seat 'Perryton' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Oldham,Vega,https://www.co.oldham.tx.us/,confident,"'Oldham' in page; seat 'Vega' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Orange,Orange,https://www.co.orange.tx.us/,confident,'Orange' in page; seat 'Orange' in page; Texas/TX present; official TLD (tx.us),
@@ -74,10 +74,10 @@ Randall,Canyon,https://www.randallcounty.gov/,confident,"'Randall' in page; seat
 Reagan,Big Lake,https://www.co.reagan.tx.us/,confident,"'Reagan' in page; seat 'Big Lake' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, district clerk",
 Real,Leakey,https://www.co.real.tx.us/,confident,"'Real' in page; seat 'Leakey' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Red River,Clarksville,https://www.co.red-river.tx.us/,confident,"'Red River' in page; seat 'Clarksville' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
-Reeves,Pecos,,unresolved,no candidate pattern verified — needs web search,yes
+Reeves,Pecos,https://www.reevescounty.org/,confident,"web-search verified: 'Reeves County' TX; commissioners court, clerks, sheriff, elections; Pecos TX seat (not Pecos County)",
 Refugio,Refugio,https://www.co.refugio.tx.us/,confident,"'Refugio' in page; seat 'Refugio' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Robertson,Franklin,https://www.co.robertson.tx.us/,confident,"'Robertson' in page; seat 'Franklin' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
-Rockwall,Rockwall,,unresolved,no candidate pattern verified — needs web search,yes
+Rockwall,Rockwall,https://www.rockwallcountytexas.com/,confident,"web-search verified: commissioners court, county judge, sheriff, elections; 101 E Rusk St, Rockwall TX",
 Runnels,Ballinger,https://www.runnelscounty.org/,confident,"'Runnels' in page; seat 'Ballinger' in page; Texas/TX present; gov signals: commissioner's court, county judge, county clerk",
 Rusk,Henderson,https://www.ruskcountytx.gov/,confident,"'Rusk' in page; seat 'Henderson' in page; Texas/TX present; official TLD (ruskcountytx.gov); gov signals: commissioners court, county judge, county clerk",
 Sabine,Hemphill,https://www.co.sabine.tx.us/,confident,"'Sabine' in page; seat 'Hemphill' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
@@ -87,11 +87,11 @@ San Patricio,Sinton,https://www.sanpatriciocountytx.gov,confident,"'San Patricio
 San Saba,San Saba,https://www.co.san-saba.tx.us/,confident,"'San Saba' in page; seat 'San Saba' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Schleicher,Eldorado,https://www.schleichercounty.gov/,confident,"'Schleicher' in page; seat 'Eldorado' in page; Texas/TX present; official TLD (schleichercounty.gov); gov signals: commissioners court, county judge, county clerk",
 Scurry,Snyder,https://www.co.scurry.tx.us/,confident,"'Scurry' in page; seat 'Snyder' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
-Shackelford,Albany,,unresolved,no candidate pattern verified — needs web search,yes
+Shackelford,Albany,https://www.shackelfordcounty.org/,confident,"web-search verified: commissioners court, county judge, clerks, sheriff; Albany TX",
 Shelby,Center,https://www.co.shelby.tx.us/,confident,"'Shelby' in page; seat 'Center' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Sherman,Stratford,https://www.shermancountytx.gov,confident,"'Sherman' in page; seat 'Stratford' in page; Texas/TX present; official TLD (shermancountytx.gov); gov signals: commissioners court, county judge, county clerk",
-Smith,Tyler,,unresolved,no candidate pattern verified — needs web search,yes
-Somervell,Glen Rose,,unresolved,no candidate pattern verified — needs web search,yes
+Smith,Tyler,https://www.smith-county.com/,confident,"web-search verified: 'Smith County, TX | Official Website'; commissioners court annex Tyler (NOT the City of Tyler)",
+Somervell,Glen Rose,https://www.somervell.co/,confident,"web-search verified: 'Somervell County, TX | Official Website'; seat Glen Rose; government nav",
 Starr,Rio Grande City,https://www.co.starr.tx.us/,confident,"'Starr' in page; seat 'Rio Grande City' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Stephens,Breckenridge,https://www.co.stephens.tx.us/,confident,"'Stephens' in page; seat 'Breckenridge' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Sterling,Sterling City,https://www.sterlingcotx.gov,confident,"'Sterling' in page; seat 'Sterling City' in page; Texas/TX present; official TLD (sterlingcotx.gov); gov signals: commissioners court, county judge, county clerk",
@@ -106,7 +106,7 @@ Titus,Mount Pleasant,https://www.co.titus.tx.us/,confident,"'Titus' in page; Tex
 Tom Green,San Angelo,https://www.tomgreencountytx.gov/,confident,"'Tom Green' in page; seat 'San Angelo' in page; Texas/TX present; official TLD (tomgreencountytx.gov); gov signals: commissioners court, county judge, county clerk",
 Trinity,Groveton,https://www.co.trinity.tx.us/,confident,"'Trinity' in page; seat 'Groveton' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
 Tyler,Woodville,https://www.co.tyler.tx.us/,confident,"'Tyler' in page; seat 'Woodville' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, county clerk",
-Upshur,Gilmer,,unresolved,no candidate pattern verified — needs web search,yes
+Upshur,Gilmer,https://www.countyofupshur.com/,confident,"web-search verified: 'Upshur County' TX; commissioners court, clerks, sheriff, tax assessor; Gilmer TX",
 Upton,Rankin,https://www.co.upton.tx.us/,confident,"'Upton' in page; seat 'Rankin' in page; Texas/TX present; official TLD (tx.us); gov signals: commissioners court, county judge, district clerk",
 Uvalde,Uvalde,https://www.uvaldecounty.gov/,confident,'Uvalde' in page; seat 'Uvalde' in page; Texas/TX present; official TLD (uvaldecounty.gov); gov signals: courthouse,
 Val Verde,Del Rio,https://valverdecounty.texas.gov/,confident,"'Val Verde' in page; seat 'Del Rio' in page; Texas/TX present; official TLD (texas.gov); gov signals: commissioners court, county judge, county clerk",

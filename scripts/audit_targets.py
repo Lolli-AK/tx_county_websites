@@ -49,21 +49,19 @@ _LOG_LOCK = threading.Lock()
 
 # County seat (adds a second identity signal beyond the county name).
 # Batch 2 seats are imported from the discovery module so there is one source of truth.
-SEATS = {
-    "Harris": "Houston", "Dallas": "Dallas", "Tarrant": "Fort Worth",
-    "Bexar": "San Antonio", "Travis": "Austin", "Collin": "McKinney",
-    "El Paso": "El Paso", "Hidalgo": "Edinburg", "Williamson": "Georgetown",
-    "Webb": "Laredo", "Lubbock": "Lubbock", "Bell": "Belton",
-    "Galveston": "Galveston", "Kerr": "Kerrville", "Gillespie": "Fredericksburg",
-    "Medina": "Hondo", "Llano": "Llano", "Brewster": "Alpine",
-    "Presidio": "Marfa", "Hartley": "Channing", "Roberts": "Miami",
-    "Loving": "Mentone", "King": "Guthrie", "Kenedy": "Sarita",
-}
-try:  # add the 100 Batch 2 county seats
-    from discover_homepages import BATCH2 as _B2
-    SEATS.update(dict(_B2))
-except ImportError:  # pragma: no cover - discovery module always ships alongside
-    pass
+# County seats come from manifest/counties.csv — the single seed of truth. Nothing
+# here hardcodes a county list, so adding or correcting a county is a data edit.
+SEED = ROOT / "manifest" / "counties.csv"
+
+
+def _load_seats() -> dict[str, str]:
+    if not SEED.exists():
+        return {}
+    with SEED.open(newline="", encoding="utf-8") as fh:
+        return {r["county"].strip(): r["seat"].strip() for r in csv.DictReader(fh)}
+
+
+SEATS = _load_seats()
 
 # Page-type keywords. First list = strong (specific) signals, second = weak.
 TYPE_KEYWORDS = {
@@ -272,32 +270,97 @@ def _md(cell: str) -> str:
 
 
 def _write_report(rows: list[dict], audit_fields: list[str]) -> None:
+    """Write a summary grouped by batch and page type.
+
+    Grouped rather than one flat list because at 254 counties a flat dump of every
+    flagged row is unreadable, and because what a reviewer needs first is "which
+    batch and which page type is weakest" — batch 1 was human-curated, batches 2
+    and 3 were auto-discovered, so their error profiles differ.
+    """
+    from collections import Counter, defaultdict
+
+    PAGE_TYPES = ["homepage", "elections", "polling", "early_voting", "results"]
+    total_counties = len({r["county"] for r in rows})
     live = [r for r in rows if r.get("verify_status") == "ok"]
     broken = [r for r in rows if r.get("verify_status") == "broken"]
-    flagged = [r for r in rows if r.get("flag_for_review") == "yes"]
     gaps = [r for r in rows if r.get("verify_status") == "gap"]
-    lines = ["# targets.csv audit report", "",
-             f"- OK (live): {len(live)}",
-             f"- Broken: {len(broken)}",
-             f"- Flagged for review: {len(flagged)}",
-             f"- Gaps (no URL): {len(gaps)}", ""]
+    flagged = [r for r in rows if r.get("flag_for_review") == "yes"]
+    batches = sorted({str(r.get("batch", "")).strip() for r in rows} - {""})
+
+    L = [f"# targets.csv audit report", "",
+         f"**{total_counties} counties | {len(rows)} rows | {len(live)} live | "
+         f"{len(broken)} broken | {len(gaps)} gaps | {len(flagged)} flagged**", ""]
+
+    # ---- coverage by page type, split by batch ------------------------------
+    L += ["## Coverage by page type", "",
+          "| page type | " + " | ".join(f"batch {b}" for b in batches) + " | total |",
+          "|---" * (len(batches) + 2) + "|"]
+    for pt in PAGE_TYPES:
+        cells = []
+        for b in batches:
+            sel = [r for r in rows if r["page_type"] == pt
+                   and str(r.get("batch", "")).strip() == b]
+            got = sum(1 for r in sel if r["url"].strip())
+            cells.append(f"{got}/{len(sel)}")
+        allsel = [r for r in rows if r["page_type"] == pt]
+        L.append(f"| `{pt}` | " + " | ".join(cells) + " | "
+                 f"{sum(1 for r in allsel if r['url'].strip())}/{len(allsel)} |")
+    L.append("")
+
+    # ---- health by batch ----------------------------------------------------
+    L += ["## Health by batch", "",
+          "| batch | counties | live | broken | gaps | flagged |", "|---|---|---|---|---|---|"]
+    for b in batches:
+        sel = [r for r in rows if str(r.get("batch", "")).strip() == b]
+        L.append(f"| {b} | {len({r['county'] for r in sel})} | "
+                 f"{sum(1 for r in sel if r.get('verify_status') == 'ok')} | "
+                 f"{sum(1 for r in sel if r.get('verify_status') == 'broken')} | "
+                 f"{sum(1 for r in sel if r.get('verify_status') == 'gap')} | "
+                 f"{sum(1 for r in sel if r.get('flag_for_review') == 'yes')} |")
+    L.append("")
+
+    # ---- why rows are gaps -------------------------------------------------
+    import re as _re
+    reasons = Counter(_re.sub(r"[:(].*", "", (r.get("notes") or "")
+                              .replace("GAP: ", "")).strip()[:52]
+                      for r in gaps)
+    if reasons:
+        L += ["## Why rows are gaps", "", "| reason | rows |", "|---|---|"]
+        for reason, n in reasons.most_common(10):
+            L.append(f"| {_md(reason) or '(unspecified)'} | {n} |")
+        L.append("")
+
+    # ---- actionable detail, grouped ----------------------------------------
     if broken:
-        lines += ["## Broken", "", "| county | page_type | status | reason | url |",
-                  "|---|---|---|---|---|"]
-        for r in broken:
-            lines.append(f"| {r['county']} | {r['page_type']} | {r['http_status']} | "
-                         f"{_md(r['audit_reason'])} | {r['url']} |")
-        lines.append("")
-    if flagged:
-        lines += ["## Flagged for review", "",
-                  "| county | page_type | confidence | reason | url |",
-                  "|---|---|---|---|---|"]
-        for r in flagged:
-            if r in broken:
+        L += ["## Broken (needs a new URL)", "",
+              "| batch | county | page_type | status | reason | url |",
+              "|---|---|---|---|---|---|"]
+        for r in sorted(broken, key=lambda r: (r.get("batch", ""), r["county"])):
+            L.append(f"| {r.get('batch','')} | {r['county']} | {r['page_type']} | "
+                     f"{r['http_status']} | {_md(r['audit_reason'])} | {r['url']} |")
+        L.append("")
+
+    flagged_only = [r for r in flagged if r not in broken]
+    if flagged_only:
+        L += [f"## Flagged for review ({len(flagged_only)})", "",
+              "Grouped by page type — a whole type flagging together usually means "
+              "one systematic discovery problem rather than many unrelated ones.", ""]
+        by_type: dict[str, list[dict]] = defaultdict(list)
+        for r in flagged_only:
+            by_type[r["page_type"]].append(r)
+        for pt in PAGE_TYPES:
+            sel = by_type.get(pt)
+            if not sel:
                 continue
-            lines.append(f"| {r['county']} | {r['page_type']} | {r['audit_confidence']} | "
-                         f"{_md(r['audit_reason'])} | {r['url']} |")
-    REPORT.write_text("\n".join(lines) + "\n", encoding="utf-8")
+            L += [f"### `{pt}` ({len(sel)})", "",
+                  "| batch | county | confidence | reason | url |",
+                  "|---|---|---|---|---|"]
+            for r in sorted(sel, key=lambda r: (r.get("batch", ""), r["county"])):
+                L.append(f"| {r.get('batch','')} | {r['county']} | "
+                         f"{r['audit_confidence']} | {_md(r['audit_reason'])} | {r['url']} |")
+            L.append("")
+
+    REPORT.write_text("\n".join(L) + "\n", encoding="utf-8")
     log.info("wrote report -> %s", REPORT)
 
 

@@ -46,8 +46,29 @@ USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 )
-HEADERS = {"User-Agent": USER_AGENT,
-           "Accept": "text/html,application/xhtml+xml;q=0.9,*/*;q=0.8"}
+# A realistic, COMPLETE browser header set — not just a User-Agent. Bot protection
+# fingerprints the whole request: with only UA+Accept, Imperva served Aransas
+# County a 212-byte challenge stub and Cloudflare 403'd Delta County, while the
+# full set below returns their real pages (33 KB and 104 KB respectively). The
+# `br` encoding requires the `brotli` package (see requirements.txt), otherwise
+# advertising it yields undecodable bodies.
+HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Accept": ("text/html,application/xhtml+xml,application/xml;q=0.9,"
+               "image/avif,image/webp,*/*;q=0.8"),
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Sec-Ch-Ua": '"Chromium";v="125", "Not.A/Brand";v="24"',
+    "Sec-Ch-Ua-Mobile": "?0",
+    "Sec-Ch-Ua-Platform": '"macOS"',
+    "Cache-Control": "max-age=0",
+    "Connection": "keep-alive",
+}
 TIMEOUT = 15.0
 
 # Scoring patterns. (keyword, weight) — negative weights push candidates away.
@@ -141,6 +162,9 @@ GENERIC_PORTAL_HINTS = (
 )
 
 log = logging.getLogger("discover_pages")
+
+# Set from --batch so emitted rows carry the right label.
+BATCH_LABEL = "2"
 
 
 def is_generic_portal(url: str) -> bool:
@@ -393,7 +417,7 @@ def discover_county(county: str, seat: str, home: str) -> list[dict]:
     rows: list[dict] = []
 
     def row(ptype, url, note):
-        rows.append({"county": county, "batch": "2", "page_type": ptype,
+        rows.append({"county": county, "batch": BATCH_LABEL, "page_type": ptype,
                      "url": url,
                      "external": str(is_external(url, home)).lower() if url else "false",
                      "notes": note})
@@ -532,11 +556,20 @@ def discover_county(county: str, seat: str, home: str) -> list[dict]:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--county", action="append", default=None)
+    ap.add_argument("--batch", default="2",
+                    help="which batch's discovered homepages to crawl (default 2)")
     ap.add_argument("--workers", type=int, default=8)
     args = ap.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(message)s",
                         handlers=[logging.StreamHandler(sys.stdout)])
+    global BATCH_LABEL
+    BATCH_LABEL = str(args.batch)
 
+    global IN_CSV, OUT_CSV
+    IN_CSV = ROOT / "manifest" / f"batch{args.batch}_homepages.csv"
+    OUT_CSV = ROOT / "manifest" / f"batch{args.batch}_targets_draft.csv"
+    if not IN_CSV.exists():
+        sys.exit(f"missing {IN_CSV} — run discover_homepages.py --batch {args.batch} first")
     homes = list(csv.DictReader(IN_CSV.open(encoding="utf-8")))
     if args.county:
         want = {c.lower() for c in args.county}
