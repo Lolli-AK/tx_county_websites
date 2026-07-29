@@ -1,0 +1,19 @@
+{
+  "county": "Somervell",
+  "page_type": "results",
+  "requested_url": "https://www.somervell.co/161/Past-Election-Results",
+  "final_url": "https://www.somervell.co/161/Past-Election-Results",
+  "redirect_chain": [
+    "https://www.somervell.co/161/Past-Election-Results"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "089ca364f95afb675fac42b274c2af5bb9b78d1b041adaf1863b830b23f82416",
+  "text_sha256": "7a8518fa3e80f1968c19e977ad1a9821334b35869c7d09194f9e75ad4e343b94",
+  "byte_size": 36420,
+  "title": "Past Election Results | Somervell County, TX",
+  "error": null
+}

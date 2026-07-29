@@ -1,0 +1,19 @@
+{
+  "county": "Taylor",
+  "page_type": "homepage",
+  "requested_url": "https://taylorcounty.texas.gov/",
+  "final_url": "https://taylorcounty.texas.gov/",
+  "redirect_chain": [
+    "https://taylorcounty.texas.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "4628f4b786af6a3da904f3dcac1cd60d0abed159590cb091114f0e166cc5225a",
+  "text_sha256": "cc7fa70922093b0fd49b69f17163088fd52cd7e1ce0dc425251cc5773c06b388",
+  "byte_size": 62880,
+  "title": "Taylor County, TX - Official Website | Official Website",
+  "error": null
+}

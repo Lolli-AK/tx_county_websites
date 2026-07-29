@@ -1,0 +1,19 @@
+{
+  "county": "Zavala",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.zavala.tx.us/",
+  "final_url": "https://www.co.zavala.tx.us/",
+  "redirect_chain": [
+    "https://www.co.zavala.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "3c159a64c73c001c6b8925e9a783b1692f6ee89ac158ce4153d71a874e2468d1",
+  "text_sha256": "bcf3effc19db22e3577a36b8b0bd589511f0706d2420b746560b98f1ae2a1ffc",
+  "byte_size": 63239,
+  "title": "Zavala County",
+  "error": null
+}

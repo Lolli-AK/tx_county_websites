@@ -1,0 +1,19 @@
+{
+  "county": "Tyler",
+  "page_type": "polling",
+  "requested_url": "https://www.co.tyler.tx.us/page/tyler.ElectionInformation",
+  "final_url": "https://www.co.tyler.tx.us/page/tyler.ElectionInformation",
+  "redirect_chain": [
+    "https://www.co.tyler.tx.us/page/tyler.ElectionInformation"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "ae63de28d1c83e9bd13fe5b8e1f96ef59ade2b46e38498bf3dfd893c7f42b4a9",
+  "text_sha256": "7a0bcd8bc487c890bfcfc2c37f166245272c0b5fcd5c27aadcc5d6858987297d",
+  "byte_size": 102610,
+  "title": "Tyler County, Texas",
+  "error": null
+}

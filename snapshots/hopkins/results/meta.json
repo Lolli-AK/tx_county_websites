@@ -1,0 +1,19 @@
+{
+  "county": "Hopkins",
+  "page_type": "results",
+  "requested_url": "https://newtools.cira.state.tx.us/page/hopkins.ArchivedElections",
+  "final_url": "https://newtools.cira.state.tx.us/page/hopkins.ArchivedElections",
+  "redirect_chain": [
+    "https://newtools.cira.state.tx.us/page/hopkins.ArchivedElections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "9184870512419eb768f5b8d04abde10f60649fff9e092f24c9521a2a9aa2957e",
+  "text_sha256": "e46c931798c902c8bcc9f81995b86cbda6d5c703e6df048165259c8ec5d644be",
+  "byte_size": 44320,
+  "title": "Hopkins County, Texas",
+  "error": null
+}

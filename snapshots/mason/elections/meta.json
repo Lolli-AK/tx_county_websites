@@ -1,0 +1,19 @@
+{
+  "county": "Mason",
+  "page_type": "elections",
+  "requested_url": "https://www.co.mason.tx.us/page/mason.Elections",
+  "final_url": "https://www.co.mason.tx.us/page/mason.Elections",
+  "redirect_chain": [
+    "https://www.co.mason.tx.us/page/mason.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "926394924fea0c4c82f577850072ec8b289b6a05e6af9f7252e27db86c95a831",
+  "text_sha256": "2b5ebcfff27db90b55f8a8fc86de0f8214b2cfa7b77233cf87cb547a93e36294",
+  "byte_size": 118022,
+  "title": "Mason County, Texas",
+  "error": null
+}

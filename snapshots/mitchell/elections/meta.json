@@ -1,0 +1,19 @@
+{
+  "county": "Mitchell",
+  "page_type": "elections",
+  "requested_url": "https://www.co.mitchell.tx.us/page/Elections",
+  "final_url": "https://www.co.mitchell.tx.us/page/Elections",
+  "redirect_chain": [
+    "https://www.co.mitchell.tx.us/page/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "dd9fcd8805541e2ef19def0d2c4e37d321fdcecb44c08e4d701dce31e35301e1",
+  "text_sha256": "e9c86e02ffcac27d8184d16f460c3e9eb2e4702ee145f4544f3fd8f22cd9f9b0",
+  "byte_size": 44578,
+  "title": "Elections Home | Mitchell County, TX",
+  "error": null
+}

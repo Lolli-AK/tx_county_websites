@@ -1,0 +1,19 @@
+{
+  "county": "Van Zandt",
+  "page_type": "homepage",
+  "requested_url": "https://www.vanzandtcounty.org/",
+  "final_url": "https://www.vanzandtcounty.org/",
+  "redirect_chain": [
+    "https://www.vanzandtcounty.org/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "c952ded691bf0d951848a3e4769cf9a3fd1c7e9a1cb4f698aad721d1702fcc6c",
+  "text_sha256": "6d9a3012eb307cf9eaaf4a731d968eee81f19b295e5084e2f0f9cf980dc0bc23",
+  "byte_size": 40596,
+  "title": "Home Page - Van Zandt County",
+  "error": null
+}

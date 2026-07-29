@@ -1,0 +1,19 @@
+{
+  "county": "Navarro",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.navarro.tx.us/",
+  "final_url": "https://www.co.navarro.tx.us/",
+  "redirect_chain": [
+    "https://www.co.navarro.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "55a985178a9ee051b0f0b47d264aec80f6884c45f7c8419d78d2587feadb92e0",
+  "text_sha256": "fbef27f7aa65bb91b1cc7f91ec9432047fb4fa43cc4bb88e482dae3ca1e9fea0",
+  "byte_size": 56230,
+  "title": "Navarro County, Texas",
+  "error": null
+}

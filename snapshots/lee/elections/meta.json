@@ -1,0 +1,19 @@
+{
+  "county": "Lee",
+  "page_type": "elections",
+  "requested_url": "https://www.co.lee.tx.us/page/lee.Elections",
+  "final_url": "https://www.co.lee.tx.us/page/lee.Elections",
+  "redirect_chain": [
+    "https://www.co.lee.tx.us/page/lee.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "29390f94e0272825f7597afb1465c268284fc080db44aca73cbe306cceeb84db",
+  "text_sha256": "607998f46e2b27caa259c620e16cbf48858b9eabcfa7b0e53b8f6105a2a91161",
+  "byte_size": 28899,
+  "title": "Lee County, Texas",
+  "error": null
+}

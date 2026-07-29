@@ -1,0 +1,19 @@
+{
+  "county": "McMullen",
+  "page_type": "elections",
+  "requested_url": "https://mcmullencounty.org/elections/",
+  "final_url": "https://mcmullencounty.org/elections/",
+  "redirect_chain": [
+    "https://mcmullencounty.org/elections/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "ce7fd671aa548c13400739797c0032c6f486eef5dcc72b6ae25b7d6fa8db0d57",
+  "text_sha256": "4daf0a4c41d3b24b2a9c196bd4459699e38fb162895036f71fe60dc7329d1f8c",
+  "byte_size": 248021,
+  "title": "Elections – McMullen County",
+  "error": null
+}

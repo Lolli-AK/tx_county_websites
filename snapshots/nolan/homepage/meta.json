@@ -1,0 +1,19 @@
+{
+  "county": "Nolan",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.nolan.tx.us/",
+  "final_url": "https://www.co.nolan.tx.us/",
+  "redirect_chain": [
+    "https://www.co.nolan.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "8efcc90c5b7cb7a654da85ee5f567e068d18df0ff1d8d15ff93fd7423ee907ab",
+  "text_sha256": "420f1598d50dd13895a8db06c61e0aed4fcdd7c31ce953e97bb5c1cfd39b60cc",
+  "byte_size": 21826,
+  "title": "Nolan County, Texas",
+  "error": null
+}

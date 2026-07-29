@@ -1,0 +1,19 @@
+{
+  "county": "Nacogdoches",
+  "page_type": "elections",
+  "requested_url": "https://www.nacogdochesco.gov/164/Election-Results",
+  "final_url": "https://www.nacogdochesco.gov/164/Election-Results",
+  "redirect_chain": [
+    "https://www.nacogdochesco.gov/164/Election-Results"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "4e218e13bbb524562d4c750cf944318ee19dd97488fb810ba0ca591872683dda",
+  "text_sha256": "3e1505bbd2e732fcdbb6552b3fd15313c5b127c6797fd7769109889b9c276daa",
+  "byte_size": 28450,
+  "title": "Election Results | Nacogdoches County, TX",
+  "error": null
+}

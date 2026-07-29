@@ -1,0 +1,19 @@
+{
+  "county": "Winkler",
+  "page_type": "elections",
+  "requested_url": "https://www.co.winkler.tx.us/213/Elections",
+  "final_url": "https://www.co.winkler.tx.us/213/Elections",
+  "redirect_chain": [
+    "https://www.co.winkler.tx.us/213/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "72b0928d211008b1e5f982c1d64f5587ccd7544d08e440b91ff2884798c4e234",
+  "text_sha256": "b0f9e99e93fe68ae147cea1314abe3abc881ad12c9f9bf996abb0c301f25025f",
+  "byte_size": 138693,
+  "title": "Elections | Winkler County, TX",
+  "error": null
+}

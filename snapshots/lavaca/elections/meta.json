@@ -1,0 +1,19 @@
+{
+  "county": "Lavaca",
+  "page_type": "elections",
+  "requested_url": "https://www.co.lavaca.tx.us/page/Elections",
+  "final_url": "https://www.co.lavaca.tx.us/page/Elections",
+  "redirect_chain": [
+    "https://www.co.lavaca.tx.us/page/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "ea8e216b476826fb0f6c62a4ec9b06d46b9452acb07c365beb3011bca2a9ede7",
+  "text_sha256": "bc84ed10b92cf2fc7c45aa2201f93804830803997c8cc3193718ea9e51019042",
+  "byte_size": 300499,
+  "title": "Lavaca County Elections",
+  "error": null
+}

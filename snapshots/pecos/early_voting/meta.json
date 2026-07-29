@@ -1,0 +1,19 @@
+{
+  "county": "Pecos",
+  "page_type": "early_voting",
+  "requested_url": "https://www.co.pecos.tx.us/general-voter-election-information/",
+  "final_url": "https://www.co.pecos.tx.us/general-voter-election-information/",
+  "redirect_chain": [
+    "https://www.co.pecos.tx.us/general-voter-election-information/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "fa3b38e3ea65cdf98adccdb617bd93a870943640933ff715658127df0ce5e649",
+  "text_sha256": "45f9c3f23d01368ee12f8a77d5c1739548a31f229acff7123514e51c1bb22e38",
+  "byte_size": 24634,
+  "title": "General Voter & Election Information – Pecos County",
+  "error": null
+}

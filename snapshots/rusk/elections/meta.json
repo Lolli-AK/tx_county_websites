@@ -1,0 +1,19 @@
+{
+  "county": "Rusk",
+  "page_type": "elections",
+  "requested_url": "https://www.ruskcountytx.gov/page/rusk.Elections",
+  "final_url": "https://www.ruskcountytx.gov/page/rusk.Elections",
+  "redirect_chain": [
+    "https://www.ruskcountytx.gov/page/rusk.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "794aebcfd51a6e943428c367fa6ff8e3aff45c34654a576199f18cc95c642186",
+  "text_sha256": "0e57bb6ff150241315256e1294a04ef096747fc431d9a5c41b57f0ae02adeac8",
+  "byte_size": 238606,
+  "title": "Rusk County, Texas",
+  "error": null
+}

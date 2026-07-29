@@ -1,0 +1,19 @@
+{
+  "county": "Marion",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.marion.tx.us/",
+  "final_url": "https://www.co.marion.tx.us/",
+  "redirect_chain": [
+    "https://www.co.marion.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "f072b043730d9fc0d53d9517f48c4537afffef17c50e6a594c49ae2bd2a80d2c",
+  "text_sha256": "df314f3cc7e4a84e69846252c1ead34dea431f9584ad01fd3a08abebc53fd501",
+  "byte_size": 42712,
+  "title": "Home Page - Marion County",
+  "error": null
+}

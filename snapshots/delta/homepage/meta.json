@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.deltacountytx.com/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T15:00:45Z",
-  "html_sha256": "b072ce8bbc1ca3de85d65fffae01c6ca940dccebf53487436071e1ae61d9b1e5",
-  "text_sha256": "9a23ffc2bd1a75a47f67bfe76309a863780410fc4f1ea3688a821512a4be7bef",
-  "byte_size": 2753,
-  "title": "Just a moment...",
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "fc135549b372ae66ec7cbb67a9ecb0437267033e8214f1ec3cec0f0aa40b8bea",
+  "text_sha256": "e9881d32b50a47ba10fe7c1957d60dd435972d22003fbab52a999fbabc927a49",
+  "byte_size": 117737,
+  "title": "Homepage | Delta County, TX",
+  "error": null
 }

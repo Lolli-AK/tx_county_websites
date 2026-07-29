@@ -1,0 +1,19 @@
+{
+  "county": "Robertson",
+  "page_type": "elections",
+  "requested_url": "https://www.co.robertson.tx.us/page/robertson.Elections",
+  "final_url": "https://www.co.robertson.tx.us/page/robertson.Elections",
+  "redirect_chain": [
+    "https://www.co.robertson.tx.us/page/robertson.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "72d2802126e42b8b246121aef507e4d3c16762b01ad986d8e71467f1f658c1fa",
+  "text_sha256": "7dcb89c117032645a213c14f40fa3ef008a49048d5253b41870691a0af9354b5",
+  "byte_size": 70866,
+  "title": "Robertson County, Texas",
+  "error": null
+}

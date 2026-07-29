@@ -1,0 +1,19 @@
+{
+  "county": "Howard",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.howard.tx.us/",
+  "final_url": "https://www.co.howard.tx.us/",
+  "redirect_chain": [
+    "https://www.co.howard.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "32ded227bee666db3276cd89d9543f3cab00d4f1ac5984c3e53475d2a13aa853",
+  "text_sha256": "4dd672c7ee4abff8141895f00cbc5e4e78af5f1aaa5245a43423c497478ca503",
+  "byte_size": 49913,
+  "title": "Howard County, TX | Official Website",
+  "error": null
+}

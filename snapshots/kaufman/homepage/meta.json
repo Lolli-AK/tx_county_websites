@@ -1,0 +1,19 @@
+{
+  "county": "Kaufman",
+  "page_type": "homepage",
+  "requested_url": "https://www.kaufmancounty.net/",
+  "final_url": "https://www.kaufmancounty.net/",
+  "redirect_chain": [
+    "https://www.kaufmancounty.net/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "7e7e13297f434ada0a853f0a1d6581b27efd7d3d68f55cf64feb135bc574f662",
+  "text_sha256": "17a7d8996ed27e34da8f787a2a4821c0ff0a19ec00f6c4f7a1527f2f387f02e1",
+  "byte_size": 69764,
+  "title": "Kaufman County, TX | Official Website",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Upshur",
+  "page_type": "homepage",
+  "requested_url": "https://www.countyofupshur.com/",
+  "final_url": "https://www.countyofupshur.com/",
+  "redirect_chain": [
+    "https://www.countyofupshur.com/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "3f370a2e21bc12c6c77e5a62acb73c18b7713c4358bf76a17dea31b6c9286d86",
+  "text_sha256": "7b8824199012d5cd48ba9222be6f12061ee81046b72f565875daa7c916efae07",
+  "byte_size": 53435,
+  "title": "County of Upshur",
+  "error": null
+}

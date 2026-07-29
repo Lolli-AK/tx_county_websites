@@ -1,0 +1,19 @@
+{
+  "county": "Uvalde",
+  "page_type": "elections",
+  "requested_url": "https://www.uvaldecountyelections.com/",
+  "final_url": "https://www.uvaldecountyelections.com/",
+  "redirect_chain": [
+    "https://www.uvaldecountyelections.com/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "962e492fd633dd959d4ebc3825cb2670dfa6d9ef49d309058a8f4e4511c9d485",
+  "text_sha256": "6fd22aecc2c1e86477f7168afae6da0716c263ab54b3fcd0c0a389c13325be9b",
+  "byte_size": 28996,
+  "title": "Uvalde County Elections",
+  "error": null
+}

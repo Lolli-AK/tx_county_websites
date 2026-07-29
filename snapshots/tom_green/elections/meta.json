@@ -1,0 +1,19 @@
+{
+  "county": "Tom Green",
+  "page_type": "elections",
+  "requested_url": "https://www.tomgreencountytx.gov/page/ele.ElectHomeNew",
+  "final_url": "https://www.tomgreencountytx.gov/page/ele.ElectHomeNew",
+  "redirect_chain": [
+    "https://www.tomgreencountytx.gov/page/ele.ElectHomeNew"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "2ab09e311812f1ae45f35d5581fc61a855962bd7ac491e92e85891a2330e4999",
+  "text_sha256": "161672d68ff34e522e3374275d7c21df9a4c5ef40a195d27a626e4fbe22f61a2",
+  "byte_size": 37279,
+  "title": "Tom Green County",
+  "error": null
+}

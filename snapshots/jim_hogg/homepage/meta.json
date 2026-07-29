@@ -1,0 +1,19 @@
+{
+  "county": "Jim Hogg",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.jim-hogg.tx.us/",
+  "final_url": "https://www.co.jim-hogg.tx.us/",
+  "redirect_chain": [
+    "https://www.co.jim-hogg.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "a485ef7395deefe340d9010733de7b758eff6c6b55adb424e26da1b9b71147e1",
+  "text_sha256": "a6af09369c74070b0aa9b833ffab732d1a1da054f7cf6983e6b87b8426381579",
+  "byte_size": 36518,
+  "title": "Jim Hogg County, Texas",
+  "error": null
+}

@@ -247,8 +247,16 @@ def verify(county: str, seat: str, url: str, text: str, title: str | None
     seat_l = seat.lower()
     host = httpx.URL(url).host
 
-    if any(sig in hay[:4000] for sig in PARKED_SIGNALS):
-        return "reject", "parked/placeholder domain"
+    # Parked/placeholder detection needs corroboration: real county sites say
+    # "Coming soon!" about an Expo Center (Nacogdoches) and describe a zone
+    # "currently under construction" (Shackelford). A genuinely parked domain has
+    # the phrase in its TITLE, or almost no content and no government vocabulary.
+    parked_hits = [sig for sig in PARKED_SIGNALS if sig in hay[:4000]]
+    if parked_hits:
+        gov_early = [g for g in GOV_SIGNALS if g in hay]
+        in_title = any(sig in (title or "").lower() for sig in PARKED_SIGNALS)
+        if in_title or (len(text.strip()) < 800 and not gov_early):
+            return "reject", f"parked/placeholder domain ({parked_hits[0]})"
     if any(sig in hay[:2000] for sig in ERROR_SIGNALS):
         return "reject", "error page"
     if len(text.strip()) < 120:

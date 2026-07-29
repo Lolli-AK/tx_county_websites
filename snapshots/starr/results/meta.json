@@ -1,0 +1,19 @@
+{
+  "county": "Starr",
+  "page_type": "results",
+  "requested_url": "https://www.harrisvotes.com/Election-Results",
+  "final_url": "https://www.harrisvotes.com/Election-Results",
+  "redirect_chain": [
+    "https://www.harrisvotes.com/Election-Results"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "0d77967a81b161aa65f2ced89cc779185fa2d05d570e9c7d7167d52b45b5473b",
+  "text_sha256": "c0c4cf3c65923b62de0cfdf6ab61b0dd1a425f88429ec881e8a89eda251ee311",
+  "byte_size": 39480,
+  "title": "Election Results",
+  "error": null
+}

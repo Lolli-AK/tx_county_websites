@@ -1,0 +1,19 @@
+{
+  "county": "Victoria",
+  "page_type": "early_voting",
+  "requested_url": "https://www.vctx.org/page/elections.upcoming",
+  "final_url": "https://www.vctx.org/page/elections.upcoming",
+  "redirect_chain": [
+    "https://www.vctx.org/page/elections.upcoming"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "5657f3bbbed7b63491c4cbf311eb5be1823da43bf5658d846a5554913368e3d7",
+  "text_sha256": "18e6127fd1942163f7c9977822257e45c45248f79b89d523937460922dbd3d88",
+  "byte_size": 40563,
+  "title": "Victoria County, Texas",
+  "error": null
+}

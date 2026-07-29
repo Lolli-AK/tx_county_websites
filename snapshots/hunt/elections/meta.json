@@ -1,0 +1,19 @@
+{
+  "county": "Hunt",
+  "page_type": "elections",
+  "requested_url": "https://www.huntcounty.net/page/election",
+  "final_url": "https://www.huntcounty.net/page/election",
+  "redirect_chain": [
+    "https://www.huntcounty.net/page/election"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "5285546b8aa433a67505f0d4eb828dc68c94e1b482c43fe6bc5e6e17a79aeb59",
+  "text_sha256": "0412e31cb643d23c759f96e306f93b15422f7b58a6477c904374a2b8af9ae8a8",
+  "byte_size": 70614,
+  "title": "Elections-Voter Administration | Hunt County, Texas",
+  "error": null
+}

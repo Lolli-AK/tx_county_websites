@@ -1,0 +1,19 @@
+{
+  "county": "McLennan",
+  "page_type": "polling",
+  "requested_url": "https://www.mclennan.gov/383/Vote-CentersPolling-Locations",
+  "final_url": "https://www.mclennan.gov/383/Vote-CentersPolling-Locations",
+  "redirect_chain": [
+    "https://www.mclennan.gov/383/Vote-CentersPolling-Locations"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "a766d3fcde1332cb79d0082d4edf12bd7920132ca09e8600423790d0729dc140",
+  "text_sha256": "f65f5350f45a427daf41e41e11bc33c6e1932a9e931383a9e586595cacc3e4bd",
+  "byte_size": 59586,
+  "title": "Vote Centers/Polling Locations | McLennan County, TX",
+  "error": null
+}

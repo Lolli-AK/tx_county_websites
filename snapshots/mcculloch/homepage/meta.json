@@ -1,0 +1,19 @@
+{
+  "county": "McCulloch",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.mcculloch.tx.us/",
+  "final_url": "https://www.co.mcculloch.tx.us/",
+  "redirect_chain": [
+    "https://www.co.mcculloch.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "a1963c9401c82edfcc499faf35198e475aae854f6c5e7c649165fd6c03821f1e",
+  "text_sha256": "f4d79757f569bff0b8c985ab5247ee41a6f36613105cb453551bab8c4c6106ed",
+  "byte_size": 65741,
+  "title": "McCulloch County, Texas",
+  "error": null
+}

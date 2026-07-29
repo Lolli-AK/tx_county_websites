@@ -1,0 +1,19 @@
+{
+  "county": "Mills",
+  "page_type": "homepage",
+  "requested_url": "https://www.millscountytx.gov",
+  "final_url": "https://www.millscountytx.gov",
+  "redirect_chain": [
+    "https://www.millscountytx.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "f0404f630ae2269c1f5785b30c317e0d90887bb5ebdddaf8c60365e4db829e79",
+  "text_sha256": "bbd7a725744e40530daa239017aaf233cc0a472bfcd4a31cd6c84a6acbc75f65",
+  "byte_size": 53177,
+  "title": "Mills County, Texas",
+  "error": null
+}

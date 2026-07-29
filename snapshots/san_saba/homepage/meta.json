@@ -1,0 +1,19 @@
+{
+  "county": "San Saba",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.san-saba.tx.us/",
+  "final_url": "https://www.co.san-saba.tx.us/",
+  "redirect_chain": [
+    "https://www.co.san-saba.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "de1b4626b3d06bd11810c088a8bcbdd6dfa8eebdcda8d196e0da0f6c4b9d1556",
+  "text_sha256": "1c37174a036376bc4096298bdfebc3e002a0fd5a9b3d5ca91c1ea0d0024d7c3c",
+  "byte_size": 26710,
+  "title": "San Saba County, Texas",
+  "error": null
+}

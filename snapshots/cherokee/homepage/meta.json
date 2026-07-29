@@ -6,14 +6,14 @@
   "redirect_chain": [
     "http://www.co.cherokee.tx.us/ips/cms/index.html"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T15:00:45Z",
-  "html_sha256": "f7c3400688ea90477aee470b63dfe637e4ef61bc3141b85896081db9c4e10121",
-  "text_sha256": "01da20508703d866b55c60f92f9de2940705b7bc81275c271d8a13d1e1b9ac8f",
-  "byte_size": 18319,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "fae65494c6f5df1a652e3fef8da655e3870c411c14c94ffb938c39aaa5d31372",
+  "text_sha256": "66dd14e175ea398cd81f008a4473dc54dbdf7edeb176a3438d618ef026d861c0",
+  "byte_size": 17510,
   "title": "Cherokee County, Texas",
   "error": null
 }

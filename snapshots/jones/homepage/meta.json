@@ -1,0 +1,19 @@
+{
+  "county": "Jones",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.jones.tx.us/",
+  "final_url": "https://www.co.jones.tx.us/",
+  "redirect_chain": [
+    "https://www.co.jones.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "a806240af2dae9f7dc921b1e15ce8774407ba4f0c89a2c325a7d3e6768295ec6",
+  "text_sha256": "46d88643da77a96551a036cee2495c1eb9d673c2ab310203a29343367f9bf24e",
+  "byte_size": 27562,
+  "title": "Home Page - Jones County",
+  "error": null
+}

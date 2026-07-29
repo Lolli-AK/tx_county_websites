@@ -1,0 +1,19 @@
+{
+  "county": "Martin",
+  "page_type": "elections",
+  "requested_url": "https://www.martincountytx.com/m/faq?cat=15#question-65",
+  "final_url": "https://www.martincountytx.com/m/faq?cat=15#question-65",
+  "redirect_chain": [
+    "https://www.martincountytx.com/m/faq?cat=15#question-65"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "e8ee5a6916bbfdf50037e808a231ef4cbf821f8a6f98affe559d25cbb49f629d",
+  "text_sha256": "57801ff7ae44965b8adc00f03c78e71fe066b76054e89ad566b08cf0526312cd",
+  "byte_size": 57686,
+  "title": "Frequently Asked Questions - CivicPlus.CMS.FAQ",
+  "error": null
+}

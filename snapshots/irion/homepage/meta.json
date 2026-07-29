@@ -1,0 +1,19 @@
+{
+  "county": "Irion",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.irion.tx.us/",
+  "final_url": "https://www.co.irion.tx.us/",
+  "redirect_chain": [
+    "https://www.co.irion.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "61df37e3c3c49a576a904a2b21a919d0e8f18780bf4487f910032719a57c977e",
+  "text_sha256": "9e85a2c592f8df33fc8488239e5ea7442ec924a97a052ccf7ce4b2976d15f0c7",
+  "byte_size": 50036,
+  "title": "Irion County, TX | Official Website",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Terrell",
+  "page_type": "elections",
+  "requested_url": "https://www.co.terrell.tx.us/page/terrell.Elections",
+  "final_url": "https://www.co.terrell.tx.us/page/terrell.Elections",
+  "redirect_chain": [
+    "https://www.co.terrell.tx.us/page/terrell.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "d12cfb6b7fa9d856be72a005a727849f50a8c9c6aca59dbe8fdf4c4363a5aab5",
+  "text_sha256": "43f96ee36140b85dc734e1964c6a214b88534bf3808d73ac4649c7a4ec4fa31e",
+  "byte_size": 35532,
+  "title": "Terrell County, Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "McLennan",
+  "page_type": "elections",
+  "requested_url": "https://www.mclennan.gov/337/Elections",
+  "final_url": "https://www.mclennan.gov/337/Elections",
+  "redirect_chain": [
+    "https://www.mclennan.gov/337/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "a112f8559a2023ac193121ae18e2aead530fb9be0f2536db69b87a5aa569466e",
+  "text_sha256": "6963455408826cbaab48eaa167ff6f06ee5e3346c47417cba513df2da5febf14",
+  "byte_size": 73127,
+  "title": "Elections | McLennan County, TX",
+  "error": null
+}

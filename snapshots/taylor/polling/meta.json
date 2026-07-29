@@ -1,0 +1,19 @@
+{
+  "county": "Taylor",
+  "page_type": "polling",
+  "requested_url": "https://taylorcounty.texas.gov/214/Current-Election",
+  "final_url": "https://taylorcounty.texas.gov/214/Current-Election",
+  "redirect_chain": [
+    "https://taylorcounty.texas.gov/214/Current-Election"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "ce55625d537d3f5ba2eea760c59aed23872e4fe087956a79629e6e1a4f73e90c",
+  "text_sha256": "8bd397622fd0795967a94d4b1ce9232b30a27303057245b3c7fecfaab4598b71",
+  "byte_size": 97488,
+  "title": "Current Election | Taylor County, TX - Official Website",
+  "error": null
+}

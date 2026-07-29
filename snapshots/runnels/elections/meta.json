@@ -1,0 +1,19 @@
+{
+  "county": "Runnels",
+  "page_type": "elections",
+  "requested_url": "https://www.runnelscounty.org/page/runnels.Elections",
+  "final_url": "https://www.runnelscounty.org/page/runnels.Elections",
+  "redirect_chain": [
+    "https://www.runnelscounty.org/page/runnels.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "ec9ca2d8557aac9a29fccfee37f88c51b1540f57730738f095baaaf7f3ca6fd9",
+  "text_sha256": "ccc2ddbca78486ffec6bb518d35e1e3916ca11fc4222929b7ad6e223587e1c14",
+  "byte_size": 45852,
+  "title": "Elections - Runnels County",
+  "error": null
+}

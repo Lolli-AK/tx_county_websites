@@ -1,0 +1,19 @@
+{
+  "county": "Throckmorton",
+  "page_type": "elections",
+  "requested_url": "https://www.throckmortoncounty.org/page/throckmorton.elections",
+  "final_url": "https://www.throckmortoncounty.org/page/throckmorton.elections",
+  "redirect_chain": [
+    "https://www.throckmortoncounty.org/page/throckmorton.elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "309527e730fd1dd59d870e8d23f9166665d3c3744bda433f0921a97cadbe5613",
+  "text_sha256": "58fc8c9526a9ceaae6314b5750fff1e7dde4a890f93d244e0f9d8c7f7389f45b",
+  "byte_size": 72851,
+  "title": "Throckmorton County Elections Administrator",
+  "error": null
+}

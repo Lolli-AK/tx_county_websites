@@ -1,0 +1,19 @@
+{
+  "county": "Jack",
+  "page_type": "elections",
+  "requested_url": "https://www.jackcounty.texas.gov/elections-administrator",
+  "final_url": "https://www.jackcounty.texas.gov/elections-administrator",
+  "redirect_chain": [
+    "https://www.jackcounty.texas.gov/elections-administrator"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "cc05062cd451f38d54fad19816f4c7221cdfaa706ff868215a79c69226f7545e",
+  "text_sha256": "bb8f519cf89285e61ea47b3621be022a727b9d5f4d99328312aad12f2c117dc7",
+  "byte_size": 44410,
+  "title": "Elections Administrator | Jack County TX",
+  "error": null
+}

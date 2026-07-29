@@ -1,0 +1,19 @@
+{
+  "county": "Potter",
+  "page_type": "elections",
+  "requested_url": "https://www-pottercountytexasvotes-gov.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_hist=true",
+  "final_url": "https://www-pottercountytexasvotes-gov.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_hist=true",
+  "redirect_chain": [
+    "https://www-pottercountytexasvotes-gov.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&_x_tr_hist=true"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "60597b48182892c865dcd4297ca3643309836724fe55f6dd4ed82998daf39a76",
+  "text_sha256": "e491f51cf5c20dfc4695a379fee358b53c3e7ca338aa625092b42773c436040a",
+  "byte_size": 156671,
+  "title": "Home | Potter County Elections Voting | Amarillo, Texas",
+  "error": null
+}

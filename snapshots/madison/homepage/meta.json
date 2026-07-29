@@ -1,0 +1,19 @@
+{
+  "county": "Madison",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.madison.tx.us/",
+  "final_url": "https://www.co.madison.tx.us/",
+  "redirect_chain": [
+    "https://www.co.madison.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "064aa0561189ec133ea4398d42266b3abe09758a3a5270ecac74f90a496f220a",
+  "text_sha256": "294f9c210aef09f406b91330a4136d92ec9a8fb74afed8d56e05633adda978e2",
+  "byte_size": 34878,
+  "title": "Madison County, Texas",
+  "error": null
+}

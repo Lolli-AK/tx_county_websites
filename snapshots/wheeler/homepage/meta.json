@@ -1,0 +1,19 @@
+{
+  "county": "Wheeler",
+  "page_type": "homepage",
+  "requested_url": "https://www.wheelercounty.texas.gov",
+  "final_url": "https://www.wheelercounty.texas.gov",
+  "redirect_chain": [
+    "https://www.wheelercounty.texas.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "a0ba705a9a29e415c2b28bccf1496ab16a15dc90102f971c4c425a48ef504c94",
+  "text_sha256": "a207ee73c65df13473f998e0be10d3fc0a6d0587fe5991cef21fcf0234400a5b",
+  "byte_size": 44985,
+  "title": "Wheeler County, Texas",
+  "error": null
+}

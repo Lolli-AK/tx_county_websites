@@ -1,0 +1,19 @@
+{
+  "county": "Stonewall",
+  "page_type": "homepage",
+  "requested_url": "https://www.stonewallcounty.org/",
+  "final_url": "https://www.stonewallcounty.org/",
+  "redirect_chain": [
+    "https://www.stonewallcounty.org/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "a76bfa85af2b005decfb1e54af033924ef34cb9ff03e60df79a4140101732f85",
+  "text_sha256": "89f99d2553bad1f34ff17daacd42a07d34e91f101c05b7408abf10cf3734d773",
+  "byte_size": 18219,
+  "title": "Stonewall County, Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Starr",
+  "page_type": "elections",
+  "requested_url": "https://www.harrisvotes.com/Voter/ID",
+  "final_url": "https://www.harrisvotes.com/Voter/ID",
+  "redirect_chain": [
+    "https://www.harrisvotes.com/Voter/ID"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "f4e3d44a88bc5ffbca9fd57507d48b9eb7e2afda50d674e3fb55e02c29e99ff2",
+  "text_sha256": "e9ec25b9c1efb744083035f8cf2e0418c32ae9881e22297a25a50aadfbb758df",
+  "byte_size": 52378,
+  "title": "Voter ID Information",
+  "error": null
+}

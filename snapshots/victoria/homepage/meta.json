@@ -1,0 +1,19 @@
+{
+  "county": "Victoria",
+  "page_type": "homepage",
+  "requested_url": "https://www.vctx.org",
+  "final_url": "https://www.vctx.org",
+  "redirect_chain": [
+    "https://www.vctx.org"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "ca7617ce141d0f0c9ddb82034056fcbed00853efe68c50ba6fd75098a6c13d2e",
+  "text_sha256": "625588dd80c8c70ce69acea5164d83881a123c5a31ef842320bda396e1c52156",
+  "byte_size": 74809,
+  "title": "Victoria County, Texas",
+  "error": null
+}

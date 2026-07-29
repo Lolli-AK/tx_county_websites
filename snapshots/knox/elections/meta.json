@@ -1,0 +1,19 @@
+{
+  "county": "Knox",
+  "page_type": "elections",
+  "requested_url": "https://www.knoxcountytexas.org/page/knox.elections",
+  "final_url": "https://www.knoxcountytexas.org/page/knox.elections",
+  "redirect_chain": [
+    "https://www.knoxcountytexas.org/page/knox.elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "7436bda3b82dad99a03bf35f07074940be2ea2fd2f280eacffba0fe4ad8057bc",
+  "text_sha256": "6d15dcd4fdb7da431e442aa96ec87a075711864ba37e012241bde1f53ea31de5",
+  "byte_size": 58273,
+  "title": "Knox County, Texas",
+  "error": null
+}

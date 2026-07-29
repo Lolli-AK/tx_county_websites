@@ -1,0 +1,19 @@
+{
+  "county": "Mills",
+  "page_type": "elections",
+  "requested_url": "https://www.millscountytx.gov/page/Elections.Home",
+  "final_url": "https://www.millscountytx.gov/page/Elections.Home",
+  "redirect_chain": [
+    "https://www.millscountytx.gov/page/Elections.Home"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "372b074c324f4b5aeda941b35e3001ab21d1242521b0ecd9c26471339e80f7a3",
+  "text_sha256": "fe8c3e7d61ab7811d44e45650a9762a62ced2d58fd086b8d1d7a71341ae75169",
+  "byte_size": 59640,
+  "title": "Mills County, Texas",
+  "error": null
+}

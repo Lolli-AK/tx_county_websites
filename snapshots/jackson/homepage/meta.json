@@ -1,0 +1,19 @@
+{
+  "county": "Jackson",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.jackson.tx.us/",
+  "final_url": "https://www.co.jackson.tx.us/",
+  "redirect_chain": [
+    "https://www.co.jackson.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "289ce67a443e86bd598e3e45b7c4d07741a07f700b4e516787deb74c352e848b",
+  "text_sha256": "548fd7c04d0715e0503df6e87ed2c182ed2017dce5eddb1eec3c31c9c32a4d5b",
+  "byte_size": 53669,
+  "title": "Jackson County, Texas",
+  "error": null
+}

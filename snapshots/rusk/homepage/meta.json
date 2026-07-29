@@ -1,0 +1,19 @@
+{
+  "county": "Rusk",
+  "page_type": "homepage",
+  "requested_url": "https://www.ruskcountytx.gov/",
+  "final_url": "https://www.ruskcountytx.gov/",
+  "redirect_chain": [
+    "https://www.ruskcountytx.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "981ae50820ff485814e756aa8eb8f397168e8a71934a59fb97a83cf4ab015bae",
+  "text_sha256": "b8b4adcce44e0841671ddae3baffef804a35eb7e70269764a03a8c79e1f8d6b8",
+  "byte_size": 78120,
+  "title": "Rusk County, Texas",
+  "error": null
+}

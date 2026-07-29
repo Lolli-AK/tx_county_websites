@@ -1,0 +1,19 @@
+{
+  "county": "Kaufman",
+  "page_type": "elections",
+  "requested_url": "https://www.kaufmancounty.net/237/Elections",
+  "final_url": "https://www.kaufmancounty.net/237/Elections",
+  "redirect_chain": [
+    "https://www.kaufmancounty.net/237/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "b6df1ab9abef719bd0eca643115213bfd4a0bcb597771d8545eab11095aba566",
+  "text_sha256": "7d9117380cce9ccfd72e8f9b119b7c23a832f51d9fca7a8a5f995af0bc286171",
+  "byte_size": 66517,
+  "title": "Elections | Kaufman County, TX",
+  "error": null
+}

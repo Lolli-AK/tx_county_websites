@@ -1,0 +1,19 @@
+{
+  "county": "Liberty",
+  "page_type": "elections",
+  "requested_url": "https://www.co.liberty.tx.us/page/liberty.elections",
+  "final_url": "https://www.co.liberty.tx.us/page/liberty.elections",
+  "redirect_chain": [
+    "https://www.co.liberty.tx.us/page/liberty.elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "cf81b86a26adff462247a1f138e0e25c403685b3ea76469d6a4faed0f9d5220e",
+  "text_sha256": "1cd80ca0eff51e0823bb031733cbe623fe029956186f37a82d1b93be5199551f",
+  "byte_size": 54030,
+  "title": "Liberty County, Texas",
+  "error": null
+}

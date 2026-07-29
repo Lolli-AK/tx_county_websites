@@ -1,0 +1,19 @@
+{
+  "county": "Navarro",
+  "page_type": "elections",
+  "requested_url": "https://www.co.navarro.tx.us/page/Elections",
+  "final_url": "https://www.co.navarro.tx.us/page/Elections",
+  "redirect_chain": [
+    "https://www.co.navarro.tx.us/page/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "b5755230dce46cad580ca87cbf82df22e6e31bc85e277e3133353910823b7267",
+  "text_sha256": "b785954c5be447019e049556a1c889bf641288a84808918048fe648257b4a1e6",
+  "byte_size": 39572,
+  "title": "Elections and Voting | Navarro County, TX",
+  "error": null
+}

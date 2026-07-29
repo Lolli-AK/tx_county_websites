@@ -1,0 +1,19 @@
+{
+  "county": "Lamar",
+  "page_type": "results",
+  "requested_url": "https://results.enr.clarityelections.com/TX/Lamar/",
+  "final_url": "https://results.enr.clarityelections.com/TX/Lamar/",
+  "redirect_chain": [
+    "https://results.enr.clarityelections.com/TX/Lamar/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
+  "external": true,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "64674809beee045db24d7195c2db5a4f7ccefeaa3690529c04f719d0678076b5",
+  "text_sha256": "48c0d0150ca46e108b0142239610550762031bb590ba0b3b3a3c881aba56525e",
+  "byte_size": 26652,
+  "title": "List Elections",
+  "error": null
+}

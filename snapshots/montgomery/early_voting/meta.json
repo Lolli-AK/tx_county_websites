@@ -1,0 +1,19 @@
+{
+  "county": "Montgomery",
+  "page_type": "early_voting",
+  "requested_url": "https://elections.mctx.org/evPolls.asp?ELID=96&curLang=English&ElectionId=CON061326",
+  "final_url": "https://elections.mctx.org/evPolls.asp?ELID=96&curLang=English&ElectionId=CON061326",
+  "redirect_chain": [
+    "https://elections.mctx.org/evPolls.asp?ELID=96&curLang=English&ElectionId=CON061326"
+  ],
+  "http_status": 200,
+  "content_type": "text/html",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "ea50364bcb54eb516fda372ca2bf7d405bee68f4e9221f1cdd02a051e5e72d79",
+  "text_sha256": "7704162621852c1e096ca563789d912fd8b998b9040dfd244d89a7ff9f2df0d6",
+  "byte_size": 11266,
+  "title": "Montgomery County, Texas - Elections",
+  "error": null
+}

@@ -6,11 +6,11 @@
   "redirect_chain": [
     "https://results.enr.clarityelections.com/TX/Comal/"
   ],
-  "http_status": 202,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-07-29T15:00:45Z",
+  "fetched_at": "2026-07-29T17:23:48Z",
   "html_sha256": "036dc69e660ec2354d36ed12b2992c18ffc5b1e4d58b1ebb8342444bf458a56c",
   "text_sha256": "23fa7f56924be940da66e0661d35634358a98320f4c4d029a376a36cd6eace28",
   "byte_size": 16590,

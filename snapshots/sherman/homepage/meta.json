@@ -1,0 +1,19 @@
+{
+  "county": "Sherman",
+  "page_type": "homepage",
+  "requested_url": "https://www.shermancountytx.gov",
+  "final_url": "https://www.shermancountytx.gov",
+  "redirect_chain": [
+    "https://www.shermancountytx.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "447f25de7587789dc0ce168325881ce63ad3adea8df75a16fce6201024e2b9de",
+  "text_sha256": "099fad5a24b36a8f7e865faa3c9a24da0da2b99dc893e90cdd90a59581ad8e38",
+  "byte_size": 32669,
+  "title": "Sherman County, Texas",
+  "error": null
+}

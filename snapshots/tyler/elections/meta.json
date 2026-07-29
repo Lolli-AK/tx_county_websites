@@ -1,0 +1,19 @@
+{
+  "county": "Tyler",
+  "page_type": "elections",
+  "requested_url": "https://www.co.tyler.tx.us/page/tyler.VoterRegistration",
+  "final_url": "https://www.co.tyler.tx.us/page/tyler.VoterRegistration",
+  "redirect_chain": [
+    "https://www.co.tyler.tx.us/page/tyler.VoterRegistration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "250ea7ae2697a1d17bbe23f368f4e76b42f7ad8a35ec1d4d2f8f402b137721c9",
+  "text_sha256": "88f7261368769ffca9aeaadcf381af136f0ea1e4f758b3730ae497a59017a649",
+  "byte_size": 41651,
+  "title": "Tyler County, Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Howard",
+  "page_type": "elections",
+  "requested_url": "https://www.co.howard.tx.us/1239/Elections",
+  "final_url": "https://www.co.howard.tx.us/1239/Elections",
+  "redirect_chain": [
+    "https://www.co.howard.tx.us/1239/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "b3bdd2b795af1eeda17ce5efd42fcabfbae49b73d43108876bc3822864463764",
+  "text_sha256": "69c22ffa417d190175b9457153c960135dcccba0ebebea695d5e3eace6bf7986",
+  "byte_size": 49660,
+  "title": "Elections | Howard County, TX",
+  "error": null
+}

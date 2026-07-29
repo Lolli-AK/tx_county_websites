@@ -1,0 +1,19 @@
+{
+  "county": "Leon",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.leon.tx.us/",
+  "final_url": "https://www.co.leon.tx.us/",
+  "redirect_chain": [
+    "https://www.co.leon.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "b099985c6b95ccd9c4327fefabfd12a81865ffaa236f654ca38b4e55fd6d036f",
+  "text_sha256": "b26001b3898aa43f36a1dcd014e90dba5a9cac3e9210adcada03f14a2c9fb5e1",
+  "byte_size": 57065,
+  "title": "Leon County, Texas",
+  "error": null
+}

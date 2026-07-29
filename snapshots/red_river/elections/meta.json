@@ -1,0 +1,19 @@
+{
+  "county": "Red River",
+  "page_type": "elections",
+  "requested_url": "https://www.co.red-river.tx.us/page/redriver.ElectionsCountyClerk",
+  "final_url": "https://www.co.red-river.tx.us/page/redriver.ElectionsCountyClerk",
+  "redirect_chain": [
+    "https://www.co.red-river.tx.us/page/redriver.ElectionsCountyClerk"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "25614f3875ec5c9e54aa140758652ce24ba152e13532025caac54e2f77afe9a6",
+  "text_sha256": "65b10c4c5b0dfc162235cb442c5015ef8eb57e044331f9c18504656c7c9fb9a8",
+  "byte_size": 85443,
+  "title": "Elections - County Clerk",
+  "error": null
+}

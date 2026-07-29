@@ -1,0 +1,19 @@
+{
+  "county": "Ochiltree",
+  "page_type": "elections",
+  "requested_url": "https://www.co.ochiltree.tx.us/page/ochiltree.Elections",
+  "final_url": "https://www.co.ochiltree.tx.us/page/ochiltree.Elections",
+  "redirect_chain": [
+    "https://www.co.ochiltree.tx.us/page/ochiltree.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "d63ded6effb332a4524e6185d77e6be339f9e97f39cbd5468b9f8f8e623538ec",
+  "text_sha256": "5a8360905cc7fcd26853e02c5eff8033839a6f0a5d8d516630f6dfdc7ae95056",
+  "byte_size": 352885,
+  "title": "Ochiltree County, Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Wichita",
+  "page_type": "elections",
+  "requested_url": "https://wichitacountytx.com/election_info/current-election-information/",
+  "final_url": "https://wichitacountytx.com/election_info/current-election-information/",
+  "redirect_chain": [
+    "https://wichitacountytx.com/election_info/current-election-information/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:30:43Z",
+  "html_sha256": "ded5692a83e9f2bf130196e1fff3809d55e7ec6243ceffa2a6867c8f6870a1b1",
+  "text_sha256": "9092fc0702186f8de638b2628d35f2bd36340574aee8462a73fe91ed69557f92",
+  "byte_size": 34030,
+  "title": "Current Election Information | Wichita County",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "La Salle",
+  "page_type": "early_voting",
+  "requested_url": "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=248:early-voting-rosters-march-2020&catid=78:government",
+  "final_url": "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=248:early-voting-rosters-march-2020&catid=78:government",
+  "redirect_chain": [
+    "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=248:early-voting-rosters-march-2020&catid=78:government"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "06f5844beb2f63dd7d1b279c1928fbe4fda5d7de1cd46ecb0bec2d0464d2ecc8",
+  "text_sha256": "052cfb7ffd776b3b9b93b5a8de495abf0338bb2ad4c05768e6559dd17415ed6c",
+  "byte_size": 72094,
+  "title": "Early Voting Rosters March 2020",
+  "error": null
+}

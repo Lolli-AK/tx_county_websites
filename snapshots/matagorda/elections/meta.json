@@ -1,0 +1,19 @@
+{
+  "county": "Matagorda",
+  "page_type": "elections",
+  "requested_url": "https://www.matagordatx.gov/page/Elections",
+  "final_url": "https://www.matagordatx.gov/page/Elections",
+  "redirect_chain": [
+    "https://www.matagordatx.gov/page/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "a05b8039df46bc09780c943b422a69b4fd23aa2278c92db47b1744c2ef3300e6",
+  "text_sha256": "2460798b1ff8cef659f6a8cf07cf276413e77bdb1128fa0d56b6027fb7e59351",
+  "byte_size": 46138,
+  "title": "Elections & Voting | Matagorda County, Texas",
+  "error": null
+}

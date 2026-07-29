@@ -1,0 +1,19 @@
+{
+  "county": "Palo Pinto",
+  "page_type": "elections",
+  "requested_url": "https://www.co.palo-pinto.tx.us/page/Elections",
+  "final_url": "https://www.co.palo-pinto.tx.us/page/Elections",
+  "redirect_chain": [
+    "https://www.co.palo-pinto.tx.us/page/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "c6fcf4b3f151e2cc46f5a3b580888ad6a7a87cd55ff668160bd94ee327d26ed8",
+  "text_sha256": "93cd8abe6c008ea5b4e65c0ead4b853de891981a431acb794f6d055aee0c951c",
+  "byte_size": 27550,
+  "title": "Elections Administration | Palo Pinto County, Texas",
+  "error": null
+}

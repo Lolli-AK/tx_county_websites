@@ -1,0 +1,19 @@
+{
+  "county": "Tyler",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.tyler.tx.us/",
+  "final_url": "https://www.co.tyler.tx.us/",
+  "redirect_chain": [
+    "https://www.co.tyler.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "27eea972a702ad4a92554a6fb934e56485d75d5c611758b922c9a3f308e6ee43",
+  "text_sha256": "96bb23d774b0e58f32b842ee1e09be3958bf3efcc48f1ab7d53fc71de3ac7f5b",
+  "byte_size": 43395,
+  "title": "Tyler County Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Refugio",
+  "page_type": "polling",
+  "requested_url": "https://www.co.refugio.tx.us/page/refugio.Elections.CurrentElections",
+  "final_url": "https://www.co.refugio.tx.us/page/refugio.Elections.CurrentElections",
+  "redirect_chain": [
+    "https://www.co.refugio.tx.us/page/refugio.Elections.CurrentElections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "4c46a0da9c73bcaee2445797e50a14f8e39125297d5f96878d6e051321ccccd4",
+  "text_sha256": "ee90e37c340c0a8a0eab0f5fc2548a39f262e1ee4e3c4079d8ea0f09779f5adf",
+  "byte_size": 29273,
+  "title": "Refugio County, Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Mitchell",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.mitchell.tx.us/",
+  "final_url": "https://www.co.mitchell.tx.us/",
+  "redirect_chain": [
+    "https://www.co.mitchell.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "9491289221f35467e03fbbf35bf0964099efce619efb737d22d826231c3467d3",
+  "text_sha256": "9d81ec89c1033164f626c3d5dac37f3a016a460beea519b315c6837627d23284",
+  "byte_size": 36892,
+  "title": "Mitchell County, Texas",
+  "error": null
+}

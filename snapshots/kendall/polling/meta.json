@@ -1,0 +1,19 @@
+{
+  "county": "Kendall",
+  "page_type": "polling",
+  "requested_url": "https://www.kendallcountytx.gov/262/Current-Election-Information",
+  "final_url": "https://www.kendallcountytx.gov/262/Current-Election-Information",
+  "redirect_chain": [
+    "https://www.kendallcountytx.gov/262/Current-Election-Information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "57bd29ff41b0c74208498868f0918953615b49346048a6517fe1a7cf8eedaf05",
+  "text_sha256": "17b4f218f8411c8706f57268e4193163add37e8d7407205434b73b38eabbb312",
+  "byte_size": 165188,
+  "title": "Current Election Information | Kendall County, TX",
+  "error": null
+}

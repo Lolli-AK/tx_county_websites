@@ -1,0 +1,19 @@
+{
+  "county": "Moore",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.moore.tx.us/",
+  "final_url": "https://www.co.moore.tx.us/",
+  "redirect_chain": [
+    "https://www.co.moore.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "e1daf58d618b8563084c08cc7564f1266c671c858d50681399f71021a471f806",
+  "text_sha256": "0c7bbca143cfcdb6414e6a4ae0cd22f4ad50438f45eeb3d922e1849341457826",
+  "byte_size": 25977,
+  "title": "Moore County, Texas",
+  "error": null
+}

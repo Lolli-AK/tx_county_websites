@@ -1,0 +1,19 @@
+{
+  "county": "Jackson",
+  "page_type": "results",
+  "requested_url": "https://www.co.jackson.tx.us/page/BidNoticesResults",
+  "final_url": "https://www.co.jackson.tx.us/page/BidNoticesResults",
+  "redirect_chain": [
+    "https://www.co.jackson.tx.us/page/BidNoticesResults"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "bb0cf0312d0c91a9be4e3dc873057ca8d73f463804150a133d94644209cb26e9",
+  "text_sha256": "90da28ca16ad6ffdc4ce9c733d57d074f98be3149a3953d3383694b2a4ec1780",
+  "byte_size": 112741,
+  "title": "Bid Notices and Results | Jackson County, TX",
+  "error": null
+}

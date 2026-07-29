@@ -1,0 +1,19 @@
+{
+  "county": "Scurry",
+  "page_type": "polling",
+  "requested_url": "https://www.co.scurry.tx.us/page/elections.information",
+  "final_url": "https://www.co.scurry.tx.us/page/elections.information",
+  "redirect_chain": [
+    "https://www.co.scurry.tx.us/page/elections.information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "85ffd9ca3c5d8b23bbeecf2878efc7c4be009ee8df2c4be165cb23e76a870676",
+  "text_sha256": "d4624a64ac9a95d92b4f958464a73dac9d2395a23fab5146563eeb0b6c5148d9",
+  "byte_size": 96970,
+  "title": "Scurry County Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Menard",
+  "page_type": "elections",
+  "requested_url": "https://www.co.menard.tx.us/page/menard.Elections",
+  "final_url": "https://www.co.menard.tx.us/page/menard.Elections",
+  "redirect_chain": [
+    "https://www.co.menard.tx.us/page/menard.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "0f528d63812df0cdd9a02535006cb911018f6b733e635377bd8851c33963122a",
+  "text_sha256": "e3da8e474eba8bc82b2455d9997eff6149de90b2b2e2d00df28f45a2b9466a94",
+  "byte_size": 112401,
+  "title": "Menard County, Texas",
+  "error": null
+}

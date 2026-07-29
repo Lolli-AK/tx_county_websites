@@ -1,0 +1,19 @@
+{
+  "county": "San Augustine",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.san-augustine.tx.us/",
+  "final_url": "https://www.co.san-augustine.tx.us/",
+  "redirect_chain": [
+    "https://www.co.san-augustine.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "4b9f14dfe7542d6adb966fa48ee3d4a70ecc345c7ab29619530380a4e1bfaf28",
+  "text_sha256": "179dfef401ff90197199e414fbc2c9295e2b3da10d811afa02d6e39edac529b1",
+  "byte_size": 26448,
+  "title": "San Augustine County, Texas",
+  "error": null
+}

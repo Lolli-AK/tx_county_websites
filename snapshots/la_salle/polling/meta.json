@@ -1,0 +1,19 @@
+{
+  "county": "La Salle",
+  "page_type": "polling",
+  "requested_url": "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=289:general-election-for-november-8-2022%20&catid=78",
+  "final_url": "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=289:general-election-for-november-8-2022%20&catid=78",
+  "redirect_chain": [
+    "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=289:general-election-for-november-8-2022%20&catid=78"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "203fdbbbb3cfce4e83c8223bf7fd07ebc7ca2d304e24731e2d55dfc74fcf5c44",
+  "text_sha256": "7b27ac5ceffe250d58e2f1cb0bad445597363e827e9f1d945a3f4e3a21090b91",
+  "byte_size": 85158,
+  "title": "General Election for November 8, 2022",
+  "error": null
+}

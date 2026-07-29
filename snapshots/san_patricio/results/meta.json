@@ -1,0 +1,19 @@
+{
+  "county": "San Patricio",
+  "page_type": "results",
+  "requested_url": "https://www.sanpatriciocountytx.gov/page/elections.results.archive.06",
+  "final_url": "https://www.sanpatriciocountytx.gov/page/elections.results.archive.06",
+  "redirect_chain": [
+    "https://www.sanpatriciocountytx.gov/page/elections.results.archive.06"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "51803a1400a4e7ef0a1e83a9b3095827e3104c9dc4090212bff47d966d0900ce",
+  "text_sha256": "4b5565be4619099e2c82ac1c910e272e26b80d03edf5fb645b5eb8a6b788e416",
+  "byte_size": 102392,
+  "title": "Elections Results Archive 06 | San Patricio County TX",
+  "error": null
+}

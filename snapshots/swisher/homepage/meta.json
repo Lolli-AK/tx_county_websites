@@ -1,0 +1,19 @@
+{
+  "county": "Swisher",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.swisher.tx.us/",
+  "final_url": "https://www.co.swisher.tx.us/",
+  "redirect_chain": [
+    "https://www.co.swisher.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "da2fbfb6362db255ed1dc6ccbf9bb0ec032d5d350bb6a76677e808ffb3025d41",
+  "text_sha256": "33a242040b6954dfaeecf73e1a17e440c94e9df636e6b0bf78da250d69a2130f",
+  "byte_size": 24201,
+  "title": "Swisher County, Texas",
+  "error": null
+}

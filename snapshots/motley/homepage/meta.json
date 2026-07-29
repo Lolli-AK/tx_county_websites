@@ -1,0 +1,19 @@
+{
+  "county": "Motley",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.motley.tx.us/",
+  "final_url": "https://www.co.motley.tx.us/",
+  "redirect_chain": [
+    "https://www.co.motley.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "9dac915b64a9eddefc119ab22fa2f82600ee2163e8d042e9b569dd5b91a0f493",
+  "text_sha256": "db38befd7e25f07c91ff38105836a0df09a1a23212f0362b87c0c1c1892ed329",
+  "byte_size": 20692,
+  "title": "Motley County, Texas",
+  "error": null
+}

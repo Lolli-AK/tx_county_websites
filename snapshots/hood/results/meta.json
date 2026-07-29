@@ -6,11 +6,11 @@
   "redirect_chain": [
     "https://results.enr.clarityelections.com/TX/Hood/"
   ],
-  "http_status": 202,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-07-29T15:00:45Z",
+  "fetched_at": "2026-07-29T17:23:48Z",
   "html_sha256": "f905d87e3e006cb396b5da1795a14c49185a82c388369bf9d237d69560f0e140",
   "text_sha256": "143f6515bfc96e41bb2e3c26d0e73ac353f9a3fdb3e824c2a5d8722f9299be39",
   "byte_size": 25220,

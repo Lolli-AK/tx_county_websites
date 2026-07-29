@@ -1,0 +1,19 @@
+{
+  "county": "Washington",
+  "page_type": "early_voting",
+  "requested_url": "https://www.co.washington.tx.us/page/washington.elections.information",
+  "final_url": "https://www.co.washington.tx.us/page/washington.elections.information",
+  "redirect_chain": [
+    "https://www.co.washington.tx.us/page/washington.elections.information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "e390c34dcc6808e3c9d2661feff5b3ec04dc9cba01b05089b1df481253ee0a36",
+  "text_sha256": "3e775502965fd978d68af04b0696228096b5390eae4a1d20273f23809a284551",
+  "byte_size": 211537,
+  "title": "Washington County, Texas",
+  "error": null
+}

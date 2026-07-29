@@ -1,0 +1,19 @@
+{
+  "county": "Live Oak",
+  "page_type": "elections",
+  "requested_url": "https://www-vote411-org.translate.goog/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en",
+  "final_url": "https://www-vote411-org.translate.goog/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en",
+  "redirect_chain": [
+    "https://www-vote411-org.translate.goog/?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=en"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "aa3c5d7536b1af77f937218017074ad3dbbc12ac04db072355356ad343f94f5d",
+  "text_sha256": "5577eba65d62186670712053a24c41e28201a461fbf46fd76dd015b4bda36533",
+  "byte_size": 63008,
+  "title": "VOTE411",
+  "error": null
+}

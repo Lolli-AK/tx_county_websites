@@ -1,0 +1,19 @@
+{
+  "county": "Winkler",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.winkler.tx.us/",
+  "final_url": "https://www.co.winkler.tx.us/",
+  "redirect_chain": [
+    "https://www.co.winkler.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "c5a796d23d6ca8edc8dfc1cfeaf1966d7252d8244aeb82c75520065953317f7c",
+  "text_sha256": "512f72b8b1fac366fca615f6e6aa90604fe49c92c27bd79bddaaee3eddace333",
+  "byte_size": 54328,
+  "title": "Winkler County, TX | Official Website",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "La Salle",
+  "page_type": "results",
+  "requested_url": "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=251:march-2020-primary-election-results&catid=78:government",
+  "final_url": "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=251:march-2020-primary-election-results&catid=78:government",
+  "redirect_chain": [
+    "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=251:march-2020-primary-election-results&catid=78:government"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "fe7d7b614099be3bc10c36cec0c19f5f7231b28a1f020ba0a31dfeadea9c1a15",
+  "text_sha256": "7d31966d602c7f63d9eed1d067bff0f5af29a561e6f0f487d0662c6aca2cae20",
+  "byte_size": 63718,
+  "title": "March 2020 Primary Election Results",
+  "error": null
+}

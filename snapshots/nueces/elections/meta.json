@@ -1,0 +1,19 @@
+{
+  "county": "Nueces",
+  "page_type": "elections",
+  "requested_url": "https://www.nuecesco.com/county-services/county-clerk/elections-department",
+  "final_url": "https://www.nuecesco.com/county-services/county-clerk/elections-department",
+  "redirect_chain": [
+    "https://www.nuecesco.com/county-services/county-clerk/elections-department"
+  ],
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
+  "external": false,
+  "fetched_at": "2026-07-29T17:30:43Z",
+  "html_sha256": "c186a367d890c672827b36f62698e8cb03e213a9124176b4cd975e98bb00a089",
+  "text_sha256": "36271e6e8fa0be733955fbe4506e74458dd833dcd2eeb1a0c7a82ed5853dbce8",
+  "byte_size": 371,
+  "title": "Access Denied",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Polk",
+  "page_type": "results",
+  "requested_url": "https://www.polktx.gov/389/Election-Results",
+  "final_url": "https://www.polktx.gov/389/Election-Results",
+  "redirect_chain": [
+    "https://www.polktx.gov/389/Election-Results"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "4e17642e0372561302db6760328828b7f431609019681a1cb6d52169f161a9c6",
+  "text_sha256": "b0babe5ead45557346f98bdb3711c4601561c058f386c10c667aea34d9820d15",
+  "byte_size": 41397,
+  "title": "Election Results | Polk County, TX",
+  "error": null
+}

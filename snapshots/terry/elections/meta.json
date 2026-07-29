@@ -1,0 +1,19 @@
+{
+  "county": "Terry",
+  "page_type": "elections",
+  "requested_url": "https://www.co.terry.tx.us/page/terry.elections",
+  "final_url": "https://www.co.terry.tx.us/page/terry.elections",
+  "redirect_chain": [
+    "https://www.co.terry.tx.us/page/terry.elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "d2109cab947b1316f1dd265e9ee5f87a655fe9a4905baf0c72b33f4cc62fc3d1",
+  "text_sha256": "4c05ee31a5e11c7274f2462a19e53bffddba65a0c7c339e53330cc7d32b67d8d",
+  "byte_size": 26425,
+  "title": "Terry County, Texas",
+  "error": null
+}

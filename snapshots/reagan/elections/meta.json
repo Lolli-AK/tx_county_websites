@@ -1,0 +1,19 @@
+{
+  "county": "Reagan",
+  "page_type": "elections",
+  "requested_url": "https://www.co.reagan.tx.us/page/reagan.Elections",
+  "final_url": "https://www.co.reagan.tx.us/page/reagan.Elections",
+  "redirect_chain": [
+    "https://www.co.reagan.tx.us/page/reagan.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "a88f2958f2ddc45c41c729315c9332cf8dba9dd9cd98043e8453a3f5a22b4242",
+  "text_sha256": "0387b89b57e63091c14f90e8af1c7fe3b8022969a86b21b745736aa6284c7ba2",
+  "byte_size": 131055,
+  "title": "Election Notices - Reagan County",
+  "error": null
+}

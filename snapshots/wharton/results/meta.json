@@ -1,0 +1,19 @@
+{
+  "county": "Wharton",
+  "page_type": "results",
+  "requested_url": "https://www.co.wharton.tx.us/page/wharton.ElectionsResults",
+  "final_url": "https://www.co.wharton.tx.us/page/wharton.ElectionsResults",
+  "redirect_chain": [
+    "https://www.co.wharton.tx.us/page/wharton.ElectionsResults"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "ea3f1f8358cf77c92018fdc841c25584d3ea3058415bddc2389203313f641f61",
+  "text_sha256": "40895ce63d4d1d55f62d1809955cf63eef779fac573a3535e283355c1085373e",
+  "byte_size": 30576,
+  "title": "Wharton County, Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Moore",
+  "page_type": "elections",
+  "requested_url": "https://www.co.moore.tx.us/page/moore.Elections",
+  "final_url": "https://www.co.moore.tx.us/page/moore.Elections",
+  "redirect_chain": [
+    "https://www.co.moore.tx.us/page/moore.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "f2e4b163aed6caf3d710915992ffc0fb90c9a22b4bc30b9af6d617407abfd7ba",
+  "text_sha256": "b9d26309e2f025f8ed8f31f755c4160ae32a482a21482d5cefef2893873541c3",
+  "byte_size": 203665,
+  "title": "Elections - Moore County",
+  "error": null
+}

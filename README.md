@@ -13,17 +13,26 @@ Design priorities (in order):
 2. **Deterministic output** — re-running against an unchanged site produces a **zero diff**.
 3. **Git is the datastore.** History lives in commits, not dated folders.
 
-Scope: the **124 counties** in `manifest/targets.csv`, tracked in two batches via a
-`batch` column. The code is data-driven, so scaling toward 254 is a manifest
-change, not a code change.
+Scope: **all 254 Texas counties** — the complete set. Counties carry a `batch`
+label recording only how their homepage was obtained; the running code treats all
+254 uniformly from `manifest/targets.csv`.
 
 | batch | counties | Phase 1 starting point |
 |---|---|---|
-| **1** | 24 | homepages were pre-verified; only the 4 election page types needed discovery |
-| **2** | 100 | nothing verified — the homepage *and* the 4 election pages were discovered and verified |
+| **1** | 24 | homepages pre-verified; only the 4 election page types needed discovery |
+| **2** | 100 | nothing verified — homepage *and* 4 election pages discovered |
+| **3** | 130 | nothing verified — homepage *and* 4 election pages discovered |
 
 Everything after Phase 1 — artifacts, normalization, rendering, storage, cadence —
-is **identical for both batches**; they run through the same pipeline.
+is **identical for every batch**; they all run through the same pipeline.
+
+**Nothing hardcodes a county list or count.** `manifest/counties.csv`
+(`county, seat, batch, homepage`) is the seed of truth and `manifest/targets.csv`
+is what the pipeline iterates; the count is always `len(manifest)`. Adding,
+removing or correcting a county is a **manifest edit, not a code change** — see
+[Editing the manifest](#editing-the-manifest). (The two `scripts/_build_*.py`
+files are one-shot generators kept as provenance for how the seed was assembled;
+they are not part of any run.)
 
 ---
 
@@ -45,32 +54,37 @@ expected data, not an error** — it's recorded as a gap in the manifest.
 
 ## Coverage
 
-**124 counties · 620 manifest rows · 381 pages actually captured · 239 recorded gaps.**
+**254 counties · 1,270 manifest rows · 747 pages captured · 523 recorded gaps.**
 
-How many counties have each page type (as of the last audit):
+How many counties have each page type:
 
-| page type | captured | batch 1 (of 24) | batch 2 (of 100) | `external` | why the rest are gaps |
-|---|---|---|---|---|---|
-| `homepage` | **124 / 124** | 24 | 100 | 0 | — every county has one |
-| `elections` | **121 / 124** | 23 | 98 | 14 | King has no HTML election pages at all; Brazoria + Henderson are bot-blocked so couldn't be crawled |
-| `polling` | **48 / 124** | 15 | 33 | 16 | mostly folded into the elections page, or published only as a per-election PDF |
-| `early_voting` | **42 / 124** | 10 | 32 | 14 | same — vote-center counties often have no standalone EV page |
-| `results` | **46 / 124** | 16 | 30 | 21 | small counties post results as PDFs; metros use Clarity ENR portals (hence the high `external` count) |
+| page type | captured | b1 (24) | b2 (100) | b3 (130) | `external` | why the rest are gaps |
+|---|---|---|---|---|---|---|
+| `homepage` | **254 / 254** | 24 | 100 | 130 | 0 | — every county has one |
+| `elections` | **247 / 254** | 23 | 98 | 126 | 23 | King publishes no HTML election pages; 6 others are bot-blocked so couldn't be crawled |
+| `polling` | **82 / 254** | 15 | 33 | 34 | 23 | usually folded into the elections page, or published only as a per-election PDF |
+| `early_voting` | **74 / 254** | 10 | 32 | 32 | 21 | same — vote-center counties often have no standalone EV page |
+| `results` | **90 / 254** | 16 | 30 | 44 | 33 | small counties post PDFs; metros use Clarity ENR portals (hence the high `external` count) |
 
-Per-county completeness — most counties are *not* 5/5, and that's the expected shape:
+Per-county completeness — most counties are *not* 5/5, and that is the expected
+shape of Texas, not under-discovery:
 
 | pages captured | counties | typical profile |
 |---|---|---|
-| 5 / 5 | 29 | metros & large counties with a dedicated elections operation |
-| 4 / 5 | 17 | usually missing a standalone `early_voting` page |
-| 3 / 5 | 15 | mid-size counties |
-| 2 / 5 | 60 | rural — homepage + one elections page, everything else in PDFs |
-| 1 / 5 | 3 | homepage only (e.g. King County publishes nothing else as HTML) |
+| 5 / 5 | 49 | metros & large counties with a dedicated elections operation |
+| 4 / 5 | 31 | usually missing a standalone `early_voting` page |
+| 3 / 5 | 37 | mid-size counties |
+| 2 / 5 | **130** | rural — homepage + one elections page, everything else in PDFs |
+| 1 / 5 | 7 | homepage only (e.g. King County publishes nothing else as HTML) |
 
-The 239 gaps break down as: 140 "no distinct page found" (folded into another page),
-45 "candidate is non-HTML" (PDF-only), 10 unreachable, 8 uncrawlable because the
-homepage is bot-blocked, and a handful of one-offs. Every gap row carries its reason
-in `notes`.
+Texas is mostly rural, so **captured pages grow sublinearly with county count**:
+going from 124 to 254 counties roughly doubled the counties but took captured pages
+from 381 to 747, because the added counties are overwhelmingly 2/5.
+
+The 523 gaps break down as: 353 "no distinct page found" (folded into another page),
+94 "candidate is non-HTML" (PDF-only), 20 uncrawlable because the homepage is
+bot-blocked, 15 unreachable, and a handful of one-offs. **Every gap row carries its
+reason in `notes`** — a gap is recorded data, not a failure.
 
 ## What it stores (per captured page)
 
@@ -94,12 +108,14 @@ leave no trace in the body.
 
 One directory per county, one subdirectory per page type, three files in each.
 **A gap creates no directory** — so a county's tree shows at a glance what it
-publishes. Current tree: 124 county dirs → 381 page dirs → 1,143 files (~34 MB).
+publishes. Current tree: **254 county dirs → 747 page dirs → 2,241 files**.
 
 ```
 tx-county-watch/
 ├── manifest/
-│   └── targets.csv                  ← the one source of truth: 620 rows
+│   ├── counties.csv                 ← seed of truth: 254 counties (county, seat,
+│   │                                   batch, homepage)
+│   └── targets.csv                  ← what the pipeline reads: 1,270 rows
 │                                      (county, batch, page_type, url, external,
 │                                       notes + 6 audit columns)
 └── snapshots/                       ← overwritten in place every run; history is in git
@@ -126,11 +142,11 @@ tx-county-watch/
     ├── king/                        
     │   └── homepage/
     │
-    └── … 121 more counties
+    └── … 251 more counties
 ```
 
 Because each page type is its own directory, `git log -p -- 'snapshots/*/early_voting/page.txt'`
-gives you every early-voting change across all 124 counties in one stream.
+gives you every early-voting change across all 254 counties in one stream.
 
 ---
 
@@ -153,6 +169,9 @@ Requires Python 3.11+ and `git`.
 
 # Useful flags:
 .venv/bin/python scripts/snapshot.py --no-commit            # write artifacts, don't commit
+.venv/bin/python scripts/snapshot.py --workers 12           # more concurrent PLAIN fetches
+.venv/bin/python scripts/snapshot.py --batch 3              # one batch only
+.venv/bin/python scripts/snapshot.py --resume               # continue an interrupted run
 .venv/bin/python scripts/snapshot.py --county harris        # one county (repeatable)
 .venv/bin/python scripts/snapshot.py --county harris --page-type results
 .venv/bin/python scripts/snapshot.py --no-headless          # never escalate (offline/debug)
@@ -294,6 +313,69 @@ render-mode/vendor changes when the body didn't move.
 
 ---
 
+## Editing the manifest
+
+Two CSVs, and **no code changes** are ever needed to add, remove or correct a county.
+
+**`manifest/counties.csv`** — the seed of truth. One row per county:
+
+| column | meaning |
+|---|---|
+| `county` | county name, exactly as it should appear everywhere |
+| `seat` | county seat — used as a second identity signal when verifying a site |
+| `batch` | `1`, `2` or `3` (provenance of the homepage only) |
+| `homepage` | filled for batch 1; blank for batches 2/3, which discover it |
+
+**`manifest/targets.csv`** — what the pipeline actually reads. One row per
+(county × page type), so 5 rows per county. Columns are documented in
+[Verifying / auditing the manifest](#verifying--auditing-the-manifest); the audit
+columns (`verify_status` … `flag_for_review`) are written by `audit_targets.py`
+and ignored by the pipeline.
+
+Common edits:
+
+```bash
+# Fix one URL: edit that row's `url` in manifest/targets.csv, then re-verify it
+.venv/bin/python scripts/audit_targets.py --county hays
+
+# Record that a page type doesn't exist: blank the `url` and say why in `notes`
+#   (a row with an empty url is a GAP; notes must explain it — a test enforces this)
+
+# Re-discover a county from scratch
+.venv/bin/python scripts/discover_homepages.py --county Hays --batch 2
+.venv/bin/python scripts/discover_pages.py --county Hays --batch 2
+.venv/bin/python scripts/merge_batch2.py --batch 2
+
+# Then confirm the manifest is still internally consistent
+.venv/bin/python -m pytest tests/ -q
+```
+
+To add a county beyond the current 254, add a row to `counties.csv`, run discovery
++ merge for its batch, and update `TEXAS_COUNTY_COUNT` in
+`tests/test_manifest.py` (the only place a count is asserted — deliberately, so
+the scope can't drift silently).
+
+## Tests
+
+```bash
+.venv/bin/python -m pytest tests/ -q
+```
+
+26 tests, no network required. They assert the invariants everything else relies on:
+
+- **254 unique counties**, and the three batch labels **partition** them with no
+  overlap and nothing left over
+- `targets.csv` covers every seeded county with exactly one row per page type
+- batch labels agree between the seed and the manifest
+- every gap row explains itself in `notes`; `external` is boolean; URLs are http(s)
+- artifacts on disk agree with the manifest (3 files per captured page, **no
+  directory for a gap**), `meta.json` is well-formed and matches its row
+- the fetch timestamp never leaks into `page.html`/`page.txt`
+- identity-verification regressions: Harris County's site must not verify as
+  "Houston County", Smith County's must not verify as "Tyler County", "Deaf Smith
+  County" must not match "Smith County", a staff surname like "Brown" must not be
+  read as "Brown County", and tourism/EDC/commercial sites must be rejected
+
 ## Phase 1: the manifest
 
 `manifest/targets.csv` (`county, batch, page_type, url, external, notes` + audit
@@ -312,18 +394,21 @@ result is reproduced by `scripts/_build_manifest.py`.
 .venv/bin/python scripts/discover.py --county kerr
 ```
 
-### Batch 2 (100 counties, nothing known)
+### Batches 2 and 3 (230 counties, nothing known)
 
 Three steps, run in order:
 
 ```bash
-# 1. Find + verify each county's official homepage
-.venv/bin/python scripts/discover_homepages.py
+# 1. Find + verify each county's official homepage (--batch selects from counties.csv)
+.venv/bin/python scripts/discover_homepages.py --batch 3 --workers 10
 # 2. Crawl each homepage for the 4 election page types
-.venv/bin/python scripts/discover_pages.py --workers 8
-# 3. Merge the results into manifest/targets.csv (idempotent)
-.venv/bin/python scripts/merge_batch2.py
+.venv/bin/python scripts/discover_pages.py --batch 3 --workers 8
+# 3. Merge into manifest/targets.csv (idempotent — replaces that batch's rows)
+.venv/bin/python scripts/merge_batch2.py --batch 3
 ```
+
+Results: pattern-probing resolved **90/100** of batch 2 and **115/130** of batch 3;
+the ~30 residual counties were finished with targeted web searches.
 
 **`discover_homepages.py`** avoids a web search per county by probing the handful of
 domain patterns Texas counties actually use (`co.<county>.tx.us`,
@@ -352,10 +437,26 @@ Statewide and national portals (`sos.state.tx.us`, `votetexas.gov`, `vote411.org
 county, so capturing them 100× would add no per-county signal and would
 misrepresent a county as having a page it doesn't have.
 
-> **Batch 2 needs a human pass.** Its URLs were auto-discovered. Sort
-> `targets.csv` by `flag_for_review` and skim `audit_confidence` / `audit_reason`,
-> and treat notes containing `weak match — review` or `using per-election hub page`
-> as the first things to check.
+> **Batches 2 and 3 need a human pass** — ~230 auto-discovered homepages plus their
+> election pages. Start from `manifest/audit-report.md`, which groups everything by
+> batch and page type; then sort `targets.csv` by `flag_for_review` and skim
+> `audit_confidence` / `audit_reason`. Treat notes containing `weak match — review`
+> or `using per-election hub page` as the next tier to check.
+
+**What the verifier already catches, so you don't have to.** Auto-discovery on this
+scale attracts specific false positives, each of which produced a real wrong answer
+before being guarded:
+
+| trap | real example |
+|---|---|
+| Another county's site (12 counties share a name with a different county's *seat*) | Harris County's site matching **Houston County**; Smith County's matching **Tyler County** |
+| Nested county names | "Deaf Smith County" contains the string "Smith County" |
+| Staff surnames (counties are named after people) | "Brown" + "County Clerk" on adjacent nav lines read as "Brown County" |
+| Tourism / economic-development / chamber sites | `libertycounty.org` is a **visitor** site; `woodcountytx.com` is an **EDC** |
+| Private listing directories | `polkcountytx.com` is a listing service, not `polktx.gov` |
+| Commercial sites carrying the county name | `burnetcountytx.com` is a **process server** |
+| Squatted / expired domains | `childresscountytexas.us` redirects to a law-marketing page |
+| Wrong-state counties | Anderson, Montgomery, Johnson, Hunt, Jack, Knox, Polk, Wood all exist in other states |
 
 ### Verifying / auditing the manifest
 
@@ -367,7 +468,7 @@ columns (the pipeline ignores unknown columns):
 
 | column | meaning |
 |---|---|
-| `county` / `batch` | county name; `1` or `2` (see the batch table at the top) |
+| `county` / `batch` | county name; `1`, `2` or `3` (see the batch table at the top) |
 | `page_type` | `homepage` · `elections` · `polling` · `early_voting` · `results` |
 | `url` | the target; **empty = a recorded gap**, with the reason in `notes` |
 | `external` | `true` when the URL's registered domain differs from the county homepage's |
@@ -394,6 +495,52 @@ map/lookup apps that have no verifiable text, or blocked pages).
 > uses the stable portal *index* URL; check `notes` and refresh IDs each cycle.
 
 ---
+
+## Running at 254-county scale
+
+A full run touches **747 targets** and, counting retries and headless escalations,
+makes well over a thousand requests against small county servers. Three things make
+that sustainable:
+
+**Bounded concurrency on the plain path only.** `--workers` (default 8) parallelizes
+plain HTTP fetches — measured **3.6× faster** on a sample. Headless renders stay
+**serialized behind a lock**, deliberately: Playwright's sync API isn't thread-safe,
+and parallel Chromium renders contend for CPU, which shifts hydration timing. That
+timing is exactly what the determinism work depends on, so speed does not get to
+compromise it. Verified: two consecutive 8-worker runs produce a zero diff.
+
+**Politeness.** Every fetch waits `request_delay_ms` (250) plus up to
+`request_jitter_ms` (250) of jitter. The jitter matters with a worker pool —
+without it, workers synchronize into bursts.
+
+**Resumability.** Progress is written to `logs/checkpoint.json` as each target
+completes. If a run dies part-way, `--resume` skips what already finished instead of
+refetching everything; a clean finish deletes the checkpoint. The Actions workflow
+retries once with `--resume` on failure.
+
+| knob (`config.json` → `fetch`) | default | what it does |
+|---|---|---|
+| `workers` | 8 | concurrent plain fetches (headless always serial) |
+| `request_delay_ms` / `request_jitter_ms` | 250 / 250 | politeness pause before each fetch |
+| `plain_retries` | 2 | plain attempts; also retries 5xx |
+| `hydration_settle_ms` / `hydration_max_wait_ms` | 2000 / 6000 | post-networkidle DOM-quiescence window |
+| `interstitial_max_wait_ms` | 45000 | how long to wait out a bot challenge |
+| `js_shell_min_chars` | 500 | below this, escalate to headless |
+
+Timings and storage, measured:
+
+| | 124 counties | 254 counties |
+|---|---|---|
+| targets captured | 381 | **747** |
+| run time (Actions, serial) | ~10.5 min | ~22 min projected |
+| run time (8 plain workers) | — | substantially lower; headless is the floor |
+| growth per run | ~0.1 MB | ~0.2–0.9 MB |
+| 1 year daily | ~45–167 MB | **~90–330 MB** |
+
+GitHub recommends staying under 1 GB, so a year of daily snapshots is comfortable.
+`.git` compresses aggressively because unchanged pages reuse the same blob — which
+is precisely why the normalization work matters: volatile markup would mint a new
+blob for every page on every run.
 
 ## Running on GitHub Actions vs. locally — a data-quality caveat
 
@@ -457,12 +604,13 @@ afterwards. No code change. `config.json` documents the crons and the fetch knob
 ```
 tx-county-watch/
   manifest/
-    targets.csv              # THE manifest: 124 counties x 5 page types = 620 rows
+    counties.csv             # seed of truth: 254 counties (county, seat, batch, homepage)
+    targets.csv              # THE manifest: 254 counties x 5 page types = 1,270 rows
     audit-report.md          # broken + flagged rows from the last audit
     batch2_homepages.csv     # Phase 1 (batch 2) intermediate: discovered homepages
     batch2_targets_draft.csv # Phase 1 (batch 2) intermediate: discovered election pages
   snapshots/<county>/<page_type>/{page.html,page.txt,meta.json}
-                             # 124 county dirs -> 381 page dirs -> 1,143 files
+                             # 254 county dirs -> 747 page dirs -> 2,241 files
                              # (see "How the data is laid out on disk" above)
   scripts/
     snapshot.py              # main: fetch -> normalize -> write -> commit

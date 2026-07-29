@@ -1,0 +1,19 @@
+{
+  "county": "Jefferson",
+  "page_type": "polling",
+  "requested_url": "https://www.jeffcotxvotes.gov/elections/elections-dept/election-polling-locations/",
+  "final_url": "https://www.jeffcotxvotes.gov/elections/elections-dept/election-polling-locations/",
+  "redirect_chain": [
+    "https://www.jeffcotxvotes.gov/elections/elections-dept/election-polling-locations/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "21855907cb13a1db6208823470e10c007f49fdd11d3f83955425c9a79659da5a",
+  "text_sha256": "ae8dde2d68979dd1957d8f4d11cdced00203bf159bc8656cdb554a70fab0a6f7",
+  "byte_size": 137084,
+  "title": "Election Polling Locations & Times – Jefferson County, Texas",
+  "error": null
+}

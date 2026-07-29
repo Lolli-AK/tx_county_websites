@@ -1,0 +1,19 @@
+{
+  "county": "Scurry",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.scurry.tx.us/",
+  "final_url": "https://www.co.scurry.tx.us/",
+  "redirect_chain": [
+    "https://www.co.scurry.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "db86f066108866a8688129e6abf0c12ae85bf931f059335b8fda6ae0c88b8267",
+  "text_sha256": "6f2cd736f72f872760d6064bbfbbb480453a7944a1e7f3872d463288362f36ab",
+  "byte_size": 44646,
+  "title": "Home Page | Scurry County, Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Kleberg",
+  "page_type": "elections",
+  "requested_url": "https://www.co.kleberg.tx.us/page/kleberg.Elections",
+  "final_url": "https://www.co.kleberg.tx.us/page/kleberg.Elections",
+  "redirect_chain": [
+    "https://www.co.kleberg.tx.us/page/kleberg.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "8bee7582f56e036228154be7c2452462d50d5766922bf77f06edcfa3d42996d6",
+  "text_sha256": "b196bc4fa2d958c868ad9cbf58ae64d64d136ba6b6656d75be4327b8d4efc005",
+  "byte_size": 414457,
+  "title": "Kleberg County, Texas",
+  "error": null
+}

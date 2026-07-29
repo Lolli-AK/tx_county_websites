@@ -1,0 +1,19 @@
+{
+  "county": "Smith",
+  "page_type": "polling",
+  "requested_url": "https://www.smith-county.com/228/Precinct-Maps",
+  "final_url": "https://www.smith-county.com/228/Precinct-Maps",
+  "redirect_chain": [
+    "https://www.smith-county.com/228/Precinct-Maps"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "309cf809d74198b1982d73be0f6f5da90ca78477683fb344e20fb6b67adec0ff",
+  "text_sha256": "aac4162d5142e87eba58eaf0a22c51b71f2706904d3ddd45081b43e2e0c7a17e",
+  "byte_size": 85884,
+  "title": "Precinct Maps | Smith County, TX",
+  "error": null
+}

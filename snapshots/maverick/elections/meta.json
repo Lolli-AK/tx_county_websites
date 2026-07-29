@@ -1,0 +1,19 @@
+{
+  "county": "Maverick",
+  "page_type": "elections",
+  "requested_url": "https://co.maverick.tx.us/elections",
+  "final_url": "https://co.maverick.tx.us/elections",
+  "redirect_chain": [
+    "https://co.maverick.tx.us/elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "b29576aebcef2bc5d2cc95bbcb5928f842cb44ba7dfb4af978502e7786d19d61",
+  "text_sha256": "7f86ea0d7d67c0e4c3feab31ee312eccd944d6f39bc00d75afca5c5b23eac992",
+  "byte_size": 118581,
+  "title": "Elections | Maverick County, TX - Official Website",
+  "error": null
+}

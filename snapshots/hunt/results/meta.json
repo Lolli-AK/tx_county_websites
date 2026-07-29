@@ -1,0 +1,19 @@
+{
+  "county": "Hunt",
+  "page_type": "results",
+  "requested_url": "https://www.huntcounty.net/page/election.2026",
+  "final_url": "https://www.huntcounty.net/page/election.2026",
+  "redirect_chain": [
+    "https://www.huntcounty.net/page/election.2026"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "bf3f9e3215cc053e7ff4c1bf5078c8939ce7393e8ab6e3062ee9f9e86d3f4a4f",
+  "text_sha256": "6cc2c8ade31c0710f6d255f6672893c9b7f8a616bed730a3c908f3721f712b51",
+  "byte_size": 117812,
+  "title": "Elections 2026 | Hunt County, Texas",
+  "error": null
+}

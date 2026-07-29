@@ -1,0 +1,19 @@
+{
+  "county": "Rains",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.rains.tx.us/",
+  "final_url": "https://www.co.rains.tx.us/",
+  "redirect_chain": [
+    "https://www.co.rains.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "31451dad352ef29ee036470f7a1730362be9118e452d751e0aa13819c1e5683f",
+  "text_sha256": "901ee2ea906f81bdf20fa18369644d3720775cfdbcb6cb647cdf6f9800e99612",
+  "byte_size": 32583,
+  "title": "Rains County, Texas",
+  "error": null
+}

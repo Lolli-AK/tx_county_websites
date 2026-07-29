@@ -1,0 +1,19 @@
+{
+  "county": "Young",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.young.tx.us/",
+  "final_url": "https://www.co.young.tx.us/",
+  "redirect_chain": [
+    "https://www.co.young.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "9612a4473f79012ab66c5eb27bb2ce632cb0d4f0cc179ee80ae7c246a751f304",
+  "text_sha256": "d4b89ee8a31d3a81208d27dc7868001ef3f35de46bbc5eaa98f02efd09750eb9",
+  "byte_size": 33239,
+  "title": "Young County, Texas",
+  "error": null
+}

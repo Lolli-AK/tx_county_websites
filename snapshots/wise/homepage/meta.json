@@ -1,0 +1,19 @@
+{
+  "county": "Wise",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.wise.tx.us/",
+  "final_url": "https://www.co.wise.tx.us/",
+  "redirect_chain": [
+    "https://www.co.wise.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "694440f9a0472018c0c3e4f44eb6158946b8bbabef7c6f083262fe003dad4250",
+  "text_sha256": "d643da35445644f869addaa43d009a2d68f753d101e0c03f585f03c26daaf9a5",
+  "byte_size": 57574,
+  "title": "Wise County, TX | Official Website",
+  "error": null
+}

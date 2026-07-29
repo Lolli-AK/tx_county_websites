@@ -1,0 +1,19 @@
+{
+  "county": "Hopkins",
+  "page_type": "early_voting",
+  "requested_url": "https://www.hopkinscountytx.org/page/hopkins.Elections",
+  "final_url": "https://www.hopkinscountytx.org/page/hopkins.Elections",
+  "redirect_chain": [
+    "https://www.hopkinscountytx.org/page/hopkins.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "e51f3a673b9941cf0d60bab5a83246ecdcdaf9f5ab06ade5b59dab3c18085fbe",
+  "text_sha256": "8ebf09d60e04b4efefa46f914f3769ae2c84d5fea6dc3804b5bdcfd9b380bf4d",
+  "byte_size": 162418,
+  "title": "Hopkins County, Texas",
+  "error": null
+}

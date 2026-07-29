@@ -1,0 +1,19 @@
+{
+  "county": "Washington",
+  "page_type": "elections",
+  "requested_url": "https://www.co.washington.tx.us/page/washington.Past%20Elections",
+  "final_url": "https://www.co.washington.tx.us/page/washington.Past%20Elections",
+  "redirect_chain": [
+    "https://www.co.washington.tx.us/page/washington.Past%20Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "ff6ede01277ed4163124f614ccdf915faa3cd813e640c4a7e91ed3c497f5de66",
+  "text_sha256": "bb42f521e64880ef53a5ff4a41765b42784d43accad4e20e9d43b434045f2e98",
+  "byte_size": 234718,
+  "title": "Washington County, Texas",
+  "error": null
+}

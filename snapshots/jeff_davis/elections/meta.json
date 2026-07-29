@@ -1,0 +1,19 @@
+{
+  "county": "Jeff Davis",
+  "page_type": "elections",
+  "requested_url": "https://www.jeffdaviscounty.texas.gov/page/jeffdavis.Elections",
+  "final_url": "https://www.jeffdaviscounty.texas.gov/page/jeffdavis.Elections",
+  "redirect_chain": [
+    "https://www.jeffdaviscounty.texas.gov/page/jeffdavis.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "915f07c0de6495e8bc64386441a5eba51c111cbb2f62f9e16dd45b28451c74d2",
+  "text_sha256": "d40509b1769a0ba5e3d86ef537023b217a5323f23296770d5a67c0b83e248b20",
+  "byte_size": 120887,
+  "title": "March 3, 2026 Joint Primary Election Information",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Somervell",
+  "page_type": "elections",
+  "requested_url": "https://www.somervell.co/160/Elections",
+  "final_url": "https://www.somervell.co/160/Elections",
+  "redirect_chain": [
+    "https://www.somervell.co/160/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "c16653c3bad06f79eeaa963d547049223f764f712399f4930da814cadeece7bc",
+  "text_sha256": "15dc1d88fbdb448f09279c0b3f4c4a3ae2413d609e6a406b98693b6c8e58b8b1",
+  "byte_size": 49611,
+  "title": "Elections | Somervell County, TX",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Knox",
+  "page_type": "homepage",
+  "requested_url": "https://www.knoxcountytexas.org/",
+  "final_url": "https://www.knoxcountytexas.org/",
+  "redirect_chain": [
+    "https://www.knoxcountytexas.org/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "37f04ea88d392593a1ef0e83978f043921973e7e51ed1c2ab7a33abeb0bd70fd",
+  "text_sha256": "e3ff129fe9ad961fb28e5cd9c342c95ae84bab9ae6e502e721649c2fc601438c",
+  "byte_size": 21874,
+  "title": "Knox County, Texas",
+  "error": null
+}

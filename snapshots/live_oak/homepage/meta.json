@@ -1,0 +1,19 @@
+{
+  "county": "Live Oak",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.live-oak.tx.us/",
+  "final_url": "https://www.co.live-oak.tx.us/",
+  "redirect_chain": [
+    "https://www.co.live-oak.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "2181fb73034514d69e6665230814d63b7794b576e3ee4e7a737ef7cb33d4ae78",
+  "text_sha256": "9fa8685993deeddb5d932f386b1eb97462a08eaabb963a4f775b72f6eb40ddc7",
+  "byte_size": 75540,
+  "title": "Home Page - Live Oak County",
+  "error": null
+}

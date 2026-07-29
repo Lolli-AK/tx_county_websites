@@ -1,0 +1,19 @@
+{
+  "county": "Tom Green",
+  "page_type": "early_voting",
+  "requested_url": "https://www.tomgreencountytx.gov/page/ele.PollingInfo",
+  "final_url": "https://www.tomgreencountytx.gov/page/ele.PollingInfo",
+  "redirect_chain": [
+    "https://www.tomgreencountytx.gov/page/ele.PollingInfo"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "c5170b46fbc3df4a1799b10fa9994fd98a94fbbcad6253650fc7c4333cb7911c",
+  "text_sha256": "7f4fe9522145b188af8f55134aba5a0efa91cd5f4cc7db72dfb4d7b120cb184f",
+  "byte_size": 46606,
+  "title": "Tom Green County",
+  "error": null
+}

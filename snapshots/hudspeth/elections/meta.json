@@ -1,0 +1,19 @@
+{
+  "county": "Hudspeth",
+  "page_type": "elections",
+  "requested_url": "https://www.co.hudspeth.tx.us/page/Elections%20Home",
+  "final_url": "https://www.co.hudspeth.tx.us/page/Elections%20Home",
+  "redirect_chain": [
+    "https://www.co.hudspeth.tx.us/page/Elections%20Home"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "8a54ae46933e40dd1792df6cd92d2e7e603dbbcf9b71b84a2eadd28c0ab5c230",
+  "text_sha256": "b59446477afb040de47ae52e8c40f0f3c33f279c09192aeb3e46637bc2d1e863",
+  "byte_size": 39460,
+  "title": "Elections Home | Hudspeth County, TX",
+  "error": null
+}

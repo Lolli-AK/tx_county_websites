@@ -1,0 +1,19 @@
+{
+  "county": "Rockwall",
+  "page_type": "results",
+  "requested_url": "https://results.enr.clarityelections.com/TX/Rockwall/",
+  "final_url": "https://results.enr.clarityelections.com/TX/Rockwall/",
+  "redirect_chain": [
+    "https://results.enr.clarityelections.com/TX/Rockwall/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
+  "external": true,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "3c74433e982208c6329225462e0f7f66a93f8309bfba97944464145a63aceef9",
+  "text_sha256": "f233ec4a95429198c14ba89d69f1d136eabe647558b91f4e58d0dc5648ee51e1",
+  "byte_size": 35947,
+  "title": "List Elections",
+  "error": null
+}

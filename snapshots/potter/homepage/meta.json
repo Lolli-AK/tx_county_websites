@@ -1,0 +1,19 @@
+{
+  "county": "Potter",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.potter.tx.us/",
+  "final_url": "https://www.co.potter.tx.us/",
+  "redirect_chain": [
+    "https://www.co.potter.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "0feebeddeaab6e8f3f7c3b4446273508e157f798a7da2ad01b98aa58a84f10bf",
+  "text_sha256": "3ad3169edfbcc9af04af44a609cfed37ea4afffc039aa2261e1c7d9df5994278",
+  "byte_size": 54894,
+  "title": "Potter County Home | Potter County, Texas",
+  "error": null
+}

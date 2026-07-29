@@ -1,0 +1,19 @@
+{
+  "county": "Midland",
+  "page_type": "results",
+  "requested_url": "https://votemidlandtx.gov/archived-election-results/",
+  "final_url": "https://votemidlandtx.gov/archived-election-results/",
+  "redirect_chain": [
+    "https://votemidlandtx.gov/archived-election-results/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "63601e72552b91d44ed29e2b67678004f394f11d8cdacec6a8c282661fd29946",
+  "text_sha256": "c0194e2845d0e6f2ba9ab5d413f208c992eb43c0e4463471d39404f467ab1cc5",
+  "byte_size": 54257,
+  "title": "Election Results – Midland County, TX Elections",
+  "error": null
+}

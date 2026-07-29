@@ -1,0 +1,19 @@
+{
+  "county": "Hudspeth",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.hudspeth.tx.us/",
+  "final_url": "https://www.co.hudspeth.tx.us/",
+  "redirect_chain": [
+    "https://www.co.hudspeth.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "a538316d7898abcaf7084f2538e3af808f17d64e5215446085457c9f3881b713",
+  "text_sha256": "6faefa026266733a8501d4cb07d3fdca5fa30eceae9f7b1f1bfca32f06a8bb63",
+  "byte_size": 50466,
+  "title": "Hudspeth County, Texas",
+  "error": null
+}

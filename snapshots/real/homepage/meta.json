@@ -1,0 +1,19 @@
+{
+  "county": "Real",
+  "page_type": "homepage",
+  "requested_url": "https://www.co.real.tx.us/",
+  "final_url": "https://www.co.real.tx.us/",
+  "redirect_chain": [
+    "https://www.co.real.tx.us/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "73f981eb520b86e0daefff4cedb3d0a63721f52afa7775f54ff5a56b4a6da1d9",
+  "text_sha256": "e2a1f560e914fad2355f9afdc599eb9e64243fb9b4d73f400a0aba92558b9944",
+  "byte_size": 31198,
+  "title": "Real County, Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Polk",
+  "page_type": "homepage",
+  "requested_url": "https://www.polktx.gov/",
+  "final_url": "https://www.polktx.gov/",
+  "redirect_chain": [
+    "https://www.polktx.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "cf81700117d4421a3919ad5384e25630973617e2a7fa2f9d23e1fe18e6f58cd4",
+  "text_sha256": "713f758ec9a413925366432f4aa6fa8d80d300d5e2960aea4bbcde9348eca39f",
+  "byte_size": 54746,
+  "title": "Polk County, TX | Official Website",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Stonewall",
+  "page_type": "elections",
+  "requested_url": "https://www.stonewallcounty.org/page/stonewall.Elections",
+  "final_url": "https://www.stonewallcounty.org/page/stonewall.Elections",
+  "redirect_chain": [
+    "https://www.stonewallcounty.org/page/stonewall.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "9bae35dba73a02be6107bb915e78b04edbe5011681fabb6bac6ac928731ceafb",
+  "text_sha256": "1f7bbdc740f352ae8eaf4e170a031ea4425edaf073baad65cd125947629c5285",
+  "byte_size": 54249,
+  "title": "Stonewall County, Texas",
+  "error": null
+}

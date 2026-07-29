@@ -1,0 +1,19 @@
+{
+  "county": "Polk",
+  "page_type": "elections",
+  "requested_url": "https://www.polktx.gov/313/Elections",
+  "final_url": "https://www.polktx.gov/313/Elections",
+  "redirect_chain": [
+    "https://www.polktx.gov/313/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "173b99924174f18d5ea9ca7c40707f94b7b1df0035f5f44df696a37217e661be",
+  "text_sha256": "cc78a90d44790b620295a291ab0962e17ba160ffda5dddaee9ba2e23577fe6cf",
+  "byte_size": 65788,
+  "title": "Elections | Polk County, TX",
+  "error": null
+}

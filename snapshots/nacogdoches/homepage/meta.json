@@ -1,0 +1,19 @@
+{
+  "county": "Nacogdoches",
+  "page_type": "homepage",
+  "requested_url": "https://www.nacogdochesco.gov/",
+  "final_url": "https://www.nacogdochesco.gov/",
+  "redirect_chain": [
+    "https://www.nacogdochesco.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "6a4db2058350e675fbbab579f7aa856222161a39f6fa0100f036b63616f315c0",
+  "text_sha256": "d19092c4316ca434e6e2e4bf9f5926e5c129a8bd28c04cc4a3a86f51c91f8529",
+  "byte_size": 18005,
+  "title": "Nacogdoches County, TX | Official Website",
+  "error": null
+}

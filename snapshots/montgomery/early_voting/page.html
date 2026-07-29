@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>
+   Montgomery County, Texas - Elections
+  </title>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="" name="description"/>
+  <meta content="" name="author"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <link href="css/bootstrap.min.working.css" id="bootstrap-css" rel="stylesheet"/>
+  <link href="css/fontawesome-all.css" rel="stylesheet"/>
+  <link href="css/montco.css" rel="stylesheet"/>
+  <link href="css/tether.min.css" rel="stylesheet" type="text/css"/>
+  <link href="css/outdatedbrowser.min.css" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="container">
+   <div class="row panel panel-default">
+    <div class="panel-heading centertext">
+     <span class="darkbluetext boldtext hidden-md hidden-lg">
+      Election Central Information
+     </span>
+     <h1 class="largebold darkbluetext boldtext hidden-xs hidden-sm">
+      Montgomery County Elections
+     </h1>
+    </div>
+    <div class="container">
+     <div class="col-sm-4 centertext boldtext">
+      <div class="container">
+       <button class="btn btn-success btn-md btn-block bold" onclick="document.location='index.asp?curLang=Spanish'" type="button">
+        Ver la página en Español
+       </button>
+       <div class="hidden-xs hidden-sm">
+        <button class="btn btn-primary btn-md btn-block bold" onclick="document.location='contactus.asp?curLang=English'" type="button">
+         Contact Us
+        </button>
+       </div>
+       <div class="hidden-xs hidden-sm">
+        <button class="btn btn-danger btn-md btn-block bold" onclick="document.location='vrlookup.asp?Pollworker=True'" type="button">
+         I want to be a Poll Worker
+        </button>
+       </div>
+      </div>
+     </div>
+     <div class="col-sm-4 centerelements darkbluetext boldtext">
+      <span class="suzie darkbluetext">
+       Suzie Harvey
+      </span>
+      <br/>
+      Elections Administrator/Voter Registrar
+      <br/>
+      <br/>
+      9159 Airport Road, Conroe, Texas 77303
+      <br/>
+      (936) 539-7843
+      <br/>
+      <br/>
+      Registered Voters as of
+      <span class="redtextonly">
+       7/28/2026 : 477,175
+      </span>
+     </div>
+     <div class="col-sm-3 centerelements redboldtext smalltext mypadding smallbottomspacer">
+      <div>
+       Required Identification
+       <br/>
+       for Voting in Person
+       <button class="btn btn-success btn-md btn-block bold" onclick="document.location='photoidfaqs.asp?curLang=English'" type="button">
+        Photo ID FAQs
+       </button>
+       <button class="btn btn-primary btn-md btn-block bold" onclick="document.location='training/default.html'" type="button">
+        Poll Worker Training
+       </button>
+      </div>
+     </div>
+     <div class="col-sm-1 centerelements">
+      <div aria-label="Voter I.D FAQs" class="badge-link" onclick="document.location='photoidfaqs.asp?curLang=English'" onkeypress="document.location='photoidfaqs.asp?curLang=English'">
+       <span class="badge">
+        <span class="badge-top">
+         VOTER
+        </span>
+        <span class="badge-mid">
+         I.D.
+        </span>
+        <span class="badge-bottom">
+         FAQs
+        </span>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col-lg-12">
+     <ol class="breadcrumb">
+      <li class="breadcrumb-item boldtext">
+       <a href="http://www.mctx.org">
+        Montgomery County
+       </a>
+      </li>
+      <li class="breadcrumb-item boldtext">
+       <a href="index.asp?curLang=English">
+        Elections
+       </a>
+      </li>
+      <li class="breadcrumb-item active boldtext">
+       Early Voting Polling Locations
+      </li>
+     </ol>
+    </div>
+   </div>
+   <div class="row">
+    <div class="darkbluetext textcenter boldtext">
+     <div class="panel panel-default">
+      <div class="panel-heading">
+       <a class="largebold darkbluetext boldtext" href="#">
+        Early Voting Polling Locations
+       </a>
+      </div>
+      <div class="panel-body" id="outerPanel">
+       <div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade" id="myModalPollingLoc" role="dialog" tabindex="-1">
+        <div class="modal-dialog">
+         <div class="modal-content">
+          <div class="modal-header">
+           <button class="close" data-dismiss="modal" type="button">
+            <span aria-hidden="true">
+             ×
+            </span>
+            <span class="sr-only">
+             Close
+            </span>
+           </button>
+           <h2 class="modal-title smallheader mediumbold" id="myModalLabel">
+            <span class="largebold">
+             Polling Location Information
+            </span>
+           </h2>
+          </div>
+          <div id="loading">
+           <img alt="" src="css/ajax-loading.gif"/>
+          </div>
+          <div class="modal-body">
+           <form class="form-horizontal">
+            <div class="form-group">
+             <div class="col-sm-12">
+              <span class="extralargebold" id="votinglocationroom">
+              </span>
+             </div>
+             <div class="col-sm-12 text-center" id="pollingImage">
+             </div>
+             <div class="col-md-12" id="maplinks">
+             </div>
+             <div class="col-sm-12 mediumbold">
+              <h2 class="largebold">
+               Directions
+              </h2>
+              <p id="drivingdirections">
+              </p>
+             </div>
+            </div>
+           </form>
+          </div>
+          <div class="modal-footer">
+           <button class="btn btn-default" data-dismiss="modal" type="button">
+            Close
+           </button>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="centertext centerelements blacktext boldtext sidebuffers">
+        During the early voting period any qualified Montgomery County registered voter may vote at any one of the Montgomery County early voting locations.
+        <br/>
+        You can search our
+        <a href="vrlookup.asp?curLang=English">
+         Voter Registration Database
+        </a>
+        to see if you are eligible and to view your precinct, Sample Ballot, and elected officials.
+        <br/>
+        If you feel this is in error, please feel free to call Election Central at 936.539.7843.
+       </div>
+       <div class="panel-body text-center">
+        <button class="btn btn-warning btn-lg bold" type="button">
+         Scroll to See Complete Schedule
+        </button>
+       </div>
+       <table class="panel-body" role="presentation">
+        <tr>
+         <td class="col-md-3">
+         </td>
+         <td class="col-md-6">
+          <table class="table table-striped table-responsive">
+           <tr class="tableevPolls">
+            <td class="centertext largebold" colspan="2">
+             <span class="italictext">
+              June 13, 2026 City of Conroe Runoff
+             </span>
+             <br/>
+             Main and Branch Early Voting Polling Places
+            </td>
+           </tr>
+           <tr>
+            <td class="boldtext lefttext">
+             Monday, June 1 - Friday, June 5
+            </td>
+            <td class="boldtext lefttext">
+             8:00 a.m. - 5:00 p.m.
+            </td>
+           </tr>
+           <tr>
+            <td class="boldtext lefttext">
+             Monday, June 8 - Tuesday, June 9
+            </td>
+            <td class="boldtext lefttext">
+             7:00 a.m. - 7:00 p.m.
+            </td>
+           </tr>
+          </table>
+         </td>
+         <td class="col-md-3">
+          <span class="darkbluetext mediumbold">
+           Acrobat Reader required.
+          </span>
+          <br/>
+          <a href="http://get.adobe.com/reader/" tabindex="0">
+           <img alt="get adobe" src="images/adobereader.png" title="get adobe"/>
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td colspan="3">
+          <table class="table table-striped table-responsive center-block lefttext evPolls">
+           <tr>
+            <th abbr="MAP/Photo/Directions" class="largebold darkbluetext centertext">
+             MAP/Photo/Directions
+            </th>
+            <th abbr="Polling Location" class="largebold darkbluetext lefttext">
+             Polling Location
+            </th>
+            <th abbr="Physical Address" class="largebold darkbluetext lefttext">
+             Physical Address
+            </th>
+            <th abbr="Location in Building" class="largebold darkbluetext lefttext">
+             Location in Building
+            </th>
+           </tr>
+           <tr>
+            <td class="centertext" id="dtog1">
+             <a data-pol-conslet="323" data-pol-loc="323" data-toggle="modal" href="#myModalPollingLoc">
+              Get All Information
+             </a>
+            </td>
+            <td id="specloc2">
+             <span class="redboldtext">
+              ♦
+             </span>
+             <span class="bold">
+              City of Conroe, Dean Towery Service Center
+             </span>
+            </td>
+            <td id="citystatezip">
+             401 Sgt. Ed Holcomb Boulevard South, Conroe 77304
+            </td>
+            <td id="votinglocation2">
+             Public Works Classroom
+            </td>
+           </tr>
+           <tr>
+            <td class="centertext" id="dtog1">
+             <a data-pol-conslet="325" data-pol-loc="325" data-toggle="modal" href="#myModalPollingLoc">
+              Get All Information
+             </a>
+            </td>
+            <td class="italictext bold" id="specloc">
+             <span class="redboldtext">
+              ♦
+             </span>
+             City of Conroe Activity Center (Main Early Voting Polling Place)
+             <br/>
+             New Location
+             <img alt="star representing new location" src="images/star.gif"/>
+            </td>
+            <td id="citystatezip">
+             1204 Candy Cane Lane, Conroe 77301
+            </td>
+            <td id="votinglocation2">
+             Room 103
+            </td>
+           </tr>
+          </table>
+         </td>
+        </tr>
+       </table>
+       <table class="centertext centerelementsanywidth darkbluetext boldtext mediumbold" role="presentation">
+        <tr>
+         <td class="largebold">
+         </td>
+        </tr>
+       </table>
+       <table class="centertext centerelementsanywidth darkbluetext boldtext mediumbold" role="presentation">
+        <tr>
+         <td class="largebold">
+         </td>
+        </tr>
+       </table>
+       <div class="col-xs-12 text-center div_blacktext">
+        <div class="col-xs-3">
+        </div>
+        <div class="col-xs-6">
+         If you would like to receive current election notices and information or for comments or questions, please
+         <a class="label label-success bold" href="contactus.asp?curLang=English">
+          Email
+         </a>
+         us.
+        </div>
+        <div class="col-xs-3">
+        </div>
+       </div>
+       <span id="skip">
+        <a href="#content-anchor">
+         [Skip repetitive links]
+        </a>
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="outdated">
+  </div>
+ </body>
+</html>

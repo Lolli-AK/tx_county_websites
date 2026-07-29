@@ -1,0 +1,19 @@
+{
+  "county": "Wharton",
+  "page_type": "polling",
+  "requested_url": "https://www.co.wharton.tx.us/page/wharton.ElectionsPollingLocations",
+  "final_url": "https://www.co.wharton.tx.us/page/wharton.ElectionsPollingLocations",
+  "redirect_chain": [
+    "https://www.co.wharton.tx.us/page/wharton.ElectionsPollingLocations"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "a95c6fd1b8ea3085e92eb89351ec4af20ede94521e6d168e81845a4d49a44a18",
+  "text_sha256": "ec26fceaddaece8026d18b28a86c41e6106a5abc9b1f271f004eac3a9f120002",
+  "byte_size": 24952,
+  "title": "Wharton County, Texas",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Sterling",
+  "page_type": "homepage",
+  "requested_url": "https://www.sterlingcotx.gov",
+  "final_url": "https://www.sterlingcotx.gov",
+  "redirect_chain": [
+    "https://www.sterlingcotx.gov"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "bb69e3eca3e7d79bf3cf37fa652130fbb9a28b145fea8b8602b43807d4ebb3ce",
+  "text_sha256": "98eaae3cb02e6f29dc8b08500f9c8c34e1fff5454b5e4e3ba4a3dd140cd9bd0f",
+  "byte_size": 39235,
+  "title": "Sterling County, Texas",
+  "error": null
+}

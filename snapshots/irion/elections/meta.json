@@ -1,0 +1,19 @@
+{
+  "county": "Irion",
+  "page_type": "elections",
+  "requested_url": "https://www.co.irion.tx.us/1205/Elections",
+  "final_url": "https://www.co.irion.tx.us/1205/Elections",
+  "redirect_chain": [
+    "https://www.co.irion.tx.us/1205/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "54656d1b6115b1295e6970041b658a897b80871bc86f1adac874c24441f84553",
+  "text_sha256": "35b31ccde93ec74f7fda010e60eeebc62baaa918c0fb70c9790002e6dfde7d2f",
+  "byte_size": 41378,
+  "title": "Elections | Irion County, TX",
+  "error": null
+}

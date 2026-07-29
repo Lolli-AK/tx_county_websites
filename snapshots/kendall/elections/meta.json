@@ -1,0 +1,19 @@
+{
+  "county": "Kendall",
+  "page_type": "elections",
+  "requested_url": "https://www.kendallcountytx.gov/211/Elections",
+  "final_url": "https://www.kendallcountytx.gov/211/Elections",
+  "redirect_chain": [
+    "https://www.kendallcountytx.gov/211/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "2408b323c33f2ceca14f75cdeabde9b0b64645076f0c77fe2aaaaa6a4d2a90ed",
+  "text_sha256": "6d6f042d5634285f3d8d1082bedfd3f7b2b849d3049a648a10c6a75548c7409c",
+  "byte_size": 71925,
+  "title": "Elections | Kendall County, TX",
+  "error": null
+}

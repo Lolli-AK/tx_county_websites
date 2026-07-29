@@ -1,0 +1,19 @@
+{
+  "county": "Madison",
+  "page_type": "elections",
+  "requested_url": "https://www.co.madison.tx.us/page/madison.Elections",
+  "final_url": "https://www.co.madison.tx.us/page/madison.Elections",
+  "redirect_chain": [
+    "https://www.co.madison.tx.us/page/madison.Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "c9fbecb57afa759cee42362e3ae849e13b0a63eb771aa1c641824cde1f9567b3",
+  "text_sha256": "731efaa4add130cfaa38a8359c8a308fb3f45ae86a5acfd88020a76ec1b91140",
+  "byte_size": 115452,
+  "title": "November 7 2023",
+  "error": null
+}

@@ -1,0 +1,19 @@
+{
+  "county": "Lampasas",
+  "page_type": "elections",
+  "requested_url": "https://www.co.lampasas.tx.us/page/lampasas.testpage2",
+  "final_url": "https://www.co.lampasas.tx.us/page/lampasas.testpage2",
+  "redirect_chain": [
+    "https://www.co.lampasas.tx.us/page/lampasas.testpage2"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "841ec0d1bae96be473c4c990955a98d28f9a0aa059cbee492f7f1813cbd72c4f",
+  "text_sha256": "346e4a1fca2fa213bd5a2943fb96e1aac6d35cc7b6d6de0bce11986b87d91fe8",
+  "byte_size": 67678,
+  "title": "Lampasas County, Texas",
+  "error": null
+}

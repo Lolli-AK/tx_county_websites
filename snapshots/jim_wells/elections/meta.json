@@ -1,0 +1,19 @@
+{
+  "county": "Jim Wells",
+  "page_type": "elections",
+  "requested_url": "https://jimwellscountyelections.gov/",
+  "final_url": "https://jimwellscountyelections.gov/",
+  "redirect_chain": [
+    "https://jimwellscountyelections.gov/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "18993f2ce2e0a96f2341b6a1536496e049de1f48f86862cbb5d81f95c882cbf9",
+  "text_sha256": "315173306bbffb0b01d2622469d1789b29ec99c8296816db54fc0b5965fa169e",
+  "byte_size": 33004,
+  "title": "Voter Information - Jim Wells County Elections",
+  "error": null
+}

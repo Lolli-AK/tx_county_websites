@@ -1,0 +1,19 @@
+{
+  "county": "Somervell",
+  "page_type": "homepage",
+  "requested_url": "https://www.somervell.co/",
+  "final_url": "https://www.somervell.co/",
+  "redirect_chain": [
+    "https://www.somervell.co/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-07-29T17:23:48Z",
+  "html_sha256": "c36928c5509bd311f5d82d045f9de35bb7b7a371127b85129a59c582fe3d0d23",
+  "text_sha256": "ee9ba985fc3ebe88ca99fd9f56004ca237025ff33d17934a67bf5f4e60a92417",
+  "byte_size": 57207,
+  "title": "Somervell County, TX | Official Website",
+  "error": null
+}
