@@ -405,7 +405,14 @@ against the first Actions run:
 | effect | pages | what it means |
 |---|---|---|
 | `HTTP 202` on Clarity ENR results portals | 13 | **Benign.** Content is complete and byte-identical to the local run — Clarity just answers `202` instead of `200`. Don't read these as failures. |
-| `HTTP 403` bot challenge | 7 (Delta ×4, Cherokee ×3) | **Real data loss.** These serve content fine locally but return a Cloudflare / "Security Check" page to the runner. |
+| `HTTP 403` then challenge **cleared** | 3 (Cherokee) | **Content is fine.** The initial navigation was refused, the security check then passed, and the real page was captured. `http_status` stays `403` because that was the genuine first response. |
+| `HTTP 403` and challenge **never cleared** | 4 (Delta) | **Real data loss.** Cloudflare blocks the runner IP outright; the captured body is the security-check page. |
+
+> **Filter on `error`, not on `http_status`.** Because a challenge can clear *after*
+> a 403, status alone can't tell good data from junk — Cherokee and Delta are both
+> `403`, but only Delta's body is worthless. The reliable test is:
+> `meta.json.error == "bot_challenge_not_cleared…"` → discard; `error == null` →
+> the body is real content whatever the status says.
 
 So a page appearing "broken" in the GitHub-run data may simply be blocked from that
 IP range. Two things make this unambiguous rather than silently wrong:
