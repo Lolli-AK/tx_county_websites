@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T17:50:06Z",
-  "html_sha256": "d1ee91302d1a10834d3014a669ef981a4f9bd581e707e60cc94c9ee966a2b0a1",
-  "text_sha256": "1d1fc4fae7f4e024aa63f77bdf45d54f3f6fc8aecf0664233fb412b16884ea7e",
-  "byte_size": 26010,
+  "fetched_at": "2026-07-29T18:05:03Z",
+  "html_sha256": "1b27a9799b01d3fd559ef2c843326d1a0b36feee91f0be58f01039ef827230ce",
+  "text_sha256": "a8f048c2bd7e7a250aa7c8e8e74737c3982c8aa00de6a3805f1794976efb05bf",
+  "byte_size": 26065,
   "title": "Voter Registration / Walker County, TX",
   "error": null
 }

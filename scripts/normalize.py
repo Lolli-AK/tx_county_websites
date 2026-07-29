@@ -124,13 +124,21 @@ _PREFIXED_SHORTHEX_RE = re.compile(
 # Same idea but with NO separator, so the \b before the hex never matches:
 # La Salle County renders class="pbckid6a6a382fdf001", fresh on every request.
 _GLUED_TOKEN_RE = re.compile(r"\b(pbckid|comp-|uid|guid|ctl)([0-9a-f]{10,})\b")
+# Random base62 suffix after a SINGLE dash, e.g. Jim Wells' FAQ plugin emits
+# id="ewd-ufaq-post-308-MeFxb5jB1A". The mixed-case lookaheads keep real slugs
+# ("-election-results", all lowercase) and years ("-2026", digits) untouched.
+_MIXEDCASE_SUFFIX_RE = re.compile(
+    r"-(?=[A-Za-z0-9]*[A-Z])(?=[A-Za-z0-9]*[a-z])(?=[A-Za-z0-9]*[0-9])[A-Za-z0-9]{8,}\b")
 
 # Attributes whose values are identifier-ish and safe to canonicalize.
 _ID_ATTRS = ("id", "class", "for", "aria-controls", "aria-labelledby",
              "aria-describedby", "headers", "name", "value", "href", "action")
 
 # Always-random per-render attributes worth dropping outright.
-_DROP_ATTRS_EXACT = ("data-drupal-selector", "data-style-uid")
+_DROP_ATTRS_EXACT = ("data-drupal-selector", "data-style-uid",
+                     # Laravel Livewire mints a fresh component id and embeds a
+                     # full state snapshot on every render (Gregg County).
+                     "wire:id", "wire:snapshot", "wire:effects", "wire:initial-data")
 
 # Cache-busting / per-session query parameters on asset and form URLs. WordPress
 # stamps stylesheets with ?ver=<unix time>; SharePoint's Office viewer packs a
@@ -155,6 +163,12 @@ _WIDGET_SIZE_CLASSES = {"wide", "narrow"}
 # Accessibility-overlay vendors that inject a whole toolbar into the DOM
 # asynchronously, so it is present or absent depending on when capture happened.
 # Their content is vendor chrome, never county information.
+# Live weather widgets on county homepages ("Fair" -> "Partly Cloudy"). Genuine
+# real-world data, but it changes hourly and is unrelated to election content, so
+# leaving it in would put permanent noise in every homepage diff.
+_WEATHER_HINTS = ("weathericon", "weather-widget", "wi wi-", "weatherwidget",
+                  "current-weather", "weather-current")
+
 _INJECTED_WIDGET_HINTS = ("audioeye", "accessibe", "userway", "usablenet",
                           "recite-me", "recitememe", "equalweb",
                           # JS-injected document viewer overlay (Delta County)
@@ -166,6 +180,9 @@ _JS_STATE_CLASSES = {
     "js", "no-js", "wf-active", "wf-loading", "wf-inactive", "loaded", "ready",
     "fontawesome-i2svg-active", "fontawesome-i2svg-complete", "fontawesome-i2svg",
     "is-ready", "dom-loaded", "page-loaded",
+    # Slideshow play/pause state toggles as the widget runs (Orange County's
+    # EventON slider emits evo_slideshow_pause only while paused).
+    "evo_slideshow_pause", "paused", "is-paused", "playing", "is-playing",
 }
 
 
@@ -175,6 +192,7 @@ def _canon_ids(value: str) -> str:
     value = _LONGHEX_RE.sub("HEX", value)
     value = _DASHDASH_TOKEN_RE.sub("--RANDOM", value)
     value = _GLUED_TOKEN_RE.sub(r"\1HEX", value)
+    value = _MIXEDCASE_SUFFIX_RE.sub("-RANDOM", value)
     value = _PREFIXED_SHORTHEX_RE.sub(r"\1-HEX", value)
     value = _DATETIME_RE.sub("TIMESTAMP", value)
     return _US_DATETIME_RE.sub("TIMESTAMP", value)
@@ -293,6 +311,12 @@ def _strip_tree(soup: BeautifulSoup) -> None:
         ])).lower()
         if ident and any(h in ident for h in _INJECTED_WIDGET_HINTS):
             tag.decompose()
+            continue
+        # Live weather readout — replace with a placeholder rather than deleting,
+        # so a layout change is still visible while the hourly value is not.
+        if ident and any(h in ident for h in _WEATHER_HINTS):
+            tag.clear()
+            tag.append("[live weather removed for determinism]")
 
     # JS load-state classes on <html>/<body> flip mid-hydration.
     for tag in soup.find_all(["html", "body"]):
