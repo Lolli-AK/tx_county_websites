@@ -43,20 +43,94 @@ Not every county has a distinct page for every type. Small rural counties often
 fold everything into one page or post PDFs (out of scope). **A missing target is
 expected data, not an error** — it's recorded as a gap in the manifest.
 
+## Coverage
+
+**124 counties · 620 manifest rows · 381 pages actually captured · 239 recorded gaps.**
+
+How many counties have each page type (as of the last audit):
+
+| page type | captured | batch 1 (of 24) | batch 2 (of 100) | `external` | why the rest are gaps |
+|---|---|---|---|---|---|
+| `homepage` | **124 / 124** | 24 | 100 | 0 | — every county has one |
+| `elections` | **121 / 124** | 23 | 98 | 14 | King has no HTML election pages at all; Brazoria + Henderson are bot-blocked so couldn't be crawled |
+| `polling` | **48 / 124** | 15 | 33 | 16 | mostly folded into the elections page, or published only as a per-election PDF |
+| `early_voting` | **42 / 124** | 10 | 32 | 14 | same — vote-center counties often have no standalone EV page |
+| `results` | **46 / 124** | 16 | 30 | 21 | small counties post results as PDFs; metros use Clarity ENR portals (hence the high `external` count) |
+
+Per-county completeness — most counties are *not* 5/5, and that's the expected shape:
+
+| pages captured | counties | typical profile |
+|---|---|---|
+| 5 / 5 | 29 | metros & large counties with a dedicated elections operation |
+| 4 / 5 | 17 | usually missing a standalone `early_voting` page |
+| 3 / 5 | 15 | mid-size counties |
+| 2 / 5 | 60 | rural — homepage + one elections page, everything else in PDFs |
+| 1 / 5 | 3 | homepage only (e.g. King County publishes nothing else as HTML) |
+
+The 239 gaps break down as: 140 "no distinct page found" (folded into another page),
+45 "candidate is non-HTML" (PDF-only), 10 unreachable, 8 uncrawlable because the
+homepage is bot-blocked, and a handful of one-offs. Every gap row carries its reason
+in `notes`.
+
 ## What it stores (per captured page)
 
-Under `snapshots/<county>/<page_type>/`:
+Three text artifacts per page, under `snapshots/<county>/<page_type>/`:
 
-- **`page.html`** — cleaned, normalized HTML. The structural-diff artifact.
-- **`page.txt`** — visible text only. The primary, lowest-noise, human-readable diff.
-- **`meta.json`** — metadata sidecar (URLs, redirect chain, status, render mode,
-  hashes, timestamp). Catches "page moved / down / changed vendor" changes that
-  have no body content.
+| file | what | typical size |
+|---|---|---|
+| **`page.html`** | cleaned, normalized HTML — the structural-diff artifact | ~45 KB |
+| **`page.txt`** | visible text only — the primary, lowest-noise human-readable diff | ~4 KB |
+| **`meta.json`** | metadata sidecar: requested/final URL, redirect chain, HTTP status, content type, render mode, `external` flag, `fetched_at`, `html_sha256`, `text_sha256`, byte size, title, error | ~0.6 KB |
+
+`meta.json` is what catches "page moved / went down / changed vendor" — changes that
+leave no trace in the body.
 
 > The fetch timestamp lives **only** in `meta.json` (`fetched_at`), never in
 > `page.html`/`page.txt` — otherwise every run would diff. `meta.json` therefore
 > updates every run by design; the stable `html_sha256` / `text_sha256` fields let
 > you tell a real content change from a mere re-fetch.
+
+### How the data is laid out on disk
+
+One directory per county, one subdirectory per page type, three files in each.
+**A gap creates no directory** — so a county's tree shows at a glance what it
+publishes. Current tree: 124 county dirs → 381 page dirs → 1,143 files (~34 MB).
+
+```
+tx-county-watch/
+├── manifest/
+│   └── targets.csv                  ← the one source of truth: 620 rows
+│                                      (county, batch, page_type, url, external,
+│                                       notes + 6 audit columns)
+└── snapshots/                       ← overwritten in place every run; history is in git
+    │
+    ├── harris/                      ← 4 of 5 types exist
+    │   ├── homepage/
+    │   │   ├── page.html            ← normalized HTML   (structural diff)
+    │   │   ├── page.txt             ← visible text      (content diff)
+    │   │   └── meta.json            ← status/URL/hashes (metadata diff)
+    │   ├── elections/
+    │   │   ├── page.html
+    │   │   ├── page.txt
+    │   │   └── meta.json
+    │   ├── polling/                 ← page.html · page.txt · meta.json
+    │   ├── results/                 ← page.html · page.txt · meta.json
+    │   └── (no early_voting/)       ← GAP: Harris posts EV only as a PDF,
+    │                                  so the directory is simply absent
+    │
+    ├── loving/                      ← 2 of 5 — typical rural county
+    │   ├── homepage/
+    │   ├── elections/
+    │   └── (no polling/, early_voting/ or results/)
+    │
+    ├── king/                        ← 1 of 5 — publishes no election HTML at all
+    │   └── homepage/
+    │
+    └── … 121 more counties
+```
+
+Because each page type is its own directory, `git log -p -- 'snapshots/*/early_voting/page.txt'`
+gives you every early-voting change across all 124 counties in one stream.
 
 ---
 
@@ -352,6 +426,8 @@ tx-county-watch/
     batch2_homepages.csv     # Phase 1 (batch 2) intermediate: discovered homepages
     batch2_targets_draft.csv # Phase 1 (batch 2) intermediate: discovered election pages
   snapshots/<county>/<page_type>/{page.html,page.txt,meta.json}
+                             # 124 county dirs -> 381 page dirs -> 1,143 files
+                             # (see "How the data is laid out on disk" above)
   scripts/
     snapshot.py              # main: fetch -> normalize -> write -> commit
     normalize.py             # shared deterministic cleaning transform
