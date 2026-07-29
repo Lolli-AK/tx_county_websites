@@ -44,6 +44,12 @@ _VOLATILE_ATTRS = {"nonce", "integrity", "crossorigin", "style"}
 # Substrings that mark an attribute name as carrying a per-request/session token.
 _VOLATILE_ATTR_SUBSTRINGS = ("csrf", "token", "nonce", "session", "viewstate")
 
+# <meta> names carrying a build/publish counter rather than content. Wix emits
+# <meta http-equiv="X-Wix-Published-Version" content="6061"> and bumps it on every
+# publish, so two captures minutes apart can disagree.
+_VOLATILE_META_SUBSTRINGS = ("published-version", "build-version", "buildid",
+                             "build-id", "revision", "x-wix-")
+
 # Markers that a "plain" fetch only got a JS shell and should be escalated.
 _JS_SHELL_MARKERS = (
     "please enable javascript",
@@ -115,6 +121,9 @@ _DASHDASH_TOKEN_RE = re.compile(r"--[A-Za-z0-9_-]{8,}(?=$|[\s\"'])")
 # ids (WordPress post-123456) are left alone and still diff if they change.
 _PREFIXED_SHORTHEX_RE = re.compile(
     r"\b(style|elementor|post|block|widget)-(?=[0-9a-f]*[a-f])[0-9a-f]{6,}\b")
+# Same idea but with NO separator, so the \b before the hex never matches:
+# La Salle County renders class="pbckid6a6a382fdf001", fresh on every request.
+_GLUED_TOKEN_RE = re.compile(r"\b(pbckid|comp-|uid|guid|ctl)([0-9a-f]{10,})\b")
 
 # Attributes whose values are identifier-ish and safe to canonicalize.
 _ID_ATTRS = ("id", "class", "for", "aria-controls", "aria-labelledby",
@@ -134,6 +143,10 @@ _CACHEBUST_PARAMS = ("ver", "v", "rev", "cachebust", "cache", "ts", "t", "_",
 # which changes on every render. Only match values carrying a seconds-precision
 # time, so genuine event dates (which rarely include HH:MM:SS) survive.
 _DATETIME_RE = re.compile(r"\d{4}-\d{2}-\d{2}[ T]\d{2}:\d{2}:\d{2}(\.\d+)?Z?")
+# US-format server clock, e.g. Howard County pre-fills a date-picker input with
+# value="7/22/2026 12:27:59 PM". Seconds precision marks it as a clock, not content.
+_US_DATETIME_RE = re.compile(
+    r"\b\d{1,2}/\d{1,2}/\d{4}\s+\d{1,2}:\d{2}:\d{2}\s*(?:AM|PM|am|pm)?\b")
 
 # CivicPlus widgets pick a size class by measuring their container at runtime, so
 # the same widget renders `wide` on one capture and `narrow` on the next.
@@ -161,8 +174,10 @@ def _canon_ids(value: str) -> str:
     value = _GUID_RE.sub("GUID", value)
     value = _LONGHEX_RE.sub("HEX", value)
     value = _DASHDASH_TOKEN_RE.sub("--RANDOM", value)
+    value = _GLUED_TOKEN_RE.sub(r"\1HEX", value)
     value = _PREFIXED_SHORTHEX_RE.sub(r"\1-HEX", value)
-    return _DATETIME_RE.sub("TIMESTAMP", value)
+    value = _DATETIME_RE.sub("TIMESTAMP", value)
+    return _US_DATETIME_RE.sub("TIMESTAMP", value)
 
 
 def _strip_cachebust(url: str) -> str:
@@ -230,10 +245,11 @@ def _input_is_volatile(tag) -> bool:
 
 
 def _meta_is_volatile(tag) -> bool:
-    """A <meta> carrying a per-request token, e.g. Rails <meta name=csrf-token>."""
+    """A <meta> carrying a per-request token or a build/publish counter."""
+    subs = _VOLATILE_ATTR_SUBSTRINGS + _VOLATILE_META_SUBSTRINGS
     for key in ("name", "property", "http-equiv", "itemprop"):
         val = tag.get(key)
-        if val and any(sub in val.strip().lower() for sub in _VOLATILE_ATTR_SUBSTRINGS):
+        if val and any(sub in val.strip().lower() for sub in subs):
             return True
     return False
 

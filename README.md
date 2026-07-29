@@ -270,11 +270,13 @@ git add -A && git commit -m baseline
 git diff --stat -- '*page.html' '*page.txt'   # <- expect empty
 ```
 
-**Status at 124 counties (382 fetched targets).** Systematic volatility is handled —
-about twenty distinct classes of it were found and fixed by running this test
-repeatedly and chasing every diff (see the normalization list above). On a
-back-to-back full run, the artifacts that still differ fall into two buckets, and
-neither is normalization leaking:
+**Status at 254 counties (747 fetched targets).** Systematic volatility is handled —
+about two dozen distinct classes of it were found and fixed by running this test
+repeatedly and chasing every diff (see the normalization list above). Scaling from
+124 to 254 counties surfaced three more — a Wix publish counter, `pbckid<hex>`
+render ids, and a date-picker pre-filled with the **server clock** — each fixed the
+same way. On a back-to-back full run, the artifacts that still differ fall into two
+buckets, and neither is normalization leaking:
 
 - **Genuine content changes.** Counties really do publish things between runs —
   Brazos posted a public-hearing notice, Hill an office-closure notice. Detecting
