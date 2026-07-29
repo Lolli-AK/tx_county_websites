@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-07-29T19:22:37Z",
-  "html_sha256": "7e90276d9fe5fb364ac21569e2a3aae0cebac3c273846b10e4c2cddd160a6789",
-  "text_sha256": "9092fc0702186f8de638b2628d35f2bd36340574aee8462a73fe91ed69557f92",
-  "byte_size": 32437,
+  "fetched_at": "2026-07-29T19:38:46Z",
+  "html_sha256": "4e4bc4681d5f40d928bcb81f9cbaf332d7bab25435fa1dc1e96de0d143629d6a",
+  "text_sha256": "d9d026f690be998f8f40a6398ed9aee3df1b17f6ac03b43d1dda802cb240b376",
+  "byte_size": 33246,
   "title": "Current Election Information | Wichita County",
   "error": null
 }

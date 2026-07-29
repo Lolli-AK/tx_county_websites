@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.reevescounty.org/departments/elections/polling-locations"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T19:22:37Z",
-  "html_sha256": "f33ffefb5338ec9b667481b78f7b1b3643127074905fa5cc2436c9db8186f907",
-  "text_sha256": "a06a30660b7af252dae11d6893aada9362990a204bced6cfd91862e528422d4d",
-  "byte_size": 351,
-  "title": "Access Denied",
+  "fetched_at": "2026-07-29T19:38:46Z",
+  "html_sha256": "ad222aa2088975117bd3ef5f78f58400f6c027a6be4a821177d5cc0db3f2ebf7",
+  "text_sha256": "a3c3aeb3fd93d2b2c3046ab40b27fb163527b4b9f3a1096559d57ccebc0f5349",
+  "byte_size": 60802,
+  "title": "Polling Locations | Reeves County, TX",
   "error": null
 }

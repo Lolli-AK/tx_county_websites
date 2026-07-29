@@ -1,5 +1,360 @@
-Access Denied
-Access Denied
-You don't have permission to access "http://www.nuecesco.com/$(SERVE_403)/?" on this server.
-Reference #EDGE_REF_REDACTED
-https://errors.edgesuite.net/EDGE_REF_REDACTED
+Nueces County, TX | Home
+Menu
+Nueces County, TX
+Home
+Home
+Accessibility
+Bids
+County Directory
+Employees
+Translate
+Search
+Go
+Home
+Commissioners Court
+County Judge
+Judge Scott
+Calendar
+Commissioner Precinct 1
+Commissioner Pusley
+Calendar
+Commissioner Precinct 2
+Commissioner Gonzalez
+Calendar
+Commissioner Precinct 3
+Commissioner Marez
+Calendar
+Commissioner Precinct 4
+Commissioner Chesney
+Calendar
+Budget Office
+Constance P. Sanchez
+Calendar
+Additional Information
+Agendas/Minutes/Videos
+Commissioners Court Meeting
+List of Calendar Events
+Texas Comptroller - Economic Development Agreements
+Courts
+County Attorney
+Calendar
+Domestic Violence Safety Plan
+Protective Order
+County Courts at Law
+County Court at Law 1
+County Court at Law 2
+County Court at Law 3
+County Court at Law 4
+County Court at Law 5
+Court Administrator
+Calendar
+Community Services
+Additional Information
+District Attorney
+District Attorney Granberry
+Calendar
+Asset Forfeitures
+Cite and Release Program
+Victims Assistance
+District Courts
+28th District Court (A)
+94th District Court (C)
+105th District Court (D)
+117th District Court (B)
+148th District Court (E)
+214th District Court (F)
+319th District Court (G)
+347th District Court (H)
+District Clerk
+Jury Duty
+Attorney General Cases
+Criminal Division
+Registry of the Court
+Reports
+Records
+Case Search
+Justices of the Peace
+Justice of the Peace 1-1
+Justice of the Peace 1-2
+Justice of the Peace 1-3
+Justice of the Peace 2-1
+Justice of the Peace 2-2
+Justice of the Peace 3
+Justice of the Peace 4
+Justice of the Peace 5-1
+Justice of the Peace 5-2
+Juvenile Justice Center
+Calendar
+Juvenile Probation
+Juvenile Detention
+Juvenile Residential Facility
+Juvenile Prison Rape Elimination Act
+Wellness Policy
+Crime Victim Compensation
+13th Court of Appeals
+Specialty Courts
+Veterans Treatment Court
+Law Enforcement
+Sheriff
+Annual Reports
+Jail Visitation
+Collective Bargaining
+Courthouse Security
+Attorney Badge Request
+Estray Livestock
+Game Room Application
+Jail Commissary
+Nueces County Sheriff Recruitment Form
+Scam Warning
+Sheriffs Auctions
+Social Services and Mental Health Resources
+Constables
+Constable Precinct 1
+Constable Precinct 2
+Constable Precinct 2 - RUOK Program
+Constable Precinct 3
+Constable Precinct 4
+Constable Precinct 5
+Departments
+13th Court of Appeals
+28th District Court (A)
+94th District Court (C)
+105th District Court (D)
+117th District Court (B)
+148th District Court (E)
+214th District Court (F)
+319th District Court (G)
+347th District Court (H)
+Animal Services
+County Judge
+Commissioner Precinct 1
+Commissioner Precinct 2
+Commissioner Precinct 3
+Commissioner Precinct 4
+Constable Precinct 1
+Constable Precinct 2
+Constable Precinct 3
+Constable Precinct 4
+Constable Precinct 5
+County Airport
+County Attorney
+County Auditor
+County Clerk
+County Court at Law 1
+County Court at Law 2
+County Court at Law 3
+County Court at Law 4
+County Court at Law 5
+Court Administrator
+Dispute Resolution Services
+District Attorney
+District Clerk
+Emergency Management
+Grants Administration
+Human Resources
+Information Technology
+Justice of the Peace 1-1
+Justice of the Peace 1-2
+Justice of the Peace 1-3
+Justice of the Peace 2-1
+Justice of the Peace 2-2
+Justice of the Peace 3
+Justice of the Peace 4
+Justice of the Peace 5-1
+Justice of the Peace 5-2
+Libraries
+Medical Examiner
+Parks, Coastal
+Parks, Inland
+Public Defender
+Public Works
+Purchasing
+Risk Management
+Sheriff
+Tax Assessor/Collector
+Veterans and Social Services
+County Services
+Animal Services
+Cafeteria
+Specials of the Week
+County Airport
+Airport Facilities
+County Auditor
+Financial Reports
+Appointed Attorney
+Budgets
+Chart of Accounts Tabular
+County Boards
+Child Welfare
+Civil Service Commission
+Historical Commission
+Application
+County Clerk
+Agendas/Minutes/Videos
+Collections Department
+Court Costs, Fines, and Fees Collection
+Filing Department
+Public Records Search
+Marriage License
+Elections Department
+Frequently Asked Questions
+Notices
+Voter Complaint Form
+Thank a Veteran
+Treasury
+Bail Bond Information
+CSCD (Adult Probation)
+Directory (Phonebook)
+Dispute Resolution Services
+What is Mediation
+Request for Mediation
+Emergency Management
+Hurricane Information
+Important Information
+Hurricane Information
+Daily Reports
+Grants Administration
+ARPA
+Grant Applications
+Human Resources
+Civil Service Commission
+Employment
+Information Technology
+Records Services
+Libraries
+Medical Examiner
+Documents
+Payments
+Child Support
+Court Costs, Fines, and Fees Collection
+Jail Commissary
+Parks, Coastal
+Parks, Inland
+Senior Community Center - Robstown
+Public Defender
+Calendar
+Public Works
+Description of Office
+Engineering
+FEMA Floodplain Maps
+Floodplain Development
+Subdivision and Platting Requirements
+Road and Bridge
+Vector Control
+Addressing Program
+Purchasing
+Bids
+Risk Management
+Tax Assessor/Collector
+Schedule Appointment
+Pay Property Tax
+Vehicle Registration
+Locations
+Documents
+Voter Registration
+Register To Vote
+Where To Get an Application
+Useful Links
+5 Year Truth in Taxation
+External Agencies
+Veterans and Social Services
+Resources
+Fallen Heroes
+Quick Links
+Applications/Forms
+Assumed Name
+Bids
+Birth or Death Record
+Employment
+Marriage Licenses
+Maps
+FEMA Floodplain Maps
+Election GIS Maps
+Nueces County Commissioners Precinct Maps
+Payments
+Child Support
+Court Costs, Fines, and Fees Collection
+Jail Commissary
+Pay Property Tax
+Permit Information
+Alcoholic Beverage Permit
+Coin Operated Machine Permit
+Driveways
+Reports
+Appointed Attorney Reports
+Financial Reports
+Video Streaming
+Commissioners Court Meeting
+Court Video Streaming
+Other Information
+Case Search
+Commissioners Court Agenda/Minutes/Video
+County Boards
+Elections
+Emergency Management
+Estray Livestock
+Jail Operations
+Jury Duty
+Kofile Quick Links
+Libraries
+PACE Program
+Property Tax FAQ
+Public Records Search
+Victims Assistance
+Voter Registration
+Burn Ban is NOT in effect
+Scam Call Warning
+Current Phone Scam
+Learn More
+Nueces County Case Search Portal
+New Case Search Tool
+Learn More
+Sheriff's Office New Mobile App
+New App for Apple and Android devices
+Learn More
+Employment
+Additional Information
+Elections
+Tax Sales
+Vehicle Registration
+Payments
+Jury Duty
+Get the latest news and information sent directly to your inbox.
+Meetings & Events
+29
+Jul
+Wed
+9:00 AM - 5:00 PM
+Commissioners Court
+05
+Aug
+Wed
+9:00 AM - 5:00 PM
+Commissioners Court
+19
+Aug
+Wed
+9:00 AM - 5:00 PM
+Commissioners Court
+02
+Sep
+Wed
+9:00 AM - 5:00 PM
+Commissioners Court
+More Events
+There are no news items.
+More News
+News
+There are no news items.
+Commissioners Court
+Courts
+Law Enforcement
+Departments
+County Services
+Quick Links
+Sitemap
+County of Nueces, TX | P: (361) 888-0111
+901 Leopard St. Corpus Christi, TX 78401
+Website Design by Granicus
+- Connecting People and Government
+View Full Site

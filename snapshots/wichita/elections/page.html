@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html class="no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en-US">
  <head>
   <meta charset="utf-8"/>
   <meta content="width=device-width" name="viewport"/>
@@ -36,7 +36,7 @@
   <meta content="https://wichitacountytx.com/wp-content/uploads/2018/10/Asset-1@2x-8.png" name="msapplication-RANDOM"/>
   <meta content="WordPress Download Manager 7.5.3" name="generator"/>
  </head>
- <body class="wp-singular election_info-template-default single single-election_info postid-7646 wp-theme-wichita-county tribe-no-js tec-no-tickets-on-recurring tec-no-rsvp-on-recurring tribe-theme-wichita-county">
+ <body class="wp-singular election_info-template-default single single-election_info postid-7646 wp-theme-wichita-county tribe-js tec-no-tickets-on-recurring tec-no-rsvp-on-recurring tribe-theme-wichita-county">
   <header role="banner">
    <div class="super-header">
     <div class="row">
@@ -58,10 +58,6 @@
         </p>
        </div>
        <div class="slidicon search" data-searchblock="searchform_js">
-        <i class="fas fa-search">
-        </i>
-        <i class="fas fa-times">
-        </i>
        </div>
       </div>
      </div>
@@ -94,7 +90,7 @@
        </a>
       </li>
       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1061" id="menu-item-1061">
-       <a>
+       <a tabindex="0">
         Departments
        </a>
        <ul class="sub-menu">
@@ -226,7 +222,7 @@
        </ul>
       </li>
       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1062" id="menu-item-1062">
-       <a>
+       <a tabindex="0">
         Courts
        </a>
        <ul class="sub-menu">
@@ -298,7 +294,7 @@
        </ul>
       </li>
       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6570" id="menu-item-6570">
-       <a>
+       <a tabindex="0">
         Precincts
        </a>
        <ul class="sub-menu">
@@ -325,7 +321,7 @@
        </ul>
       </li>
       <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-4823" id="menu-item-4823">
-       <a>
+       <a tabindex="0">
         Elections
        </a>
        <ul class="sub-menu">
@@ -389,7 +385,7 @@
        </ul>
       </li>
       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6647" id="menu-item-6647">
-       <a>
+       <a tabindex="0">
         Agendas
        </a>
        <ul class="sub-menu">
@@ -422,38 +418,12 @@
     <div>
      <div class="row">
       <div class="m12 input-mother">
-       <div class="close" v-if="input" v-on:click="reset">
-        <i aria-hidden="true" class="fa fa-undo">
-        </i>
-       </div>
        <div class="loading-icon">
-        <i class="fas fa-spinner fa-pulse">
-        </i>
        </div>
-       <input autocomplete="off" class="cw-ajax-search" id="s" name="s" placeholder="Search..." type="text" v-model="input" v-on:keyup="cw_ajax_search" value=""/>
+       <input autocomplete="off" class="cw-ajax-search" id="s" name="s" placeholder="Search..." type="text" value=""/>
       </div>
      </div>
      <div class="search-results">
-      <div class="result cw-js-result" v-for="result in results">
-       <h5 class="result-title">
-        <a v-bind:href="result.url" v-html="result.title">
-        </a>
-       </h5>
-       <p class="type">
-        <small v-html="result.type">
-        </small>
-       </p>
-      </div>
-      <div class="more-results" v-if="more.url">
-       <a class="inner" v-bind:href="more.url">
-        More Results
-       </a>
-      </div>
-      <div class="no-results" v-else-if="input">
-       <p class="inner">
-        No Results found for: {{ input }}
-       </p>
-      </div>
      </div>
     </div>
    </div>
@@ -707,7 +677,33 @@
   </footer>
   <div id="fb-root">
   </div>
-  <div class="gtranslate_wrapper" id="gt-wrapper-X">
+  <div class="gtranslate_wrapper gt_container-1dg4xa" id="gt-wrapper-X">
+   <div id="google_translate_element2">
+   </div>
+   <div id="gt_float_wrapper">
+    <div class="gt_float_switcher notranslate">
+     <div class="gt_options">
+      <a class="nturl gt-current" data-gt-lang="en" href="#">
+       <img alt="en" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/en-us.svg"/>
+       English
+      </a>
+      <a class="nturl" data-gt-lang="es" href="#">
+       <img alt="es" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/es-mx.svg"/>
+       Spanish
+      </a>
+     </div>
+     <div class="gt-selected">
+      <div class="gt-current-lang">
+       <img alt="en" src="https://cdn.gtranslate.net/flags/svg/en-us.svg"/>
+       <span class="gt-lang-code">
+        en
+       </span>
+       <span class="gt_float_switcher-arrow">
+       </span>
+      </div>
+     </div>
+    </div>
+   </div>
   </div>
   <div class="wpdm-sp wpdm-sp-light" id="wpdm-side-panel">
    <div class="wpdm-sp__backdrop">
@@ -720,12 +716,38 @@
      </button>
     </div>
     <div class="wpdm-sp__body">
-     <div class="wpdm-sp__loader">
-      <div class="wpdm-sp__spinner">
-      </div>
-      <span>
-       Loading...
+    </div>
+   </div>
+  </div>
+  <div class="lightboxOverlay" id="lightboxOverlay" tabindex="-1">
+  </div>
+  <div class="lightbox" id="lightbox" tabindex="-1">
+   <div class="lb-RANDOM">
+    <div class="lb-container">
+     <img alt="" class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+     <div class="lb-nav">
+      <a aria-label="Previous image" class="lb-prev" href="">
+      </a>
+      <a aria-label="Next image" class="lb-next" href="">
+      </a>
+     </div>
+     <div class="lb-loader">
+      <a class="lb-cancel">
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="lb-RANDOM">
+    <div class="lb-data">
+     <div class="lb-details">
+      <span class="lb-caption">
       </span>
+      <span class="lb-number">
+      </span>
+     </div>
+     <div class="lb-RANDOM">
+      <a class="lb-close">
+      </a>
      </div>
     </div>
    </div>

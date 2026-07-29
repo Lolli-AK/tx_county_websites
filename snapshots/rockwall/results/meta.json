@@ -6,11 +6,11 @@
   "redirect_chain": [
     "https://results.enr.clarityelections.com/TX/Rockwall/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 202,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-07-29T19:22:37Z",
+  "fetched_at": "2026-07-29T19:38:46Z",
   "html_sha256": "70983ce959146538e96f95db77047b335362a324d609e853b63ce0e7fc28f2eb",
   "text_sha256": "f233ec4a95429198c14ba89d69f1d136eabe647558b91f4e58d0dc5648ee51e1",
   "byte_size": 35482,

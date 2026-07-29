@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.johnsoncountytx.org/departments/elections-office/current-election-results"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T19:22:37Z",
-  "html_sha256": "3df53ce9cffe923c7cbb4027a185412da56ff0e62f7c569a947355fce9b1dd45",
-  "text_sha256": "84531cb61da0ccacbba57b1d10e5633e0c9f5179d6d57421bdada6adf02fc44b",
-  "byte_size": 368,
-  "title": "Access Denied",
+  "fetched_at": "2026-07-29T19:38:46Z",
+  "html_sha256": "0732ab8dc75f5f3446f26f359ee1bc22448f3dd0d11d79a8d484e8438de5fb11",
+  "text_sha256": "3c8534d197b9119b6ff849245dcb25af3199c44fc5a67b3aa1d4e3ef9ee2fc5c",
+  "byte_size": 109890,
+  "title": "Election Results | Johnson County, TX",
   "error": null
 }

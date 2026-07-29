@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.nuecesco.com/"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T19:22:37Z",
-  "html_sha256": "9d9ca59dbd1ef0ab554b2067d4aa2fd9a390484504545ccee28f8db0f8961149",
-  "text_sha256": "dc9b5d700be05aca3147b557b03ec4e5bed633e1089a758da2f04f2a6651d291",
-  "byte_size": 322,
-  "title": "Access Denied",
+  "fetched_at": "2026-07-29T19:38:46Z",
+  "html_sha256": "04f8170144b74b2229f0362232290fa0e456926980f1027e13baca8865b85943",
+  "text_sha256": "90f32d6d197da217a04953a3e27c7d65d552599a42e9d13463562c545f9c200b",
+  "byte_size": 100465,
+  "title": "Nueces County, TX | Home",
   "error": null
 }

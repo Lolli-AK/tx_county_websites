@@ -6,11 +6,11 @@
   "redirect_chain": [
     "https://results.enr.clarityelections.com/TX/Galveston/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 202,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-07-29T19:22:37Z",
+  "fetched_at": "2026-07-29T19:38:46Z",
   "html_sha256": "1a491a7ad8b87c40b755c27e899e1318d8f2fadc8c337a10e5074e605bbb5ee9",
   "text_sha256": "a995b831017e2cc5903d06c190751c4c8897c5b0152faff7147d2edc053e4e4a",
   "byte_size": 10356,
