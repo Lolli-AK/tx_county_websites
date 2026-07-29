@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "1a431e8ace9995bb3b9fda45a3c1aad9b8a19f30150722a9677934315a79b668",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "97c702968ecda606a71adc094677602b91866dc1b69860863c1063458a5a99c1",
   "text_sha256": "a68309607335c871f91189aafd9b19f4c5290bd1ceb083e6e281262313a56a04",
-  "byte_size": 268048,
+  "byte_size": 268016,
   "title": "County of Upshur",
   "error": null
 }

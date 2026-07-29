@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "0d82317fbdb7db737b45ac95286ba2a85df4c7ecec8de0d808f0d40661210d56",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "1ba89a5c223831487ad95291ea79d66ea89d7294631b55d7d73cb3034592dd5d",
   "text_sha256": "f3abf295227b451ad90099f9f0da49bb7c775401cac9182d284bc6bb72c3e710",
-  "byte_size": 80211,
+  "byte_size": 80206,
   "title": "Area and Precinct Maps Information - Elections | Grayson County Tx.",
   "error": null
 }

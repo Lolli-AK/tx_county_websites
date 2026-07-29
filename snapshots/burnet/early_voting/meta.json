@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "ac838bbd60cc7605b1120adfde580f51855b629719357358ad5e8d82e9221daa",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "6fc672487c5f5a2c9148b6292c474d622a914fd87f484f0b856ddffdee97b394",
   "text_sha256": "e38d042a53b59fd9e6fe4d4cd04c29166d7162a00f096b4b185b58c2cba647ab",
-  "byte_size": 31709,
+  "byte_size": 31546,
   "title": "Current Election - Burnet County Elections",
   "error": null
 }

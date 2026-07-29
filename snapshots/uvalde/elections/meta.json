@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "55013448f4c9574fc39d9936ef5787b553d0918d16d33dc17c7fb0a9a62f24c3",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "70d88939082687c8c39482a6dffb1fde194868721b39d1171ca33a3e52e843a7",
   "text_sha256": "6fd22aecc2c1e86477f7168afae6da0716c263ab54b3fcd0c0a389c13325be9b",
-  "byte_size": 28563,
+  "byte_size": 28514,
   "title": "Uvalde County Elections",
   "error": null
 }

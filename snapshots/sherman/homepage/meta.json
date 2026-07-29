@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "a484298c5dd07537a8917dbda956fe2f40c991cd00de052ccdc99744e6e2c6aa",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "60ef00385271ed0d427204ba376cf02a1e378cf1924cb3556874ef24033bb63c",
   "text_sha256": "099fad5a24b36a8f7e865faa3c9a24da0da2b99dc893e90cdd90a59581ad8e38",
-  "byte_size": 31563,
+  "byte_size": 31555,
   "title": "Sherman County, Texas",
   "error": null
 }

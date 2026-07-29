@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "bc5ec82c2332cc5fdbb9d29d157ccac49a266bf3a60d5bfcb5c84ae1f00acf36",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "f6196e1c7d907d2e3e745504b30caa312080a442ae28c63f5e86a6768e33b23a",
   "text_sha256": "c15467fb3adae51b7cfbd332df01aa5b03c5c865c906fc744f28e461927b6d4c",
-  "byte_size": 34737,
+  "byte_size": 34734,
   "title": "Duval County, Texas",
   "error": null
 }

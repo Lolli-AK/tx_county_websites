@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "3c93f59bcb4f955276d36a59a5a8332d39f5444c138168e50472d6ef377f13d3",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "c738654e3880e26d8004ad17ed79cb9410e66cbb093f3661b05b9ab43074bd8e",
   "text_sha256": "7473fdc17f369e3a68595e261b32949679309bbffc8ff1b1afaee2a9b679f170",
-  "byte_size": 42331,
+  "byte_size": 42328,
   "title": "Polling Locations - Galveston County, TX",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "9fd3891a746c49f0374b045014b7b55c7294c248cabac647a34e6fa5fd53dc4c",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "3c51e5063da3f77f95b12885c418a39213657096abedfb7424ae511d008e26f9",
   "text_sha256": "86d0e7354db31b1fa160c2a18726b58b21b95eac46d82d92b14df4cec5ff9042",
-  "byte_size": 73623,
+  "byte_size": 73619,
   "title": "Elections - Jones County",
   "error": null
 }

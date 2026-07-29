@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "6887f9b891fd172f011164840d5ab11611737c223dabc15f1a72e933ff2393ab",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "0772f92639c20675d35369942452395c43187f468857c09f75491ca7d1e81dcf",
   "text_sha256": "7a0bcd8bc487c890bfcfc2c37f166245272c0b5fcd5c27aadcc5d6858987297d",
-  "byte_size": 101773,
+  "byte_size": 101752,
   "title": "Tyler County, Texas",
   "error": null
 }

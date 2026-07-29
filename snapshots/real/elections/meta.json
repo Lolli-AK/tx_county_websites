@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "7a45ecc26e08713a73c08d1b81a3f4ecf0e9a6a3c5adfe986d7da7fddcb49ce2",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "dc4f99717b6be31ec444d91bda32ec3a38bea747694d1d6c45b111896a2f98eb",
   "text_sha256": "c8775b76777310a0dcfefb42d4a942f3803eec9fd1e4d6c6d869aa110757297a",
-  "byte_size": 177883,
+  "byte_size": 177875,
   "title": "Real County, Texas",
   "error": null
 }

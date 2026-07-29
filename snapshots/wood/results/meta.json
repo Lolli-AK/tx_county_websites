@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "8befc81de6f417ef3dd7f5e722706e908a2fed4df8fb09d8329f3d196f2f14e8",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "e45380cf35eaeb7ce177b8925aef203e75ccfba5c196a337d9a6a8629c9f606f",
   "text_sha256": "21e433775270aecd272a8d3201055239e1c3e8bab3fbb862efe74bcf9729a1c0",
-  "byte_size": 15968,
+  "byte_size": 15965,
   "title": "Election Results - Wood County, TX Elections",
   "error": null
 }

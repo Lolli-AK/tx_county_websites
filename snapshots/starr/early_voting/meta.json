@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "51610be88b98c3fbfd93745814a303971ce3ae6f90fab3c572c30e1c7daeec7c",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "5d5a377a844036da9f5326a645b26b09505f2229e739bb992849c6926e7eb4ba",
   "text_sha256": "1f6d2a720771ccffcb5f5791e5b57c7b93a5251966069856b248004d09c5c0a2",
-  "byte_size": 36489,
+  "byte_size": 36277,
   "title": "View information for upcoming Elections",
   "error": null
 }

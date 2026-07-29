@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "c4b66935da810690bd08fe0c333d6d6a0e7af3aa0eed1e1e871341ba3526c139",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "80d177495f16ccd5bde6aebf72544897f6a1a8b30390b62c17c04899fa4a9239",
   "text_sha256": "7bf03cdd03a280a2b7d57865d0033fd4927a34ab080361591dd2d8545d122527",
-  "byte_size": 84924,
+  "byte_size": 84920,
   "title": "Hall County, Texas",
   "error": null
 }

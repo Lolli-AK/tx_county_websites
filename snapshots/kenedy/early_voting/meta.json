@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "bbb3c91826abf6d28cf2a9079ddc061040810540ffc2897adfa28a7798c24897",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "3453cf12eda35f42205be5a0f7919c0202e0b1122005ba4d9966c3f0e20fb2ca",
   "text_sha256": "bc51fdc499d4f523a7c3d2b986a90d7ff8245f0a5331273883d2b648c636854a",
-  "byte_size": 139680,
+  "byte_size": 139313,
   "title": "Current Election – Kenedy County",
   "error": null
 }

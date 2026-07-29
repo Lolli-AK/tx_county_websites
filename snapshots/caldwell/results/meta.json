@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "b6451dba5d8c49d7d9362324c88e9ab4bff5204ee1a6e0eece5b4211920adee8",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "44c6777ecdde984d39c572a0095769328abf78dd8d1ac9d71784d0dfa44aca76",
   "text_sha256": "ae9643b888199a7d63f2f457b4d30c8937180cb365ba45c8523567a14d892de7",
-  "byte_size": 144546,
+  "byte_size": 144533,
   "title": "Elections Results - Caldwell County, TX",
   "error": null
 }

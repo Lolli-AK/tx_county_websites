@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "dd489f115bbf98daaca33f09dbbaf6b135183aa64c476020482ca25a25ecb866",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "01be24a9ab1c75408bd57f1fa001179daf20913dde97b30c0039eb28215d155f",
   "text_sha256": "4a8bcf2406526dc42bc16d26600acea1b829a52bd811043415de71508e469ff2",
-  "byte_size": 37868,
+  "byte_size": 37466,
   "title": "Results Archive - Bastrop County, TX Elections",
   "error": null
 }

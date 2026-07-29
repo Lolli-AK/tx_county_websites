@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "ca770a286269f1e8d90da23ec54357fa66dcc5d7e2a42fd487b9d72e7f54cb55",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "354acd4972d38897db5d1a63c8a146ca2a905a552e9bf2a8e02ec416d52a698a",
   "text_sha256": "12228285d94f6445b7bb81899f8b0e67d7b706c53b7e9f5e638260075a9fd004",
-  "byte_size": 39180,
+  "byte_size": 39137,
   "title": "Election Notices - Crockett County",
   "error": null
 }

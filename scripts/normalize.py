@@ -125,10 +125,13 @@ _PREFIXED_SHORTHEX_RE = re.compile(
 # La Salle County renders class="pbckid6a6a382fdf001", fresh on every request.
 _GLUED_TOKEN_RE = re.compile(r"\b(pbckid|comp-|uid|guid|ctl)([0-9a-f]{10,})\b")
 # Random base62 suffix after a SINGLE dash, e.g. Jim Wells' FAQ plugin emits
-# id="ewd-ufaq-post-308-MeFxb5jB1A". The mixed-case lookaheads keep real slugs
-# ("-election-results", all lowercase) and years ("-2026", digits) untouched.
+# id="ewd-ufaq-post-308-MeFxb5jB1A" and id="ewd-ufaq-post-306-hyPkOkqghR".
+# Requiring BOTH cases is what distinguishes these from real content: slugs are
+# lowercase ("-election-results") and years are digits ("-2026"). A digit is NOT
+# required — half of these tokens contain none, and demanding one canonicalized
+# only some of them, which produced churn rather than removing it.
 _MIXEDCASE_SUFFIX_RE = re.compile(
-    r"-(?=[A-Za-z0-9]*[A-Z])(?=[A-Za-z0-9]*[a-z])(?=[A-Za-z0-9]*[0-9])[A-Za-z0-9]{8,}\b")
+    r"-(?=[A-Za-z0-9]*[A-Z])(?=[A-Za-z0-9]*[a-z])[A-Za-z0-9]{8,}\b")
 
 # Attributes whose values are identifier-ish and safe to canonicalize.
 _ID_ATTRS = ("id", "class", "for", "aria-controls", "aria-labelledby",

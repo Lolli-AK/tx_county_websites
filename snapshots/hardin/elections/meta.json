@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "bde4246c9e492dfe55a012987226679c61c7ac75dfa8f048bcffa08cb7dd23cf",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "38c5b3dbef2d2e4a08de3f44b37a59acd0bcde53193aecbcb2880edbf4f289cd",
   "text_sha256": "3e5df41359234a849a1f69cc85311bc62d217df1803bd9792e3b31a1537b8dba",
-  "byte_size": 145702,
+  "byte_size": 145618,
   "title": "Elections | Hardin County, Texas",
   "error": null
 }

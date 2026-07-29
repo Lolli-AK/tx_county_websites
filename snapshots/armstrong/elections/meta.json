@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "fec48f91537d05b3498ca01ef7df3cc552e24d16c7834b1875a851a699fadee4",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "5a9c8b329e0d5e177e591210b737f32d9a17d48a901540611ddf080a1f6c6829",
   "text_sha256": "b7bf73c1d13f22492cb38bad445c7f6e65fbe784a924025d1a1a2d1cd688d281",
-  "byte_size": 269335,
+  "byte_size": 269326,
   "title": "Armstrong County, Texas",
   "error": null
 }

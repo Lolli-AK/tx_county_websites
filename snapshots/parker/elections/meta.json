@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T18:38:44Z",
-  "html_sha256": "5d7d4fc7720bd3b7b017a7d715edce333e0d139bae9babed56de94c7ba22e497",
+  "fetched_at": "2026-07-29T18:53:19Z",
+  "html_sha256": "3c750e233f3f91058511b1031f01f90d27ff1d7869e9b0dae594aaf10f6b3cfc",
   "text_sha256": "8949f44d52c94a1ad262571ec4e9418fce0801de34f99d61c4db02650fa7ed2c",
-  "byte_size": 45736,
+  "byte_size": 45684,
   "title": "Staff Directory • Elections",
   "error": null
 }
