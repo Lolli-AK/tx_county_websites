@@ -1,5 +1,5 @@
 {
-  "_comment": "Runtime knobs for tx-county-watch. Cadence is NOT hardcoded in the pipeline; the scheduler (cron / GitHub Actions) reads these to decide frequency. Flip election_window to true to switch to the higher-frequency schedule during the election window.",
+  "_comment": "Runtime knobs for tx-county-watch. Cadence is NOT read by the pipeline; the scheduler (cron / GitHub Actions) owns frequency. Flip election_window to true in the scheduler to raise cadence during the election window. `workers` applies to plain fetches only \u2014 headless renders are always serialized to protect determinism.",
   "election_window": false,
   "cadence": {
     "baseline_cron": "0 8 * * *",
@@ -13,6 +13,9 @@
     "plain_retries": 2,
     "hydration_settle_ms": 2000,
     "hydration_max_wait_ms": 6000,
-    "interstitial_max_wait_ms": 45000
+    "interstitial_max_wait_ms": 45000,
+    "workers": 8,
+    "request_delay_ms": 250,
+    "request_jitter_ms": 250
   }
 }

@@ -64,42 +64,8 @@ HEADERS = {"User-Agent": USER_AGENT,
 TIMEOUT = 12.0
 
 # (county, seat) for the 100 Batch 2 counties.
-BATCH2 = [
-    ("Anderson", "Palestine"), ("Andrews", "Andrews"), ("Angelina", "Lufkin"),
-    ("Aransas", "Rockport"), ("Archer", "Archer City"), ("Armstrong", "Claude"),
-    ("Atascosa", "Jourdanton"), ("Austin", "Bellville"), ("Bailey", "Muleshoe"),
-    ("Bandera", "Bandera"), ("Bastrop", "Bastrop"), ("Baylor", "Seymour"),
-    ("Bee", "Beeville"), ("Blanco", "Johnson City"), ("Borden", "Gail"),
-    ("Bosque", "Meridian"), ("Bowie", "Boston"), ("Brazoria", "Angleton"),
-    ("Brazos", "Bryan"), ("Briscoe", "Silverton"), ("Brooks", "Falfurrias"),
-    ("Brown", "Brownwood"), ("Burleson", "Caldwell"), ("Burnet", "Burnet"),
-    ("Caldwell", "Lockhart"), ("Calhoun", "Port Lavaca"), ("Callahan", "Baird"),
-    ("Cameron", "Brownsville"), ("Camp", "Pittsburg"), ("Carson", "Panhandle"),
-    ("Cass", "Linden"), ("Castro", "Dimmitt"), ("Chambers", "Anahuac"),
-    ("Cherokee", "Rusk"), ("Childress", "Childress"), ("Clay", "Henrietta"),
-    ("Cochran", "Morton"), ("Coke", "Robert Lee"), ("Coleman", "Coleman"),
-    ("Collingsworth", "Wellington"), ("Colorado", "Columbus"),
-    ("Comal", "New Braunfels"), ("Comanche", "Comanche"), ("Concho", "Paint Rock"),
-    ("Cooke", "Gainesville"), ("Coryell", "Gatesville"), ("Cottle", "Paducah"),
-    ("Crane", "Crane"), ("Crockett", "Ozona"), ("Crosby", "Crosbyton"),
-    ("Culberson", "Van Horn"), ("Dallam", "Dalhart"), ("Dawson", "Lamesa"),
-    ("Deaf Smith", "Hereford"), ("Delta", "Cooper"), ("Denton", "Denton"),
-    ("DeWitt", "Cuero"), ("Dickens", "Dickens"), ("Dimmit", "Carrizo Springs"),
-    ("Donley", "Clarendon"), ("Duval", "San Diego"), ("Eastland", "Eastland"),
-    ("Ector", "Odessa"), ("Edwards", "Rocksprings"), ("Ellis", "Waxahachie"),
-    ("Erath", "Stephenville"), ("Falls", "Marlin"), ("Fannin", "Bonham"),
-    ("Fayette", "La Grange"), ("Fisher", "Roby"), ("Floyd", "Floydada"),
-    ("Foard", "Crowell"), ("Fort Bend", "Richmond"), ("Franklin", "Mount Vernon"),
-    ("Freestone", "Fairfield"), ("Frio", "Pearsall"), ("Gaines", "Seminole"),
-    ("Garza", "Post"), ("Glasscock", "Garden City"), ("Goliad", "Goliad"),
-    ("Gonzales", "Gonzales"), ("Gray", "Pampa"), ("Grayson", "Sherman"),
-    ("Gregg", "Longview"), ("Grimes", "Anderson"), ("Guadalupe", "Seguin"),
-    ("Hale", "Plainview"), ("Hall", "Memphis"), ("Hamilton", "Hamilton"),
-    ("Hansford", "Spearman"), ("Hardeman", "Quanah"), ("Hardin", "Kountze"),
-    ("Harrison", "Marshall"), ("Haskell", "Haskell"), ("Hays", "San Marcos"),
-    ("Hemphill", "Canadian"), ("Henderson", "Athens"), ("Hill", "Hillsboro"),
-    ("Hockley", "Levelland"), ("Hood", "Granbury"),
-]
+# County/seat data is NOT hardcoded here — it lives in manifest/counties.csv and is
+# read via load_seed(). Use --batch to pick a batch, e.g. --batch 3.
 
 # Domains that are never the official county government site.
 BAD_HOST_SUBSTRINGS = ("facebook", "twitter", "linkedin", "yelp", "city-data",
@@ -122,6 +88,27 @@ COMMERCIAL_SIGNALS = ("process server", "bail bond", "personal injury",
                       "for sale by owner", "insurance quotes", "add your business",
                       "advertise with us", "sponsored listings")
 
+# Adjacent-but-not-government organisations that legitimately carry the county's
+# name and rank well: tourism bureaus, economic development corporations, chambers,
+# historical societies. libertycounty.org is Liberty County's *visitor* site and
+# woodcountytx.com is the Wood County Economic Development Commission — neither is
+# the county government. Weighted against GOV_SIGNALS so a real county site that
+# merely links to its tourism page isn't rejected.
+NON_GOV_ORG_SIGNALS = ("visitor center", "visitors bureau", "things to do",
+                       "where to stay", "places to eat", "itineraries",
+                       "economic development commission",
+                       "economic development corporation",
+                       "chamber of commerce", "convention and visitors",
+                       "historical society", "genealogical society",
+                       "plan your visit", "tourism")
+
+# Non-government organisations that name themselves in the page TITLE. Seeing one
+# of these there is disqualifying on its own.
+NON_GOV_ORG_TITLE_MARKERS = ("economic development", "chamber of commerce",
+                             "visitors bureau", "visitor center", "tourism",
+                             "convention and visitors", "historical society",
+                             "genealogical society", "appraisal district")
+
 PARKED_SIGNALS = ("domain is for sale", "buy this domain", "parked",
                   "this domain may be for sale", "godaddy", "sedo",
                   "account suspended", "coming soon", "under construction",
@@ -130,6 +117,36 @@ ERROR_SIGNALS = ("page not found", "404 not found", "403 forbidden",
                  "access denied", "not be found", "site can't be reached")
 
 log = logging.getLogger("discover_homepages")
+
+SEED = ROOT / "manifest" / "counties.csv"
+
+
+def load_seed(batch: str | None = None) -> list[tuple[str, str]]:
+    """(county, seat) pairs from manifest/counties.csv — the single source of truth.
+
+    Nothing in this module hardcodes a county list; adding or fixing a county is a
+    manifest edit.
+    """
+    with SEED.open(newline="", encoding="utf-8") as fh:
+        rows = list(csv.DictReader(fh))
+    return [(r["county"].strip(), r["seat"].strip()) for r in rows
+            if batch is None or r["batch"].strip() == str(batch)]
+
+
+def _all_county_names() -> set[str]:
+    with SEED.open(newline="", encoding="utf-8") as fh:
+        return {r["county"].strip().lower() for r in csv.DictReader(fh)}
+
+
+_COUNTY_NAMES_CACHE: set[str] | None = None
+
+
+def _other_county_names(county: str) -> set[str]:
+    """Every Texas county name except this one, for cross-identification checks."""
+    global _COUNTY_NAMES_CACHE
+    if _COUNTY_NAMES_CACHE is None:
+        _COUNTY_NAMES_CACHE = _all_county_names()
+    return _COUNTY_NAMES_CACHE - {county.strip().lower()}
 
 
 def slugs(county: str) -> tuple[str, str]:
@@ -150,6 +167,9 @@ def candidates(county: str) -> list[str]:
         f"https://www.{s}county.gov/",
         f"https://{s}county.gov/",
         f"https://www.{s}countytexas.gov/",
+        # Short .gov form without "county" (Polk County uses polktx.gov)
+        f"https://www.{s}tx.gov/",
+        f"https://{s}tx.gov/",
         # Newer state-hosted pattern, e.g. hoodcounty.texas.gov, foardcounty.texas.gov
         f"https://{s}county.texas.gov/",
         f"https://www.{s}county.texas.gov/",
@@ -187,7 +207,21 @@ def visible_text(html: str) -> tuple[str, str | None]:
 
 def verify(county: str, seat: str, url: str, text: str, title: str | None
            ) -> tuple[str, str]:
-    """Return (confidence, evidence). confidence: confident|likely|reject."""
+    """Return (confidence, evidence). confidence: confident|likely|reject.
+
+    Identity is established by the literal phrase "<county> county", NOT by the
+    county name and the word "county" appearing separately. That distinction
+    matters because 12 Texas counties share a name with a *different* county's
+    seat, so loose matching produces confident-looking false positives:
+
+        Houston County (seat Crockett)  vs  the City of Houston / Harris County
+        Tyler County   (seat Woodville) vs  the City of Tyler / Smith County
+        Jefferson County (seat Beaumont) vs the City of Jefferson / Marion County
+
+    Harris County's site says "Harris County", never "Houston County", so
+    requiring the exact phrase rejects it. We additionally reject pages that
+    identify themselves as some *other* county.
+    """
     hay = f"{title or ''} {text}".lower()
     county_l = county.lower()
     seat_l = seat.lower()
@@ -200,10 +234,33 @@ def verify(county: str, seat: str, url: str, text: str, title: str | None
     if len(text.strip()) < 120:
         return "reject", f"near-empty page ({len(text.strip())} chars)"
 
-    has_county_name = county_l in hay
+    # Self-identification: the page must say "<county> county" (or "county of
+    # <county>"), not merely contain the name and the word separately.
+    esc = re.escape(county_l)
+    has_county_name = bool(re.search(rf"\b{esc}\b\s*'?s?\s+county\b", hay)) or \
+        bool(re.search(rf"\bcounty\s+of\s+{esc}\b", hay))
     has_word_county = "county" in hay
     has_state = ("texas" in hay) or bool(re.search(r"\btx\b", hay))
-    has_seat = seat_l in hay
+    has_seat = bool(re.search(rf"\b{re.escape(seat_l)}\b", hay))
+
+    # Does the TITLE identify a DIFFERENT county? Use same-line matching only
+    # ([ \t]+ not \s+): across newlines a nav list would join "Brown" and
+    # "County Clerk" into a phantom "Brown County".
+    title_l = (title or "").lower()
+    # Nested county names need care in BOTH directions, because "Deaf Smith
+    # County" contains the literal string "Smith County":
+    #   - looking for Deaf Smith, ignore "Smith" (it's part of our own name)
+    #   - looking for Smith, a title saying "Deaf Smith County" is NOT us
+    others_in_title = [
+        o for o in _other_county_names(county)
+        if o not in county_l                       # not a fragment of our own name
+        and re.search(rf"\b{re.escape(o)}\b[ \t]+county\b", title_l)
+    ]
+    longer_match = [o for o in _other_county_names(county)
+                    if county_l in o
+                    and re.search(rf"\b{re.escape(o)}\b[ \t]+county\b", title_l)]
+    if longer_match:
+        others_in_title = longer_match
     # Domain itself is a strong signal for the official *.tx.us / *.gov patterns.
     official_tld = host.endswith(".tx.us") or host.endswith(".gov")
 
@@ -229,26 +286,46 @@ def verify(county: str, seat: str, url: str, text: str, title: str | None
     # a commercial phrase alone must not disqualify them.
     if commercial_hits and len(gov_hits) < 2:
         return "reject", f"commercial site ({commercial_hits[0]}) — {evidence}"
+    # Tourism bureau / EDC / chamber carrying the county's name. Only reject when
+    # the government vocabulary is weaker than the non-government vocabulary, so a
+    # real county site that links to "things to do" survives.
+    nongov_hits = [n for n in NON_GOV_ORG_SIGNALS if n in hay]
+    # A non-government organisation names itself in its TITLE ("Wood County
+    # Economic Development Commission"), so that alone is disqualifying.
+    title_org = [n for n in NON_GOV_ORG_TITLE_MARKERS if n in title_l]
+    # Otherwise require a genuine cluster of tourism vocabulary. A real county site
+    # often carries a single "chamber of commerce" nav link — Martin County's
+    # sparse CivicPlus homepage has exactly one and is legitimate.
+    if title_org or (len(nongov_hits) >= 3 and len(nongov_hits) > len(gov_hits)):
+        why = (title_org or nongov_hits)[:2]
+        return "reject", (f"not the county government — looks like a tourism/EDC/chamber "
+                          f"site ({', '.join(why)}) — {evidence}")
     # Must look like a county government page at all.
     if not (has_county_name and has_word_county):
-        return "reject", f"not a county-name match — {evidence}"
+        return "reject", f"page does not identify as '{county} County' — {evidence}"
+    # The page's own TITLE naming a different county means we landed on the wrong
+    # site. Scoped to the title on purpose: Texas counties are named after people
+    # (Brown, Smith, Young, Houston), so surnames in body text — "Ann Brown,
+    # County Clerk" — would otherwise trigger bogus rejections.
+    if others_in_title:
+        return "reject", (f"title identifies another county "
+                          f"({', '.join(sorted(others_in_title)[:2])}) — {evidence}")
     # Must be locatable in Texas (guards Anderson County SC/TN style collisions).
     if not (has_state or has_seat):
         return "reject", f"no Texas/seat signal (possible wrong-state county) — {evidence}"
 
-    # Must actually look like a GOVERNMENT site. Restricted TLDs (.gov/.tx.us)
-    # can't be registered commercially, so one signal is enough there; open TLDs
-    # (.com/.org/.net) must show at least two.
-    need = 1 if official_tld else 2
-    if len(gov_hits) < need:
-        return "reject", (f"insufficient county-government signals "
-                          f"({len(gov_hits)}<{need}) — {evidence}")
-
-    if official_tld and (has_seat or has_state):
+    # Government corroboration. A restricted TLD (.gov / .tx.us) cannot be
+    # registered commercially, so the TLD itself is sufficient proof. Open TLDs
+    # need at least one signal; with none we keep the county but flag it rather
+    # than silently dropping a real site — El Paso's epcounty.com homepage is a
+    # bare CMS shell whose text contains no government vocabulary at all.
+    if official_tld:
         return "confident", evidence
-    if has_seat and has_state and len(gov_hits) >= 2:
+    if len(gov_hits) >= 2 and has_state and has_seat:
         return "confident", evidence
-    return "likely", evidence
+    if gov_hits:
+        return "likely", evidence
+    return "likely", f"no government vocabulary on page — verify manually; {evidence}"
 
 
 def probe(url: str) -> dict:
@@ -303,15 +380,31 @@ def resolve_county(county: str, seat: str) -> dict:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--county", action="append", default=None)
+    ap.add_argument("--batch", default=None,
+                    help="restrict to a batch from manifest/counties.csv (e.g. 3)")
+    ap.add_argument("--out", default=None,
+                    help="output CSV path (defaults to manifest/batch<N>_homepages.csv)")
     ap.add_argument("--workers", type=int, default=10)
     args = ap.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(message)s",
                         handlers=[logging.StreamHandler(sys.stdout)])
 
-    counties = BATCH2
+    global OUT_CSV, OUT_JSON
+    if args.out:
+        OUT_CSV = Path(args.out)
+        # Keep the probe log beside the chosen output so an ad-hoc run can't
+        # clobber another batch's record.
+        OUT_JSON = OUT_CSV.with_name(OUT_CSV.stem + "-probes.json")
+    elif args.batch:
+        OUT_CSV = ROOT / "manifest" / f"batch{args.batch}_homepages.csv"
+        OUT_JSON = ROOT / "logs" / f"batch{args.batch}-homepage-probes.json"
+
+    counties = load_seed(args.batch)
     if args.county:
         want = {c.lower() for c in args.county}
-        counties = [(c, s) for c, s in BATCH2 if c.lower() in want]
+        counties = [(c, s) for c, s in counties if c.lower() in want]
+    if not counties:
+        sys.exit("no counties selected — check --batch / --county")
 
     results: list[dict] = []
     with cf.ThreadPoolExecutor(max_workers=args.workers) as pool:

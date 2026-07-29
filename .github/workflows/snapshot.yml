@@ -30,9 +30,10 @@ jobs:
       github.event.schedule == '0 8 * * *' ||
       (github.event.schedule == '0 */3 * * *' && vars.ELECTION_WINDOW == 'true')
     runs-on: ubuntu-latest
-    # A full 382-target run takes ~15-25 min. Cap it so a hung fetch can't sit
-    # there burning the 6-hour default and, on a private repo, billable minutes.
-    timeout-minutes: 60
+    # At 254 counties a run is ~800 targets. With the plain path running
+    # concurrently that lands well under an hour, but the cap keeps a hung fetch
+    # from burning the 6-hour default (and, on a private repo, billable minutes).
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -51,6 +52,12 @@ jobs:
           git config user.name "tx-county-watch[bot]"
           git config user.email "actions@github.com"
           python scripts/snapshot.py
+
+      # If the run died part-way (flaky county, network blip), pick up where it
+      # left off rather than refetching everything.
+      - name: Resume once if the run failed
+        if: failure()
+        run: python scripts/snapshot.py --resume
 
       - name: Push snapshot commit
         run: git push

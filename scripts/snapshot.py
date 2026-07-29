@@ -23,12 +23,16 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import concurrent.futures as cf
 import csv
 import hashlib
 import json
 import logging
+import random
 import subprocess
 import sys
+import threading
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -41,6 +45,8 @@ MANIFEST = ROOT / "manifest" / "targets.csv"
 SNAPSHOTS = ROOT / "snapshots"
 LOGS = ROOT / "logs"
 CONFIG_PATH = ROOT / "config.json"
+# Written incrementally during a run so --resume can skip finished targets.
+CHECKPOINT = ROOT / "logs" / "checkpoint.json"
 
 
 def _load_config() -> dict:
@@ -53,6 +59,9 @@ def _load_config() -> dict:
         "hydration_settle_ms": 2000,
         "hydration_max_wait_ms": 6000,
         "interstitial_max_wait_ms": 45000,
+        "workers": 8,
+        "request_delay_ms": 250,
+        "request_jitter_ms": 250,
     }
     try:
         cfg = json.loads(CONFIG_PATH.read_text(encoding="utf-8")).get("fetch", {})
@@ -82,6 +91,24 @@ HYDRATION_SETTLE_MS = int(CONFIG["hydration_settle_ms"])
 HYDRATION_MAX_WAIT_MS = int(CONFIG["hydration_max_wait_ms"])
 
 log = logging.getLogger("snapshot")
+
+# Playwright's sync API is not safe to drive from several threads at once, and
+# parallel renders would also skew hydration timing. Serialize them.
+_HEADLESS_LOCK = threading.Lock()
+
+REQUEST_DELAY_MS = int(CONFIG["request_delay_ms"])
+REQUEST_JITTER_MS = int(CONFIG["request_jitter_ms"])
+
+
+def _throttle() -> None:
+    """Politeness pause before each fetch, with jitter.
+
+    At 254 counties a run makes well over a thousand requests against small
+    county servers; jitter avoids a synchronized stampede from the worker pool.
+    """
+    delay = REQUEST_DELAY_MS + random.uniform(0, REQUEST_JITTER_MS)
+    if delay > 0:
+        time.sleep(delay / 1000.0)
 
 # Bot-check interstitials ("Just a moment…", Cloudflare's challenge page). These
 # resolve themselves after a second or two in a real browser, but if we capture
@@ -165,6 +192,7 @@ def fetch_plain(url: str) -> dict:
     """Plain HTTP fetch. Returns a result dict (never raises for HTTP status)."""
     last_exc = None
     for attempt in range(1, PLAIN_RETRIES + 1):
+        _throttle()
         try:
             with httpx.Client(
                 headers=HEADERS,
@@ -207,6 +235,7 @@ def fetch_plain(url: str) -> dict:
 
 def fetch_headless(url: str) -> dict:
     """Headless render via Playwright/Chromium. Waits for network idle."""
+    _throttle()
     try:
         from playwright.sync_api import sync_playwright
     except ImportError as exc:
@@ -336,7 +365,8 @@ def process_target(row: dict, fetched_at: str, allow_headless: bool) -> dict:
 
     if should_escalate:
         log.info("escalating to headless: %s/%s (%s)", county, page_type, url)
-        h_result = fetch_headless(url)
+        with _HEADLESS_LOCK:
+            h_result = fetch_headless(url)
         if h_result["ok"]:
             result = h_result
             render_mode = "headless"
@@ -416,7 +446,8 @@ def git_commit(fetched_at: str, n_targets: int) -> None:
 # --------------------------------------------------------------------------- #
 # main
 # --------------------------------------------------------------------------- #
-def load_targets(counties: list[str] | None, page_type: str | None) -> list[dict]:
+def load_targets(counties: list[str] | None, page_type: str | None,
+                 batch: str | None = None) -> list[dict]:
     if not MANIFEST.exists():
         sys.exit(f"manifest not found: {MANIFEST} (run Phase 1 / discover.py first)")
     rows = []
@@ -428,8 +459,26 @@ def load_targets(counties: list[str] | None, page_type: str | None) -> list[dict
                 continue
             if page_type and row["page_type"].strip().lower() != page_type.lower():
                 continue
+            if batch and str(row.get("batch", "")).strip() != str(batch):
+                continue
             rows.append(row)
     return rows
+
+
+def _target_key(row: dict) -> str:
+    return f"{row['county'].strip()}/{row['page_type'].strip()}"
+
+
+def load_checkpoint(path: Path) -> set[str]:
+    """Target keys already completed by an interrupted run of this manifest."""
+    if not path.exists():
+        return set()
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        return set(data.get("done", []))
+    except (json.JSONDecodeError, OSError):
+        log.warning("unreadable checkpoint %s — starting fresh", path)
+        return set()
 
 
 def main() -> None:
@@ -438,10 +487,16 @@ def main() -> None:
                     help="limit to county (repeatable, case-insensitive)")
     ap.add_argument("--page-type", default=None,
                     help="limit to one page_type (homepage/elections/polling/...)")
+    ap.add_argument("--batch", default=None,
+                    help="limit to a batch label from the manifest (1/2/3)")
     ap.add_argument("--no-headless", action="store_true",
                     help="never escalate to headless (offline/debug)")
     ap.add_argument("--no-commit", action="store_true",
                     help="write artifacts but do not git commit")
+    ap.add_argument("--workers", type=int, default=CONFIG["workers"],
+                    help="concurrent PLAIN fetches; headless is always serialized")
+    ap.add_argument("--resume", action="store_true",
+                    help="skip targets already completed per the checkpoint file")
     args = ap.parse_args()
 
     fetched_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -455,21 +510,52 @@ def main() -> None:
     )
 
     counties = [c.lower() for c in args.county] if args.county else None
-    targets = load_targets(counties, args.page_type)
-    log.info("run %s — %d targets, headless=%s", fetched_at, len(targets),
-             not args.no_headless)
+    targets = load_targets(counties, args.page_type, args.batch)
 
-    for row in targets:
+    done: set[str] = load_checkpoint(CHECKPOINT) if args.resume else set()
+    if done:
+        before = len(targets)
+        targets = [r for r in targets if _target_key(r) not in done]
+        log.info("--resume: skipping %d already-completed targets",
+                 before - len(targets))
+
+    log.info("run %s — %d targets, workers=%d, headless=%s",
+             fetched_at, len(targets), args.workers, not args.no_headless)
+
+    # Concurrency is applied to the PLAIN path only; headless renders are
+    # serialized inside process_target via _HEADLESS_LOCK. Running Chromium
+    # renders in parallel would contend for CPU and shift hydration timing, which
+    # is exactly the non-determinism this project spent so long eliminating.
+    completed: list[str] = list(done)
+    lock = threading.Lock()
+
+    def run_one(row: dict) -> None:
         try:
             process_target(row, fetched_at, allow_headless=not args.no_headless)
+            with lock:
+                completed.append(_target_key(row))
+                # Persist progress as we go so an interrupted run can resume.
+                CHECKPOINT.write_text(json.dumps(
+                    {"fetched_at": fetched_at, "done": completed}, indent=0),
+                    encoding="utf-8")
         except Exception as exc:  # noqa: BLE001 - one bad target must not kill the run
             log.exception("unhandled error for %s/%s: %s",
                           row.get("county"), row.get("page_type"), exc)
+
+    if args.workers <= 1:
+        for row in targets:
+            run_one(row)
+    else:
+        with cf.ThreadPoolExecutor(max_workers=args.workers) as pool:
+            list(pool.map(run_one, targets))
 
     if not args.no_commit:
         git_commit(fetched_at, len(targets))
     else:
         log.info("--no-commit: skipping git commit")
+
+    # A clean finish invalidates the checkpoint; a crash leaves it for --resume.
+    CHECKPOINT.unlink(missing_ok=True)
 
 
 if __name__ == "__main__":
