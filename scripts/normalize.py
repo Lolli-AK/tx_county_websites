@@ -182,6 +182,11 @@ _WEATHER_HINTS = ("weathercontainer", "weather-container", "weatherwidget",
                   "weather-widget", "weatherblock", "weather-block",
                   "weathericon", "current-weather", "weather-current")
 
+# Self-describing cache-buster elements: Gregg County emits empty
+# <span class="nocache" data-nocache="..."> markers whose presence varies per
+# render. The name says it all — never content.
+_NOCACHE_HINTS = ("nocache", "no-cache")
+
 _INJECTED_WIDGET_HINTS = ("audioeye", "accessibe", "userway", "usablenet",
                           "recite-me", "recitememe", "equalweb",
                           # JS-injected document viewer overlay (Delta County)
@@ -328,6 +333,10 @@ def _strip_tree(soup: BeautifulSoup) -> None:
             str(tag.get("href") or ""), str(tag.get("src") or ""),
         ])).lower()
         if ident and any(h in ident for h in _INJECTED_WIDGET_HINTS):
+            tag.decompose()
+            continue
+        if tag.has_attr("data-nocache") or any(
+                c.lower() in _NOCACHE_HINTS for c in (tag.get("class") or [])):
             tag.decompose()
             continue
         # Live weather readout — replace with a placeholder rather than deleting,

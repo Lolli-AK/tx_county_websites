@@ -54,36 +54,37 @@ expected data, not an error** — it's recorded as a gap in the manifest.
 
 ## Coverage
 
-**254 counties · 1,270 manifest rows · 747 pages captured · 523 recorded gaps.**
+**254 counties · 1,270 manifest rows · 756 pages captured · 514 recorded gaps.**
 
 How many counties have each page type:
 
 | page type | captured | b1 (24) | b2 (100) | b3 (130) | `external` | why the rest are gaps |
 |---|---|---|---|---|---|---|
 | `homepage` | **254 / 254** | 24 | 100 | 130 | 0 | — every county has one |
-| `elections` | **247 / 254** | 23 | 98 | 126 | 23 | King publishes no HTML election pages; 6 others are bot-blocked so couldn't be crawled |
-| `polling` | **82 / 254** | 15 | 33 | 34 | 23 | usually folded into the elections page, or published only as a per-election PDF |
-| `early_voting` | **74 / 254** | 10 | 32 | 32 | 21 | same — vote-center counties often have no standalone EV page |
-| `results` | **90 / 254** | 16 | 30 | 44 | 33 | small counties post PDFs; metros use Clarity ENR portals (hence the high `external` count) |
+| `elections` | **250 / 254** | 23 | 98 | 129 | 22 | King publishes no HTML election pages at all; 3 others have none reachable |
+| `polling` | **84 / 254** | 15 | 33 | 36 | 23 | usually folded into the elections page, or published only as a per-election PDF |
+| `early_voting` | **75 / 254** | 10 | 32 | 33 | 21 | same — vote-center counties often have no standalone EV page |
+| `results` | **93 / 254** | 16 | 30 | 47 | 32 | small counties post PDFs; metros use Clarity ENR portals (hence the high `external` count) |
 
 Per-county completeness — most counties are *not* 5/5, and that is the expected
 shape of Texas, not under-discovery:
 
 | pages captured | counties | typical profile |
 |---|---|---|
-| 5 / 5 | 49 | metros & large counties with a dedicated elections operation |
-| 4 / 5 | 31 | usually missing a standalone `early_voting` page |
+| 5 / 5 | 50 | metros & large counties with a dedicated elections operation |
+| 4 / 5 | 32 | usually missing a standalone `early_voting` page |
 | 3 / 5 | 37 | mid-size counties |
-| 2 / 5 | **130** | rural — homepage + one elections page, everything else in PDFs |
-| 1 / 5 | 7 | homepage only (e.g. King County publishes nothing else as HTML) |
+| 2 / 5 | **132** | rural — homepage + one elections page, everything else in PDFs |
+| 1 / 5 | 3 | homepage only (e.g. King County publishes nothing else as HTML) |
 
 Texas is mostly rural, so **captured pages grow sublinearly with county count**:
 going from 124 to 254 counties roughly doubled the counties but took captured pages
-from 381 to 747, because the added counties are overwhelmingly 2/5.
+from 381 to 756, because the added counties are overwhelmingly 2/5.
 
-The 523 gaps break down as: 353 "no distinct page found" (folded into another page),
-94 "candidate is non-HTML" (PDF-only), 20 uncrawlable because the homepage is
-bot-blocked, 15 unreachable, and a handful of one-offs. **Every gap row carries its
+The 514 gaps break down as: ~350 "no distinct page found" (folded into another
+page), ~95 "candidate is non-HTML" (PDF-only), ~20 uncrawlable because the homepage
+is bot-blocked, ~15 unreachable, and a tail of one-offs (an auth-walled SharePoint
+library, a county linking a national site through Google Translate). **Every gap row carries its
 reason in `notes`** — a gap is recorded data, not a failure.
 
 ## What it stores (per captured page)
@@ -108,7 +109,7 @@ leave no trace in the body.
 
 One directory per county, one subdirectory per page type, three files in each.
 **A gap creates no directory** — so a county's tree shows at a glance what it
-publishes. Current tree: **254 county dirs → 747 page dirs → 2,241 files**.
+publishes. Current tree: **254 county dirs → 756 page dirs → 2,268 files**.
 
 ```
 tx-county-watch/
@@ -271,7 +272,7 @@ git add -A && git commit -m baseline
 git diff --stat -- '*page.html' '*page.txt'   # <- expect empty
 ```
 
-**Status at 254 counties (747 fetched targets).** Systematic volatility is handled —
+**Status at 254 counties (756 fetched targets).** Systematic volatility is handled —
 about two dozen distinct classes of it were found and fixed by running this test
 repeatedly and chasing every diff (see the normalization list above). Scaling from
 124 to 254 counties surfaced three more — a Wix publish counter, `pbckid<hex>`
@@ -501,7 +502,7 @@ map/lookup apps that have no verifiable text, or blocked pages).
 
 ## Running at 254-county scale
 
-A full run touches **747 targets** and, counting retries and headless escalations,
+A full run touches **756 targets** and, counting retries and headless escalations,
 makes well over a thousand requests against small county servers. Three things make
 that sustainable:
 
@@ -534,7 +535,7 @@ Timings and storage, measured:
 
 | | 124 counties | 254 counties |
 |---|---|---|
-| targets captured | 381 | **747** |
+| targets captured | 381 | **756** |
 | run time (Actions, serial) | ~10.5 min | ~22 min projected |
 | run time (8 plain workers) | — | substantially lower; headless is the floor |
 | growth per run | ~0.1 MB | ~0.2–0.9 MB |
