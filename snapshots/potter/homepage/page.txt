@@ -155,7 +155,7 @@ Welcome to Potter County
 The Texas Panhandle's central region is home to Potter County. It is 581,357 acres, or 908.37 square miles, in total land area. The estimated population of Potter County is 118,015 (2022) and is concentrated in Amarillo and the nearby subdivisions. Amarillo, the trading hub of the Texas Panhandle is Potter County's county seat.
 Welcome to Potter County we take pride in making our County a place where people and businesses can thrive and grow.
 County Recognitions and Awards
-POTTER COUNTY WEATHER
+[live weather removed for determinism]
 Potter County Courthouse   |   500 S. Fillmore   |   Amarillo, TX 79101   |   Phone: (806) 379-2246   |
 info@co.potter.tx.us
 Web Accessibility

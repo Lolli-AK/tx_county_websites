@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T17:50:06Z",
-  "html_sha256": "c13f96c2580dd2a89a62547c5fee58429882a066f6b8223a58371f0c7934595c",
-  "text_sha256": "712b18189c6721608248aac930353bec3988d49f0253e6ac1a08f3ead02c643c",
-  "byte_size": 25669,
+  "fetched_at": "2026-07-29T18:07:05Z",
+  "html_sha256": "ab181d46c395e8cff305f9bc28d85795d6530af6954974c861f5bff23ecd0c1f",
+  "text_sha256": "1902d8cb2eac1f8c8ede123fdc9c50716e7a448f00b0776271779f0776080aa3",
+  "byte_size": 25688,
   "title": "Elections Historic Election Results | Waller County TX",
   "error": null
 }

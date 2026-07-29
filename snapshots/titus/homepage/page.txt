@@ -91,7 +91,7 @@ Press the enter key or spacebar to expand or collapse the accordion
 Titus PACE Report
 Chapter 381
 Purchasing
-TITUS COUNTY WEATHER
+[live weather removed for determinism]
 Titus County Courthouse | 100 W 1st St | Mt Pleasant, TX 75455 | Phone: (903) 577-6736
 Web Accessibility
 Copyright ©

@@ -119,7 +119,7 @@ public.records@co.karnes.tx.us
 .
 If you are requesting an accident report, please click on the link below regarding your request.
 TxDOT Crash Reports & Records
-Karnes City, Texas WEATHER
+[live weather removed for determinism]
 CONSULTING SERVICES AGREEMENT:
 ▲
 FY2021 Consulting Services Agreement

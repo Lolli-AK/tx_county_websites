@@ -339,7 +339,7 @@ Rodney Garland 01-12-2026
 Rodney Garland 02-02-2026
 Press the enter key or spacebar to expand or collapse the accordion
 Press the enter key or spacebar to expand or collapse the accordion
-YOAKUM COUNTY WEATHER
+[live weather removed for determinism]
 Yoakum County, Texas
 Contact
 Yoakum County Courthouse

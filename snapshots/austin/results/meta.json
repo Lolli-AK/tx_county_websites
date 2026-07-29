@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T17:50:06Z",
-  "html_sha256": "798249f45238f11245c5572c60663807c08cba5d367a3aa0a351b36e5753d2db",
+  "fetched_at": "2026-07-29T18:07:05Z",
+  "html_sha256": "f41dd65eb246a3b0777edecf06e09c4db9cfb7870adb5febdc03c0c804ba5bb2",
   "text_sha256": "a912397a0a0ce3b105161b775e661559df85b3324b9417540cfbc0252d0766e8",
-  "byte_size": 44954,
+  "byte_size": 44951,
   "title": "Austin County, Texas",
   "error": null
 }

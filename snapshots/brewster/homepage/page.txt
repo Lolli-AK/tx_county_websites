@@ -133,7 +133,7 @@ Fri, 10 Jul 2026
 Effective July 1, 2026, the Brewster County Treasurer's Office will no longer accept cash payments for Hotel Occupancy Taxes. Payments by check will continue to be accepted. Thank you for your coopera...
 Read more...
 Press ENTER key to focus on the active panel
-BREWSTER COUNTY WEATHER
+[live weather removed for determinism]
 Pay Traffic Citations Here!
 Fun and Important Events
 In our county, every opportunity to showcase our culture and venues present another chance to host residents and visitors in a way we only know how.

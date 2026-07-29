@@ -487,6 +487,41 @@ def _target_key(row: dict) -> str:
     return f"{row['county'].strip()}/{row['page_type'].strip()}"
 
 
+def prune_stale_artifacts() -> int:
+    """Delete artifact directories that the manifest no longer claims.
+
+    When a row becomes a gap (or a county/page type is removed), its old
+    page.html/page.txt/meta.json would otherwise linger and be mistaken for a
+    current capture. The invariant this maintains — a gap has no directory — is
+    what makes a county's tree readable at a glance, and it's asserted by
+    tests/test_manifest.py.
+    """
+    import shutil
+
+    if not SNAPSHOTS.exists() or not MANIFEST.exists():
+        return 0
+    wanted: set[tuple[str, str]] = set()
+    with MANIFEST.open(newline="", encoding="utf-8") as fh:
+        for row in csv.DictReader(fh):
+            if row.get("url", "").strip():
+                slug = row["county"].strip().lower().replace(" ", "_")
+                wanted.add((slug, row["page_type"].strip()))
+
+    removed = 0
+    for page_dir in sorted(SNAPSHOTS.glob("*/*")):
+        if not page_dir.is_dir():
+            continue
+        if (page_dir.parent.name, page_dir.name) not in wanted:
+            shutil.rmtree(page_dir)
+            log.info("pruned stale artifacts: %s", page_dir.relative_to(ROOT))
+            removed += 1
+    # Drop county directories left empty by the above.
+    for county_dir in sorted(SNAPSHOTS.glob("*")):
+        if county_dir.is_dir() and not any(county_dir.iterdir()):
+            county_dir.rmdir()
+    return removed
+
+
 def load_checkpoint(path: Path) -> set[str]:
     """Target keys already completed by an interrupted run of this manifest."""
     if not path.exists():
@@ -528,6 +563,12 @@ def main() -> None:
     )
 
     counties = [c.lower() for c in args.county] if args.county else None
+    # Only prune on a full run: a filtered run legitimately leaves other counties'
+    # artifacts in place.
+    if not (counties or args.page_type or args.batch):
+        n = prune_stale_artifacts()
+        if n:
+            log.info("pruned %d artifact dirs no longer in the manifest", n)
     targets = load_targets(counties, args.page_type, args.batch)
 
     done: set[str] = load_checkpoint(CHECKPOINT) if args.resume else set()

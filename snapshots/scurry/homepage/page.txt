@@ -134,7 +134,7 @@ Scurry County Game Room Ordinance
 Request for Proposal (RFP):
 Scurry County seeks qualified contractors to provide repair services for the roof coping and associated masonry at the Scurry County Armory. The building exhibits cracking, joint separation, and weathering along the concrete coping and adjacent brickwork, as shown in the attached image.
 Armory RFP
-SCURRY COUNTY WEATHER
+[live weather removed for determinism]
 Scurry County Courthouse   |   1806 25th St   |   Snyder, TX 79549
 Web Accessibility
 Staff Login

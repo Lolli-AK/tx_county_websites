@@ -85,7 +85,7 @@ Public Notices & News
 Elections Administration
 Notice of Foreclosure Sale
 Birth/Death Record
-ALICE WEATHER
+[live weather removed for determinism]
 Our New Mass Notification System
 Jim Wells County, the City of Alice, and the City of Orange Grove have partnered to launch Be Alert, a new and improved mass notification system powered by Everbridge.
 Be Alert allows you to receive important updates about:

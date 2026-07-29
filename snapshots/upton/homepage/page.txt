@@ -163,7 +163,7 @@ Sat
 30
 31
 1
-RANKIN WEATHER
+[live weather removed for determinism]
 How to find us.
 Upton County Courthouse
 205 E 10th St

@@ -103,7 +103,7 @@ Lavaca County Sheriff's Office
 Lavaca County EMS
 Lavaca County Office of Emergency Management and Homeland Security
 County Google Map
-LAVACA COUNTY WEATHER
+[live weather removed for determinism]
 Lavaca County Courthouse  |  109 North LaGrange  |  Hallettsville, Texas 77964
 Lavaca County Courthouse Annex  |  412 N. Texana  |  Hallettsville, TX 77964
 Staff Login

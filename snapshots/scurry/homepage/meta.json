@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T17:50:06Z",
-  "html_sha256": "db86f066108866a8688129e6abf0c12ae85bf931f059335b8fda6ae0c88b8267",
-  "text_sha256": "6f2cd736f72f872760d6064bbfbbb480453a7944a1e7f3872d463288362f36ab",
-  "byte_size": 44646,
+  "fetched_at": "2026-07-29T18:07:05Z",
+  "html_sha256": "0a0aa7f9a70dd3dd79129116c5529be190f805ae8b102981751b04ee333781b9",
+  "text_sha256": "1fc9243e2e1bfa939008ede47fa8d31d33523439fbef2f1158b32ced8e8c6410",
+  "byte_size": 44473,
   "title": "Home Page | Scurry County, Texas",
   "error": null
 }

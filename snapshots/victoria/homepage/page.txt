@@ -196,7 +196,7 @@ See all News & Announcements
 Victoria County, TX
 Upcoming Events
 See all Upcoming Events
-Victoria County, Texas WEATHER
+[live weather removed for determinism]
 VICTORIA COUNTY
 115 N. Bridge St.
 Victoria TX. 77901
@@ -216,7 +216,7 @@ Web Site Disclaimer
 Employee Portal
 Benefits Portal
 Our Partners
-ALICE WEATHER
+[live weather removed for determinism]
 Copyright ©
 {{YEAR}}
 Victoria County, Texas. All rights reserved.

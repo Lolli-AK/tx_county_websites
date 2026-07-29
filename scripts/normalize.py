@@ -160,6 +160,12 @@ _US_DATETIME_RE = re.compile(
 # the same widget renders `wide` on one capture and `narrow` on the next.
 _WIDGET_SIZE_CLASSES = {"wide", "narrow"}
 
+# Play/pause state that a slideshow toggles on its OWN container (not on
+# <html>/<body>), so it must be stripped element-wide: Orange County's EventON
+# slider carries evo_slideshow_pause only while paused.
+_PLAYBACK_STATE_CLASSES = {"evo_slideshow_pause", "paused", "is-paused",
+                           "playing", "is-playing", "evo_slideshow_play"}
+
 # Accessibility-overlay vendors that inject a whole toolbar into the DOM
 # asynchronously, so it is present or absent depending on when capture happened.
 # Their content is vendor chrome, never county information.
@@ -379,6 +385,12 @@ def _strip_tree(soup: BeautifulSoup) -> None:
         classes = tag.get("class")
         if classes and any("widget" in c.lower() for c in classes):
             kept = [c for c in classes if c.lower() not in _WIDGET_SIZE_CLASSES]
+            if kept != classes:
+                tag["class"] = kept
+        # Slideshow playback state, on any element.
+        classes = tag.get("class")
+        if classes:
+            kept = [c for c in classes if c.lower() not in _PLAYBACK_STATE_CLASSES]
             if kept != classes:
                 tag["class"] = kept
 

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T17:50:06Z",
-  "html_sha256": "622f2f873a3e974b7979b6e7c7317e1077abb5985603c5febda8ee11451d49f4",
+  "fetched_at": "2026-07-29T18:07:05Z",
+  "html_sha256": "adb44dacf2230282abb04826d0bb9bc91b3ec8d89c331acca8f0225eb64541de",
   "text_sha256": "688ff5edd64d3f3dfc1147269a13155e15c202ba9847279582440093de1a9880",
-  "byte_size": 457262,
+  "byte_size": 457119,
   "title": "Houston County, Texas",
   "error": null
 }

@@ -573,7 +573,7 @@ Troy ISD
 Order of Election for Troy ISD
 Press the enter key or spacebar to expand or collapse the accordion
 Press the enter key or spacebar to expand or collapse the accordion
-FALLS COUNTY WEATHER
+[live weather removed for determinism]
 Address
 Falls County Courthouse
 125 Bridge Street

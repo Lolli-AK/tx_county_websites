@@ -112,7 +112,7 @@ Rochelle (WSC) Grant
 Subdivision Regulations
 Tax Abatements
 Transmission Line
-BRADY WEATHER
+[live weather removed for determinism]
 Useful Links
 ▲
 Agrilife Extension Office

@@ -74,7 +74,7 @@ The Garza County Calendar contains information for County, District, and Commiss
 Please confirm date and time of Commissioners' Court Meetings.
 H
 oliday & Calendar Schedule
-POST, Texas Garza County Weather
+[live weather removed for determinism]
 CONNECT WITH US
 Garza County Courthouse
 300 West Main Street

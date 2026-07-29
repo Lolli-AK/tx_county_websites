@@ -178,7 +178,7 @@ NOTICE:
 The Texas Workforce Commission ("TWC") is the entity responsible for enforcing the Fair Housing Act in the State of Texas. You have one year after an alleged violation to file a complaint, but you should file it as soon as possible. Go to
 https://www.twc.texas.gov/programs/civil-rights
 to file a complaint.
-CALDWELL COUNTY WEATHER
+[live weather removed for determinism]
 Caldwell County Justice Center   |   1703 S. Colorado St   |   Lockhart, TX 78644
 Main Historic Courthouse   |   110 S Main   |   Lockhart, TX 78644
 Staff Login

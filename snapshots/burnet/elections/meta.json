@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-07-29T17:50:06Z",
-  "html_sha256": "25bb40a0dc6ae51fd77f692fed4dd8698ba0ab93ab92906451197dac5758a312",
+  "fetched_at": "2026-07-29T18:07:05Z",
+  "html_sha256": "7688cccba734b69c4fb2979709c9d0aa6e05a4eed96e5b523aeaca868f41e3dd",
   "text_sha256": "9a115b3a5ef9438988585ecb1a3d0e18c9619ef3e7fec7fb4ad508f800481586",
-  "byte_size": 23331,
+  "byte_size": 23325,
   "title": "Welcome! - Burnet County Elections",
   "error": null
 }

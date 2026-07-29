@@ -212,7 +212,7 @@ Texas Law Help
 Burleson County Historical Commission
 Press the enter key or spacebar to expand or collapse the accordion
 Burleson County has membership in these state and national organizations.  Our membership helps Burleson County officials focus our lobbying efforts in Austin and Washington D.C. as well as keep us informed on state and federal policies.
-BURLESON COUNTY WEATHER
+[live weather removed for determinism]
 CONNECT WITH US
 Burleson County
 100 West Buck St.

@@ -90,7 +90,7 @@ Tax Rate Information
 Truth in Taxation - Governing Body Members
 Click here to view/pay Palo Pinto County Property Tax
 Press the enter key or spacebar to expand or collapse the accordion
-PALO PINTO COUNTY WEATHER
+[live weather removed for determinism]
 Palo Pinto County Courthouse   |   520 Oak Street   |   Palo Pinto, TX 76484
 Web Accessibility
 Staff Login

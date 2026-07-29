@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T17:50:06Z",
-  "html_sha256": "eedde10d379a7dd6e080b84360b003c512e94c80709b3f3f98dd059f43b267c9",
-  "text_sha256": "fd8788b9487a241205121fdd9356c81374b2f6108248562174cf85ced218f097",
-  "byte_size": 187102,
+  "fetched_at": "2026-07-29T18:07:05Z",
+  "html_sha256": "81937256dd8f7bc640bb7e468e6e2a4d81d7743ea2db5e7cd8d775e3d5c6fc23",
+  "text_sha256": "d7eb25ab2a940e82a93eee92aa9470f5988adc1db0b6b07482e5feb6b85e9f24",
+  "byte_size": 187120,
   "title": "Elections | Falls County, Texas",
   "error": null
 }

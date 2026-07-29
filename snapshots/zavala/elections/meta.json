@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T17:50:06Z",
-  "html_sha256": "b76bf00e073171f150b9d8050d96f05e1f8b5ebd53b5c2593b533f2ddb39e47a",
+  "fetched_at": "2026-07-29T18:07:05Z",
+  "html_sha256": "3d7c39fa237f6f95c4e7c4214ab2ebf8fe80931d83ff10ff2a5d92882e983fb5",
   "text_sha256": "376468f7d862ffa2622ff7d8376c652f6123ce0807edf7ee0dd5cce2f635cdd8",
-  "byte_size": 101658,
+  "byte_size": 101423,
   "title": "Zavala County",
   "error": null
 }

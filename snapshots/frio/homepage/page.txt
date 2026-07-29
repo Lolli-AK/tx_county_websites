@@ -109,7 +109,7 @@ Frio County Elections' News:
 The Frio County Elections Office attended training in Bexar County for Senate Bill 2753, which changes early voting schedules statewide.
 Press the enter key or spacebar to expand or collapse the accordion
 Frio County
-FRIO COUNTY WEATHER
+[live weather removed for determinism]
 Frio County Courthouse | 500 East San Antonio Street | Pearsall, Texas 78061 | Phone: (830) 505-2988 | Fax: (830) 334-0010
 Web Accessibility
 Copyright © Frio County, Texas
