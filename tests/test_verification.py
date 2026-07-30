@@ -163,7 +163,8 @@ def test_parked_domain_is_rejected():
 def _externally_confirmed() -> set[str]:
     """Counties whose homepage was confirmed out-of-band rather than by pattern.
 
-    Their `notes` record a targeted web search or an explicit correction. The
+    Marked in `notes` with "externally verified", "web-search verified" or
+    "corrected:". The
     identity verifier is intentionally strict for *discovery*, and a handful of
     genuine county sites don't satisfy it on the homepage alone — Henderson
     County's front page never says "Texas", "TX" or "Athens", so a page-content
@@ -180,7 +181,8 @@ def _externally_confirmed() -> set[str]:
             if r["page_type"].strip() != "homepage":
                 continue
             note = (r.get("notes") or "").lower()
-            if "web-search verified" in note or "corrected:" in note:
+            if any(m in note for m in ("externally verified",
+                                       "web-search verified", "corrected:")):
                 out.add(r["county"].strip())
     return out
 
