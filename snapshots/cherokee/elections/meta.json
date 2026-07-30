@@ -6,9 +6,9 @@
   "redirect_chain": [
     "http://www.co.cherokee.tx.us/ips/cms/othercountyoffices/elections.html"
   ],
-  "http_status": 200,
-  "content_type": "text/html",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
   "fetched_at": "2026-07-30T18:18:40Z",
   "html_sha256": "d769bb5bf426f6c0701c1a3dd6cfc254189a7ddf60ae2d261c697010bafe9a5e",

@@ -1,4 +1,5 @@
 Homepage | Delta County, TX
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to main content
 Image
 Image
@@ -198,22 +199,7 @@ Contact Your Commissioner
 Receive Alerts
 Agendas & Minutes
 Election Information
-Data Center Development FAQ
-Frequently Asked Questions (FAQ)
-Proposed Development Near the Antioch…
-Read More
-Veterans Service Office
-The Delta County Veterans Service Office is responsible for assisting veterans and/or their dependents and…
-Read More
-911 Address
-Need a 9-1-1 Address?
-ATCOG manages the addressing services for cities and counties in the…
-Read More
-2026 County Cleanup Week: April 25 - May 2, 2026
-Dumpster Sites
-Precinct 1 Road & Bridge Barn – 3930 FM 895, Cooper, Texas 75432
-…
-Read More
+[rotating image slideshow removed for determinism]
 Previous
 Next
 View All News
@@ -264,3 +250,4 @@ Public Information Act Requests
 Staff Directory
 Government Websites by CivicPlus®
 Staff Login
+Explore your accessibility options

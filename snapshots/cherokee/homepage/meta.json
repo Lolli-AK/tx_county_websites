@@ -6,9 +6,9 @@
   "redirect_chain": [
     "http://www.co.cherokee.tx.us/ips/cms/index.html"
   ],
-  "http_status": 200,
-  "content_type": "text/html",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
   "fetched_at": "2026-07-30T18:18:40Z",
   "html_sha256": "45fda6773eced6a2bfdab9195356c8b6f38f6f245a54ff619fb99ea03a288efd",

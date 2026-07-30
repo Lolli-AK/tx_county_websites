@@ -8,7 +8,7 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
   "fetched_at": "2026-07-30T18:18:40Z",
   "html_sha256": "0b5591850ebb2dcdf96d99d5acf040df71b3d5b77aa5301856ccbbc532e1ff09",

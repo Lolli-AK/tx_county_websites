@@ -7,8 +7,8 @@
     "https://www.aransascountytx.gov/electionadmin/"
   ],
   "http_status": 200,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": true,
   "fetched_at": "2026-07-30T18:18:40Z",
   "html_sha256": "2ee3620bca45570b4082d02e113fd7e6aa62b18b5e1e7712dce24a68f6f82b2b",

@@ -6,9 +6,9 @@
   "redirect_chain": [
     "https://www.jackcounty.texas.gov/elections-administrator"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
   "fetched_at": "2026-07-30T18:18:40Z",
   "html_sha256": "d6ee71cd965105d5735cd9905196a8393ce14e319be388a8af5b30cbcfd59083",

@@ -6,9 +6,9 @@
   "redirect_chain": [
     "https://www.deltacountytx.com/elections/page/election-results"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
   "fetched_at": "2026-07-30T18:18:40Z",
   "html_sha256": "d459a0f1d78a5f70842fb89f42d5a429ed7a6fe4d01b7db174726361f5dde481",
