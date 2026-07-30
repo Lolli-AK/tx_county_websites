@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T19:22:37Z",
-  "html_sha256": "d61935ae3168b0ca4eebf1a8c9969fcbaa461d0cc63070ca11a2c9abd4ba2fbf",
-  "text_sha256": "2ad605259a79e8b49f26554334b2fc271d809441c3ef5bc88382b85fdd6e5f91",
-  "byte_size": 274398,
+  "fetched_at": "2026-07-30T18:03:58Z",
+  "html_sha256": "b392470d936797d67dc4423d3bbbe9c76232543db5f3770cb7fd5b1169cadfae",
+  "text_sha256": "25b9ce1b3541e4b3394a843e0214e9af5c00b1c0ebaa685e9eda2a3059b28c12",
+  "byte_size": 268982,
   "title": "Elections - Fayette County",
   "error": null
 }

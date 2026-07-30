@@ -1,6 +1,6 @@
 # targets.csv audit report
 
-**254 counties | 1270 rows | 741 live | 15 broken | 514 gaps | 38 flagged**
+**254 counties | 1270 rows | 756 live | 0 broken | 514 gaps | 23 flagged**
 
 ## Coverage by page type
 
@@ -16,9 +16,9 @@
 
 | batch | counties | live | broken | gaps | flagged |
 |---|---|---|---|---|---|
-| 1 | 24 | 87 | 1 | 32 | 3 |
-| 2 | 100 | 291 | 2 | 207 | 10 |
-| 3 | 130 | 363 | 12 | 275 | 25 |
+| 1 | 24 | 88 | 0 | 32 | 2 |
+| 2 | 100 | 293 | 0 | 207 | 8 |
+| 3 | 130 | 375 | 0 | 275 | 13 |
 
 ## Why rows are gaps
 
@@ -34,26 +34,6 @@
 | vote centers cover EV; no distinct EV page | 1 |
 | same VoterLookup tool; EV per-election PDFs in Docum | 1 |
 | same kerr-county-elections page; EV as per-election  | 1 |
-
-## Broken (needs a new URL)
-
-| batch | county | page_type | status | reason | url |
-|---|---|---|---|---|---|
-| 1 | Galveston | homepage | 403 | [headless] HTTP 403 | https://www.galvestoncountytx.gov/ |
-| 2 | Brazoria | homepage | 403 | [headless] HTTP 403 | https://www.brazoriacountytx.gov/ |
-| 2 | Henderson | homepage | 403 | [headless] HTTP 403 | https://www.henderson-county.com/ |
-| 3 | Johnson | homepage | 403 | [headless] HTTP 403 | https://www.johnsoncountytx.org/ |
-| 3 | Johnson | elections | 403 | [headless] HTTP 403 | https://www.johnsoncountytx.org/departments/elections-office |
-| 3 | Johnson | polling | 403 | [headless] HTTP 403 | https://www.johnsoncountytx.org/departments/elections-office/early-voting-and-election-day-locations-651 |
-| 3 | Johnson | early_voting | 403 | [headless] HTTP 403 | https://www.johnsoncountytx.org/departments/elections-office/early-voting-and-election-day-locations-651 |
-| 3 | Johnson | results | 403 | [headless] HTTP 403 | https://www.johnsoncountytx.org/departments/elections-office/current-election-results |
-| 3 | Nueces | homepage | 403 | [headless] HTTP 403 | https://www.nuecesco.com/ |
-| 3 | Nueces | elections | 403 | [headless] HTTP 403 | https://www.nuecesco.com/county-services/county-clerk/elections-department |
-| 3 | Nueces | results | 403 | [headless] HTTP 403 | https://www.nuecesco.com/county-services/county-clerk/elections-department/election-history |
-| 3 | Reeves | homepage | 403 | [headless] HTTP 403 | https://www.reevescounty.org/ |
-| 3 | Reeves | elections | 403 | [headless] HTTP 403 | https://www.reevescounty.org/departments/elections |
-| 3 | Reeves | polling | 403 | [headless] HTTP 403 | https://www.reevescounty.org/departments/elections/polling-locations |
-| 3 | Reeves | results | 403 | [headless] HTTP 403 | https://www.reevescounty.org/departments/elections/election-results-archive |
 
 ## Flagged for review (23)
 

@@ -188,16 +188,22 @@ def is_generic_portal(url: str) -> bool:
 
 
 def _fetch_plain(url: str) -> dict:
-    try:
-        with httpx.Client(headers=HEADERS, follow_redirects=True,
-                          timeout=TIMEOUT) as c:
-            r = c.get(url)
-        return {"ok": True, "status": r.status_code, "html": r.text,
-                "final_url": str(r.url),
-                "ctype": r.headers.get("content-type", ""), "error": None}
-    except Exception as exc:  # noqa: BLE001
-        return {"ok": False, "status": None, "html": "", "final_url": url,
-                "ctype": "", "error": type(exc).__name__}
+    """Plain fetch, trying HTTP/2 then HTTP/1.1 (neither works everywhere)."""
+    last = None
+    for http2 in (True, False):
+        try:
+            with httpx.Client(headers=HEADERS, follow_redirects=True,
+                              timeout=TIMEOUT, http2=http2) as c:
+                r = c.get(url)
+            last = {"ok": True, "status": r.status_code, "html": r.text,
+                    "final_url": str(r.url),
+                    "ctype": r.headers.get("content-type", ""), "error": None}
+            if r.status_code < 400:
+                return last
+        except Exception as exc:  # noqa: BLE001
+            last = {"ok": False, "status": None, "html": "", "final_url": url,
+                    "ctype": "", "error": type(exc).__name__}
+    return last
 
 
 # Discovery has to clear the same two hurdles the snapshot pipeline does: some

@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.brazoriacountytx.gov/"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T19:22:37Z",
-  "html_sha256": "0efb980b9afd78a7d4be63c50918873bd0f3a82f9b268bb5bd301c9305a80981",
-  "text_sha256": "4e46ce1c19f9db6e9ad31f0fd27f96dd1e00d80876c974597cdb4493fe82ca58",
-  "byte_size": 316,
-  "title": "Access Denied",
+  "fetched_at": "2026-07-30T18:03:58Z",
+  "html_sha256": "4ec3a6bae23f704948a99f0cc0007b284479c6b69ba1472c8a2feb2ffc0e62a0",
+  "text_sha256": "8783adc1491662811761322b322dfa8c27ea5bc658073cee1c69d0b2fb3aa6ae",
+  "byte_size": 117614,
+  "title": "Brazoria County, TX | Home",
   "error": null
 }

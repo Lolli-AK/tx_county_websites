@@ -357,17 +357,28 @@ def verify(county: str, seat: str, url: str, text: str, title: str | None
 
 
 def probe(url: str) -> dict:
-    try:
-        with httpx.Client(headers=HEADERS, follow_redirects=True,
-                          timeout=TIMEOUT, verify=True) as c:
-            r = c.get(url)
-        text, title = visible_text(r.text)
-        return {"url": url, "ok": True, "status": r.status_code,
-                "final_url": str(r.url), "title": title, "text": text,
-                "error": None}
-    except Exception as exc:  # noqa: BLE001
-        return {"url": url, "ok": False, "status": None, "final_url": url,
-                "title": None, "text": "", "error": f"{type(exc).__name__}"}
+    """Fetch a candidate, trying HTTP/2 then HTTP/1.1.
+
+    Neither version works everywhere: Akamai-fronted county sites 403 on 1.1,
+    while Wichita County 403s on h2. Trying both is what makes discovery see the
+    same pages a browser would.
+    """
+    last = None
+    for http2 in (True, False):
+        try:
+            with httpx.Client(headers=HEADERS, follow_redirects=True,
+                              timeout=TIMEOUT, verify=True, http2=http2) as c:
+                r = c.get(url)
+            text, title = visible_text(r.text)
+            last = {"url": url, "ok": True, "status": r.status_code,
+                    "final_url": str(r.url), "title": title, "text": text,
+                    "error": None}
+            if r.status_code < 400:
+                return last
+        except Exception as exc:  # noqa: BLE001
+            last = {"url": url, "ok": False, "status": None, "final_url": url,
+                    "title": None, "text": "", "error": f"{type(exc).__name__}"}
+    return last
 
 
 def resolve_county(county: str, seat: str) -> dict:

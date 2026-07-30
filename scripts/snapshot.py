@@ -101,6 +101,11 @@ HEADERS = {
     "Connection": "keep-alive",
 }
 
+# HTTP/2 is enabled deliberately, not incidentally. Several county sites behind
+# Akamai/Granicus answer 403 to HTTP/1.1 and 200 to HTTP/2 — Galveston, Brazoria,
+# Henderson, Johnson, Nueces and Reeves were all recorded as "blocked" purely
+# because httpx defaults to 1.1. Every real browser negotiates h2, so this is
+# about being a standards-normal client, not about evading anything.
 PLAIN_TIMEOUT = float(CONFIG["plain_timeout_seconds"])
 HEADLESS_TIMEOUT_MS = int(CONFIG["headless_timeout_ms"])
 PLAIN_RETRIES = int(CONFIG["plain_retries"])  # total plain attempts on transient errors
@@ -206,40 +211,68 @@ def _wait_out_interstitial(page) -> None:
 # --------------------------------------------------------------------------- #
 # Fetching
 # --------------------------------------------------------------------------- #
+def _fetch_once(url: str, http2: bool) -> dict:
+    """One plain HTTP attempt over the given protocol version."""
+    _throttle()
+    with httpx.Client(headers=HEADERS, follow_redirects=True,
+                      timeout=PLAIN_TIMEOUT, verify=True, http2=http2) as client:
+        resp = client.get(url)
+    chain = [str(r.url) for r in resp.history] + [str(resp.url)]
+    return {
+        "ok": True,
+        "html": resp.text,
+        "final_url": str(resp.url),
+        "redirect_chain": chain,
+        "http_status": resp.status_code,
+        "content_type": resp.headers.get("content-type"),
+        "error": None,
+    }
+
+
 def fetch_plain(url: str) -> dict:
-    """Plain HTTP fetch. Returns a result dict (never raises for HTTP status)."""
+    """Plain HTTP fetch, trying BOTH protocol versions before giving up.
+
+    Neither version works everywhere, and the split is not predictable from the
+    URL:
+
+      * HTTP/2 only — Akamai/Granicus fronted sites answer 403 to HTTP/1.1.
+        Galveston, Brazoria, Henderson, Johnson, Nueces and Reeves were all
+        recorded as "blocked" purely because httpx defaults to 1.1.
+      * HTTP/1.1 only — Wichita County and Delta's results page do the opposite,
+        403-ing an h2 request and serving 200 over 1.1.
+
+    So we try h2 first (what a modern browser negotiates) and fall back to 1.1 on a
+    4xx. 5xx is retried on the same protocol, since that is a transient server
+    fault rather than a protocol mismatch. Returns a result dict; never raises for
+    HTTP status.
+    """
     last_exc = None
-    for attempt in range(1, PLAIN_RETRIES + 1):
-        _throttle()
-        try:
-            with httpx.Client(
-                headers=HEADERS,
-                follow_redirects=True,
-                timeout=PLAIN_TIMEOUT,
-                verify=True,
-            ) as client:
-                resp = client.get(url)
-            # 5xx is transient by definition — retry rather than recording a
-            # server hiccup as the page's content. Some county sites (Childress)
-            # return 500 intermittently, which would otherwise churn the diff.
-            if resp.status_code >= 500 and attempt < PLAIN_RETRIES:
-                log.warning("plain fetch got HTTP %d for %s (attempt %d/%d), retrying",
-                            resp.status_code, url, attempt, PLAIN_RETRIES)
+    last_result = None
+    for http2 in (True, False):
+        for attempt in range(1, PLAIN_RETRIES + 1):
+            try:
+                result = _fetch_once(url, http2=http2)
+            except Exception as exc:  # noqa: BLE001 - record & maybe retry
+                last_exc = exc
+                log.warning("plain fetch attempt %d/%d (h2=%s) failed for %s: %s",
+                            attempt, PLAIN_RETRIES, http2, url, exc)
                 continue
-            chain = [str(r.url) for r in resp.history] + [str(resp.url)]
-            return {
-                "ok": True,
-                "html": resp.text,
-                "final_url": str(resp.url),
-                "redirect_chain": chain,
-                "http_status": resp.status_code,
-                "content_type": resp.headers.get("content-type"),
-                "error": None,
-            }
-        except Exception as exc:  # noqa: BLE001 - record & maybe retry
-            last_exc = exc
-            log.warning("plain fetch attempt %d/%d failed for %s: %s",
-                        attempt, PLAIN_RETRIES, url, exc)
+            status = result["http_status"]
+            # 5xx is transient by definition — retry the same protocol rather than
+            # recording a server hiccup as the page's content (Childress returns
+            # intermittent 500s).
+            if status >= 500 and attempt < PLAIN_RETRIES:
+                log.warning("plain fetch got HTTP %d for %s (attempt %d/%d), retrying",
+                            status, url, attempt, PLAIN_RETRIES)
+                continue
+            last_result = result
+            if status < 400:
+                return result
+            break  # 4xx on this protocol — fall through and try the other one
+        if last_result is not None and (last_result["http_status"] or 0) < 400:
+            return last_result
+    if last_result is not None:
+        return last_result  # best 4xx/5xx we saw, recorded honestly
     return {
         "ok": False,
         "html": "",

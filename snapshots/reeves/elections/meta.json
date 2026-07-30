@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.reevescounty.org/departments/elections"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T19:22:37Z",
-  "html_sha256": "80396d845f0c9070946be40d88908bc2913bacf75466cc53a99e0219ed0ce967",
-  "text_sha256": "34023b09afb5fe347e84dd10e4bc9fd1063292e2c0b2b45fca2b67dfa7c2b3fc",
-  "byte_size": 333,
-  "title": "Access Denied",
+  "fetched_at": "2026-07-30T18:03:58Z",
+  "html_sha256": "ff56f6b681245bfd20eb2a567fc4dd3a906969a0ca0650fd8b101cddd00575e3",
+  "text_sha256": "de2c32e986879ad353b3284b4c89749cded4b635e3c88ad5d77b1d25f56756b3",
+  "byte_size": 78130,
+  "title": "ELECTIONS DEPARTMENT | Reeves County, TX",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T19:22:37Z",
-  "html_sha256": "d0d867e65b7b05f53ca11199d79d802d3986c96e37e6251931592df70fcd793a",
-  "text_sha256": "0026a65c17111597e831e4fd59b906152415ca4d3c6ecc68be776e5a7f892833",
-  "byte_size": 125386,
+  "fetched_at": "2026-07-30T18:03:58Z",
+  "html_sha256": "7c634ef8bf8cc0170449bdc0f283a952ebe35250d72156f6b813511c962cfaf4",
+  "text_sha256": "d6726acfdbca6643c91553efe0554c560df524ee498dd42ec6b1c00b98211c02",
+  "byte_size": 125267,
   "title": "Elections | Val Verde County, TX",
   "error": null
 }

@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.johnsoncountytx.org/departments/elections-office"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T19:22:37Z",
-  "html_sha256": "129565e9c41b30faa1c01ce80fd8307c0bed2a2661229529f46af3b0b23513b2",
-  "text_sha256": "3bdba1a367df4ba4de9015e7611b5603bd4b9a8ea2e9af2c8980e59aa8e145c4",
-  "byte_size": 343,
-  "title": "Access Denied",
+  "fetched_at": "2026-07-30T18:03:58Z",
+  "html_sha256": "7f7993b75ef2a437576112a4407f423e83c942a7cd69d48f11467e36330bcf89",
+  "text_sha256": "cb9bb998b01522ff530d5d453f8bfff129e5cadac2b51666291201a99104733b",
+  "byte_size": 109819,
+  "title": "Elections Office | Johnson County, TX",
   "error": null
 }

@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.reevescounty.org/departments/elections/election-results-archive"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T19:22:37Z",
-  "html_sha256": "3bf1bf025b30432824565d6303124170520535ee4358aa18a32f27a49eeffc63",
-  "text_sha256": "a3f0272da0f24ff4b24d277191a211c6aba8f092aa38d996c63f566a1024cfa2",
-  "byte_size": 358,
-  "title": "Access Denied",
+  "fetched_at": "2026-07-30T18:03:58Z",
+  "html_sha256": "e7d7f471216056583c6326c83c8c0e665ddc67ed77921bd7fea93361b949ba17",
+  "text_sha256": "7ee24d7ab93992090122ab3e550e9e7fa962bf3a3766f2b958e7922d1b83fb1d",
+  "byte_size": 70357,
+  "title": "Election Results Archive | Reeves County, TX",
   "error": null
 }

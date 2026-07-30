@@ -61,7 +61,7 @@ How many counties have each page type:
 | page type | captured | b1 (24) | b2 (100) | b3 (130) | `external` | why the rest are gaps |
 |---|---|---|---|---|---|---|
 | `homepage` | **254 / 254** | 24 | 100 | 130 | 0 | — every county has one |
-| `elections` | **250 / 254** | 23 | 98 | 129 | 22 | King publishes no HTML election pages at all; 3 others have none reachable |
+| `elections` | **250 / 254** | 23 | 98 | 129 | 22 | King publishes no HTML election pages at all; 3 others have no distinct page |
 | `polling` | **84 / 254** | 15 | 33 | 36 | 23 | usually folded into the elections page, or published only as a per-election PDF |
 | `early_voting` | **75 / 254** | 10 | 32 | 33 | 21 | same — vote-center counties often have no standalone EV page |
 | `results` | **93 / 254** | 16 | 30 | 47 | 32 | small counties post PDFs; metros use Clarity ENR portals (hence the high `external` count) |
@@ -82,8 +82,8 @@ going from 124 to 254 counties roughly doubled the counties but took captured pa
 from 381 to 756, because the added counties are overwhelmingly 2/5.
 
 The 514 gaps break down as: ~350 "no distinct page found" (folded into another
-page), ~95 "candidate is non-HTML" (PDF-only), ~20 uncrawlable because the homepage
-is bot-blocked, ~15 unreachable, and a tail of one-offs (an auth-walled SharePoint
+page), ~95 "candidate is non-HTML" (PDF-only), ~20 where the homepage couldn't be
+crawled at discovery time, ~15 unreachable, and a tail of one-offs (an auth-walled SharePoint
 library, a county linking a national site through Google Translate). **Every gap row carries its
 reason in `notes`** — a gap is recorded data, not a failure.
 
@@ -546,40 +546,57 @@ GitHub recommends staying under 1 GB, so a year of daily snapshots is comfortabl
 is precisely why the normalization work matters: volatile markup would mint a new
 blob for every page on every run.
 
-## Running on GitHub Actions vs. locally — a data-quality caveat
+## Bot protection, and what actually fixes it
 
-The pipeline is identical either way, but **where it runs changes what some sites
-return**, because Actions runners use datacenter IPs that bot protection treats
-more suspiciously than a residential connection. Measured by diffing a local run
-against the first Actions run:
+County sites sit behind Akamai, Cloudflare, Imperva and Granicus. Three client
+settings turned out to matter far more than any clever workaround, and each was
+found by measurement:
 
-| effect | pages | what it means |
+| setting | why | measured effect |
 |---|---|---|
-| `HTTP 202` on Clarity ENR results portals | 13 | **Benign.** Content is complete and byte-identical to the local run — Clarity just answers `202` instead of `200`. Don't read these as failures. |
-| `HTTP 403` then challenge **cleared** | 3 (Cherokee) | **Content is fine.** The initial navigation was refused, the security check then passed, and the real page was captured. `http_status` stays `403` because that was the genuine first response. |
-| `HTTP 403` and challenge **never cleared** | 4 (Delta) | **Real data loss.** Cloudflare blocks the runner IP outright; the captured body is the security-check page. |
+| **Try HTTP/2 *and* HTTP/1.1** | neither works everywhere, and you can't tell which from the URL | **took broken pages from 15 to 0.** Akamai-fronted sites (Galveston, Brazoria, Henderson, Johnson, Nueces, Reeves) 403 on 1.1 and 200 on h2; Wichita County and Delta's results page do the exact opposite. |
+| **A complete browser header set** | protection fingerprints the whole request, not the User-Agent alone | Aransas: 212-byte Imperva stub → 33 KB page. Delta: 403 → 104 KB. |
+| **`brotli` installed** | we advertise `br`, so we must be able to decode it | avoids undecodable bodies |
+
+`fetch_plain()` therefore tries h2 first (what a modern browser negotiates) and
+falls back to 1.1 on any 4xx; a 5xx is retried on the same protocol, since that's a
+transient server fault rather than a protocol mismatch.
+
+The lesson worth remembering: **a 403 usually meant our client was unusual, not
+that the county was blocking research.** Every page that once looked
+permanently blocked was reachable once the client behaved like a browser — check
+protocol and headers before recording a block.
+
+> **A note on how far to take this.** These are three ways of being a *normal,
+> standards-compliant* client, and they are where the effort belongs. Going
+> further — TLS/JA3 fingerprint impersonation (`curl-impersonate`, `curl_cffi`),
+> stealth browser patches, CAPTCHA solving — means actively defeating a site's
+> access controls, which this project does not do. If pages remain blocked, the
+> better routes are: run from a normal network (see below), ask the county's
+> elections office to allow a research crawler, or record the block honestly.
+
+### Where the pipeline runs still changes what some sites return
+
+Actions runners use datacenter IPs, which bot protection treats more suspiciously
+than a residential connection. Measured by diffing a local run against a CI run:
+
+| effect | what it means |
+|---|---|
+| `HTTP 202` on Clarity ENR results portals | **Benign.** Content is complete and byte-identical to the local run — Clarity just answers `202`. Don't read these as failures. |
+| `HTTP 403` then challenge **cleared** | **Content is fine.** The first navigation was refused, the security check then passed, and the real page was captured. `http_status` stays `403` because that was the genuine first response. |
+| `HTTP 403` and challenge **never cleared** | **Real data loss.** The captured body is the security-check page. |
 
 > **Filter on `error`, not on `http_status`.** Because a challenge can clear *after*
-> a 403, status alone can't tell good data from junk — Cherokee and Delta are both
-> `403`, but only Delta's body is worthless. The reliable test is:
+> a 403, status alone can't separate good data from junk. The reliable test is
 > `meta.json.error == "bot_challenge_not_cleared…"` → discard; `error == null` →
 > the body is real content whatever the status says.
 
-So a page appearing "broken" in the GitHub-run data may simply be blocked from that
-IP range. Two things make this unambiguous rather than silently wrong:
-
-- `meta.json.error` is set to **`bot_challenge_not_cleared`** whenever the captured
-  body is a security-check page, so those rows can be filtered out rather than
-  mistaken for "the county took the page down".
-- `interstitial_max_wait_ms` (default 45s) is the budget for waiting a challenge
-  out. It's deliberately much longer than the ~2s these take locally; raise it in
-  `config.json` if runs keep coming back blocked.
-
-If you need the handful of blocked counties, run `snapshot.py` locally for just
-those and push — the artifacts and commits are the same shape either way:
+`interstitial_max_wait_ms` (default 45s) is the budget for waiting a challenge out
+— deliberately much longer than the ~2s these take locally. If a county is blocked
+only on CI, run it locally and push; the artifacts are identical in shape:
 
 ```bash
-.venv/bin/python scripts/snapshot.py --county delta --county cherokee && git push
+.venv/bin/python scripts/snapshot.py --county delta && git push
 ```
 
 ## Phase 3: scheduling

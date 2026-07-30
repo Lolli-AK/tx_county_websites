@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.nuecesco.com/county-services/county-clerk/elections-department"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T19:22:37Z",
-  "html_sha256": "c186a367d890c672827b36f62698e8cb03e213a9124176b4cd975e98bb00a089",
-  "text_sha256": "36271e6e8fa0be733955fbe4506e74458dd833dcd2eeb1a0c7a82ed5853dbce8",
-  "byte_size": 371,
-  "title": "Access Denied",
+  "fetched_at": "2026-07-30T18:03:58Z",
+  "html_sha256": "d71b6125abf88eff98462c816bc4f46e9ad83167ad073376e0e81bfc3498070d",
+  "text_sha256": "9caebed4b08b98b592b494fcb5063c8637a81b2d1bb50f006c0e5aa10cad3f5e",
+  "byte_size": 155517,
+  "title": "Elections Department | Nueces County, TX",
   "error": null
 }
