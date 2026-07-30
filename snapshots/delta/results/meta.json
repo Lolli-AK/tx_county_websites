@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-07-29T19:38:46Z",
-  "html_sha256": "ab6d971d3480eab73ce1951fb7d89a0cb42323eb225e28883b8ae390c284aa6d",
-  "text_sha256": "8de69904564e48806172b922b06b9bee49ab45f4514462551ba617498c229a6d",
+  "fetched_at": "2026-07-30T10:09:03Z",
+  "html_sha256": "0a85fad4a71c765721c31dccbb9e86d7521b9e9ce854504ca259a1508608bdf7",
+  "text_sha256": "241a19b9884c4dfee3df8b6488dbd65233ceb1700029682ac1bfa36d6b2d9c19",
   "byte_size": 2753,
   "title": "Just a moment...",
   "error": "bot_challenge_not_cleared: captured security-check page, not content"

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-29T19:38:46Z",
-  "html_sha256": "46e58a8de93c3421746443f6b001f00354a97e3644b00e2517928d6e3715145e",
-  "text_sha256": "29cae6abc51c2e067b76f370d2b2b7efab35a2a01033e5baf08cdeee8990461b",
-  "byte_size": 16200,
-  "title": "Welcome to the Official Website of Orange County, Texas - Elections Administration",
+  "fetched_at": "2026-07-30T10:09:03Z",
+  "html_sha256": "fdef747c97ffcc627dc5225a518dd7f6bb3e5dc53cc9cf3e41f0eed36683b735",
+  "text_sha256": "6d4d71ef9ab741c7b3954e8cc394ce21bbc7cd4bcadd189f6da0a10580876c61",
+  "byte_size": 11059,
+  "title": null,
   "error": null
 }
