@@ -88,18 +88,17 @@ Home
 Sitemap
 Contact Us
 Translate
-Quicklinks
+Elections
 Toggle main menu visibility
 Menu
-Candidate Filings
+Elections Administrator
 Elections Information
-Employment
-Office of Emergency Management
-Online Events Calendar
-Pay Taxes
-Public Notices
-Useful Links
-Watch the Latest Commissioners Court Meeting
+Upcoming Election & Updates
+Notices
+Candidate Filings
+Polling Locations
+Results
+Voter Registration and Information
 Elections Information
 Application For a Ballot by Mail
 Texas Voter Registration Application
@@ -108,6 +107,8 @@ Election Information Primary Runoff 2026
 Download file
 2026
 2025
+Notice of General Election Nov 2026
+Order of Election Nov Gen 2026
 SUL ROSS STATE UNIVERSITY Statistical Data Verification
 Summary and Certification of Post-Election Hand Count Audit Results
 Unofficial Results 52626

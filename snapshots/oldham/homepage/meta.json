@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-30T18:18:40Z",
-  "html_sha256": "d3ef639c1a88623564cd8f0c8e58a11764b28211fb3f3ad061e920bd62113f5c",
-  "text_sha256": "4fd2ba2fa7e5e7aeefcbd73578cf363f28b120416a2079902a2bf3a0cab7b3ef",
-  "byte_size": 42784,
+  "fetched_at": "2026-07-31T10:26:08Z",
+  "html_sha256": "649618fd234cc4dc07869e1eed6cb0cc35700bc98c5986a0dd017aae04c174be",
+  "text_sha256": "9d4917aa6f8a1979e4fd88260493bb73040e692668016f278d23ebdce70fc5b0",
+  "byte_size": 42798,
   "title": "Homepage | Oldham County, Texas",
   "error": null
 }

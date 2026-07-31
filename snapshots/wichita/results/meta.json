@@ -2,18 +2,19 @@
   "county": "Wichita",
   "page_type": "results",
   "requested_url": "https://wichitacountytx.com/election_info/election-results/",
-  "final_url": "https://wichitacountytx.com/election_info/election-results/",
+  "final_url": "https://wichitacountytx.com/.well-known/sgcaptcha/?r=%2Felection_info%2Felection-results%2F&y=ipc:4.246.135.74:1785494124.206",
   "redirect_chain": [
-    "https://wichitacountytx.com/election_info/election-results/"
+    "https://wichitacountytx.com/election_info/election-results/",
+    "https://wichitacountytx.com/.well-known/sgcaptcha/?r=%2Felection_info%2Felection-results%2F&y=ipc:4.246.135.74:1785494124.206"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 202,
+  "content_type": "text/html",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-07-30T18:18:40Z",
-  "html_sha256": "078e2e8166436c6894d650a8233d435ede8a9fb70f1b3ba15b61b08cbb1d634d",
-  "text_sha256": "1490c370f278c5f6f0f574f1dba828227f5e34363c2b680b894794c5c0e74da6",
-  "byte_size": 29816,
-  "title": "Election Results | Wichita County",
+  "fetched_at": "2026-07-31T10:26:08Z",
+  "html_sha256": "cf384ca8f4bb9fdb8f5b63e868397175c6a17d3c23571204af3d974f3364e71e",
+  "text_sha256": "c44599aa9f5ccab668954a743bdd2d02e1860f8e998d2a44f9feac7163f74200",
+  "byte_size": 917,
+  "title": "Robot Challenge Screen",
   "error": null
 }

@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.deltacountytx.com/elections/page/election-results"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-07-30T18:18:40Z",
-  "html_sha256": "d459a0f1d78a5f70842fb89f42d5a429ed7a6fe4d01b7db174726361f5dde481",
-  "text_sha256": "04f4cfdb1820b7ba72f5390f1385c603dc61fa6bebdbb5ca82ff935f8a168d59",
-  "byte_size": 122232,
+  "fetched_at": "2026-07-31T10:26:08Z",
+  "html_sha256": "6a1bfebfbfde3d0b41689be50823e1bae51b27201b9e3e37b728935c02cb7302",
+  "text_sha256": "82f53a609b7bdacd0e077371c1f0b022041d07c846607f68c11f4e55c0c167bb",
+  "byte_size": 130937,
   "title": "Election Results | Delta County, TX",
   "error": null
 }

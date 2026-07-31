@@ -23,8 +23,8 @@ District Clerk
 Departments
 Elections
 Elections Home
-Elections 2026
-Past Elections
+Current Elections
+Election Results/Roster
 Emergency Management
 Financial Transparency
 Audit

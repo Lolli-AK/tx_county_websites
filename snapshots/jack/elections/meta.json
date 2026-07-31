@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-07-30T18:18:40Z",
-  "html_sha256": "d6ee71cd965105d5735cd9905196a8393ce14e319be388a8af5b30cbcfd59083",
-  "text_sha256": "bb8f519cf89285e61ea47b3621be022a727b9d5f4d99328312aad12f2c117dc7",
-  "byte_size": 43523,
-  "title": "Elections Administrator | Jack County TX",
-  "error": null
+  "fetched_at": "2026-07-31T10:26:08Z",
+  "html_sha256": "dd89ace113d570a035d83cbcb5de6217fb50cf0004f4347ebba81d4d17394597",
+  "text_sha256": "a0a1c98815c1160538d49f86999d9544845295dd9c1d1324bb95fce100f78456",
+  "byte_size": 2846,
+  "title": "Just a moment...",
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

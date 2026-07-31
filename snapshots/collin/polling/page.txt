@@ -43,9 +43,12 @@ Page Navigation
 Menu
 Elections
 Absentee and By-Mail Voting
+CAD Board Election
 Election Information
 Election Notices
 Election Results
+Election Results Archive
+Election Rosters
 Election Statistics
 Election Store
 Election Worker Recruitment
