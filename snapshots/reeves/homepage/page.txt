@@ -155,24 +155,12 @@ RC Senior Center Movie Matinee
 02:00 PM - Dec, 21 03:00 PM
 Jun
 01
-RC Rec Center: Jr. & High School Summer Basketball League
-09:00 AM - Aug, 01 04:00 PM
-Jun
-01
 RC Rec Center: Golf League
 09:00 AM - Aug, 01 05:00 PM
 Jun
-02
-RC Rec Center: Power Up! Summer Camp
-03:00 PM - Jul, 31 12:15 PM
-Jul
-31
-RC Rec Center: Aloha to Summer!
-03:30 PM - 06:30 PM
-Jul
-31
-RC Rec Center: 2026 Baby Race
-03:30 PM - 06:30 PM
+01
+RC Rec Center: Jr. & High School Summer Basketball League
+09:00 AM - Aug, 01 04:00 PM
 Aug
 05
 RC Rec Center: Adult Soccer League
@@ -189,6 +177,14 @@ Nov
 26
 Thanksgiving Break
 12:00 AM - Nov, 27
+Dec
+24
+Christmas Break
+12:00 AM - Dec, 25
+Jun
+23
+West of the Pecos Rodeo
+07:00 PM - Jun, 26 07:00 PM
 More Events
 Reeves County Texas News
 Weather Update: NWS-Midland

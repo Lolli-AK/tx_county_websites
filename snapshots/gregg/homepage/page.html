@@ -129,7 +129,7 @@
             </a>
            </li>
            <li class="menu-item">
-            <a href="/departments/elections">
+            <a href="https://www.greggcountyvotes.com/">
              Elections
             </a>
            </li>
@@ -144,7 +144,7 @@
             </a>
            </li>
            <li class="menu-item menu-item--RANDOM">
-            <a href="/departments/historical-commission">
+            <a href="javascript:;">
              Historical Commission
             </a>
             <button aria-controls="submenu-GUID" aria-expanded="false" aria-label="Toggle Historical Commission submenu">
@@ -213,7 +213,7 @@
             </a>
            </li>
            <li class="menu-item menu-item--RANDOM">
-            <a href="/departments/purchasing">
+            <a href="javascript:;">
              Purchasing
             </a>
             <button aria-controls="submenu-GUID" aria-expanded="false" aria-label="Toggle Purchasing submenu">
@@ -240,7 +240,7 @@
               </a>
              </li>
              <li class="menu-item">
-              <a href="/departments/purchasing/auctions">
+              <a href="https://www.auctioneerexpress.com/">
                Auctions
               </a>
              </li>
@@ -296,7 +296,7 @@
             </a>
            </li>
            <li class="menu-item menu-item--RANDOM">
-            <a href="/government/commissioners-court">
+            <a href="javascript:;">
              Commissioners Court
             </a>
             <button aria-controls="submenu-GUID" aria-expanded="false" aria-label="Toggle Commissioners Court submenu">
@@ -330,7 +330,7 @@
             </ul>
            </li>
            <li class="menu-item menu-item--RANDOM">
-            <a href="/government/county-courts">
+            <a href="javascript:;">
              County Courts
             </a>
             <button aria-controls="submenu-GUID" aria-expanded="false" aria-label="Toggle County Courts submenu">
@@ -349,7 +349,7 @@
             </ul>
            </li>
            <li class="menu-item menu-item--RANDOM">
-            <a href="/government/district-courts">
+            <a href="javascript:;">
              District Courts
             </a>
             <button aria-controls="submenu-GUID" aria-expanded="false" aria-label="Toggle District Courts submenu">
@@ -373,7 +373,7 @@
             </ul>
            </li>
            <li class="menu-item menu-item--RANDOM">
-            <a href="/government/precinct-1">
+            <a href="javascript:;">
              Precinct 1
             </a>
             <button aria-controls="submenu-GUID" aria-expanded="false" aria-label="Toggle Precinct 1 submenu">
@@ -397,7 +397,7 @@
             </ul>
            </li>
            <li class="menu-item menu-item--RANDOM">
-            <a href="/government/precinct-2">
+            <a href="javascript:;">
              Precinct 2
             </a>
             <button aria-controls="submenu-GUID" aria-expanded="false" aria-label="Toggle Precinct 2 submenu">
@@ -421,7 +421,7 @@
             </ul>
            </li>
            <li class="menu-item menu-item--RANDOM">
-            <a href="/government/precinct-3">
+            <a href="javascript:;">
              Precinct 3
             </a>
             <button aria-controls="submenu-GUID" aria-expanded="false" aria-label="Toggle Precinct 3 submenu">
@@ -445,7 +445,7 @@
             </ul>
            </li>
            <li class="menu-item menu-item--RANDOM">
-            <a href="/government/precinct-4">
+            <a href="javascript:;">
              Precinct 4
             </a>
             <button aria-controls="submenu-GUID" aria-expanded="false" aria-label="Toggle Precinct 4 submenu">
@@ -469,7 +469,7 @@
             </ul>
            </li>
            <li class="menu-item menu-item--RANDOM">
-            <a href="/government/public-safety">
+            <a href="javascript:;">
              Public Safety
             </a>
             <button aria-controls="submenu-GUID" aria-expanded="false" aria-label="Toggle Public Safety submenu">
@@ -532,7 +532,7 @@
             </a>
            </li>
            <li class="menu-item">
-            <a href="/services/auto-registration">
+            <a href="/departments/tax-assessor-collector">
              Auto Registration
             </a>
            </li>
@@ -567,7 +567,7 @@
             </a>
            </li>
            <li class="menu-item menu-item--RANDOM">
-            <a href="/services/local-emergency-planning-committee">
+            <a href="javascript:;">
              Local Emergency Planning Committee
             </a>
             <button aria-controls="submenu-GUID" aria-expanded="false" aria-label="Toggle Local Emergency Planning Committee submenu">
@@ -591,7 +591,7 @@
             </a>
            </li>
            <li class="menu-item menu-item--RANDOM">
-            <a href="/services/north-east-texas-regional-mobility-authority">
+            <a href="javascript:;">
              North East Texas Regional Mobility Authority
             </a>
             <button aria-controls="submenu-GUID" aria-expanded="false" aria-label="Toggle North East Texas Regional Mobility Authority submenu">
@@ -1087,9 +1087,9 @@
     </footer>
    </div>
   </div>
-  <div>
+  <div wire:name="modal">
   </div>
-  <div :aria-labelledby="$id('modal-title')" @keydown.escape.prevent.stop="open = false" @keydown.window.slash="open = true" aria-modal="true" class="fixed inset-0 overflow-y-auto z-[9999]" role="dialog" x-cloak="" x-data="{ open: $wire.entangle('show', true) }" x-id="['modal-title']" x-on:site-search-open="$refs.search.focus()" x-show="open">
+  <div :aria-labelledby="$id('modal-title')" @keydown.escape.prevent.stop="open = false" @keydown.window.slash="open = true" aria-modal="true" class="fixed inset-0 overflow-y-auto z-[9999]" role="dialog" wire:name="modal-site-search" x-cloak="" x-data="{ open: $wire.entangle('show', true) }" x-id="['modal-title']" x-on:site-search-open="$refs.search.focus()" x-show="open">
    <div class="fixed inset-0 bg-[#000]/30 backdrop-blur-sm" x-show="open" x-transition.opacity="">
    </div>
    <div @click="open = false" class="relative min-h-screen flex items-center justify-center p-4" x-show="open" x-transition="">

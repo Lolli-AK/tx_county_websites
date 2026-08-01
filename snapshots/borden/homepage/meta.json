@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-31T10:26:08Z",
-  "html_sha256": "842742d88627e03c728f7ab7760af670e1f9c1cec951e30c3b5efbc5508d2704",
-  "text_sha256": "d749a70d1abed685c672a522c936ffa3e4b4d7c87aad143b26d4229ffacd1dd0",
-  "byte_size": 38977,
+  "fetched_at": "2026-08-01T09:47:41Z",
+  "html_sha256": "0a56f75754a2652bed71ee0c7b5a73a1630036c3b19539c89bdb64014d9496fc",
+  "text_sha256": "c703280e9e7879a588fcaa927ebbf715a9aa1218d8bec3126d1810cb29fdd520",
+  "byte_size": 39603,
   "title": "Borden County, Texas",
   "error": null
 }

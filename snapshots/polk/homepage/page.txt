@@ -20,7 +20,7 @@ Stay in touch with us by following us on Facebook
 Read on...
 View All News
 /CivicAlerts.aspx
-July 2026
+August 2026
 S
 M
 T
@@ -28,9 +28,12 @@ W
 T
 F
 S
+26
+27
 28
 29
 30
+31
 1
 2
 3
@@ -63,7 +66,16 @@ S
 30
 31
 1
-There are no published events in current month.
+2
+3
+4
+5
+Tue, Aug. 4
+One Time Event
+Tue, Aug. 11
+Commissioner's Court Meeting
+Tue, Aug. 25
+Commissioner's Court Meeting
 View Full Calendar
 /Calendar.aspx
 The

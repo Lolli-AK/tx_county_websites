@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-31T10:26:08Z",
-  "html_sha256": "35b751b8347c1992486cbe53873f4bbed9291a014c1e1e2c38e0637ed4f0de1a",
-  "text_sha256": "b609dbf6d59e1c28621b85ceffd01ca71d4755940b7f8591b839aa698e8d2cc8",
-  "byte_size": 296374,
+  "fetched_at": "2026-08-01T09:47:41Z",
+  "html_sha256": "baf7c128506f4e4f3dbadaac0df63d0f79bdad75230a299e7ef41e6ba4a565fd",
+  "text_sha256": "50d1de91cd4938a72dc1613975a5678dc321572227c7ec912346b41a9f999612",
+  "byte_size": 297875,
   "title": "Lavaca County Elections",
   "error": null
 }

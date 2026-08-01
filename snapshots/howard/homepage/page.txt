@@ -26,7 +26,7 @@ Read on...
 View All News
 /CivicAlerts.aspx
 Calendar
-July 2026
+August 2026
 S
 M
 T
@@ -34,9 +34,12 @@ W
 T
 F
 S
+26
+27
 28
 29
 30
+31
 1
 2
 3
@@ -69,7 +72,16 @@ S
 30
 31
 1
-There are no published events in current month.
+2
+3
+4
+5
+Mon, Aug. 10
+Commissioners' Court Workshop Meeting
+Mon, Aug. 10
+Commissioners' Court Budget Workshop Meeting
+Mon, Aug. 10
+Commissioners' Court BudgetWorkshop Meeting
 View All Events
 /Calendar.aspx
 Commissioner's Court

@@ -1,8 +1,5 @@
 Erath County, TX | Official Website
 Skip to Main Content
-Road Closure
-Eastbound I-20 Closure at Thurber in Erath County
-Read On...
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
 Website Sign In
@@ -28,7 +25,7 @@ Upcoming Events
 Mark your calendar
 Events
 Events
-July 2026
+August 2026
 Sun
 Mon
 Tue
@@ -36,9 +33,12 @@ Wed
 Thu
 Fri
 Sat
+26
+27
 28
 29
 30
+31
 1
 2
 3
@@ -71,6 +71,10 @@ Sat
 30
 31
 1
+2
+3
+4
+5
 There are no published events in current month.
 View All Events
 /Calendar.aspx

@@ -15,7 +15,7 @@ Online Bill Pay
 Online Records Search
 Report a County Road Issue
 Calendar
-July 2026
+August 2026
 S
 M
 T
@@ -23,9 +23,12 @@ W
 T
 F
 S
+26
+27
 28
 29
 30
+31
 1
 2
 3
@@ -58,7 +61,20 @@ S
 30
 31
 1
-There are no published events in current month.
+2
+3
+4
+5
+Wed, Aug. 5
+County Commissioners Court Special Meeting
+Fri, Aug. 7
+County Commissioners Court Special Meeting
+Mon, Aug. 10
+County Commissioners Court Special Meeting
+Tue, Aug. 11
+County Commissioners Court Regular Meeting
+Fri, Aug. 14
+County Commissioners Court Special Meeting
 View All Events
 /Calendar.aspx
 News Flash
@@ -68,14 +84,15 @@ Read on...
 Extension of July 16 2026 Flooding Local Declaration of Disaster until September 21, 2026
 The local state of disaster hereby declared for Gillespie County, Texas, pursuant to Section 418.108(a) of the Texas Government Code, is effective at 9:00 AM CST on July 16, 2026, and expires on September 21, 2026.
 Read on...
+County Surplus Property Available
+Current Items Available: 2002 International 4400 Water Truck and multiple Used Cattle Guards. Auction bidding accepted through August 14 at 12 PM CST.
+Read on...
 Gillespie County Airport readies for construction closures.
 Gillespie County Airport Construction Project Message Board can be found on the Government / Departments / Airport tab. Read on for more information.
 Read on...
 Stay connected!
 Subscribe to Notify Me to receive updates and information.
 Read on...
-Keep in Touch
-Stay in touch with us by becoming our friend on various Departments' Facebook pages, or subscribing to one of our RSS Feeds.
 View All News
 /CivicAlerts.aspx
 Gillespie County BESS Information

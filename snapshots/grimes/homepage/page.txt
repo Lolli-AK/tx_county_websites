@@ -294,7 +294,7 @@ Request for Bids/Qualifications
 Budget
 Records Request
 Community Calendar
-July
+August
 2026
 Sunday
 S
@@ -324,9 +324,12 @@ Saturday
 S
 at
 urday
+26
+27
 28
 29
 30
+31
 1
 2
 3
@@ -342,6 +345,10 @@ urday
 13
 14
 15
+True Blue Foundation Banquet
+Saturday, August 15, 2026 at 6:00 PM
+to
+Saturday, August 15, 2026 at 6:00 PM
 16
 17
 18
@@ -359,9 +366,13 @@ urday
 30
 31
 1
+2
+3
+4
+5
 <
-Jun
-Aug
+Jul
+Sep
 >
 More Events
 Aug

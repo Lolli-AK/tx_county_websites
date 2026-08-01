@@ -34,7 +34,7 @@ Employment
 Search our jobs
 Forms
 Apply for a permit
-July 2026
+August 2026
 Sun
 Mon
 Tue
@@ -42,9 +42,12 @@ Wed
 Thu
 Fri
 Sat
+26
+27
 28
 29
 30
+31
 1
 2
 3
@@ -77,6 +80,10 @@ Sat
 30
 31
 1
+2
+3
+4
+5
 There are no published events in current month.
 /Calendar.aspx
 Helpful Links

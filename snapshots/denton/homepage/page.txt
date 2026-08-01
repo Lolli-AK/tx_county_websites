@@ -127,8 +127,6 @@ Vote on Adopted Budget
 View the Document
 2025 Denton County Notice of Tax Rate
 Read The Notice
-Denton County 2024 Recovery Plan
-View the Recovery Plan
 View All News
 /CivicAlerts.aspx
 Calendar of Events
@@ -136,7 +134,7 @@ Keep up to date with the County
 County Events
 County Meetings
 County Events
-July 2026
+August 2026
 Sun
 Mon
 Tue
@@ -144,9 +142,12 @@ Wed
 Thu
 Fri
 Sat
+26
+27
 28
 29
 30
+31
 1
 2
 3
@@ -179,19 +180,23 @@ Sat
 30
 31
 1
-Fri, Jul. 31
-Basic County Corrections
-For more information, please contact:
-Lt. Alatzas – (940) 349-1705 or Ari.Alatzas@dentoncounty.gov
-...
-Fri, Jul. 31
-CPR Training (3 hours)
-Instructor: Adam Krech. For more information, please contact:
-Lt. Alatzas – (940) 349-1705 or Ari.A...
+2
+3
+4
+5
+Sat, Aug. 1
+DCPH @ Heart of the City
+DCPH staff will be available to answer questions about health services available to county residents...
+Sat, Aug. 1
+DCPH at Christian Community Action
+DCPH staff will be available to answer questions about health services available to county residents...
+Sun, Aug. 2
+DCPH @ Rodriguez Middle School
+DCPH staff will be available to answer questions about health services available to county residents...
 View All Events
 /Calendar.aspx
 County Meetings
-July 2026
+August 2026
 Sun
 Mon
 Tue
@@ -199,9 +204,12 @@ Wed
 Thu
 Fri
 Sat
+26
+27
 28
 29
 30
+31
 1
 2
 3
@@ -234,7 +242,19 @@ Sat
 30
 31
 1
-There are no published events in current month.
+2
+3
+4
+5
+Tue, Aug. 4
+Denton County Commissioners Court Meeting
+Commissioners Court meetings are open to the public.
+Tue, Aug. 11
+Denton County Commissioners Court Meeting
+Commissioners Court meetings are open to the public.
+Tue, Aug. 18
+Denton County Commissioners Court Meeting
+Commissioners Court meetings are open to the public.
 View All Events
 /Calendar.aspx
 County Historical Markers

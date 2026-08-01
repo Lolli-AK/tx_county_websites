@@ -85,7 +85,7 @@ Find Your Precinct
 The My Bexar Community Dashboard application helps you identify your local, County, State, and Federal representation as well as other useful information. Simply click on the map, then use your current location or enter an address including city or ZIP code. Scroll through the information at the bottom of the map to find your representatives and other resources.
 Check out the My Bexar Community Dashboard
 Upcoming Events
-July 2026
+August 2026
 S
 M
 T
@@ -93,9 +93,12 @@ W
 T
 F
 S
+26
+27
 28
 29
 30
+31
 1
 2
 3
@@ -128,7 +131,22 @@ S
 30
 31
 1
-There are no published events in current month.
+2
+3
+4
+5
+Tue, Aug 4
+Commissioners Court
+Tue, Aug 4
+Bexar County Clerk's Mobile Satellite Office will be at Bexar County Precinct 2 Constable's Office of Constable Leticia R. Vazquez
+Thu, Aug 6
+6th Annual Health & Wellness Expo
+Thu, Aug 6
+Bexar County Clerk's Mobile Satellite Office will be at Wonderland of the Americas for the Bexar County Military & Veterans Services 6th Annual Health and Wellness Expo
+Tue, Aug 11
+Bexar County Clerk's Mobile Satellite Office will be at Evolve Med Group
+Tue, Aug 11
+Veteran Benefits Workshop
 View All Events
 /Calendar.aspx
 County Resources

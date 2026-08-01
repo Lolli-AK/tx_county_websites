@@ -7,13 +7,13 @@
     "https://greggcounty.texas.gov/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-31T10:26:08Z",
-  "html_sha256": "6d1c4118bc05ffe4c993746a22b81c866058f2795d0dcf5a90048acae22fd463",
+  "fetched_at": "2026-08-01T09:47:41Z",
+  "html_sha256": "0ce96608fa069f08179206fc13cf363288a7d8a11e77ad725a937f3a3a4b0a40",
   "text_sha256": "056a166f158c08bc1976a656e3ac89519bccecef4a999b25dbd98fd9bd6ca001",
-  "byte_size": 120971,
+  "byte_size": 120833,
   "title": "Gregg County\n /\n Home",
   "error": null
 }

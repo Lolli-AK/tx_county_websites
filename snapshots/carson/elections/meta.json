@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-31T10:26:08Z",
-  "html_sha256": "299357dd715e99508e37bd6e585e16cb4ab73e04dffc94769d1139afb4b9535a",
-  "text_sha256": "f33f1d5cfb0ba8e29080ccb54de48f7c9acd59fc8972c6400d278e02a5b279b5",
-  "byte_size": 141805,
+  "fetched_at": "2026-08-01T09:47:41Z",
+  "html_sha256": "4b374e6d90c4f2c3363b9850be969dde72169fdb1ac998caf0a01154bb1e7678",
+  "text_sha256": "5b4589fae482423c2e8e5ef9d5eef27293aa9ed7b3199410d5a3ae25204a7cee",
+  "byte_size": 143218,
   "title": "Carson County, TX - Elections",
   "error": null
 }

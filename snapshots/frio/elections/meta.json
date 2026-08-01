@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-31T10:26:08Z",
-  "html_sha256": "f756e750647887e7fa302a07f21362fb8eb04a801c732e018ffdb542ff84d92e",
-  "text_sha256": "719662d5c0b98009a03f66270bb35fccfa8d49ba3472363dfe17103cea91d354",
-  "byte_size": 154894,
+  "fetched_at": "2026-08-01T09:47:41Z",
+  "html_sha256": "d5ff61385c30bc2a1af77ec6364f99dcee846687f3acccf574c45f5529ffe2ff",
+  "text_sha256": "44ee5008625a84a6d83166bf1fcfcf735510cf3223871bf2f63c2e093ee9af26",
+  "byte_size": 156351,
   "title": "County Elections | Frio County, TX",
   "error": null
 }

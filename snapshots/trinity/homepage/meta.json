@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-31T10:26:08Z",
-  "html_sha256": "72e5713c2d9c706fc0b0c12f73b4c0f1c623d5af1c2635bce2eaaa8920e04acf",
-  "text_sha256": "c1d6d48341652c10ed64af2e00ae19403ef3a23af166b8585f370590e315ea48",
-  "byte_size": 57773,
+  "fetched_at": "2026-08-01T09:47:41Z",
+  "html_sha256": "94c50035f3a0dd6ac2bcf703bdbdaff7cfc1fb8276eabae59c563b79809f8e37",
+  "text_sha256": "52697348a740e96b5bd99e415d8593861c99190c70b01af5966a5667ae2a36df",
+  "byte_size": 59054,
   "title": "Trinity County, Texas",
   "error": null
 }

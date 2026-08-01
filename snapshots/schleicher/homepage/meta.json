@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-07-31T10:26:08Z",
-  "html_sha256": "7e67bd36cd9413db34908132f01ecd42699c74b1a6b07d48153feeb83fe6b8ad",
-  "text_sha256": "2b123b3c8348a26618d8195c72d9668ba638d38a38e623014d235092bce235c7",
-  "byte_size": 43334,
+  "fetched_at": "2026-08-01T09:47:41Z",
+  "html_sha256": "28b59be1e5026bab472a0e5b79c0b8e25b93101893e67ecf00217be0941e3122",
+  "text_sha256": "ce851619ac22b2c736440f3a19dbd8cb4b6aea9666e29e3a77b2fe6436372248",
+  "byte_size": 43960,
   "title": "Home | Schleicher County, TX",
   "error": null
 }

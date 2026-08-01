@@ -181,9 +181,9 @@ iCal
 Copy iCalendar (.ics) Link
 RSS
 Copy RSS Feed Link
-July
+August
 2026
-July 2026
+August 2026
 Sun
 Mon
 Tue
@@ -191,9 +191,12 @@ Wed
 Thu
 Fri
 Sat
+26
+27
 28
 29
 30
+31
 1
 2
 3
@@ -226,6 +229,10 @@ Sat
 30
 31
 1
+2
+3
+4
+5
 Bandera County, Texas  |  500 Main Street  |  Bandera, Texas 78003
 Staff Login
 Web Accessibility

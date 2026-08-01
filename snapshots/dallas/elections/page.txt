@@ -227,8 +227,6 @@ EVENTS
 Upcoming events
 Community Outreach Events (0)
 December 12, 2026- Runoff Election (14)
-June 13, 2026- Runoff Election (2)
-May 26, 2026- Primary Runoff Election (0)
 November 3, 2026- General Election (12)
 Poll Worker Training (0)
 Volunteer Deputy Registrar Training (5)
@@ -237,8 +235,6 @@ Event Type:
 All Events
 Community Outreach Events
 December 12, 2026- Runoff Election
-June 13, 2026- Runoff Election
-May 26, 2026- Primary Runoff Election
 November 3, 2026- General Election
 Poll Worker Training
 Volunteer Deputy Registrar Training
@@ -246,7 +242,7 @@ Voter Registration Events
 «
 »
 MONTH OF
-JULY
+AUGUST
 2026
 Sunday
 Monday
@@ -256,79 +252,108 @@ Thursday
 Friday
 Saturday
 1
-2
-3
-4
 1
 Volunteer Deputy Registrar Class
-07/04/2026 - 07/04/2026
+08/01/2026 - 08/01/2026
 10:00 AM
 1460 Round Table Drive, Dallas, TX 75247
 Volunteer Deputy Registrars (VDRs) play a crucial role by helping people officially register to vote. They are dedicated to boosting voter registration in the state.
 Sign up here
+2
+3
+4
 5
 6
+1
 7
 8
-9
-1
-10
-11
 Volunteer Deputy Registrar Class
-07/09/2026 - 07/09/2026
+08/06/2026 - 08/06/2026
 6:30 PM
 1460 Round Table Drive, Dallas, TX 75247
 Volunteer Deputy Registrars (VDRs) play a crucial role by helping people officially register to vote. They are dedicated to boosting voter registration in the state.
 Sign up here
+9
+10
+11
 12
 13
 14
 15
-16
-17
-18
 1
 Volunteer Deputy Registrar Class
-07/18/2026 - 07/18/2026
+08/15/2026 - 08/15/2026
 10:00 AM
 1460 Round Table Drive, Dallas, TX 75247
 Volunteer Deputy Registrars (VDRs) play a crucial role by helping people officially register to vote. They are dedicated to boosting voter registration in the state.
 Sign up here
+16
+17
+18
 19
 20
+1
 21
 22
-23
-1
-24
-25
 Volunteer Deputy Registrar Class
-07/23/2026 - 07/23/2026
+08/20/2026 - 08/20/2026
 6:30 PM
 1460 Round Table Drive, Dallas, TX 75247
 Volunteer Deputy Registrars (VDRs) play a crucial role by helping people officially register to vote. They are dedicated to boosting voter registration in the state.
 Sign up here
+23
+24
+25
 26
 27
 28
 29
+1
+Volunteer Deputy Registrar Class
+08/29/2026 - 08/29/2026
+10:00 AM
+1460 Round Table Drive, Dallas, TX 75247
+Volunteer Deputy Registrars (VDRs) play a crucial role by helping people officially register to vote. They are dedicated to boosting voter registration in the state.
+Sign up here
 30
 31
 Event Type:
 All Events
 Community Outreach Events
 December 12, 2026- Runoff Election
-June 13, 2026- Runoff Election
-May 26, 2026- Primary Runoff Election
 November 3, 2026- General Election
 Poll Worker Training
 Volunteer Deputy Registrar Training
 Voter Registration Events
 «
 »
-July
+August
 2026
-Sorry, no events this month!
+August 1, 2026
+Volunteer Deputy Registrar Class
+10:00 AM
+1460 Round Table Drive, Dallas, TX 75247
+vdr-training
+August 6, 2026
+Volunteer Deputy Registrar Class
+6:30 PM
+1460 Round Table Drive, Dallas, TX 75247
+vdr-training
+August 15, 2026
+Volunteer Deputy Registrar Class
+10:00 AM
+1460 Round Table Drive, Dallas, TX 75247
+vdr-training
+August 20, 2026
+Volunteer Deputy Registrar Class
+6:30 PM
+1460 Round Table Drive, Dallas, TX 75247
+vdr-training
+August 29, 2026
+Volunteer Deputy Registrar Class
+10:00 AM
+1460 Round Table Drive, Dallas, TX 75247
+vdr-training
 View All
 GET INVOLVED
 Become a Pollworker

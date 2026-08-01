@@ -180,15 +180,15 @@ iCal
 Copy iCalendar (.ics) Link
 RSS
 Copy RSS Feed Link
-July
+August
 2026
-July 2026
+August 2026
 Day
 Start
 End
 Event - Description
 Action
-Wed
+Sat
 1
 San Patricio County Courthouse  |  400 W Sinton St  |  Sinton, TX 78387  |  Phone: (361) 364-9300
 HOURS: Monday - Friday: 8am - 5:00pm, Closed:  Weekends, Holidays
