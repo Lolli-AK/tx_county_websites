@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-01T09:47:41Z",
-  "html_sha256": "829213be947ac8ecc791c22025fecbff3944defedf9fb5f206cb213608ac771a",
+  "fetched_at": "2026-08-02T09:47:12Z",
+  "html_sha256": "5972befaa521169ffa584c8ebfd8e380570ea6c944c3dfecd3688485ebb6a01e",
   "text_sha256": "fb0aab158c1394b1d46096c0ac0757f8b75eb7d025f66fb340164560bae9e817",
-  "byte_size": 35492,
+  "byte_size": 35450,
   "title": "Election Day Polling Sites - Denton County, TX Elections",
   "error": null
 }

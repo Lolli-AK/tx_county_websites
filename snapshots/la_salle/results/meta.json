@@ -7,13 +7,13 @@
     "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=251:march-2020-primary-election-results&catid=78:government"
   ],
   "http_status": 200,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-01T09:47:41Z",
-  "html_sha256": "33fef899bfc7f12ebb491fc2f552e5a88024c600500fbd11870e57ea65cbcb46",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-08-02T09:47:12Z",
+  "html_sha256": "2e550262b6651aa7b3c4ea9aa14bd982ba349f4490bcf0cfb4ecaa3ce99abe4e",
+  "text_sha256": "7d31966d602c7f63d9eed1d067bff0f5af29a561e6f0f487d0662c6aca2cae20",
+  "byte_size": 61883,
+  "title": "March 2020 Primary Election Results",
   "error": null
 }

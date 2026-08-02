@@ -2,19 +2,18 @@
   "county": "Wichita",
   "page_type": "homepage",
   "requested_url": "https://wichitacountytx.com/",
-  "final_url": "https://wichitacountytx.com/.well-known/sgcaptcha/?r=%2F&y=ipr:20.55.47.20:1785578005.526",
+  "final_url": "https://wichitacountytx.com/",
   "redirect_chain": [
-    "https://wichitacountytx.com/",
-    "https://wichitacountytx.com/.well-known/sgcaptcha/?r=%2F&y=ipr:20.55.47.20:1785578005.526"
+    "https://wichitacountytx.com/"
   ],
-  "http_status": 202,
-  "content_type": "text/html",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-01T09:47:41Z",
-  "html_sha256": "cf384ca8f4bb9fdb8f5b63e868397175c6a17d3c23571204af3d974f3364e71e",
-  "text_sha256": "c44599aa9f5ccab668954a743bdd2d02e1860f8e998d2a44f9feac7163f74200",
-  "byte_size": 917,
-  "title": "Robot Challenge Screen",
+  "fetched_at": "2026-08-02T09:47:12Z",
+  "html_sha256": "8c384ef09287c245e32834a5910c2ba00e21c09b1cf6657d95e76fedc30baf09",
+  "text_sha256": "8d1a8a7bff599917637bf2ff34ded35569df2c8c2b5799cc8c438ce893ffa36e",
+  "byte_size": 35899,
+  "title": "Wichita County | Wichita County",
   "error": null
 }

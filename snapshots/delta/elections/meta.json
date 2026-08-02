@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-01T09:47:41Z",
-  "html_sha256": "fd24b2889c42347fc1e80aac0e28fd934c5dfb9cdcbb48734ebd9911f8724de2",
+  "fetched_at": "2026-08-02T09:47:12Z",
+  "html_sha256": "d317d172251d4d50064c4cc462733e0ab7b6f1d25a67664b0a6c2ee34b3a97b7",
   "text_sha256": "1f220428685294a20e580e1344ed30992e86619f09fe6d957083b16ea871858c",
-  "byte_size": 102769,
+  "byte_size": 102809,
   "title": "Elections | Delta County, TX",
   "error": null
 }
