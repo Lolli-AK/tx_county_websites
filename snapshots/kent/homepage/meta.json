@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T11:10:21Z",
-  "html_sha256": "4979cd94c925d273b4251bbd82eb59ac763c7907efc8fea224bf3e09d889f786",
-  "text_sha256": "0c349d24b60776ca9112cadac20740e71f7b8faba31f3fa2109a9734743e95b3",
-  "byte_size": 20946,
+  "fetched_at": "2026-08-04T10:25:07Z",
+  "html_sha256": "2d574d4cc39d71ebe957659cb98d66a686695574732c6cf76637a69be48ad63b",
+  "text_sha256": "c8f474db0d995d00368fc50f1df8417ea6246a58c0f550d6fe00b4b3e26d7298",
+  "byte_size": 21105,
   "title": "Kent County, Texas",
   "error": null
 }

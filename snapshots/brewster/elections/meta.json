@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T11:10:21Z",
-  "html_sha256": "4bdeee48e05ab3c28bc107fc154e5c2ed83426791ae12d1a460cca1ac5ffdb74",
-  "text_sha256": "be0dea5c4de8c702f45ea7d9cdf952924194ae199073fd32407ed8a4d638ee30",
-  "byte_size": 52867,
+  "fetched_at": "2026-08-04T10:25:07Z",
+  "html_sha256": "50a09e122773bc95865cbb35e21898b0ab59f64fccafbd5dc6d88ac0fb47870a",
+  "text_sha256": "c56b77ae88fa4d8bde66f222b1a1ad7827895e0e587634cf697b3c39404d44e4",
+  "byte_size": 52863,
   "title": "Brewster County, Texas",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T11:10:21Z",
-  "html_sha256": "ef163612623e17e399b6ae82707309f946de787f02a600c9f08b2400b66e8f8e",
-  "text_sha256": "fedc28632351d8a4d50fcaa8a9ff5f02945778e87f21ffe8dcfe403a0abc382d",
-  "byte_size": 102509,
+  "fetched_at": "2026-08-04T10:25:07Z",
+  "html_sha256": "567b8b73b2c0454992493b96a5d8d398e8bfd5220529857d245da7ed22023066",
+  "text_sha256": "d84e708b9ea338937b158c12200f9e5f39a69376a094c7c1034f33e97da26f12",
+  "byte_size": 104157,
   "title": "Yoakum County, Texas",
   "error": null
 }

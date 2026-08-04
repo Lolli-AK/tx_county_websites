@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T11:10:21Z",
-  "html_sha256": "fe8047cdc07d8897cd707712ab2f50fe9a3e4e45b1667fb1307e526523daeda1",
-  "text_sha256": "bccf6ad146ea8172c069f08469c2b00a856fd5239497261f60864d8b7df43ba0",
-  "byte_size": 43946,
+  "fetched_at": "2026-08-04T10:25:07Z",
+  "html_sha256": "105eff9bfb89b1a888596fcfc6d95c50902000459845c1d33961b3ff0fd9a0b0",
+  "text_sha256": "3968337732c8663956c7d6bad29ce3a9e6e663e5178d5df0db194c791d1971e6",
+  "byte_size": 43883,
   "title": "Wheeler County, Texas",
   "error": null
 }

@@ -92,7 +92,6 @@ Elections
 Toggle main menu visibility
 Menu
 Elections Administrator
-Elections Information
 Upcoming Election & Updates
 Notices
 Candidate Filings

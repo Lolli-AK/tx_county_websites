@@ -447,6 +447,7 @@ Risk Management
 Calendar
 Tax Assessor/Collector
 +
+Description of Office
 Schedule Appointment
 Pay Property Tax
 FAQ Property Tax
@@ -454,7 +455,6 @@ Permit - Coin Operated Machine
 Vehicle Registration
 FAQ Motor Vehicle
 Locations
-Description of Office
 Documents
 Tax Office Facts
 Voter Registration

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T11:10:21Z",
-  "html_sha256": "a1bf6fc1e7eb71863ad4b9e9e2bb31e354f29bb924dfe8f75f64b365e083e6af",
-  "text_sha256": "4def16327a8bb178fcd841bc731a2ff522a6c43a8ce37ae260e86c2eb74752a1",
-  "byte_size": 21891,
+  "fetched_at": "2026-08-04T10:25:07Z",
+  "html_sha256": "62dec70a794235d4bf088e751ca043f49e663a5c123ca44fa635ba3d6f599ca5",
+  "text_sha256": "c4a33252791094ec6b8a4d493c7a856df9c89e7ae3625b1781414cbb4ce186cb",
+  "byte_size": 22050,
   "title": "Elections - Kent County, TX",
   "error": null
 }

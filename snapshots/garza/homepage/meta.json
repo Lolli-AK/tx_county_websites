@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T11:10:21Z",
-  "html_sha256": "283d20b577c41a1fa1942f09cdd5d2b4de49e6b5530203d36f11f9012519b348",
-  "text_sha256": "9b0441e36ebdb55794ad041bd5bfb6d58348633029dca782f206fb6288eb6636",
-  "byte_size": 33844,
+  "fetched_at": "2026-08-04T10:25:07Z",
+  "html_sha256": "6a8961d7822a95ad6b21c282562e06da16a465f55e0ba7aa0e906432c59700d9",
+  "text_sha256": "7165593d2d2b2f117b8243f9377bd5225d70681d360d118808fbb7018fe40903",
+  "byte_size": 33805,
   "title": "Garza County Texas",
   "error": null
 }

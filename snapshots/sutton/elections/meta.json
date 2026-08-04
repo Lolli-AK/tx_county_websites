@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T11:10:21Z",
-  "html_sha256": "ed787064b38d217a1f831dfa410751c346635b9c07b79116d2a075f1bbba9e67",
-  "text_sha256": "b1398fc7bd02aa89a60d145a36907c09d751ef5413bfd4c719c12c57f0359f9e",
-  "byte_size": 105728,
+  "fetched_at": "2026-08-04T10:25:07Z",
+  "html_sha256": "5f1e6da424f371f616c69d5163ae9959315c2683122c358d78bd0b885d419945",
+  "text_sha256": "0103f02bebf55e775ec652dba14e3b2059666527637414ca601cd9e137f2c0c1",
+  "byte_size": 106079,
   "title": "Sutton County, TX - Elections",
   "error": null
 }

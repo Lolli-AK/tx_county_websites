@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T11:10:21Z",
-  "html_sha256": "00fed45de184f57be4487832692b1ad94ffe15ce3c2d7c299b848fb53f05b0fe",
+  "fetched_at": "2026-08-04T10:25:07Z",
+  "html_sha256": "b2daae156e642605c0972498129e21160b0cf9080780f6624302d296c6d8fb35",
   "text_sha256": "f6999c9b55faf0d2923c2e9aa44dd0437ab891bc018688fd85369939c9b2a346",
-  "byte_size": 59518,
+  "byte_size": 59354,
   "title": "Falls County, Texas",
   "error": null
 }

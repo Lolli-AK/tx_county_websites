@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T11:10:21Z",
-  "html_sha256": "5474f648dbb7ad48c54daf977864bda21d0862fe3886600c0bc463c505600e0c",
-  "text_sha256": "b63339f528e2f8e455b54694085a90696711c10a1dc13bfcade0ae132dac2768",
-  "byte_size": 20879,
+  "fetched_at": "2026-08-04T10:25:07Z",
+  "html_sha256": "2e1a43a18c1ef47bac737c19e8ff9b6fcce0165c7511da16a950e1c3d10c5e49",
+  "text_sha256": "472bec2504eaf34ba4b381480378b2cd2aebecd4362f8f8da0bb3c7ffd5105ee",
+  "byte_size": 21118,
   "title": "Floyd County, Texas",
   "error": null
 }

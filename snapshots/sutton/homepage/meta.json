@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T11:10:21Z",
-  "html_sha256": "ca94cb4203e7f5dabe372e274a2f134d7c5d93ac0c5361ce1adf834e009bacb6",
-  "text_sha256": "76926562f565903e69ba4fd370568369a3ad9c01e8ed9ba046ebdcda7c7842db",
-  "byte_size": 36483,
+  "fetched_at": "2026-08-04T10:25:07Z",
+  "html_sha256": "ac58637924ca59cd8d310b8d99a3297bf08a9c712793be516f2a01d0cd63da0a",
+  "text_sha256": "899f9d027d45c07c586e3a366cc5027b3194a4616c7750eba712a443089e1752",
+  "byte_size": 36499,
   "title": "Sutton County, TX - Home",
   "error": null
 }

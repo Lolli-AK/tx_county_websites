@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-03T11:10:21Z",
-  "html_sha256": "f7580f911d0293dff3192e3e43298c7f2932072194b0012db29db8cf18af1208",
-  "text_sha256": "618cf2256a47bd3970119c331946ba0251c58dd04145c8bf693777d01f05bccf",
-  "byte_size": 31308,
+  "fetched_at": "2026-08-04T10:25:07Z",
+  "html_sha256": "447c699e7ede0bda20557803896c1bf9800ccbe8d7d7b031454c192eb9c464a2",
+  "text_sha256": "435eb16175dbed1d0fdfd6ad1d5f158d95a62d1e79eab7f987ff68dd198d9821",
+  "byte_size": 31157,
   "title": "Lee County, Texas",
   "error": null
 }
