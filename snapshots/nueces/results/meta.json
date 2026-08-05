@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-04T10:25:07Z",
-  "html_sha256": "49f80edff3a4deb8164a2c14dfa7764a8aef61c087dafe4c98e0889845b3cadd",
+  "fetched_at": "2026-08-05T10:21:24Z",
+  "html_sha256": "56dafaa22f66862398cbaeba56261fd52a3ba4dfc4f71288ba051aebd4b02739",
   "text_sha256": "aad5b9f99daf92e539711f92e5352a7276b01b2bfa5f4062a48dc4647664003d",
-  "byte_size": 140264,
+  "byte_size": 140634,
   "title": "Election History | Nueces County, TX",
   "error": null
 }

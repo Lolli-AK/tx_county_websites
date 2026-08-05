@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-04T10:25:07Z",
-  "html_sha256": "8f3d4c32c68d88957a09cdc2a170757fbb9e1406bca9e87368f8d85ad6652714",
-  "text_sha256": "619fa30e0017643126a4692579747cbafaeb45d770ef05a6d1ab12741778396f",
-  "byte_size": 50915,
+  "fetched_at": "2026-08-05T10:21:24Z",
+  "html_sha256": "6d8d57609d424327d23e14b8dc560fe0b9d0dbad2baa36d4ac92b008b7ffe17e",
+  "text_sha256": "84fb3c09a44d9cd0365d8599a5b7dd428f29f26b33706f86b5b00beb13f99876",
+  "byte_size": 53675,
   "title": "Home Page - Cottle County",
   "error": null
 }

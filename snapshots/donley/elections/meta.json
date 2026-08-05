@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.co.donley.tx.us/page/donley.Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-04T10:25:07Z",
-  "html_sha256": "9c9a03e54bbe4b6cdabda87ee71730cb9a52fa8bdc57f46826641aaa1a98b718",
-  "text_sha256": "784434dc83eba7548fbc9f8e5785ac30eae92bf01863dc94c822d4c29883d059",
-  "byte_size": 57971,
-  "title": "Donley County, Texas",
+  "fetched_at": "2026-08-05T10:21:24Z",
+  "html_sha256": "26e9f46ee15cb064c2aeb9f8c7ba31aa8409fcac4d0fbbf8bd0af5635a3719e9",
+  "text_sha256": "2f3820f7e07550288acdf8d1ad8ce8d02d98aa93c3bc53289eed1e78533876a1",
+  "byte_size": 683,
+  "title": "403 - Forbidden: Access is denied.",
   "error": null
 }

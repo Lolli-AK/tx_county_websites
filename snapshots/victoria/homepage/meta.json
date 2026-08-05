@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-04T10:25:07Z",
-  "html_sha256": "cd0c75ad8300ece5563a945d7f572ff6dd054921078caa751b29eb11b7135ad5",
+  "fetched_at": "2026-08-05T10:21:24Z",
+  "html_sha256": "d5678f8e01558ad2229e99832dcfc54822a9f7dd653d25c9ab5614dea8aaf785",
   "text_sha256": "9b638868f8b6fbe06d3e9902e77a9b42e99e5698379096f023af4f2cea07a8d0",
-  "byte_size": 70829,
+  "byte_size": 70822,
   "title": "Victoria County, Texas",
   "error": null
 }

@@ -123,9 +123,9 @@ elections@co.bastrop.tx.us
 Para Mas Información
 ¿Necesita información o ayuda en español? Por favor comuníquese con nuestra oficina al 512-581-7160.
 Voter Stats
-Registered Voters as of 05/11/2026
+Registered Voters as of 08/04/2026
 Total
-63,235
+63,644
 Mark Your Calendar
 Volunteer Deputy Registrar Training
 Thursday
@@ -147,6 +147,11 @@ Monday
 ,
 September
 7th
+National Voter Registration Day
+Tuesday
+,
+September
+15th
 Volunteer Deputy Registrar Training
 Thursday
 ,
@@ -157,6 +162,21 @@ Thursday
 ,
 October
 1st
+Last Day to Register to Vote
+Monday
+,
+October
+5th
+Early Voting
+Monday
+,
+October
+19th
+Last Day to Receive Application for Ballot by Mail
+Friday
+,
+October
+23rd
 View More
 Connect With Us
 Sitemap

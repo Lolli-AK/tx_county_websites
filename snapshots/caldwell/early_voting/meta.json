@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-04T10:25:07Z",
-  "html_sha256": "b37a42256754f32b07e3508592576988d1ab3d6249590842085ed139122e5712",
-  "text_sha256": "f8d58167bd85a1c13123c766fa6889bccf6a0ad02f704d10a2ee0733bad96928",
-  "byte_size": 75960,
+  "fetched_at": "2026-08-05T10:21:24Z",
+  "html_sha256": "a284a54a9b892dfd35ce467e9b2a5d61236e3c909433d59768ae40157125e201",
+  "text_sha256": "04b24a429feba364da0a1b16dad924cbc5ae1ac75673fb1dba27c26c2eb16782",
+  "byte_size": 76094,
   "title": "Early Voting Locations - Caldwell County, Texas",
   "error": null
 }

@@ -18,8 +18,6 @@ District Attorney
 District Clerk
 District Judge
 Elections
-Elections Department
-Elections Information
 Finance
 Human Resources
 Employment
@@ -42,7 +40,7 @@ Agrilife Extension
 Alpine Fire Department
 Auctions
 County Facilities
-Elections Information
+Elections
 Employee Policies
 Flood Administration
 Hyper Reach Alerts
@@ -103,7 +101,7 @@ Popular Links
 Toggle main menu visibility
 Menu
 Candidate Filings
-Elections Information
+Elections
 Employment
 Office of Emergency Management
 Online Events Calendar
