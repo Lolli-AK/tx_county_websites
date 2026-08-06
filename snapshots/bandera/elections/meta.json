@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-05T10:21:24Z",
-  "html_sha256": "20f664080f474a99fbc47a78f625f79d9e44e45032ea3e5627d4dc5c6ad5639d",
-  "text_sha256": "c5b794f44ab27b52a835b2b422e458dd087a315d216042b720c90daa7dbec024",
-  "byte_size": 39994,
+  "fetched_at": "2026-08-06T10:23:12Z",
+  "html_sha256": "661eb3c22129886cb7fe5800a865f90712e36ad2ae4991fae45fd3a12e8bd5d5",
+  "text_sha256": "68b2e09a638b705f5f4bbf7053f1f912d1154967bf9ab1b3b55f5e0a270bc35c",
+  "byte_size": 40042,
   "title": "Bandera County, Texas",
   "error": null
 }

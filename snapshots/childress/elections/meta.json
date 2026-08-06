@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.childresstx.us/pages/election-administrator-and-voter-registration-contact-information"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 500,
+  "content_type": "text/html; charset=iso-8859-1",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-05T10:21:24Z",
-  "html_sha256": "4b7feb41540ccf98bbe4a99bae9cb84c700eb80a37aa10349a288cdb96f4d82a",
-  "text_sha256": "43b22d1f3ba56e558c79d7d346f762562b1acc8716e734731b2c4bfd2073b299",
-  "byte_size": 40784,
-  "title": "Childress County Texas",
+  "fetched_at": "2026-08-06T10:23:12Z",
+  "html_sha256": "8261d6e340ee4788d4eeed5be4f1f007fcaaeda444c9f68cb29c13a2cb7c0189",
+  "text_sha256": "26ca32a327710fc21fd3d070f38dc0acfd964e2d9881bcb68d2d2734319c0c66",
+  "byte_size": 679,
+  "title": "500 Internal Server Error",
   "error": null
 }

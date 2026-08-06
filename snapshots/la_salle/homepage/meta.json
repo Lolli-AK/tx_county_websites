@@ -7,13 +7,13 @@
     "https://www.co.la-salle.tx.us/"
   ],
   "http_status": 200,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-05T10:21:24Z",
-  "html_sha256": "33fef899bfc7f12ebb491fc2f552e5a88024c600500fbd11870e57ea65cbcb46",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-08-06T10:23:12Z",
+  "html_sha256": "fb5265ba9479c96e52426b454927ff1c518ccb6ad8961a31787310c99dea027f",
+  "text_sha256": "ddb959c64625e489496c29aa9bcbdbe694035d2a4b2b52cbe718b528c7779ee7",
+  "byte_size": 95443,
+  "title": "La Salle County, Texas - Official Website",
   "error": null
 }

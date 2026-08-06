@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-05T10:21:24Z",
-  "html_sha256": "9fcaa34a086cfbcb426f04ffb6be2cb094304cb29b93419213856f5a3921fbdc",
-  "text_sha256": "7758f4f14d1491897f4809a954d769f599b3ca01bb9462d11e964cbac35af43e",
-  "byte_size": 83713,
+  "fetched_at": "2026-08-06T10:23:12Z",
+  "html_sha256": "cbad8a4e8618c39ea456ab817de3916f82cc6fe5edf9f21887965f765aa443f1",
+  "text_sha256": "97cf0384f84f8e02b1d73fda7c15765ef7119468f6a9111c46415565747cb23f",
+  "byte_size": 83827,
   "title": "Briscoe County, Texas",
   "error": null
 }
