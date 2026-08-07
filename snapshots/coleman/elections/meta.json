@@ -2,18 +2,20 @@
   "county": "Coleman",
   "page_type": "elections",
   "requested_url": "https://www.co.coleman.tx.us/page/coleman.Elections",
-  "final_url": "https://www.co.coleman.tx.us/page/coleman.Elections",
+  "final_url": "https://www.colemancounty.gov",
   "redirect_chain": [
-    "https://www.co.coleman.tx.us/page/coleman.Elections"
+    "https://www.co.coleman.tx.us/page/coleman.Elections",
+    "https://www.co.coleman.tx.us/page/Elections",
+    "https://www.colemancounty.gov"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:23:12Z",
-  "html_sha256": "54bcf9108e3ec588776d05cf1cb2b7a3f410bf743b6dd044ac8ddd77c16791d7",
-  "text_sha256": "0ffe62ee0f072ef3b28a0bae1a7b753c103cd93810682ab2f5d76c2902b993f0",
-  "byte_size": 77722,
-  "title": "Coleman County, Texas",
+  "fetched_at": "2026-08-07T08:44:08Z",
+  "html_sha256": "379cb5583f94a6d3aa396c3810e0e8ca6ed106ad8ca8a3616bcaea6d913a3e51",
+  "text_sha256": "8d35268f25e8ea934d727958783ecae6ffbdcb4eef5fb6e8275c351d2493063a",
+  "byte_size": 46036,
+  "title": "Home | Coleman County, Texas",
   "error": null
 }

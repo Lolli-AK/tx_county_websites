@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:23:12Z",
-  "html_sha256": "edd6c9fe4fc15fd50d73cc0e53bf55b0706d768ea93e0614aa4a4d3b70ba0446",
-  "text_sha256": "f30dfb365383e5ccb522c0631d31e89a3ae989955937953d2539c88672c81130",
-  "byte_size": 38525,
+  "fetched_at": "2026-08-07T08:44:08Z",
+  "html_sha256": "574a8f2092919547fe6c609cc0ebccafdf392b5bf76c43d4504a40d5f9a949fe",
+  "text_sha256": "60b3fe7faa7781f2c429fc479d76f1601eb07877929796842b004bd41c9f5fa1",
+  "byte_size": 38921,
   "title": "Elections Home | Hudspeth County, TX",
   "error": null
 }

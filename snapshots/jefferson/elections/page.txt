@@ -246,11 +246,6 @@ JUN
 Monday - June 08, 2026
 7:00 AM - 7:00 PM
 Early Voting – Port Arthur Runoff Election (Week 2)
-AUG
-19
-Wednesday - August 19, 2026
-10:00 AM - 11:00 AM
-Volunteer Deputy Registrar Training
 OCT
 26
 Monday - October 26, 2026
@@ -264,6 +259,11 @@ Early Voting – November Election
 DEC
 24
 Thursday - December 24, 2026
+8:00 AM - 5:00 PM
+Christmas Holiday – County Offices Closed
+DEC
+25
+Friday - December 25, 2026
 8:00 AM - 5:00 PM
 Christmas Holiday – County Offices Closed
 County Clerk - Elections - Voter Registration Contact Information
@@ -312,9 +312,6 @@ Voter Registration
 County Official:
 Kate Carroll
 Tax Assessor-Collector/Voter Registrar
-Voter Registration Manager:
-Alicia Monk
-alicia.monk@jeffersoncountytx.gov
 Beaumont Branch Physical Address:
 Jefferson County
 Courthouse

@@ -69,8 +69,8 @@ am
 to 7
 pm
 Locations are subject to change.
-City Hall (Training Room)
-447 N Main Street
+Morningside Ministries
+1050 Grand Blvd
 Boerne, TX 78006
 First Baptist Church (HUB)
 631 S School Street
@@ -78,9 +78,6 @@ Boerne, TX 78006
 Bergheim Volunteer Fire Department
 1 Old Curry Creek Road
 Bergheim, TX 78004
-Burdick Community Center
-119 Old San Antonio Road
-Boerne, TX 78006
 Kendall County Fairgrounds (Old Hall)
 1307 River Road
 Boerne, TX 78006
@@ -93,14 +90,14 @@ Boerne, TX 78006
 Sisterdale Community Center
 2 Sisterdale-Lindendale Road
 Sisterdale, TX 78006
+Boerne City Hall (Training Room)
+447 N Main Street
+Boerne, TX 78006
 Comfort Baptist Church
 100 Amber Drive
 Comfort, TX 78013
 Waring Fire House
 11 Waring Road
-Boerne, TX 78006
-Nineteen:Ten Church
-130 FM 1376
 Boerne, TX 78006
 VOTER HISTORY REPORTS
 A law passed in the 86th Regular Legislative Session (2019 - Senate Bill 902). This bill requires that information on the roster for a person who votes either in person or by mail must be made available for public inspection not later than 11

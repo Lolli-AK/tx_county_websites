@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:23:12Z",
-  "html_sha256": "30596df8fa279025bc33e064fe67a78fc16561d836c88a96bb9b9da63653e86c",
-  "text_sha256": "d2c29a380148ab01b5f6c9600d860b070bf493b169c0a3304c1f516c6103d38c",
-  "byte_size": 33191,
+  "fetched_at": "2026-08-07T08:44:08Z",
+  "html_sha256": "a9a03a68a89ed168a2069854601f1868a75342020c43b5c871c2fa244aa60ac5",
+  "text_sha256": "b99f19b8eee05af7a2b37b2087a250c1932b6570bac7ef2bfaed7d2b079dcfd2",
+  "byte_size": 32874,
   "title": "Home | Lavaca County, Texas",
   "error": null
 }

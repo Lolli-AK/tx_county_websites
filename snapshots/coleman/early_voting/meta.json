@@ -2,18 +2,19 @@
   "county": "Coleman",
   "page_type": "early_voting",
   "requested_url": "https://www.co.coleman.tx.us/page/EARLY%20VOTING%20INFORMATION",
-  "final_url": "https://www.co.coleman.tx.us/page/EARLY%20VOTING%20INFORMATION",
+  "final_url": "https://www.colemancounty.gov",
   "redirect_chain": [
-    "https://www.co.coleman.tx.us/page/EARLY%20VOTING%20INFORMATION"
+    "https://www.co.coleman.tx.us/page/EARLY%20VOTING%20INFORMATION",
+    "https://www.colemancounty.gov"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:23:12Z",
-  "html_sha256": "cf0498de07783a401b0b47edf01c561d7712998a230e34fc1ecb432966d9a8a8",
-  "text_sha256": "c7327576b91792b73bfc5b346f5082e080afb3e98dbde6182a71f13a34e92564",
-  "byte_size": 27883,
-  "title": "Coleman County, Texas",
+  "fetched_at": "2026-08-07T08:44:08Z",
+  "html_sha256": "379cb5583f94a6d3aa396c3810e0e8ca6ed106ad8ca8a3616bcaea6d913a3e51",
+  "text_sha256": "8d35268f25e8ea934d727958783ecae6ffbdcb4eef5fb6e8275c351d2493063a",
+  "byte_size": 46036,
+  "title": "Home | Coleman County, Texas",
   "error": null
 }

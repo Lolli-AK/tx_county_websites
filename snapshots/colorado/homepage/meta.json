@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-06T10:23:12Z",
-  "html_sha256": "666f1c4a1beba5d1e916f80c40025c983497a8f8c9eacdf3fc6f2a8088121637",
-  "text_sha256": "dd873b46f63db785733e74de6b13328e543de217462c35aa523ace18a195abb3",
-  "byte_size": 38087,
+  "fetched_at": "2026-08-07T08:44:08Z",
+  "html_sha256": "77e5f0e726e67728ee81ec96d9a8fc15ccdd3a22049ef7d2f917fb629611523d",
+  "text_sha256": "ab04e328e82286153ec956189bb07c0aa3961995e4b1f2243f2ce055a572d52b",
+  "byte_size": 38486,
   "title": "Colorado County Homepage",
   "error": null
 }

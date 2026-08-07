@@ -65,18 +65,8 @@ muy pronto
 )
 Early Voting Dates, Hours and Locations
 (Fechas, Horarios y Lugares de Votacion Anticipada)
--
-coming soon
-(
-muy pronto
-)
 Election Day Voting Hours and Locations
 (Forarios y lugares de votacion el dia de las elecciones)
--
-coming soon
-(
-muy pronto
-)
 Notice of Equipment Testing (
 Aviso de prueba de equipos
 ) - coming soon
@@ -104,45 +94,6 @@ Michael Clawson
 Jolina Flowers
 Danny Morgan
 Katie Sims
-05-26-2026 JOINT PRIMARY RUNOFF ELECTION (ELECCIÓN CONJUNTA DE SEGUNDA VUELTA DE PRIMARIAS)
-▲
-State Results (
-Resultados estatales
-)
-Local Results (
-Resultados
-locales
-)
-Reconciliation (
-Reconciliación
-)
-Post Election Hand Count
-(recuento manual posterior a las elecciones)
-Notice of Joint Primary Runoff Election (
-Aviso de elección
-conjunta de segunda vuelta de primarias
-)
-Early Voting Dates, Hours and Locations
-(Fechas, horarios y lugares de votacion anticipada)
-Election Day Voting Hours and Locations
-(Forarios y lugares de votacion el dia de las elecciones)
-Notice of Change to Polling Location
-(Aviso de cambio de lugar de votación)
-Democratic Party Sample Ballot - All Precincts
-(Papeletas de muestra del Partido Demócrata)
-Republican Party Sample Ballot - All Precincts
-(Papeletas de muestra del Partido Republicano)
-Early Voting Roster (
-Lista de Votacion Anticipada
-)
-Early Voting Ballot Board and Central Counting Station
-(
-Junta de votacion
-y estacion central de escrutinio)
-Equipment Testing
-(pruebas de equipos)
-Election Worker Public Training
-(Capacitacion Publica Para Trabajadores Electorales)
 BE A VOTER (SER VOTANTE)
 ▲
 Voter Registration Information
@@ -244,8 +195,10 @@ PREVIOUS ELECTIONS (ELECCIONES ANTERIORES)
 ELECTION RESULTS (RESULTADOS DE ELECCIONES)
 ▲
 https://results.texas-election.com/races
+May 26, 2026 - Joint Primary Runoff Election (
+Eleccion Conjunta De Segunda Vuelte De Primarias)
 May 2, 2026 - Tulia ISD
-(Eleccion Tulia ISD)
+(5-2-2026 Eleccion Tulia ISD)
 March 3, 2026 - Joint Primary Election (
 3 de marzo de 2026 - Eleccione Primarias Conjuntas)
 November 4, 2025 - Constitutional Amendment Election
@@ -274,6 +227,8 @@ November 8, 2022 - General Election
 8 de noviembre de 2022 - Elecciones Generales)
 ELECTION RECONCILIATION (RECONCILIACIÓN ELECTORAL)
 ▲
+May 26, 2026 - Joint Primary Runoff Election (
+Eleccion Conjunta De Segunda Vuelte De Primarias)
 May 2, 2026 - Tulia ISD
 (Eleccion Tulia ISD)
 March 3, 2026 - Joint Primary Election (3 de marzo de 2026 - Eleccione Primarias Conjuntas)
@@ -300,6 +255,45 @@ May 6, 2023 - Joint Election (City & School)
 (6 de mayo de 2023 - Eleccion conjunta (Ciudad y escuela)
 November 8, 2022 - General Election
 (8 de noviembre de 2022 - Elecciones Generales)
+05-26-2026 JOINT PRIMARY RUNOFF ELECTION (ELECCIÓN CONJUNTA DE SEGUNDA VUELTA DE PRIMARIAS)
+▲
+State Results (
+Resultados estatales
+)
+Local Results (
+Resultados
+locales
+)
+Reconciliation (
+Reconciliación
+)
+Post Election Hand Count
+(recuento manual posterior a las elecciones)
+Notice of Joint Primary Runoff Election (
+Aviso de elección
+conjunta de segunda vuelta de primarias
+)
+Early Voting Dates, Hours and Locations
+(Fechas, horarios y lugares de votacion anticipada)
+Election Day Voting Hours and Locations
+(Forarios y lugares de votacion el dia de las elecciones)
+Notice of Change to Polling Location
+(Aviso de cambio de lugar de votación)
+Democratic Party Sample Ballot - All Precincts
+(Papeletas de muestra del Partido Demócrata)
+Republican Party Sample Ballot - All Precincts
+(Papeletas de muestra del Partido Republicano)
+Early Voting Roster (
+Lista de Votacion Anticipada
+)
+Early Voting Ballot Board and Central Counting Station
+(
+Junta de votacion
+y estacion central de escrutinio)
+Equipment Testing
+(pruebas de equipos)
+Election Worker Public Training
+(Capacitacion Publica Para Trabajadores Electorales)
 05-02-2026 TULIA ISD AND LOCAL ELECTIONS (ELECCIÓN TULIA ISD)
 ▲
 Results (

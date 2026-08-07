@@ -101,26 +101,51 @@ Menu
 CLICK HERE to RETURN TO ELECTIONS PAGE
 Important Election Dates
 OFFICIAL ELECTION RESULTS:
-<Results will be posted here when available>
+Canvass Results
+Cumulative Results
+Precinct by Precinct Results
+Reconciliation Statement
 KID VOTE RESULTS!
 UNOFFICIAL ELECTION RESULTS:
-<Results will be posted here when available>
-VOTER LISTS
+Cumulative Results-Early Voting and Absentee
+Cumulative Results-Final
+Precinct Results
+Preliminary Election Reconciliation
+Post-Election Hand Count Audit Summary and Certification
+VOTER LISTS--
 ELECTION DAY:
-<will be posted when available>
+November 3, 2026 - Voter List
 EARLY VOTING:
-<will be posted when available>
-<LINK TO THE TEXAS SECRETARY OF STATE RESULTS (STATE-WIDE)>
-Notice of Election and Voting Locations
-Democratic Pary and Republican Party Ballot Certification Report
-Sample Ballots - Democrat
-Sample Ballots - Republican
-Live-Stream of Election Rooms
-ELECTION NOTICES:
+October 19, 2026 - Voter List
+October 20, 2026 - Voter List
+October 21, 2026 - Voter List
+October 22, 2026 - Voter List
+October 23, 2026 - Voter List
+October 24, 2026 - Voter List
+October 25, 2026 - Voter List
+October 26, 2026 - Voter List
+October 27, 2026 - Voter List
+October 28, 2026 - Voter List
+October 29, 2026 - Voter List
+October 30, 2026 - Voter List
+LINK TO THE TEXAS SECRETARY OF STATE RESULTS (STATE-WIDE)
+Notice of Election and
+Voting Locations
+Notice of Consolidated Precincts
+Sample Ballots
+*Live-Stream of Election Rooms
+Election Notices:
 NEW CURBSIDE VOTING RULES
 CURBSIDE OATH FORM
-Automatic Tabulating Equipment Testing Notices
-<date> - Notice of Automatic Tabulating Equipment Testing
+Notices related to Early Voting Ballot Board and Signature Committee meetings and audits
+Notice of Convening of Early Voting Ballot Board
+Order Calling for Signature Verification Committee
+Notificiation of Appointed Members to Signature Verification Committee
+Notice of Delivery of Balloting Materials
+Notice of Post Election Hand Count Audit
+Notice of Designation of Early Voting Ballot Board Members for Post Election Hand Count Audit
+AUTOMATIC TABULATING EQUIPMENT TESTING NOTICES:
+September 2026 - Notice of Automatic Tabulating Equipment Testing
 Confirmation of Automatic Tabulating Equipment Testing
 List of Election Judges and Alternates
 Toggle main menu visibility
