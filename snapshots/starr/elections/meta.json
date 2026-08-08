@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-07T08:44:08Z",
-  "html_sha256": "995b2bd713cb4ca869da9144ee6fc2dcfecd7aa3051e2f5bab8f067b2fdaeb2d",
-  "text_sha256": "e9ec25b9c1efb744083035f8cf2e0418c32ae9881e22297a25a50aadfbb758df",
-  "byte_size": 49867,
+  "fetched_at": "2026-08-08T08:25:34Z",
+  "html_sha256": "c1a7d3a0046f0a9666e6af50bdc3a1a410e0259090df3d7d2992ef916b0f3430",
+  "text_sha256": "e16e1be436448964942f90914e6071151aa279cce6033b748c990b0de3898a7c",
+  "byte_size": 50356,
   "title": "Voter ID Information",
   "error": null
 }

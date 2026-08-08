@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-07T08:44:08Z",
-  "html_sha256": "31bd07bbe7218ed5b11a2e9e5b5d29c912c750a7529e50fc44daf8c762f21f3c",
-  "text_sha256": "820a532a7b2c2946807322a8197d1a8e9ac666f2177ecb0125eee8d63d3be033",
-  "byte_size": 42413,
+  "fetched_at": "2026-08-08T08:25:34Z",
+  "html_sha256": "ed7df78a2bce521894be62b80ff230baca41688f32bb25aadbe83398b6b6fb07",
+  "text_sha256": "afb771307f5ac8f770e253e68ae198c75ba06b157143a18e9866fad80b935326",
+  "byte_size": 42478,
   "title": "Home Page - Coryell County",
   "error": null
 }

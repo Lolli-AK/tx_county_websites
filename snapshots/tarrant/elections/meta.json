@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-07T08:44:08Z",
-  "html_sha256": "dbd52efa93b40bf5f02560b8b719594e43cc34f16d8d8abde0270edeee8d8a17",
-  "text_sha256": "6d42d46e754bae120e9a5d974833556d75f015835732e899d4506b819c554d49",
-  "byte_size": 175826,
+  "fetched_at": "2026-08-08T08:25:34Z",
+  "html_sha256": "3ef7c4b21820a7e2edd1b36101c781188e91c6e61bf6d3f3ecdb2232c4fd32c5",
+  "text_sha256": "c25a59dda49d55ea9d9c643a8871c3d6f902cc5aeecaa6b1d1e68df3f816e660",
+  "byte_size": 175980,
   "title": "Elections",
   "error": null
 }

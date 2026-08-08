@@ -63,7 +63,7 @@ November 2026 General Election Order of General Election – LCAD
 November 2026 General Election Joint Election Resolution – LCAD
 August 2026 City of Lubbock Special Election Runoff
 August 2026 City of Lubbock Special Runoff Election Unofficial Results
-August 2026 City of Lubbock Special Runoff Election Unofficial Preliminary Election Reconciliation Totals
+August 2026 City of Lubbock Special Runoff Election Official Election Reconciliation Totals
 August 2026 City of Lubbock Special Runoff Election Notice of Post Election Hand Count Audit
 August 2026 City of Lubbock Special Runoff Election Notice of Designation of Early Voting Ballot Board Members for the Post Election Hand Count Audit
 August 2026 City of Lubbock Special Runoff Election Notice of Runoff Election
@@ -83,7 +83,7 @@ August 2026 City of Lubbock Special Runoff Election Notice of Delivery of Early 
 August 2026 City of Lubbock Special Runoff Election Notice of Delivery of Ballots Voted by Mail
 June 2026 City of Lubbock Special Election
 June 2026 City of Lubbock Special Election Official Results
-June 2026 City of Lubbock Special Election Official Preliminary Election Reconciliation Totals
+June 2026 City of Lubbock Special Election Official Election Reconciliation Totals
 June 2026 City of Lubbock Special Election Early Voting and Election Day Rosters
 June 2026 City of Lubbock Special Election Certification of Post Election Hand Count Audit
 June 2026 City of Lubbock Special Election Notice of Post Election Hand Count Audit
@@ -103,8 +103,8 @@ Information on Photo ID
 Hart Verity Voting System
 Please enable voterstats plugin
 Registered Voters
-as of 05/13/2026
-200,329
+as of 08/07/2026
+201,272
 Upcoming Events
 There are no current events
 Elections Office

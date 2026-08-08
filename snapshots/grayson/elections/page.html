@@ -22,6 +22,86 @@
     <div class="outercontainer floatleft topnavcolor clearfix" id="topnavwrapper">
      <div class="innercontainer clearfix no-border no-margin" id="topnav">
       <input id="hdnModifiedDate" type="hidden"/>
+      <div class="rltbOverlay">
+      </div>
+      <div class="RadLightBox RadLightBox_Default lb_feedback" id="ctl00_CP1_DocumentLightBox">
+       <div class="rltbGlowEffect">
+       </div>
+       <div class="rltbClose">
+        <button class="rltbActionButton rltbCloseButton" title="Close" type="button">
+         <span class="rltbIcon rltbCloseIcon">
+         </span>
+         <span class="rltbButtonText">
+          Close
+         </span>
+        </button>
+       </div>
+       <div class="rltbWrapper">
+        <div class="rltbItemBox">
+         <input class="rltbActionButton rltbPrevButton" id="ctl00_CP1_DocumentLightBox_PrevButton" name="ctl00$CP1$DocumentLightBox$PrevButton" title="Prev" type="submit" value="Prev"/>
+         <div class="rltbItemTemplate">
+          <div class="securityheader">
+           <img alt="Security Icon" src="/runtime/images/ezlock.png"/>
+           <br/>
+           This Resource Requires Authentication!
+          </div>
+          <div class="securitypop">
+           <div class="securitytxt">
+            Username:
+           </div>
+           <input aria-label="Username" id="txtDownName" name="txtDownName" type="text"/>
+           <br/>
+           <div class="securitytxt">
+            Password:
+           </div>
+           <input aria-label="Password" autocomplete="off" id="txtDownPwd" name="txtDownPwd" type="password"/>
+           <input id="hdnDNW" name="hdnDNW" type="hidden"/>
+           <input id="hdnDNS" name="hdnDNS" type="hidden"/>
+           <input id="hdnDNR" name="hdnDNR" type="hidden"/>
+           <input id="hdnDNN" name="hdnDNN" type="hidden"/>
+           <input class="button" onclick="SubmitLightBox()" type="button" value="Submit"/>
+          </div>
+          <div id="msgLightBox">
+           Login failed! Please try again.
+          </div>
+         </div>
+         <img alt="LightBox Active Image" class="rltbActiveImage" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D"/>
+         <input class="rltbActionButton rltbNextButton" id="ctl00_CP1_DocumentLightBox_NextButton" name="ctl00$CP1$DocumentLightBox$NextButton" type="submit" value="Next"/>
+        </div>
+        <div class="rltbDescriptionBox rltbDescBottom">
+         <span class="rltbTitle">
+         </span>
+         <div class="rltbDescription">
+         </div>
+         <span class="rltbPager">
+          Image 1 of 1
+         </span>
+         <div class="rltbToolbar">
+          <button class="rltbActionButton rltbMaximizeButton" title="Maximize image" type="button">
+           <span class="rltbIcon rltbMaximizeIcon">
+           </span>
+           <span class="rltbButtonText">
+            Maximize image
+           </span>
+          </button>
+          <button class="rltbActionButton rltbRestoreButton" title="Restore" type="button">
+           <span class="rltbIcon rltbRestoreIcon">
+           </span>
+           <span class="rltbButtonText">
+            Restore image
+           </span>
+          </button>
+         </div>
+        </div>
+       </div>
+       <div class="RadAjax RadAjax_Default" id="ctl00_CP1_DocumentLightBox_LoadingPanel">
+        <div class="raDiv">
+        </div>
+        <div class="raColor raTransp">
+        </div>
+       </div>
+       <input id="ctl00_CP1_DocumentLightBox_ClientState" name="ctl00_CP1_DocumentLightBox_ClientState" type="hidden"/>
+      </div>
       <div class="widgettable">
        <div class="widgetitem vertical-align-layout" id="CP1_CR1_WB_0">
         <div class="ezlayout2">
@@ -1763,10 +1843,84 @@
             </span>
            </p>
            <p>
+           </p>
+           <h3>
             <span>
-             Notices (Coming Soon)
-             <br/>
+             <strong>
+              <br/>
+             </strong>
             </span>
+            <strong>
+            </strong>
+           </h3>
+          </div>
+         </div>
+         <div class="widgetitem" id="CP4_CR4_WB_3">
+          <div class="eztoggleWrapper">
+           <ul class="accordion css-accordion">
+            <li class="accordion-item">
+             <button aria-describedby="instructions" class="accordion-item-input accordion-item-hd" id="CP4_CR4_ctl00_3_chkToggle_3" name="accordion" type="button">
+              <span id="CP4_CR4_ctl00_3_lblTitle_3">
+               <h6>
+                <span class="accordion-title">
+                 Notices - General Election Nov. 3, 2026
+                </span>
+               </h6>
+              </span>
+              <span aria-hidden="true" class="accordion-item-hd-cta">
+               ▲
+              </span>
+             </button>
+             <div class="accordion-item-bd">
+              <div class="widgettable">
+               <div class="widgetitem" id="CP4_CR4_ctl00_3_ContentRepeater1_3_WB_0">
+                <div class="DocumentManager" id="CP4_CR4_ctl00_3_ContentRepeater1_3_ctl00_0_divDoc_0">
+                 <div class="RadTreeView RadTreeView_Metro" id="ctl00_CP4_CR4_ctl03_ctl00_ContentRepeater1_ctl00_ctl00_RadTreeView1">
+                  <ul class="rtUL rtLines">
+                   <li class="rtLI rtFirst rtLast">
+                    <div class="rtTop">
+                     <span class="rtSp">
+                     </span>
+                     <img alt="" class="rtImg" src="/runtime/images/ico_pdf.png"/>
+                     <a class="rtIn" href="/page/open/3885/0/Grayson%20CAD_Order%20of%20Election_11-03-2026.pdf" target="_blank">
+                      Grayson CAD_Order of Election_11-03-2026.pdf
+                     </a>
+                    </div>
+                   </li>
+                  </ul>
+                  <div id="ctl00_CP4_CR4_ctl03_ctl00_ContentRepeater1_ctl00_ctl00_RadTreeView1_RadTreeView1Menu" tabindex="0">
+                   <div class="RadMenu RadMenu_Metro RadMenu_Context RadMenu_Metro_Context">
+                    <ul class="rmActive rmVertical rmGroup rmLevel1">
+                     <li class="rmItem rmFirst rmLast">
+                      <a class="rmLink DocumentManagerDownloadImg" href="#">
+                       <img alt="" class="rmLeftImage" src="/runtime/images/ico_dwnload.png"/>
+                       <span class="rmText">
+                        Download file
+                       </span>
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                   <input id="ctl00_CP4_CR4_ctl03_ctl00_ContentRepeater1_ctl00_ctl00_RadTreeView1_RadTreeView1Menu_ClientState" name="ctl00_CP4_CR4_ctl03_ctl00_ContentRepeater1_ctl00_ctl00_RadTreeView1_RadTreeView1Menu_ClientState" type="hidden"/>
+                  </div>
+                  <input id="ctl00_CP4_CR4_ctl03_ctl00_ContentRepeater1_ctl00_ctl00_RadTreeView1_ClientState" name="ctl00_CP4_CR4_ctl03_ctl00_ContentRepeater1_ctl00_ctl00_RadTreeView1_ClientState" type="hidden"/>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </li>
+           </ul>
+           <p aria-live="polite" class="sr-only" id="announce">
+           </p>
+           <p class="sr-only" id="instructions">
+            Press the enter key or spacebar to expand or collapse the accordion
+           </p>
+          </div>
+         </div>
+         <div class="widgetitem" id="CP4_CR4_WB_4">
+          <div class="eztext_area">
+           <p>
            </p>
            <ul>
             <li>
@@ -1799,15 +1953,6 @@
            </ul>
            <p>
            </p>
-           <h3>
-            <span>
-             <strong>
-              <br/>
-             </strong>
-            </span>
-            <strong>
-            </strong>
-           </h3>
           </div>
          </div>
         </div>

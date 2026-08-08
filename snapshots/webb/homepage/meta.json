@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-07T08:44:08Z",
-  "html_sha256": "2f635972ebb7db234db28bd510ab697d0dd144a77902c43c34e33c233c4e37ab",
+  "fetched_at": "2026-08-08T08:25:34Z",
+  "html_sha256": "7eb8f5a9e93076e4c6cbefac60fd1756d61aff3b7aef2e6e42c41f3907cada1d",
   "text_sha256": "442ef5a013ea1af46d015d767e97d977a51a758a62a4eeeebcedea2658618a71",
-  "byte_size": 25549,
+  "byte_size": 25521,
   "title": "Official Site of Webb County",
   "error": null
 }

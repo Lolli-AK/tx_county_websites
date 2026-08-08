@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-07T08:44:08Z",
-  "html_sha256": "50e405979697fce88d401a2667275f0724642236963b1346ef8398cddcc3265c",
-  "text_sha256": "707aafd1659a1f42b8fe7bdbfa9ecf8c39ac94bf3abeab272c69c5b4e47609e1",
-  "byte_size": 20515,
+  "fetched_at": "2026-08-08T08:25:34Z",
+  "html_sha256": "effdaaeada3d681556fcf4d6b525de55f5f7c82f40bfb3db422681e91fac76da",
+  "text_sha256": "b1c43f0abf92d663480ecf4f34019fe20119a64ab5772d21c2cc831660966a6a",
+  "byte_size": 21473,
   "title": "Menard County, Texas",
   "error": null
 }

@@ -210,11 +210,24 @@ Falls City ISD
 Karnes City ISD
 Pawnee ISD
 Pettus ISD
+Nixon-Smiley ISD
 Precinct by Precinct Results
 Post Election Hand Count Results
 Total Votes Cast at each Polling Location
 ORDERS & NOTICES
+Order of Election
+- County
+Falls City ISD
+Karnes City ISD
+Nixon-Smiley ISD
+Pawnee ISD
+Pettus ISD
 Notice of Election
+Falls City ISD
+Karnes City ISD
+Nixon-Smiley ISD
+Pawnee ISD
+Pettus ISD
 Notice of Voting Order Priority
 Notice of Public Test of LAT, Electronic Voting
 System, E=-Pollbook and HASH Testing -
