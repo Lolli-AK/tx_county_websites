@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-08T08:25:34Z",
-  "html_sha256": "f10b64d2878d0ac92fce087a7d4776e5a1f5a531ca9703093b6483b494d7ea1a",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-08-09T08:27:36Z",
+  "html_sha256": "64b851f901f42e9c81134bd8bfe42ce171afb3e3fbc62bba78414055f2ae957a",
+  "text_sha256": "e39f51528a28341cb3957caf0f2cccaea1bd517ff3919e462fa52918a2d15129",
+  "byte_size": 6581,
+  "title": "Voting Information for Dallam County, Texas",
   "error": null
 }

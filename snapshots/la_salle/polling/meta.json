@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-08T08:25:34Z",
-  "html_sha256": "cd9303b0659ae5ab58d81de8630696b434c536f39bb880c6f786d4c025eccc57",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-08-09T08:27:36Z",
+  "html_sha256": "52a980b82f592cc98aadadb657bc02da610b1347944a3f9d22a351e043311b62",
+  "text_sha256": "7b27ac5ceffe250d58e2f1cb0bad445597363e827e9f1d945a3f4e3a21090b91",
+  "byte_size": 83323,
+  "title": "General Election for November 8, 2022",
   "error": null
 }

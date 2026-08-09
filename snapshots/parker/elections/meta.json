@@ -2,18 +2,19 @@
   "county": "Parker",
   "page_type": "elections",
   "requested_url": "https://www.parkercountytx.gov/Directory.aspx?did=43",
-  "final_url": "https://www.parkercountytx.gov/Directory.aspx?did=43",
+  "final_url": "https://www.parkercountytx.gov/m/directory/department?did=43",
   "redirect_chain": [
-    "https://www.parkercountytx.gov/Directory.aspx?did=43"
+    "https://www.parkercountytx.gov/Directory.aspx?did=43",
+    "https://www.parkercountytx.gov/m/directory/department?did=43"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-08T08:25:34Z",
-  "html_sha256": "3c750e233f3f91058511b1031f01f90d27ff1d7869e9b0dae594aaf10f6b3cfc",
-  "text_sha256": "8949f44d52c94a1ad262571ec4e9418fce0801de34f99d61c4db02650fa7ed2c",
-  "byte_size": 45684,
-  "title": "Staff Directory • Elections",
+  "fetched_at": "2026-08-09T08:27:36Z",
+  "html_sha256": "7e071f56b174c47608f2c0965d7b2ebd777e1254c14176a61dfeaa5394e44453",
+  "text_sha256": "c43ad5311bbd2e94ac2a2aaaaea924ae8f0f1b4e55c71f545ef8691451c3b6e9",
+  "byte_size": 44948,
+  "title": null,
   "error": null
 }

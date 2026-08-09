@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-08T08:25:34Z",
-  "html_sha256": "cd9303b0659ae5ab58d81de8630696b434c536f39bb880c6f786d4c025eccc57",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-08-09T08:27:36Z",
+  "html_sha256": "9acc8641b24cc43a4eed46c4b402f66d88f7df97ed7aac0a8f387b8c3cac95e5",
+  "text_sha256": "7d31966d602c7f63d9eed1d067bff0f5af29a561e6f0f487d0662c6aca2cae20",
+  "byte_size": 61883,
+  "title": "March 2020 Primary Election Results",
   "error": null
 }

@@ -314,7 +314,7 @@
                    <div class="input-group">
                     <input aria-label="Search Input" asp-for="SearchTerms" class="form-control rounded-pill border search-input" hx-get="/m/faq" hx-include="[name='cat']" hx-push-url="true" hx-swap="outerHTML" hx-target="#main-wrapper" hx-trigger="change" id="search-input" name="searchTerms" placeholder="Search and discover questions" type="search" value=""/>
                     <span class="input-group-append position-absolute module-search end-0">
-                     <button aria-label="Search" class="btn btn-outline-secondary btn-search rounded-pill border-0 shadow-none" type="button">
+                     <button aria-label="Search" class="btn btn-outline-secondary btn-search rounded-pill border-0 shadow-none" hx-get="/m/faq" hx-include="[name='cat']" hx-push-url="true" hx-swap="outerHTML" hx-target="#main-wrapper" type="button">
                      </button>
                     </span>
                    </div>
