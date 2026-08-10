@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-09T08:27:36Z",
-  "html_sha256": "19fac6f7c3c2f6dbf854c0f6b86091b4954fb7f0a57b6eb9a9456edf2879c427",
+  "fetched_at": "2026-08-10T09:04:30Z",
+  "html_sha256": "53de4f891de0069b76969b9faedda5e9c1286ffc6d0c2fdac4b52d52a73e6a16",
   "text_sha256": "c2dff3b82791da094b33b53462a640a52c1d03a1693e1c53c9c8b936a79ea5df",
-  "byte_size": 131500,
+  "byte_size": 131913,
   "title": "Election Polling Locations & Times – Jefferson County, Texas",
   "error": null
 }

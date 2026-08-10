@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-09T08:27:36Z",
-  "html_sha256": "d022e5f4e51ce9c1d9bea1b2345d8065a48bee9a6c6bcc08d4e7ad53970abad0",
+  "fetched_at": "2026-08-10T09:04:30Z",
+  "html_sha256": "6cfbcc8ceb0172337b58e43bf4ad83d388b2774d0c160fe79284aa8c6d849d77",
   "text_sha256": "4e812ab134bd84adbffd9842b9a3c2185505f9f5a3c6af9558271e97e44fff38",
-  "byte_size": 113557,
+  "byte_size": 113515,
   "title": "Election Results – Dallas County Elections Department",
   "error": null
 }
