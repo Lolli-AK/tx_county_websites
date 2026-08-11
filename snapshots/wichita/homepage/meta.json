@@ -2,16 +2,16 @@
   "county": "Wichita",
   "page_type": "homepage",
   "requested_url": "https://wichitacountytx.com/",
-  "final_url": "https://wichitacountytx.com/.well-known/sgcaptcha/?r=%2F&y=ipc:68.154.118.242:1786352938.108",
+  "final_url": "https://wichitacountytx.com/.well-known/sgcaptcha/?r=%2F&y=ipr:52.176.138.180:1786437998.165",
   "redirect_chain": [
     "https://wichitacountytx.com/",
-    "https://wichitacountytx.com/.well-known/sgcaptcha/?r=%2F&y=ipc:68.154.118.242:1786352938.108"
+    "https://wichitacountytx.com/.well-known/sgcaptcha/?r=%2F&y=ipr:52.176.138.180:1786437998.165"
   ],
   "http_status": 202,
   "content_type": "text/html",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-10T09:04:30Z",
+  "fetched_at": "2026-08-11T08:41:57Z",
   "html_sha256": "cf384ca8f4bb9fdb8f5b63e868397175c6a17d3c23571204af3d974f3364e71e",
   "text_sha256": "c44599aa9f5ccab668954a743bdd2d02e1860f8e998d2a44f9feac7163f74200",
   "byte_size": 917,

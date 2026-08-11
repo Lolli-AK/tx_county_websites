@@ -62,195 +62,9 @@ Application to Register to Vote
 ** PRINT OUT, COMPLETE, SIGN AND MAIL TO ADDRESS ABOVE **
 Public Information Request Price List
 Application for Public Information Request
-MAY 26, 2026 PRIMARY RUN OFF ELECTIONS
+NOVEMBER 3, 2026 GENERAL ELECTION
 ▲
-COUNTY-WIDE ELECTION DAY VOTE CENTERS
-- OPEN
-7AM-7PM
-ELECTION DAY
-Democratic Sample Ballot
-Republican Sample Ballot
-Daily Early Voting Rosters:
-Democratic Primary Run Off
-5/18/26
-5/19/26
-5/20/26
-5/21/26
-5/22/26
-Republican Primary Run Off
-5/18/26
-5/19/26
-5/20/26
-5/21/26
-5/22/26
-Election Day Voting Rosters:
-Democratic
-Republican
-Post Election:
-Preliminary Election Reconciliation - Unofficial Results
-Election Reconciliation - Official Totals (Canvass Form)
-Reconciliation of Total Votes Cast at Each Polling Location
-Notice of Post-Election Hand Count Audit
-Summary and Certification of Post-Election Hand Count Audit Results - Democratic
-Summary and Certification of Post-Election Hand Count Audit Results - Republican
-NOTICES:
-NOTICE OF DEMOCRATIC PRIMARY RUN OFF CANVASS
-NOTICE OF REPUBLICAN PRIMARY RUN OFF CANVASS
-NOTICE OF DEMOCRATIC RUN OFF ELECTION
-NOTICE OF REPUBLICAN RUN OFF ELECTION
-PUBLIC NOTICE OF PUBLIC LOGIC AND ACCURACY TEST AND FIRST TEST OF AUTOMATIC TABULATING EQUIPMENT
-CERTIFICATION OF L&A TEST #1
-Public Notice of Logic and Accuracy Test of Electronic Pollbook Equipment
-Certification of Logic and Accuracy Test of Electronic Pollbook Equipment
-Certification of Second Test of Automatic Tabulating Equipment Used at the Central Counting Station
-Certification of Third Test of Automatic Tabulating Equipment Used at the Central Counting Station
-MAY 2, 2026 LOCAL ELECTIONS
-▲
-EARLY VOTING DAILY & ELECTION DAY ROSTERS:
-Mexia ISD
-4/20/26
-4/22/26
-4/23/26
-4/24/26
-4/27/26
-4/28/26
-5/2/26
-City of Mexia
-4/20/26
-4/22/26
-4/23/26
-4/24/26
-4/27/26
-4/28/26
-5/2/26
-Groesbeck ISD
-4/20/26
-4/22/26
-4/23/26
-4/24/26
-4/27/26
-4/28/26
-5/2/26
-City of Groesbeck
-4/20/26
-4/22/26
-4/23/26
-4/24/26
-4/27/26
-4/28/26
-5/2/26
-City of Coolidge
-4/20/26
-4/22/26
-4/23/26
-4/24/26
-4/27/26
-4/28/26
-5/2/26
-City of Tehuacana
-4/20/26
-4/22/26
-4/23/26
-4/24/26
-4/27/26
-4/28/26
-5/2/26
-Absentee - Returned
-SAMPLE BALLOT
-Post-Election Hand Count Audit Summary & Results
-GROESBECK ISD RECONCILIATION OF  TOTAL VOTES CAST
-CITY OF GROESBECK RECONCILIATION OF  TOTAL VOTES CAST
-MEXIA ISD RECONCILIATION OF  TOTAL VOTES CAST
-CITY OF MEXIA RECONCILIATION OF  TOTAL VOTES CAST
-CITY OF COOLIDGE RECONCILIATION OF  TOTAL VOTES CAST
-Notices:
-NOTICE OF POST-ELECTION HAND COUNT AUDIT
-PUBLIC NOTICE OF PUBLIC LOGIC AND ACCURACY TEST AND FIRST TEST OF AUTOMATIC TABULATING EQUIPMENT
-CERTIFICATION OF  PUBLIC LOGIC AND ACCURACY  TEST  AND FIRST TEST OF AUTOMATIC TABULATING EQUIPMENT
-Certification of Second Test of Automatic Tabulating Equipment Used at the Central Counting Station
-Certification of Third Test of Automatic Tabulating Equipment Used at the Central Counting Station
-Groesbeck ISD Notice of Election
-City of Groesbeck Notice of Election
-Mexia ISD Notice of Election
-City of Mexia Notice of Election
-City of Tehuacana Notice of Election
-City of Coolidge Notice of Election
-Hubbard ISD Notice of Election
-MARCH 3, 2026
-PRIMARY ELECTIONS
-▲
-Canvass Results:
-Democratic
-Final Results (summary)
-Republican
-Final Results (summary)
-Democratic
-Final Results (precinct)
-Republican
-Final Results (precinct)
-Democratic
-Precinct Box x Box Report
-Republican Precinct Box x Box Report
-Voter Turnout:
-Turnout - Poll Place/Party
-Reconciliation:
-Preliminary Election Reconciliation Form (Election Day)
-Reconciliation of Total Votes Cast at Each Polling Location
-Election Reconciliation - Official Totals Canvass
-Post Election Hand Count Audit Summary & Certification
-Election Day Voting Rosters:
-Democratic Primary 3/3/2026
-Republican Primary 3/3/2026
-Daily Early Voting Rosters:
-Democratic Primary
-02/17/2
-6
-02/18/26
-02/19/26
-02/20/26
-02/21/26
-02/22/26
-02/23/26
-02/24/26
-02/25/26
-02/26/26
-02/27/26
-Republican Primary
-02/17/2
-6
-02/18/26
-02/19/26
-02/20/26
-02/21/26
-02/22/26
-02/23/26
-02/24/26
-02/25/26
-02/26/26
-02/27/26
-Early by Mail Rosters -
-Cumulative
-EARLY VOTING PERSONAL APPEARANCE - Places, Days & Times
-COUNTY-WIDE ELECTION DAY VOTE CENTERS
-- OPEN
-7AM-7PM
-ELECTION DAY
-SAMPLE BALLOTS:
-DEMOCRATIC
-REPUBLICAN
-NOTICES:
-NOTICE OF DEMOCRATIC PARTY COUNTY CONVENTION
-NOTICE OF REPUBLCIAN PARTY COUNTY CONVENTION
-Notice of Democratic Primary Canvass
-Notice of Republican Primary Canvass
-Notice of Post Election Hand Count Audit
-Certification of L&A Test #1
-Notice of Ballot Drawing - Republican Party
-Notice of Election - Democratic Primary
-Notice of Election - Republican Primary
-NOTICE OF LOGIC & ACCURACY TESTING
-Notice of Candidate Filing Deadline - Democratic
-Notice of Candidate Filing Deadline - Republican
+ORDER OF ELECTION
 VOTING IN PERSON
 ▲
 Resolution Adopting EVS 6300 Voting System
@@ -461,6 +275,197 @@ ARCHIVED ELECTIONS
 ▲
 ARCHIVED ELECTION RESULTS
 (← click here to see Historical Election Results)
+MAY 26, 2026 PRIMARY RUN OFF ELECTIONS
+▲
+COUNTY-WIDE ELECTION DAY VOTE CENTERS
+- OPEN
+7AM-7PM
+ELECTION DAY
+Democratic Sample Ballot
+Republican Sample Ballot
+Daily Early Voting Rosters:
+Democratic Primary Run Off
+5/18/26
+5/19/26
+5/20/26
+5/21/26
+5/22/26
+Republican Primary Run Off
+5/18/26
+5/19/26
+5/20/26
+5/21/26
+5/22/26
+Election Day Voting Rosters:
+Democratic
+Republican
+Post Election:
+Preliminary Election Reconciliation - Unofficial Results
+Election Reconciliation - Official Totals (Canvass Form)
+Reconciliation of Total Votes Cast at Each Polling Location
+Notice of Post-Election Hand Count Audit
+Summary and Certification of Post-Election Hand Count Audit Results - Democratic
+Summary and Certification of Post-Election Hand Count Audit Results - Republican
+NOTICES:
+NOTICE OF DEMOCRATIC PRIMARY RUN OFF CANVASS
+NOTICE OF REPUBLICAN PRIMARY RUN OFF CANVASS
+NOTICE OF DEMOCRATIC RUN OFF ELECTION
+NOTICE OF REPUBLICAN RUN OFF ELECTION
+PUBLIC NOTICE OF PUBLIC LOGIC AND ACCURACY TEST AND FIRST TEST OF AUTOMATIC TABULATING EQUIPMENT
+CERTIFICATION OF L&A TEST #1
+Public Notice of Logic and Accuracy Test of Electronic Pollbook Equipment
+Certification of Logic and Accuracy Test of Electronic Pollbook Equipment
+Certification of Second Test of Automatic Tabulating Equipment Used at the Central Counting Station
+Certification of Third Test of Automatic Tabulating Equipment Used at the Central Counting Station
+MAY 2, 2026 LOCAL ELECTIONS
+▲
+EARLY VOTING DAILY & ELECTION DAY ROSTERS:
+Mexia ISD
+4/20/26
+4/22/26
+4/23/26
+4/24/26
+4/27/26
+4/28/26
+5/2/26
+City of Mexia
+4/20/26
+4/22/26
+4/23/26
+4/24/26
+4/27/26
+4/28/26
+5/2/26
+Groesbeck ISD
+4/20/26
+4/22/26
+4/23/26
+4/24/26
+4/27/26
+4/28/26
+5/2/26
+City of Groesbeck
+4/20/26
+4/22/26
+4/23/26
+4/24/26
+4/27/26
+4/28/26
+5/2/26
+City of Coolidge
+4/20/26
+4/22/26
+4/23/26
+4/24/26
+4/27/26
+4/28/26
+5/2/26
+City of Tehuacana
+4/20/26
+4/22/26
+4/23/26
+4/24/26
+4/27/26
+4/28/26
+5/2/26
+Absentee - Returned
+SAMPLE BALLOT
+Post-Election Hand Count Audit Summary & Results
+GROESBECK ISD RECONCILIATION OF  TOTAL VOTES CAST
+CITY OF GROESBECK RECONCILIATION OF  TOTAL VOTES CAST
+MEXIA ISD RECONCILIATION OF  TOTAL VOTES CAST
+CITY OF MEXIA RECONCILIATION OF  TOTAL VOTES CAST
+CITY OF COOLIDGE RECONCILIATION OF  TOTAL VOTES CAST
+Notices:
+NOTICE OF POST-ELECTION HAND COUNT AUDIT
+PUBLIC NOTICE OF PUBLIC LOGIC AND ACCURACY TEST AND FIRST TEST OF AUTOMATIC TABULATING EQUIPMENT
+CERTIFICATION OF  PUBLIC LOGIC AND ACCURACY  TEST  AND FIRST TEST OF AUTOMATIC TABULATING EQUIPMENT
+Certification of Second Test of Automatic Tabulating Equipment Used at the Central Counting Station
+Certification of Third Test of Automatic Tabulating Equipment Used at the Central Counting Station
+Groesbeck ISD Notice of Election
+City of Groesbeck Notice of Election
+Mexia ISD Notice of Election
+City of Mexia Notice of Election
+City of Tehuacana Notice of Election
+City of Coolidge Notice of Election
+Hubbard ISD Notice of Election
+MARCH 3, 2026
+PRIMARY ELECTIONS
+▲
+Canvass Results:
+Democratic
+Final Results (summary)
+Republican
+Final Results (summary)
+Democratic
+Final Results (precinct)
+Republican
+Final Results (precinct)
+Democratic
+Precinct Box x Box Report
+Republican Precinct Box x Box Report
+Voter Turnout:
+Turnout - Poll Place/Party
+Reconciliation:
+Preliminary Election Reconciliation Form (Election Day)
+Reconciliation of Total Votes Cast at Each Polling Location
+Election Reconciliation - Official Totals Canvass
+Post Election Hand Count Audit Summary & Certification
+Election Day Voting Rosters:
+Democratic Primary 3/3/2026
+Republican Primary 3/3/2026
+Daily Early Voting Rosters:
+Democratic Primary
+02/17/2
+6
+02/18/26
+02/19/26
+02/20/26
+02/21/26
+02/22/26
+02/23/26
+02/24/26
+02/25/26
+02/26/26
+02/27/26
+Republican Primary
+02/17/2
+6
+02/18/26
+02/19/26
+02/20/26
+02/21/26
+02/22/26
+02/23/26
+02/24/26
+02/25/26
+02/26/26
+02/27/26
+Early by Mail Rosters -
+Cumulative
+EARLY VOTING PERSONAL APPEARANCE - Places, Days & Times
+COUNTY-WIDE ELECTION DAY VOTE CENTERS
+- OPEN
+7AM-7PM
+ELECTION DAY
+SAMPLE BALLOTS:
+DEMOCRATIC
+REPUBLICAN
+NOTICES:
+NOTICE OF DEMOCRATIC PARTY COUNTY CONVENTION
+NOTICE OF REPUBLCIAN PARTY COUNTY CONVENTION
+Notice of Democratic Primary Canvass
+Notice of Republican Primary Canvass
+Notice of Post Election Hand Count Audit
+Certification of L&A Test #1
+Notice of Ballot Drawing - Republican Party
+Notice of Election - Democratic Primary
+Notice of Election - Republican Primary
+NOTICE OF LOGIC & ACCURACY TESTING
+Notice of Candidate Filing Deadline - Democratic
+Notice of Candidate Filing Deadline - Republican
+2024-2025 Elections
+▲
 RECENT ELECTION INFORMATION:
 NOVEMBER 4, 2025
 CONSTITUTIONAL AMENDMENT ELECTION

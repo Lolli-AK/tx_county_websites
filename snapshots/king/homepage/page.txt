@@ -41,8 +41,8 @@ King County VFD
 50th Probation Department
 Public Notice Calendar
 Financial Transparency
+2026-2027 Proposed Budget
 2025-2026 Adopted Budget
-2025-2026 Proposed Budget
 2023-2024 Adopted Budget
 2023-24 Propose Budget
 2022-23 Adopted Budget
@@ -146,6 +146,8 @@ Debt Report FY21
 2024 Debt Report
 2025 Dept Report
 2026 Dept report
+w026-2027 Proposed Budget
+2026-2027 Proposed Budget
 King County Historical Society
 County Cemeteries
 Budgets

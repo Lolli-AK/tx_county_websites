@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-10T09:04:30Z",
-  "html_sha256": "8d0f65fa7768fb7229d69b01549ade3c6241389ebef17d7aac3b86abbcffd74f",
-  "text_sha256": "03063cb301580e0fe0bbd49eefda68b42780a2b5446eb288f5b57be77ba03c89",
-  "byte_size": 137985,
+  "fetched_at": "2026-08-11T08:41:57Z",
+  "html_sha256": "eacf74cee0417e2f83f2871829773d39dcf8110df86cc1ad07b5b6f735d2ae0b",
+  "text_sha256": "3a1c4b7659adbd022a879afb7299d2e0e33bd7b82de37d07a79cea55f302f77d",
+  "byte_size": 150404,
   "title": "Limestone County Texas Elections",
   "error": null
 }

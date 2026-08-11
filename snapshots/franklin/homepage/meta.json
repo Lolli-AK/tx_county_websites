@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-10T09:04:30Z",
-  "html_sha256": "93ad97711a08f8df0be8734f18b82522d58b76b02df29ed1237ea43391d40b8d",
-  "text_sha256": "ad275be44ff1bbd270a8189b8646e1d9e66ad8544026c4450dc491ee70ff8f43",
-  "byte_size": 29414,
+  "fetched_at": "2026-08-11T08:41:57Z",
+  "html_sha256": "9ab9ab40e898d065d6dfe0ee3fbce87f2324409605b139ace38d75170b2a491b",
+  "text_sha256": "505c726152c4f95cfc4e38e26f455daeff5991048aff370c0989b4244170e5c0",
+  "byte_size": 30561,
   "title": "Franklin County, Texas",
   "error": null
 }
