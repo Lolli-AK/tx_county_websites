@@ -64,7 +64,62 @@ Public Information Request Price List
 Application for Public Information Request
 NOVEMBER 3, 2026 GENERAL ELECTION
 ▲
+Important Election Dates:
+Voter Registration Deadline:
+Monday, October 5, 2026
+Early Voting in Person Begins:
+Monday, October 19, 2026
+Last day for Elections Office to receive an Application for Ballot by Mail or Federal Post Card Application (FPCA):
+Friday, October 23, 2026
+Early Voting in Person Ends:
+Friday, October 30, 2026
+Election Day
+: Tuesday, November 3, 2026
+When & Where to Vote In Person:
+EARLY VOTING PLACES, DAYS & TIMES
+ELECTION DAY VOTE CENTERS
+~ Open 7am-7pm ELECTION DAY ONLY
+What's on the Ballot:
+SAMPLE BALLOT
+Daily Early Voting Rosters
+(coming soon)
+:
+10/19/2026  10/20/2026  10/21/2026  10/21/2026  10/22/2026  10/23/2026  10/24/2026
+10/25/2026  10/26/2026  10/26/2026  10/27/2026  10/28/2026  10/29/2026  10/30/2026
+Election Day Voting Roster
+(coming soon)
 ORDER OF ELECTION
+- NOVEMBER 3, 2026 GENERAL ELECTION
+NOTICES:
+Notice of Election
+Notice of Election Training
+Notice of Convening the Early Voting Ballot Board
+(coming soon)
+Notice of Delivery of Ballots Voted by Mail
+(coming soon)
+Notice of Delivery of Early Voting Balloting Materials
+(coming soon)
+Notice of Convening of Central Counting Station
+(coming soon)
+Logic & Accuracy Testing
+(coming soon)
+:
+Public Notice of Logic and Accuracy Test of Electronic Pollbook Equipment
+Certification of Logic and Accuracy Test of Electronic Pollbook Equipment
+Public Notice of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+Certification of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+Certification of Second Test of Automatic Tabulating Equipment Used at the Central Counting Station
+Certification of Third Test of Automatic Tabulating Equipment Used at the Central Counting Station
+Election Reconciliation
+(coming soon)
+:
+Preliminary Election Reconciliation Form (Election Day)
+Election Reconciliation - Official Totals (Canvass Form)
+Reconciliation of Total Votes Cast at Each Polling Location
+Post Election:
+(coming soon)
+Notice of Post-Election Hand Count Audit
+Post-Election Hand Count Audit Returns
 VOTING IN PERSON
 ▲
 Resolution Adopting EVS 6300 Voting System

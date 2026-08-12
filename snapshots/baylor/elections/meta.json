@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-11T08:41:57Z",
-  "html_sha256": "4b93f622aa88469ab36e313de24eb0d150517d452f44274efc82bb37ed7283d9",
-  "text_sha256": "9b69e15e7c33cc4437e6fe619e67a4da9d213721c60484f70a9dece857b7ee34",
-  "byte_size": 52734,
+  "fetched_at": "2026-08-12T08:58:03Z",
+  "html_sha256": "fa32eed56c5cc6043e929ab1b9785947d2da358d111ef1050b26cdaa5142df74",
+  "text_sha256": "b05314e8db0e94da61669e2fac4df2ec6e9d5e507bb7ecb503822d6ec81d758d",
+  "byte_size": 53790,
   "title": "Baylor County, Texas",
   "error": null
 }

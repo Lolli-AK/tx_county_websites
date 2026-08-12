@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-11T08:41:57Z",
-  "html_sha256": "45eac9cc37555d4db6b5af3d65dd9e7ebde2d6d14623b7196cc83daea4412157",
-  "text_sha256": "cecc63d6bc66556287504c6790976e64c19fea30a1b98b9b3de11e4aa8b3d899",
-  "byte_size": 75698,
+  "fetched_at": "2026-08-12T08:58:03Z",
+  "html_sha256": "81219be3e5d32404ac08cf50786268511f81aa87c5344a596324de04934f60ed",
+  "text_sha256": "5451930a7e83323290641725c46109279d7d7fa3a157dde11896516ab60c42e3",
+  "byte_size": 76102,
   "title": "Bell County, Texas",
   "error": null
 }

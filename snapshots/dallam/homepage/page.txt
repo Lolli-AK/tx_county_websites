@@ -21,6 +21,8 @@ Sub Division Regs
 Search the Site
 August 10, 2026 Meeting Agenda
 2026 Tax Calculations
+Dallam County Proposed Tax Rate
+FPC Dalhart Proposed Tax Rate
 Choose a Category to Explore:
 Departments
 Voting/Votacion
@@ -35,4 +37,4 @@ All Rights Reserved
 WCR Design
 Visitor #: [an error occurred while processing this directive]
 Couldn't open /www/dallam/cgi-bin/dan_o.dat so I'm bugging out..
-Last Modified: Tuesday, 04-Aug-2026 15:11:34 EDT
+Last Modified: Tuesday, 11-Aug-2026 15:26:58 EDT
