@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-12T08:58:03Z",
-  "html_sha256": "b160a9fae34dddd5a4b77e1b3ad4e0efccc7ab933b53a21444d26029ae69f9a4",
-  "text_sha256": "5544ab4b5f598de892192c0d65f422adad8764745b7e75c6575cdd642676adbd",
-  "byte_size": 106926,
+  "fetched_at": "2026-08-13T08:59:45Z",
+  "html_sha256": "ab402ce40a1b622412287ff21fb8f984cf64309bf01f052b79ec98523dde0c44",
+  "text_sha256": "ace86b2ccf21691235dca321caab1fdef7668a1ee6942bd43bdc4e3e76561b65",
+  "byte_size": 107635,
   "title": "TBA | Johnson County, TX",
   "error": null
 }

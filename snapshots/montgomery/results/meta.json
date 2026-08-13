@@ -10,9 +10,9 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-12T08:58:03Z",
-  "html_sha256": "3e325e582fbbd53cca4fc36c4b38c4f0051e0870d3735df85994f5f57049cd5f",
-  "text_sha256": "6db0f195f3350100da501dcabe8fbe25a0bc217923988695e6647f98e789fd56",
+  "fetched_at": "2026-08-13T08:59:45Z",
+  "html_sha256": "ddfb28c5e9152395bb68f5a11d187b14ab4721b2ed29698354c2a557eeae25ac",
+  "text_sha256": "1f756c940ab7c5d3e8a200c6b830dabb0f839b6f0fc8a45f2082e95740595708",
   "byte_size": 119352,
   "title": "Montgomery County Elections Results Archive",
   "error": null

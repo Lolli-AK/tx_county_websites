@@ -54,6 +54,26 @@
   <div class="outer-wrap" id="outer-wrap">
    <div class="inner-wrap" id="inner-wrap">
     <div class="cpToolbars newCP mui-fixed" id="divToolbars">
+     <div class="alertToolbar cpToolbar" id="1_divAlertBar">
+      <div class="alertToolbarInner" id="1_divAlertToolbarInner">
+       <a class="alertText" href="/AlertCenter.aspx" id="1_lnkAlertText">
+        <img alt="Emergency Alert" class="redDot" id="1_imgDot" src="/Common/Images/AlertCenter/alertBarBlink.svg"/>
+        <span class="customAlert" id="1_customAlert">
+         Public Notice
+        </span>
+       </a>
+       <span class="alertContainer" id="1_spnAlertContainer">
+        <a class="alert" href="/AlertCenter.aspx?AID=RED-FLAG-WARNING-HIGH-Fire-Danger-289" target="_self">
+         RED FLAG WARNING – HIGH Fire Danger
+         <span>
+          No outdoor burning allowed until further notice
+         </span>
+        </a>
+       </span>
+      </div>
+     </div>
+     <div class="alertBarEmpty" id="1_divAlertBarEmpty">
+     </div>
      <div class="cpToolbar user public">
       <div class="inner selfClear">
        <p class="dropdown">
@@ -1887,14 +1907,14 @@ Saturday
                              </time>
                             </span>
                            </td>
-                           <td class="today">
+                           <td>
                             <span>
                              <time datetime="2026-08-12">
                               12
                              </time>
                             </span>
                            </td>
-                           <td>
+                           <td class="today">
                             <span>
                              <time datetime="2026-08-13">
                               13
@@ -1960,20 +1980,20 @@ Saturday
                             </a>
                            </td>
                            <td>
-                            <a href="/calendar.aspx?view=list&amp;year=2026&amp;month=8&amp;day=22&amp;CID=28%2C14%2C36%2C25%2C29%2C33%2C38" tabindex="0">
+                            <span>
                              <time datetime="2026-08-22">
                               22
                              </time>
-                            </a>
+                            </span>
                            </td>
                           </tr>
                           <tr>
                            <td>
-                            <a href="/calendar.aspx?view=list&amp;year=2026&amp;month=8&amp;day=23&amp;CID=28%2C14%2C36%2C25%2C29%2C33%2C38" tabindex="0">
+                            <span>
                              <time datetime="2026-08-23">
                               23
                              </time>
-                            </a>
+                            </span>
                            </td>
                            <td>
                             <a href="/calendar.aspx?view=list&amp;year=2026&amp;month=8&amp;day=24&amp;CID=28%2C14%2C36%2C25%2C29%2C33%2C38" tabindex="0">
@@ -2020,11 +2040,11 @@ Saturday
                           </tr>
                           <tr>
                            <td>
-                            <a href="/calendar.aspx?view=list&amp;year=2026&amp;month=8&amp;day=30&amp;CID=28%2C14%2C36%2C25%2C29%2C33%2C38" tabindex="0">
+                            <span>
                              <time datetime="2026-08-30">
                               30
                              </time>
-                            </a>
+                            </span>
                            </td>
                            <td>
                             <a href="/calendar.aspx?view=list&amp;year=2026&amp;month=8&amp;day=31&amp;CID=28%2C14%2C36%2C25%2C29%2C33%2C38" tabindex="0">
@@ -2341,14 +2361,14 @@ Saturday
                              </time>
                             </span>
                            </td>
-                           <td class="today">
+                           <td>
                             <span>
                              <time datetime="2026-08-12">
                               12
                              </time>
                             </span>
                            </td>
-                           <td>
+                           <td class="today">
                             <span>
                              <time datetime="2026-08-13">
                               13

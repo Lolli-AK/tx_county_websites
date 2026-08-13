@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-12T08:58:03Z",
-  "html_sha256": "31414de0f7bbe13520af3c0cdbb00e0aee85ab21fd9678e82fa7314c2ffe3ab1",
-  "text_sha256": "0363a6d1b603a6d24de24b4a43d02014daf00d553f387a40f0d02e3414b3474a",
-  "byte_size": 81125,
+  "fetched_at": "2026-08-13T08:59:45Z",
+  "html_sha256": "e701c2a19ef4b48f2e06edf4fa0a5949725b1c306e9e32f44772152a46ad7394",
+  "text_sha256": "e5e4295a257fee8adb66d58329f819ce37e6333cf250aee034d9637cdca1ba68",
+  "byte_size": 81362,
   "title": "Early Voting Information | Ellis County, TX Official Website",
   "error": null
 }

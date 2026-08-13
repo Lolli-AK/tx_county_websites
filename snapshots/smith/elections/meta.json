@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-12T08:58:03Z",
-  "html_sha256": "d4b13dc964cecfd577debe07ec5df09383991b45340b11477456e46745946c7b",
-  "text_sha256": "4daf145a3821b2d7e7426956531b785cf4cf40747c972ba859220bd699d4d721",
-  "byte_size": 62970,
+  "fetched_at": "2026-08-13T08:59:45Z",
+  "html_sha256": "635fe8049af173023a4ae1a1f5c34ebb6b8441621ff98184752413f2cf0b0045",
+  "text_sha256": "3d3f84d04971ef6dd6e5f3f066a7da3b63f7db8d5ac1bcc33a4546cbf6b56a16",
+  "byte_size": 63839,
   "title": "Voter Registration | Smith County, TX",
   "error": null
 }

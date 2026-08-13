@@ -10,9 +10,9 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-12T08:58:03Z",
-  "html_sha256": "96397b88f1780a740941ac9570a63077fe5ad514f9f4381bea84b834219de7c7",
-  "text_sha256": "2032c9fc5f34098648fa5438a2600295ad90f7382b58e21a311a77bdd262eb79",
+  "fetched_at": "2026-08-13T08:59:45Z",
+  "html_sha256": "2e5e48f466e61aebe0f90555b178f4b083ed412cfafb2ecb7de01064a91a7d24",
+  "text_sha256": "b4f076c9a3e645773a8796973ed519b2ec0faa29ff65d609b00a897cd3bf1fea",
   "byte_size": 23748,
   "title": null,
   "error": null

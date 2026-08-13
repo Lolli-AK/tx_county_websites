@@ -146,11 +146,3 @@ Voter ID (VUID)
 Search
 After you click the Search button, a list of matching names will appear below. You MUST click on your name to view your voter information and Sample Ballot (if available).
 Williamson County Elections
-This is provided as a service to Williamson County and all information presented is based solely on the names and addresses of registered voters. If you feel there is any discrepancy in the provided information please email
-VoterRegistration@wilcotx.gov
-or call 512-943-1630. Voter registrations are effective 30 days after the submission of the application. If you have recently applied and do not see your name in the lookup, please check back.
-If you are currently registered to vote in Williamson County and have moved within the county or have changed your name, please make sure to update your voter registration information.
-Esto se proporciona como un servicio al Condado de Williamson y toda la información presentada se basa únicamente en los nombres y direcciones de los votantes registrados. Si considera que existe alguna discrepancia en la información proporcionada, envíe un correo electrónico a
-VoterRegistration@wilcotx.gov
-o llame al 512-943-1630. Las inscripciones de votantes surten efecto 30 días después de presentar la solicitud. Si presentó su solicitud recientemente y no ve su nombre en la búsqueda, vuelva a consultar.
-Si actualmente está registrado para votar en el Condado de Williamson y se ha mudado dentro del condado o ha cambiado su nombre, asegúrese de actualizar la información de su registro de votante.

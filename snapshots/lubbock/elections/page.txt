@@ -46,14 +46,14 @@ Historical Election Results
 Lubbock County Elections Office
 Welcome to our online resource for registration, voting and election information in Lubbock County.
 Important 2026 Election Dates
-August 1, 2026 City of Lubbock Special Runoff Election Dates and Deadlines
+November 3, 2026 General and Special Election Dates and Deadlines
 First Day to Apply for Ballot by Mail: Thursday, January 1, 2026
-Last Day to Register to Vote for Election: Thursday, July 2, 2026
-Early Voting: Monday, July 20, 2026 through Tuesday, July 28, 2026
-Last Day to Apply for Ballot by Mail (Received, not Postmarked): Tuesday, July 21, 2026
+Last Day to Register to Vote for Election: Monday, October 5, 2026
+Early Voting: Monday, October 19, 2026 through Friday, October 30, 2026
+Last Day to Apply for Ballot by Mail (Received, not Postmarked): Friday, October 23, 2026
 Election Day: Saturday, August 1, 2026
 November 2026 General and Special Election
-November 2026 General Election Joint Election Resolution
+November 2026 General Election Joint Election Resolution – Lubbock County
 November 2026 General Election Notice of General Election Board Meeting
 November 2026 General Election Joint Election Resolution – Lubbock County Water Control
 November 2026 General Election Notice of Drawing for a Place on the Ballot – LCAD
@@ -62,7 +62,7 @@ November 2026 General Election Notice of General Election – LCAD
 November 2026 General Election Order of General Election – LCAD
 November 2026 General Election Joint Election Resolution – LCAD
 August 2026 City of Lubbock Special Election Runoff
-August 2026 City of Lubbock Special Runoff Election Unofficial Results
+August 2026 City of Lubbock Special Runoff Election Official Results
 August 2026 City of Lubbock Special Runoff Election Official Election Reconciliation Totals
 August 2026 City of Lubbock Special Runoff Election Notice of Post Election Hand Count Audit
 August 2026 City of Lubbock Special Runoff Election Notice of Designation of Early Voting Ballot Board Members for the Post Election Hand Count Audit
@@ -76,7 +76,6 @@ August 2026 City of Lubbock Special Runoff Election Notice of Public Logic and A
 August 2026 City of Lubbock Special Runoff Election Notice of Public Logic and Accuracy Testing Error Documentation
 August 2026 City of Lubbock Special Runoff Election Notice of Logic and Accuracy Testing of Electronic Pollbook Equipment
 August 2026 City of Lubbock Special Runoff Election Certification of Logic and Accuracy Testing of Electronic Pollbook Equipment
-August 2026 City of Lubbock Special Runoff Election Live Stream
 August 2026 City of Lubbock Special Runoff Central Counting Station Plan
 August 2026 City of Lubbock Special Runoff Election Notice of Convening the Lubbock County Election Board
 August 2026 City of Lubbock Special Runoff Election Notice of Delivery of Early Voting Balloting Materials

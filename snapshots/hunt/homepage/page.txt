@@ -10,7 +10,6 @@ Search
 Toggle main menu visibility
 Menu
 Government
-County Judge
 Commissioners Court
 Commissioners Court Home
 Commissioner Precinct 1
@@ -19,9 +18,15 @@ Commissioner Precinct 3
 Commissioner Precinct 4
 Agendas
 Minutes
+Constables
 County Attorney
 County Attorney Home
 Hot Checks Division
+County Auditor
+County Auditor Home
+Utility Information
+Monthly Financials
+Unclaimed Property
 County Clerk
 County Clerk Home
 Marriage Licenses
@@ -36,11 +41,14 @@ Election Minutes and Agendas Archive
 County Courts at Law
 County Court at Law 1
 County Court at Law 2
+County Judge
 County Treasurer
-Tax Assessor Collector
-Tax Assessor-Collector Home
-Real Property Record Search
-Constables
+District Attorney
+District Clerk
+District Clerk Home
+Court Records Search
+District Court
+Justice of the Peace
 Sheriff
 Sheriff Home
 Inmate Search
@@ -50,17 +58,9 @@ Detention Center
 Criminal Investigations
 Patrol Division
 Found/Abandoned Property
-Justice of the Peace
-County Auditor
-County Auditor Home
-Utility Information
-Monthly Financials
-Unclaimed Property
-District Court
-District Attorney
-District Clerk
-District Clerk Home
-Court Records Search
+Tax Assessor Collector
+Tax Assessor-Collector Home
+Real Property Record Search
 Departments
 911 Addressing
 Bail Bond Board
@@ -99,18 +99,18 @@ Texas Agrilife Extension
 Texas Eviction Diversion Program
 Veterans Services
 Financial Transparency
-Budgets
-Utility Reports
-Treasurer Reports
-Tax Rate
 Annual Financial Reports
+Budgets
+Tax Rate
+Treasurer Reports
+Utility Reports
 Public Notices
 Announcements and News
-Public Notices Calendar
 Commissioners Court Agendas
 Foreclosure Notices
 Foreclosures Home
 Foreclosures Archive
+Public Notices Calendar
 Job Openings
 How Do I...
 Find Useful Links
@@ -132,8 +132,6 @@ Online Court Payments
 Elections & Voting
 Job Openings
 Veterans Services
-The Justice of the Peace Precinct 1, Place 1 Jury Trial for Thursday, 08/06/2026, at 1:30 p.m. has been canceled.
-Jurors are no longer required to appear.
 Election Commission Agendas and Minutes
 Data Center
 Petition Signatures
