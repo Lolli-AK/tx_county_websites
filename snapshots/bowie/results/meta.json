@@ -2,18 +2,19 @@
   "county": "Bowie",
   "page_type": "results",
   "requested_url": "https://www.co.bowie.tx.us/page/bowie.PastElections",
-  "final_url": "https://www.co.bowie.tx.us/page/bowie.PastElections",
+  "final_url": "https://www.bowiecounty.org/page/bowie.PastElections",
   "redirect_chain": [
-    "https://www.co.bowie.tx.us/page/bowie.PastElections"
+    "https://www.co.bowie.tx.us/page/bowie.PastElections",
+    "https://www.bowiecounty.org/page/bowie.PastElections"
   ],
-  "http_status": 200,
+  "http_status": 404,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-13T08:59:45Z",
-  "html_sha256": "49ff6b74c0db9a75054aa0794c536085d7e8ef91e04a85b93b71728b47b33d50",
-  "text_sha256": "51c6507be21b7705bfb4d3a722e6ce8fa8069cb3b0b33e34134d8a82b10e44f5",
-  "byte_size": 61658,
-  "title": "Bowie County, Texas",
+  "fetched_at": "2026-08-14T08:55:31Z",
+  "html_sha256": "a9d7c9746730f075d6ffa66115085e7a13e3f62da091934859d39be5891766a9",
+  "text_sha256": "3f91ec254106523141a09acab331929ba1990ace1141b905aa8f62243add3001",
+  "byte_size": 30531,
+  "title": "Custom404 • Bowie County, TX • CivicEngage",
   "error": null
 }

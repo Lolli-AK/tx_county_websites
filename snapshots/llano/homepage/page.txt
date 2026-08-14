@@ -97,7 +97,6 @@ Learn more and sign up to receive updates with the new alert system at:
 tx.ag/AgAlertSystem
 Events
 tab1
-Active slide image alt text will be announced here
 Information and Resources
 County Calendar
 County Holidays

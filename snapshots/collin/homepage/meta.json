@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-13T08:59:45Z",
-  "html_sha256": "e63fe1cb04a255b6e04df761fab8a3fd8b65d792a3d5541fe1056d84320d4cf8",
-  "text_sha256": "6dbed9f845cdd59f309847761e0839fd1064a69a8d10bcc74373585e5c3483ce",
-  "byte_size": 21674,
+  "fetched_at": "2026-08-14T08:55:31Z",
+  "html_sha256": "d2000b49749a26216e6ff70627ecb3a433071ad68f3b9872688ec15f7aa75185",
+  "text_sha256": "c91441c9afc41a4363d2730f159ea0fc361ea14e8f1e5101cf7179590252d5d1",
+  "byte_size": 21493,
   "title": "Collin County Government",
   "error": null
 }

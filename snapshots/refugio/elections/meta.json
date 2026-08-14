@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-13T08:59:45Z",
-  "html_sha256": "7b01f6110eecead9dbbcd5a10e43d4bd30ef23a3fafb600bcb331f20fcef3dc4",
-  "text_sha256": "c0b1349cc2440183ebf44059b735e79c15144391e2e5a005789ecfe3f0b4c2a2",
-  "byte_size": 125188,
+  "fetched_at": "2026-08-14T08:55:31Z",
+  "html_sha256": "47c43d54335a380aa57c27c2a060c1aa5eac169a36a0eb3be53f47b349b7db0e",
+  "text_sha256": "b46095eb64aaf4af990d1f6b81123bc2c50bce5f579c9f4aeaf0d5c62e27b568",
+  "byte_size": 125362,
   "title": "Refugio County, Texas",
   "error": null
 }

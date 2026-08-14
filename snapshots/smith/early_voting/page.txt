@@ -23,9 +23,11 @@ Current Election Information
 Current Election Information
 A Photo ID is
 required
-to vote. Here is a
-list of the IDs (PDF)
-you can use.
+to vote. Here is the list of IDs in
+English
+and
+Spanish
+that you can use.
 New
 : This
 Interactive Map of Smith County
@@ -97,6 +99,13 @@ Tyler Senior Center: 1915 Garden Valley Rd., Tyler, TX 75702
 Whitehouse City Center: 109 E. Main Street, Whitehouse, TX 75791
 Winona Community Center: 520 Dallas St., Winona, TX 75792
 Map of Polling Places
+Orders of Election
+2026-11 Arp Order of Special Election (PDF)
+2026-11 ESD1 Order of Election (PDF)
+2026-11 ESD2 Order of Election (PDF)
+2026-11 SCAD Order of Election (PDF)
+2026-11 Smith Co Order of Election (PDF)
+2026-11 Tyler Order of Election (PDF)
 Previous Elections
 See results and sample ballots for previous elections
 Make a Payment

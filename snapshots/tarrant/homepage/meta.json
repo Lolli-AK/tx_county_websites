@@ -12,10 +12,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-13T08:59:45Z",
-  "html_sha256": "aa77e8b99b8944c15beb9060d5e1d8ec9fc1f1ba405c3db8c55c4d80ca4c9e7d",
-  "text_sha256": "d541904a1d8d1ba2e4ddead848b57abb6be49a27be08df1559ab72339319bb40",
-  "byte_size": 171172,
+  "fetched_at": "2026-08-14T08:55:31Z",
+  "html_sha256": "fd2187513863017121d2f6543ed2f30e717e55fca2b612bee9ff1fc17cf12a29",
+  "text_sha256": "95f8b57d583a4aceb617294f79f8b25310138ce37f7f91e9d508eed2f19fc75c",
+  "byte_size": 171011,
   "title": "Tarrant County - Home",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-13T08:59:45Z",
-  "html_sha256": "a278149c5abdfb6deb07df3dc21d9fd9d2311b18f04be0f801a534c3f98166a1",
-  "text_sha256": "d75d050baa409c57ce43f635c90e5106a535962fa71aa973bacbfa5ce7b0e7db",
-  "byte_size": 33660,
+  "fetched_at": "2026-08-14T08:55:31Z",
+  "html_sha256": "5072abaf3919e30e6906474da62815a12efcc383231f782e87ce447dea257752",
+  "text_sha256": "988e6f94eddbc7446e37c30a992cd2e5577e051877ea1df4cb88e109a40224e3",
+  "byte_size": 33834,
   "title": "Home Page - Refugio County",
   "error": null
 }

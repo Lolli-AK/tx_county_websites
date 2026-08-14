@@ -188,6 +188,7 @@ POST HAND COUNT AUDIT WITH TALLY SHEETS REPUBLICAN MAY 26,, 2026
 POST HAND COUNT AUDIT WITH TALLY SHEETS DEMOCRATIC MAY 26, 2026
 POST HAND COUNT SUMMARY AND CERTIFICATION DEMOCRATIC
 POST HAND COUNT SUMMARY AND CERTIFICATION REPUBLICAN
+ORDER OF ELECTION NOVEMBER 3, 2026
 HELPFUL LINKS
 Note: The Ward County Clerk’s Office provides the below links as optional resources for those wishing to use them. This list is provided as a courtesy and is not intended to endorse any particular resource nor to serve as a complete list of the resources available.
 One-Stop Resource for Voter Information (English)
