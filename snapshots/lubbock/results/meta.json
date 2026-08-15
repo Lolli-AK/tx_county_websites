@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-14T08:55:31Z",
-  "html_sha256": "cec370949cb620b3eedc22d6679785700f30e21020c3a59d5f545d39a091640c",
-  "text_sha256": "3d0dcf980170b91042986c26ab2b3b0febafe4ffda26675a66751f367781c404",
-  "byte_size": 183092,
+  "fetched_at": "2026-08-15T08:13:09Z",
+  "html_sha256": "09e49d309c730b4e9e92ca8259f6cf292673ffd9060e8f8f0cf53d12f1ed3cac",
+  "text_sha256": "7eca905525a3f2f4edc9466d4e7888f163cceb6cc8ac5ec756fc0d0d64bf05d9",
+  "byte_size": 184212,
   "title": "Lubbock County, TX Elections",
   "error": null
 }

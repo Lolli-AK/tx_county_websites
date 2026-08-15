@@ -351,7 +351,7 @@ Past Election Information
 FAQ
 Poll Workers
 Current Election Information
-Voter Information
+Tarrant County Voter Lookup
 Sample Ballot
 Where Do I Vote
 Election Results
@@ -372,6 +372,7 @@ Appraisal District Board Elections in Counties with Populations of 75,000 or Mor
 Tarrant County Appraisal District Candidate Information
 Tarrant County Appraisal District (TAD) qualifying packet 2026
 Important Election Dates for 2026
+Governor’s Proclamation ordering the November 3, 2026 General Election
 Candidate’s Guide to Nomination and General Election for 2026
 Advisory No. 2025-14: Deadlines for Vacancies and Replacement Nominees for the General Election for State and County Officers (November 3, 2026)
 Important Dates for the Party Conventions, Primary Elections, and General Election
@@ -502,6 +503,7 @@ Other Reports
 Political Subdivision in Election
 Tally Export formatted in comma-delimited text
 Election Related Notices
+Governor’s Proclamation ordering the November 3, 2026 General Election
 Notices related to Public Testing of Voting Equipment and  Logic and Accuracy Test of Electronic Pollbook
 Notice of Public Test of the Voting Equipment
 Public Test Completion Certification
@@ -511,6 +513,7 @@ Central Count Station Plan
 The Central Counting Station will convene on Tuesday, November 3, 2026, no earlier than 2 p.m., for the purpose of counting ballots at either the primary or alternate locations listed in the Central Counting Station Plan.
 The Central Counting Station will reconvene on Monday, November 9, 2026, no earlier than 5 p.m., for the purpose of counting ballots at either the primary or alternate locations listed in the Central Counting Station Plan.
 November 3, 2026, Joint General Election Law Calendar
+Notice of Delivery of Provisional Ballots
 Poll Worker Training Schedule
 Notice of Delivery of Ballots Voted By Mail
 Ballot Box Opening Notice
@@ -580,7 +583,7 @@ ElectionsInfo@tarrantcountytx.gov
 Phone: 817-831-8683
 TDD: 817-759-7801
 Hours of Business: Monday – Friday, 8 a.m. - 5 p.m.
-This page was last modified on August 05, 2026
+This page was last modified on August 14, 2026
 TARRANT COUNTY, TEXAS
 County Telephone Operator
 817-884-1111

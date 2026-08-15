@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-14T08:55:31Z",
-  "html_sha256": "5eb6a2165ab9cdd9fa81dd9eb1f51b5eaedb0b69b41f124c749848fb0dc57f83",
-  "text_sha256": "9fa98841731b3bee23dc159a3942c0a03b531559f78da3c1119d835d972cb0a0",
-  "byte_size": 33893,
+  "fetched_at": "2026-08-15T08:13:09Z",
+  "html_sha256": "5f84d1338dcf78c2d299d059e8a0953a91bcd7bad818abfbfdd91b5bf3dd7511",
+  "text_sha256": "c3d62d0c4b8668efd9aa89717d06cc2ff20ecc02426bce665a1715c1ec8add3a",
+  "byte_size": 34147,
   "title": "Mason County, Texas",
   "error": null
 }

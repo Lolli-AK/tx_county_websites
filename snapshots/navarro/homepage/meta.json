@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-14T08:55:31Z",
-  "html_sha256": "4a9934efbdb402d8f99159a8f8b0b7811352d361dbbb69a295f87170283e4367",
-  "text_sha256": "452cc83ae17b225bd263363cee685421993a9de5e28052c61ecf4154fa4f2403",
-  "byte_size": 55252,
+  "fetched_at": "2026-08-15T08:13:09Z",
+  "html_sha256": "dc81a8fc110df69592f55b73d810535a072b23275dab475e700833cb83060ad3",
+  "text_sha256": "17779c9b359ae4b9c0b2cf30e8d40164143cb2a85d3b175ac6d263db8b06daf9",
+  "byte_size": 55166,
   "title": "Navarro County, Texas",
   "error": null
 }

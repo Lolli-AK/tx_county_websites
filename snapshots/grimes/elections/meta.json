@@ -10,10 +10,10 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-14T08:55:31Z",
-  "html_sha256": "8fb54368d25d5f21b834272bdfda76be2092b803375a5e1f181202a9bac7baff",
-  "text_sha256": "eee7043c3553e863f34bed41afe692fb58786367b8cc28405722450d1b28a989",
-  "byte_size": 79330,
+  "fetched_at": "2026-08-15T08:13:09Z",
+  "html_sha256": "6baf9015c9f854cf9d812d25b527ef45e6a29eca2b50a7a98bde4bfff8a7c37e",
+  "text_sha256": "c4e36ce5239afdaa6fe62e58bdd114dac3dba731c0beb0eedc91cedf58cce334",
+  "byte_size": 79336,
   "title": "Election Administrator - Grimes County, TX",
   "error": null
 }

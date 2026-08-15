@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-14T08:55:31Z",
-  "html_sha256": "77d0e476f066d691564fd2dd577222c4f8f4598efcf438a216fe80b7b6fa6706",
-  "text_sha256": "a960c4862a27463d2e5da42435b30793cd61461290a58a638fc1df207d8333d9",
-  "byte_size": 46259,
+  "fetched_at": "2026-08-15T08:13:09Z",
+  "html_sha256": "d30ca30e8c2b5ff3c981e6c1b0b115ab9e26e38fecfd41ef9715cbc1ef4b8ce3",
+  "text_sha256": "6cf6f3e8ff378b0ade0e579a8b421aa32f7c868be0c94788b6a787ea8d0a03b7",
+  "byte_size": 46450,
   "title": "Anderson County, Texas",
   "error": null
 }

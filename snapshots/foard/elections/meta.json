@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-14T08:55:31Z",
-  "html_sha256": "17ec4617164a001bcd42fda326fd35a41f72c75d277410c24bb9004b1c293b7f",
-  "text_sha256": "24473d328c2ecf24fd66fb1e5fb3465e48f7338240e895c3cdc867e8e0d023b4",
-  "byte_size": 37371,
+  "fetched_at": "2026-08-15T08:13:09Z",
+  "html_sha256": "d59f6f53d8a4cbbfb33de679556bd70c665ce865cbaddc1076674bf47992fed5",
+  "text_sha256": "695e39315b370a526d6a2c411eca302584802e4399566ab311200180e8431813",
+  "byte_size": 37582,
   "title": "Elections | Foard County, Texas",
   "error": null
 }

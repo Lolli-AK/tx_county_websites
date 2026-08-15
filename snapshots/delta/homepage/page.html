@@ -1505,6 +1505,40 @@
     </header>
     <div class="region region-breadcrumb">
     </div>
+    <section aria-label="Alerts" class="municode-alert__wrapper">
+     <div class="region region-alert">
+      <div class="block block-municode-alert block-alert-popup-block" id="block-alertpopupblock">
+       <div class="block__content">
+        <div class="clear-both municode-alert__popup municode-alert__popup--show" data-once="alert-popup">
+         <div class="municode-alert__content">
+          <h1 class="municode-alert__title">
+           Burn Ban in Effect
+          </h1>
+          <p class="municode-alert__summary">
+           An Emergency Burn Ban was issued for Delta County on August 14, 2026 effective immediately for a period of 7-days. The Commissioners' Court will review the burn ban on August 20, 2026 at 9:00 a.m. to determine if the burn ban shall be renewed, extended, or allowed to expire.
+          </p>
+          <div class="municode-alert__links">
+           <a aria-label="Read more about the alert: Burn Ban in Effect" class="btn btn-color-secondary municode-alert__read-more-link" href="/county-fire-marshal/page/order-implementing-burn-ban">
+            Read more
+           </a>
+           <button class="municode-alert__cancel-button" name="cancel-button" type="button">
+            Acknowledged
+           </button>
+          </div>
+         </div>
+         <button class="municode-alert__cancel-link">
+          Close
+         </button>
+        </div>
+        <div class="municode-alert__cta">
+         <button class="municode-alert__open-button">
+          Alert
+         </button>
+        </div>
+       </div>
+      </div>
+     </div>
+    </section>
     <main class="page-main" id="main-content">
      <div class="region region-above-content">
       <div class="hidden" data-drupal-messages-fallback="">
@@ -1515,7 +1549,7 @@
        <div class="region region-content">
         <div class="block block-core block-page-title-block" id="block-municode-theme-page-title">
          <div class="block__content">
-          <h1 class="page-title">
+          <h1 aria-level="2" class="page-title" role="heading">
            <span class="field field--RANDOM field--RANDOM field--RANDOM">
             Homepage
            </span>
@@ -1712,12 +1746,12 @@
                    <div class="slick-list draggable">
                     <div class="slick-track">
                      <li aria-label="slide 1" class="slick-slide slick-current slick-active" data-slick-index="0" role="group">
-                      <article class="node node--RANDOM node--RANDOM cp-card cp-card__style__vertical" data-history-node-id="976">
-                       <a class="cp-card__link-wrapper" href="/public-notices" tabindex="0">
+                      <article class="node node--RANDOM node--RANDOM cp-card cp-card__style__vertical" data-history-node-id="2306">
+                       <a class="cp-card__link-wrapper" href="/financial-transparency/page/fiscal-year-2027-proposed-budget" tabindex="0">
                         <span class="cp-card__text--wrapper">
                          <span class="cp-card__title">
                           <span class="field field--RANDOM field--RANDOM field--RANDOM">
-                           Public Notices
+                           Fiscal Year 2027 Proposed Budget
                           </span>
                          </span>
                         </span>
@@ -1725,19 +1759,6 @@
                       </article>
                      </li>
                      <li aria-label="slide 2" class="slick-slide slick-active" data-slick-index="1" role="group">
-                      <article class="node node--RANDOM node--RANDOM cp-card cp-card__style__vertical" data-history-node-id="616">
-                       <a class="cp-card__link-wrapper" href="/public-notices/page/holiday-schedule" tabindex="0">
-                        <span class="cp-card__text--wrapper">
-                         <span class="cp-card__title">
-                          <span class="field field--RANDOM field--RANDOM field--RANDOM">
-                           Holiday Schedule
-                          </span>
-                         </span>
-                        </span>
-                       </a>
-                      </article>
-                     </li>
-                     <li aria-label="slide 3" class="slick-slide slick-active" data-slick-index="2" role="group">
                       <article class="node node--RANDOM node--RANDOM cp-card cp-card__style__vertical" data-history-node-id="966">
                        <a class="cp-card__link-wrapper" href="/financial-transparency/page/tax-rate-information" tabindex="0">
                         <span class="cp-card__text--wrapper">
@@ -1750,7 +1771,7 @@
                        </a>
                       </article>
                      </li>
-                     <li aria-label="slide 4" class="slick-slide slick-active" data-slick-index="3" role="group">
+                     <li aria-label="slide 3" class="slick-slide slick-active" data-slick-index="2" role="group">
                       <article class="node node--RANDOM node--RANDOM cp-card cp-card__style__vertical" data-history-node-id="841">
                        <a class="cp-card__link-wrapper" href="/commissioners/page/budgets" tabindex="0">
                         <span class="cp-card__text--wrapper">
@@ -1763,7 +1784,7 @@
                        </a>
                       </article>
                      </li>
-                     <li aria-label="slide 5" class="slick-slide slick-active" data-slick-index="4" role="group">
+                     <li aria-label="slide 4" class="slick-slide slick-active" data-slick-index="3" role="group">
                       <article class="node node--RANDOM node--RANDOM cp-card cp-card__style__vertical" data-history-node-id="1991">
                        <a class="cp-card__link-wrapper" href="/financial-transparency/page/notice-tax-rate-tax-year-2025" tabindex="0">
                         <span class="cp-card__text--wrapper">
@@ -1781,6 +1802,19 @@
                             Tax Code Section 26.04(e) requires local government taxing units to publish a Notice of Tax Rate and sets out…
                            </p>
                           </div>
+                         </span>
+                        </span>
+                       </a>
+                      </article>
+                     </li>
+                     <li aria-label="slide 5" class="slick-slide slick-active" data-slick-index="4" role="group">
+                      <article class="node node--RANDOM node--RANDOM cp-card cp-card__style__vertical" data-history-node-id="616">
+                       <a class="cp-card__link-wrapper" href="/public-notices/page/holiday-schedule" tabindex="0">
+                        <span class="cp-card__text--wrapper">
+                         <span class="cp-card__title">
+                          <span class="field field--RANDOM field--RANDOM field--RANDOM">
+                           Holiday Schedule
+                          </span>
                          </span>
                         </span>
                        </a>
@@ -1859,8 +1893,8 @@
                       </article>
                      </li>
                      <li aria-label="slide 2" class="slick-slide slick-active" data-slick-index="1" role="group">
-                      <article class="node node--RANDOM node--RANDOM node--RANDOM cp-card cp-card__split-date__stacked cp-card__style__horizontal" data-history-node-id="2116">
-                       <a class="cp-card__link-wrapper" href="/commissioners/meeting/commissioners-court-regular-meeting-86" tabindex="0">
+                      <article class="node node--RANDOM node--RANDOM node--RANDOM cp-card cp-card__split-date__stacked cp-card__style__horizontal" data-history-node-id="2311">
+                       <a class="cp-card__link-wrapper" href="/commissioners/meeting/commissioners-court-special-meeting-22" tabindex="0">
                         <span class="cp-card__text--wrapper">
                          <span class="cp-card__text__row-1">
                           <span class="cp-card__event-date">
@@ -1868,14 +1902,14 @@
                             Aug
                            </span>
                            <span class="cp-smart-date-simple-display__next__1">
-                            25
+                            20
                            </span>
                           </span>
                          </span>
                          <span class="cp-card__text__row-2">
                           <span class="cp-card__title">
                            <span class="field field--RANDOM field--RANDOM field--RANDOM">
-                            Commissioners' Court Regular Meeting
+                            Commissioners' Court Special Meeting
                            </span>
                           </span>
                           <span class="cp-card__event-date__time">
@@ -1889,16 +1923,16 @@
                       </article>
                      </li>
                      <li aria-label="slide 3" class="slick-slide slick-active" data-slick-index="2" role="group">
-                      <article class="node node--RANDOM node--RANDOM node--RANDOM cp-card cp-card__split-date__stacked cp-card__style__horizontal" data-history-node-id="2121">
-                       <a class="cp-card__link-wrapper" href="/commissioners/meeting/commissioners-court-regular-meeting-87" tabindex="0">
+                      <article class="node node--RANDOM node--RANDOM node--RANDOM cp-card cp-card__split-date__stacked cp-card__style__horizontal" data-history-node-id="2116">
+                       <a class="cp-card__link-wrapper" href="/commissioners/meeting/commissioners-court-regular-meeting-86" tabindex="0">
                         <span class="cp-card__text--wrapper">
                          <span class="cp-card__text__row-1">
                           <span class="cp-card__event-date">
                            <span class="cp-smart-date-simple-display__next__0">
-                            Sep
+                            Aug
                            </span>
                            <span class="cp-smart-date-simple-display__next__1">
-                            8
+                            25
                            </span>
                           </span>
                          </span>

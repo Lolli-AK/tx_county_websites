@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-14T08:55:31Z",
-  "html_sha256": "2f8bf20c292a7fc06e9840bc728936f2647005ded21ad53bb34e8c752171d0d8",
-  "text_sha256": "1de339c7cb5995dd2e870023315249372f12e570220d9345a2eb64ffd822d8c8",
-  "byte_size": 100387,
+  "fetched_at": "2026-08-15T08:13:09Z",
+  "html_sha256": "ea5f75bd48d57c1db581a4e53512e581d85c8cf1bcbe3340cfd8b1f9ee0e2f58",
+  "text_sha256": "00396fb71de380c1113f7d191f0483a5b693d95acf5802ecbcbd6cdc64cfb117",
+  "byte_size": 101655,
   "title": "Current Elections | Erath County, TX",
   "error": null
 }

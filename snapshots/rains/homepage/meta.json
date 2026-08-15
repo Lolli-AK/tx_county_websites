@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-14T08:55:31Z",
-  "html_sha256": "517dab07ebd0cd607d3a3799a3d9c49e5187b33a35d65081aa7a3d48824d15e0",
-  "text_sha256": "59d28e2696cd94dd24fcc0ef12b42fc1a7f7d3435eb2db8a7f5ecd9601ee88ad",
-  "byte_size": 28567,
+  "fetched_at": "2026-08-15T08:13:09Z",
+  "html_sha256": "30cb5f0b47dd9dfdbb9599520b7a2c0cbc801c8dc6af5de18e51c1d764f439e8",
+  "text_sha256": "8f3e6c4ba02b1629dcc60cd0279eabf75bd73e23b87144b6640ad64205137986",
+  "byte_size": 29093,
   "title": "Rains County, Texas",
   "error": null
 }
