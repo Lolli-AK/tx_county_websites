@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.aransascountytx.gov/electionadmin/precinctmap.php"
   ],
-  "http_status": 503,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-15T08:13:09Z",
-  "html_sha256": "2ee3620bca45570b4082d02e113fd7e6aa62b18b5e1e7712dce24a68f6f82b2b",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 278,
-  "title": null,
+  "fetched_at": "2026-08-16T08:14:33Z",
+  "html_sha256": "0c8b2d4d3e612676d5486531f4ce05e152efa4a4907855fefc16cbcf1aadaf12",
+  "text_sha256": "b6c2f225ae3d878fb4aed99b6404430c260f391d9b6de77b9b247021d6635c87",
+  "byte_size": 25984,
+  "title": "Aransas County Commissioners Court",
   "error": null
 }

@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-15T08:13:09Z",
-  "html_sha256": "cd9303b0659ae5ab58d81de8630696b434c536f39bb880c6f786d4c025eccc57",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-08-16T08:14:33Z",
+  "html_sha256": "718c292431a5914020fc0aeaffe8f71f9595e8ec21ac236e2fd116c278a565f2",
+  "text_sha256": "bb52f61a4a6208d8448d4f6029f7d024d5f5958c48926e71876b002f746c692d",
+  "byte_size": 70261,
+  "title": "Early Voting Rosters March 2020",
   "error": null
 }

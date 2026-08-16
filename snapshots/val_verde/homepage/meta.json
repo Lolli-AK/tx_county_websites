@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://valverdecounty.texas.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-15T08:13:09Z",
-  "html_sha256": "31a5827f78cf83a7fbaf2e7e37b71e8f577c59711a499ba1f7c710636c01a4dc",
-  "text_sha256": "bb08851fce3945fe31629cd5ddde9b1cd6aa5efa83ffbb9dc11c15b0c57f57a5",
-  "byte_size": 79106,
-  "title": "Val Verde County, TX | Official Website",
-  "error": null
+  "fetched_at": "2026-08-16T08:14:33Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

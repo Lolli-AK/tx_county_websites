@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://valverdecounty.texas.gov/270/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-15T08:13:09Z",
-  "html_sha256": "8c102e178d75f5ab0f70e3f35b8775db26e417e593ea980dde9d77d513640616",
-  "text_sha256": "c8d0b8b36266a4115ae11a977e8d4a9d7ec46aba18f73dcdd96c5ca5a048a8d1",
-  "byte_size": 128808,
-  "title": "Elections | Val Verde County, TX",
-  "error": null
+  "fetched_at": "2026-08-16T08:14:33Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

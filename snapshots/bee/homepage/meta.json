@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.beecounty.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-15T08:13:09Z",
-  "html_sha256": "ebd23e5147de83b8957ceb9e0e4ca03ee1aa813b82ca9e7867c30391eda6dcd0",
-  "text_sha256": "73d95e812c91d0e9f50beada9a2813d33b3673f1c08c9b4a39d6470c29a5fcc3",
-  "byte_size": 74366,
-  "title": "Bee County, TX | Official Website",
-  "error": null
+  "fetched_at": "2026-08-16T08:14:33Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

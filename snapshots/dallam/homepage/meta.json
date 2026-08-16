@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-15T08:13:09Z",
-  "html_sha256": "f10b64d2878d0ac92fce087a7d4776e5a1f5a531ca9703093b6483b494d7ea1a",
-  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
-  "byte_size": 488,
-  "title": "One moment, please...",
+  "fetched_at": "2026-08-16T08:14:33Z",
+  "html_sha256": "d42bd4fd0f3059769dc201205e3efbdf1f40059fe9ab1232dc3ed47d617565cc",
+  "text_sha256": "a8a005e3f4a4fd6e92ebc7ec4b6344d35556645586ec7ed04c5e9690931eac10",
+  "byte_size": 9476,
+  "title": "Dallam County On-Line Community",
   "error": null
 }

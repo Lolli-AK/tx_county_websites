@@ -343,10 +343,6 @@ urday
 13
 14
 15
-True Blue Foundation Banquet
-Saturday, August 15, 2026 at 6:00 PM
-to
-Saturday, August 15, 2026 at 6:00 PM
 16
 17
 18
@@ -373,10 +369,7 @@ Jul
 Sep
 >
 More Events
-Aug
-15
-True Blue Foundation Banquet
-Saturday, August 15, 2026 at 6:00 PM
+No Events in the Current Month
 [rotating image slideshow removed for determinism]
 Business
 Economic Development

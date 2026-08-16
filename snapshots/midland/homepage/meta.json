@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.co.midland.tx.us/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-15T08:13:09Z",
-  "html_sha256": "907f4eaebef1c361f7cf2fddc6a6c93db551cc88eda687de492e15b641d6b048",
-  "text_sha256": "131b4415babe2b63ce7f8b9a984dea13cb1f992024eed4d49ab1cb4155511d34",
-  "byte_size": 90933,
-  "title": "Midland County, TX | Official Website",
-  "error": null
+  "fetched_at": "2026-08-16T08:14:33Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

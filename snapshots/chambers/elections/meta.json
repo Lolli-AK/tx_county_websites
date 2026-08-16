@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.chamberscountytx.gov/169/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-15T08:13:09Z",
-  "html_sha256": "7ea626785627323f73c7e0ce1808cb2c66e7ff75459d4ba89ec4e0b112f7f656",
-  "text_sha256": "db85386caebf143597552c9b006fe5d3e54022008bbd3d896b7876f47b77582d",
-  "byte_size": 76437,
-  "title": "Elections | Chambers County, TX",
-  "error": null
+  "fetched_at": "2026-08-16T08:14:33Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

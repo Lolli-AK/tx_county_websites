@@ -20,7 +20,7 @@ Toggle main menu visibility
 Menu
 Home
 County Holiday Schedule
-Commissioner Court Agendas
+Commissioner Court Agendas/Notices
 County Departments
 Constables
 County Attorney
