@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.brazoscountytx.gov/"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-16T08:14:33Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
-  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
+  "fetched_at": "2026-08-17T08:28:49Z",
+  "html_sha256": "03c236aed61da7a1d42fd3686931f95690457220bfdb3ad466abf55e838ff9e4",
+  "text_sha256": "b4bb48eceb1c100eb5b83d6bce240b5a56cd2df58cd6a0fcecc37dd130e64b2c",
+  "byte_size": 99482,
+  "title": "Brazos County, TX - Official Website | Official Website",
+  "error": null
 }

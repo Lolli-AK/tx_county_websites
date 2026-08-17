@@ -6,14 +6,14 @@
   "redirect_chain": [
     "http://www.elliscountytx.gov/312/Elections"
   ],
-  "http_status": 503,
-  "content_type": "text/html; charset=us-ascii",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-16T08:14:33Z",
-  "html_sha256": "0c7bfb6180db17817a63d51dd94eea0d070b8a76463c762fe3e2506202a32161",
-  "text_sha256": "c5b3d7cd992fb1cea565b681de11fc99eae9ceae28d27b57d2cfa4b84012ce97",
-  "byte_size": 361,
-  "title": "Service Unavailable",
+  "fetched_at": "2026-08-17T08:28:49Z",
+  "html_sha256": "663a178f24b28e2fea66bfe56a1cfda6aa71bd72d9eafe7c2472bd7d6dbd4e36",
+  "text_sha256": "47eb0454f25718a9a4ba3266e6c1ba300d155282c21551b0b43a381ca9efa992",
+  "byte_size": 69171,
+  "title": "Elections | Ellis County, TX Official Website",
   "error": null
 }

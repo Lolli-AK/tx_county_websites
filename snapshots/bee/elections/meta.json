@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.beecounty.gov/162/Elections-Administration"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-16T08:14:33Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
-  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
+  "fetched_at": "2026-08-17T08:28:49Z",
+  "html_sha256": "5abfd94e1533d849002d3617353d5662c1496f119e5d50b8c75d114a2f7c0822",
+  "text_sha256": "81b2dc257ece64b3e51e239b275ec7cb29249cdd286d213eb8dc3868c3ba74e9",
+  "byte_size": 58266,
+  "title": "Elections Administration | Bee County, TX",
+  "error": null
 }

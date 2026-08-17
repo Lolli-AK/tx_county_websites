@@ -6,14 +6,14 @@
   "redirect_chain": [
     "http://www.elliscountytx.gov/1338/Whats-Allowed-at-the-Polling-Place"
   ],
-  "http_status": 503,
-  "content_type": "text/html; charset=us-ascii",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-16T08:14:33Z",
-  "html_sha256": "0c7bfb6180db17817a63d51dd94eea0d070b8a76463c762fe3e2506202a32161",
-  "text_sha256": "c5b3d7cd992fb1cea565b681de11fc99eae9ceae28d27b57d2cfa4b84012ce97",
-  "byte_size": 361,
-  "title": "Service Unavailable",
+  "fetched_at": "2026-08-17T08:28:49Z",
+  "html_sha256": "3d7df3e07cf3e6cbad1da998d532678614e83a0dc20ddb7a5de8b2f19f2e10d9",
+  "text_sha256": "ce57f15bff7bb3b4a75a2d7fe103f0b74c0396736823467c8c408864c20f8c04",
+  "byte_size": 52864,
+  "title": "What's Allowed at the Polling Place? | Ellis County, TX Official Website",
   "error": null
 }
