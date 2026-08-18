@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-17T08:28:49Z",
-  "html_sha256": "75f3dae2facea6737ec52efb25f6c69372849db6fb8afcc5f2a994cf6377e334",
-  "text_sha256": "e9eb1e39036fe1a97c25a3dfaa958a0b85927649d233129b356e3095e3c3882b",
-  "byte_size": 47758,
+  "fetched_at": "2026-08-18T08:20:31Z",
+  "html_sha256": "cc2c4a01e9317dd354c03fb9a87e4006436071111c8d3328c9235babea849a75",
+  "text_sha256": "00ba66e330e12feea2c19f244caf8171c3c0c1afa67d334d482ef498c4424239",
+  "byte_size": 50359,
   "title": "Home Page | Jack County TX",
   "error": null
 }

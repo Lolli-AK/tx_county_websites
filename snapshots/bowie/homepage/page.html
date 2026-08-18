@@ -53,6 +53,26 @@
   <div class="outer-wrap" id="outer-wrap">
    <div class="inner-wrap" id="inner-wrap">
     <div class="cpToolbars newCP mui-fixed" id="divToolbars">
+     <div class="alertToolbar cpToolbar" id="1_divAlertBar">
+      <div class="alertToolbarInner" id="1_divAlertToolbarInner">
+       <a class="alertText" href="/AlertCenter.aspx" id="1_lnkAlertText">
+        <img alt="Emergency Alert" class="redDot" id="1_imgDot" src="/Common/Images/AlertCenter/alertBarBlink.svg"/>
+        <span class="customAlert" id="1_customAlert">
+         BURN BAN IN EFFECT
+        </span>
+       </a>
+       <span class="alertContainer" id="1_spnAlertContainer">
+        <a class="alert" href="/AlertCenter.aspx?AID=BOWIE-COUNTY-IS-CURRENTLY-UNDER-A-BURN-B-5" target="_self">
+         BOWIE COUNTY IS CURRENTLY UNDER A BURN BAN
+         <span>
+          Read On...
+         </span>
+        </a>
+       </span>
+      </div>
+     </div>
+     <div class="alertBarEmpty" id="1_divAlertBarEmpty">
+     </div>
      <div class="cpToolbar user public">
       <div class="inner selfClear">
        <p class="dropdown">
@@ -401,18 +421,6 @@
                  <div class="row wide">
                   <div class="col col1 first last">
                    <ol class="semanticList">
-                    <li class="widgetItem" data-news-i-d="16">
-                     <h4 class="widgetTitle" id="newsFlashItemHeader16">
-                      <a href="/CivicAlerts.aspx?AID=16" target="_self">
-                       Voting Precincts Adjustments
-                      </a>
-                     </h4>
-                     <div class="widgetDesc">
-                      <a aria-labelledby="newsFlashItemHeader16 newsFlashReadOn16" class="readOn" href="/CivicAlerts.aspx?AID=16" id="newsFlashReadOn16" target="_self">
-                       Read on...
-                      </a>
-                     </div>
-                    </li>
                     <li class="widgetItem" data-news-i-d="15">
                      <h4 class="widgetTitle" id="newsFlashItemHeader15">
                       <a href="/CivicAlerts.aspx?AID=15" target="_self">
@@ -434,6 +442,19 @@
                      </h4>
                      <div class="widgetDesc">
                       Stay in touch with us by following us on Twitter, becoming our friend on Facebook, or subscribing to one of our RSS Feeds.
+                     </div>
+                    </li>
+                    <li class="widgetItem" data-news-i-d="13">
+                     <h4 class="widgetTitle" id="newsFlashItemHeader13">
+                      <a href="/CivicAlerts.aspx?AID=13" target="_self">
+                       Stay connected!
+                      </a>
+                     </h4>
+                     <div class="widgetDesc">
+                      Subscribe to Notify Me to receive updates and information.
+                      <a aria-labelledby="newsFlashItemHeader13 newsFlashReadOn13" class="readOn" href="/CivicAlerts.aspx?AID=13" id="newsFlashReadOn13" target="_self">
+                       Read on...
+                      </a>
                      </div>
                     </li>
                    </ol>
@@ -700,14 +721,14 @@ Saturday
                         </time>
                        </span>
                       </td>
-                      <td class="today">
+                      <td>
                        <span>
                         <time datetime="2026-08-17">
                          17
                         </time>
                        </span>
                       </td>
-                      <td>
+                      <td class="today">
                        <span>
                         <time datetime="2026-08-18">
                          18

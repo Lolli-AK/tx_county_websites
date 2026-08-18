@@ -80,14 +80,11 @@ Follow Collin County on X
 .
 Election Result Archive
 Results
-June 13, 2026 - Joint Runoff Election - Early Voting Summary Report
-June 13, 2026 - Joint Runoff Election - Election Night Summary Report - Unofficial Final
-June 13, 2026 - Joint Runoff Election - Election Reconciliation - Final Totals
-June 13, 2026 - Joint Runoff Election - Official Final Precinct Report
-June 13, 2026 - Joint Runoff Election - Official Final Summary Report
-June 13, 2026 - Joint Runoff Election - Precinct Summary Report - Unofficial Final
-June 13, 2026 - Joint Runoff Election - Preliminary Election Reconciliation - Unofficial Total
-June 13th 2026 - Joint General Runoff - All Races
+June 13, 2026 - Joint General and Special Runoff Election - Preliminary Election Reconciliation - Unofficial Totals
+June 13, 2026 - Joint General and Special Runoff Elections - Precinct Results Report - Official Totals
+June 13, 2026 - Joint General and Special Runoff Elections - Election Reconciliation - Official Totals
+June 13, 2026 - Joint General and Special Runoff Elections - Precinct Results Export - Official Totals
+June 13, 2026 - Joint General and Special Runoff Elections - Summary Results Report - Official Totals
 Kaleb Breaux
 Elections Administrator
 Send an Email

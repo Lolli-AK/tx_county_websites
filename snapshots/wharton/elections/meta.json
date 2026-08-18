@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-17T08:28:49Z",
-  "html_sha256": "f08754974d976d798656bfa97a9aaf856df897a4a4442ba7f771a87f748e0103",
-  "text_sha256": "ffb4e4ccf34226027dc55172174f12a7d2ad9a8e67473e9ba626cee77d00335c",
-  "byte_size": 24194,
+  "fetched_at": "2026-08-18T08:20:31Z",
+  "html_sha256": "28b0829e2492e93b364318b8168d17e9ee03c3012e97c0547b0bfad0ec696853",
+  "text_sha256": "cb549d5b46b87219cf110be11fb8799ffe0b2275a50636def4974ca7762d6a7a",
+  "byte_size": 24345,
   "title": "Wharton County, Texas",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-17T08:28:49Z",
-  "html_sha256": "1ac895b12628bd851b216e7f8daaca25e0dc03b70e03d324e5681d9e83e13986",
-  "text_sha256": "d5bd0786075e2b7a3246f228bea285ce26d9d1651b8f8dabf00e39aab189e2ba",
-  "byte_size": 110880,
+  "fetched_at": "2026-08-18T08:20:31Z",
+  "html_sha256": "d7c7f754f6f173a41eb0df0158d87d883d6e6448b1b1c3c903ba3f957c867912",
+  "text_sha256": "b78feed692bad38ca699f6ce5d50ccb79446177ff4d0effd5d199057e211f748",
+  "byte_size": 110508,
   "title": "Election Results | Johnson County, TX",
   "error": null
 }
