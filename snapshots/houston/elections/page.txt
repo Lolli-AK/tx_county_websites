@@ -337,7 +337,7 @@ Republican
 Post-Election Hand Count Audit Returns
 Democratic
 Republican
-November 3, 2026 Mid-Term Election
+November 3, 2026 General Mid-Term / Special Election
 ▲
 Election Results
 Official
@@ -350,9 +350,13 @@ Precinct by Precinct
 Reconciliation Form
 Notice of Canvass
 Canvass
+Joint General / Special Election
+List of Voting Locations
 Order of Election
-Notice of Joint Election
+Lovelady ISD Order of Election
+Notice of Joint General / Special Election
 Sample Ballot
+PROCLOMATION OF ELECTION
 Notice of Public Testing of Automatic Tabulating Equipment
 Notice of Public Logic and Accuracy Test of Electronic Pollbook Equipment
 Notice of Election Training Program
@@ -1147,9 +1151,7 @@ Please
 Do Not
 ask 'GOOGLE' where to vote.
 The list it gives is not correct!
-May 2, 2026
-INFORMATION & ELECTION LOCATIONS
-May 26, 2026
+November 3, 2026
 INFORMATION & ELECTION LOCATIONS
 Maps
 ▲
@@ -1205,6 +1207,11 @@ Poll Workers
 Poll Watchers
 Houston County Elections Administration
 PowerPoint Training & Refresher Courses
+Poll Worker Training Course PowerPoint by Chapters
+1 - 3
+4 - 6
+7
+8 - 11  with   Appendices A & B
 101
 - Introduction to Houston County Elections
 102
@@ -1222,16 +1229,15 @@ Applications and Forms
 Poll Worker Application
 Student Election Clerk
 Form W-4
-Form W-9
 ______________________________________
 VOLUNTEER DEPUTY REGISTRAR
 Volunteer Deputy Registrar Training Presentation
 (Spanish)
 Volunteer Deputy Registrar Guide
 (Spanish)
-After completing the online training
-call our office @ 936-544-3255 *243 to schedule a time to come in and fill out your application for appointment, and take your test to be appointed. Once you pass you will be appointed as a Volunteer Deputy Registrar and receive your certification and materials.
-*Note: all appointments will expire on December 31, of each even numbered year.
+After completing the online training,
+call our office @ 936-544-3255 *243 to schedule a time to come in and fill out your application for appointment, and take your test to be appointed. Once you pass, you will be appointed as a Volunteer Deputy Registrar and receive your certification and materials.
+*Note: all appointments will expire on December 31st of each even-numbered year.
 ___________________________________________________
 Open Records Request
 ▲

@@ -14,9 +14,9 @@ Departments
 Elections Department
 Hidalgo County Elections Department
 Registered Voters as of
-August 7, 2026
+August 19, 2026
 Total
-463,468.
+463,330.
 Welcome to the Hidalgo County Elections Department! Our goal is to provide voters with impeccable, transparent and timely service for a wide variety of county, city, school, state and federal constitutional elections.
 We pride ourselves on doing our best, being responsible with taxpayer dollars and running the smoothest elections possible.
 Facebook
@@ -110,7 +110,7 @@ Web Accessibility Statement
 ADA Policy
 /QuickLinks.aspx
 Helpful Links
-2026 Budget Process
+2027 Budget Process
 Case & Jail Records Search
 Hidalgo County LEPC
 Title VI

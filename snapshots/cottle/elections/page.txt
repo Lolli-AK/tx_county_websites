@@ -17,7 +17,6 @@ County Treasurer
 Tax Assessor Collector
 Sheriff
 Justice of the Peace
-County Auditor
 District Court
 District Attorney
 District Clerk

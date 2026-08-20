@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-18T08:20:31Z",
-  "html_sha256": "ec3bbbadf419f87c588e8dd3a3321e428b11ed3ebba76796ab958a77c7b43b55",
-  "text_sha256": "95483e1e7a7d0f6eeca90061504dcae5fe5a1d2cf884663b783f99dd02dcf192",
-  "byte_size": 24387,
+  "fetched_at": "2026-08-20T08:22:15Z",
+  "html_sha256": "dd5365c2fa3d9ebab780aa1b93e83d5f5eae5f0043333e3e5cc1dfbdf308fa09",
+  "text_sha256": "5dbbfffcd8f6a00274cbeb82e3aee297567ad15e63e22fe23b91235fc01346fe",
+  "byte_size": 27923,
   "title": "Current / Upcoming Elections - Galveston County, TX",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-18T08:20:31Z",
-  "html_sha256": "0946487905c553d70d427f8a1e78c6ae5dc451d1e72318e280dd30087041da14",
-  "text_sha256": "aeac979ac61eb9a64ded1c98fe9636e4744656d509b330b51ff165749e63d2fa",
-  "byte_size": 103905,
+  "fetched_at": "2026-08-20T08:22:15Z",
+  "html_sha256": "af34dbfdbfa0bdac12bfc8dd95be5349d2c8b1084fe450fbad7d8706b1671588",
+  "text_sha256": "8d48b1516e5d1cf180f36f431edaec7e6912de7cf41117dc1b5bdb60cb48cd9d",
+  "byte_size": 104634,
   "title": "Current/Upcoming Elections – Midland County, TX Elections",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T08:20:31Z",
-  "html_sha256": "23f0c99b8c7a026addc03419abf47a0866fcf57928b7c3187b3f020cec0baa6a",
-  "text_sha256": "e63f75eda61d652c3a7b8710c80879c0ac5d781727bd046b96f49b576ca80511",
-  "byte_size": 39777,
+  "fetched_at": "2026-08-20T08:22:15Z",
+  "html_sha256": "13e933c3a5fc04ecee5fcb68b1581b3112337e843c12d42ec88e1f0aa63897d1",
+  "text_sha256": "e08f085a1626de8d2133b893db3e095b354946468c9f050fa48d47d362534733",
+  "byte_size": 38858,
   "title": "Fannin County, Texas",
   "error": null
 }

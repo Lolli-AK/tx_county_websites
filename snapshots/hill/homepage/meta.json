@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T08:20:31Z",
-  "html_sha256": "ef6fce93f10c0dfa15426e2a3e3df168720c3e17c6383e89d53a9ab95d3518b4",
-  "text_sha256": "38554bda241b54d15aedb64952837c4f812a3dad8c33091f96b7e2ea17bff784",
-  "byte_size": 64267,
+  "fetched_at": "2026-08-20T08:22:15Z",
+  "html_sha256": "54104d862ef306378ad61d97db9352b532f55a039244c2dadf65e218fe66286b",
+  "text_sha256": "9a5c93aec424051d7bbabc865d52025800c8d19c4c83d3e52c69c56308b7d985",
+  "byte_size": 64670,
   "title": "Hill County, Texas",
   "error": null
 }

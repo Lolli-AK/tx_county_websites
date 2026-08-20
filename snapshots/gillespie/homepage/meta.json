@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T08:20:31Z",
-  "html_sha256": "6033b5b19283f5ca98bfa4b811a6efca8a9f04da3842a67035307a9321a4b371",
-  "text_sha256": "447389f3f75d66ac911ea6e3cd630dc670ea79c124a8226ca1057a13234363d3",
-  "byte_size": 58273,
+  "fetched_at": "2026-08-20T08:22:15Z",
+  "html_sha256": "6cc1cc88d33f050b2ea40bd5737902b4ecf461bd8af2710fa0a17bf580f8c2a2",
+  "text_sha256": "42a76c080fbdefa6a47c73bfe1e12ad9b06152eb48d88cf8fcc12887139415d5",
+  "byte_size": 58358,
   "title": "Gillespie County, TX | Official Website",
   "error": null
 }

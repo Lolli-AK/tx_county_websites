@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T08:20:31Z",
-  "html_sha256": "6edc7c5d7c4567bcc96f3940fc1cab27a959358d4cd19bbf9df75fc2e6c3238c",
-  "text_sha256": "86c285b1d4b90282e86bb29522d8861b51cfa3969a5c2f1fab6db8c85e356ccf",
-  "byte_size": 154500,
+  "fetched_at": "2026-08-20T08:22:15Z",
+  "html_sha256": "66a40d4187ea3bd4c1159b782f699791c2b0eda19c01f5c2693e8b202498cdd6",
+  "text_sha256": "3c3fec61843eb7208ff104ca5618e46acab194b54593bf8b83d4bf650970eb69",
+  "byte_size": 151381,
   "title": "Elections | Upton County",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T08:20:31Z",
-  "html_sha256": "34141993e728c0d4a33a07cb1d5c184ed78b36afed51e879cadd2445197b8723",
-  "text_sha256": "d960f1634604213871a343baec32764c9d8492672cc5654031742ff0c0e8094c",
-  "byte_size": 114887,
+  "fetched_at": "2026-08-20T08:22:15Z",
+  "html_sha256": "42eecf0e1b1bbb6fe36ba789ecbe89846bb1e38b23e53bca9b1f3ae5a0dca890",
+  "text_sha256": "8a6cd390640005f7611403e892b4bc3f02bdafe76b24a3794ae5aed16fa94838",
+  "byte_size": 115283,
   "title": "Elections 2026 | Hunt County, Texas",
   "error": null
 }

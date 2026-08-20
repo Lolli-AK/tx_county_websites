@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T08:20:31Z",
-  "html_sha256": "c4211f25b824dbdef7f53b27f13261a56e01756c7c38fa37aa9fd19a904c1df2",
-  "text_sha256": "ca5dddcc231dc48313d3658c2dada9b2cb8e3b56c17f3b90860a70568a09e8ac",
-  "byte_size": 369240,
+  "fetched_at": "2026-08-20T08:22:15Z",
+  "html_sha256": "9aba94f69d40a59007b2578652b69a131e2244b1e0a9e18673a5305dcaea47e4",
+  "text_sha256": "a64bea3c8566e664c7957c947d02ba3dfb04b805a7cc8457e5b75bfac2d75088",
+  "byte_size": 369461,
   "title": "Hemphill County, Texas",
   "error": null
 }

@@ -212,7 +212,7 @@ First day for voters to submit a Mail Ballot Application
 10/19/2026:
 First day of Early Voting
 10/23/2026
-: Last day to submit a Mail Ballot Application for Primary Election
+: Last day to submit a Mail Ballot Application for the General Election
 10/30/2026:
 Last day of Early Voting
 11/03/2026:
@@ -774,6 +774,19 @@ MAIL COMPLETED APPLICATIONS TO:
 Wilson County Elections Administration
 PO Box 188
 Floresville, TX 78114
+PUBLIC INFORMATION REQUEST
+▲
+General Information:
+The Texas Public Information Act does not require a governmental body to create new information, do legal research, or to answer questions.
+Request must be made in writing.
+Wilson County Elections/Voter Registration will respond within ten (10) business days to information requests.
+Wilson County Elections/Voter Registration only accepts cash or check for payment.
+A completed form can be hand delivered, mailed or emailed to:
+Wilson County Elections/Voter Registration
+1103 4th Street, Bldg B, Suite 101
+Floresville, TX 78114
+Email: elections@wilsoncountytx.gov
+Public Information Request form
 VOLUNTEER DEPUTY REGISTRAR "VDR"
 ▲
 Volunteer Deputy Registrars

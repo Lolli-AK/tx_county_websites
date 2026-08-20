@@ -23,8 +23,6 @@ County Calendar
 County News
 County Calendar
 Calendar
-Tue, Aug 18
-Commissioners Court Meeting
 Tue, Sep 1
 Commissioners Court Meeting
 Tue, Sep 15
@@ -34,6 +32,8 @@ Commissioners Court Meeting
 Tue, Sep 29
 Commissioners Court Meeting
 Tue, Oct 13
+Commissioners Court Meeting
+Tue, Oct 27
 Commissioners Court Meeting
 View All
 /Calendar.aspx
@@ -64,7 +64,7 @@ Web Accessibility Statement
 ADA Policy
 /QuickLinks.aspx
 Helpful Links
-2026 Budget Process
+2027 Budget Process
 Case & Jail Records Search
 Hidalgo County LEPC
 Title VI

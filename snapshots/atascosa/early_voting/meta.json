@@ -2,16 +2,16 @@
   "county": "Atascosa",
   "page_type": "early_voting",
   "requested_url": "https://atascosacounty-my.sharepoint.com/:x:/g/personal/cseiter_co_atascosa_tx_us/IQAVvZJaczEzSpO9nJE5CHxnAaib13gCwpIsvw91kcjYkxQ?rtime=-jVFc87s3kg",
-  "final_url": "https://atascosacounty-my.sharepoint.com/:x:/g/personal/cseiter_co_atascosa_tx_us/IQAVvZJaczEzSpO9nJE5CHxnAaib13gCwpIsvw91kcjYkxQ?rtime=A4t7ygH93kg",
+  "final_url": "https://atascosacounty-my.sharepoint.com/:x:/g/personal/cseiter_co_atascosa_tx_us/IQAVvZJaczEzSpO9nJE5CHxnAaib13gCwpIsvw91kcjYkxQ?rtime=lRTQa5T-3kg",
   "redirect_chain": [
     "https://atascosacounty-my.sharepoint.com/:x:/g/personal/cseiter_co_atascosa_tx_us/IQAVvZJaczEzSpO9nJE5CHxnAaib13gCwpIsvw91kcjYkxQ?rtime=-jVFc87s3kg",
-    "https://atascosacounty-my.sharepoint.com/:x:/g/personal/cseiter_co_atascosa_tx_us/IQAVvZJaczEzSpO9nJE5CHxnAaib13gCwpIsvw91kcjYkxQ?rtime=A4t7ygH93kg"
+    "https://atascosacounty-my.sharepoint.com/:x:/g/personal/cseiter_co_atascosa_tx_us/IQAVvZJaczEzSpO9nJE5CHxnAaib13gCwpIsvw91kcjYkxQ?rtime=lRTQa5T-3kg"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-08-18T08:20:31Z",
+  "fetched_at": "2026-08-20T08:22:15Z",
   "html_sha256": "1d3906fb78917decf1f7566ae2b3ebfa3fbfc234dbf66fb2d8fd361ad4c53544",
   "text_sha256": "8c2d2abfe1e1a0620460a3758e0f064d3266d765705577225f35f198c5c1c2da",
   "byte_size": 2958,

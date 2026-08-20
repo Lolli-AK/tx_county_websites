@@ -121,7 +121,9 @@ Contact
 Menu
 Home
 Updates
-Jury Duty IS NOT cancelled.
+Jury Duty
+IS
+cancelled for August the 24th.
 W2s and 1095-Cs are available in
 Employee Self-Service
 under Taxes.
@@ -148,6 +150,10 @@ Truth-in-Taxation Summary
 Texas Property Tax Code Section 26.16
 Report Storm Damages
 Report storm damages at damage.tdem.texas.gov.
+Public Notices
+View Gregg County's public notices. See the entire list or search by department.
+Burn Ban
+Burn Ban is in Effect
 Records
 County Clerk Records
 Judicial Records

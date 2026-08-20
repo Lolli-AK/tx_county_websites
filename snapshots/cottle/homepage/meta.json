@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-18T08:20:31Z",
-  "html_sha256": "003db7d66f80620ea260168dfbe04cdadc7ee3e1318f47a4061fcbc7a1f725f3",
-  "text_sha256": "81a45919687ae5dcb0e4087c9c45e7855762ee4a1f5b4c0e81c0b6aa683ba8f6",
-  "byte_size": 42029,
+  "fetched_at": "2026-08-20T08:22:15Z",
+  "html_sha256": "4660bd0ccbbe8391cb49fa08385617394d68753cdf44571f84db0acf925c49be",
+  "text_sha256": "cffa8a8b371183e1201746a20b6eb38d56e797585e552dba09bf310d1b9f785b",
+  "byte_size": 41891,
   "title": "Cottle County, Texas",
   "error": null
 }
