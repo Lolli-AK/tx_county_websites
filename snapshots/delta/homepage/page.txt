@@ -193,7 +193,7 @@ Departments & Committees
 Type
 Event Date
 Burn Ban in Effect
-An Emergency Burn Ban was issued for Delta County on August 14, 2026 effective immediately for a period of 7-days. The Commissioners' Court will review the burn ban on August 20, 2026 at 9:00 a.m. to determine if the burn ban shall be renewed, extended, or allowed to expire.
+A Burn Ban was issued for Delta County on August 20, 2026 effective immediately for a period of 90-days. The County Judge, under advisement of the County Fire Marshal, may rescind the burn ban prior to the 90-day period if the conditions that necessitated the burn ban no longer exist.
 Read more
 Acknowledged
 Close
@@ -222,16 +222,16 @@ Next
 View All
 Commissioners Court & Meetings
 Aug
-20
-Commissioners' Court Special Meeting
-9am
-Aug
 25
 Commissioners' Court Regular Meeting
 9am
 Sep
 8
 Commissioners' Court Regular Meeting
+9am
+Sep
+8
+Public Hearing on Fiscal Year 2027 Proposed Budget
 9am
 Previous
 Next

@@ -2,18 +2,19 @@
   "county": "Jasper",
   "page_type": "elections",
   "requested_url": "https://www.co.jasper.tx.us/page/jasper.Elections",
-  "final_url": "https://www.co.jasper.tx.us/page/jasper.Elections",
+  "final_url": "https://www.co.jasper.tx.us/page/Elections",
   "redirect_chain": [
-    "https://www.co.jasper.tx.us/page/jasper.Elections"
+    "https://www.co.jasper.tx.us/page/jasper.Elections",
+    "https://www.co.jasper.tx.us/page/Elections"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "2f9035555a7e0b76a3a2546febc723f92d98fd5b2981d97ccab8e07359c4fe8e",
-  "text_sha256": "9321306fd949c2874c5f6538b7d20094a7fa1c554b66f8525d9128580f3d9b9c",
-  "byte_size": 115108,
-  "title": "Elections - Jasper County",
+  "fetched_at": "2026-08-21T08:23:45Z",
+  "html_sha256": "b959b36e6f1d52495c300eb9d8399f4b8bf68f76dd597589da1506428d0fa3ff",
+  "text_sha256": "d95192916d0e0089cd343ba002ac52f3ef511d6bc05824fc5bd464fa48b7330c",
+  "byte_size": 106553,
+  "title": "Elections | Jasper County, Texas",
   "error": null
 }

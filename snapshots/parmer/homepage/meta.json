@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "76adea0ab803fcdbc0e9fd55aabb1c6a69b2f17eca7ad64d0824e38095a3b3f8",
-  "text_sha256": "99451846c3e391df9028437c3fb803c191fdafbfd6b39edc36f2deaeaec0e38b",
-  "byte_size": 34061,
+  "fetched_at": "2026-08-21T08:23:45Z",
+  "html_sha256": "728a5e2c250cf5e2dfdea24cd6b940e14e78dc369f601aa894cac403656d95e1",
+  "text_sha256": "99404bf1be909be2b94b9ff1b3ad902c36d533b1e5e933248b4db56b2610b0fd",
+  "byte_size": 33986,
   "title": "Welcome to Parmer County - Parmer County",
   "error": null
 }

@@ -302,7 +302,7 @@ Property Tax FAQ
 Public Records Search
 Victims Assistance
 Voter Registration
-Burn Ban is NOT in effect
+Burn Ban IS in effect
 Scam Call Warning
 Current Phone Scam
 Learn More
@@ -321,16 +321,6 @@ Payments
 Jury Duty
 Get the latest news and information sent directly to your inbox.
 Meetings & Events
-18
-Aug
-Tue
-9:00 AM - 5:00 PM
-Budget Workshop - Canceled
-19
-Aug
-Wed
-9:00 AM - 5:00 PM
-Commissioners Court
 02
 Sep
 Wed
@@ -341,6 +331,16 @@ Sep
 Mon
 All Day
 Labor Day
+09
+Sep
+Wed
+9:00 AM - 5:00 PM
+Commissioners Court
+23
+Sep
+Wed
+9:00 AM - 5:00 PM
+Commissioners Court
 More Events
 There are no news items.
 More News

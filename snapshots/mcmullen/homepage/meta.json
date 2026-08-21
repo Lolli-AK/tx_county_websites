@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://mcmullencounty.org/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "e103ebec49d87a22012a363213eedb66ab7f5947683973b7de0c332b0d75f242",
-  "text_sha256": "f621514a81fa9ec869e5a6f17662b390cb8d9da79ebaf8819cf263c393b0e38b",
-  "byte_size": 209829,
+  "fetched_at": "2026-08-21T08:23:45Z",
+  "html_sha256": "47482f141f4408a41c2bd9416500590edf6ada4cf4b565e93652b05ce02fa01c",
+  "text_sha256": "3d4d13622c58873e71b1b4b5107bba1f34f13a8942150f247c18971b853221b6",
+  "byte_size": 292946,
   "title": "McMullen County",
   "error": null
 }

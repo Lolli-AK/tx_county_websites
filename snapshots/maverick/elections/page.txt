@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-81°F
+86°F
 EN
 ES
 Government
@@ -364,5 +364,11 @@ Underline links
 Distinguish links without color
 Reduce motion
 Removes animations and background video
+Invert colors
+Inverted colors for light sensitivity
+Legible fonts
+Simple, clear typography site-wide
+Big cursor
+Larger, more visible pointer
 Reset settings
 WCAG 2.1 AA · ADA Title II

@@ -46,37 +46,10 @@ PO Box 545
 Farwell, TX. 79325
 806-481-9151
 Fax: 806-481-9548
-May 26, 2026 Primary Runoff
-OFFICAL ELECTION RESULTS 5-27-26
-PEHCA5
-Notice of L&A Test of Pollbooks
-Sample Ballots
-Notice of Joint Election
-Date, Time and Location 5-26-26
-Notice of Public L&A Test
-Poll Worker Training Hours
-Notice of Delivery of Ballots by Mail
-Notice of Delivery of EV Ballot Materials
-Notice of Delivery of Provisional Ballots
-Notice of Post-Election Hand Count
-March 3, 2026 Primary Elections
-OFFICAL RESULTS
-Post Election Hand Count Audit
-CCS for Parmer County
-Notice of Early Voting Ballot Materials
-Notice of Delivery of Provisional Ballots
-Notice of Delivery of EV Ballot Materials
-Notice of Early Voting Sat and Sun
-Notice of Delivery of Mail in Ballot
-Notice of Canidate Drawing
-Notice of Joint Election
-Date Time & Location
-Public L&A Test and Pollbook Test
-Notice of Voting Order Priority for Voters with Certain Disabilities
-Notice of Required Identification
-Sample Ballot
-Poll Worker Training for the March 3rd, 2026 Election Dates
-Notice of Hand Count
+November 3, 2026 Elections
+Notice of General Election 11-3-26
+Notice of Date, Time and Location 11-3-26
+Central Counting Station Plan 11-3-26
 Upcoming Elections
 Mar 3, 2026 Primary
 May 2, 2026
@@ -179,6 +152,8 @@ Nov 7, 2023 Special Amendment Election
 Nov 5, 2024 General Election
 March 5, 2024 Joint Primary Election
 Nov 4, 2025 Special Election
+March 3rd 2026 Primary Election
+May 26th 2026 Primary Runoff Election
 ADDITIONAL INFORMATION
 Notice of Disability
 Certain Activities in the Polling Place

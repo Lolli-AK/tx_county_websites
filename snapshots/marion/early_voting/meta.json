@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://marioncountytaxoffice.com/november-5-2024-general-election/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "fe3ea0f0982acadd07cacbb19377e639d1d76ebfeae6c4d09812eada59283071",
-  "text_sha256": "3adea2bfe5e18a641bfe5c083cd986aace9fa282351f6b9469beecb88bd192e1",
-  "byte_size": 79580,
+  "fetched_at": "2026-08-21T08:23:45Z",
+  "html_sha256": "32e6016472ae262f66f78b6a91612a054fc81924e534562cd189b9e9ac88eb99",
+  "text_sha256": "f7f481b2ea1036908dcbbb143f9ef29803486ac5aa421df0b8f8ccb1d2a7a56e",
+  "byte_size": 88952,
   "title": "NOVEMBER 5, 2024 GENERAL ELECTION – Marion County Tax Office",
   "error": null
 }

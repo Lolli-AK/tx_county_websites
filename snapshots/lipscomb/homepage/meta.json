@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "70b2769297a17679e416cf9fe3f14f5054c7015f072e53d44e3ae365c115b80b",
-  "text_sha256": "464d799f63907662ab5c77f248e1b6181b4059650c5ee38a48ade99bbfa06de9",
-  "byte_size": 23911,
+  "fetched_at": "2026-08-21T08:23:45Z",
+  "html_sha256": "4acf0d8fc452405c58ac0c5368e92510a0bbbaa125c8267e8470ab86ac2944b3",
+  "text_sha256": "20981614607270d9c4356849e1ba12a77b564f5db46bc37705b83e011b34daa1",
+  "byte_size": 24729,
   "title": "Lipscomb County, Texas",
   "error": null
 }

@@ -56,39 +56,8 @@ Elections Quicklinks
 Toggle main menu visibility
 Menu
 Elections - Home
-Elections 2026
-Elections 2025
-Voter Registration
-Vote by Mail
-Voter ID
 What is my precinct? Where do I vote?
-Web Posting Requirements Relating to Candidate Filing
-Activities in Vicinity of Polling Places
-Nov 4, 2025 Amendment Vote History
-2025 Candidate Filing Reports
-Judge Cooper
-Sheriff Bragg
-Bragg Campaign Finance Report
-Bragg Campaign Finance Report
-Commissioner Parchman
-Cory Amerson App. of Treasurer
-Amerson Intenet to Run
-Durant Appt. of Treasurer
-Hess Appointment of Treasurer
-Dunn Appointment of Treasurer
-Stockinger Appointment of Treasurer
-Brosnan Appointment of Treasurer
-Mitchell Treasurer Appointment
-Zachry Treasurer Appointment
-McCarley Treasuer Appointment
-Carrol Appointment of Treasurer
-Redfearn Appointment of Treasurer
-Reynolds Appointment of Treasurer
-Webster Treasurer Appointment
-Hageman Treasurer Appointment
-Turner Treasurer Appointment
-Applewhite Treasurer Appointment
-Bragg Finance Report
+Elections 2026
 2026 Candidate Filing Reports
 Applewhite Finance Report
 Applewhite Finance Report 2
@@ -124,6 +93,11 @@ Hess Finance Report 2
 Hess Finance Report 3
 Amerson Finance Report
 Amerson Write-In Form
+Voter Registration
+Vote by Mail
+Voter ID
+Web Posting Requirements Relating to Candidate Filing
+Activities in Vicinity of Polling Places
 Previous Years Elections
 November 5th, 2024 Election
 November 5 Voter History
@@ -131,6 +105,32 @@ November 5, 2024 Unofficial Results
 November 5, 2024 Canvass Report
 November 5, 2024 Election Forms
 Previous Elections
+Nov 4, 2025 Amendment Vote History
+Elections 2025
+2025 Candidate Filing Reports
+Judge Cooper
+Sheriff Bragg
+Bragg Campaign Finance Report
+Bragg Campaign Finance Report
+Commissioner Parchman
+Cory Amerson App. of Treasurer
+Amerson Intenet to Run
+Durant Appt. of Treasurer
+Hess Appointment of Treasurer
+Dunn Appointment of Treasurer
+Stockinger Appointment of Treasurer
+Brosnan Appointment of Treasurer
+Mitchell Treasurer Appointment
+Zachry Treasurer Appointment
+McCarley Treasuer Appointment
+Carrol Appointment of Treasurer
+Redfearn Appointment of Treasurer
+Reynolds Appointment of Treasurer
+Webster Treasurer Appointment
+Hageman Treasurer Appointment
+Turner Treasurer Appointment
+Applewhite Treasurer Appointment
+Bragg Finance Report
 Candidate Guide
 Training Videos
 STUDENT ELECTION CLERK APPLICATION
@@ -170,7 +170,6 @@ Note: The Titus County Elections Department will continue to deputize walk-in’
 110 S. Madison Ave. Ste C, Mt. Pleasant, TX 75455
 Press the enter key or spacebar to expand or collapse the accordion
 Elections
-The Elections Office will be closed Aug 10-12, 2026 to allow us to attend the Election Law Seminar. We will return Aug 13th.
 Elections Administrator
 Michelle Whorton
 elections@co.titus.tx.us

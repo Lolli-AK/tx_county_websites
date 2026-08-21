@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "5caa0f1ddcbcd954b2421cf10987047ec79fb16fe78fdcd21bbd2473bc6994a8",
-  "text_sha256": "2cadbaf1f2f93f9df9d2ece8d8f4235f692765648d9a9c87c774359d1b9958a9",
-  "byte_size": 78488,
+  "fetched_at": "2026-08-21T08:23:45Z",
+  "html_sha256": "23440d5c3c29f20c308d74bfa32f4f33fbab7030b608bdba0e40753cce592db7",
+  "text_sha256": "14b4f4d1e4a76afe30e3d344210f06c202301dd6f4b28aabb1dad7a0d26f5069",
+  "byte_size": 79429,
   "title": "Election Day Vote Information | Bexar County, TX - Official Website",
   "error": null
 }

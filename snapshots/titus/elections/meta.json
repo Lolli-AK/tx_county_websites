@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "3d781a80fe6c4bd525c3219a980d6bcef78f11390b3ef0872037374035aeee21",
-  "text_sha256": "b98910eb112f9a8c6d9a63208ea7a3165e83aeda19ac0eda64cce38853c4ebce",
-  "byte_size": 65458,
+  "fetched_at": "2026-08-21T08:23:45Z",
+  "html_sha256": "88429384acb6b96e8bd77fade694cf72d2a2b276391998f9543b413f72ad12a4",
+  "text_sha256": "f0feb5336c70084c2a03cabb32577fa546940e57f10ad652128a9e23ade83189",
+  "byte_size": 65365,
   "title": "Elections | Titus County, Texas",
   "error": null
 }

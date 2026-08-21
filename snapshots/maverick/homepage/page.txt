@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-81°F
+86°F
 EN
 ES
 Government
@@ -51,6 +51,13 @@ Commissioners Court
 Commissioners Court Special Meeting
 Friday, August 21, 2026 · 9:00 AM
 Maverick County Courthouse
+26
+AUG
+meeting
+Commissioners Court
+Commissioners Court Regular Meeting
+Wednesday, August 26, 2026 · 5:00 PM
+Maverick County Courthouse
 05
 SEP
 community
@@ -64,14 +71,6 @@ holiday
 Holiday
 Labor Day
 Monday, September 7, 2026
-All county offices closed
-All Maverick County offices will be closed in observance of this federal holiday.
-12
-OCT
-holiday
-Holiday
-Columbus Day
-Monday, October 12, 2026
 All county offices closed
 All Maverick County offices will be closed in observance of this federal holiday.
 Quick access
@@ -97,25 +96,39 @@ June 4, 2026
 Public Notice
 Maverick County Public Notice of Application
 May 13, 2026
-Transparency
-Latest Public Documents
+Public Documents
+Financial Transparency
 View all
 Current Bids & Proposals
+Latest
 RFP# FY26-07 — Internet Service Provider (ISP) Services (Deadline: August 31, 2026, 2:00 PM)
+View all documents
 PDF
 Open document
 Foreclosure Postings
-August 4, 2026 - Fernando E. Martinez and Rosa Gabriela Martinez
+Latest
+October 6, 2026 - Myrna C. Martinez Wheeler
+View all documents
 PDF
 Open document
 Audits
+Latest
 Maverick County Annual Financial Report 2024
+View all documents
 PDF
 Open document
 Budgets
+Latest
 Proposed Budget - FY 2027
+View all documents
 PDF
 Open document
+More transparency sections
+Monthly Financial Reports
+Check Registers
+Truth in Taxation
+Unclaimed Funds
+Elections Department
 County Government
 Find your officials
 Commissioners Court
@@ -160,10 +173,10 @@ Emergency Operations Center
 Sign Up for Emergency Alerts
 Get urgent Maverick County notifications by text, call or email: severe weather, evacuations, road closures and emergencies.
 Sign Up
-81°
+86°
 F
 Weather · Eagle Pass
-Clear
+Haze
 Official portal · Transparency
 Commissioners Court Agendas
 Access agendas, minutes, recordings and official notices for every Maverick County Commissioners Court session. All public information from the county's governing body, in one place.
@@ -213,5 +226,11 @@ Underline links
 Distinguish links without color
 Reduce motion
 Removes animations and background video
+Invert colors
+Inverted colors for light sensitivity
+Legible fonts
+Simple, clear typography site-wide
+Big cursor
+Larger, more visible pointer
 Reset settings
 WCAG 2.1 AA · ADA Title II

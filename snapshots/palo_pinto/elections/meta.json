@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "69691364e64a4d9b1171cd9f8b068802526b829dcee14387e32518b1aff24777",
-  "text_sha256": "b1df93bee5946efe8ed8ebcb6b00eb8d1e10a5a714da4995578f8d208c7a3c57",
-  "byte_size": 26845,
+  "fetched_at": "2026-08-21T08:23:45Z",
+  "html_sha256": "da7bdfdd3d122c24295fcba86329a0ac47fffae0ec6666d172f441280de733d8",
+  "text_sha256": "f85103b9b8a55c28710af15173a50093531c4afec43c97e8190756a5a944b4c3",
+  "byte_size": 26674,
   "title": "Elections Administration | Palo Pinto County, Texas",
   "error": null
 }
