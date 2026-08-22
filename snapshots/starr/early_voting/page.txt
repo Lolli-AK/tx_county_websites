@@ -3,6 +3,7 @@ Close Menu
 Voter
 View information for upcoming Elections
 Election Information
+Harris Votes App
 Registration
 Vote Centers
 Find a Vote Center
@@ -47,6 +48,7 @@ Elections Department
 Voter
 View information for upcoming Elections
 Election Information
+Harris Votes App
 Registration
 Vote Centers
 What's on my Ballot?

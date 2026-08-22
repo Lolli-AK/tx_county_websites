@@ -83,12 +83,12 @@ Houston County Elections Administrator
 REO # TX-138
 401 East Goliad Avenue
 Crockett, Texas 75835
-Regular Office hours
-Monday - Friday
-9:00 a.m. - 4:00 p.m.
 Tel: (936) 544-3255 ext 243
 Fax: (936) 544-0189
 Email: election@co.houston.tx.us
+Regular Office hours
+Monday - Friday
+9:00 a.m. - 4:00 p.m.
 Contact Us
 ▲
 tab1
@@ -96,6 +96,45 @@ Email:
 Invalid Email Format
 Reason for Inquiry
 reCAPTCHA is required
+November 3, 2026 General Mid-Term / Special Election
+▲
+Election Results
+Official
+Election Total
+Precinct by Precinct
+Reconciliation Form
+Preliminary/Unofficial
+Election Total
+Precinct by Precinct
+Reconciliation Form
+Notice of Canvass
+Canvass
+Joint General / Special Election
+List of Voting Locations
+Order of Election
+Lovelady ISD Order of Election
+Notice of Joint General / Special Election
+Sample Ballot
+PROCLOMATION OF ELECTION
+Notice of Public Testing of Automatic Tabulating Equipment
+Notice of Public Logic and Accuracy Test of Electronic Pollbook Equipment
+Notice of Election Training Program
+Central Counting Station - Written Plan
+Notice of Delivery of Balloting Materials to Early Voting Ballot Board
+Notice of Delivery of Balloting Materials to Central Counting Station
+Notice of Delivery of Provisional Ballots
+Rosters
+Early Voting
+Ballot By Mail
+Election Day
+Notice of Post-Election Hand Count Audit                                                                                                                (Replaces Partial Manual Recount)
+Notice of Designation of Early voting Ballot Board Members for                               the Post-Election Hand Count Audit
+Summary and Certification of Post-Election Hand Count Audit Results
+Post-Election Hand Count Audit Returns
+Previous Elections
+▲
+2026 Elections
+▲
 March 3, 2026 Joint Primary Election
 ▲
 Election Results
@@ -338,43 +377,6 @@ Republican
 Post-Election Hand Count Audit Returns
 Democratic
 Republican
-November 3, 2026 General Mid-Term / Special Election
-▲
-Election Results
-Official
-Election Total
-Precinct by Precinct
-Reconciliation Form
-Preliminary/Unofficial
-Election Total
-Precinct by Precinct
-Reconciliation Form
-Notice of Canvass
-Canvass
-Joint General / Special Election
-List of Voting Locations
-Order of Election
-Lovelady ISD Order of Election
-Notice of Joint General / Special Election
-Sample Ballot
-PROCLOMATION OF ELECTION
-Notice of Public Testing of Automatic Tabulating Equipment
-Notice of Public Logic and Accuracy Test of Electronic Pollbook Equipment
-Notice of Election Training Program
-Central Counting Station - Written Plan
-Notice of Delivery of Balloting Materials to Early Voting Ballot Board
-Notice of Delivery of Balloting Materials to Central Counting Station
-Notice of Delivery of Provisional Ballots
-Rosters
-Early Voting
-Ballot By Mail
-Election Day
-Notice of Post-Election Hand Count Audit                                                                                                                (Replaces Partial Manual Recount)
-Notice of Designation of Early voting Ballot Board Members for                               the Post-Election Hand Count Audit
-Summary and Certification of Post-Election Hand Count Audit Results
-Post-Election Hand Count Audit Returns
-Previous Elections
-▲
 2025 Elections
 ▲
 May 3, 2025 Election

@@ -120,11 +120,11 @@ Reason for Inquiry is required
 reCAPTCHA is required
 Press the enter key or spacebar to expand or collapse the accordion
 Important dates:
-May 26, 2026
-Primary Election Runoff
-Monday, April 27, 2026
-is the last day to register to vote or make a change of address effective for the Tuesday, May 26, 2026 primary runoff election.
-May 15, 2026
+November 3, 2026
+General Election
+Monday, October 5, 2026
+is the last day to register to vote or make a change of address effective for the Tuesday, November 3, 2026 general election.
+Friday, October 23, 2026
 Last day for our office to receive
 Applications for Ballot by Mail
 &
@@ -133,15 +133,19 @@ Early Voting
 Lavaca Courthouse Annex
 412 N. Texana St
 Hallettsville, TX 77964
-Monday, May 18th  7 AM - 7 PM
-Tuesday, May 19th  7 AM - 7 PM
-Wednesday, May 20th  7 AM - 7 PM
-Thursday, May 21st  7 AM - 7 PM
-Friday, May 22nd  7 AM - 7 PM
+Monday, October 19th 8 AM - 5 PM
+Tuesday, October 20th  8 AM - 5 PM
+Wednesday, October 21st  8 AM - 5 PM
+Thursday,
+October 22nd  8 AM - 5 PM
+Friday, October 23rd  8 AM - 5 PM
+Saturday, October 24th 7 AM - 7 PM
+Sunday, October 25th 8 AM - 2 PM
+Monday, October 26th through Friday, October 30th 7 AM - 7 PM
 Election Day
-Tuesday, May 26th
+Tuesday, November 3rd
 7:00 AM - 7:00 PM
-Registered Voters will vote at their assigned polling location:
+Registered Voters will vote at their assigned Precinct Polling Location:
 Precinct 101 – Lavaca County Courthouse
 Precinct 102 – Senior Citizens Center
 Precinct 119 – Vienna Baptist Church
@@ -249,33 +253,6 @@ Press Releases
 ▲
 Voter Registration Cards Delayed_01292026
 Voter Registration Cards Delayed-Unknown Date_02232026
-Press the enter key or spacebar to expand or collapse the accordion
-May 26th 2026 Runoff (March 3rd Primary)
-▲
-NOTICE OF CANVASS.pdf
-Download file
-Post Election Hand Count Audit
-▲
-DEM_PEHCA RETURNS 05262026.pdf
-DEM_SUMMARY AND CERTIFICATION OF PEHCA 05262026.pdf
-REP_PEHCA RETURNS 05262026.pdf
-REP_SUMMARY AND CERTIFICATION OF PEHCA 05262026.pdf
-TALLY SHEETS 05262026.pdf
-Download file
-Press the enter key or spacebar to expand or collapse the accordion
-UNOFFICIAL RESULTS BY PRECINCT (slideshow)
-Active slide image alt text will be announced here
-PRELIMINARY RECONCILIATION
-UNOFFICIAL RESULTS_Page 1 of 2
-UNOFFICIAL RESULTS_Page 2 of 2
-DEMOCRAT RUNOFF SAMPLE BALLOT
-REPUBLICAN RUNOFF SAMPLE BALLOT
-NOTICE OF POLL WORKER TRAININGS_Runoff
-EARLY VOTING TURNOUT
-NOTICE OF Primary Election-Rep.pdf
-Download file
-NOTICE OF Primary Election-Dem.pdf
-Download file
 Press the enter key or spacebar to expand or collapse the accordion
 tab1
 Ballot By Mail Information
@@ -402,35 +379,10 @@ Notice of Voting Priority
 Press the enter key or spacebar to expand or collapse the accordion
 Notice of Test of Automatic Tabulating Equipment
 ▲
-Active slide image alt text will be announced here
-L & A NOTICE_POLLBOOKS
 Press the enter key or spacebar to expand or collapse the accordion
 Official Polling Locations
 ▲
 Voting Precinct Locations Address Chart
-Press the enter key or spacebar to expand or collapse the accordion
-May 2nd 2026 Entity Elections
-▲
-Post Election Hand Count Audit
-▲
-AUDIT RETURNS 05022026.pdf
-EXPLANATION 05022026.pdf
-PEHCA TALLY SHEETS 05022026.pdf
-SUMMARY_CERTIFICATION OF PEHCA 05022026.pdf
-Download file
-Press the enter key or spacebar to expand or collapse the accordion
-Election Information and Notices
-▲
-City of Shiner_NOTICE OF ELECTION
-Shiner ISD_NOTICE OF ELECTION
-Early Voting Roster
-PRELIMINARY_RECONCILIATION
-OFFICIAL_RECONCILIATION
-UNOFFICIAL_RESULTS_Page1of2
-UNOFFICIAL_RESULTS_Page2of2
-City of Shiner + Shiner ISD_Sample Ballot
-Shiner ISD Sample Ballot
-Press the enter key or spacebar to expand or collapse the accordion
 Press the enter key or spacebar to expand or collapse the accordion
 March 3, 2026, Primary Election
 ▲
@@ -515,6 +467,33 @@ Voting Equipment
 ▲
 How it Works - Barcodes & Ovals
 Express Vote Ballot Marker
+May 26th 2026 Runoff (March 3rd Primary)
+▲
+NOTICE OF CANVASS.pdf
+Download file
+Post Election Hand Count Audit
+▲
+DEM_PEHCA RETURNS 05262026.pdf
+DEM_SUMMARY AND CERTIFICATION OF PEHCA 05262026.pdf
+REP_PEHCA RETURNS 05262026.pdf
+REP_SUMMARY AND CERTIFICATION OF PEHCA 05262026.pdf
+TALLY SHEETS 05262026.pdf
+Download file
+Press the enter key or spacebar to expand or collapse the accordion
+UNOFFICIAL RESULTS BY PRECINCT (slideshow)
+Active slide image alt text will be announced here
+PRELIMINARY RECONCILIATION
+UNOFFICIAL RESULTS_Page 1 of 2
+UNOFFICIAL RESULTS_Page 2 of 2
+DEMOCRAT RUNOFF SAMPLE BALLOT
+REPUBLICAN RUNOFF SAMPLE BALLOT
+NOTICE OF POLL WORKER TRAININGS_Runoff
+EARLY VOTING TURNOUT
+NOTICE OF Primary Election-Rep.pdf
+Download file
+NOTICE OF Primary Election-Dem.pdf
+Download file
+Press the enter key or spacebar to expand or collapse the accordion
 Press the enter key or spacebar to expand or collapse the accordion
 May 3, 2025 Entity Election
 ▲
@@ -953,6 +932,31 @@ Contest Entry Form
 Contest Consent Form
 Blank "I Voted" Form
 Blank "Future Voter" Form
+Press the enter key or spacebar to expand or collapse the accordion
+Press the enter key or spacebar to expand or collapse the accordion
+May 2nd 2026 Entity Elections
+▲
+Active slide image alt text will be announced here
+L & A NOTICE_POLLBOOKS
+Post Election Hand Count Audit
+▲
+AUDIT RETURNS 05022026.pdf
+EXPLANATION 05022026.pdf
+PEHCA TALLY SHEETS 05022026.pdf
+SUMMARY_CERTIFICATION OF PEHCA 05022026.pdf
+Download file
+Press the enter key or spacebar to expand or collapse the accordion
+Election Information and Notices
+▲
+City of Shiner_NOTICE OF ELECTION
+Shiner ISD_NOTICE OF ELECTION
+Early Voting Roster
+PRELIMINARY_RECONCILIATION
+OFFICIAL_RECONCILIATION
+UNOFFICIAL_RESULTS_Page1of2
+UNOFFICIAL_RESULTS_Page2of2
+City of Shiner + Shiner ISD_Sample Ballot
+Shiner ISD Sample Ballot
 Press the enter key or spacebar to expand or collapse the accordion
 Press the enter key or spacebar to expand or collapse the accordion
 Press the enter key or spacebar to expand or collapse the accordion

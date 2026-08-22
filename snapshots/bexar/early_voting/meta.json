@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-21T08:23:45Z",
-  "html_sha256": "35fbd20a3bab972d7155ebb8e2cc9ced3327e0dd0fcd5a50632cf3663fbd794b",
-  "text_sha256": "b5fb50302362353513628198a0950ce143e39044b1c8740056c01fa84e79c96e",
-  "byte_size": 79385,
+  "fetched_at": "2026-08-22T08:14:49Z",
+  "html_sha256": "ca357cd261340555e572ff1325eae36564f996aa55f9b511c08f81533f337af2",
+  "text_sha256": "052884df90c7751f62a9e076e0d4031243f54cdfcf46b2a187e01f43246f8f7c",
+  "byte_size": 79202,
   "title": "Early Vote Information | Bexar County, TX - Official Website",
   "error": null
 }

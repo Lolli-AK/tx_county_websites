@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-21T08:23:45Z",
-  "html_sha256": "6ee20d65439cb330bd6ca6e551d828b485c3141abd4dd53b9b1d2148c5646ed3",
-  "text_sha256": "1603705fb2c136c993bf1ff9c778cb38f32ca903304d882be63e9db53f0152f6",
-  "byte_size": 120821,
+  "fetched_at": "2026-08-22T08:14:49Z",
+  "html_sha256": "74c77bc4ef0c265f5f068feca385923c111b8eb346cc390bb095e4dd0448fdde",
+  "text_sha256": "5f9cfaebddde70efe4d34fc3ebb2de5190e7672b4c2444b60bcba3e4066a604a",
+  "byte_size": 121061,
   "title": "March 3, 2026 Joint Primary Election Information",
   "error": null
 }

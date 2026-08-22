@@ -24,6 +24,7 @@ August 24, 2026 Meeting Agenda
 Dallam County Proposed Tax Hearing Notice
 Dallam County Budget Hearing Notice
 Dallam County Tax Notice
+Tax Payer Impact Statement
 Choose a Category to Explore:
 Departments
 Voting/Votacion
@@ -38,4 +39,4 @@ All Rights Reserved
 WCR Design
 Visitor #: [an error occurred while processing this directive]
 Couldn't open /www/dallam/cgi-bin/dan_o.dat so I'm bugging out..
-Last Modified: Wednesday, 19-Aug-2026 17:10:04 EDT
+Last Modified: Friday, 21-Aug-2026 14:58:30 EDT

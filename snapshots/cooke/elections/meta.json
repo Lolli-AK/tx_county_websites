@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-21T08:23:45Z",
-  "html_sha256": "a4cebaf0a67ea90376efb26c723c58455f98be5addbe42e2e7809273b88a3db0",
-  "text_sha256": "b6810e8fa043f8e202933e3452cf394a03b6c55fd8eabfe5a48988708a8cdc18",
-  "byte_size": 353849,
+  "fetched_at": "2026-08-22T08:14:49Z",
+  "html_sha256": "885d22fafc4640a5a057b952af4b6cd4142e783b32387a38ea5af30c53c31771",
+  "text_sha256": "d464d5c998ae7bb0ba15016c51c76f8a0315c28a056c391d65cffe1995c0d909",
+  "byte_size": 353634,
   "title": "Cooke County, Texas",
   "error": null
 }

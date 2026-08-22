@@ -122,7 +122,7 @@ Election Results
 Election Daily Turnout
 Reconciliation Forms
 Notice of Election
-Public Notices
+Past Public Notices
 Register to Vote
 Vote by Mail Information
 Voting as a Student
@@ -133,12 +133,17 @@ What is My Precinct and District?
 Political Parties/Candidate Filing Resources
 Offices and Terms Information
 Campaign Finance Reports
-Campaign Signs
 Central Appraisal District Filing
+Campaign Signs
 Elections Commission Agendas/Minutes
 Elections Equipment
 Public Information Request Information
 Getting Involved in Elections
+How to Become an Election Worker
+How to Become a Volunteer Deputy Registrar
+How to Become a Poll Watcher
+How to Become a Student Clerk
+How to Get Kids Involved
 Meet our Staff
 Extension Office
 GIS & Mapping

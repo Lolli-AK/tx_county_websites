@@ -571,16 +571,959 @@
       </strong>
       Skip the lines and cast your vote before Election Day.
      </p>
+     <p>
+      For an Early Voting Location near you click on the “SEARCH” button below. We will try to determine your nearest Early Voting Location, but the results may be inconsistent based on your device’s security settings. The full list of Early Voting Locations is below, and you can filter by zip code to find a location near you!
+     </p>
+     <div class="b-top pt-4">
+      <div class="section__title section__title--small text-clr-red mb-3">
+       Find My Nearest Early Voting Location
+      </div>
+      <a class="btn" href="#" id="findClosestLocationButton">
+       Search
+      </a>
+     </div>
+     <div id="nearestLocation">
+     </div>
     </div>
    </div>
   </section>
-  <div class="container">
-   <div class="row mb-5">
-    <div class="col text-center">
-     Early Voting Locations will become available as the election gets closer.
+  <section class="section" id="searchTop">
+   <div class="container">
+    <div class="row">
+     <div class="col">
+      <div class="section__title section__title--small text-clr-red text-center mb-4">
+       All Early Voting Locations
+      </div>
+      <form accept-charset="UTF-8" action="/voter-information/early-voting-locations/search" class="simple_form new_q" data-remote="true" id="new_q" method="post" novalidate="novalidate">
+       <div class="row align-items-center justify-content-center">
+        <div class="col-lg-4">
+         <div class="form-group string required q_address_cont">
+          <input class="form-control string required" id="q_address_cont" name="q[address_cont]" placeholder="Filter by Zip Code" type="tel"/>
+         </div>
+        </div>
+        <div class="col-lg-2 text-center form-group">
+         <button class="btn">
+          Submit
+         </button>
+        </div>
+        <div class="col-lg-2 text-center text-xl-left form-group">
+         <a class="text-clr-black" data-method="post" data-remote="true" href="/voter-information/early-voting-locations/reset" rel="nofollow">
+          Reset
+         </a>
+        </div>
+       </div>
+      </form>
+     </div>
+    </div>
+    <div class="row mt-4">
+     <div class="col">
+      <div id="map">
+      </div>
+      <div id="mapScript">
+      </div>
+     </div>
+    </div>
+    <div class="row mt-5" id="locations">
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/agua-dulce-community-center">
+         Agua Dulce Community Center
+        </a>
+       </strong>
+       <br/>
+       15371 Kentwood Ave. 79928
+       <br/>
+       Classroom B
+       <br/>
+       <em>
+        (Salón B)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/agua-dulce-community-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/arlington-park-shelter">
+         Arlington Park Shelter
+        </a>
+       </strong>
+       <br/>
+       10350 Pasadena Cir. 79924
+       <br/>
+       Main Room
+       <br/>
+       <em>
+        (Cuarto Principal)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/arlington-park-shelter">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/bassett-place">
+         Bassett Place
+        </a>
+       </strong>
+       <br/>
+       6101 Gateway West 79925
+       <br/>
+       Next to Claire's
+       <br/>
+       <em>
+        (Al lado de Claire's)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/bassett-place">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/canutillo-nutrition-center">
+         Canutillo Nutrition Center
+        </a>
+       </strong>
+       <br/>
+       7351 Bosque Rd. 79835
+       <br/>
+       Exercise Room
+       <br/>
+       <em>
+        (Cuarto de Ejercicios)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/canutillo-nutrition-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/carl-l-robinson-heat-retreat">
+         Carl L. Robinson Heat Retreat
+        </a>
+       </strong>
+       <br/>
+       5509 Will Ruth Ave. 79924
+       <br/>
+       The People's Place
+       <br/>
+       <em>
+        (El Lugar de la Gente)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/carl-l-robinson-heat-retreat">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/chayo-apodaca-community-center">
+         Chayo Apodaca Community Center
+        </a>
+       </strong>
+       <br/>
+       341 N. Moon Rd. 79927
+       <br/>
+       Community Center
+       <br/>
+       <em>
+        (Centro Comunitario)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/chayo-apodaca-community-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/city-of-san-elizario-municipal-court">
+         City of San Elizario Municipal Court
+        </a>
+       </strong>
+       <br/>
+       12004 Socorro Rd. Suite B, 79849
+       <br/>
+       Council Chambers
+       <br/>
+       <em>
+        (Consejo de Cámaras)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/city-of-san-elizario-municipal-court">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/clint-junior-high-school">
+         Clint Junior High School
+        </a>
+       </strong>
+       <br/>
+       12625 Alameda Ave. 79836
+       <br/>
+       Library Conference Room
+       <br/>
+       <em>
+        (Cuarto de Conferencias de la Biblioteca)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/clint-junior-high-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/commissioner-s-corner">
+         Commissioner's Corner
+        </a>
+       </strong>
+       <br/>
+       10700 Montana Ave. 79936
+       <br/>
+       Community Room
+       <br/>
+       <em>
+        (Cuarto Comunitario)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/commissioner-s-corner">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/dorris-van-doren-library">
+         Dorris Van Doren Library
+        </a>
+       </strong>
+       <br/>
+       551 Redd Rd. 79912
+       <br/>
+       Multipurpose Room
+       <br/>
+       <em>
+        (Cuarto de Multiusos)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/dorris-van-doren-library">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/epcc-administrative-services-center">
+         EPCC Administrative Services Center
+        </a>
+       </strong>
+       <br/>
+       9050 Viscount Blvd. 79925
+       <br/>
+       A-Building Foyer
+       <br/>
+       <em>
+        (Área de Espera de Edificio-A)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/epcc-administrative-services-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/epcc-transmountain-campus">
+         EPCC Transmountain Campus
+        </a>
+       </strong>
+       <br/>
+       9570 Gateway North Blvd. 79924
+       <br/>
+       Pit, Next to the Union
+       <br/>
+       <em>
+        (Pit, al Lado de la Unión)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/epcc-transmountain-campus">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/el-paso-county-eastside-annex">
+         El Paso County Eastside Annex
+        </a>
+       </strong>
+       <br/>
+       2350 George Dieter Dr. 79936
+       <br/>
+       Community Room
+       <br/>
+       <em>
+        (Cuarto Comunitario)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/el-paso-county-eastside-annex">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/el-paso-county-northwest-annex">
+         El Paso County Northwest Annex
+        </a>
+       </strong>
+       <br/>
+       435 E. Vinton Rd. 79821
+       <br/>
+       Community Room
+       <br/>
+       <em>
+        (Cuarto Comunitario)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/el-paso-county-northwest-annex">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/el-paso-county-courthouse">
+         Enrique Moreno County Courthouse - Main Early Voting Location
+        </a>
+       </strong>
+       <br/>
+       500 E. San Antonio Ave. 79901
+       <br/>
+       Third Floor, Back Lobby
+       <br/>
+       <em>
+        (Tercer Piso, Área de Espera)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/el-paso-county-courthouse">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/esperanza-acosta-moreno-library">
+         Esperanza Acosta Moreno Library
+        </a>
+       </strong>
+       <br/>
+       12480 Pebble Hills Blvd. 79938
+       <br/>
+       Meeting Room
+       <br/>
+       <em>
+        (Cuarto de Juntas)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/esperanza-acosta-moreno-library">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/fabens-community-center">
+         Fabens Community Center
+        </a>
+       </strong>
+       <br/>
+       201 NE Camp St. 79838
+       <br/>
+       Pool Room
+       <br/>
+       <em>
+        (Cuarto de Billar)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/fabens-community-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/gary-del-palacio-recreation-center">
+         Gary del Palacio Recreation Center
+        </a>
+       </strong>
+       <br/>
+       3001 Parkwood St. 79925
+       <br/>
+       Multipurpose Room
+       <br/>
+       <em>
+        (Cuarto de Multiusos)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/gary-del-palacio-recreation-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/gonzalez-place">
+         Gonzalez Place
+        </a>
+       </strong>
+       <br/>
+       4101 Rich Beem Blvd. 79938
+       <br/>
+       Community Room
+       <br/>
+       <em>
+        (Cuarto Comunitario)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/gonzalez-place">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/hilos-de-plata-senior-center">
+         Hilos de Plata Senior Center
+        </a>
+       </strong>
+       <br/>
+       4451 Delta Dr. 79905
+       <br/>
+       Classroom
+       <br/>
+       <em>
+        (Salón)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/hilos-de-plata-senior-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/kennedy-brothers-memorial-recreation-center">
+         Kennedy Brothers Memorial Recreation Center
+        </a>
+       </strong>
+       <br/>
+       400 S Zaragoza Rd. 79907
+       <br/>
+       Kennedy Gym
+       <br/>
+       <em>
+        (Gimnasio Kennedy)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/kennedy-brothers-memorial-recreation-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/la-fe-montana-vista-community-center">
+         La Fe Montana Vista Community Center
+        </a>
+       </strong>
+       <br/>
+       14618 Greg Dr. 79938
+       <br/>
+       Auditorium
+       <br/>
+       <em>
+        (Auditorio)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/la-fe-montana-vista-community-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/marty-robbins-recreation-center">
+         Marty Robbins Recreation Center
+        </a>
+       </strong>
+       <br/>
+       11620 Vista Del Sol Dr. 79936
+       <br/>
+       Lobby
+       <br/>
+       <em>
+        (Área de Espera)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/marty-robbins-recreation-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/memorial-park-senior-citizen-center">
+         Memorial Park Senior Citizen Center
+        </a>
+       </strong>
+       <br/>
+       1800 Byron St. 79930
+       <br/>
+       Classroom
+       <br/>
+       <em>
+        (Salón)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/memorial-park-senior-citizen-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/mountain-view-rae-gilmore-recreation-center">
+         Mountain View-Rae Gilmore Recreation Center
+        </a>
+       </strong>
+       <br/>
+       8501 Diana Dr. 79904
+       <br/>
+       Classroom
+       <br/>
+       <em>
+        (Salón)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/mountain-view-rae-gilmore-recreation-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/nations-tobin-sports-center">
+         Nations Tobin Sports Center
+        </a>
+       </strong>
+       <br/>
+       8831 Railroad Dr. 79904
+       <br/>
+       Small Rink
+       <br/>
+       <em>
+        (Pequeña Pista)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/nations-tobin-sports-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/officer-david-ortiz-recreation-center">
+         Officer David Ortiz Recreation Center
+        </a>
+       </strong>
+       <br/>
+       563 N. Carolina Dr. 79915
+       <br/>
+       Classroom A
+       <br/>
+       <em>
+        (Salón A)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/officer-david-ortiz-recreation-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/oz-glaze-senior-center">
+         Oz Glaze Senior Center
+        </a>
+       </strong>
+       <br/>
+       13969 Veny Webb St. 79928
+       <br/>
+       Main Dining Area
+       <br/>
+       <em>
+        (Comedor Principal)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/oz-glaze-senior-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/pebble-hills-high-school">
+         Pebble Hills High School
+        </a>
+       </strong>
+       <br/>
+       14400 Pebble Hills Blvd. 79938
+       <br/>
+       Auditorium Foyer
+       <br/>
+       <em>
+        (Área de Espera del Auditorio)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/pebble-hills-high-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/sisd-district-service-center">
+         SISD District Service Center
+        </a>
+       </strong>
+       <br/>
+       12440 Rojas Dr. 79928
+       <br/>
+       TSC Library
+       <br/>
+       <em>
+        (Biblioteca del TSC)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/sisd-district-service-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/south-el-paso-senior-citizens-center">
+         South El Paso Senior Center
+        </a>
+       </strong>
+       <br/>
+       600 S. Ochoa St. 79901
+       <br/>
+       Classroom
+       <br/>
+       <em>
+        (Salón)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/south-el-paso-senior-citizens-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/the-shoppes-at-solana">
+         The Shoppes at Solana
+        </a>
+       </strong>
+       <br/>
+       750 Sunland Park Dr. 79912
+       <br/>
+       By the Food Court, Next to Book Nook
+       <br/>
+       <em>
+        (Por el Patio de Comidas, al lado de Book Nook)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/the-shoppes-at-solana">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/utep-union-building-east">
+         UTEP-Union Building East
+        </a>
+       </strong>
+       <br/>
+       351 W. University Ave. 79968
+       <br/>
+       Acacia Room 102A
+       <br/>
+       <em>
+        (Cuarto Acacia 102A)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/utep-union-building-east">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/w-e-neill-community-center">
+         W.E. Neill Community Center
+        </a>
+       </strong>
+       <br/>
+       19210 Cobb Ave. 79853
+       <br/>
+       Library
+       <br/>
+       <em>
+        (Biblioteca)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/w-e-neill-community-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/wayne-thornton-community-center-at-grandview">
+         Wayne Thornton Community Center at Grandview
+        </a>
+       </strong>
+       <br/>
+       3134 Jefferson Ave. 79930
+       <br/>
+       Classroom
+       <br/>
+       <em>
+        (Salón)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/wayne-thornton-community-center-at-grandview">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/wellington-chew-senior-center">
+         Wellington Chew Senior Center
+        </a>
+       </strong>
+       <br/>
+       4430 Maxwell Ave. 79904
+       <br/>
+       Classroom
+       <br/>
+       <em>
+        (Salón)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/wellington-chew-senior-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/western-technical-college">
+         Western Technical College-Northeast
+        </a>
+       </strong>
+       <br/>
+       9451 Diana Dr. 79924
+       <br/>
+       Classroom 400
+       <br/>
+       <em>
+        (Salón 400)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/western-technical-college">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/ywca-central">
+         YWCA-Central
+        </a>
+       </strong>
+       <br/>
+       1600 Brown St. Bldg. A, 79902
+       <br/>
+       Program Offices
+       <br/>
+       <em>
+        (Cuarto de Oficinas de Programa)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/ywca-central">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/early-voting-locations/ywca-west">
+         YWCA-West
+        </a>
+       </strong>
+       <br/>
+       313 Bartlett Dr. 79912
+       <br/>
+       Program Offices
+       <br/>
+       <em>
+        (Cuarto de Oficinas de Programa)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/early-voting-locations/ywca-west">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
     </div>
    </div>
-  </div>
+  </section>
   <footer class="region-footer">
    <div class="region-footer__top bg-clr-blue">
     <div class="container text-center">
@@ -588,7 +1531,7 @@
       530,351
      </div>
      <div>
-      Registered voters as of Friday, August 21, 2026
+      Registered voters as of Saturday, August 22, 2026
      </div>
      <div class="bubble">
       <a href="/voter-information/dashboard">
