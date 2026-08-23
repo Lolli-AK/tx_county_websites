@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.hayscountytx.gov/172/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-22T08:14:49Z",
-  "html_sha256": "457a133d69447dd60facdb4becc0687895e252a248036f19ac8847c1f9b16105",
-  "text_sha256": "ee9e2a75439203c75e644e782edadfee92e6db11a99c03a966a1dc4576f01c63",
-  "byte_size": 69563,
-  "title": "Elections | Hays County, TX",
-  "error": null
+  "fetched_at": "2026-08-23T08:15:44Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

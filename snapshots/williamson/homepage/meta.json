@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.wilcotx.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-22T08:14:49Z",
-  "html_sha256": "ae1debbf1e2d7d4b1fab7d611228cd3f62cbe67ace31e16455916d6059789668",
-  "text_sha256": "b04b02a35edfb6231071d3286611c6456662fac23123f0db882c2020f1330680",
-  "byte_size": 61038,
-  "title": "Williamson County, TX | Official Website",
-  "error": null
+  "fetched_at": "2026-08-23T08:15:44Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

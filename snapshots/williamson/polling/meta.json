@@ -2,19 +2,18 @@
   "county": "Williamson",
   "page_type": "polling",
   "requested_url": "https://www.wilcotx.gov/VoterLookup",
-  "final_url": "https://apps.wilcotx.gov/elections/voterlookup",
+  "final_url": "https://www.wilcotx.gov/VoterLookup",
   "redirect_chain": [
-    "https://www.wilcotx.gov/VoterLookup",
-    "https://apps.wilcotx.gov/elections/voterlookup"
+    "https://www.wilcotx.gov/VoterLookup"
   ],
-  "http_status": 200,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": null,
+  "content_type": null,
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-22T08:14:49Z",
-  "html_sha256": "498af2ccf23237202ca8ad88f6ce13bc161ed37914212fc2879cc6ae10fd596b",
-  "text_sha256": "aca2f33362a8b417b137ad53555355ed4d0f33a921580a41b89e9d2dd5106340",
-  "byte_size": 12230,
+  "fetched_at": "2026-08-23T08:15:44Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
   "title": null,
-  "error": null
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

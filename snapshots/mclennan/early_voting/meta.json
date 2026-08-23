@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-22T08:14:49Z",
-  "html_sha256": "02330bcf6b3a75468a363d0f4fbc0d03fad2871db254694262f21b36b1d948f0",
-  "text_sha256": "3290f92332203c0e266a46301919db24b17cb9fdf6d6f3833000c5f34ae634c2",
-  "byte_size": 53413,
+  "fetched_at": "2026-08-23T08:15:44Z",
+  "html_sha256": "92e2fda8d6083473777ea3626a3393a17d780707a90e18ca90c4357f3d8e1e78",
+  "text_sha256": "03f9c405205445f20b303e9df4e6bdfef6c53edf3f408dc52ca6836517b3174c",
+  "byte_size": 75986,
   "title": "Current Election Results | McLennan County, TX",
   "error": null
 }

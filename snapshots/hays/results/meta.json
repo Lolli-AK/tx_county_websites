@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.hayscountytx.gov/257/Election-Results-Archive"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-22T08:14:49Z",
-  "html_sha256": "9699378f4d3cd8577640021d88c89e9c3a046d9e93bbb054766291b3428f019a",
-  "text_sha256": "e0374d9927a6b064fe68a4258c990ae11cac280295fdf528fbcee26e0c225f02",
-  "byte_size": 49129,
-  "title": "Election Results Archive | Hays County, TX",
-  "error": null
+  "fetched_at": "2026-08-23T08:15:44Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }
