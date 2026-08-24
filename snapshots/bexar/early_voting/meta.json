@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.bexar.org/2237/Early-Vote-Information"
   ],
-  "http_status": 404,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T08:15:44Z",
-  "html_sha256": "8e8e662048a332a6ac9ece9f0b8fc6ed62293a848f43133dfb13d25033854cd5",
-  "text_sha256": "d93e34bd716933a43f3a14737af6e842da62c505daa73799a5f2ab797addaac4",
-  "byte_size": 695,
-  "title": "404 - File or directory not found.",
+  "fetched_at": "2026-08-24T08:34:29Z",
+  "html_sha256": "ca357cd261340555e572ff1325eae36564f996aa55f9b511c08f81533f337af2",
+  "text_sha256": "052884df90c7751f62a9e076e0d4031243f54cdfcf46b2a187e01f43246f8f7c",
+  "byte_size": 79202,
+  "title": "Early Vote Information | Bexar County, TX - Official Website",
   "error": null
 }

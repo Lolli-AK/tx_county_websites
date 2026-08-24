@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.mclennan.gov/"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T08:15:44Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
-  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
+  "fetched_at": "2026-08-24T08:34:29Z",
+  "html_sha256": "bafdf199b2654c874d7241a84360404a305b93468c3ff8c216c33b0bce76a0a4",
+  "text_sha256": "980a912dfa928526b08fc7e4472e9216c9c7255070ea3cdce7843bc10bfe3042",
+  "byte_size": 102864,
+  "title": "McLennan County, TX | Official Website",
+  "error": null
 }

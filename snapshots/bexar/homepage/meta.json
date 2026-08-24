@@ -7,13 +7,13 @@
     "https://www.bexar.org/"
   ],
   "http_status": 200,
-  "content_type": "text/html",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T08:15:44Z",
-  "html_sha256": "e9afb03d1429059bfa17b4d81d3792a4f72313a7ca724c53fe59f0ec532444dc",
-  "text_sha256": "f8e83cfc2cd416d4a936dc2e84885543c405807c788c8bb2cb14ac92ce07d7d0",
-  "byte_size": 6257,
-  "title": "Bexar County, Texas",
+  "fetched_at": "2026-08-24T08:34:29Z",
+  "html_sha256": "19c761be167c522e883be5da620ebd52be25ee9a4decd8ea67bf0caa13fd225a",
+  "text_sha256": "c35524e9273b66950386e29992827a68c85a30f4f013592a7d19ecf60087d090",
+  "byte_size": 128980,
+  "title": "Bexar County, TX - Official Website | Official Website",
   "error": null
 }

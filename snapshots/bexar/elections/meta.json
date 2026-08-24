@@ -5,16 +5,17 @@
   "final_url": "https://www.bexar.org/1568/Elections-Department",
   "redirect_chain": [
     "https://www.bexar.org/elections",
+    "https://www.bexar.org/1568",
     "https://www.bexar.org/1568/Elections-Department"
   ],
-  "http_status": 404,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T08:15:44Z",
-  "html_sha256": "8e8e662048a332a6ac9ece9f0b8fc6ed62293a848f43133dfb13d25033854cd5",
-  "text_sha256": "d93e34bd716933a43f3a14737af6e842da62c505daa73799a5f2ab797addaac4",
-  "byte_size": 695,
-  "title": "404 - File or directory not found.",
+  "fetched_at": "2026-08-24T08:34:29Z",
+  "html_sha256": "55445491c71eec81e39559e0d917d71c312bfaf7b693db11164e192f415c3d43",
+  "text_sha256": "73dd4a3688489814b50d677fd128043ceeffea8bd46d94dab3ce7cf294cc2c5c",
+  "byte_size": 105226,
+  "title": "Bexar County Elections Department | Bexar County, TX - Official Website",
   "error": null
 }

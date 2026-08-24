@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.mclennan.gov/337/Elections"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T08:15:44Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
-  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
+  "fetched_at": "2026-08-24T08:34:29Z",
+  "html_sha256": "e932a329a7fc40bec718371e72ef0aa85b398cef3695f9192a453bcf94cb45b9",
+  "text_sha256": "6963455408826cbaab48eaa167ff6f06ee5e3346c47417cba513df2da5febf14",
+  "byte_size": 72413,
+  "title": "Elections | McLennan County, TX",
+  "error": null
 }

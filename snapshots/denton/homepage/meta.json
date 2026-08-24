@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.dentoncounty.gov"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T08:15:44Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
-  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
+  "fetched_at": "2026-08-24T08:34:29Z",
+  "html_sha256": "76a0fbd0c0185603880d7518277281b9cbad2718488d17f72121e00b2d565ad0",
+  "text_sha256": "29ea09b9fe2cb7b09ccf1a8717fc17eb31f339293eb6f21a4dbd530804b0b355",
+  "byte_size": 167058,
+  "title": "Denton County, TX | Official Website",
+  "error": null
 }

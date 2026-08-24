@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.wilcotx.gov/185/Elections"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-23T08:15:44Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
-  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
+  "fetched_at": "2026-08-24T08:34:29Z",
+  "html_sha256": "39b471225825f36d10fb0ebd207bdfbf6e08ea120aafc4770202b2d2d45409a9",
+  "text_sha256": "6abb88616150cc939d31004f09b1d1195ac8574a4f59abadc527b450c10c92b0",
+  "byte_size": 92248,
+  "title": "Elections | Williamson County, TX",
+  "error": null
 }
