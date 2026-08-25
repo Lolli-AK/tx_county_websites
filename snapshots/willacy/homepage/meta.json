@@ -2,15 +2,16 @@
   "county": "Willacy",
   "page_type": "homepage",
   "requested_url": "https://www.co.willacy.tx.us/",
-  "final_url": "https://www.co.willacy.tx.us/",
+  "final_url": "https://www.willacy.gov/",
   "redirect_chain": [
-    "https://www.co.willacy.tx.us/"
+    "https://www.co.willacy.tx.us/",
+    "https://www.willacy.gov/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-24T08:34:29Z",
+  "fetched_at": "2026-08-25T08:27:26Z",
   "html_sha256": "180b18342d8f43fae6c75375030e13c83b634d0fb255302cfac6c767fd842588",
   "text_sha256": "6f8b83bb83510ff8d5ddeb2d3e5a4f43296edc5e9ac2f3c1db549da35469b73b",
   "byte_size": 32649,

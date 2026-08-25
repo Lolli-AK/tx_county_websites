@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-24T08:34:29Z",
-  "html_sha256": "dd02c7a9c7adaa27a8bac825322f36e0b1f60418788502824a26cb7370186446",
+  "fetched_at": "2026-08-25T08:27:26Z",
+  "html_sha256": "79b208db314e7f7f1bdb03bd0e71bf4b505beb69880adcf37a6ab44492ec53ce",
   "text_sha256": "7b8d05b42d29330c00b63aede06f7c7f9ad339ba074a5ca28a0a6b5d86a1c19d",
-  "byte_size": 25313,
+  "byte_size": 25743,
   "title": "Election Day Sites",
   "error": null
 }

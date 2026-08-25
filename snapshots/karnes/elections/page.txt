@@ -167,7 +167,7 @@ Last day to register to vote or update voter information
 10/19/2026
 :
 First day of Early Voting
-10/29/2026
+10/23/2026
 :
 Last day for elections office to receive a Mail Ballot Application or FPCA for the  General Election
 10/30/2026
@@ -221,12 +221,11 @@ Karnes City ISD
 Nixon-Smiley ISD
 Pawnee ISD
 Pettus ISD - Order of Cancellation
-Notice of Election
+NOTICE OF ELECTIONS:
 Falls City ISD
 Karnes City ISD
 Nixon-Smiley ISD
 Pawnee ISD
-Pettus ISD
 Notice of Voting Order Priority
 Notice of Public Test of LAT, Electronic Voting
 System, E=-Pollbook and HASH Testing -

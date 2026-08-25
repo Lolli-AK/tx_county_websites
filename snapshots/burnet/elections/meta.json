@@ -2,18 +2,19 @@
   "county": "Burnet",
   "page_type": "elections",
   "requested_url": "https://burnetcountyelections.com/",
-  "final_url": "https://burnetcountyelections.com/",
+  "final_url": "https://www.burnetcountytexas.org/1194/Elections",
   "redirect_chain": [
-    "https://burnetcountyelections.com/"
+    "https://burnetcountyelections.com/",
+    "https://www.burnetcountytexas.org/1194/Elections"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-24T08:34:29Z",
-  "html_sha256": "86055737f7fb18f4e2e2358800cb426c13ca164ab2b5b5626006e45a04dcabf9",
-  "text_sha256": "9a115b3a5ef9438988585ecb1a3d0e18c9619ef3e7fec7fb4ad508f800481586",
-  "byte_size": 21982,
-  "title": "Welcome! - Burnet County Elections",
+  "fetched_at": "2026-08-25T08:27:26Z",
+  "html_sha256": "c3a091106784ec8d2b1626f25c3c1b12bd9af0e93f11683ac827799c7b2b22ad",
+  "text_sha256": "77c8e82aa28709027e7cd954be2052b2afdd101f8463fda5140e1dd496103903",
+  "byte_size": 50849,
+  "title": "Elections | Burnet County, TX",
   "error": null
 }

@@ -44,7 +44,6 @@ Veteran Services
 Visitors
 District Clerk Case Search
 Divorce Information
-Inmate List
 Marriage Information
 Public Records
 Sheriff's Office Open Records Request
@@ -84,22 +83,16 @@ Ben Perry
 Precinct 4 Commissioner
 View Commissioners Court Members
 Emergency Alerts
-Extreme Heat Warning issued August 22 at 8:39PM CDT until August 23 at 9:00PM CDT by NWS Fort Worth TX
-* WHAT...Dangerously hot conditions with high temperatures up to 108
-expected.
-* WHERE...Portions of north central and northeast Texas.
-* WHEN...From noon to 9 PM CDT Sunday.
-* IMPACTS...Heat related illnesses increase significantly during
-extreme...
-Extreme Heat Warning issued August 22 at 8:39PM CDT until August 23 at 9:00PM CDT by NWS Fort Worth TX
-* WHAT...Dangerously hot conditions with high temperatures up to 108
-expected.
-* WHERE...Portions of north central and northeast Texas.
-* WHEN...From noon to 9 PM CDT Sunday.
-* IMPACTS...Heat related illnesses increase significantly during
-extreme...
-Message from City of Mart
-BOIL ORDER: A boil order has been placed for residents in the following areas: All customers south of Texas Ave. (Hwy 164). Customers within Texas Ave. north to Cowen and N. Douglas east to N. Criswell. Water should be brought to a rolling boil for...
+Emergency Water Shut Off
+There is an emergency water shut off for the 200 to 300 block of North Old Robinson for approximately 2 hours due to a water leak.
+Emergency Water Shut Off
+There is an emergency water shut off for the 200 to 300 block of North Old Robinson for approximately 2 hours due to a water leak.
+Extreme Heat Warning issued August 24 at 1:30PM CDT until August 25 at 9:00PM CDT by NWS Fort Worth TX
+* WHAT...For Monday, Dangerously hot conditions with temperature
+values up to 111 expected. For Tuesday, dangerously hot conditions
+with temperature values up to 107 expected.
+* WHERE...Portions of North Texas and Western Central Texas.
+*...
 View All
 /Calendar.aspx
 News & Events

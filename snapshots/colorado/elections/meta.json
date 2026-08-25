@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-24T08:34:29Z",
-  "html_sha256": "70fe15c069af64f30ec3ce04222ecf48a9a200a335e97793599a33b66539d518",
-  "text_sha256": "06ed796864cf483f0a35dc5923f2ab2421698796cc19cd7fa3b700f0bbb33ff8",
-  "byte_size": 236623,
+  "fetched_at": "2026-08-25T08:27:26Z",
+  "html_sha256": "8586838c1f569fb0a8996bfba56c68ed0b9c3b7e2214decd238956fa41186c52",
+  "text_sha256": "a8f760cd27cdd690695f0fdcd1e34db7699408fd5c5ba72b1eca27b322bff410",
+  "byte_size": 236506,
   "title": "Colorado County Elections Department",
   "error": null
 }

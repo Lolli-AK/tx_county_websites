@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-24T08:34:29Z",
-  "html_sha256": "d00bdf54ebfe8343eb36b6ff70d4a1635cb1e1e906331c6a76677e15d494f3e5",
-  "text_sha256": "c4cdfa44d35522dee532cb2f9c10cfdf95b395ab6b2d786e9ea1d439499a8bdc",
-  "byte_size": 49258,
+  "fetched_at": "2026-08-25T08:27:26Z",
+  "html_sha256": "7bee619cbefa3b6a4bed9c252bacfd8659ffb04863b4a9c9df7db9d07a9dd4ed",
+  "text_sha256": "3c58d22b9c3587548c4084e30993222cd8b5911b9e625db92140dbbf28b1f6e9",
+  "byte_size": 49418,
   "title": "Elections Administrator | Jack County TX",
   "error": null
 }

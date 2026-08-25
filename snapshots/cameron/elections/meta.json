@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-24T08:34:29Z",
-  "html_sha256": "e3668d9ce5271507e07528b08640bb724c5a5115efd241620f613f8d2a83dbad",
-  "text_sha256": "373edc5e107eb98efa8dfa4bff4f6cb647829396ac80eda230243f1d42550191",
-  "byte_size": 63806,
+  "fetched_at": "2026-08-25T08:27:26Z",
+  "html_sha256": "261abafca8fb5b69ff00087d6780bc94c7317c77884cb48f7c0d04f73a5ee78c",
+  "text_sha256": "d654af4da86c703ca5d2021957393e6d5f1df98b2c9275f403929564a4fc3e48",
+  "byte_size": 64373,
   "title": "Department of Elections Voter Registration - Cameron County",
   "error": null
 }

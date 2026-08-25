@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-24T08:34:29Z",
-  "html_sha256": "7adad2f611cb37ac8a03105ab8ddbb21fc6a4ea21d1d89e37a0903b4a0236b5a",
-  "text_sha256": "0333cc34ddf7ef6b4bc213a711200eb019b3be98a0dac28b3dbf7df079009bbe",
-  "byte_size": 47098,
+  "fetched_at": "2026-08-25T08:27:26Z",
+  "html_sha256": "d80abe362f9944ec94a82aacdf0225f2e5181b3fd536c2af55a4b2e8c0755d80",
+  "text_sha256": "699b3f07ee032cccb26c237fdc99929fbd0fddc1e118428be612eaf1477b8873",
+  "byte_size": 62106,
   "title": "Current Election Results | Smith County, TX",
   "error": null
 }

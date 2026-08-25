@@ -9,7 +9,10 @@ Toggle main menu visibility
 Menu
 Home
 County Holiday Schedule
-Commissioner Court Agendas/Notices
+Commissioners Court
+Commissioners Court Homepage
+Commissioners Court Agendas
+Commissioners Court Minutes
 County Departments
 Constables
 County Attorney
@@ -39,10 +42,6 @@ Sheriff
 Vehicle Registration & Renewal
 Veterans Services
 Courts
-Commissioners Court
-Homepage
-Agendas
-Minutes
 County Court
 County Clerk
 County Court

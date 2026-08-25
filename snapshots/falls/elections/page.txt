@@ -66,53 +66,52 @@ County Directory
 Elections Administrator
 Nicket Peoples-Taylor
 nicket.taylor@co.falls.tx.us
-Main Office
-Address:
-125 Bridge St, Room 101
-Annex
-Address:
-1910 Industrial Park Road
-Mailing
-Address:
-P.O. Box 810
-Marlin, Tx 76661
-Phone: 254-883-1521
-Fax: 254-804-0044
-Elections Staff
 Assistant Deputy
 Lisa Watkins
 lisa.watkins@co.falls.tx.us
+Main Office:
+125 Bridge St., Rm. 101
+Annex:
+1910 Industrial Park Rd.
+Mailing Address:
+P.O. Box 810
+Marlin, Tx 76661
+Phone: 254-883-1521
 Public Information & Resources
-Election Posted Notices
-▲
-Health Protocols for Voters
-Notice of Voting Order Priority
 Voter ID Required
-Press the enter key or spacebar to expand or collapse the accordion
-Polling Locations
-▲
-LOCATIONS OF POLLING PLACES.docx
-Press the enter key or spacebar to expand or collapse the accordion
-Public Information Request
+Requisitos de Identificacion para votar de Texas
+Voter Registration Information
+Texas Voter Registration Application by Mail (Falls County)
+Am I registered to VOTE
+Falls County Polling Locations
+Application for Ballot by Mail
+Public Information
 ▲
 Request Form
 Public Information Request
-Press the enter key or spacebar to expand or collapse the accordion
-Register to Vote
-▲
-Application
-VoteTexas.gov
-Voters must be actively registered at least 30 days prior to an Election
-Voters must be registered in Falls County to vote in the County Election
-Press the enter key or spacebar to expand or collapse the accordion
-Vote By Mail
-▲
-Ballot by Mail
-https://www.sos.texas.gov/elections/voter/reqabbm.shtml
+Health Protocols for Voters
 Press the enter key or spacebar to expand or collapse the accordion
 Election Years 2025-2026
 Elections 2026
 ▲
+November 3, 2026 General Election
+Robinson ISD
+▲
+Press the enter key or spacebar to expand or collapse the accordion
+Westphalia ISD
+▲
+Press the enter key or spacebar to expand or collapse the accordion
+Chilton ISD
+▲
+Press the enter key or spacebar to expand or collapse the accordion
+Bruceville-Eddy ISD
+▲
+Press the enter key or spacebar to expand or collapse the accordion
+Riesel ISD
+▲
+Press the enter key or spacebar to expand or collapse the accordion
+▲
+Press the enter key or spacebar to expand or collapse the accordion
 May 26, 2026 Primary Runoff Election
 May 26. 2026 Dates and Times.docx
 (opens Word document)
@@ -281,8 +280,6 @@ Republican ABBM Voting History 2.26.26.docx
 REP_VoterHistory2.27.26.txt
 Press the enter key or spacebar to expand or collapse the accordion
 Sample Ballots
-Polling Locations
-Location of Falls County Polling Locations
 Press the enter key or spacebar to expand or collapse the accordion
 Elections 2025
 ▲

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-24T08:34:29Z",
-  "html_sha256": "74184aeb747a1befae4cf8442284de35fa0c6448a9dcf9804055dfc3a9d252c2",
-  "text_sha256": "d597ac391e0f86bd0eb6270ebd93c6d93b795b4ed585a9502af1799b356add4a",
-  "byte_size": 31516,
+  "fetched_at": "2026-08-25T08:27:26Z",
+  "html_sha256": "9026cf4cdbe123371c5642005e17827bf92262a7a4f72ec92b5329a6ef96a432",
+  "text_sha256": "54804a1b591b93401c823792b5c4c680f1c9a03a307691e733a5fb42f4715abc",
+  "byte_size": 31399,
   "title": "Colorado County Early Voting Information",
   "error": null
 }

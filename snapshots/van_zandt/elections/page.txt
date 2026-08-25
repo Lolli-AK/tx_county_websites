@@ -74,14 +74,12 @@ Canton TX 75103
 Email us at:
 smaddox@vanzandtcounty.org
 slopez@vanzandtcounty.org
-Precinct 1B has moved for the Runoff Election to the Grand Saline Public Library, 201 NE Pacific, Grand Saline. This move should only impact the Runoff election due to the Chamber Pavilion remodeling. Please contact the Elections Office for further information.
 Votetexas.gov - This site will allow individuals to check voter registration status, register to vote (must print out and mail to the voter registrar's office), check for polling locations, etc.
 Application for Ballot by Mail - English
 Solicitud de boleta por correo
 Ballot By Mail Helpful Hints
 Ballot Tracker
 Curbside Voter
-Voting Precinct 2C (Phalba) has moved to the Clearview Bible Church, 32651 FM 47, Canton, TX 75103. For more information, please contact our office. Thank you!
 Central Counting Station Plan
 Elimination of Straight Party Voting Sign
 VOTER ID NOTICE
@@ -89,6 +87,20 @@ VOTER INFORMATION
 EARLY VOTING ROSTER INFO
 CANDIDATE INFORMATION
 DEPUTY VOTER REGISTRAR INFORMATION
+November 3rd 2026 Elections
+▲
+General Election (Federal, State and County)
+County Assistance District 1
+County Assistance District 2
+County Assistance District 3
+County Assistance District 4
+County Assistance District 5
+County Assistance District 6
+County Assistance District 7
+County Assistance District 8
+Emergency Services District No. 2
+Brownsboro ISD
+Martins Mill ISD
 May 26 2026 Runoff Elections
 ▲
 Post-Election Hand Count Audit
@@ -217,6 +229,7 @@ Curry, Tonda
 07.15.2024
 01.10.2024
 Curtis, Mitch
+08.24.26
 01.14.26
 07.08.2025
 01.21.2025
@@ -367,6 +380,7 @@ Stanberry, Misty
 01.16.2024
 11.27.2023
 Strickland, Susan
+08.03.26
 01.09.26
 07.14.2025
 01.15.2025

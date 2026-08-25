@@ -1,60 +1,102 @@
-Welcome! - Burnet County Elections
-Toggle Navigation
+Elections | Burnet County, TX
+Skip to Main Content
+Create a Website Account
+- Manage notification subscriptions, save form progress and more.
+Website Sign In
+About Us
+Records
+Voter Resources
+Search
+Am I Registered
+Daily Voter List Download Page
+Poll Worker Page
+Poll Worker Training
+Election News
+Transportation Survey Still Available Online!
+Read on...
+FY27 Proposed Budget
+Read on...
+Household & Hazardous Waste Collection Event
+Read on...
+View All News
+/CivicAlerts.aspx
+Calendar
+August 2026
+S
+M
+T
+W
+T
+F
+S
+26
+27
+28
+29
+30
+31
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+1
+2
+3
+4
+5
+There are no published events in current month.
+View All Events
+/Calendar.aspx
+Adopted Budget
+Bail Bond Board
+Public Information Request
+Bids & Purchases
+County Holidays
+Tax Rate Information
+/QuickLinks.aspx
+Office address:
+106 W. Washington St., Burnet, Tx. 78611.
+Main Phone:
+512-715-5288
+Fax: 512-715-5287
 Home
-Calendar of Events
-Campaign Finance Reports
-Current Election
-Daily Voted List
-Elected Officials
-Election Cast Vote Records & Scanned Paper Ballots
-Election Results
-Election Workers
-Helpful Links
-Maps
-Military/Overseas Voters
-May 26, 2026 Local Election Day Polling Locations
-Public Information Requests
-Vote By Mail
-Voter Registration
-Volunteer Deputy Registrar
-Burnet County Election Commission
-Burnet County Election Board
-Current Election
-Voter ID Required
-[rotating image slideshow removed for determinism]
-(CLICK HERE FOR CURRENT ELECTION INFO!)
-If you have problems navigating or finding elections or voter registration information on this website, please call our office at 512-715-5288 and we will be glad to help you!  You can also email us at
-elections@burnetcountytexas.org
-The elections administrator is responsible for voter registration activities and election operations of Burnet County, Texas.  Burnet County has 21 approved voting precincts and approximately 40,200 registered voters.  If requested by a city, school district, or other political subdivision in Burnet County, the elections administrator will enter into a contract to conduct its elections.
-Reasonable efforts are made to keep the information in this website current.  However, you are encouraged shortly before early voting starts for any election to revisit this site to confirm the location of early voting places and Election Day polling locations.  Do not hesitate to call the elections administrator with your questions.  I want you to vote!
-Phone: 512-715-5288  FAX: 512-715-5287
-Email:
-elections@burnetcountytexas.org
-Hours: 8:00 am – 5:00 pm  Monday – Friday
-Mailing Address: 220 South Pierce Burnet, Texas 78611
-Physical Location: 106 W. Washington St. Burnet, TX 78611
-(
-NOT a polling location
-)
-Burnet County has County Wide Polling Locations!
-Burnet County Voters can vote at any of the open polling locations around the county on election day.  Go to our current election page link at the top of this page to view information about the elections that are coming up! We welcome public comments!  Please email any comments to:
-elections@burnetcountytexas.org
-NO MORE STRAIGHT PARTY VOTING!
-“House Bill 25, passed during the 85th Legislative Session, eliminated straight party voting effective September 1, 2020 (Section 64.004, Texas Election Code). If you wish to vote for all of the candidates affiliated with one party, you should select each candidate one at a time on your ballot.”
-“El Proyecto de Ley 25 de la Cámara de Representantes, aprobado durante la 85a Sesión Legislativa, eliminó la votación de partido único a partir del 1 de septiembre de 2020 (Sección 64.004, Código Electoral de Texas). Si desea votar por todos los candidatos afiliados a un partido, debe seleccionar a cada candidato uno a la vez en su boleta.”
-CHANGE YOUR ADDRESS OR CHECK YOUR REGISTRATION ONLINE!
-If you have moved within the state, you can change your voter registration address by clicking the link above!
-Click for Daily List of Voters for Current Election
-Click
-Here
-to visit the Poll Worker Page!
-Go to Poll Worker Training Videos!
-For more information regarding elections and voter registration please visit the Texas Secretary of State’s website at
-www.votetexas.gov
-.
-Home
-Current Election
-Voter ID Required
-Hestia | Developed by
-ThemeIsle
-!function(){varb=function(){window.__AudioEyeSiteHash="9df5642d168eaf41b1f9667a83c97565";vara=document.createElement("script");a.src="https://wsv3cdn.audioeye-services.com/aem.js?h=9df5642d168eaf41b1f9667a83c97565";a.type="text/javascript";a.crossOrigin="anonymous";a.setAttribute("async","");document.getElementsByTagName("body")[0].appendChild(a)};"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",b):window.attachEvent&&window.attachEven t("onload",b):b()}();
+Site Map
+Accessibility
+Copyright Notices
+Privacy Policy
+Staff Directory
+/QuickLinks.aspx
+Government Websites by
+CivicPlus®
+Loading
+Loading
+Do Not Show Again
+Close
+[]

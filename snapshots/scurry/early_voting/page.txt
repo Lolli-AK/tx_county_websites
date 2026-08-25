@@ -176,6 +176,12 @@ Republican Sample Ballots
 Precincts 5,6 & 7
 Precincts 8,9,10,14 & 15
 Precincts 11, 12 & 13
+Unofficial Results
+Summary Report with Group Details
+Precinct Report with Group Details
+Official Results
+Summary Report with Group Details
+Precinct Report with Group Details
 May 2, 2026 Uniform Election
 Early Voting/Election Day Roster In Person/by Mail Roster
 -
@@ -233,6 +239,13 @@ Notice of Public Logic and Accuracy Testing 1
 PEHCA Summary & Certification
 Election Reconciliation Unofficial
 Election Reconciliation Official
+Unofficial Resutls
+Summary Report with Group Details
+Precinct Report with Group Details
+Precincts 5,6 & 7
+Precincts 8, 9 & 10
+Precincts 11, 12 & 13
+Precincts 14 & 15
 Official Results-
 Summary Report with Group Details
 Precinct Report with Group Details
@@ -429,6 +442,8 @@ Cole Herring-
 CTA-2025
 -
 C/OH & EXPENDITURES
+Jerry Webb-
+Certificate of Replacement Nomination
 Press the enter key or spacebar to expand or collapse the accordion
 Election Turnout
 ▲

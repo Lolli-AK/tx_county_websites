@@ -9,7 +9,10 @@ Toggle main menu visibility
 Menu
 Home
 County Holiday Schedule
-Commissioner Court Agendas/Notices
+Commissioners Court
+Commissioners Court Homepage
+Commissioners Court Agendas
+Commissioners Court Minutes
 County Departments
 Constables
 County Attorney
@@ -39,10 +42,6 @@ Sheriff
 Vehicle Registration & Renewal
 Veterans Services
 Courts
-Commissioners Court
-Homepage
-Agendas
-Minutes
 County Court
 County Clerk
 County Court
@@ -84,15 +83,12 @@ Fairgrounds
 Airport
 Historical Commission
 Title VI
-NO BURN BAN IN EFFECT - NOTIFY SHERIFF'S DISPATCH PRIOR TO STARTING A CONTROLLED BURN (979) 732-2388 option 1
 Welcome to Colorado County, Texas
 ____________________________________________________________________________________________________________
 IMPORTANT NOTICES / ANNOUNCEMENTS
 BURN BAN IN EFFECT
-Burn Ban Declaration 8-21-2026 (PDF)
+Burn Ban Declaration 8-21-2026.pdf
 Colorado County Offices will be closed Monday, September 7, 2026 in observance of Labor Day and Friday, September 11, 2026 for County Fair Day
-August 19, 2026 Public Hearing regarding the annual compensation of the Colorado County Auditor, Assistant Auditors and Court Reporters
-Notice of Public Hearing.pdf
 Colorado County Household Hazardous Waste & Recyclable Materials Collection Day
 , Saturday, September 26, 2026, 8:30 am - 12:30pm at the Colorado County Fairgrounds
 HHW Recyclable Materials Collection Day Flyer.pdf
@@ -108,6 +104,7 @@ Notice of Public Hearing on Proposed Budget FY 2027.pdf
 Notice of Public Hearing on Tax Rate FY 2027.pdf
 Notice About 2026 Tax Rates.pdf
 Colorado County 2026 Tax Rate Calculation Worksheet.pdf
+Notice of Proposed 2027 Elected Officials Salaries.pdf
 ___________________________________________________________________________________________________________________________
 Photo provided courtesy of Ken Sparks
 Colorado County Courthouse
