@@ -8,3 +8,8 @@ logs/
 
 # OS
 .DS_Store
+
+# Third-party reference data for analysis/ (~35 MB of USDA ERS county-level CSVs).
+# Publicly redownloadable and not project output, so it is fetched rather than
+# tracked — see analysis/data/README.md.
+analysis/data/*.csv
