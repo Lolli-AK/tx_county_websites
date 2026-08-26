@@ -1,0 +1,1017 @@
+county,fact,fact_label,verdict,matched_text,why,pages_captured
+anderson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+anderson,election_date,Next election date,Never states it,,no election-day date found in election context,2
+anderson,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+anderson,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+andrews,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+andrews,election_date,Next election date,Never states it,,no election-day date found in election context,5
+andrews,registration_deadline,Registration deadline,Shows only a past election,"[early_voting] Tuesday, May 26, 2026 Election","latest date stated is (2026, 5, 26), already past",5
+andrews,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+angelina,polling_hours,Polling hours,Matches expected,"[elections] , 2026 7:00 a.m. To 7:00 p.m.",parsed 7:00-19:00,2
+angelina,election_date,Next election date,Never states it,,no election-day date found in election context,2
+angelina,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+angelina,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+aransas,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+aransas,election_date,Next election date,Never states it,,no election-day date found in election context,5
+aransas,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+aransas,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+archer,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+archer,election_date,Next election date,Never states it,,no election-day date found in election context,2
+archer,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+archer,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+armstrong,polling_hours,Polling hours,Matches expected,[elections] 7AM - 7PM (open during lunch),parsed 7:00-19:00,2
+armstrong,election_date,Next election date,Matches expected,"[elections] November 03, 2026 General Election","(2026, 11, 3)",2
+armstrong,registration_deadline,Registration deadline,Matches expected,[elections] ▲,"(2026, 10, 5)",2
+armstrong,early_voting_window,Early voting window,States something else,"[elections] November 03, 2026 General Election","states [(2026, 11, 3), (2026, 11, 3)], expected (2026, 10, 19)..(2026, 10, 30)",2
+atascosa,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+atascosa,election_date,Next election date,Matches expected,"[elections] November 3, 2026","(2026, 11, 3)",4
+atascosa,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+atascosa,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+austin,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+austin,election_date,Next election date,Never states it,,no election-day date found in election context,3
+austin,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+austin,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+bailey,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+bailey,election_date,Next election date,Matches expected,"[elections] Campaign Finance - November 3, 2026","(2026, 11, 3)",2
+bailey,registration_deadline,Registration deadline,Shows only a past election,[elections] Último día para solicitar la boleta por correo),"latest date stated is (2026, 5, 22), already past",2
+bailey,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+bandera,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+bandera,election_date,Next election date,Shows only a past election,"[early_voting] Mar. 3, 2026  Primary","latest date stated is (2026, 3, 3), already past",5
+bandera,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+bandera,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+bastrop,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+bastrop,election_date,Next election date,Matches expected,"[polling] November 3, 2026","(2026, 11, 3)",5
+bastrop,registration_deadline,Registration deadline,Matches expected,[polling] Important Dates:,"(2026, 10, 5)",5
+bastrop,early_voting_window,Early voting window,Matches expected,[polling] First Day of Early Voting:,"(2026, 10, 19)..(2026, 10, 30)",5
+baylor,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+baylor,election_date,Next election date,Shows only a past election,"[elections] May 26, 2026","latest date stated is (2026, 5, 26), already past",2
+baylor,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+baylor,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+bee,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+bee,election_date,Next election date,Never states it,,no election-day date found in election context,2
+bee,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+bee,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+bell,polling_hours,Polling hours,Matches expected,[elections] Election Day 7:00 am - 7:00 pm,parsed 7:00-19:00,5
+bell,election_date,Next election date,Matches expected,"[elections] Tuesday, November 3, 2026","(2026, 11, 3)",5
+bell,registration_deadline,Registration deadline,Matches expected,"[elections] Monday, October 5, 2026","(2026, 10, 5)",5
+bell,early_voting_window,Early voting window,States something else,[elections] :,"states [(2026, 10, 23), (2026, 10, 24)], expected (2026, 10, 19)..(2026, 10, 30)",5
+bexar,polling_hours,Polling hours,Matches expected,"[polling] Election day voting is from 7:00 AM to 7:00 PM. For more election resources, visit the",parsed 7:00-19:00,5
+bexar,election_date,Next election date,Matches expected,"[elections] November 3, 2026, General Election","(2026, 11, 3)",5
+bexar,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+bexar,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+blanco,polling_hours,Polling hours,Matches expected,[elections] 7:00 AM - 7:00 PM,parsed 7:00-19:00,3
+blanco,election_date,Next election date,Matches expected,"[elections] NOVEMBER 3, 2026 GENERAL ELECTION","(2026, 11, 3)",3
+blanco,registration_deadline,Registration deadline,Matches expected,[elections] Last Day to Register to Vote,"(2026, 10, 5)",3
+blanco,early_voting_window,Early voting window,States something else,"[elections] Friday, August 21, 2026","states [(2026, 8, 21), (2026, 10, 5)], expected (2026, 10, 19)..(2026, 10, 30)",3
+borden,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+borden,election_date,Next election date,Never states it,,no election-day date found in election context,2
+borden,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+borden,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+bosque,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+bosque,election_date,Next election date,Never states it,,no election-day date found in election context,2
+bosque,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+bosque,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+bowie,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+bowie,election_date,Next election date,Never states it,,no election-day date found in election context,5
+bowie,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+bowie,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+brazoria,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,1
+brazoria,election_date,Next election date,Never states it,,no election-day date found in election context,1
+brazoria,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,1
+brazoria,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,1
+brazos,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+brazos,election_date,Next election date,Shows only a past election,"[early_voting] Election Day: May 26, 2026","latest date stated is (2026, 5, 26), already past",5
+brazos,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+brazos,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+brewster,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+brewster,election_date,Next election date,Never states it,,no election-day date found in election context,2
+brewster,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+brewster,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+briscoe,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+briscoe,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",2
+briscoe,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+briscoe,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+brooks,polling_hours,Polling hours,Matches expected,"[elections] April 27, 2026 & Tuesday, April 28, 2026 @ 7 AM - 7 PM",parsed 7:00-19:00,2
+brooks,election_date,Next election date,Matches expected,"[elections] Write-in Candidate Filing Process – November 3, 2026 General Election","(2026, 11, 3)",2
+brooks,registration_deadline,Registration deadline,Shows only a past election,[elections] L&A Testing & HASH Testing for Equipment and Electronic Voting System,"latest date stated is (2026, 5, 2), already past",2
+brooks,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+brown,polling_hours,Polling hours,Matches expected,"[elections] October 30th, 2026      7:00am - 7:00pm",parsed 7:00-19:00,2
+brown,election_date,Next election date,Matches expected,"[elections] November 3rd, 2026 General Election","(2026, 11, 3)",2
+brown,registration_deadline,Registration deadline,Matches expected,[elections] Governor Greg Abbott's Proclamation,"(2026, 10, 5)",2
+brown,early_voting_window,Early voting window,Matches expected,"[elections] Last Day to Register to Vote: Monday, October 5, 2026","(2026, 10, 19)..(2026, 10, 30)",2
+burleson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+burleson,election_date,Next election date,Never states it,,no election-day date found in election context,5
+burleson,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+burleson,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+burnet,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+burnet,election_date,Next election date,Matches expected,"[early_voting] November 3, 2026 General Election","(2026, 11, 3)",5
+burnet,registration_deadline,Registration deadline,Matches expected,[early_voting] First day to apply for a ballot by mail,"(2026, 10, 5)",5
+burnet,early_voting_window,Early voting window,Matches expected,[early_voting] First day of Early Voting,"(2026, 10, 19)..(2026, 10, 30)",5
+caldwell,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+caldwell,election_date,Next election date,Matches expected,"[early_voting] General Election - November 3, 2026 (Click to View)","(2026, 11, 3)",5
+caldwell,registration_deadline,Registration deadline,Matches expected,[elections] Date,"(2026, 10, 5)",5
+caldwell,early_voting_window,Early voting window,States something else,[elections] Last Day to Register to Vote,"states [(2026, 10, 5), (2026, 10, 19)], expected (2026, 10, 19)..(2026, 10, 30)",5
+calhoun,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+calhoun,election_date,Next election date,Matches expected,"[elections] November 3, 2026 – Order of Election","(2026, 11, 3)",4
+calhoun,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+calhoun,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+callahan,polling_hours,Polling hours,Matches expected,[elections] Hours: 7:00 AM - 7:00 PM,parsed 7:00-19:00,2
+callahan,election_date,Next election date,Matches expected,"[elections] November 3, 2026, General Election","(2026, 11, 3)",2
+callahan,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+callahan,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+cameron,polling_hours,Polling hours,Matches expected,[results] Locations are open from 7 a.m. to 7 p.m. on Election Day.,parsed 7:00-19:00,5
+cameron,election_date,Next election date,Shows only a past election,"[early_voting] June 13, 2026 Texas Southmost College District Runoff Election","latest date stated is (2026, 6, 13), already past",5
+cameron,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+cameron,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+camp,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+camp,election_date,Next election date,Never states it,,no election-day date found in election context,2
+camp,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+camp,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+carson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+carson,election_date,Next election date,Matches expected,"[elections] Register to vote before October 5, 2026 to be eligible to vote in the November 3, 2026 General Election.","(2026, 11, 3)",2
+carson,registration_deadline,Registration deadline,Matches expected,[elections] ▲,"(2026, 10, 5)",2
+carson,early_voting_window,Early voting window,Matches expected,[elections] ▲,"(2026, 10, 19)..(2026, 10, 30)",2
+cass,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+cass,election_date,Next election date,Matches expected,"[elections] GENERAL ELECTION : November 3, 2026","(2026, 11, 3)",2
+cass,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+cass,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+castro,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+castro,election_date,Next election date,Never states it,,no election-day date found in election context,2
+castro,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+castro,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+chambers,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+chambers,election_date,Next election date,Matches expected,"[early_voting] November 3, 2026 Joint General Election","(2026, 11, 3)",4
+chambers,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+chambers,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+cherokee,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+cherokee,election_date,Next election date,Matches expected,[elections] Tuesday 11/03/2026,"(2026, 11, 3)",3
+cherokee,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+cherokee,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+childress,polling_hours,Polling hours,Matches expected,[elections] 2/23-2/27:  7:00am to 7:00pm,parsed 7:00-19:00,2
+childress,election_date,Next election date,Shows only a past election,"[elections] All Precincts will vote at the 501 Event Center, formally the Women’s Department Club at 107 Ave  E NW in Chil","latest date stated is (2026, 3, 3), already past",2
+childress,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+childress,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+clay,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+clay,election_date,Next election date,Shows only a past election,"[elections] Primary Election March 3, 2026","latest date stated is (2026, 3, 3), already past",3
+clay,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+clay,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+cochran,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+cochran,election_date,Next election date,Never states it,,no election-day date found in election context,2
+cochran,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+cochran,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+coke,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+coke,election_date,Next election date,Matches expected,"[elections] November 3, 2026 Election","(2026, 11, 3)",2
+coke,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+coke,early_voting_window,Early voting window,States something else,[elections] ▲,"states [(2026, 11, 3), (2026, 5, 26)], expected (2026, 10, 19)..(2026, 10, 30)",2
+coleman,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+coleman,election_date,Next election date,Never states it,,no election-day date found in election context,4
+coleman,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+coleman,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+collin,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+collin,election_date,Next election date,Never states it,,no election-day date found in election context,4
+collin,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+collin,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+collingsworth,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+collingsworth,election_date,Next election date,Matches expected,"[elections] Notice of General Election November 3, 2026","(2026, 11, 3)",2
+collingsworth,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+collingsworth,early_voting_window,Early voting window,States something else,[elections] Election Unofficial Results Report 2026 Republican Primary Runoff Election,"states [(2026, 11, 3), (2026, 5, 26)], expected (2026, 10, 19)..(2026, 10, 30)",2
+colorado,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+colorado,election_date,Next election date,Matches expected,"[early_voting] November 03, 2026","(2026, 11, 3)",3
+colorado,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+colorado,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+comal,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+comal,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",3
+comal,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+comal,early_voting_window,Early voting window,States something else,[elections] Order of Election - November General Election for County Officers,"states [(2026, 11, 3), (2026, 6, 13)], expected (2026, 10, 19)..(2026, 10, 30)",3
+comanche,polling_hours,Polling hours,Never states it,,"time ranges found, but all anchored to a non-statewide election",4
+comanche,election_date,Next election date,Matches expected,"[early_voting] Tuesday, November 3, 2026 - Uniform Election Date","(2026, 11, 3)",4
+comanche,registration_deadline,Registration deadline,Matches expected,[early_voting] Last Day to Register to Vote,"(2026, 10, 5)",4
+comanche,early_voting_window,Early voting window,Matches expected,[early_voting] Early voting will start on,"(2026, 10, 19)..(2026, 10, 30)",4
+concho,polling_hours,Polling hours,Matches expected,[elections] Oct 26-30 (7am-7pm),parsed 7:00-19:00,3
+concho,election_date,Next election date,Matches expected,"[elections] NOVEMBER 3, 2026, GENERAL ELECTION, SPECIAL ELECTION, & EDEN CISD ELECTION INFORMATION","(2026, 11, 3)",3
+concho,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+concho,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+cooke,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+cooke,election_date,Next election date,Matches expected,"[elections] November 3, 2026 -","(2026, 11, 3)",2
+cooke,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+cooke,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+coryell,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+coryell,election_date,Next election date,Never states it,,no election-day date found in election context,2
+coryell,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+coryell,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+cottle,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+cottle,election_date,Next election date,Never states it,,no election-day date found in election context,2
+cottle,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+cottle,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+crane,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+crane,election_date,Next election date,Matches expected,[elections] ORDER OF ELECTION- NOVEMBER 3 2026,"(2026, 11, 3)",3
+crane,registration_deadline,Registration deadline,States something else,"[elections] Deadline to Register to Vote- Monday, October 5,2026","states (2026, 10, 19), expected (2026, 10, 5)",3
+crane,early_voting_window,Early voting window,Matches expected,"[elections] Last Day to File a Declaration of Write-in Candidacy - Monday August 17, 2026","(2026, 10, 19)..(2026, 10, 30)",3
+crockett,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+crockett,election_date,Next election date,Never states it,,no election-day date found in election context,2
+crockett,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+crockett,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+crosby,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+crosby,election_date,Next election date,Never states it,,no election-day date found in election context,2
+crosby,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+crosby,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+culberson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+culberson,election_date,Next election date,Never states it,,no election-day date found in election context,4
+culberson,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+culberson,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+dallam,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+dallam,election_date,Next election date,Never states it,,no election-day date found in election context,2
+dallam,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+dallam,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+dallas,polling_hours,Polling hours,Matches expected,[elections] You can vote at any Vote Center in Dallas County from 7 AM to 7 PM.,parsed 7:00-19:00,5
+dallas,election_date,Next election date,Matches expected,"[elections] November 3, 2026- General Election (12)","(2026, 11, 3)",5
+dallas,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+dallas,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+dawson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+dawson,election_date,Next election date,Matches expected,"[early_voting] NOVEMBER 3, 2026","(2026, 11, 3)",4
+dawson,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+dawson,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+deaf_smith,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+deaf_smith,election_date,Next election date,Never states it,,no election-day date found in election context,2
+deaf_smith,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+deaf_smith,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+delta,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+delta,election_date,Next election date,Never states it,,no election-day date found in election context,4
+delta,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+delta,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+denton,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+denton,election_date,Next election date,Matches expected,"[early_voting] General Election – November 3, 2026","(2026, 11, 3)",5
+denton,registration_deadline,Registration deadline,Matches expected,[early_voting] Notices (Coming Soon),"(2026, 10, 5)",5
+denton,early_voting_window,Early voting window,States something else,[early_voting] Notices (Coming Soon),"states [(2026, 10, 5), (2026, 10, 23)], expected (2026, 10, 19)..(2026, 10, 30)",5
+dewitt,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+dewitt,election_date,Next election date,Matches expected,"[elections] Tuesday, November 3, 2026 General Election","(2026, 11, 3)",3
+dewitt,registration_deadline,Registration deadline,Matches expected,"[elections] The purpose of this page is to provide up to date information for upcoming elections in our area, when there i","(2026, 10, 5)",3
+dewitt,early_voting_window,Early voting window,Matches expected,"[elections] Tuesday, November 3, 2026 General Election","(2026, 10, 19)..(2026, 10, 30)",3
+dickens,polling_hours,Polling hours,Matches expected,[elections] 7:00am - 7:00pm,parsed 7:00-19:00,2
+dickens,election_date,Next election date,Matches expected,"[elections] November 3, 2026 Order of Elections","(2026, 11, 3)",2
+dickens,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+dickens,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+dimmit,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+dimmit,election_date,Next election date,Matches expected,[elections] Those candidates who received more than half of the ballots cast in their race won that election and will repr,"(2026, 11, 3)",2
+dimmit,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+dimmit,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+donley,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+donley,election_date,Next election date,Never states it,,no election-day date found in election context,2
+donley,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+donley,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+duval,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+duval,election_date,Next election date,Never states it,,no election-day date found in election context,2
+duval,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+duval,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+eastland,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+eastland,election_date,Next election date,Matches expected,"[elections] Tuesday, November 3, 2026 - Uniform Election Date","(2026, 11, 3)",2
+eastland,registration_deadline,Registration deadline,Matches expected,[elections] Last Day to Register to Vote,"(2026, 10, 5)",2
+eastland,early_voting_window,Early voting window,Matches expected,"[elections] Last Day to Apply for Ballot by Mail (Received, not Postmarked)","(2026, 10, 19)..(2026, 10, 30)",2
+ector,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+ector,election_date,Next election date,Shows only a past election,"[elections] March 3, 2026 Joint Primary Election","latest date stated is (2026, 3, 3), already past",2
+ector,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+ector,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+edwards,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+edwards,election_date,Next election date,Never states it,,no election-day date found in election context,4
+edwards,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+edwards,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+el_paso,polling_hours,Polling hours,Matches expected,[polling] All Vote Centers will be open from 7:00 a.m. to 7:00 p.m.,parsed 7:00-19:00,5
+el_paso,election_date,Next election date,Matches expected,"[early_voting] November 3, 2026","(2026, 11, 3)",5
+el_paso,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+el_paso,early_voting_window,Early voting window,Matches expected,[early_voting] epcountytx.gov,"(2026, 10, 19)..(2026, 10, 30)",5
+ellis,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+ellis,election_date,Next election date,Never states it,,no election-day date found in election context,5
+ellis,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+ellis,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+erath,polling_hours,Polling hours,Matches expected,"[polling] Election Day will be Tuesday, November 3, 2026 (7:00am - 7:00pm)",parsed 7:00-19:00,4
+erath,election_date,Next election date,Matches expected,"[early_voting] The next election in Erath County is the General Election November 3, 2026.","(2026, 11, 3)",4
+erath,registration_deadline,Registration deadline,Matches expected,[early_voting] Important Dates:,"(2026, 10, 5)",4
+erath,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+falls,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+falls,election_date,Next election date,Never states it,,no election-day date found in election context,2
+falls,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+falls,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+fannin,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+fannin,election_date,Next election date,Matches expected,"[elections] General Election November 3, 2026","(2026, 11, 3)",2
+fannin,registration_deadline,Registration deadline,Matches expected,[elections] Sample Ballots,"(2026, 10, 5)",2
+fannin,early_voting_window,Early voting window,States something else,"[elections] General Election November 3, 2026","states [(2026, 11, 3), (2026, 11, 3)], expected (2026, 10, 19)..(2026, 10, 30)",2
+fayette,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+fayette,election_date,Next election date,Matches expected,"[elections] Location, Dates and Times for November 3, 2026 General Election","(2026, 11, 3)",3
+fayette,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+fayette,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+fisher,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+fisher,election_date,Next election date,Never states it,,no election-day date found in election context,2
+fisher,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+fisher,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+floyd,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+floyd,election_date,Next election date,Matches expected,"[elections] November 3rd, 2026 General Election","(2026, 11, 3)",2
+floyd,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+floyd,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+foard,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+foard,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",2
+foard,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+foard,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+fort_bend,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+fort_bend,election_date,Next election date,Never states it,,no election-day date found in election context,5
+fort_bend,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+fort_bend,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+franklin,polling_hours,Polling hours,Matches expected,[polling] 7am-7pm,parsed 7:00-19:00,4
+franklin,election_date,Next election date,Matches expected,"[polling] November 3, 2026 General Election","(2026, 11, 3)",4
+franklin,registration_deadline,Registration deadline,Matches expected,[polling] Last day to register to vote:,"(2026, 10, 5)",4
+franklin,early_voting_window,Early voting window,Matches expected,[polling] Last day to apply for ballot by mail –,"(2026, 10, 19)..(2026, 10, 30)",4
+freestone,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+freestone,election_date,Next election date,Matches expected,"[elections] UPCOMING 2026 ELECTIONS NOVEMBER 3, 2026","(2026, 11, 3)",2
+freestone,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+freestone,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+frio,polling_hours,Polling hours,Matches expected,[elections] 7am to 7 pm,parsed 7:00-19:00,3
+frio,election_date,Next election date,Matches expected,"[elections] , to be eligible for the November 3, 2026, ELECTION. Last day for early voting clerk to receive applications f","(2026, 11, 3)",3
+frio,registration_deadline,Registration deadline,Matches expected,"[elections] To vote in the November 3 ,2026, ELECTION, submit your","(2026, 10, 5)",3
+frio,early_voting_window,Early voting window,States something else,[elections] than,"states [(2026, 10, 23), (2026, 11, 3)], expected (2026, 10, 19)..(2026, 10, 30)",3
+gaines,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+gaines,election_date,Next election date,Shows only a past election,[elections] 02/27/2026,"latest date stated is (2026, 2, 27), already past",2
+gaines,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+gaines,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+galveston,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+galveston,election_date,Next election date,Never states it,,no election-day date found in election context,5
+galveston,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+galveston,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+garza,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+garza,election_date,Next election date,Shows only a past election,[elections] May 26 2026 Primary Runoff Official Results.pdf,"latest date stated is (2026, 5, 26), already past",5
+garza,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+garza,early_voting_window,Early voting window,Shows only a past election,[elections] Canvass of General Election May 26 2026 Runoff.pdf,"latest window stated is [(2026, 5, 26), (2026, 5, 26)], already past",5
+gillespie,polling_hours,Polling hours,Matches expected,[elections] 7AM - 7PM,parsed 7:00-19:00,3
+gillespie,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",3
+gillespie,registration_deadline,Registration deadline,Matches expected,[elections] Last Day to Register to Vote or make a change of address effective:,"(2026, 10, 5)",3
+gillespie,early_voting_window,Early voting window,States something else,"[elections] Thursday, January 1, 2026","states [(2026, 1, 1), (2026, 10, 5)], expected (2026, 10, 19)..(2026, 10, 30)",3
+glasscock,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+glasscock,election_date,Next election date,Never states it,,no election-day date found in election context,2
+glasscock,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+glasscock,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+goliad,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+goliad,election_date,Next election date,Matches expected,"[elections] Tuesday, November 3, 2026 General Election","(2026, 11, 3)",2
+goliad,registration_deadline,Registration deadline,Matches expected,[elections] Last Day to Register to Vote is on,"(2026, 10, 5)",2
+goliad,early_voting_window,Early voting window,Matches expected,[elections] Early Voting begins,"(2026, 10, 19)..(2026, 10, 30)",2
+gonzales,polling_hours,Polling hours,Matches expected,"[elections] May 2, 2026, 7:00 am - 7:00 pm",parsed 7:00-19:00,2
+gonzales,election_date,Next election date,Matches expected,"[elections] November 3, 2026, General Election","(2026, 11, 3)",2
+gonzales,registration_deadline,Registration deadline,Matches expected,[elections] ▲,"(2026, 10, 5)",2
+gonzales,early_voting_window,Early voting window,States something else,"[elections] October 23, 2026","states [(2026, 10, 23), (2026, 11, 3)], expected (2026, 10, 19)..(2026, 10, 30)",2
+gray,polling_hours,Polling hours,Matches expected,[elections] October 26- October 30                                             7 am - 7pm,parsed 7:00-19:00,4
+gray,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",4
+gray,registration_deadline,Registration deadline,Matches expected,[elections] ▲,"(2026, 10, 5)",4
+gray,early_voting_window,Early voting window,States something else,[elections] .,"states [(2026, 10, 5), (2026, 10, 23)], expected (2026, 10, 19)..(2026, 10, 30)",4
+grayson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+grayson,election_date,Next election date,Matches expected,"[elections] General Election – November 3, 2026","(2026, 11, 3)",5
+grayson,registration_deadline,Registration deadline,Matches expected,[elections] Download file,"(2026, 10, 5)",5
+grayson,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+gregg,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+gregg,election_date,Next election date,Matches expected,"[early_voting] NOVEMBER 3, 2026 GENERAL ELECTION","(2026, 11, 3)",5
+gregg,registration_deadline,Registration deadline,Matches expected,[elections] Date,"(2026, 10, 5)",5
+gregg,early_voting_window,Early voting window,States something else,"[elections] Monday, Oct 5, 2026","states [(2026, 10, 5), (2026, 10, 23)], expected (2026, 10, 19)..(2026, 10, 30)",5
+grimes,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+grimes,election_date,Next election date,Never states it,,no election-day date found in election context,5
+grimes,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+grimes,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+guadalupe,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+guadalupe,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General & Special Elections","(2026, 11, 3)",5
+guadalupe,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+guadalupe,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+hale,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+hale,election_date,Next election date,Never states it,,no election-day date found in election context,2
+hale,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+hale,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+hall,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+hall,election_date,Next election date,Never states it,,no election-day date found in election context,2
+hall,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+hall,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+hamilton,polling_hours,Polling hours,Matches expected,[elections] 7:00 am -7:00 pm.,parsed 7:00-19:00,2
+hamilton,election_date,Next election date,Matches expected,"[elections] Tuesday, November 3, 2026 - Uniform Election Date","(2026, 11, 3)",2
+hamilton,registration_deadline,Registration deadline,Matches expected,[elections] Last Day to Register to Vote,"(2026, 10, 5)",2
+hamilton,early_voting_window,Early voting window,States something else,"[elections] Friday, August 21, 2026","states [(2026, 8, 21), (2026, 10, 5)], expected (2026, 10, 19)..(2026, 10, 30)",2
+hansford,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+hansford,election_date,Next election date,States something else,"[homepage] Hansford County is under a Burn Ban until November 7, 2026.","states (2026, 11, 7), expected (2026, 11, 3)",2
+hansford,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+hansford,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+hardeman,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+hardeman,election_date,Next election date,Never states it,,no election-day date found in election context,2
+hardeman,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+hardeman,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+hardin,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+hardin,election_date,Next election date,Shows only a past election,[elections] Official 3/3/2026 Republican Primary,"latest date stated is (2026, 3, 3), already past",2
+hardin,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+hardin,early_voting_window,Early voting window,States something else,[elections] 7:00 am - 7:00 pm,"states [(2026, 10, 24), (2026, 10, 25)], expected (2026, 10, 19)..(2026, 10, 30)",2
+harris,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+harris,election_date,Next election date,Matches expected,"[elections] November 3, 2026, General and Special Elections","(2026, 11, 3)",4
+harris,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+harris,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+harrison,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+harrison,election_date,Next election date,Never states it,,no election-day date found in election context,2
+harrison,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+harrison,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+hartley,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+hartley,election_date,Next election date,Matches expected,"[elections] General Election November 3rd, 2026","(2026, 11, 3)",2
+hartley,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+hartley,early_voting_window,Early voting window,Shows only a past election,[elections] Texas General Election Dates,"latest window stated is [(2026, 7, 15), (2026, 7, 15)], already past",2
+haskell,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+haskell,election_date,Next election date,Never states it,,no election-day date found in election context,2
+haskell,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+haskell,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+hays,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+hays,election_date,Next election date,Matches expected,"[early_voting] November 3, 2026 General Election","(2026, 11, 3)",5
+hays,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+hays,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+hemphill,polling_hours,Polling hours,Matches expected,"[polling] Tuesday, March 5                                   7:00 am to 7:00 pm",parsed 7:00-19:00,4
+hemphill,election_date,Next election date,Matches expected,"[early_voting] November 3, 2026 Uniform Election","(2026, 11, 3)",4
+hemphill,registration_deadline,Registration deadline,Matches expected,"[early_voting] *First day to file does not move because of New Year's Day holiday. An ""Annual ABBM"" or FPCA for a January or ","(2026, 10, 5)",4
+hemphill,early_voting_window,Early voting window,Matches expected,"[early_voting] Last Day to Apply for Ballot By Mail (Received, not Postmarked)","(2026, 10, 19)..(2026, 10, 30)",4
+henderson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,1
+henderson,election_date,Next election date,Never states it,,no election-day date found in election context,1
+henderson,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,1
+henderson,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,1
+hidalgo,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+hidalgo,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Elections","(2026, 11, 3)",5
+hidalgo,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+hidalgo,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+hill,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+hill,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",2
+hill,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+hill,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+hockley,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+hockley,election_date,Next election date,Matches expected,"[elections] November 3, 2026","(2026, 11, 3)",2
+hockley,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+hockley,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+hood,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+hood,election_date,Next election date,Matches expected,"[elections] November 3, 2026- General Election","(2026, 11, 3)",3
+hood,registration_deadline,Registration deadline,Matches expected,[elections] First day to apply for a ballot by mail,"(2026, 10, 5)",3
+hood,early_voting_window,Early voting window,Matches expected,"[elections] Last day to apply for a ballot by mail (received, not postmarked)","(2026, 10, 19)..(2026, 10, 30)",3
+hopkins,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+hopkins,election_date,Next election date,Matches expected,"[early_voting] November 3, 2026 General Election","(2026, 11, 3)",5
+hopkins,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+hopkins,early_voting_window,Early voting window,States something else,"[early_voting] November 3, 2026 General Election- Notices","states [(2026, 11, 3), (2026, 11, 3)], expected (2026, 10, 19)..(2026, 10, 30)",5
+houston,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+houston,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Mid-Term / Special Election","(2026, 11, 3)",2
+houston,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+houston,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+howard,polling_hours,Polling hours,Matches expected,[polling] Howard County is part of the Vote Center program. You may go to any Howard County location on Election Day and,parsed 7:00-19:00,4
+howard,election_date,Next election date,Matches expected,"[elections] Gubernatorial General Election November 3, 2026","(2026, 11, 3)",4
+howard,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+howard,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+hudspeth,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+hudspeth,election_date,Next election date,Never states it,,no election-day date found in election context,3
+hudspeth,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+hudspeth,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+hunt,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+hunt,election_date,Next election date,Matches expected,"[results] November 3, 2026","(2026, 11, 3)",3
+hunt,registration_deadline,Registration deadline,Shows only a past election,[results] - Last day to Receive an application for a ballot by Mail,"latest date stated is (2026, 5, 18), already past",3
+hunt,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+hutchinson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+hutchinson,election_date,Next election date,Shows only a past election,[elections] 05/22/2026,"latest date stated is (2026, 5, 22), already past",2
+hutchinson,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+hutchinson,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+irion,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+irion,election_date,Next election date,Never states it,,no election-day date found in election context,2
+irion,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+irion,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+jack,polling_hours,Polling hours,Matches expected,[elections] 7 AM - 7 PM,parsed 7:00-19:00,4
+jack,election_date,Next election date,Matches expected,"[elections] Election Day -Tuesday, November 3, 2026","(2026, 11, 3)",4
+jack,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+jack,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+jackson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+jackson,election_date,Next election date,Never states it,,no election-day date found in election context,3
+jackson,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+jackson,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+jasper,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+jasper,election_date,Next election date,Never states it,,no election-day date found in election context,2
+jasper,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+jasper,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+jeff_davis,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+jeff_davis,election_date,Next election date,Never states it,,no election-day date found in election context,2
+jeff_davis,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+jeff_davis,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+jefferson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+jefferson,election_date,Next election date,Never states it,,no election-day date found in election context,5
+jefferson,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+jefferson,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+jim_hogg,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+jim_hogg,election_date,Next election date,Never states it,,no election-day date found in election context,2
+jim_hogg,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+jim_hogg,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+jim_wells,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+jim_wells,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",2
+jim_wells,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+jim_wells,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+johnson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+johnson,election_date,Next election date,Never states it,,no election-day date found in election context,5
+johnson,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+johnson,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+jones,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+jones,election_date,Next election date,Never states it,,no election-day date found in election context,2
+jones,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+jones,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+karnes,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+karnes,election_date,Next election date,Matches expected,[elections] NOVEMBER 3 2026 GENERAL ELECTION,"(2026, 11, 3)",2
+karnes,registration_deadline,Registration deadline,Matches expected,[elections] 10/05/2026,"(2026, 10, 5)",2
+karnes,early_voting_window,Early voting window,States something else,[elections] 10/19/2026,"states [(2026, 10, 19), (2026, 10, 29)], expected (2026, 10, 19)..(2026, 10, 30)",2
+kaufman,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+kaufman,election_date,Next election date,Matches expected,"[early_voting] TUESDAY, NOVEMBER 3, 2026 for the","(2026, 11, 3)",5
+kaufman,registration_deadline,Registration deadline,Matches expected,[early_voting] IMPORTANT DATES,"(2026, 10, 5)",5
+kaufman,early_voting_window,Early voting window,Matches expected,"[early_voting] October 5, 2026 - Last Day to Register to Vote or update Registration Status","(2026, 10, 19)..(2026, 10, 30)",5
+kendall,polling_hours,Polling hours,Matches expected,[polling] 7:00 am - 7:00 pm,parsed 7:00-19:00,5
+kendall,election_date,Next election date,Matches expected,"[early_voting] November 3rd, 2026 General Elections","(2026, 11, 3)",5
+kendall,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+kendall,early_voting_window,Early voting window,States something else,[early_voting] Early Voting,"states [(2026, 10, 19), (2026, 10, 20)], expected (2026, 10, 19)..(2026, 10, 30)",5
+kenedy,polling_hours,Polling hours,Matches expected,[polling] 7:00 a.m. through 7:00 p.m.,parsed 7:00-19:00,5
+kenedy,election_date,Next election date,Shows only a past election,"[early_voting] May 26, 2026 Joint Primary Runoff Election","latest date stated is (2026, 5, 26), already past",5
+kenedy,registration_deadline,Registration deadline,Shows only a past election,[early_voting] January 14th – First day to File for a Place on the General Election Ballot,"latest date stated is (2026, 5, 2), already past",5
+kenedy,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+kent,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+kent,election_date,Next election date,Never states it,,no election-day date found in election context,2
+kent,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+kent,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+kerr,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+kerr,election_date,Next election date,Matches expected,"[polling] NOVEMBER 3, 2026 - GENERAL ELECTION","(2026, 11, 3)",3
+kerr,registration_deadline,Registration deadline,Matches expected,[polling] Last Day to Register to Vote,"(2026, 10, 5)",3
+kerr,early_voting_window,Early voting window,States something else,"[polling] Friday, August 21, 2026","states [(2026, 8, 21), (2026, 10, 5)], expected (2026, 10, 19)..(2026, 10, 30)",3
+kimble,polling_hours,Polling hours,Matches expected,[elections] open 7am to 7pm),parsed 7:00-19:00,2
+kimble,election_date,Next election date,Matches expected,"[elections] General Election – November 3, 2026","(2026, 11, 3)",2
+kimble,registration_deadline,Registration deadline,Matches expected,[elections] Last Day to Register to Vote:,"(2026, 10, 5)",2
+kimble,early_voting_window,Early voting window,Matches expected,"[elections] October 19, 2026 – October 23, 2026 8am - 5pm (OPEN THROUGH LUNCH)","(2026, 10, 19)..(2026, 10, 30)",2
+king,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,1
+king,election_date,Next election date,Never states it,,no election-day date found in election context,1
+king,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,1
+king,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,1
+kinney,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+kinney,election_date,Next election date,Shows only a past election,"[results] May 2, 2026 Election","latest date stated is (2026, 5, 2), already past",3
+kinney,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+kinney,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+kleberg,polling_hours,Polling hours,Never states it,,"time ranges found, but all anchored to a non-statewide election",2
+kleberg,election_date,Next election date,Matches expected,"[elections] General Election November 03, 2026","(2026, 11, 3)",2
+kleberg,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+kleberg,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+knox,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+knox,election_date,Next election date,Never states it,,no election-day date found in election context,2
+knox,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+knox,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+la_salle,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+la_salle,election_date,Next election date,Matches expected,"[elections] 2026 General Election (November 3, 2026)","(2026, 11, 3)",5
+la_salle,registration_deadline,Registration deadline,States something else,[elections] 2026 La Salle County Court Dockets,"states (2026, 8, 20), expected (2026, 10, 5)",5
+la_salle,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+lamar,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+lamar,election_date,Next election date,Never states it,,no election-day date found in election context,3
+lamar,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+lamar,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+lamb,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+lamb,election_date,Next election date,Never states it,,no election-day date found in election context,2
+lamb,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+lamb,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+lampasas,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+lampasas,election_date,Next election date,Matches expected,"[elections] November 3, 2026","(2026, 11, 3)",2
+lampasas,registration_deadline,Registration deadline,Shows only a past election,[elections] Last Day to Register to Vote,"latest date stated is (2026, 2, 2), already past",2
+lampasas,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+lavaca,polling_hours,Polling hours,Matches expected,"[elections] Thursday, May 21st  7 AM - 7 PM",parsed 7:00-19:00,3
+lavaca,election_date,Next election date,Shows only a past election,"[elections] Tuesday, March 3, 2026:","latest date stated is (2026, 3, 3), already past",3
+lavaca,registration_deadline,Registration deadline,Shows only a past election,[elections] Primary Election Runoff,"latest date stated is (2026, 5, 26), already past",3
+lavaca,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+lee,polling_hours,Polling hours,Matches expected,[polling] ELECTION DAY ONLY POLLING LOCATIONS (11-5-2024 FROM 7 A.M. TO 7 P.M.),parsed 7:00-19:00,4
+lee,election_date,Next election date,Never states it,,no election-day date found in election context,4
+lee,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+lee,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+leon,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+leon,election_date,Next election date,Matches expected,"[elections] Nov. 3, 2026 General Election","(2026, 11, 3)",2
+leon,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+leon,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+liberty,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+liberty,election_date,Next election date,Matches expected,"[early_voting] November 3, 2026","(2026, 11, 3)",5
+liberty,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+liberty,early_voting_window,Early voting window,States something else,[early_voting] ELECTION DAY:,"states [(2026, 11, 3), (2026, 10, 19)], expected (2026, 10, 19)..(2026, 10, 30)",5
+limestone,polling_hours,Polling hours,Matches expected,[elections] OPEN 7AM-7PM,parsed 7:00-19:00,2
+limestone,election_date,Next election date,Matches expected,"[elections] NOVEMBER 3, 2026 GENERAL ELECTION","(2026, 11, 3)",2
+limestone,registration_deadline,Registration deadline,Matches expected,[elections] Important Election Dates:,"(2026, 10, 5)",2
+limestone,early_voting_window,Early voting window,Matches expected,[elections] Last day for Elections Office to receive an Application for Ballot by Mail or Federal Post Card Application (F,"(2026, 10, 19)..(2026, 10, 30)",2
+lipscomb,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+lipscomb,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",2
+lipscomb,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+lipscomb,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+live_oak,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+live_oak,election_date,Next election date,Never states it,,no election-day date found in election context,2
+live_oak,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+live_oak,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+llano,polling_hours,Polling hours,Matches expected,[elections] Polls will be open 7:00am until 7:00 pm at each location,parsed 7:00-19:00,3
+llano,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",3
+llano,registration_deadline,Registration deadline,Matches expected,[elections] Last Day to File a Declaration of Write-in Candidacy,"(2026, 10, 5)",3
+llano,early_voting_window,Early voting window,Matches expected,[elections] (,"(2026, 10, 19)..(2026, 10, 30)",3
+loving,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+loving,election_date,Next election date,Matches expected,"[elections] NOV. 3RD, 2026, GENERAL ELECTION","(2026, 11, 3)",2
+loving,registration_deadline,Registration deadline,Matches expected,[elections] IMPORTANT DATES,"(2026, 10, 5)",2
+loving,early_voting_window,Early voting window,States something else,[elections] IMPORTANT DATES,"states [(2026, 11, 3), (2026, 10, 5)], expected (2026, 10, 19)..(2026, 10, 30)",2
+lubbock,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+lubbock,election_date,Next election date,Matches expected,"[early_voting] November 3, 2026 General and Special Elections","(2026, 11, 3)",5
+lubbock,registration_deadline,Registration deadline,Matches expected,"[elections] Last Day to Register to Vote for Election: Monday, October 5, 2026","(2026, 10, 5)",5
+lubbock,early_voting_window,Early voting window,Matches expected,"[elections] November 3, 2026 General and Special Election Dates and Deadlines","(2026, 10, 19)..(2026, 10, 30)",5
+lynn,polling_hours,Polling hours,Matches expected,[elections] 7:00 AM to 7:00 PM,parsed 7:00-19:00,2
+lynn,election_date,Next election date,Shows only a past election,[elections] Important Dates - 05/26/2026 - Primary Run Off General Election,"latest date stated is (2026, 5, 26), already past",2
+lynn,registration_deadline,Registration deadline,Shows only a past election,[elections] -Last Day to Apply for Ballot by Mail,"latest date stated is (2026, 5, 18), already past",2
+lynn,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+madison,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+madison,election_date,Next election date,Never states it,,no election-day date found in election context,2
+madison,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+madison,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+marion,polling_hours,Polling hours,Matches expected,[polling] Polls are open on Election Day from 7 am to 7 pm,parsed 7:00-19:00,4
+marion,election_date,Next election date,Never states it,,no election-day date found in election context,4
+marion,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+marion,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+martin,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+martin,election_date,Next election date,Never states it,,no election-day date found in election context,2
+martin,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+martin,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+mason,polling_hours,Polling hours,Matches expected,"[elections] October 26-30, 2026         7:00am - 7:00pm",parsed 7:00-19:00,2
+mason,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",2
+mason,registration_deadline,Registration deadline,Matches expected,[elections] ▲,"(2026, 10, 5)",2
+mason,early_voting_window,Early voting window,States something else,[elections] Logic and Accuracy Testing (1) Date:,"states [(2026, 10, 23), (2026, 11, 3)], expected (2026, 10, 19)..(2026, 10, 30)",2
+matagorda,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+matagorda,election_date,Next election date,Never states it,,no election-day date found in election context,2
+matagorda,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+matagorda,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+maverick,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+maverick,election_date,Next election date,Never states it,,no election-day date found in election context,2
+maverick,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+maverick,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+mcculloch,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+mcculloch,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",4
+mcculloch,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+mcculloch,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+mclennan,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+mclennan,election_date,Next election date,Matches expected,"[early_voting] November 3, 2026 Joint General Election","(2026, 11, 3)",5
+mclennan,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+mclennan,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+mcmullen,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+mcmullen,election_date,Next election date,Shows only a past election,"[elections] March 3, 2026 Democratic Sample Ballot","latest date stated is (2026, 3, 3), already past",2
+mcmullen,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+mcmullen,early_voting_window,Early voting window,Shows only a past election,"[elections] 6.4.2026 Notice of Canvassing of the May 26, 2026 Joint Primary Runoff Election","latest window stated is [(2026, 5, 26), (2026, 5, 26)], already past",2
+medina,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+medina,election_date,Next election date,Matches expected,"[elections] The last day to register to vote for the November 3, 2026 Joint General Election is Monday, October 5, 2026. Y","(2026, 11, 3)",2
+medina,registration_deadline,Registration deadline,Matches expected,[elections] Elections 2016-2023,"(2026, 10, 5)",2
+medina,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+menard,polling_hours,Polling hours,Matches expected,"[elections] Tuesday May 26, 7:00 am - 7:00 pm",parsed 7:00-19:00,2
+menard,election_date,Next election date,Never states it,,no election-day date found in election context,2
+menard,registration_deadline,Registration deadline,Shows only a past election,[elections] REPUBLICAN / REPUBLICANO,"latest date stated is (2026, 5, 26), already past",2
+menard,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+midland,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+midland,election_date,Next election date,Matches expected,"[early_voting] November 3, 2026 Joint General Election","(2026, 11, 3)",5
+midland,registration_deadline,Registration deadline,Matches expected,[early_voting] Deadline to register to vote is,"(2026, 10, 5)",5
+midland,early_voting_window,Early voting window,States something else,"[early_voting] Monday, October 5, 2026.","states [(2026, 10, 5), (2026, 10, 23)], expected (2026, 10, 19)..(2026, 10, 30)",5
+milam,polling_hours,Polling hours,Matches expected,"[elections] You may hand-deliver your own individual mailed ballot to the Milam County Elections Office, 107 West Main St.",parsed 7:00-19:00,4
+milam,election_date,Next election date,Shows only a past election,"[elections] MAY 2, 2026","latest date stated is (2026, 5, 2), already past",4
+milam,registration_deadline,Registration deadline,Shows only a past election,[elections] EARLY VOTING ROSTERS,"latest date stated is (2026, 5, 2), already past",4
+milam,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+mills,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+mills,election_date,Next election date,Never states it,,no election-day date found in election context,2
+mills,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+mills,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+mitchell,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+mitchell,election_date,Next election date,Never states it,,no election-day date found in election context,2
+mitchell,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+mitchell,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+montague,polling_hours,Polling hours,Matches expected,[polling] 7:00 AM - 7:00 PM,parsed 7:00-19:00,5
+montague,election_date,Next election date,Matches expected,"[results] November 3, 2026","(2026, 11, 3)",5
+montague,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+montague,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+montgomery,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+montgomery,election_date,Next election date,Matches expected,"[elections] November 3, 2026 Joint Election","(2026, 11, 3)",4
+montgomery,registration_deadline,Registration deadline,Matches expected,[elections] THE DEADLINE TO REGISTER TO VOTE IN THE,"(2026, 10, 5)",4
+montgomery,early_voting_window,Early voting window,States something else,"[elections] NOVEMBER 3, 2026 JOINT ELECTION IS","states [(2026, 11, 3), (2026, 10, 5)], expected (2026, 10, 19)..(2026, 10, 30)",4
+moore,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+moore,election_date,Next election date,Matches expected,"[elections] NOVEMBER 3, 2026 GENERAL ELECTION","(2026, 11, 3)",2
+moore,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+moore,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+morris,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+morris,election_date,Next election date,Never states it,,no election-day date found in election context,2
+morris,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+morris,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+motley,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+motley,election_date,Next election date,Never states it,,no election-day date found in election context,2
+motley,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+motley,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+nacogdoches,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+nacogdoches,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",2
+nacogdoches,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+nacogdoches,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+navarro,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+navarro,election_date,Next election date,Matches expected,"[homepage] November 3rd, 2026 General Election","(2026, 11, 3)",2
+navarro,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+navarro,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+newton,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+newton,election_date,Next election date,Never states it,,no election-day date found in election context,2
+newton,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+newton,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+nolan,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+nolan,election_date,Next election date,Matches expected,"[elections] NOVEMBER 3, 2026","(2026, 11, 3)",2
+nolan,registration_deadline,Registration deadline,Matches expected,[elections] Correo (ABBM) o la Solicitud de Tarjeta Postal Federal (FPCA),"(2026, 10, 5)",2
+nolan,early_voting_window,Early voting window,States something else,[elections] Last Day to Register to Vote,"states [(2026, 10, 5), (2026, 10, 19)], expected (2026, 10, 19)..(2026, 10, 30)",2
+nueces,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+nueces,election_date,Next election date,Shows only a past election,"[elections] May 26, 2026 Republican - Democratic Primary Runoff","latest date stated is (2026, 5, 26), already past",3
+nueces,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+nueces,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+ochiltree,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+ochiltree,election_date,Next election date,Matches expected,"[elections] November 3, 2026 - General Election","(2026, 11, 3)",2
+ochiltree,registration_deadline,Registration deadline,Matches expected,"[elections] *First day to file does not move because of New Year's Day holiday. An ""Annual ABBM"" or FPCA for a January or ","(2026, 10, 5)",2
+ochiltree,early_voting_window,Early voting window,Matches expected,"[elections] Last Day to Apply for Ballot By Mail (Received, not Postmarked)","(2026, 10, 19)..(2026, 10, 30)",2
+oldham,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+oldham,election_date,Next election date,Never states it,,no election-day date found in election context,2
+oldham,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+oldham,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+orange,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+orange,election_date,Next election date,Never states it,,no election-day date found in election context,4
+orange,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+orange,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+palo_pinto,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+palo_pinto,election_date,Next election date,Shows only a past election,"[elections] May 26, 2026 Primary Runoff Election","latest date stated is (2026, 5, 26), already past",3
+palo_pinto,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+palo_pinto,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+panola,polling_hours,Polling hours,Matches expected,"[elections] On Election Day, all polling locations will be open 7 am to 7 pm.",parsed 7:00-19:00,2
+panola,election_date,Next election date,Never states it,,no election-day date found in election context,2
+panola,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+panola,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+parker,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+parker,election_date,Next election date,Never states it,,no election-day date found in election context,2
+parker,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+parker,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+parmer,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+parmer,election_date,Next election date,Matches expected,"[elections] Nov 3, 2026","(2026, 11, 3)",2
+parmer,registration_deadline,Registration deadline,Shows only a past election,[elections] rd,"latest date stated is (2026, 4, 3), already past",2
+parmer,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+pecos,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+pecos,election_date,Next election date,Matches expected,"[elections] November 3, 2026 Regular Election","(2026, 11, 3)",4
+pecos,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+pecos,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+polk,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+polk,election_date,Next election date,Shows only a past election,[elections] May 26 2026 Primary Partial Manual Count,"latest date stated is (2026, 5, 26), already past",3
+polk,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+polk,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+potter,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+potter,election_date,Next election date,Matches expected,"[elections] November 3, 2026","(2026, 11, 3)",5
+potter,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+potter,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+presidio,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+presidio,election_date,Next election date,Never states it,,no election-day date found in election context,2
+presidio,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+presidio,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+rains,polling_hours,Polling hours,Matches expected,[elections] 7:00 a.m. to 7:00 p.m. Vote at your precinct,parsed 7:00-19:00,2
+rains,election_date,Next election date,Matches expected,"[elections] NOVEMBER 3, 2026: GENERAL (GOVERNOR) ELECTION","(2026, 11, 3)",2
+rains,registration_deadline,Registration deadline,Matches expected,"[elections] Monday, October 5, 2026","(2026, 10, 5)",2
+rains,early_voting_window,Early voting window,States something else,[elections] (Received not postmarked),"states [(2026, 10, 19), (2026, 10, 23)], expected (2026, 10, 19)..(2026, 10, 30)",2
+randall,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+randall,election_date,Next election date,Never states it,,no election-day date found in election context,2
+randall,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+randall,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+reagan,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+reagan,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",2
+reagan,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+reagan,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+real,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+real,election_date,Next election date,Never states it,,no election-day date found in election context,2
+real,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+real,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+red_river,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+red_river,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election Information","(2026, 11, 3)",2
+red_river,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+red_river,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+reeves,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+reeves,election_date,Next election date,Never states it,,no election-day date found in election context,4
+reeves,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+reeves,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+refugio,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+refugio,election_date,Next election date,Never states it,,no election-day date found in election context,5
+refugio,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+refugio,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+roberts,polling_hours,Polling hours,Matches expected,[elections] 7:00am-7:00pm Election Day.,parsed 7:00-19:00,2
+roberts,election_date,Next election date,Shows only a past election,"[elections] Tuesday, March 3, 2026","latest date stated is (2026, 3, 3), already past",2
+roberts,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+roberts,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+robertson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+robertson,election_date,Next election date,Matches expected,"[elections] NOVEMBER 3, 2026","(2026, 11, 3)",3
+robertson,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+robertson,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+rockwall,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+rockwall,election_date,Next election date,Matches expected,"[elections] The General Election takes place on November 3, 2026","(2026, 11, 3)",5
+rockwall,registration_deadline,Registration deadline,Matches expected,[elections] Apply for Ballot by Mail,"(2026, 10, 5)",5
+rockwall,early_voting_window,Early voting window,Matches expected,"[elections] October 19, 2026 – First Day of Early Voting by Personal Appearance","(2026, 10, 19)..(2026, 10, 30)",5
+runnels,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+runnels,election_date,Next election date,Shows only a past election,"[elections] Election Day May 26, 2026  Hours  7:00am- 7:00pm  Location 600 strong Ave","latest date stated is (2026, 5, 26), already past",2
+runnels,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+runnels,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+rusk,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+rusk,election_date,Next election date,Matches expected,"[elections] Upcoming (General Election November 3, 2026)","(2026, 11, 3)",3
+rusk,registration_deadline,Registration deadline,Matches expected,[elections] Last Day to File a Declaration of Write-in Candidacy (Local Non-County Political Subdivisions Only),"(2026, 10, 5)",3
+rusk,early_voting_window,Early voting window,Matches expected,[elections] First Day of Early Voting by Personal Appearance,"(2026, 10, 19)..(2026, 10, 30)",3
+sabine,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+sabine,election_date,Next election date,Shows only a past election,"[elections] MAY 26, 2026 PRIMARY RUNOFF ELECTION","latest date stated is (2026, 5, 26), already past",5
+sabine,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+sabine,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+san_augustine,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+san_augustine,election_date,Next election date,Matches expected,[elections] Order of November 3 2026 General Election,"(2026, 11, 3)",2
+san_augustine,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+san_augustine,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+san_jacinto,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+san_jacinto,election_date,Next election date,Never states it,,no election-day date found in election context,2
+san_jacinto,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+san_jacinto,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+san_patricio,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+san_patricio,election_date,Next election date,Never states it,,no election-day date found in election context,3
+san_patricio,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+san_patricio,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+san_saba,polling_hours,Polling hours,Matches expected,[elections] Polls will be open from 7:00 a.m. - 7:00 p.m.,parsed 7:00-19:00,2
+san_saba,election_date,Next election date,Matches expected,"[elections] NOVEMBER 3, 2026 GENERAL ELECTION","(2026, 11, 3)",2
+san_saba,registration_deadline,Registration deadline,Matches expected,[elections] Order of Election - November General Election,"(2026, 10, 5)",2
+san_saba,early_voting_window,Early voting window,Matches expected,[elections] First Day of Early Voting by Personal Appearance,"(2026, 10, 19)..(2026, 10, 30)",2
+schleicher,polling_hours,Polling hours,Matches expected,[elections] 7:00 AM to 7:00 PM,parsed 7:00-19:00,2
+schleicher,election_date,Next election date,Shows only a past election,"[elections] Election Day: Tuesday, May 26, 2026","latest date stated is (2026, 5, 26), already past",2
+schleicher,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+schleicher,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+scurry,polling_hours,Polling hours,Matches expected,[polling] Election Day locations are open 7:00 am to 7:00 pm.,parsed 7:00-19:00,4
+scurry,election_date,Next election date,Shows only a past election,[early_voting] 5/26/2026,"latest date stated is (2026, 5, 26), already past",4
+scurry,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+scurry,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+shackelford,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+shackelford,election_date,Next election date,Matches expected,"[elections] ELECTIONS TAB NOVEMBER 3, 2026 GENERAL ELECTION","(2026, 11, 3)",2
+shackelford,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+shackelford,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+shelby,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+shelby,election_date,Next election date,Never states it,,no election-day date found in election context,2
+shelby,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+shelby,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+sherman,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+sherman,election_date,Next election date,Never states it,,no election-day date found in election context,3
+sherman,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+sherman,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+smith,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+smith,election_date,Next election date,Matches expected,"[early_voting] November 3, 2026 November General Election","(2026, 11, 3)",5
+smith,registration_deadline,Registration deadline,Matches expected,[early_voting] Important Dates,"(2026, 10, 5)",5
+smith,early_voting_window,Early voting window,Matches expected,[early_voting] .,"(2026, 10, 19)..(2026, 10, 30)",5
+somervell,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+somervell,election_date,Next election date,Never states it,,no election-day date found in election context,3
+somervell,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+somervell,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+starr,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+starr,election_date,Next election date,Matches expected,"[early_voting] November 3, 2026, General and Special Elections","(2026, 11, 3)",5
+starr,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+starr,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+stephens,polling_hours,Polling hours,Matches expected,"[elections] May 26, 2026 (Tuesday) (7:00AM-7:00PM)",parsed 7:00-19:00,2
+stephens,election_date,Next election date,Shows only a past election,"[elections] May 26, 2026 (Tuesday) (7:00AM-7:00PM)","latest date stated is (2026, 5, 26), already past",2
+stephens,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+stephens,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+sterling,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+sterling,election_date,Next election date,Matches expected,"[elections] General Election November 3, 2026","(2026, 11, 3)",2
+sterling,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+sterling,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+stonewall,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+stonewall,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",2
+stonewall,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+stonewall,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+sutton,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+sutton,election_date,Next election date,Never states it,,no election-day date found in election context,2
+sutton,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+sutton,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+swisher,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+swisher,election_date,Next election date,Never states it,,no election-day date found in election context,2
+swisher,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+swisher,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+tarrant,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+tarrant,election_date,Next election date,Matches expected,"[early_voting] General Uniform Election Date - November 3, 2026","(2026, 11, 3)",5
+tarrant,registration_deadline,Registration deadline,Matches expected,[early_voting] Last day to register to vote:,"(2026, 10, 5)",5
+tarrant,early_voting_window,Early voting window,Matches expected,"[early_voting] Friday, October 23, 2026","(2026, 10, 19)..(2026, 10, 30)",5
+taylor,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+taylor,election_date,Next election date,Shows only a past election,"[early_voting] Monday - June 8, 2026","latest date stated is (2026, 6, 8), already past",5
+taylor,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+taylor,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+terrell,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+terrell,election_date,Next election date,Never states it,,no election-day date found in election context,2
+terrell,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+terrell,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+terry,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+terry,election_date,Next election date,Never states it,,no election-day date found in election context,2
+terry,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+terry,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+throckmorton,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+throckmorton,election_date,Next election date,Matches expected,"[elections] November 3, 2026","(2026, 11, 3)",3
+throckmorton,registration_deadline,Registration deadline,Matches expected,[elections] electoral actual,"(2026, 10, 5)",3
+throckmorton,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+titus,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+titus,election_date,Next election date,Never states it,,no election-day date found in election context,2
+titus,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+titus,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+tom_green,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+tom_green,election_date,Next election date,Never states it,,no election-day date found in election context,5
+tom_green,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+tom_green,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+travis,polling_hours,Polling hours,Matches expected,"[polling] Tuesday, May 26, 2026 (7am-7pm)",parsed 7:00-19:00,4
+travis,election_date,Next election date,Matches expected,"[polling] Tuesday, November 3, 2026","(2026, 11, 3)",4
+travis,registration_deadline,Registration deadline,Matches expected,[polling] Next Election:,"(2026, 10, 5)",4
+travis,early_voting_window,Early voting window,Matches expected,"[polling] Last Day to Register to Vote: Monday, October 5, 2026","(2026, 10, 19)..(2026, 10, 30)",4
+trinity,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+trinity,election_date,Next election date,Never states it,,no election-day date found in election context,3
+trinity,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+trinity,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+tyler,polling_hours,Polling hours,Matches expected,[polling] 7:00AM to 7:00PM,parsed 7:00-19:00,4
+tyler,election_date,Next election date,Matches expected,"[early_voting] NOVEMBER 3, 2026","(2026, 11, 3)",4
+tyler,registration_deadline,Registration deadline,Matches expected,[early_voting] *First day to file does not move because of New Year’s Day holiday. An “Annual ABBM” or FPCA for a January or ,"(2026, 10, 5)",4
+tyler,early_voting_window,Early voting window,Matches expected,"[early_voting] Last Day to Apply for Ballot by Mail (Received, not Postmarked)","(2026, 10, 19)..(2026, 10, 30)",4
+upshur,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+upshur,election_date,Next election date,Shows only a past election,[elections] May 26 2026 Republican Primary Runoff Sample Ballot.pdf,"latest date stated is (2026, 5, 26), already past",3
+upshur,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+upshur,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+upton,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+upton,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",2
+upton,registration_deadline,Registration deadline,Matches expected,[elections] Coming Soon,"(2026, 10, 5)",2
+upton,early_voting_window,Early voting window,Matches expected,"[elections] Last Day to Register to Vote – Monday, October 5, 2026","(2026, 10, 19)..(2026, 10, 30)",2
+uvalde,polling_hours,Polling hours,Matches expected,"[elections] Election Day Voting is Saturday, May 2, 7 AM - 7 PM",parsed 7:00-19:00,5
+uvalde,election_date,Next election date,Shows only a past election,"[elections] May 26, 2026 Primary Runoff Election","latest date stated is (2026, 5, 26), already past",5
+uvalde,registration_deadline,Registration deadline,Shows only a past election,"[elections] May 26, 2026 Primary Runoff Election","latest date stated is (2026, 5, 26), already past",5
+uvalde,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+val_verde,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+val_verde,election_date,Next election date,Matches expected,"[elections] Order of General Election - Tuesday, November 3, 2026","(2026, 11, 3)",4
+val_verde,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+val_verde,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+van_zandt,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+van_zandt,election_date,Next election date,Shows only a past election,[elections] March 3rd 2026 Primaries,"latest date stated is (2026, 3, 3), already past",2
+van_zandt,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+van_zandt,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+victoria,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+victoria,election_date,Next election date,Matches expected,"[early_voting] Tuesday, November 3, 2026 - General Election","(2026, 11, 3)",5
+victoria,registration_deadline,Registration deadline,Matches expected,[early_voting] Last Day to Register to Vote or Make Address Changes -,"(2026, 10, 5)",5
+victoria,early_voting_window,Early voting window,Matches expected,[early_voting] Early Voting begins -,"(2026, 10, 19)..(2026, 10, 30)",5
+walker,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+walker,election_date,Next election date,Never states it,,no election-day date found in election context,2
+walker,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+walker,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+waller,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+waller,election_date,Next election date,Never states it,,no election-day date found in election context,3
+waller,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+waller,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
+ward,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+ward,election_date,Next election date,Matches expected,"[elections] ORDER OF ELECTION NOVEMBER 3, 2026","(2026, 11, 3)",2
+ward,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+ward,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+washington,polling_hours,Polling hours,Matches expected,[elections] Polls are open 7:00 AM to 7:00 PM.,parsed 7:00-19:00,4
+washington,election_date,Next election date,Matches expected,"[early_voting] November 3, 2026","(2026, 11, 3)",4
+washington,registration_deadline,Registration deadline,Shows only a past election,[early_voting] First day to apply for a ballot by mail using Application for a Ballot by Mail (ABBM) or Federal Postcard Appl,"latest date stated is (2026, 5, 26), already past",4
+washington,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+webb,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,5
+webb,election_date,Next election date,Shows only a past election,"[polling] May 26, 2026 – Primary Run-Off","latest date stated is (2026, 5, 26), already past",5
+webb,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+webb,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,5
+wharton,polling_hours,Polling hours,Matches expected,[polling] 7:00 a.m. to 7:00 p.m.,parsed 7:00-19:00,4
+wharton,election_date,Next election date,Shows only a past election,"[results] May 26, 2026  Joint Primary Runoff","latest date stated is (2026, 5, 26), already past",4
+wharton,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,4
+wharton,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,4
+wheeler,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+wheeler,election_date,Next election date,Never states it,,no election-day date found in election context,2
+wheeler,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+wheeler,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+wichita,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+wichita,election_date,Next election date,Matches expected,"[elections] November 3, 2026, 7:00am-7:00pm","(2026, 11, 3)",3
+wichita,registration_deadline,Registration deadline,Matches expected,[elections] October 19th-October 30th (Times Vary),"(2026, 10, 5)",3
+wichita,early_voting_window,Early voting window,States something else,[elections] Early Voting,"states [(2026, 11, 3), (2026, 10, 5)], expected (2026, 10, 19)..(2026, 10, 30)",3
+wilbarger,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+wilbarger,election_date,Next election date,Never states it,,no election-day date found in election context,2
+wilbarger,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+wilbarger,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+willacy,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+willacy,election_date,Next election date,Shows only a past election,[elections] posted 08/17/2026,"latest date stated is (2026, 8, 17), already past",2
+willacy,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+willacy,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+williamson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,4
+williamson,election_date,Next election date,Matches expected,"[elections] November 3, 2026 - Joint General & Special Elections","(2026, 11, 3)",4
+williamson,registration_deadline,Registration deadline,Matches expected,[elections] Last Day to Register to Vote,"(2026, 10, 5)",4
+williamson,early_voting_window,Early voting window,Matches expected,"[elections] Friday, October 23, 2026","(2026, 10, 19)..(2026, 10, 30)",4
+wilson,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+wilson,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",2
+wilson,registration_deadline,Registration deadline,Matches expected,[elections] First day for voters to submit a Mail Ballot Application,"(2026, 10, 5)",2
+wilson,early_voting_window,Early voting window,Matches expected,[elections] First day of Early Voting,"(2026, 10, 19)..(2026, 10, 30)",2
+winkler,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,2
+winkler,election_date,Next election date,Never states it,,no election-day date found in election context,2
+winkler,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+winkler,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+wise,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+wise,election_date,Next election date,Matches expected,"[elections] NOVEMBER 3, 2026 GENERAL & SPECIAL ELECTION","(2026, 11, 3)",3
+wise,registration_deadline,Registration deadline,Matches expected,[elections] day,"(2026, 10, 5)",3
+wise,early_voting_window,Early voting window,States something else,"[elections] , October 23","states [(2026, 10, 24), (2026, 10, 25)], expected (2026, 10, 19)..(2026, 10, 30)",3
+wood,polling_hours,Polling hours,Matches expected,[polling] ELECTION DAY HOURS – 7:00 AM – 7:00 PM,parsed 7:00-19:00,5
+wood,election_date,Next election date,Matches expected,"[early_voting] Early Voting for the November 03, 2026, General Elections","(2026, 11, 3)",5
+wood,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,5
+wood,early_voting_window,Early voting window,States something else,"[early_voting] Early Voting for the November 03, 2026, General Elections","states [(2026, 11, 3), (2026, 10, 24)], expected (2026, 10, 19)..(2026, 10, 30)",5
+yoakum,polling_hours,Polling hours,Matches expected,"[elections] Monday, May 18, 2026- Friday, May 22, 2026     7am-7pm",parsed 7:00-19:00,2
+yoakum,election_date,Next election date,Matches expected,"[elections] November 3, 2026 General Election","(2026, 11, 3)",2
+yoakum,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+yoakum,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+young,polling_hours,Polling hours,Matches expected,[elections] 7am - 7pm,parsed 7:00-19:00,2
+young,election_date,Next election date,Shows only a past election,[elections] Public Notice of LAT of Pollbook - 04/08/2026,"latest date stated is (2026, 4, 8), already past",2
+young,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,2
+young,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,2
+zapata,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+zapata,election_date,Next election date,Shows only a past election,"[elections] Tuesday, May 26, 2026","latest date stated is (2026, 5, 26), already past",3
+zapata,registration_deadline,Registration deadline,Shows only a past election,"[elections] 200 E. 7th Ave,""Bldg B"", Zapata, TX","latest date stated is (2026, 5, 26), already past",3
+zapata,early_voting_window,Early voting window,Shows only a past election,"[elections] Early Voting - General Primary Election - March 3, 2026","latest window stated is [(2026, 3, 3), (2026, 2, 17)], already past",3
+zavala,polling_hours,Polling hours,Never states it,,no line with poll-open context and a time range,3
+zavala,election_date,Next election date,Never states it,,no election-day date found in election context,3
+zavala,registration_deadline,Registration deadline,Never states it,,no date near registration-deadline language,3
+zavala,early_voting_window,Early voting window,Never states it,,no date pair near early-voting language,3
