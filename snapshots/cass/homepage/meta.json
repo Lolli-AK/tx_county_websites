@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-25T08:27:26Z",
-  "html_sha256": "ee31c1cc82ca55edcdb9b06ee1b23b5bd53a6c8d4f07f1a81f2eca89ad061532",
-  "text_sha256": "a138b85b078f08c81f0bb92ff6cf3f3baccd3ee46f11909ae7c4f53894251728",
-  "byte_size": 56289,
+  "fetched_at": "2026-08-26T08:27:38Z",
+  "html_sha256": "0af11ff407ed0414382e02e79bc62e150618a6aa63ef6849ebe40c0b651c99f0",
+  "text_sha256": "6a1fc8551322c3d5676c2ceaef7da127b3f87de95c1e3ddb29b2cc40613a3515",
+  "byte_size": 56310,
   "title": "Cass County, Texas",
   "error": null
 }

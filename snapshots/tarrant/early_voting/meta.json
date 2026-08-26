@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-25T08:27:26Z",
-  "html_sha256": "937bd0781a0183855a33f5a61bafa9d05408f73528ad8d257dc4bac7d57fa4be",
-  "text_sha256": "846bbdd2213afbcb60f0764487ba9e88209c9fc28263f79d6072602dcf82a8d4",
-  "byte_size": 212061,
+  "fetched_at": "2026-08-26T08:27:38Z",
+  "html_sha256": "28adbf899f3a779a3a9d4d53ad90158820119444d4d7c3b1e9e7c4138e2e9652",
+  "text_sha256": "4a505f0c6f391b3e0b63875a4468dbd5f6c55d0386f8ecdbb13d80c2d4cb8865",
+  "byte_size": 212457,
   "title": "Current Election Information",
   "error": null
 }

@@ -541,6 +541,7 @@ Canceled Election?
 Tarrant County
 Election Order
 Election Notice
+Candidates
 Tarrant County Appraisal District (TAD)
 Election Order
 Election Notice
@@ -553,11 +554,12 @@ Candidates
 City of Benbrook
 Election Order
 Election Notice
-Candidates/Contests
+Candidates
+(See Candidate for Member of Council, Place..)
 Town of Flower Mound
 Election Order
 Election Notice
-Candidates/Contests
+Contests
 City of Forest Hill
 Election Order
 Election Notice
@@ -566,46 +568,44 @@ City of North Richland Hills
 Bond Election
 Election Order
 Election Notice
-Candidates/Contests
+Contests
+(See Propositions A - D)
 City of River Oaks
 Election Order
 Election Notice
-Candidates/Contests
+Candidates
 City of White Settlement
 Election Order
 Election Notice
 Candidates
-/Contests
 Eagle Mountain-Saginaw ISD
 Bond & Vatre Election
 Election Order
 Election Notice
-Candidates/Contests
+Contests
 Keller ISD
 Order of General Election for Place 4 and Place 5
 Order for Special Election for Place 6
 Election Notice
 Candidates
-/Contests
 Mansfield ISD
 Bond Election
 Election Order
 Election Notice
-Candidates/Contests
+Contests
 TC Fresh Water Supply District 2
 Bond and Tax Proposition
 Election Order
 Election Notice
-Candidates/Contests
+Contests
 Carroll ISD
 Election Order
 Candidates
-/Contests
 Canceled
 Benbrook Library
 Election Order
 Election Notice
-Candidates/Contests
+Candidates
 Texas Election Code Section 87.121 - EARLY VOTING ROSTERS:
 (a)  The early voting clerk shall maintain for each election a roster listing each person who votes an early voting ballot by personal appearance and a roster listing each person to whom an early voting ballot to be voted by mail is sent.
 (b)  For each person listed, the applicable roster must include: (1)  the person's name, address, and voter registration number; (2)  an identification of the person's county election precinct of registration; and (3)  the date of voting or the date the ballot was mailed to the person, as applicable.
@@ -654,7 +654,7 @@ ElectionsInfo@tarrantcountytx.gov
 Phone: 817-831-8683
 TDD: 817-759-7801
 Hours of Business: Monday – Friday, 8 a.m. - 5 p.m.
-This page was last modified on August 24, 2026
+This page was last modified on August 25, 2026
 TARRANT COUNTY, TEXAS
 County Telephone Operator
 817-884-1111

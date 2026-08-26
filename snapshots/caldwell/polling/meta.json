@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-25T08:27:26Z",
-  "html_sha256": "4dd5e78cb19c6645f5f19e03355206aedf4ea78fe8c55a28381b024208d7d7ad",
-  "text_sha256": "1193b79aaf68e29a665def789d9d089fc8f51c24ef5686cbf9c453ba85a7c498",
-  "byte_size": 725511,
+  "fetched_at": "2026-08-26T08:27:38Z",
+  "html_sha256": "38215ba7ab5d72b92078b953a1002d28494f8adfab34328ecd0ab481d4ed4c3f",
+  "text_sha256": "3540e8cc0823b245832df396b76e87d0d02ee5ae40b3c4d15d493a1605a95bc7",
+  "byte_size": 726140,
   "title": "Current and Upcoming Elections - Caldwell County, TX",
   "error": null
 }

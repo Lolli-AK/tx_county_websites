@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://greggcounty.texas.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-25T08:27:26Z",
-  "html_sha256": "ef950fd1d791100a14c247c8f729b53414eaf32db4487ba7e1fade47d055d056",
-  "text_sha256": "5da15aa4697e69913d16df15017e40a5c9e54036cf20acc387b07e9970ec8436",
-  "byte_size": 132682,
-  "title": "Gregg County\n /\n Home",
-  "error": null
+  "fetched_at": "2026-08-26T08:27:38Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }

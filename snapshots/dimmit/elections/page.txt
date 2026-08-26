@@ -47,49 +47,14 @@ Departments
 County Clerk
 Elections
 ELECTIONS
-May 26, 2026 Runoff Election Results
-Notice of Canvassing of May 26 Runoff Election
-Official Canvassed Results
-CALENDAR for Upcoming Election - May 2, 2026 for Wintergarden Groundwater Hospital District & Dimmit Regional Hospital District
-Sample Ballots for Precincts 1-7
-Notice of L&A Testing for May 2, 2026 Election
-Notice of Pollbook L&A Testing for May 2, 2026 Election
----------------------------------------------------------
-May 26, 2026 Democratic & Republican Parties Runoff Election
-Calendar
-Public Notice of L&A Testing for Automatic Tabulating Equipment
-Public Notice of L&A Testing of Pollbooks
-Notice of Joint General Primary Runoff Election
-You do not have to vote for the same candidates in the May 26, 2026, Primary Runoff Election as you did in the Primary Elections on March 3, 2026.
-In Texas, the major political parties hold Primary Elections to determine their candidates for the November elections.  Political party Primary Elections were held March 3, 2026.
-Those candidates who received more than half of the ballots cast in their race won that election and will represent their political party in the November 3, 2026, Election.
-For those races where there was no winner (no candidate received over 50% of the vote), there will be a runoff election between the two candidates receiving the most votes cast in the March 3, 2026, Primary Elections. The candidate who wins the runoff election will represent their political party in the November 3, 2026, Election.
-You do not have to register in advance with the political party in order to vote in the Primary Runoff Election.
-If you voted in the
-Republican
-Party Primary on March 3rd, you may only vote in the
-Republican
-Party Runoff Election on May 26, 2026.
-If you voted in the
-Democratic
-Party Primary on March 3rd, you may only vote in the
-Democratic
-Party Runoff Election on May 26, 2026.
-If you did
-NOT
-vote in either political party’s primary on March 3rd, you may vote in either the
-Republican
-Party Primary Runoff Election
-OR
-the
-Democratic
-Party Primary Runoff Election on May 26, 2026.
-If you vote in a major party’s Primary Election or Primary Runoff Election, you may NOT participate in a minor party’s convention in that same year.
-If you attend a minor party’s convention, you may NOT vote in a major party’s Primary Election or Primary Runoff Election in that same year.
-When you check in at polling place, the clerk will give you the ballot that corresponds with the party ballot choice you made at the March 3rd primary. If you did not vote in the primary, you will be asked which party's ballot you wish to vote.
+November 3 General Election,
+SWTC Annexation Election
+,
+CSCISD Election
+Election Calendar
 *****************************************************************
 APPLICATION FOR BALLOT BY MAIL
-Please remember to include a phone number, your TXDL/ID number or last 4 digits of your social security number. You must choose whether you want a ballot for the Democratic or Republican Party. See the sample ballots in the folder below if you are not sure. For any questions about a ballot by mail, call 830-876-2323 option 5
+Must include a phone number, your TXDL/ID number or last 4 digits of your SS#. For any questions about a ballot by mail application, call 830-876-2323 option 5
 ************************************************
 Visit
 VoteTexas.Gov
@@ -98,18 +63,6 @@ you must print then mail
 or bring in to Tax Office/Voter Registrar. You
 cannot
 register online.
-Below you will find information for
-* March 3, 2026 Election
-* Sample Ballots for March 3, 2026 Election
-* May 26 Primary Runoff Election
-* Sample Ballots for May 26, 2026 Runoff Election
-* Candidate Filing Forms
-* Election Worker Application
-* City of Carrizo Springs elections
-* Wintergarden Groundwater Conservation District Election
-* Dimmit Regional Hospital District Election
-* Zavala-Dimmit Co. Water Improvement District Election
-* DONE - November 4, 2025 Constitutional Amendment Election
 Document Center
 The Document Center provides easy access to public documents. Click on one of the categories below to see related documents or use the search function.
 Search for file name:
@@ -144,8 +97,16 @@ Election Worker Application
 Election Worker Application
 document seq
 0.00
+November 3, 2026 General & Special Election
+2 documents
+Order of Election - Southwest Texas College
+document seq
+0.00
+Order of Election - CSCISD
+document seq
+0.00
 DONE: May 26, 2026 Primary Run-off Election & Sample Ballots
-16 documents
+17 documents
 Runoff Dem Sample Ballot.pdf
 document seq
 0.00
@@ -192,6 +153,9 @@ document seq
 document seq
 0.00
 5/26/26 ED Rep Voters
+document seq
+0.00
+CANVASSED ELECTION RESULTS - DEM & REP COMBINED
 document seq
 0.00
 DONE: March 3, 2026 Primary Election

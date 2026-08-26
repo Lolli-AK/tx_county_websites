@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.martincountytx.com/m/faq?cat=15#question-65"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-25T08:27:26Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
-  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
+  "fetched_at": "2026-08-26T08:27:38Z",
+  "html_sha256": "60d430cb9ba0486e47727be00808383e44550026f14462956d87e6326ec0210b",
+  "text_sha256": "4d33705321aef25e2e70eab6d99731ca94d13f6de1553792b9da1da686d2c69b",
+  "byte_size": 56661,
+  "title": "FAQs - CivicPlus.CMS.FAQ",
+  "error": null
 }

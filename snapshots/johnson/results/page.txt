@@ -109,7 +109,7 @@ Major Thoroughfare Plan
 Transportation Bond
 Economic Development
 Elections Office
-Early Voting and Election Day Locations TBA
+Early Voting and Election Day Locations
 Current Election Information
 Election Sample Ballots
 Election Results
@@ -275,7 +275,7 @@ Transportation Bond
 Economic Development
 Elections Office
 -
-Early Voting and Election Day Locations TBA
+Early Voting and Election Day Locations
 Current Election Information
 -
 Election Sample Ballots
