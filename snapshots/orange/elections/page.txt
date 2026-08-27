@@ -14,8 +14,6 @@ State Qualifications
 Campaign Finance Reports
 Election Information
 Early Voting Totals
-Election Notices
-Election Location & Hours
 Public Test
 Reconciliation Form
 Sample Ballots
@@ -33,19 +31,15 @@ FPCA Instructions
 Voting With Disabilities
 Curbside Voting
 Voting Priority
-Commissioner Voting Precinct
+Commissioner Voting Precinct Map
 Elections Administration
 Home
 >
 Departments
 >
 Elections Administration
-Notice of Deadline
 Our Mission Statement
 The mission of the Orange County Elections Department is to establish and increase public confidence in the electoral process by conducting voter registration and elections with the highest level of professional election standards, integrity, security, accuracy, and fairness.
-MAILING ADDRESS:
-123 S. 6th Street
-Orange, Texas  77630
 General Information
 Staff Directory
 Elections Administrator

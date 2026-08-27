@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T08:27:38Z",
-  "html_sha256": "0689b89fb2a3036152cbe6d4978f906ce0f67acd463b68b9b82dccc5bd9a93ba",
-  "text_sha256": "484ac3d26db6941a0338cea92c04249d9a66b2ad07f7ba91e6ab8191a0172ae5",
-  "byte_size": 239600,
+  "fetched_at": "2026-08-27T18:27:34Z",
+  "html_sha256": "71965eaa9c05238941805e035a7bce9e5e0450c72e3bf060ceeeee3eb41021ed",
+  "text_sha256": "3999a3219c2a551ea11439c86f51383fbab76200f6cd7d9025506cfa786458b9",
+  "byte_size": 239590,
   "title": "Results Archive | Williamson County, TX",
   "error": null
 }

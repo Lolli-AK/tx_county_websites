@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-26T08:27:38Z",
-  "html_sha256": "2a47625394bede5fb8d567a42a2e466a53dfa196b6dd8ceae120e28cc0d1a6d6",
-  "text_sha256": "9bafe480a049dbbc32178c582e581edfa5fe3de1864b60f52d116675c79ce29c",
-  "byte_size": 158610,
+  "fetched_at": "2026-08-27T18:27:34Z",
+  "html_sha256": "6e61248ee2988a118c60ef72047ee564be0389ea44a3333cacd831797664dd77",
+  "text_sha256": "23dcefa2508447aa44e5ee6b65831851404322a8ecb52266c225e3412dee36c9",
+  "byte_size": 158767,
   "title": "Archer County, Texas",
   "error": null
 }

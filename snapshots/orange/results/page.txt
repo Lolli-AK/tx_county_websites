@@ -14,8 +14,6 @@ State Qualifications
 Campaign Finance Reports
 Election Information
 Early Voting Totals
-Election Notices
-Election Location & Hours
 Public Test
 Reconciliation Form
 Sample Ballots
@@ -33,7 +31,7 @@ FPCA Instructions
 Voting With Disabilities
 Curbside Voting
 Voting Priority
-Commissioner Voting Precinct
+Commissioner Voting Precinct Map
 Election Results
 Home
 >

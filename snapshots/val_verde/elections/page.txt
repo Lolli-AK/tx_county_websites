@@ -65,7 +65,7 @@ SAN FELIPE DEL RIO C.I.S.D.
 VAL VERDE REGIONAL MEDICAL CENTER
 COMSTOCK I.S.D.
 Are you registered to vote? Do you need to know your precinct?
-Check your voter status
+To register to vote or to check your voter status, click
 here
 Version OptionsElectionsHeadline
 .
