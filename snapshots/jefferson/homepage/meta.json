@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-27T18:27:34Z",
-  "html_sha256": "ee2fb52e48c2d2672b8b11b8a439ad9c64fbb12fc62cb3fed61f5a263415affd",
-  "text_sha256": "9d35d27f2598c8e0e4c5a6ca216e2fdbe88e425ccf9b5dd6f9d004b312811195",
-  "byte_size": 32709,
+  "fetched_at": "2026-08-28T19:40:46Z",
+  "html_sha256": "b8cc13b2611c8b72067732cab1f8e5390f954896da6c231207110a6b2825cc49",
+  "text_sha256": "eb6b9be8d80dd96afcb92dfd9c3b3cc4f7df831d361e541093b0c903a955af25",
+  "byte_size": 33079,
   "title": "Jefferson County TX",
   "error": null
 }

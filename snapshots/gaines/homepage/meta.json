@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-27T18:27:34Z",
-  "html_sha256": "baa2df4a84203dd07f858223decaa800d4ecd63f76f3a3750ea81b0847f4c8f3",
-  "text_sha256": "2afee2943a5d234bb6a8a9774cbee2fa206429d70ef726f4e1de1149ecc7b253",
-  "byte_size": 33320,
+  "fetched_at": "2026-08-28T19:40:46Z",
+  "html_sha256": "34656953cc40b5d93b343a85506aab5eedbf7c02b67432e915c85351e87ac0c0",
+  "text_sha256": "6f372ab3d539c94ef9b319b8b38c2fcefbf9c3eb267a9dd4d2ca7ee57a76dd66",
+  "byte_size": 33487,
   "title": "Gaines County, Texas",
   "error": null
 }

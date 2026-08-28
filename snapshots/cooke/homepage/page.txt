@@ -44,7 +44,6 @@ County Court at Law
 County Tax Assessor/Collector
 County Treasurer
 Justice of The Peace
-Home
 Precinct 1
 Precinct 2
 Constable
@@ -67,11 +66,10 @@ Check Registers
 Tax Information
 Treasurer Reports
 Utility Reports
-Public Notices & News
-Conflict of Interest Disclosures
-County News
 Public Notices
-Bid, RFP, RFQ, LN
+Conflict of Interest Disclosures
+Meetings/Agendas
+Bids, RFPs, RFQs, LNs
 ---------------------------------
 County Ordinances
 Home

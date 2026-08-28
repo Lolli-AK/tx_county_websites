@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-27T18:27:34Z",
-  "html_sha256": "3f8886bdf198437e4042a041cc31dfb5244613e64e18b190e4322ec042e7845c",
-  "text_sha256": "621c7b30c7aa8ee878378899eb914bb428869219b6184e9a149aa9ca90509797",
-  "byte_size": 36145,
+  "fetched_at": "2026-08-28T19:40:46Z",
+  "html_sha256": "1f8d713f7c96f8195588431172da4a5aec9128a514e26085ae50771bd81fd1c7",
+  "text_sha256": "b8945c8f73b6958e23922bfaf88f4556822618581e9afb514971b3b8e0cde9bd",
+  "byte_size": 36143,
   "title": "El Paso County, TX Elections | El Paso County Elections Department",
   "error": null
 }

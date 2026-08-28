@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-27T18:27:34Z",
-  "html_sha256": "63a0859e681c46328ef56ca589d071b6ccb1f2b2296bc24e9deddd3f4773c95f",
-  "text_sha256": "6596cacedec60312bfe6c8cb6cc1dfe9f2f55726e550a81a536f3afd56f11a3b",
-  "byte_size": 58263,
+  "fetched_at": "2026-08-28T19:40:46Z",
+  "html_sha256": "de61c7182793aad5dc3b0825ce1840d6ac94680046042cc7b72afa7da3def26c",
+  "text_sha256": "be939c6fd71eb77e703d429b325a144cdeebfe639193faad3832a779ee646aac",
+  "byte_size": 58435,
   "title": "Elections Administration | Bee County, TX",
   "error": null
 }

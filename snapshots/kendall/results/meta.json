@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-27T18:27:34Z",
-  "html_sha256": "758f8f250c0cdb168ea5828f015514cc8e66438a0ac082fc3a6eb19b949c30c6",
+  "fetched_at": "2026-08-28T19:40:46Z",
+  "html_sha256": "570391419d11dfbc3ac906dbbdb05324114f75b52f73974959149b9f6d109a17",
   "text_sha256": "b63a9b727228525ef89e28f516e80d5f3a44d72033ab97d3d34a123db11061c5",
-  "byte_size": 40376,
+  "byte_size": 40374,
   "title": "Election Results & Maps | Kendall County, TX",
   "error": null
 }

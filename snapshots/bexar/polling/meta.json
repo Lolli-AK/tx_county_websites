@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.bexar.org/3184/Election-Day-Vote-Information"
   ],
-  "http_status": 200,
+  "http_status": 404,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-27T18:27:34Z",
-  "html_sha256": "2a7ee2c78c681b2d00261b669e34426358cef88fadf147c94fef789ffbafa422",
-  "text_sha256": "b8e0508ab21ec7d09ff8be275ed4a6e8ca7530e28b0d2b2a6cf60d67efed4235",
-  "byte_size": 79246,
-  "title": "Election Day Vote Information | Bexar County, TX - Official Website",
+  "fetched_at": "2026-08-28T19:40:46Z",
+  "html_sha256": "c4ebf442a069db7676a41be617b0e42c140f9c716d8e8978712047e75124b7ab",
+  "text_sha256": "8ac9cb0db6cfe9623819b8a51c6845d21e8ad68d0912d95649cb50e6711e92e8",
+  "byte_size": 50581,
+  "title": "Custom404 • Bexar County, TX • CivicEngage",
   "error": null
 }

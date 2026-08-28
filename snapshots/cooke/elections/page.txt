@@ -44,7 +44,6 @@ County Court at Law
 County Tax Assessor/Collector
 County Treasurer
 Justice of The Peace
-Home
 Precinct 1
 Precinct 2
 Constable
@@ -67,11 +66,10 @@ Check Registers
 Tax Information
 Treasurer Reports
 Utility Reports
-Public Notices & News
-Conflict of Interest Disclosures
-County News
 Public Notices
-Bid, RFP, RFQ, LN
+Conflict of Interest Disclosures
+Meetings/Agendas
+Bids, RFPs, RFQs, LNs
 ---------------------------------
 County Ordinances
 Home
@@ -118,34 +116,15 @@ How to Register to Vote
 Am I Registered to Vote? (Check your status)
 Guide for updating your address
 when moving to a new state (3rd party information)
-November 3, 2026 -
-General Election
-Important Dates
-Election Polling Locations:
-Early Voting
-Election Day
-Sample Ballots
-Coming Soon
-Early Voting - In Person Rosters
-Election Day - In Person Rosters
-Coming Soon
-Coming Soon
-Ballot by Mail Rosters
-Election Day - Ballot by Mail Rosters
-Coming Soon
-Coming Soon
-Notices & Orders
-Eras ISD Order of Cancelation
-Notice of Delivery of Ballots Voted by Mail
-Notice for Early Voting Saturday and Sunday
-Order of Appointment for Central Counting Station
-Order of Appointment for Election Judges/Alternates
-Order of Appointment for the Early Voting Ballot Board
-Order of Election for County Officers
-Proclamation of General Election by the Governor of the State of Texas
-Saint Jo ISD Order of Election
-Sivells Bend ISD Order of Cancelation
-Valley View ISD Order of Election
+Curbside Voting
+If you are physically unable to enter the polling place, you may ask for assistance by calling or texting. All Cooke County polling locations will have a reserved parking space for curbside voting with a sign displaying a phone number you can call or text to request curbside voting assistance.
+After you mark the ballot, give it to the election officer to put it in the ballot box, or hand it to someone who accompanied you to vote and they will be allowed to deposit in the ballot box for you.
+Occasionally, all election officers will be busy with inside voters and there could be a delay in getting to you, so we ask for your patience. If you haven’t been served for 10 minutes, feel free to call or text again.
+For
+EARLY VOTING
+, the reserved curbside voter spot is located in the rear of the Courthouse Annex Building.  Look for the signs "
+Reserved for Curbside Voting
+".
 Important 2026 Election Dates
 Click here for Ballot by Mail info and application
 Informational Pamphlets:
@@ -194,6 +173,34 @@ Election Worker Application
 Cooke County Central Count Station Plan
 Notice of Member Solicitation for the Region 1 Canadian-Upper Red Regional Flood Planning Group (RFPG)
 Notice of Solicitation of nominations for Region 2 Lower Red-Sulphur-Cypress Regional Flood Planning Group
+November 3, 2026 -
+General Election
+Important Dates
+Election Polling Locations:
+Early Voting
+Election Day
+Sample Ballots
+Coming Soon
+Early Voting - In Person Rosters
+Election Day - In Person Rosters
+Coming Soon
+Coming Soon
+Ballot by Mail Rosters
+Election Day - Ballot by Mail Rosters
+Coming Soon
+Coming Soon
+Notices & Orders
+Eras ISD Order of Cancelation
+Notice of Delivery of Ballots Voted by Mail
+Notice for Early Voting Saturday and Sunday
+Order of Appointment for Central Counting Station
+Order of Appointment for Election Judges/Alternates
+Order of Appointment for the Early Voting Ballot Board
+Order of Election for County Officers
+Proclamation of General Election by the Governor of the State of Texas
+Saint Jo ISD Order of Election
+Sivells Bend ISD Order of Cancelation
+Valley View ISD Order of Election
 Past Election Information
 2026
 ▲
@@ -806,16 +813,16 @@ Order of Appointment for Central Counting Station
 November 7, 2023 General/Special Election
 November 7th General/Special Election
 Important Election Dates
-Official Election Results - November 8, 2022
+Official Election Results - November 7, 2023
 Official Summary Results Total
 Official Totals Election Reconciliation
 Official Voting Results - Pct by Pct
 Canvass of Votes
 Official Voting Totals Pct by Pct - Election Total
 Official Voting Totals Pct by Pct - Election Day
-Official Voting Totals Pct by Pct - Early voting
+Official Voting Totals Pct by Pct - Early Voting
 Official Voting Totals Pct by Pct - Ballot by Mail
-Unofficial Election Results - November 8, 2022
+Unofficial Election Results - November 7, 2023
 Early Voting Constitutional Amendment Joint Election Unofficial Results All Districts
 Unofficial Joint Constitutional Amendment Election Final Results
 Statewide Results
@@ -861,9 +868,9 @@ Proclamation of Constitutional Amendment Election
 Order of Special Election for Proposed Constitutional Amendments
 (Amended)
 Ballot Language for November 7th, 2023 Constitutional Amendment Election (English)
-Ballot Language for November 7th, 2023 Constitutional Amendment Election (Spanish)
-Explanatory Statements for November 7th, 2023 Constitutional Amendment Election (English)
-Explanatory Statements for November 7th, 2023 Constitutional Amendment Election (Spanish)
+Ballot Language for November 7th, 2023 Constitutional Amendment Election (Spanish)
+Explanatory Statements for November 7th, 2023 Constitutional Amendment Election (English)
+Explanatory Statements for November 7th, 2023 Constitutional Amendment Election (Spanish)
 *Gainesville
 Order Calling Bond Election for Gainesville ISD (English)
 Order Calling Bond Election for Gainesville ISD (Spanish)
@@ -876,7 +883,7 @@ City of Callisburg Ordinance #138
 Order Calling School Board Election Era ISD
 *Collinsville
 Order Calling Bond Election for Collinsville ISD (English)
-Order Calling Bond Election for Collinsville ISD (Spanish)
+Order Calling Bond Election for Collinsville ISD (Spanish)
 Notice of Election for Collinsville ISD (English)
 Notice of Election for Collinsville ISD (Spanish)
 May 6, 2023 General Election
@@ -887,7 +894,7 @@ Unofficial Muenster ISD School Board Results
 Unofficial City of Gainesville Results
 Unofficial Town of Road Runner Results
 Unofficial Lindsay ISD Results
-Unofficial NCTC results
+Unofficial NCTC Results
 Sample Ballots
 City of Gainesville
 City of Valley View
@@ -905,8 +912,8 @@ Notice of Special Election for City of Gainesville
 Notice of Change in Polling Place for City of Gainesville
 Call for Special Election for City of Gainesville
 Notice of Cancellation for the City of Lindsay
-Notice of Election for Lindsay ISD (English)
-Notice of Election for Lindsay ISD (Spanish)
+Notice of Election for Lindsay ISD (English)
+Notice of Election for Lindsay ISD (Spanish)
 Order of Bond Election for Lindsay ISD
 Notice of Election for Muenster ISD
 Order of Election for Muenster ISD
@@ -922,8 +929,7 @@ Order of Bond Election for Slidell ISD (Spanish)
 Order of Election for Slidell ISD
 Notice of Election for City of Valley View
 Order of General Election for City of Valley View
-Order of Special Election for City of
-Valley View
+Order of Special Election for City of Valley View
 Order of General Election for Whitesboro ISD
 Order of Cancellation for Woodbine Special Utility District
 Order of Cancellation for the City of Callisburg

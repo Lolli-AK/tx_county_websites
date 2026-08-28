@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-27T18:27:34Z",
-  "html_sha256": "dc57e9079bee1b77614605397b67f0abeee3f3427e3e8e4e63edda61118f29c5",
-  "text_sha256": "0fdcc4246eb9e611ea295fa5d01ec3acb681895ce472a96ec90ed07a125ad1af",
-  "byte_size": 136996,
+  "fetched_at": "2026-08-28T19:40:46Z",
+  "html_sha256": "256a8af3dc1b3bdf496d2a1a258c0d2a990f20fe0285f8ec635cbdfafa5460b1",
+  "text_sha256": "ea083823ff6031b9a0ebeb92625468884cc6e7fcbd7b3e4dd1b90ae5ffb6d50f",
+  "byte_size": 137186,
   "title": "Callahan County, Texas",
   "error": null
 }

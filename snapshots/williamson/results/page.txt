@@ -356,7 +356,7 @@ Election Result 1999
 11-02-1999 Amendment Election (TXT)
 Voter Registration
 Register to Vote
-Name, Address, or DPS Change
+Update Your Registration
 Volunteer Deputy Registrar
 Request Voter List
 Information for First Time Voters

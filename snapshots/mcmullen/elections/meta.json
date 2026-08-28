@@ -10,10 +10,10 @@
   "content_type": "text/html",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-27T18:27:34Z",
-  "html_sha256": "6da86b08f67499ac161e678ebec36bf821ec9f3f41a62972028a0c6f223e08f9",
+  "fetched_at": "2026-08-28T19:40:46Z",
+  "html_sha256": "23cc5fad5a2a26efbab8d85b5211d9a1ebbfb758c8d0b09f607d1d0ad30ac6e9",
   "text_sha256": "5536108560880b4e92246276117abc60158fe50370dc1cc80d6a3b5849c16a87",
-  "byte_size": 327288,
+  "byte_size": 327287,
   "title": "Elections – McMullen County",
   "error": null
 }
