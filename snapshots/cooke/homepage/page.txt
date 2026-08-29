@@ -25,7 +25,6 @@ Jail
 Patrol Division
 Crime Prevention
 FAQ
-Links
 Recruiting
 County Offices
 County Judge
@@ -160,11 +159,11 @@ Rapid Emergency Notification System
 Enrollment
 -
 Learn more
-1) Residents who have already registered DO NOT need to re-enroll.  They are already grandfathered into the system.
-2) Any residents who live
+Any citizens who live
 within the city limits
-of Gainesville should enroll in the City of Gainesville CodeRED at
-https://gainesville.tx.us/
+of Gainesville should enroll in the
+City of Gainesville CodeRED notification system
+, but are also welcome to join the County's above.
 Install the CodeRED mobile app
 Apple App Store
 Google Play

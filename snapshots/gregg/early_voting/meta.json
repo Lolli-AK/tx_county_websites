@@ -2,18 +2,19 @@
   "county": "Gregg",
   "page_type": "early_voting",
   "requested_url": "https://www.greggcountyvotes.com/early-voting/",
-  "final_url": "https://www.greggcountyvotes.com/early-voting/",
+  "final_url": "https://greggcountyvotes.gov/early-voting/",
   "redirect_chain": [
-    "https://www.greggcountyvotes.com/early-voting/"
+    "https://www.greggcountyvotes.com/early-voting/",
+    "https://greggcountyvotes.gov/early-voting/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-28T19:40:46Z",
-  "html_sha256": "27567c85f69d968721f00727fa97d194360235c4b3baee3ad3ae538da1d38cab",
+  "fetched_at": "2026-08-29T13:26:24Z",
+  "html_sha256": "3f2c3799036c20193f7a95ee3c1d068ea8804d9b6d97e6cc40d7c77206152dd9",
   "text_sha256": "059a0ff6bdf54635de6f0e5592c57ef1de77357e05c2d8e2eb4dbdc2f67f0d7c",
-  "byte_size": 35336,
+  "byte_size": 35052,
   "title": "Early Voting - Gregg County TX – Elections Department",
   "error": null
 }

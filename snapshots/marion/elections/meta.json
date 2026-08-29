@@ -10,10 +10,10 @@
   "content_type": "text/html",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-08-28T19:40:46Z",
-  "html_sha256": "44a7804182517be6a97152b37cf050955e3dc7f7f375369f6fa727b580d25452",
+  "fetched_at": "2026-08-29T13:26:24Z",
+  "html_sha256": "766d5e72e7f1f6a9849ca9b99ea2d6a0b5bb6f41013253585f78d19de87b3d8b",
   "text_sha256": "4a26dadefb9a31ca905956ad16c539f68fef5e3109b361e64ee81fc747e8f899",
-  "byte_size": 100353,
+  "byte_size": 100352,
   "title": "Elections – Marion County Tax Office",
   "error": null
 }

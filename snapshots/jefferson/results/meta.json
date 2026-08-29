@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-28T19:40:46Z",
-  "html_sha256": "571a42de93b86d35fea49343c41de4978960e2c996dd4c7d0ba941e666ca445f",
+  "fetched_at": "2026-08-29T13:26:24Z",
+  "html_sha256": "a3fd45af08b25b1a31f942fe535f956216f056aeb4a664d423a52cecdc29f4cf",
   "text_sha256": "cdae106cc962b73c9c1d5c150e112ddb7f78f0106bf6e35f6a22db5d7e32b077",
-  "byte_size": 130779,
+  "byte_size": 130785,
   "title": "Archived Election Results – Jefferson County, Texas",
   "error": null
 }
