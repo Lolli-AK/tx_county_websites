@@ -2,18 +2,19 @@
   "county": "Wichita",
   "page_type": "elections",
   "requested_url": "https://wichitacountytx.com/election_info/current-election-information/",
-  "final_url": "https://wichitacountytx.com/election_info/current-election-information/",
+  "final_url": "https://wichitacountytx.com/.well-known/sgcaptcha/?r=%2Felection_info%2Fcurrent-election-information%2F&y=ipc:52.159.229.7:1788096470.928",
   "redirect_chain": [
-    "https://wichitacountytx.com/election_info/current-election-information/"
+    "https://wichitacountytx.com/election_info/current-election-information/",
+    "https://wichitacountytx.com/.well-known/sgcaptcha/?r=%2Felection_info%2Fcurrent-election-information%2F&y=ipc:52.159.229.7:1788096470.928"
   ],
   "http_status": 202,
   "content_type": "text/html",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-29T13:26:24Z",
-  "html_sha256": "0708ff9841a0c813c57a4cb0265c400a7a11edf1b645b7a96dd9427656862d8e",
-  "text_sha256": "de8c10314d17d0ad22db17051ec5c415a468b7cec2db76dfcfeb56be63954292",
-  "byte_size": 35101,
-  "title": "Current Election Information | Wichita County",
+  "fetched_at": "2026-08-30T13:22:31Z",
+  "html_sha256": "cf384ca8f4bb9fdb8f5b63e868397175c6a17d3c23571204af3d974f3364e71e",
+  "text_sha256": "c44599aa9f5ccab668954a743bdd2d02e1860f8e998d2a44f9feac7163f74200",
+  "byte_size": 917,
+  "title": "Robot Challenge Screen",
   "error": null
 }
