@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.webbcountytx.gov/ElectionsAdministration/EarlyVotingSites/"
   ],
-  "http_status": 200,
+  "http_status": 404,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-30T13:22:31Z",
-  "html_sha256": "e78d0d0e09c9acfc94c685bc47f71fcbdcf47681fc942f349161df8c0f94365f",
-  "text_sha256": "209c7f1a63b70b66246f9f4e5493ad7409d05dcfea4df5a7882f1d408d04bab8",
-  "byte_size": 25742,
-  "title": "Early Voting Sites",
+  "fetched_at": "2026-08-31T15:34:30Z",
+  "html_sha256": "dfbb24decc88a3734747f5c4db032b0c2742f6da8203ab289dcee62b53498547",
+  "text_sha256": "3eacbf0393873b88acec77c893c643ee5f5ac34990c43c47c287f0857fcf6b74",
+  "byte_size": 40598,
+  "title": "Custom404 • Webb County, TX • CivicEngage",
   "error": null
 }

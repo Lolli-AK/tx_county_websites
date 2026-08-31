@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-30T13:22:31Z",
-  "html_sha256": "aaf7d4a99de7c27c16574f0d69973ebbc5e178899bc6ccb32adde36a94583fc1",
-  "text_sha256": "bcb2b335e08391b531745ca96cb0e5c44471e25ddc662aa0e6ff0a8158d1fb08",
-  "byte_size": 56078,
+  "fetched_at": "2026-08-31T15:34:30Z",
+  "html_sha256": "132a9689629a6f9a919267dd86bf2d8f93e4ae9a477b4af2410f7ddaf2d01861",
+  "text_sha256": "6eef0c4120771875944baee69132a5df7de2e60508e681434d4eba60ac3b2d72",
+  "byte_size": 56352,
   "title": "Dallas County | Home",
   "error": null
 }
