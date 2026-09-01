@@ -294,7 +294,7 @@ Request for Bids/Qualifications
 Budget
 Records Request
 Community Calendar
-August
+September
 2026
 Sunday
 S
@@ -324,10 +324,6 @@ Saturday
 S
 at
 urday
-26
-27
-28
-29
 30
 31
 1
@@ -360,15 +356,12 @@ urday
 28
 29
 30
-31
 1
 2
 3
-4
-5
 <
-Jul
-Sep
+Aug
+Oct
 >
 More Events
 No Events in the Current Month

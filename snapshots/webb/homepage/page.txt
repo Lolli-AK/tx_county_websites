@@ -23,7 +23,7 @@ View All News
 /CivicAlerts.aspx
 Upcoming Events
 Mark your calendar
-August 2026
+September 2026
 S
 M
 T
@@ -31,10 +31,6 @@ W
 T
 F
 S
-26
-27
-28
-29
 30
 31
 1
@@ -67,13 +63,21 @@ S
 28
 29
 30
-31
 1
 2
 3
-4
-5
-There are no published events in current month.
+Tue, Sep. 1
+New Employee Orientation Commissioners Court Room
+Tue, Sep. 1
+Item Due for September 14 Commissioner's Court
+Wed, Sep. 2
+Commissioners Court Special Meeting
+Wed, Sep. 2
+Distracted Driving Training (Civilian)
+Wed, Sep. 2
+Board of Judges Meeting
+Wed, Sep. 2
+Distracted Driving Training (Civilian)
 View All Events
 /Calendar.aspx
 County Government

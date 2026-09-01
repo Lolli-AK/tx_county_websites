@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-31T15:34:30Z",
-  "html_sha256": "df1b1eb03ac80d36047839eb809699a64f8e285307c0ee1c6e56000959e1c19a",
-  "text_sha256": "0008dec4308f373602703671eedeb2f03a48fd7bf0137e1c39b9c1e7cf0a7190",
-  "byte_size": 52919,
+  "fetched_at": "2026-09-01T12:50:36Z",
+  "html_sha256": "1e6ed19d464aca815f28e1d8b4ff5fd57d3afc65ca0dd7b45117ae0ff4771b1b",
+  "text_sha256": "cbe9d28ea77b46184ca1e590a88d6285d3ca1eb23b404e9336023c1a8826d0f2",
+  "byte_size": 52296,
   "title": "Hockley County Texas",
   "error": null
 }

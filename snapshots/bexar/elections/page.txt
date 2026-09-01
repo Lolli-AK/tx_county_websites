@@ -60,7 +60,7 @@ Mark Your Calendar
 Election Events
 VDR Classes
 Election Events
-August 2026
+September 2026
 S
 M
 T
@@ -68,10 +68,6 @@ W
 T
 F
 S
-26
-27
-28
-29
 30
 31
 1
@@ -104,17 +100,15 @@ S
 28
 29
 30
-31
 1
 2
 3
-4
-5
-There are no published events in current month.
+Mon, Sep. 7
+Labor Day
 View All Events
 /Calendar.aspx
 VDR Classes
-August 2026
+September 2026
 S
 M
 T
@@ -122,10 +116,6 @@ W
 T
 F
 S
-26
-27
-28
-29
 30
 31
 1
@@ -158,13 +148,21 @@ S
 28
 29
 30
-31
 1
 2
 3
-4
-5
-There are no published events in current month.
+Tue, Sep. 1
+VDR Zoom: September 1, 9 AM
+Tue, Sep. 1
+VDR In Person: September 1 , 10 AM
+Tue, Sep. 1
+VDR In Person: September 1 , 2 PM
+Thu, Sep. 3
+VDR In Person: September 3 , 10 AM
+Thu, Sep. 3
+VDR In Person: September 3 , 2 PM
+Tue, Sep. 8
+VDR Zoom: September 8, 9 AM
 View All Events
 /Calendar.aspx
 Contact Us

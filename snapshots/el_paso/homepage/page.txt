@@ -55,7 +55,7 @@ View All News
 Events Calendar
 Public Meetings
 Events Calendar
-August 2026
+September 2026
 Sun
 Mon
 Tue
@@ -63,10 +63,6 @@ Wed
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -99,17 +95,14 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
 There are no published events in current month.
 View All Events
 /Calendar.aspx
 Public Meetings
-August 2026
+September 2026
 Sun
 Mon
 Tue
@@ -117,10 +110,6 @@ Wed
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -153,13 +142,12 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
-Mon, Aug. 31
+Mon, Sep. 14
+Commissioners Court
+Mon, Sep. 21
 Commissioners Court
 View All Meetings
 /Calendar.aspx

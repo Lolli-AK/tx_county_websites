@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-31T15:34:30Z",
-  "html_sha256": "2eba2aceee3889757f780ed362373cfb0686ca10b4233bdc19d5f8d339b5bf73",
-  "text_sha256": "d1eb973cbb82335bc9fd031af290af06c68e92319d7098261872241605ec3988",
-  "byte_size": 43711,
+  "fetched_at": "2026-09-01T12:50:36Z",
+  "html_sha256": "eec59a0e0e45351603d2162a7c5e57e7737e5974a67ae580fd4b33931e742e62",
+  "text_sha256": "db5eb8da08994d4ce936e31ec7e063fc324eb0e0ca5b303eb16dab0ded9be192",
+  "byte_size": 43088,
   "title": "Kinney County, Texas",
   "error": null
 }

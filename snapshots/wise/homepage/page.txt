@@ -27,7 +27,7 @@ View All
 Tab Name
 Calendar
 Calendar
-August 2026
+September 2026
 Sun
 Mon
 Tue
@@ -35,10 +35,6 @@ Wed
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 01
@@ -71,12 +67,9 @@ Sat
 28
 29
 30
-31
 01
 02
 03
-04
-05
 There are no published events in current month.
 View All
 /Calendar.aspx

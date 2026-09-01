@@ -97,7 +97,6 @@ Lost Pets ~ Livestock
 Local Weather
 Chamber of Commerce
 Welcome to Trinity County, Texas
-Jury Duty for Monday August 24, 2026, has been cancelled
 County Judge:
 Danny Martin
 FY 2026 Approved Budget
@@ -148,9 +147,9 @@ iCal
 save current view to clipboard as an .ics link
 RSS
 save current view to clipboard as an .rss link
-August
+September
 2026
-August 2026
+September 2026
 Sun
 day
 Mon
@@ -161,10 +160,6 @@ nesday
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -197,12 +192,9 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
 How to find us.
 Trinity County Courthouse
 Mailing Address:

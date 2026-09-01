@@ -85,7 +85,7 @@ Find Your Precinct
 The My Bexar Community Dashboard application helps you identify your local, County, State, and Federal representation as well as other useful information. Simply click on the map, then use your current location or enter an address including city or ZIP code. Scroll through the information at the bottom of the map to find your representatives and other resources.
 Check out the My Bexar Community Dashboard
 Upcoming Events
-August 2026
+September 2026
 S
 M
 T
@@ -93,10 +93,6 @@ W
 T
 F
 S
-26
-27
-28
-29
 30
 31
 1
@@ -129,13 +125,21 @@ S
 28
 29
 30
-31
 1
 2
 3
-4
-5
-There are no published events in current month.
+Tue, Sep 1
+Commissioners Court
+Thu, Sep 3
+Bexar County Clerk's Mobile Satellite Office will be at Bexar County Precinct 2 Constable's Office of Constable Leticia R. Vazquez
+Mon, Sep 7
+Labor Day
+Thu, Sep 10
+Bexar County Clerk's Mobile Satellite Office will be at McDonald's on Walzem - The Shields Legacy LLC PCT 4 Community
+Tue, Sep 15
+Commissioners Court
+Tue, Sep 15
+Bexar County Clerk's Mobile Satellite Office will be at Takas Park with the City of Windcrest
 View All Events
 /Calendar.aspx
 County Resources

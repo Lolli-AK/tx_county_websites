@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-31T15:34:30Z",
-  "html_sha256": "09ab7176006daacc56bba790efa8bbb1c6dad04a473009e919d34b6de7f31459",
-  "text_sha256": "5c8f6ac123fe5aca7802d9956ad4d8dc8a3afec33951b1c11ab0b3ee3d267fcf",
-  "byte_size": 42463,
+  "fetched_at": "2026-09-01T12:50:36Z",
+  "html_sha256": "ae052e459ad9dd05bd95d93d941e21ec4de19015a975cba46396fdaead326a48",
+  "text_sha256": "a1420e7d3534895b219f8c89b695f995171db7d3b27446505219d7559c816781",
+  "byte_size": 42469,
   "title": "Elections Home | San Patricio County TX",
   "error": null
 }

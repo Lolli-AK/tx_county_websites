@@ -169,15 +169,15 @@ iCal
 save current view to clipboard as an .ics link
 RSS
 save current view to clipboard as an .rss link
-August
+September
 2026
-August 2026
+September 2026
 Day
 Start
 End
 Event - Description
 Action
-Sat
+Tue
 1
 Voter Registration Information - Información Sobre el Registro de Votantes
 ▲

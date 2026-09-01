@@ -129,9 +129,9 @@ iCal
 save current view to clipboard as an .ics link
 RSS
 save current view to clipboard as an .rss link
-August
+September
 2026
-August 2026
+September 2026
 Sun
 day
 Mon
@@ -142,10 +142,6 @@ nesday
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -178,12 +174,9 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
 2026 Election Information
 ▲
 November 03, 2026 General and Special Election(s)
@@ -223,7 +216,7 @@ Notice of Convening of Early Voting Ballot Board
 (PDF)
 Notice of Delivery of Provisional Ballots
 (PDF)
-Certificate of Write-in Candidacy (for County and Precinct Offices)
+Certificate of Write-in Candidacy (for County, Precinct Offices, and State)
 (PDF)
 May 26, 2026 Joint Primary Run-Off Election
 ▲

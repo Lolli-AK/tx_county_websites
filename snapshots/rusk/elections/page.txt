@@ -123,6 +123,7 @@ Menu
 Secretary of State
 Federal Voting Assistance Program
 Votetexas.gov
+IvisCbpUi (Candidate Ballot Order)
 IvisEvrUi (Daily Election Data Information)
 Sample Ballots
 ▲

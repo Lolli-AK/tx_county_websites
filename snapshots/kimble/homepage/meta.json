@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-31T15:34:30Z",
-  "html_sha256": "8aa1d59ca67b4ee08ee48829cc61db21ffc2909aa1833faa5f45c43804499522",
-  "text_sha256": "4d9d7801f5a9a986790e36ffdc0b05080abf2e7ce8871cb8643ec39b58031354",
-  "byte_size": 46232,
+  "fetched_at": "2026-09-01T12:50:36Z",
+  "html_sha256": "bb4d0f35cddb07eaa522103b64423a30df955eb733b2022ce88956ee55103062",
+  "text_sha256": "022227d6b36c935fbdf3e17ea67671f4bd9b5c1c3d04243263c82046ba3e1d73",
+  "byte_size": 45609,
   "title": "Home | Kimble County, Texas",
   "error": null
 }

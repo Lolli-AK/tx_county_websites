@@ -397,9 +397,9 @@ iCal
 save current view to clipboard as an .ics link
 RSS
 save current view to clipboard as an .rss link
-August
+September
 2026
-August 2026
+September 2026
 Sun
 day
 Mon
@@ -410,10 +410,6 @@ nesday
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -446,12 +442,9 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
 How to find us.
 Crane County Courthouse
 201 W 6th St

@@ -160,9 +160,9 @@ iCal
 Copy iCalendar (.ics) Link
 RSS
 Copy RSS Feed Link
-August
+September
 2026
-August 2026
+September 2026
 Sun
 Mon
 Tue
@@ -170,10 +170,6 @@ Wed
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -206,12 +202,9 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
 Election Commission and Board
 COUNTY ELECTION BOARD (Election Code Section 51.002)
 Elections Administrator (Chair)

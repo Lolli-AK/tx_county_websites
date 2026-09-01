@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-31T15:34:30Z",
-  "html_sha256": "be30f228001d02dedab42aaa7047bed007ea04bcedfa3a87c50c47f1f59da3bd",
-  "text_sha256": "a5ac6ab09d238ee9b56f0fc7cc702de1b262d4b20333848ea526eb5e0d64b218",
-  "byte_size": 36132,
+  "fetched_at": "2026-09-01T12:50:36Z",
+  "html_sha256": "a79afc214288fdaaf048643e520c823b6947ba75e78fef1f027e5e013744fb27",
+  "text_sha256": "5f9674982018b7534c193333895ba0f5568e0e7afb635ea5df152733ceb709d7",
+  "byte_size": 35509,
   "title": "Mitchell County, Texas",
   "error": null
 }

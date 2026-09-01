@@ -372,6 +372,7 @@ Party Affiliation in a Runoff
 Elections 301- General Information
 First Time Voters
 List Maintenance
+Life Cycle of a Voter Registration Application
 Life Cycle of an Election
 Voter & Sample Ballot Lookup
 Voting By Mail

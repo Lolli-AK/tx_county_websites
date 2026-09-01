@@ -28,7 +28,7 @@ Library
 CALENDAR OF EVENTS
 Calendar
 Calendar
-August 2026
+September 2026
 Sun
 Mon
 Tue
@@ -66,8 +66,50 @@ Sat
 28
 29
 30
-31
-There are no published events in current month.
+Tue, Sep. 1
+Tippy-Toe Tales
+Tippy-Toe Tales
+Read On
+Mon, Sep. 7
+Library Closed
+Library Closed for Labor Day
+Library Closed
+Read On
+Tue, Sep. 8
+Pokemon Club
+Pokemon Club
+Pokemon Club
+Read On
+Wed, Sep. 9
+Storytime
+Weekly storytime and craft
+Storytime
+Read On
+Thu, Sep. 10
+Screen and Stitch
+Thank you for being a friend... and a stitching buddy!
+Bring your knitting, cross stitch, crochet...
+Screen and Stitch
+Read On
+Mon, Sep. 14
+Mahjong
+Adult Mahjong - All skill levels are welcome to come and play and learn the game.
+Mahjong
+Read On
+Tue, Sep. 15
+Tippy-Toe Tales
+Tippy-Toe Tales
+Read On
+Wed, Sep. 16
+Storytime
+Weekly storytime and craft
+Storytime
+Read On
+Fri, Sep. 18
+Ramen & Manga
+Teen program - Let's talk and eat Ramen while disscussing our favorite Mango.
+Ramen & Manga
+Read On
 View All Events
 /Calendar.aspx
 Contact Us

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-31T15:34:30Z",
-  "html_sha256": "fe0092989aab5f8d0a2a86b8e0063aa53141cfdfa5273cc48e4969b918e6e62c",
-  "text_sha256": "06d67e9729bf1581c8c4284a0e7133eb812a342c4700367cffa6340152942362",
-  "byte_size": 298380,
+  "fetched_at": "2026-09-01T12:50:36Z",
+  "html_sha256": "576c6abb09b5aa279f0859e469341f1deb05dff83ed39306543332b836ab8626",
+  "text_sha256": "a0210cd6acd593b11832869b8c64445621c4316a5daae3219da5ef5fc5759efe",
+  "byte_size": 298296,
   "title": "Election Notices - Van Zandt County",
   "error": null
 }
