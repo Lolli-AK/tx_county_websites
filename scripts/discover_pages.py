@@ -32,6 +32,7 @@ import csv
 import logging
 import re
 import sys
+import threading
 from pathlib import Path
 from urllib.parse import urljoin, urlparse, urlunparse
 
@@ -91,6 +92,36 @@ PATTERNS: dict[str, list[tuple[str, int]]] = {
         ("early voting location", 13), ("early voting schedule", 12),
         ("early voting", 11), ("early vote", 10), ("advance voting", 8),
         ("result", -6), ("election day", -4),
+    ],
+    "voter_registration": [
+        ("voter registration", 14), ("register to vote", 14),
+        ("how to register", 13), ("voter registrar", 12),
+        ("registration application", 11), ("new voter", 9),
+        ("qualifications to register", 12), ("who can register", 12),
+        ("eligibility to register", 12), ("registration deadline", 9),
+        ("registration", 6), ("register", 5),
+        # The Texas trap. In most counties the Tax Assessor-Collector is also
+        # the voter registrar, so the registration page sits inside a tax
+        # office that ALSO does motor-vehicle registration, boat titles and
+        # property tax. Unweighted, "registration" lands on vehicle renewals
+        # far more often than on voters.
+        ("motor vehicle", -20), ("vehicle registration", -20),
+        ("vehicle", -16), ("boat", -14), ("trailer", -14), ("title", -10),
+        ("property tax", -16), ("tax payment", -14), ("renew your", -10),
+        ("license plate", -16), ("disabled placard", -14),
+        # Other county-clerk registries that are not voters.
+        ("assumed name", -14), ("marriage", -12), ("deed", -12),
+        ("sex offender", -20), ("contractor", -12), ("brand", -10),
+        # Ending a registration is not starting one.
+        ("cancel", -16), ("remove", -14), ("deceased", -16), ("purge", -14),
+        # Siblings that stack the word "registration".
+        ("poll worker", -16), ("election worker", -16), ("volunteer", -12),
+        ("candidate", -12), ("campaign", -10), ("petition", -12),
+        ("registration statistics", -14), ("statistics", -10),
+        ("early voting", -12), ("vote by mail", -12), ("absentee", -12),
+        ("polling", -10), ("result", -10), ("faq", -10),
+        ("voter lookup", -8), ("check your registration", -14),
+        ("registration status", -14), ("am i registered", -12),
     ],
     "results": [
         ("election result", 13), ("election returns", 11),
@@ -213,6 +244,14 @@ def _fetch_plain(url: str) -> dict:
 # cases, otherwise those counties silently look like they have no election pages.
 _ANCHOR_RE = re.compile(r"<a\s[^>]*href=", re.I)
 
+# Headless renders are serialized, exactly as snapshot.py serializes them. This
+# was missing here for as long as discovery has existed and only became visible
+# once the registration crawl started escalating several counties at once: six
+# worker threads launching Chromium simultaneously wedged a run for forty
+# minutes on its last handful of counties, with the process idle rather than
+# busy. One at a time is also what keeps a render deterministic.
+_HEADLESS_LOCK = threading.Lock()
+
 
 def fetch(url: str, allow_headless: bool = True) -> dict:
     r = _fetch_plain(url)
@@ -224,7 +263,8 @@ def fetch(url: str, allow_headless: bool = True) -> dict:
     if allow_headless and needs_headless:
         try:
             import snapshot  # local module; imports playwright lazily
-            h = snapshot.fetch_headless(url)
+            with _HEADLESS_LOCK:
+                h = snapshot.fetch_headless(url)
             status = h.get("http_status")
             if h["ok"] and (status or 200) < 400 and h["html"]:
                 return {"ok": True, "status": status or 200, "html": h["html"],
@@ -269,6 +309,30 @@ EXACT_ELECTION_LABELS = {
 }
 
 
+# The registration counterpart to EXACT_ELECTION_LABELS, and needed for the same
+# reason: keyword weights are additive, so a long noisy label out-scores the
+# plain one on length alone.
+EXACT_REGISTRATION_LABELS = {
+    "register to vote", "voter registration", "registration",
+    "how to register", "how to register to vote", "new voter registration",
+    "voter registration information", "registering to vote", "register",
+    "voter registration application", "voter registrar",
+}
+
+# Nav sections that hold the voter-facing pages. Texas county sites file
+# elections under a department, so registration is normally two clicks down:
+# "Departments" -> "Elections" -> "Voter Registration", or via the tax office.
+REG_HUB_PATTERNS = [
+    ("voter registration", 15), ("elections", 12), ("election", 10),
+    ("voter", 11), ("voting", 9), ("registration", 9),
+    ("elections administrator", 13), ("tax assessor", 7), ("tax office", 6),
+    ("department", 5),
+    ("motor vehicle", -20), ("vehicle", -16), ("property tax", -16),
+    ("candidate", -12), ("result", -12), ("poll worker", -14),
+    ("news", -10), ("map", -8), ("about", -6), ("contact", -8),
+]
+
+
 def score(text: str, url: str, pats: list[tuple[str, int]]) -> int:
     # Weight anchor text higher than the URL path; URLs often contain generic words.
     t, u = text.lower(), url.lower()
@@ -290,6 +354,9 @@ def score(text: str, url: str, pats: list[tuple[str, int]]) -> int:
         label = host.split(".")[0]
         if "vote" in label or label == "elections":
             s += 12
+    if (pats is PATTERNS["voter_registration"]
+            and t.strip() in EXACT_REGISTRATION_LABELS):
+        s += 12
     return s
 
 
@@ -319,7 +386,8 @@ def rank_links(links: list[tuple[str, str]], pats: list[tuple[str, int]],
 
 def best_link(links: list[tuple[str, str]], ptype: str, exclude: set[str],
               home: str | None = None) -> tuple[str, int, str] | None:
-    prefer_internal = ptype in ("elections", "polling", "early_voting")
+    prefer_internal = ptype in ("elections", "polling", "early_voting",
+                                "voter_registration")
     ranked = rank_links(links, PATTERNS[ptype], exclude, home, prefer_internal)
     if not ranked:
         return None
@@ -335,7 +403,8 @@ def is_external(url: str, home: str) -> bool:
 
 
 # Minimum score to accept a pick without flagging it as weak.
-MIN_STRONG = {"elections": 6, "polling": 9, "early_voting": 10, "results": 8}
+MIN_STRONG = {"elections": 6, "polling": 9, "early_voting": 10, "results": 8,
+              "voter_registration": 12}
 
 
 def _try_candidates(links: list[tuple[str, str]], exclude: set[str], home: str
