@@ -222,9 +222,9 @@ Upcoming events
 Community Outreach Events (0)
 December 12, 2026- Runoff Election (14)
 November 3, 2026- General Election (12)
-Poll Worker Training (0)
+Poll Worker Training (34)
 Volunteer Deputy Registrar Training (0)
-Voter Registration Events (12)
+Voter Registration Events (11)
 Event Type:
 All Events
 Community Outreach Events
@@ -342,20 +342,67 @@ Garland Government Center
 September is Voter Registration Awareness Month! The Dallas County Elections Department (DCED) will be celebrating by coordinating events throughout the community to register new...
 27
 28
-1
+3
 29
-1
+4
 30
+4
 VRAM: Garland Government Center
 09/28/2026 - 09/28/2026
 10:00 AM - 2:00 PM
 Garland Government Center
 September is Voter Registration Awareness Month! The Dallas County Elections Department (DCED) will be celebrating by coordinating events throughout the community to register new...
+Early Voting Judge Training
+09/28/2026 - 09/28/2026
+9:00 a.m. - 12:30 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+Training sessions are open to the public as space allows. Attendance must be scheduled in advance by contacting VotingSites-ED@dallascounty.org or calling (469) 627-8683. Please no...
+Early Voting Judge Training
+09/28/2026 - 09/28/2026
+2:30 p.m. - 6:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+Training sessions are open to the public as space allows. Attendance must be scheduled in advance by contacting VotingSites-ED@dallascounty.org or calling (469) 627-8683. Please no...
 VRAM: Garland Government Center
 09/29/2026 - 09/29/2026
 10:00 AM - 2:00 PM
 Garland Government Center
 September is Voter Registration Awareness Month! The Dallas County Elections Department (DCED) will be celebrating by coordinating events throughout the community to register new...
+Clerk Training
+09/29/2026 - 09/29/2026
+8:00 a.m. - 11:00 a.m.
+1520 Round Table Dr. Dallas, Texas 75247
+Training sessions are open to the public as space allows. Attendance must be scheduled in advance by contacting VotingSites-ED@dallascounty.org or calling (469) 627-8683. Please no...
+Clerk Training
+09/29/2026 - 09/29/2026
+1:00 p.m. - 4:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+Training sessions are open to the public as space allows. Attendance must be scheduled in advance by contacting VotingSites-ED@dallascounty.org or calling (469) 627-8683. Please no...
+Clerk Training
+09/29/2026 - 09/29/2026
+6:00 p.m. - 9:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+Training sessions are open to the public as space allows. Attendance must be scheduled in advance by contacting VotingSites-ED@dallascounty.org
+or calling (469) 627-8683. Please...
+Clerk Training
+09/30/2026 - 09/30/2026
+6:00 p.m. - 9:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+Training sessions are open to the public as space allows. Attendance must be scheduled in advance by contacting VotingSites-ED@dallascounty.org or calling (469) 627-8683. Please no...
+Clerk Training
+09/30/2026 - 09/30/2026
+8:00 a.m. - 11:00 a.m.
+1520 Round Table Dr. Dallas, Texas 75247
+Training sessions are open to the public as space allows. Attendance must be scheduled in advance by contacting VotingSites-ED@dallascounty.org or calling (469) 627-8683. Please no...
+Clerk Training
+09/30/2026 - 09/30/2026
+1:00 p.m. - 4:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+Training sessions are open to the public as space allows. Attendance must be scheduled in advance by contacting VotingSites-ED@dallascounty.org or calling (469) 627-8683. Please no...
+Practice Makes Perfect
+09/30/2026 - 09/30/2026
+2:00 p.m. - 4:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+Training sessions are open to the public as space allows. Attendance must be scheduled in advance by contacting VotingSites-ED@dallascounty.org or calling (469) 627-8683. Please no...
 Event Type:
 All Events
 Community Outreach Events
@@ -368,11 +415,6 @@ Voter Registration Events
 »
 September
 2026
-September 1, 2026
-VRAM: Garland Government Center
-10:00 AM - 2:00 PM
-Garland Government Center
-voter-registration-events
 September 2, 2026
 VRAM: Garland Government Center
 10:00 AM - 2:00 PM
@@ -426,15 +468,52 @@ VRAM: Garland Government Center
 Garland Government Center
 voter-registration-events
 September 28, 2026
+Early Voting Judge Training
+9:00 a.m. - 12:30 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
 VRAM: Garland Government Center
 10:00 AM - 2:00 PM
 Garland Government Center
 voter-registration-events
+Early Voting Judge Training
+2:30 p.m. - 6:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
 September 29, 2026
+Clerk Training
+8:00 a.m. - 11:00 a.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
 VRAM: Garland Government Center
 10:00 AM - 2:00 PM
 Garland Government Center
 voter-registration-events
+Clerk Training
+1:00 p.m. - 4:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
+Clerk Training
+6:00 p.m. - 9:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
+September 30, 2026
+Clerk Training
+8:00 a.m. - 11:00 a.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
+Clerk Training
+1:00 p.m. - 4:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
+Practice Makes Perfect
+2:00 p.m. - 4:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
+Clerk Training
+6:00 p.m. - 9:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
 View All
 GET INVOLVED
 Become a Pollworker

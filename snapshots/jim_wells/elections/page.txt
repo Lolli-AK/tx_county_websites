@@ -74,7 +74,7 @@ County Directory
 Sign up to get notifications
 Email
 *
-Name
+Phone
 This field is for validation purposes and should be left unchanged.
 Copyright © Jim Wells County – All Rights Reserved 2025
 <a href="#" id="back-to-top" style="background-color:rgba(0,0,0,0.3);right:0;" data-s="100vh"></a>

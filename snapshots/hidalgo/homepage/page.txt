@@ -23,8 +23,6 @@ County Calendar
 County News
 County Calendar
 Calendar
-Tue, Sep 1
-Commissioners Court Meeting
 Tue, Sep 15
 Commissioners Court Meeting
 Tue, Sep 22
@@ -34,6 +32,8 @@ Commissioners Court Meeting
 Tue, Oct 13
 Commissioners Court Meeting
 Tue, Oct 27
+Commissioners Court Meeting
+Tue, Nov 10
 Commissioners Court Meeting
 View All
 /Calendar.aspx

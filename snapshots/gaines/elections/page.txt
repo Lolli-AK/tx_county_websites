@@ -261,6 +261,43 @@ Toggle main menu visibility
 Menu
 Republican Party (All Precincts)
 Democratic Party (All Precincts)
+November 3rd, 2026 General Election
+▲
+Required Postings
+▲
+Toggle main menu visibility
+Menu
+Order of Election
+General Election
+Special Election
+City of Seagraves
+Notice of L&A Testing
+Certification of Public L&A Test
+Notice of L&A Testing-Pollbooks
+Certification of Public L&A Test-Pollbooks
+Notice of Election Worker Training
+Notice of Voting Order Priority for Voters with Certain Disablities
+Early Voting Rosters
+Election Day Roster
+Results
+Unofficial
+Official
+Notice of Post-Election Hand Count Audit
+Summary and Certification of Post-Election Hand Count Audit Results
+Notice of Canvass
+Canvass Report
+Reconciliation Form
+Sample Ballots
+▲
+Toggle main menu visibility
+Menu
+Precinct 2
+Precinct 3
+Precinct 4
+Precinct 5
+Precinct 6
+Precinct 8
+Precinct 9
 2025
 ▲
 November 4, 2025

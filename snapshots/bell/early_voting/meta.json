@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-01T12:50:36Z",
-  "html_sha256": "c9e64e311053baad6cc67d154f7c9b536e7c2eebc962d29fddace56994a4a070",
-  "text_sha256": "f19632dacc55bebe7143e81cefcf7c5fbc878264c8233e5f73e0918a44bb0406",
-  "byte_size": 78190,
+  "fetched_at": "2026-09-02T12:20:18Z",
+  "html_sha256": "abc265160de5d356ece9f6c94af7d6bbaf0ae9ec227464178c79d947fe707b6e",
+  "text_sha256": "2e90780013c3171740f8a41ec30ab2b595a46b6a0878509987ce1f92bd110154",
+  "byte_size": 75492,
   "title": "Early Voting Information",
   "error": null
 }

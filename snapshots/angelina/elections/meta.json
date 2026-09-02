@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-01T12:50:36Z",
-  "html_sha256": "6301d42c192074acceb4c989e60f43c5a8adb6108a72e0a42780a0f85a65a6c7",
-  "text_sha256": "585124b4c73aa8feed7deb8fe9c7391e8e3ce629b150803ed560408d7d23dbe8",
-  "byte_size": 49796,
+  "fetched_at": "2026-09-02T12:20:18Z",
+  "html_sha256": "a99cad57c97183bbaa3d695e6a6d640833cf7d78f62086ac9946342ba966af10",
+  "text_sha256": "d8af11b1657f3ff3bdf50cb48200b1af3eb7414a36ea9f956211b8ff59560d32",
+  "byte_size": 49557,
   "title": "Election Administration – Angelina County",
   "error": null
 }

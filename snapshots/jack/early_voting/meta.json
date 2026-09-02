@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-01T12:50:36Z",
-  "html_sha256": "96da76951121e2d87dd1699641550426787ce76a697f0b829213547a27ede4e0",
-  "text_sha256": "8a7f1832c96bfff93d2b8703ee5b9a63555086b14ceaf0d9fd489707ee73aee2",
-  "byte_size": 46269,
+  "fetched_at": "2026-09-02T12:20:18Z",
+  "html_sha256": "c9dad4b600a99d86afd0e074b7efee7c5b82007bed1c1b33e35781f19ab239fa",
+  "text_sha256": "60cfd9b1510bd2880156bb6a0137ddca8ac6f1a026343805579000c8ebd1b026",
+  "byte_size": 46744,
   "title": "Early Voting | Jack County TX",
   "error": null
 }

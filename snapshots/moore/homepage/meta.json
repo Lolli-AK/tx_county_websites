@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-01T12:50:36Z",
-  "html_sha256": "e77bd0852b288bda2589595a44ded629bd95acb813f4c9c3579baf01b2bbd126",
-  "text_sha256": "22aac560e6936941238ae887bda01dfd30c4d2131793c0e2f293eef2e65fb11c",
-  "byte_size": 25560,
+  "fetched_at": "2026-09-02T12:20:18Z",
+  "html_sha256": "07caef88ad0401b37341722e09b8e7a7798ae8f3460cfe8f5f3a1b9339828a0b",
+  "text_sha256": "d1a635f56097936600901eb11eab23183c8aff1884d71378787de739b9a59b6e",
+  "byte_size": 25568,
   "title": "Moore County, Texas",
   "error": null
 }

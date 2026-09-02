@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-01T12:50:36Z",
-  "html_sha256": "23a6fdf7995a93cac17d7bce77ee2be370f6b4b2b6465d95d80616a40de2267f",
-  "text_sha256": "1b451b74eab851af304c96ab5329bd4f60dd6212a29d8ad8e26d8b3a4514ebdb",
-  "byte_size": 94095,
+  "fetched_at": "2026-09-02T12:20:18Z",
+  "html_sha256": "1652258e59f54b531075453f9de97064ca1460679deb26cc5c21b5ab4a4396ca",
+  "text_sha256": "285e8ba20c83c3aa027c379b4c9319b5d96d22d005764a2c74de239fbcf2ef27",
+  "byte_size": 91407,
   "title": "Election Day Polling Locations",
   "error": null
 }

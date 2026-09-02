@@ -68,22 +68,21 @@ Utility Reports
 Public Notices
 Conflict of Interest Disclosures
 Meetings/Agendas
-Bids, RFPs, RFQs, LNs
----------------------------------
-County Ordinances
-Home
-Lake Ray Roberts P & Z
-RV Park Ordinances
-Subdivision Regulations
 Elections
 Home
 Important Election Dates
 Candidate Filing Information
 Ballot by Mail
 Who Represents Me
+---------------------------------
+Bids, RFPs, RFQs, LNs
+County Ordinances
+Home
+Lake Ray Roberts P & Z
+RV Park Ordinances
+Subdivision Regulations
 Emergency Preparedness
 Employment Opportunities
-Forms
 Open Records
 Pay Traffic Citations
 Election Information
@@ -132,7 +131,7 @@ Election Day - Ballot by Mail Rosters
 Coming Soon
 Coming Soon
 Notices & Orders
-Eras ISD Order of Cancelation
+Eras ISD Order of Cancellation
 Notice of Delivery of Ballots Voted by Mail
 Notice for Early Voting Saturday and Sunday
 Order of Appointment for Central Counting Station
@@ -141,7 +140,8 @@ Order of Appointment for the Early Voting Ballot Board
 Order of Election for County Officers
 Proclamation of General Election by the Governor of the State of Texas
 Saint Jo ISD Order of Election
-Sivells Bend ISD Order of Cancelation
+Sivells Bend ISD Order of Cancellation
+Slidell ISD Order of Cancellation
 Valley View ISD Order of Election
 Important 2026 Election Dates
 Click here for Ballot by Mail info and application
