@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-02T12:20:18Z",
-  "html_sha256": "5d4adc5e7e2b4d5192b6e2c9e0bfc88a312f3cfac3c54fe309fd31bdabd9ff5f",
-  "text_sha256": "67f4826c1b44c59546c7f6d957629915761b7757413117b3516ada788f8e1b58",
-  "byte_size": 167144,
+  "fetched_at": "2026-09-03T12:18:11Z",
+  "html_sha256": "7e7b2924f8cdce400e57c5bcd7c22fd26a32cb43845005a4674004d3b759f75b",
+  "text_sha256": "fe34691110f26e35bcefe051e53ee3e8d1edc6206219fd50aa90a16ef9cb85f4",
+  "byte_size": 167002,
   "title": "Denton County, TX | Official Website",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-02T12:20:18Z",
-  "html_sha256": "fd9366653b435d06f96be13114768bfde64ba76c7f5cead2ae259cd7786eea7c",
-  "text_sha256": "47d6979f30d1eb25d7545fafb75b6bb19cf04e8342c9fbf5dfd680c4d9a62dd4",
-  "byte_size": 83767,
+  "fetched_at": "2026-09-03T12:18:11Z",
+  "html_sha256": "b1069a475752afd00e61a0e6b448bd82c493521461047914ab64bfe1fcb412fc",
+  "text_sha256": "a11746155f64b088bf0f1616a458a1f10adaf04e1ee299dedce9ae190e0ec3b6",
+  "byte_size": 83962,
   "title": "Elections - Gray County",
   "error": null
 }

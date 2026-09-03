@@ -94,6 +94,7 @@ ELECTIONS
 Vote by Mail
 Voter Registration
 Polling Locations
+Sample Ballots
 Primary Election
 May Election
 November Election
@@ -169,6 +170,9 @@ Vote by Mail
 Voter Registration
 Polling Locations
 Polling Location Map
+Sample Ballots
++
+Sample Ballot Archive
 Primary Election
 May Election
 November Election

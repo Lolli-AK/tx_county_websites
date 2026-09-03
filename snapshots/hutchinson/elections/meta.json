@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-02T12:20:18Z",
-  "html_sha256": "16c6439ccac78724f178332fed2a97f0551e82d83127647c3a3b5eb4081bb32e",
-  "text_sha256": "5ead29d745ad5bafd10b034b7ab5f8841838c16bb9ec043098b7b5c4eaad2ca6",
-  "byte_size": 147660,
+  "fetched_at": "2026-09-03T12:18:11Z",
+  "html_sha256": "624f4c7943a6aa55069f32cc6e1d7e1e1f54f15cea372a70930e8a67ce7e1ec3",
+  "text_sha256": "a05b647a28a4302aca4e6f9e44108fafbd6eb015112dcf6cc291ea3bf322a522",
+  "byte_size": 148150,
   "title": "Hutchinson County, Texas",
   "error": null
 }

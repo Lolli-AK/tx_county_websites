@@ -49,6 +49,10 @@ Order of Election - November General Election for County Officers
 Early Voting Locations for November 3, 2026 General Election
 Election Day Polling Locations for November 3, 2026 General Election
 Order of Election Crystal Clear Special Utility District Comal County
+Edwards Aquifer Authority Certification of Unopposed Candidates
+Comal County WID No. 3B Notice of Confirmation, Directors, Bonds, Operation and Maintenance
+Comal County WID No. 3B Order Calling Confirmation, Directors, Bonds, Operation and Maintenance Tax, and Special Contract Elections
+SOS_Proclamation_Uniform_Runoff_Election_Date_for_November_3,_2026_General_Election
 June 13, 2026 City of New Braunfels Runoff
 Election Results
 Early Voting Data
@@ -112,11 +116,6 @@ Summary and Certification of Post-Election Hand Count Audit Results (PDF)
 Reconciliation of Total Votes Cast at Each Polling Location (PDF)
 March 3, 2026 Primary Election
 March 3, 2026 Primary - Election Results
-Election Day Voting Locations (PDF)
-Notice of Convening of Early Voting Ballot Board for March 3 2026 Primary (PDF)
-Notice of Delivery of Ballots Vote by Mail for March 3 2026 Primary (PDF)
-Summary and Certification of Post-Election Hand Count Audit Results Democratic Primary (PDF)
-Summary and Certification of Post-Election Hand Count Audit Results Republican Primary (PDF)
 Early Voting Data
 Get Ready to Vote
 Register to Vote
@@ -132,10 +131,15 @@ Voting Machine Instructions
 March 3, 2026 Primary Election Notices
 March 3, 2026 Primary Election Notices
 Public Notice of Logic and Accuracy Test of Electronic PollBook Equipment (PDF)
-Certification of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment (PDF)
 Public Notice of Public Logic and Accuracy Test – First Test of Automatic Tabulating Equipment (PDF)
 Reconciliation of Total Votes Cast at Each Polling Location March 3 2026 Primary (PDF)
 Preliminary Election Reconciliation - Unofficial
+Certification of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment (PDF)
+March 3, 2026 Primary Election Day Voting Locations (PDF)
+Notice_of_Delivery_of_Ballots_Vote_by_Mail_for_March_3_2026_Primary (PDF)
+Notice_of_Convening_of_Early_Voting_Ballot_Board_for_March_3_2026_Primary (PDF)
+Summary and Certification of Post-Election Hand Count Audit Results Republican Primary (PDF)
+Summary and Certification of Post-Election Hand Count Audit Results Democratic Primary (PDF)
 Certification of Logic and Accuracy Test of Electronic Pollbook Equipment (PDF)
 Certification of Second Test of Automatic Tabulating Equipment Used At Central Counting Station (PDF)
 Certification of Third Test of Automatic Tabulating Equipment Used At Central Counting Station (PDF)
@@ -214,10 +218,6 @@ Public Notice of Automatic Tabulating Equipment
 Public Notice of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
 November 3, 2026 General Election Notices
 November 3, 2026 General Election Notices
-City of Schertz Resolution 26-R-075 Order of Election November 3 2026 (PDF)
-Notice of Deadline to File an Application for Place on Ballot Cities School Districts and Other Political Subdivisions
-Order of General Election - Comal Appraisal District (PDF)
-SOS Proclamation: Uniform Runoff Election Date for the November 3, 2026 General Election (PDF)
 Useful Election Tools
 Ballot by Mail Tracker
 By the Texas Secretary of State

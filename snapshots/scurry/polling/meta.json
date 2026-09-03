@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-02T12:20:18Z",
-  "html_sha256": "8bad74608dd4ad5c511039cc19c23148da3d04bb41b779f08d4687973e7bb295",
-  "text_sha256": "2850411689f7e03f0302d6890796126cc4b1540880925c26144ac22b2bbd50e6",
-  "byte_size": 102089,
+  "fetched_at": "2026-09-03T12:18:11Z",
+  "html_sha256": "555c4230f0e57ea3d207f224647e1c1839a8bb5130d6a1bb2a6564757e20b945",
+  "text_sha256": "8dcdf6394ae3105400da4f82442e14dce4909f67187b404acc27679e8f24ff75",
+  "byte_size": 102588,
   "title": "Scurry County Texas",
   "error": null
 }

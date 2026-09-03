@@ -243,7 +243,9 @@ Early Voting Information
 Election Day Information
 Notices:
 County- Order of Election
-Poth ISD- Order of Election
+Poth ISD- Order of Election (
+will be posted once amended
+)
 Falls City ISD- Order of Election
 Stockdale ISD- Order of Election
 Nixon-Smiley CISD- Order of Election
@@ -251,6 +253,9 @@ County- Notice of Election
 Poth ISD- Notice of Election
 Falls City ISD- Notice of Election
 Stockdale ISD- Notice of Election
+(
+español
+)
 Nixon-Smiley CISD- Notice of Election
 Order of Appointment for Judges/Alt. Judges
 L&A Testing

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-02T12:20:18Z",
-  "html_sha256": "202d13e27a948586c1a782adc62a8032ac9a3fe04b5001ec64e6cce952c24ae7",
-  "text_sha256": "c6935945e69fdf12c9bcf8646e603abe23a39b3b700ab82ac5154e43e2e621ab",
-  "byte_size": 61359,
+  "fetched_at": "2026-09-03T12:18:11Z",
+  "html_sha256": "8a9ed82d79e65863fb078ebb89189e3f7b1d5fe1aeacfba5bb6f1e96ab624a99",
+  "text_sha256": "7a5b1e08c1d0803349e5f4b48c6a3899285ab8f9f9cbea803eb1e12b6a36c9b7",
+  "byte_size": 61203,
   "title": "Concho County, Texas",
   "error": null
 }

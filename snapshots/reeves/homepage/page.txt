@@ -94,6 +94,7 @@ ELECTIONS
 Vote by Mail
 Voter Registration
 Polling Locations
+Sample Ballots
 Primary Election
 May Election
 November Election
@@ -133,42 +134,54 @@ Bids
 Elections
 GIS
 Up-Coming Events
-Jan
-06
-RC Senior Center: Every Tuesday Bingo
-02:00 PM - Dec, 29 03:00 PM
-Jan
-06
-RC Veterans Center: Every Tuesday & Thursday Work-Outs
-02:00 PM - Dec, 31 03:00 PM
-Jan
-07
-RC Rec: Every Wednesday Baseball/Softball Classes
-12:00 AM - Dec, 05
-Jan
-08
-RC Senior Center: Every Thursday Loteria
-02:00 PM - Dec, 18 03:00 PM
-Mar
-16
-RC Senior Center Movie Matinee
-02:00 PM - Dec, 21 03:00 PM
 Aug
 05
 RC Rec Center: Adult Soccer League
 06:00 PM - Sep, 09 06:00 PM
+Aug
+18
+RC Library: FREE Digital Literacy Classes Tuesdays & Wednesdays
+06:00 PM - Oct, 07 08:00 PM
+Sep
+03
+RC Senior Center: Every Thursday Loteria
+02:00 PM - Dec, 18 03:00 PM
+Sep
+03
+RC Veterans Center: Every Tuesday & Thursday Work-Outs
+02:00 PM - Dec, 31 03:00 PM
 Sep
 07
 Labor Day
 12:00 AM
 Sep
+07
+RC Senior Center Movie Matinee
+02:00 PM - Dec, 21 03:00 PM
+Sep
 08
 RC Veterans & American Legion Post 233 Meeting
 12:00 AM
 Sep
+09
+RC Rec: Every Wednesday Baseball/Softball Classes
+12:00 AM - Dec, 05
+Sep
+10
+RC Senior Center: Every Thursday Bingo
+02:00 PM - Dec, 29 03:00 PM
+Sep
+14
+RC Rec Center: 2026 Winter Dance Academy
+05:15 PM - Dec, 11 05:15 PM
+Sep
 17
 RC Rec Center: Stronger Together 5K
 06:30 PM - 08:00 PM
+Sep
+21
+RC Rec Center: Flag Football Youth League
+12:00 AM - Nov, 21 06:00 PM
 Sep
 25
 RC Rec Center: 5-Year Anniversary: Neon Carnival
@@ -177,18 +190,6 @@ Nov
 11
 Veterans Day
 All Day
-Nov
-26
-Thanksgiving Break
-12:00 AM - Nov, 27
-Dec
-24
-Christmas Break
-12:00 AM - Dec, 25
-Jun
-23
-West of the Pecos Rodeo
-07:00 PM - Jun, 26 07:00 PM
 More Events
 Reeves County Texas News
 Weather Update: NWS-Midland

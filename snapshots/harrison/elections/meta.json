@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-02T12:20:18Z",
-  "html_sha256": "0b7311e36d76e8ab41101ecbfaaae9bc7cc6314bd5340de6ee92b71a839ba3bf",
-  "text_sha256": "d67388f4641b2f06a0eb91f9c581534040c8a8235f7fb1e5a786ab84f63f9619",
-  "byte_size": 97625,
+  "fetched_at": "2026-09-03T12:18:11Z",
+  "html_sha256": "62779c86d61b02981c12444b657a2cfea1d740a1f947552897b36806fc3032f6",
+  "text_sha256": "b393874ee395360eec6cebeb60921e5b75d65d631d93f9a2b39b228d781236e9",
+  "byte_size": 98288,
   "title": "Elections | Harrison County, Texas",
   "error": null
 }
