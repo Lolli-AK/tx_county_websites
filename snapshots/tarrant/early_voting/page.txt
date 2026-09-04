@@ -571,7 +571,13 @@ Candidates/Contests
 City of North Richland Hills
 Bond Election
 Election Order
-Election Notice
+Election Notice (
+English
+,
+Spanish
+,
+Vietnamese
+)
 Contests
 (See Propositions A - D)
 City of River Oaks
@@ -585,7 +591,13 @@ Candidates
 Eagle Mountain-Saginaw ISD
 Bond & Vatre Election
 Election Order
-Election Notice
+Election Notice (
+English
+,
+Spanish
+,
+Vietnamese
+)
 Contests
 Keller ISD
 Order of General Election for Place 4 and Place 5
@@ -654,7 +666,7 @@ ElectionsInfo@tarrantcountytx.gov
 Phone: 817-831-8683
 TDD: 817-759-7801
 Hours of Business: Monday – Friday, 8 a.m. - 5 p.m.
-This page was last modified on September 01, 2026
+This page was last modified on September 03, 2026
 TARRANT COUNTY, TEXAS
 County Telephone Operator
 817-884-1111

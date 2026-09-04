@@ -223,7 +223,11 @@ LEON COUNTY, TX FLOOD MAPS
 BECAME FINAL ON NOVEMBER 20, 2013
 Floodplain Information
 Reverse 911
-Any county residents who would like to be added to the reverse 911 contact list, please click the Everbridge link below:
+Any county residents who would like to be added to the reverse 911 contact list, please click the Rave Alerts link below:
+Registration Referral URL:
+https://www.smart911.com/smart911/ref/reg.action?pa=leoncountytx
+Login Referral URL:
+https://www.smart911.com/smart911/ref/login.action?pa=leoncountytx
 What Do Counties Do?
 Who Are County Officials?
 How to reach us.

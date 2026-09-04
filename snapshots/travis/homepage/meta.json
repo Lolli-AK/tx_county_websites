@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-03T12:18:11Z",
-  "html_sha256": "83ffe1b18f24ac4191b6a4fbb3d9a84c57844b44cafbbac75f1a809a5897a9d3",
-  "text_sha256": "a59dbb4cd40ba5eb7ce7f90101d45bad50280ba838c3643d10559778737dae2a",
-  "byte_size": 36267,
+  "fetched_at": "2026-09-04T12:18:47Z",
+  "html_sha256": "99b94cf26e31cc1ce5dceb2e73c4c6163f52a441ec4fb5cdb64cef457af746af",
+  "text_sha256": "6f68cee53c44b895079f002270b6cabff5bb49bb023317d4153ee5e145033c6c",
+  "byte_size": 35990,
   "title": "Travis County Homepage | Travis County, Texas",
   "error": null
 }

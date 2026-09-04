@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-03T12:18:11Z",
-  "html_sha256": "fbefd5bef157b4dc0e3153604424d1ae929a141c63ea8fc7567a7b0774ff90c5",
-  "text_sha256": "5bdb5607b38cbda6ed125fce17acd82b9e54f4f8fa57019f43448ac3121729e9",
-  "byte_size": 29421,
+  "fetched_at": "2026-09-04T12:18:47Z",
+  "html_sha256": "27a7049b9913a335e18485a2aa2110e2c18842f2f99b3c5e7c7a6dfcf1176ada",
+  "text_sha256": "4f578336cb9b74bedf95511e064ed80f4d6a8e454c486381c647df428a815dae",
+  "byte_size": 29611,
   "title": "Elections 2026 | Sterling County, Tx",
   "error": null
 }

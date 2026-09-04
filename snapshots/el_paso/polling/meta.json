@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-03T12:18:11Z",
-  "html_sha256": "47416f9fea7ac38b49cd1f3417bf03c501412db6927cec4a59a4ff85238f76ae",
-  "text_sha256": "3f92963fecb69503e12630a5225c6f47f1de74e52759ab35c8ca639878d6e563",
-  "byte_size": 101113,
+  "fetched_at": "2026-09-04T12:18:47Z",
+  "html_sha256": "1d95ef8c25667eacea1527d6f37ee7b8e7980b0b73d00d229835b17781da06f0",
+  "text_sha256": "114ccdf466f25c9663872e99a1439db291939ea4ebced34e70b3eccc54bd32b2",
+  "byte_size": 101111,
   "title": "Election Day Vote Centers - El Paso County, TX Elections | El Paso County Elections Department",
   "error": null
 }

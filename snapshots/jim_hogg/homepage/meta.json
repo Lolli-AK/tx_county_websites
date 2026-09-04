@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-03T12:18:11Z",
-  "html_sha256": "825a6d2aab282902d868c22821c1a11132154b5c5e79a4ec41076d1355ddd5ef",
-  "text_sha256": "53a7bdae1534806c69bd2e346fe6ea65fd5bc00ced24d19f42d162349014c51f",
-  "byte_size": 36056,
+  "fetched_at": "2026-09-04T12:18:47Z",
+  "html_sha256": "8f5fc397aba551f3c6a9fe1444de20bc962359f11d40da915e0c44aa2fe42263",
+  "text_sha256": "eda5a778f6618af7fcc51f83e1028a4bbc6913ebd11a41316802ee83d1970276",
+  "byte_size": 36298,
   "title": "Jim Hogg County, Texas",
   "error": null
 }

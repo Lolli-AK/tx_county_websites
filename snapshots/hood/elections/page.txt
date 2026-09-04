@@ -219,8 +219,7 @@ The Hood County Elections Office is open to the public.
 However, if you want to make changes to your address, register to vote, and/or request a ballot by mail you can do that without leaving the comfort of your home.
 In County Updates via Texas Online:
 If a voter has moved within the same county, the voter may update their address online at
-www.Texas.gov
-.
+https://www.votetexas.gov/
 Printed Voter Registration Applications:
 If a voter has access to a printer, the voter can fill this
 application
@@ -251,6 +250,7 @@ Governor
 Lieutenant Governor
 Attorney General
 Comptroller of Public Accounts
+Commissioner of the General Land Office
 Commissioner of Agriculture
 Railroad Commissioner
 Chief Justice, Supreme Court

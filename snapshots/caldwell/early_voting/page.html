@@ -23,6 +23,86 @@
    <div class="outercontainer floatleft topnavcolor clearfix" id="topnavwrapper">
     <div class="innercontainer clearfix no-border no-margin" id="topnav">
      <input id="hdnModifiedDate" type="hidden"/>
+     <div class="rltbOverlay">
+     </div>
+     <div class="RadLightBox RadLightBox_Default lb_feedback" id="ctl00_CP1_DocumentLightBox">
+      <div class="rltbGlowEffect">
+      </div>
+      <div class="rltbClose">
+       <button class="rltbActionButton rltbCloseButton" title="Close" type="button">
+        <span class="rltbIcon rltbCloseIcon">
+        </span>
+        <span class="rltbButtonText">
+         Close
+        </span>
+       </button>
+      </div>
+      <div class="rltbWrapper">
+       <div class="rltbItemBox">
+        <input class="rltbActionButton rltbPrevButton" id="ctl00_CP1_DocumentLightBox_PrevButton" name="ctl00$CP1$DocumentLightBox$PrevButton" title="Prev" type="submit" value="Prev"/>
+        <div class="rltbItemTemplate">
+         <div class="securityheader">
+          <img alt="Security Icon" src="/runtime/images/ezlock.png"/>
+          <br/>
+          This Resource Requires Authentication!
+         </div>
+         <div class="securitypop">
+          <div class="securitytxt">
+           Username:
+          </div>
+          <input aria-label="Username" id="txtDownName" name="txtDownName" type="text"/>
+          <br/>
+          <div class="securitytxt">
+           Password:
+          </div>
+          <input aria-label="Password" autocomplete="off" id="txtDownPwd" name="txtDownPwd" type="password"/>
+          <input id="hdnDNW" name="hdnDNW" type="hidden"/>
+          <input id="hdnDNS" name="hdnDNS" type="hidden"/>
+          <input id="hdnDNR" name="hdnDNR" type="hidden"/>
+          <input id="hdnDNN" name="hdnDNN" type="hidden"/>
+          <input class="button" onclick="SubmitLightBox()" type="button" value="Submit"/>
+         </div>
+         <div id="msgLightBox">
+          Login failed! Please try again.
+         </div>
+        </div>
+        <img alt="LightBox Active Image" class="rltbActiveImage" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs%3D"/>
+        <input class="rltbActionButton rltbNextButton" id="ctl00_CP1_DocumentLightBox_NextButton" name="ctl00$CP1$DocumentLightBox$NextButton" type="submit" value="Next"/>
+       </div>
+       <div class="rltbDescriptionBox rltbDescBottom">
+        <span class="rltbTitle">
+        </span>
+        <div class="rltbDescription">
+        </div>
+        <span class="rltbPager">
+         Image 1 of 1
+        </span>
+        <div class="rltbToolbar">
+         <button class="rltbActionButton rltbMaximizeButton" title="Maximize image" type="button">
+          <span class="rltbIcon rltbMaximizeIcon">
+          </span>
+          <span class="rltbButtonText">
+           Maximize image
+          </span>
+         </button>
+         <button class="rltbActionButton rltbRestoreButton" title="Restore" type="button">
+          <span class="rltbIcon rltbRestoreIcon">
+          </span>
+          <span class="rltbButtonText">
+           Restore image
+          </span>
+         </button>
+        </div>
+       </div>
+      </div>
+      <div class="RadAjax RadAjax_Default" id="ctl00_CP1_DocumentLightBox_LoadingPanel">
+       <div class="raDiv">
+       </div>
+       <div class="raColor raTransp">
+       </div>
+      </div>
+      <input id="ctl00_CP1_DocumentLightBox_ClientState" name="ctl00_CP1_DocumentLightBox_ClientState" type="hidden"/>
+     </div>
      <div class="widgettable">
       <div class="widgetitem vertical-align-layout" id="CP1_CR1_WB_0">
        <div class="ezlayout2">
@@ -850,7 +930,7 @@
               <span id="CP4_CR4_ctl00_1_lblTitle_1">
                <h6>
                 <span class="accordion-title">
-                 Primary Runoff Election - May 26, 2026 (Click to View)
+                 Uniform Election - May 2, 2026 (Click to View)
                 </span>
                </h6>
               </span>
@@ -868,8 +948,12 @@
                   </span>
                   <span>
                    <strong>
-                    Monday, May 18, 2026 - Friday, May 22, 2026
+                    Monday, April 20, 2026 - Tuesday, April 28, 2026
                    </strong>
+                  </span>
+                 </p>
+                 <p class="MsoNormal">
+                  <span>
                   </span>
                  </p>
                 </div>
@@ -879,6 +963,473 @@
                  <div class="ezlayout2Col1" id="CP4_CR4_ctl00_1_ContentRepeater1_1_ctl00_1_ezCol1_1">
                   <div class="widgettable">
                    <div class="widgetitem" id="CP4_CR4_ctl00_1_ContentRepeater1_1_ctl00_1_CR1_1_WB_0">
+                    <div aria-labelledby="earlyVotingHeader" class="early-voting" role="region">
+                     <h2 id="earlyVotingHeader">
+                      Branch Early Voting Locations &amp; Hours
+                     </h2>
+                     <table class="simple-table" summary="Early voting branch locations and addresses">
+                      <thead>
+                       <tr>
+                        <th scope="col">
+                         Location
+                        </th>
+                        <th scope="col">
+                         Address
+                        </th>
+                       </tr>
+                      </thead>
+                      <tbody>
+                       <tr>
+                        <td>
+                         Three Rivers Community Church
+                        </td>
+                        <td>
+                         <a href="https://www.google.com/maps/search/?api=1&amp;query=103+Main+St%2C+Martindale%2C+TX" target="_blank">
+                          103 Main St, Martindale, TX
+                         </a>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Luling Civic Center
+                        </td>
+                        <td>
+                         <a href="https://www.google.com/maps/search/?api=1&amp;query=333+E.+Austin+St%2C+Luling%2C+TX" target="_blank">
+                          333 E. Austin St, Luling, TX
+                         </a>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Uhland City Hall - Community Center
+                        </td>
+                        <td>
+                         <a href="https://maps.app.goo.gl/h1pJk93scb3dFZes5" target="_blank">
+                          15 N Old Spanish Trl, Uhland, TX
+                         </a>
+                        </td>
+                       </tr>
+                      </tbody>
+                     </table>
+                     <table class="simple-table" summary="Early voting hours for each day and date">
+                      <thead>
+                       <tr>
+                        <th scope="col">
+                         Day
+                        </th>
+                        <th scope="col">
+                         Date
+                        </th>
+                        <th scope="col">
+                         Hours
+                        </th>
+                       </tr>
+                      </thead>
+                      <tbody>
+                       <tr>
+                        <td>
+                         Monday
+                        </td>
+                        <td>
+                         April 20
+                        </td>
+                        <td>
+                         9:00 AM – 6:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Tuesday
+                        </td>
+                        <td>
+                         April 21
+                        </td>
+                        <td>
+                         Closed
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Wednesday
+                        </td>
+                        <td>
+                         April 22
+                        </td>
+                        <td>
+                         9:00 AM – 6:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Thursday
+                        </td>
+                        <td>
+                         April 23
+                        </td>
+                        <td>
+                         9:00 AM – 6:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Friday
+                        </td>
+                        <td>
+                         April 24
+                        </td>
+                        <td>
+                         9:00 AM – 6:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Saturday
+                        </td>
+                        <td>
+                         April 25
+                        </td>
+                        <td>
+                         9:00 AM – 6:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Sunday
+                        </td>
+                        <td>
+                         April 26
+                        </td>
+                        <td>
+                         Closed
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Monday
+                        </td>
+                        <td>
+                         April 27
+                        </td>
+                        <td>
+                         7:00 AM – 7:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Tuesday
+                        </td>
+                        <td>
+                         April 28
+                        </td>
+                        <td>
+                         7:00 AM – 7:00 PM
+                        </td>
+                       </tr>
+                      </tbody>
+                     </table>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="ezlayout2Col2" id="CP4_CR4_ctl00_1_ContentRepeater1_1_ctl00_1_ezCol2_1">
+                  <div class="widgettable">
+                   <div class="widgetitem" id="CP4_CR4_ctl00_1_ContentRepeater1_1_ctl00_1_CR2_1_WB_0">
+                    <div aria-labelledby="earlyVotingHeader" class="early-voting" role="region">
+                     <h2 id="earlyVotingHeader">
+                      Main Early Voting Location &amp; Hours
+                     </h2>
+                     <table class="simple-table" summary="Main Early voting location and address">
+                      <thead>
+                       <tr>
+                        <th scope="col">
+                         Location
+                        </th>
+                        <th scope="col">
+                         Address
+                        </th>
+                       </tr>
+                      </thead>
+                      <tbody>
+                       <tr>
+                        <td>
+                         Lockhart ISD- Adam’s Gym
+                        </td>
+                        <td>
+                         <a href="https://maps.app.goo.gl/D6yGZGQ7GLBswRK97" target="_blank">
+                          419 Bois D’Arc St, Lockhart, TX
+                         </a>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="2">
+                         Main Early Voting Location – Special forms of Early Voting will be conducted at this location. Limited and Emergency Ballots will ONLY be executed at this location.
+                        </td>
+                       </tr>
+                      </tbody>
+                     </table>
+                     <table class="simple-table" summary="Early voting hours for each day and date">
+                      <thead>
+                       <tr>
+                        <th scope="col">
+                         Day
+                        </th>
+                        <th scope="col">
+                         Date
+                        </th>
+                        <th scope="col">
+                         Hours
+                        </th>
+                       </tr>
+                      </thead>
+                      <tbody>
+                       <tr>
+                        <td>
+                         Monday
+                        </td>
+                        <td>
+                         April 20
+                        </td>
+                        <td>
+                         9:00 AM – 6:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Tuesday
+                        </td>
+                        <td>
+                         April 21
+                        </td>
+                        <td>
+                         Closed
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Wednesday
+                        </td>
+                        <td>
+                         April 22
+                        </td>
+                        <td>
+                         9:00 AM – 6:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Thursday
+                        </td>
+                        <td>
+                         April 23
+                        </td>
+                        <td>
+                         9:00 AM – 6:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Friday
+                        </td>
+                        <td>
+                         April 24
+                        </td>
+                        <td>
+                         9:00 AM – 6:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Saturday
+                        </td>
+                        <td>
+                         April 25
+                        </td>
+                        <td>
+                         9:00 AM – 6:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Sunday
+                        </td>
+                        <td>
+                         April 26
+                        </td>
+                        <td>
+                         Closed
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Monday
+                        </td>
+                        <td>
+                         April 27
+                        </td>
+                        <td>
+                         7:00 AM – 7:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Tuesday
+                        </td>
+                        <td>
+                         April 28
+                        </td>
+                        <td>
+                         7:00 AM – 7:00 PM
+                        </td>
+                       </tr>
+                      </tbody>
+                     </table>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div class="widgetitem" id="CP4_CR4_ctl00_1_ContentRepeater1_1_WB_2">
+                <div class="eztext_area">
+                 <p>
+                  <span>
+                   Reminder:
+                  </span>
+                 </p>
+                 <ul>
+                  <li>
+                   <span>
+                    <span>
+                    </span>
+                    <strong data-end="32" data-start="2">
+                     First Day of Early Voting:
+                    </strong>
+                   </span>
+                   <ul>
+                    <li>
+                     <span>
+                      <strong data-end="32" data-start="2">
+                      </strong>
+                      <span>
+                       <strong>
+                        Monday, April 20, 2026
+                       </strong>
+                      </span>
+                     </span>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <span>
+                    <span>
+                    </span>
+                    <strong data-end="80" data-start="60">
+                     No Early Voting:
+                    </strong>
+                   </span>
+                   <ul>
+                    <li>
+                     <span>
+                      <strong data-end="80" data-start="60">
+                      </strong>
+                      <span>
+                       Tuesday, April 21, 2026 (San Jacinto Day )
+                      </span>
+                     </span>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <span>
+                    <span>
+                    </span>
+                    <strong data-end="172" data-start="143">
+                     Last Day of Early Voting:
+                    </strong>
+                   </span>
+                   <ul>
+                    <li>
+                     <span>
+                      <strong data-end="172" data-start="143">
+                      </strong>
+                      <span>
+                       Tuesday, April 28, 2026
+                      </span>
+                     </span>
+                    </li>
+                   </ul>
+                  </li>
+                  <li>
+                   <span>
+                    <span>
+                    </span>
+                    <strong data-end="238" data-start="201">
+                     Election Day (Final Day to Vote in May 2nd Election):
+                    </strong>
+                   </span>
+                   <ul>
+                    <li>
+                     <span>
+                      <strong data-end="238" data-start="201">
+                      </strong>
+                      <span>
+                       Saturday, May 2, 2026
+                      </span>
+                     </span>
+                    </li>
+                   </ul>
+                  </li>
+                 </ul>
+                </div>
+               </div>
+              </div>
+             </div>
+            </li>
+           </ul>
+           <p aria-live="polite" class="sr-only" id="announce">
+           </p>
+           <p class="sr-only" id="instructions">
+            Press the enter key or spacebar to expand or collapse the accordion
+           </p>
+          </div>
+         </div>
+         <div class="widgetitem" id="CP4_CR4_WB_2">
+          <div class="eztoggleWrapper">
+           <ul class="accordion css-accordion">
+            <li class="accordion-item">
+             <button aria-describedby="instructions" class="accordion-item-input accordion-item-hd" id="CP4_CR4_ctl00_2_chkToggle_2" name="accordion" type="button">
+              <span id="CP4_CR4_ctl00_2_lblTitle_2">
+               <h6>
+                <span class="accordion-title">
+                 Primary Runoff Election - May 26, 2026 (Click to View)
+                </span>
+               </h6>
+              </span>
+              <span aria-hidden="true" class="accordion-item-hd-cta">
+               ▲
+              </span>
+             </button>
+             <div class="accordion-item-bd">
+              <div class="widgettable">
+               <div class="widgetitem" id="CP4_CR4_ctl00_2_ContentRepeater1_2_WB_0">
+                <div class="eztext_area">
+                 <p>
+                  <span class="Heading2underline">
+                   Early Voting Locations
+                  </span>
+                  <span>
+                   <strong>
+                    Monday, May 18, 2026 - Friday, May 22, 2026
+                   </strong>
+                  </span>
+                 </p>
+                </div>
+               </div>
+               <div class="widgetitem" id="CP4_CR4_ctl00_2_ContentRepeater1_2_WB_1">
+                <div class="ezlayout2">
+                 <div class="ezlayout2Col1" id="CP4_CR4_ctl00_2_ContentRepeater1_2_ctl00_1_ezCol1_1">
+                  <div class="widgettable">
+                   <div class="widgetitem" id="CP4_CR4_ctl00_2_ContentRepeater1_2_ctl00_1_CR1_1_WB_0">
                     <div aria-labelledby="earlyVotingHeader" class="early-voting" role="region">
                      <h2 id="earlyVotingHeader">
                       Branch Early Voting Locations &amp; Hours
@@ -993,9 +1544,9 @@
                    </div>
                   </div>
                  </div>
-                 <div class="ezlayout2Col2" id="CP4_CR4_ctl00_1_ContentRepeater1_1_ctl00_1_ezCol2_1">
+                 <div class="ezlayout2Col2" id="CP4_CR4_ctl00_2_ContentRepeater1_2_ctl00_1_ezCol2_1">
                   <div class="widgettable">
-                   <div class="widgetitem" id="CP4_CR4_ctl00_1_ContentRepeater1_1_ctl00_1_CR2_1_WB_0">
+                   <div class="widgetitem" id="CP4_CR4_ctl00_2_ContentRepeater1_2_ctl00_1_CR2_1_WB_0">
                     <div aria-labelledby="earlyVotingHeader" class="early-voting" role="region">
                      <h2 id="earlyVotingHeader">
                       Main Early Voting Location &amp; Hours
@@ -1107,7 +1658,7 @@
                  </div>
                 </div>
                </div>
-               <div class="widgetitem" id="CP4_CR4_ctl00_1_ContentRepeater1_1_WB_2">
+               <div class="widgetitem" id="CP4_CR4_ctl00_2_ContentRepeater1_2_WB_2">
                 <div class="eztext_area">
                  <p>
                   <span>
@@ -1206,12 +1757,12 @@
            </p>
           </div>
          </div>
-         <div class="widgetitem" id="CP4_CR4_WB_2">
+         <div class="widgetitem" id="CP4_CR4_WB_3">
           <div class="eztoggleWrapper">
            <ul class="accordion css-accordion">
             <li class="accordion-item">
-             <button aria-describedby="instructions" class="accordion-item-input accordion-item-hd" id="CP4_CR4_ctl00_2_chkToggle_2" name="accordion" type="button">
-              <span id="CP4_CR4_ctl00_2_lblTitle_2">
+             <button aria-describedby="instructions" class="accordion-item-input accordion-item-hd" id="CP4_CR4_ctl00_3_chkToggle_3" name="accordion" type="button">
+              <span id="CP4_CR4_ctl00_3_lblTitle_3">
                <h6>
                 <span class="accordion-title">
                  General Election - November 3, 2026 (Click to View)
@@ -1224,6 +1775,439 @@
              </button>
              <div class="accordion-item-bd">
               <div class="widgettable">
+               <div class="widgetitem" id="CP4_CR4_ctl00_3_ContentRepeater1_3_WB_0">
+                <div class="ezlayout2">
+                 <div class="ezlayout2Col1" id="CP4_CR4_ctl00_3_ContentRepeater1_3_ctl00_0_ezCol1_0">
+                  <div class="widgettable">
+                   <div class="widgetitem" id="CP4_CR4_ctl00_3_ContentRepeater1_3_ctl00_0_CR1_0_WB_0">
+                    <div aria-labelledby="earlyVotingHeader" class="early-voting" role="region">
+                     <h2 id="earlyVotingHeader">
+                      Branch Early Voting Locations &amp; Hours
+                     </h2>
+                     <table class="simple-table" summary="Early voting branch locations and addresses">
+                      <thead>
+                       <tr>
+                        <th scope="col">
+                         Location
+                        </th>
+                        <th scope="col">
+                         Address
+                        </th>
+                       </tr>
+                      </thead>
+                      <tbody>
+                       <tr>
+                        <td>
+                         Three Rivers Community Church
+                        </td>
+                        <td>
+                         <a href="https://www.google.com/maps/search/?api=1&amp;query=103+Main+St%2C+Martindale%2C+TX" target="_blank">
+                          103 Main St, Martindale, TX
+                         </a>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Luling Civic Center
+                        </td>
+                        <td>
+                         <a href="https://www.google.com/maps/search/?api=1&amp;query=333+E.+Austin+St%2C+Luling%2C+TX" target="_blank">
+                          333 E. Austin St, Luling, TX
+                         </a>
+                        </td>
+                       </tr>
+                      </tbody>
+                     </table>
+                     <table class="simple-table" summary="Early voting hours for each day and date">
+                      <thead>
+                       <tr>
+                        <th scope="col">
+                         Day
+                        </th>
+                        <th scope="col">
+                         Date
+                        </th>
+                        <th scope="col">
+                         Hours
+                        </th>
+                       </tr>
+                      </thead>
+                      <tbody>
+                       <tr>
+                        <td>
+                         Monday
+                        </td>
+                        <td>
+                         October 19
+                        </td>
+                        <td>
+                         09:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Tuesday
+                        </td>
+                        <td>
+                         October 20
+                        </td>
+                        <td>
+                         09:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Wednesday
+                        </td>
+                        <td>
+                         October 21
+                        </td>
+                        <td>
+                         09:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Thursday
+                        </td>
+                        <td>
+                         October 22
+                        </td>
+                        <td>
+                         09:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Friday
+                        </td>
+                        <td>
+                         October 23
+                        </td>
+                        <td>
+                         09:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Saturday
+                        </td>
+                        <td>
+                         October 24
+                        </td>
+                        <td>
+                         09:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Sunday
+                        </td>
+                        <td>
+                         October 25
+                        </td>
+                        <td>
+                         09:00 AM – 03:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Monday
+                        </td>
+                        <td>
+                         October 26
+                        </td>
+                        <td>
+                         09:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Tuesday
+                        </td>
+                        <td>
+                         October 27
+                        </td>
+                        <td>
+                         09:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Wednesday
+                        </td>
+                        <td>
+                         October 28
+                        </td>
+                        <td>
+                         09:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Thursday
+                        </td>
+                        <td>
+                         October 29
+                        </td>
+                        <td>
+                         07:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Friday
+                        </td>
+                        <td>
+                         October 30
+                        </td>
+                        <td>
+                         07:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                      </tbody>
+                     </table>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="ezlayout2Col2" id="CP4_CR4_ctl00_3_ContentRepeater1_3_ctl00_0_ezCol2_0">
+                  <div class="widgettable">
+                   <div class="widgetitem" id="CP4_CR4_ctl00_3_ContentRepeater1_3_ctl00_0_CR2_0_WB_0">
+                    <div aria-labelledby="earlyVotingHeader" class="early-voting" role="region">
+                     <h2 id="earlyVotingHeader">
+                      Main Early Voting Location &amp; Hours
+                     </h2>
+                     <table class="simple-table" summary="Main Early voting location and address">
+                      <thead>
+                       <tr>
+                        <th scope="col">
+                         Location
+                        </th>
+                        <th scope="col">
+                         Address
+                        </th>
+                       </tr>
+                      </thead>
+                      <tbody>
+                       <tr>
+                        <td>
+                         Lockhart ISD- Adam’s Gym
+                        </td>
+                        <td>
+                         <a href="https://maps.app.goo.gl/YzTfSSpc1tfSwcKi9" target="_blank">
+                          419 Bois D’Arc St, Lockhart, TX
+                         </a>
+                        </td>
+                       </tr>
+                       <tr>
+                        <td colspan="2">
+                         Main Early Voting Location – Special forms of Early Voting will be conducted at this location. Limited and Emergency Ballots will ONLY be executed at this location.
+                        </td>
+                       </tr>
+                      </tbody>
+                     </table>
+                     <table class="simple-table" summary="Early voting hours for each day and date">
+                      <thead>
+                       <tr>
+                        <th scope="col">
+                         Day
+                        </th>
+                        <th scope="col">
+                         Date
+                        </th>
+                        <th scope="col">
+                         Hours
+                        </th>
+                       </tr>
+                      </thead>
+                      <tbody>
+                       <tr>
+                        <td>
+                         Monday
+                        </td>
+                        <td>
+                         October 19
+                        </td>
+                        <td>
+                         08:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Tuesday
+                        </td>
+                        <td>
+                         October 20
+                        </td>
+                        <td>
+                         08:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Wednesday
+                        </td>
+                        <td>
+                         October 21
+                        </td>
+                        <td>
+                         08:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Thursday
+                        </td>
+                        <td>
+                         October 22
+                        </td>
+                        <td>
+                         08:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Friday
+                        </td>
+                        <td>
+                         October 23
+                        </td>
+                        <td>
+                         08:00 AM – 06:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Saturday
+                        </td>
+                        <td>
+                         October 24
+                        </td>
+                        <td>
+                         07:00 AM – 07:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Sunday
+                        </td>
+                        <td>
+                         October 25
+                        </td>
+                        <td>
+                         09:00 AM – 03:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Monday
+                        </td>
+                        <td>
+                         October 26
+                        </td>
+                        <td>
+                         07:00 AM – 07:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Tuesday
+                        </td>
+                        <td>
+                         October 27
+                        </td>
+                        <td>
+                         07:00 AM – 07:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Wednesday
+                        </td>
+                        <td>
+                         October 28
+                        </td>
+                        <td>
+                         07:00 AM – 07:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Thursday
+                        </td>
+                        <td>
+                         October 29
+                        </td>
+                        <td>
+                         07:00 AM – 07:00 PM
+                        </td>
+                       </tr>
+                       <tr>
+                        <td>
+                         Friday
+                        </td>
+                        <td>
+                         October 30
+                        </td>
+                        <td>
+                         07:00 AM – 07:00 PM
+                        </td>
+                       </tr>
+                      </tbody>
+                     </table>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+               <div class="widgetitem" id="CP4_CR4_ctl00_3_ContentRepeater1_3_WB_1">
+                <div class="eztext_area">
+                 <strong>
+                  <span>
+                   Printable Version of Early Voting Schedule &amp; Locations
+                  </span>
+                 </strong>
+                 <span>
+                  (click file below)
+                 </span>
+                </div>
+               </div>
+               <div class="widgetitem" id="CP4_CR4_ctl00_3_ContentRepeater1_3_WB_2">
+                <div class="DocumentManager" id="CP4_CR4_ctl00_3_ContentRepeater1_3_ctl00_2_divDoc_2">
+                 <div class="RadTreeView RadTreeView_Metro" id="ctl00_CP4_CR4_ctl03_ctl00_ContentRepeater1_ctl02_ctl00_RadTreeView1">
+                  <ul class="rtUL rtLines">
+                   <li class="rtLI rtFirst rtLast">
+                    <div class="rtTop">
+                     <span class="rtSp">
+                     </span>
+                     <img alt="" class="rtImg" src="/runtime/images/ico_pdf.png"/>
+                     <a class="rtIn" href="/page/open/6187/0/Early%20Voting%20Polling%20Locations%20Caldwell%20County_2026%20November%203.pdf" target="_blank">
+                      Early Voting Polling Locations Caldwell County_2026 November 3.pdf
+                     </a>
+                    </div>
+                   </li>
+                  </ul>
+                  <div id="ctl00_CP4_CR4_ctl03_ctl00_ContentRepeater1_ctl02_ctl00_RadTreeView1_RadTreeView1Menu" tabindex="0">
+                   <div class="RadMenu RadMenu_Metro RadMenu_Context RadMenu_Metro_Context">
+                    <ul class="rmActive rmVertical rmGroup rmLevel1">
+                     <li class="rmItem rmFirst rmLast">
+                      <a class="rmLink DocumentManagerDownloadImg" href="#">
+                       <img alt="" class="rmLeftImage" src="/runtime/images/ico_dwnload.png"/>
+                       <span class="rmText">
+                        Download file
+                       </span>
+                      </a>
+                     </li>
+                    </ul>
+                   </div>
+                   <input id="ctl00_CP4_CR4_ctl03_ctl00_ContentRepeater1_ctl02_ctl00_RadTreeView1_RadTreeView1Menu_ClientState" name="ctl00_CP4_CR4_ctl03_ctl00_ContentRepeater1_ctl02_ctl00_RadTreeView1_RadTreeView1Menu_ClientState" type="hidden"/>
+                  </div>
+                  <input id="ctl00_CP4_CR4_ctl03_ctl00_ContentRepeater1_ctl02_ctl00_RadTreeView1_ClientState" name="ctl00_CP4_CR4_ctl03_ctl00_ContentRepeater1_ctl02_ctl00_RadTreeView1_ClientState" type="hidden"/>
+                 </div>
+                </div>
+               </div>
               </div>
              </div>
             </li>
@@ -1235,7 +2219,7 @@
            </p>
           </div>
          </div>
-         <div class="widgetitem" id="CP4_CR4_WB_3">
+         <div class="widgetitem" id="CP4_CR4_WB_4">
           <div class="eztext_area">
            <hr/>
            <p>
@@ -1257,19 +2241,19 @@
            </p>
           </div>
          </div>
-         <div class="widgetitem" id="CP4_CR4_WB_4">
+         <div class="widgetitem" id="CP4_CR4_WB_5">
           <div class="ezlayout2">
-           <div class="ezlayout2Col1" id="CP4_CR4_ctl00_4_ezCol1_4">
+           <div class="ezlayout2Col1" id="CP4_CR4_ctl00_5_ezCol1_5">
             <div class="widgettable">
             </div>
            </div>
-           <div class="ezlayout2Col2" id="CP4_CR4_ctl00_4_ezCol2_4">
+           <div class="ezlayout2Col2" id="CP4_CR4_ctl00_5_ezCol2_5">
             <div class="widgettable">
             </div>
            </div>
           </div>
          </div>
-         <div class="widgetitem" id="CP4_CR4_WB_5">
+         <div class="widgetitem" id="CP4_CR4_WB_6">
           <div class="eztext_area">
            <p>
             <span class="Heading2underline">
@@ -1278,112 +2262,112 @@
            </p>
           </div>
          </div>
-         <div class="widgetitem" id="CP4_CR4_WB_6">
+         <div class="widgetitem" id="CP4_CR4_WB_7">
           <div class="ezlayout3">
-           <div class="ezlayout3Col1" id="CP4_CR4_ctl00_6_ezCol1_6">
+           <div class="ezlayout3Col1" id="CP4_CR4_ctl00_7_ezCol1_7">
             <div class="widgettable">
-             <div class="widgetitem" id="CP4_CR4_ctl00_6_CR1_6_WB_0">
+             <div class="widgetitem" id="CP4_CR4_ctl00_7_CR1_7_WB_0">
               <div class="ezlayout2">
                <div class="widgettable">
-                <div class="widgetitem" id="CP4_CR4_ctl00_6_CR1_6_ctl00_0_CR1_0_WB_0">
-                 <div class="RadMediaPlayer RadMediaPlayer_Metro" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1">
+                <div class="widgetitem" id="CP4_CR4_ctl00_7_CR1_7_ctl00_0_CR1_0_WB_0">
+                 <div class="RadMediaPlayer RadMediaPlayer_Metro" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1">
                   <div class="rmpSubtitles">
                    <span class="rmpSubtitlesInner">
                    </span>
                   </div>
-                  <div class="rmpOverlay" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Overlay">
+                  <div class="rmpOverlay" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Overlay">
                   </div>
-                  <button class="rmpActionButton rmpBigPlayButton" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_PlayButtonCenter" title="Play" type="button">
+                  <button class="rmpActionButton rmpBigPlayButton" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_PlayButtonCenter" title="Play" type="button">
                    <span class="rmpIcon rmpBigPlayIcon">
                    </span>
                   </button>
-                  <div class="rmpToolbarWrapper" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_Wrapper">
+                  <div class="rmpToolbarWrapper" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_Wrapper">
                    <div class="rmpToolbar">
                     <div class="rmpLeftControlsSet">
-                     <button class="rmpActionButton rmpPlayButton" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_PlayButton" title="Play" type="button">
+                     <button class="rmpActionButton rmpPlayButton" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_PlayButton" title="Play" type="button">
                       <span class="rmpIcon rmpPlayIcon">
                       </span>
                      </button>
                     </div>
                     <div class="rmpSeekBar">
-                     <div class="RadSlider RadSlider_Metro" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail">
-                      <div class="rslHorizontal" id="RadSliderWrapper_ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail">
-                       <div class="rslTrack" id="RadSliderTrack_ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail">
-                        <div class="rslSelectedregion" id="RadSliderSelected_ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail">
+                     <div class="RadSlider RadSlider_Metro" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail">
+                      <div class="rslHorizontal" id="RadSliderWrapper_ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail">
+                       <div class="rslTrack" id="RadSliderTrack_ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail">
+                        <div class="rslSelectedregion" id="RadSliderSelected_ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail">
                         </div>
-                        <a class="rslDraghandle" href="#" id="RadSliderDrag_ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail" title="Drag">
+                        <a class="rslDraghandle" href="#" id="RadSliderDrag_ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail" title="Drag">
                          <span>
                           Drag
                          </span>
                         </a>
                        </div>
                       </div>
-                      <input id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail_ClientState" name="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail_ClientState" type="hidden"/>
+                      <input id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail_ClientState" name="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_ProgressRail_ClientState" type="hidden"/>
                      </div>
                     </div>
                     <div class="rmpRightControlsSet">
                      <span class="rmpProgressText">
-                      <span class="rmpCurrentTime" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_CurrentTimeDisplay">
+                      <span class="rmpCurrentTime" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_CurrentTimeDisplay">
                        0:00
                       </span>
                       /
-                      <span class="rmpDurationTime" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_DurationDisplay">
+                      <span class="rmpDurationTime" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_DurationDisplay">
                        0:00
                       </span>
                      </span>
                      <div class="rmpVolContr">
-                      <button class="rmpActionButton rmpVolumeButton" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControlButton" title="Mute" type="button">
+                      <button class="rmpActionButton rmpVolumeButton" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControlButton" title="Mute" type="button">
                        <span class="rmpIcon rmpVolumeIcon">
                        </span>
                       </button>
                       <div class="rmpVolContrBar">
-                       <div class="RadSlider RadSlider_Metro" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl">
-                        <div class="rslVertical" id="RadSliderWrapper_ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl">
-                         <div class="rslTrack" id="RadSliderTrack_ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl">
-                          <div class="rslSelectedregion" id="RadSliderSelected_ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl">
+                       <div class="RadSlider RadSlider_Metro" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl">
+                        <div class="rslVertical" id="RadSliderWrapper_ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl">
+                         <div class="rslTrack" id="RadSliderTrack_ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl">
+                          <div class="rslSelectedregion" id="RadSliderSelected_ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl">
                           </div>
-                          <a class="rslDraghandle" href="#" id="RadSliderDrag_ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl" title="Drag">
+                          <a class="rslDraghandle" href="#" id="RadSliderDrag_ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl" title="Drag">
                            <span>
                             Drag
                            </span>
                           </a>
                          </div>
                         </div>
-                        <input id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl_ClientState" name="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl_ClientState" type="hidden"/>
+                        <input id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl_ClientState" name="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_VolumeControl_ClientState" type="hidden"/>
                        </div>
                       </div>
                      </div>
-                     <button class="rmpActionButton rmpSubtitlesButton" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_SubtitlesButton" title="Subtitles" type="button">
+                     <button class="rmpActionButton rmpSubtitlesButton" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_SubtitlesButton" title="Subtitles" type="button">
                       <span class="rmpIcon rmpSubtitlesIcon">
                       </span>
                      </button>
-                     <button class="rmpActionButton rmpHDButton" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_HDButton" title="HD" type="button">
+                     <button class="rmpActionButton rmpHDButton" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_HDButton" title="HD" type="button">
                       <span class="rmpIcon rmpHDIcon">
                       </span>
                      </button>
-                     <button class="rmpActionButton rmpFullScrButton" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_FSButton" title="Full Screen" type="button">
+                     <button class="rmpActionButton rmpFullScrButton" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Toolbar_FSButton" title="Full Screen" type="button">
                       <span class="rmpIcon rmpFullScrIcon">
                       </span>
                      </button>
                     </div>
                    </div>
                   </div>
-                  <div class="RadAjax RadAjax_Metro" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_LoadingIndicator">
+                  <div class="RadAjax RadAjax_Metro" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_LoadingIndicator">
                    <div class="raDiv">
                    </div>
                    <div class="raColor raTransp">
                    </div>
                   </div>
-                  <div class="rmpTitleBar" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Titlebar_Wrapper">
+                  <div class="rmpTitleBar" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Titlebar_Wrapper">
                    <span>
                    </span>
                    <div class="rmpButtSet">
-                    <button class="rmpActionButton rmpShareButton" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Titlebar_SocialButton" title="Share" type="button">
+                    <button class="rmpActionButton rmpShareButton" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Titlebar_SocialButton" title="Share" type="button">
                      <span class="rmpIcon rmpShareIcon">
                      </span>
                     </button>
                     <div class="rmpSocialShareBar">
-                     <div class="RadSocialShare RadSocialShare_Metro sshVerticalMode" id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Titlebar_SocialShare">
+                     <div class="RadSocialShare RadSocialShare_Metro sshVerticalMode" id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Titlebar_SocialShare">
                       <ul class="sshContent">
                        <li class="sshListItem">
                         <a class="sshLinkItem" href="javascript:void(0)" title="Share on ShareOnGooglePlus">
@@ -1464,12 +2448,12 @@
                         </a>
                        </li>
                       </ul>
-                      <input id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Titlebar_SocialShare_ClientState" name="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Titlebar_SocialShare_ClientState" type="hidden"/>
+                      <input id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Titlebar_SocialShare_ClientState" name="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_Titlebar_SocialShare_ClientState" type="hidden"/>
                      </div>
                     </div>
                    </div>
                   </div>
-                  <input id="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_ClientState" name="ctl00_CP4_CR4_ctl06_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_ClientState" type="hidden"/>
+                  <input id="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_ClientState" name="ctl00_CP4_CR4_ctl07_ctl00_CR1_ctl00_ctl00_CR1_ctl00_ctl00_RadMediaPlayer1_ClientState" type="hidden"/>
                  </div>
                 </div>
                </div>
@@ -1477,9 +2461,9 @@
              </div>
             </div>
            </div>
-           <div class="ezlayout3Col2" id="CP4_CR4_ctl00_6_ezCol2_6">
+           <div class="ezlayout3Col2" id="CP4_CR4_ctl00_7_ezCol2_7">
             <div class="widgettable">
-             <div class="widgetitem" id="CP4_CR4_ctl00_6_CR2_6_WB_0">
+             <div class="widgetitem" id="CP4_CR4_ctl00_7_CR2_7_WB_0">
               <div class="eztext_area">
                <p>
                 <span class="btn1">
@@ -1494,7 +2478,7 @@
                </p>
               </div>
              </div>
-             <div class="widgetitem" id="CP4_CR4_ctl00_6_CR2_6_WB_1">
+             <div class="widgetitem" id="CP4_CR4_ctl00_7_CR2_7_WB_1">
               <div class="eztext_area">
                <p>
                 <span class="btn1">
@@ -1509,7 +2493,7 @@
                </p>
               </div>
              </div>
-             <div class="widgetitem" id="CP4_CR4_ctl00_6_CR2_6_WB_2">
+             <div class="widgetitem" id="CP4_CR4_ctl00_7_CR2_7_WB_2">
               <div class="eztext_area">
                <p>
                 <span class="btn1">
@@ -1526,9 +2510,9 @@
              </div>
             </div>
            </div>
-           <div class="ezlayout3Col3" id="CP4_CR4_ctl00_6_ezCol3_6">
+           <div class="ezlayout3Col3" id="CP4_CR4_ctl00_7_ezCol3_7">
             <div class="widgettable">
-             <div class="widgetitem" id="CP4_CR4_ctl00_6_CR3_6_WB_0">
+             <div class="widgetitem" id="CP4_CR4_ctl00_7_CR3_7_WB_0">
               <div class="eztext_area">
                <p>
                 <span class="btn1">
@@ -1545,7 +2529,7 @@
                </div>
               </div>
              </div>
-             <div class="widgetitem" id="CP4_CR4_ctl00_6_CR3_6_WB_1">
+             <div class="widgetitem" id="CP4_CR4_ctl00_7_CR3_7_WB_1">
               <div class="eztext_area">
                <p>
                 <span class="btn1">
@@ -1560,7 +2544,7 @@
                </p>
               </div>
              </div>
-             <div class="widgetitem" id="CP4_CR4_ctl00_6_CR3_6_WB_2">
+             <div class="widgetitem" id="CP4_CR4_ctl00_7_CR3_7_WB_2">
               <div class="eztext_area">
                <p>
                 <span class="btn1">
@@ -1581,12 +2565,12 @@
            </div>
           </div>
          </div>
-         <div class="widgetitem" id="CP4_CR4_WB_7">
+         <div class="widgetitem" id="CP4_CR4_WB_8">
           <div class="eztoggleWrapper">
            <ul class="accordion css-accordion">
             <li class="accordion-item">
-             <button aria-describedby="instructions" class="accordion-item-input accordion-item-hd" id="CP4_CR4_ctl00_7_chkToggle_7" name="accordion" type="button">
-              <span id="CP4_CR4_ctl00_7_lblTitle_7">
+             <button aria-describedby="instructions" class="accordion-item-input accordion-item-hd" id="CP4_CR4_ctl00_8_chkToggle_8" name="accordion" type="button">
+              <span id="CP4_CR4_ctl00_8_lblTitle_8">
                What is a Limited/Provisional Ballot?
               </span>
               <span aria-hidden="true" class="accordion-item-hd-cta">
@@ -1595,16 +2579,16 @@
              </button>
              <div class="accordion-item-bd">
               <div class="widgettable">
-               <div class="widgetitem" id="CP4_CR4_ctl00_7_ContentRepeater1_7_WB_0">
-                <div class="eztabs" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_eztabs1_0">
+               <div class="widgetitem" id="CP4_CR4_ctl00_8_ContentRepeater1_8_WB_0">
+                <div class="eztabs" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_eztabs1_0">
                  <div class="eztabs__tabs__wrapper clearfix">
                   <ul class="eztabs__tabs clearfix" role="tablist">
-                   <li class="eztabs__tab eztabs__tab--active" data-id="1" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabHeader_0_liHeader_0" role="tab" tabindex="0">
+                   <li class="eztabs__tab eztabs__tab--active" data-id="1" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabHeader_0_liHeader_0" role="tab" tabindex="0">
                     <span class="eztabs__tab__inner">
                      Limited Ballot
                     </span>
                    </li>
-                   <li class="eztabs__tab" data-id="2" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabHeader_0_liHeader_1" role="tab" tabindex="0">
+                   <li class="eztabs__tab" data-id="2" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabHeader_0_liHeader_1" role="tab" tabindex="0">
                     <span class="eztabs__tab__inner">
                      Provisional Ballot
                     </span>
@@ -1612,14 +2596,14 @@
                   </ul>
                  </div>
                  <div class="eztabs__panels__wrapper">
-                  <div class="eztabs__panels eztabs__panels--visible" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabBody_0_divBody_0" role="tabpanel">
+                  <div class="eztabs__panels eztabs__panels--visible" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabBody_0_divBody_0" role="tabpanel">
                    <div class="eztabs__panels__inner clearfix">
                     <div class="widgettable">
-                     <div class="widgetitem" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabBody_0_tabRepeater_0_WB_0">
+                     <div class="widgetitem" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabBody_0_tabRepeater_0_WB_0">
                       <div class="ezlayout2">
-                       <div class="ezlayout2Col1" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabBody_0_tabRepeater_0_ctl00_0_ezCol1_0">
+                       <div class="ezlayout2Col1" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabBody_0_tabRepeater_0_ctl00_0_ezCol1_0">
                         <div class="widgettable">
-                         <div class="widgetitem" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabBody_0_tabRepeater_0_ctl00_0_CR1_0_WB_0">
+                         <div class="widgetitem" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabBody_0_tabRepeater_0_ctl00_0_CR1_0_WB_0">
                           <div class="eztext_area">
                            <p>
                             <strong>
@@ -1638,9 +2622,9 @@
                          </div>
                         </div>
                        </div>
-                       <div class="ezlayout2Col2" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabBody_0_tabRepeater_0_ctl00_0_ezCol2_0">
+                       <div class="ezlayout2Col2" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabBody_0_tabRepeater_0_ctl00_0_ezCol2_0">
                         <div class="widgettable">
-                         <div class="widgetitem" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabBody_0_tabRepeater_0_ctl00_0_CR2_0_WB_0">
+                         <div class="widgetitem" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabBody_0_tabRepeater_0_ctl00_0_CR2_0_WB_0">
                           <div class="eztext_area">
                            <p>
                             <span>
@@ -1691,14 +2675,14 @@
                     </div>
                    </div>
                   </div>
-                  <div class="eztabs__panels" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabBody_0_divBody_1" role="tabpanel">
+                  <div class="eztabs__panels" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabBody_0_divBody_1" role="tabpanel">
                    <div class="eztabs__panels__inner clearfix">
                     <div class="widgettable">
-                     <div class="widgetitem" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabBody_0_tabRepeater_1_WB_0">
+                     <div class="widgetitem" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabBody_0_tabRepeater_1_WB_0">
                       <div class="ezlayout2">
-                       <div class="ezlayout2Col1" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_ezCol1_0">
+                       <div class="ezlayout2Col1" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_ezCol1_0">
                         <div class="widgettable">
-                         <div class="widgetitem" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_CR1_0_WB_0">
+                         <div class="widgetitem" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_CR1_0_WB_0">
                           <div class="eztext_area">
                            <p>
                             The 2002 Help America Vote Act required that provisional ballots be offered to any voter that declares that they are a registered and eligible voter of the precinct in which they are appearing and any voter whose eligibility is called into question by an election official, e.g. shown to have voted early by mail.
@@ -1713,7 +2697,7 @@
                            </p>
                           </div>
                          </div>
-                         <div class="widgetitem" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_CR1_0_WB_1">
+                         <div class="widgetitem" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_CR1_0_WB_1">
                           <div class="eztext_area">
                            <p>
                             <strong>
@@ -1769,9 +2753,9 @@
                          </div>
                         </div>
                        </div>
-                       <div class="ezlayout2Col2" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_ezCol2_0">
+                       <div class="ezlayout2Col2" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_ezCol2_0">
                         <div class="widgettable">
-                         <div class="widgetitem" id="CP4_CR4_ctl00_7_ContentRepeater1_7_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_CR2_0_WB_0">
+                         <div class="widgetitem" id="CP4_CR4_ctl00_8_ContentRepeater1_8_ctl00_0_tabBody_0_tabRepeater_1_ctl00_0_CR2_0_WB_0">
                           <div class="eztext_area">
                            <p>
                             <strong>

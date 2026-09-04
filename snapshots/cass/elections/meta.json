@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-03T12:18:11Z",
-  "html_sha256": "9c403a47f17778e9e968ca596f2711cfcd60e5a8aceb108495e173364bc81953",
-  "text_sha256": "6d9f233e6f0e376eb18f55eb2532425a80f51c30ab999046ba79537beafaaa38",
-  "byte_size": 72922,
+  "fetched_at": "2026-09-04T12:18:47Z",
+  "html_sha256": "127fc542bbac22327f8c50c7e1ae698dc23cdf73109f92ad93f75d4b6aee31c8",
+  "text_sha256": "6ae93941dd53e4592e02a1a35a553bbad2994aa10d0110e041c60e01cd23e8fb",
+  "byte_size": 71307,
   "title": "Election Notices - Cass County",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-03T12:18:11Z",
-  "html_sha256": "9b82e2cae5ccb89b3f8bfd6c97799ebf8cb4af99a84dea120b1f27a98a5163b5",
-  "text_sha256": "3413c88c40818ae0eb6183d44e70831d0ca20c984b91178b5be4c0d0c8fe8ca1",
-  "byte_size": 51312,
+  "fetched_at": "2026-09-04T12:18:47Z",
+  "html_sha256": "1a6d975bca5e0a089700af6e79ae4358b8d3ac3b7322377cb24e0d140bc0868e",
+  "text_sha256": "7901bc0c3b279f73fcc5efcbb8d1038f5fb7724a2e042a08d5a649f88ade0572",
+  "byte_size": 47349,
   "title": "San Jacinto County, Texas",
   "error": null
 }

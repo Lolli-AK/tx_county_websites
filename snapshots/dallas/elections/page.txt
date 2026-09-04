@@ -224,7 +224,7 @@ December 12, 2026- Runoff Election (14)
 November 3, 2026 - General Election & Joint Election (12)
 Poll Worker Training (34)
 Volunteer Deputy Registrar Training (0)
-Voter Registration Events (10)
+Voter Registration Events (9)
 Event Type:
 All Events
 Community Outreach Events
@@ -415,11 +415,6 @@ Voter Registration Events
 »
 September
 2026
-September 3, 2026
-VRAM: Garland Government Center
-10:00 AM - 2:00 PM
-Garland Government Center
-voter-registration-events
 September 8, 2026
 VRAM: Garland Government Center
 10:00 AM - 2:00 PM
@@ -429,6 +424,86 @@ September 9, 2026
 VRAM: Garland Government Center
 10:00 AM - 2:00 PM
 Garland Government Center
+September 10, 2026
+VRAM: Garland Government Center
+10:00 AM - 2:00 PM
+Garland Government Center
+voter-registration-events
+September 15, 2026
+VRAM: Garland Government Center
+10:00 AM - 2:00 PM
+Garland Government Center
+voter-registration-events
+September 17, 2026
+VRAM: Garland Government Center
+10:00 AM - 2:00 PM
+Garland Government Center
+voter-registration-events
+September 19, 2026
+Deadline to mail ballots to Military and Overseas Voters
+november-3-2026-general-and-joint-election
+September 21, 2026
+VRAM: Garland Government Center
+10:00 AM - 2:00 PM
+Garland Government Center
+voter-registration-events
+September 22, 2026
+VRAM: Garland Government Center
+10:00 AM - 2:00 PM
+Garland Government Center
+voter-registration-events
+September 24, 2026
+VRAM: Garland Government Center
+10:00 AM - 2:00 PM
+Garland Government Center
+voter-registration-events
+September 28, 2026
+Early Voting Judge Training
+9:00 a.m. - 12:30 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
+VRAM: Garland Government Center
+10:00 AM - 2:00 PM
+Garland Government Center
+voter-registration-events
+Early Voting Judge Training
+2:30 p.m. - 6:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
+September 29, 2026
+Clerk Training
+8:00 a.m. - 11:00 a.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
+VRAM: Garland Government Center
+10:00 AM - 2:00 PM
+Garland Government Center
+voter-registration-events
+Clerk Training
+1:00 p.m. - 4:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
+Clerk Training
+6:00 p.m. - 9:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
+September 30, 2026
+Clerk Training
+8:00 a.m. - 11:00 a.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
+Clerk Training
+1:00 p.m. - 4:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
+Practice Makes Perfect
+2:00 p.m. - 4:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
+Clerk Training
+6:00 p.m. - 9:00 p.m.
+1520 Round Table Dr. Dallas, Texas 75247
+poll-worker-training
 View All
 GET INVOLVED
 Become a Pollworker
