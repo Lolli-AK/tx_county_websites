@@ -57,6 +57,8 @@ Early Voting Dates, Hours and Locations
 (Fechas, Horarios y Lugares de Votacion Anticipada)
 Election Day Voting Hours and Locations
 (Forarios y lugares de votacion el dia de las elecciones)
+Election Worker Public Training
+(Capacitacion Publica Para Trabajadores Electorales)
 Notice of General Election (
 Aviso La Eleccion
 ) - coming soon (
@@ -68,19 +70,12 @@ coming soon
 (
 muy pronto
 )
-Notice of County Election Board Meeting (
-Aviso de reunión de la Junta Electoral del Condado
-)
 Notice of Equipment Testing (
 Aviso de prueba de equipos
-) - coming soon
+) - coming soon
 (muy pronto)
-Election Worker Public Training
-(Capacitacion Publica Para Trabajadores Electorales)
--
-coming soon
-(
-muy pronto
+Notice of County Election Board Meeting (
+Aviso de reunión de la Junta Electoral del Condado
 )
 Early Voting Ballot Board and Central Counting Station (
 Junta de votacion anticipada y estacion central de escrutinio)

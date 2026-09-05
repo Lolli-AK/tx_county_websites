@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-04T12:18:47Z",
-  "html_sha256": "25cceb9549bfe99f597ff2571337f98d75dc79b63e0dfc25c666da0298e9141a",
-  "text_sha256": "c1ada1df7981d1bcd00b3e77eabe8878dcc3d5666afa19653c4a587054ec6e5e",
-  "byte_size": 47382,
+  "fetched_at": "2026-09-05T11:26:04Z",
+  "html_sha256": "5eb9683b05897711081e1d5a2e1e84a97bf1a61802ba6f8b977fd3bc9b062cc0",
+  "text_sha256": "0034beba805b42c8ce311199254c77b3c7aaf374c76d49b5cc40901449f6f989",
+  "byte_size": 47567,
   "title": "Early Voting | Guadalupe County, Texas",
   "error": null
 }

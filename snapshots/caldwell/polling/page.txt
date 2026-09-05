@@ -194,8 +194,17 @@ EVBB/SVC
 L&A
 State Notices
 November 2026 General Election Proclamation (PDF)
+November 2026 Ballot Certification (PDF)
+November 2026 Write In Ballot Certification (PDF)
 County Notices
 Caldwell County - Order of General Election
+(PDF)
+Caldwell County Early Voting & Election Day Locations
+(PDF)
+C
+aldwell County Early Voting Schedule & Locations
+(PDF)
+Caldwell County Election Day Locations
 (PDF)
 City District(s)
 City of Lockhart
@@ -209,7 +218,7 @@ Order of Election (PDF)
 Notice of Election (PDF) - TBD
 City of Mustang Ridge
 Order of Election (PDF)
-Notice of Election (PDF) - TBD
+Order of Cancellation (PDF) - TBD
 School District(s)
 Lockhart ISD
 Order of Election (PDF) - TBD
@@ -217,7 +226,7 @@ Notice of Election (PDF) - TBD
 College District(s)
 Austin Community College
 Order of Election (PDF)
-Notice of Election (PDF) - TBD
+Notice of Election (PDF)
 Emergency Service District(s)
 CC ESD No. 6
 Order of Election (PDF) - TBD
@@ -227,12 +236,11 @@ Misty Lane MUD No. 1
 Order of Election (PDF)
 Notice of Election (PDF) - TBD
 Chisolm MUD No. 1
-Order of Election (PDF) - TBD
-Notice of Election (PDF) - TBD
+Notice of Election
+(PDF)
 Special Utility District(s)
 Maxwell SUD
-Order of Election (PDF) - TBD
-Notice of Election (PDF) - TBD
+Cancellation of Election (PDF) - TBD
 Groundwater Conservation District(s)
 Barton Springs Edwards Aquifer Conservation District
 Order of Election (PDF) - TBD

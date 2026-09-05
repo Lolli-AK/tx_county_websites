@@ -10,10 +10,10 @@
   "content_type": "text/html",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-04T12:18:47Z",
-  "html_sha256": "24d5389a5168f1e294487a72da363b70b180840055f0a4da13e1f472043d6d43",
+  "fetched_at": "2026-09-05T11:26:04Z",
+  "html_sha256": "12b4f8d6f0645253b4bd50ae8900018239c7eede2b565a24e19a916dab211794",
   "text_sha256": "abf1b58508904fc1dc31de2320a429e6acb7837db7cb0390b19d804639622ceb",
-  "byte_size": 34085,
+  "byte_size": 34051,
   "title": "Wichita County | Wichita County",
   "error": null
 }

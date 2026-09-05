@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-04T12:18:47Z",
-  "html_sha256": "e7115ce1839f45d9917b52d2380403fa1809058222e536973cbc5cb3a2219844",
-  "text_sha256": "9adb06f6413bc2b2f6bdb8546cb58f54194dea9f2547bffb8ce893dcee1f7b02",
-  "byte_size": 65670,
+  "fetched_at": "2026-09-05T11:26:04Z",
+  "html_sha256": "6e4ef6a905d871c79e9b8073010f5e102a52018629eaaaaf471556fac5fb5052",
+  "text_sha256": "bb118747da88ddf805b5371a8979fb9eae16a43f47b09844cedee1570f664444",
+  "byte_size": 65221,
   "title": "Oldham County, Texas",
   "error": null
 }

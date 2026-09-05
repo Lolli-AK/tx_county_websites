@@ -250,6 +250,9 @@ Nixon-Smiley CISD- Order of Election
 County- Notice of Election
 Poth ISD- Notice of Election
 Falls City ISD- Notice of Election
+(
+español
+)
 Stockdale ISD- Notice of Election
 (
 español
@@ -942,6 +945,8 @@ Date Filed
 Type Report
 Henry "Hank" L. Whitman
 County Judge
+Sep. 4, 2026
+Final Report
 July 16, 2025
 July 15
 Jan 6, 2025
