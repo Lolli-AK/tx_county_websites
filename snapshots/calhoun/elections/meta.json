@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.calhouncotx.org/calhoun-county-elections/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-05T11:26:04Z",
-  "html_sha256": "bf0c1a4d202dc95e05d4c038d4a0fcef4ecd5e2a140563c63e0ff8e96ffd76bd",
-  "text_sha256": "a779d166505022e4be325c3a51827045731071d0d2db90df4380b4a7c5bd561a",
-  "byte_size": 25571,
-  "title": "CALHOUN COUNTY ELECTIONS - Calhoun County Texas",
-  "error": null
+  "fetched_at": "2026-09-06T11:47:00Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

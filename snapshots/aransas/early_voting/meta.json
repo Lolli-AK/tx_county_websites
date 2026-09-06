@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.aransascountytx.gov/electionadmin/voteelectinfo.php"
   ],
-  "http_status": 503,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-05T11:26:04Z",
-  "html_sha256": "2ee3620bca45570b4082d02e113fd7e6aa62b18b5e1e7712dce24a68f6f82b2b",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 278,
-  "title": null,
+  "fetched_at": "2026-09-06T11:47:00Z",
+  "html_sha256": "2de0b62672742aac84634fdb11d47c5326236827f4b2ef5587f1d843d0a11495",
+  "text_sha256": "d576d093006555bf31434b3cae3ec92a38406e0cb755457b2c5e4d0b11348a2a",
+  "byte_size": 33154,
+  "title": "Aransas County Elections",
   "error": null
 }

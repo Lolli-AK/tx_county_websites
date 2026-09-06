@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.cameroncountytx.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 403,
+  "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-05T11:26:04Z",
-  "html_sha256": "42d2e57bbb25620ce39a623e526e9e14c2e0f5d577b8f3eb0771893bc54cc73a",
-  "text_sha256": "7a7de592cd6aca33f99d766e8aa87bc2f6f6fb8d2626a08774b45295c0595bc1",
-  "byte_size": 89075,
-  "title": "Cameron County Homepage - Cameron County",
+  "fetched_at": "2026-09-06T11:47:00Z",
+  "html_sha256": "f61f87e9c4f3b9e940c05f22e0f220cbedb3ad2e026e61514f43c16b7882707f",
+  "text_sha256": "ee05182975f6b713970b32e9d81e15dc9332c614f1e0df9cdcad49a958f0b818",
+  "byte_size": 2784,
+  "title": "GoDaddy Security - Access Denied",
   "error": null
 }

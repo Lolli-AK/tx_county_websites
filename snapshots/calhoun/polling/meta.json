@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.calhouncotx.org/march-5-2026-primary-election-information/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-05T11:26:04Z",
-  "html_sha256": "3fa960512df7baf1bc26001c7f0937370793179dcd0da21008afeb61a0b23ce4",
-  "text_sha256": "b142b4547134f4ac55f7f4dfeef1987b3188c87c81c1984da9723fd9b23b57c5",
-  "byte_size": 11513,
-  "title": "March 5, 2026 Primary Election Information - Calhoun County Texas",
-  "error": null
+  "fetched_at": "2026-09-06T11:47:00Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

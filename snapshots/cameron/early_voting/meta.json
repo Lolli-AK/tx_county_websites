@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.cameroncountytx.gov/elections/index.php/locations/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 403,
+  "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-05T11:26:04Z",
-  "html_sha256": "cb98ef7a6e7d4c4339ce994928135a9d7d6ffc60732564dca7a81addc99186d2",
-  "text_sha256": "45124458fbe71ae11503d1cd12b69262668035bca39ae46a7f1dc71800647e3b",
-  "byte_size": 25045,
-  "title": "Locations - Cameron County",
+  "fetched_at": "2026-09-06T11:47:00Z",
+  "html_sha256": "256fdbdbddf3698a295c1b35e495f21ddb1f794c9d4d2ba03e4061708f843198",
+  "text_sha256": "5b82e3eac21f917379689b46baa020f1914c9a20734b4585b1250431171a96e4",
+  "byte_size": 2814,
+  "title": "GoDaddy Security - Access Denied",
   "error": null
 }

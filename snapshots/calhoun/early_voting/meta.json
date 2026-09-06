@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.calhouncotx.org/ccisd-election-early-voting-rosters/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-05T11:26:04Z",
-  "html_sha256": "f1c2a8f43ceaa65af20666e0c5c0e5781ab035dfcef38cb49fa3a8d90084a80d",
-  "text_sha256": "8c986cfaa2740eb2827fee9d49d91ef30d33ad2bf73c0f55beaa593340382c0b",
-  "byte_size": 10325,
-  "title": "CCISD ELECTION EARLY VOTING ROSTERS - Calhoun County Texas",
-  "error": null
+  "fetched_at": "2026-09-06T11:47:00Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

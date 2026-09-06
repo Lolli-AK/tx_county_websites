@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-05T11:26:04Z",
-  "html_sha256": "4153380d55ccf11e43ffd90643cbfc5031e7ab71e054cb5f4fbad86de5a31dfc",
-  "text_sha256": "3d86341864cd644bb49fc6fcf54d1a92f75f765d5a20c5e9462a55316862207a",
-  "byte_size": 72630,
+  "fetched_at": "2026-09-06T11:47:00Z",
+  "html_sha256": "6bd445f8c82653719c393b3aa2313b9f8d271670f0052a208a60e2bdff055b02",
+  "text_sha256": "fd96c7dbe6fea5b0cab37ec15297e9304fb5276024731097010b2a3edc0f294b",
+  "byte_size": 73806,
   "title": "Willacy County, Texas",
   "error": null
 }

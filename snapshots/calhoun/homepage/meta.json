@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.calhouncotx.org/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-05T11:26:04Z",
-  "html_sha256": "62aadb58f21a2922f63ad4b986c83082e4e2db9526078633d2fd62cedc0f7389",
-  "text_sha256": "a40e842ebabf35808e55765ecb7647ccc772c7e59eb34404ef6b744b4d5f133e",
-  "byte_size": 24848,
-  "title": "Quick Links - Calhoun County Texas",
-  "error": null
+  "fetched_at": "2026-09-06T11:47:00Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

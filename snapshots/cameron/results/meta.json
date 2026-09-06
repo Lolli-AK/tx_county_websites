@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://cameroncountytx.gov/elections/results/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 403,
+  "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-05T11:26:04Z",
-  "html_sha256": "7ceb338f18454bb729b124113225c9ba632052d3964a1d07ae9766f3af480b1f",
-  "text_sha256": "e9f8892d4893d0f4ecc4bec2760fee5e17e52c133ffd49f836bf2a012ac2e8ba",
-  "byte_size": 922138,
-  "title": "Results - Cameron County",
+  "fetched_at": "2026-09-06T11:47:00Z",
+  "html_sha256": "5f82fec9f3a400f19e1c2ac17f1ae3c2cfc5b188d0a3e7500d585d2baf0318c2",
+  "text_sha256": "ddca6b4c1aa379a33165ee442ca7db7ce58454dfcb427cac51122dc68382fb72",
+  "byte_size": 2798,
+  "title": "GoDaddy Security - Access Denied",
   "error": null
 }
