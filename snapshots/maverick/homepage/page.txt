@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-75°F
+81°F
 EN
 ES
 Government
@@ -48,14 +48,6 @@ Official website of Maverick County, Texas
 Events
 Upcoming events
 View all
-07
-SEP
-holiday
-Holiday
-Labor Day
-Monday, September 7, 2026
-All county offices closed
-All Maverick County offices will be closed in observance of this federal holiday.
 09
 SEP
 meeting
@@ -77,6 +69,14 @@ holiday
 Holiday
 Veterans Day
 Wednesday, November 11, 2026
+All county offices closed
+All Maverick County offices will be closed in observance of this federal holiday.
+26
+NOV
+holiday
+Holiday
+Thanksgiving Day
+Thursday, November 26, 2026
 All county offices closed
 All Maverick County offices will be closed in observance of this federal holiday.
 Quick access
@@ -165,7 +165,7 @@ Emergency Operations Center
 Sign Up for Emergency Alerts
 Get urgent Maverick County notifications by text, call or email: severe weather, evacuations, road closures and emergencies.
 Sign Up
-75°
+81°
 F
 Weather · Eagle Pass
 Clear

@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.cameroncountytx.gov/elections/"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-06T11:47:00Z",
-  "html_sha256": "f4514c8913a774634bdfba656025b1eaa18f10b6e386e8d68c2b259bf5b57dd8",
-  "text_sha256": "c935d00ea03e6a96641167cb2a284245b93057e178a54723357c8cbc9bfaa7d8",
-  "byte_size": 2794,
-  "title": "GoDaddy Security - Access Denied",
+  "fetched_at": "2026-09-07T13:44:14Z",
+  "html_sha256": "0bb7c18db6a056ab7bcb36490fb6ada9286f9dc9f63251109f42ed14b41c2da2",
+  "text_sha256": "685807bda0c70574db5ab532a8031de5b012245f45fc561749aaf4ff6a657077",
+  "byte_size": 67847,
+  "title": "Department of Elections Voter Registration - Cameron County",
   "error": null
 }
