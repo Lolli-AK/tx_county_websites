@@ -57,11 +57,6 @@ Read on...
 View All Events
 /Calendar.aspx
 Holidays
-Sep
-7
-Labor Day
-Labor Day
-Read on...
 Nov
 11
 Veteran's Day
@@ -71,6 +66,11 @@ Nov
 26
 Thanksgiving
 Thanksgiving
+Read on...
+Dec
+24
+Christmas Eve
+Christmas Eve
 Read on...
 View All Events
 /Calendar.aspx
