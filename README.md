@@ -66,13 +66,41 @@ resolves to `hctax.net/Voter/Registration` and Travis to
 `tax-office.traviscountytx.gov/voters`, which is genuinely where those counties
 put it.
 
+**Why this type needs four gates and the other five don't.** Its first 254-county
+sweep found 139 pages and about 66 of them were wrong. Link text and a URL are
+enough to *find* a candidate and never enough to *accept* one, because the word
+"register" is load-bearing in three other parts of a county's website:
+
+| gate | what it rejects | scale of the problem |
+|---|---|---|
+| negative weights | a county auditor's monthly **check register** — the list of cheques the county wrote — plus payroll and EFT registers, vendor registration, storm-shelter registries, reverse-911 sign-up | 25 counties were assigned an accounting page |
+| non-county hosts | `txapps.texas.gov` (the state's own application), `www.texas.gov`, advocacy and commercial explainers, Laserfiche/Acrobat document viewers | 14 counties shared one statewide URL |
+| the page's own prose | anything whose text, with every `<a>` removed, never discusses registering to vote | a county CMS repeats "Voter Registration" in the sidebar of *every* page, so a check register mentions it as often as the real page |
+| whose page it is | another county's registration page | Van Zandt was assigned Henderson County's; Starr got Harris County's tax office |
+
+Two of those are subtler than they look. The statewide hosts are matched **with
+their prefix** (`www.texas.gov`, not `texas.gov`) because the state domain also
+hosts real county sites — `hoodcounty.texas.gov`, `wheelercounty.texas.gov`. And
+the last gate cannot be a URL test: Harris County's own registrar really is
+`hctax.net`, which names neither the county nor its seat, and Starr County linked
+that very page. Only the prose separates them, because it says "Harris County" and
+never "Starr".
+
+Every one of those false positives scored 5–6 against a threshold of 12 and was
+accepted anyway, marked `weak-score`. For this page type a sub-threshold match is
+noise rather than something to review, which is why the gates reject instead of
+flag. The one exception is a page whose body is entirely links — Waller's
+"Quicklinks" page leaves 183 characters of address and copyright after the anchors
+come out — where an explicit `voter.registration` in the county's own URL path
+counts as the evidence. Bare "register" never does.
+
 Not every county has a distinct page for every type. Small rural counties often
 fold everything into one page or post PDFs (out of scope). **A missing target is
 expected data, not an error** — it's recorded as a gap in the manifest.
 
 ## Coverage
 
-**254 counties · 1,270 manifest rows · 756 pages captured · 514 recorded gaps.**
+**254 counties · 1,524 manifest rows · 830 pages captured · 694 recorded gaps.**
 
 How many counties have each page type:
 
@@ -80,29 +108,33 @@ How many counties have each page type:
 |---|---|---|---|---|---|---|
 | `homepage` | **254 / 254** | 24 | 100 | 130 | 0 | — every county has one |
 | `elections` | **250 / 254** | 23 | 98 | 129 | 22 | King publishes no HTML election pages at all; 3 others have no distinct page |
+| `voter_registration` | **74 / 254** | 16 | 24 | 34 | 17 | in most counties the Tax Assessor-Collector is the registrar and publishes only a PDF form — see below |
 | `polling` | **84 / 254** | 15 | 33 | 36 | 23 | usually folded into the elections page, or published only as a per-election PDF |
 | `early_voting` | **75 / 254** | 10 | 32 | 33 | 21 | same — vote-center counties often have no standalone EV page |
 | `results` | **93 / 254** | 16 | 30 | 47 | 32 | small counties post PDFs; metros use Clarity ENR portals (hence the high `external` count) |
 
-Per-county completeness — most counties are *not* 5/5, and that is the expected
+Per-county completeness — most counties are *not* 6/6, and that is the expected
 shape of Texas, not under-discovery:
 
 | pages captured | counties | typical profile |
 |---|---|---|
-| 5 / 5 | 50 | metros & large counties with a dedicated elections operation |
-| 4 / 5 | 32 | usually missing a standalone `early_voting` page |
-| 3 / 5 | 37 | mid-size counties |
-| 2 / 5 | **132** | rural — homepage + one elections page, everything else in PDFs |
-| 1 / 5 | 3 | homepage only (e.g. King County publishes nothing else as HTML) |
+| 6 / 6 | 37 | metros & large counties with a dedicated elections operation |
+| 5 / 6 | 27 | usually missing a standalone `early_voting` page |
+| 4 / 6 | 28 | mid-size counties |
+| 3 / 6 | 38 | mid-size counties without a registration page of their own |
+| 2 / 6 | **123** | rural — homepage + one elections page, everything else in PDFs |
+| 1 / 6 | 1 | homepage only (King County publishes nothing else as HTML) |
 
 Texas is mostly rural, so **captured pages grow sublinearly with county count**:
 going from 124 to 254 counties roughly doubled the counties but took captured pages
-from 381 to 756, because the added counties are overwhelmingly 2/5.
+from 381 to 756, because the added counties are overwhelmingly 2/6.
 
-The 514 gaps break down as: ~350 "no distinct page found" (folded into another
-page), ~95 "candidate is non-HTML" (PDF-only), ~20 where the homepage couldn't be
-crawled at discovery time, ~15 unreachable, and a tail of one-offs (an auth-walled SharePoint
-library, a county linking a national site through Google Translate). **Every gap row carries its
+The 694 gaps break down as: 511 "no distinct page found" (folded into another
+page), 116 non-HTML (PDF-only), 25 where the homepage couldn't be crawled at
+discovery time, 5 that resolved to a page already captured under a different type,
+and a tail of 37 one-offs (an auth-walled SharePoint library, a county linking a
+national site through Google Translate, a county whose only registration link is
+the state's own application). **Every gap row carries its
 reason in `notes`** — a gap is recorded data, not a failure.
 
 ## What it stores (per captured page)
@@ -173,14 +205,14 @@ distinct blobs and the sweep takes under four seconds.
 
 One directory per county, one subdirectory per page type, three files in each.
 **A gap creates no directory** — so a county's tree shows at a glance what it
-publishes. Current tree: **254 county dirs → 756 page dirs → 2,268 files**.
+publishes. Current tree: **254 county dirs → 830 page dirs → 2,490 files**.
 
 ```
 tx-county-watch/
 ├── manifest/
 │   ├── counties.csv                 ← seed of truth: 254 counties (county, seat,
 │   │                                   batch, homepage)
-│   └── targets.csv                  ← what the pipeline reads: 1,270 rows
+│   └── targets.csv                  ← what the pipeline reads: 1,524 rows
 │                                      (county, batch, page_type, url, external,
 │                                       notes + 6 audit columns)
 └── snapshots/                       ← overwritten in place every run; history is in git
@@ -336,7 +368,7 @@ git add -A && git commit -m baseline
 git diff --stat -- '*page.html' '*page.txt'   # <- expect empty
 ```
 
-**Status at 254 counties (756 fetched targets).** Systematic volatility is handled —
+**Status at 254 counties (830 fetched targets).** Systematic volatility is handled —
 about two dozen distinct classes of it were found and fixed by running this test
 repeatedly and chasing every diff (see the normalization list above). Scaling from
 124 to 254 counties surfaced three more — a Wix publish counter, `pbckid<hex>`
@@ -395,7 +427,7 @@ Two CSVs, and **no code changes** are ever needed to add, remove or correct a co
 | `homepage` | filled for batch 1; blank for batches 2/3, which discover it |
 
 **`manifest/targets.csv`** — what the pipeline actually reads. One row per
-(county × page type), so 5 rows per county. Columns are documented in
+(county × page type), so 6 rows per county. Columns are documented in
 [Verifying / auditing the manifest](#verifying--auditing-the-manifest); the audit
 columns (`verify_status` … `flag_for_review`) are written by `audit_targets.py`
 and ignored by the pipeline.
@@ -566,7 +598,7 @@ map/lookup apps that have no verifiable text, or blocked pages).
 
 ## Running at 254-county scale
 
-A full run touches **756 targets** and, counting retries and headless escalations,
+A full run touches **830 targets** and, counting retries and headless escalations,
 makes well over a thousand requests against small county servers. Three things make
 that sustainable:
 
@@ -599,7 +631,7 @@ Timings and storage, measured:
 
 | | 124 counties | 254 counties |
 |---|---|---|
-| targets captured | 381 | **756** |
+| targets captured | 381 | **830** |
 | run time (Actions, serial) | ~10.5 min | ~22 min projected |
 | run time (8 plain workers) | — | substantially lower; headless is the floor |
 | growth per run | ~0.1 MB | ~0.2–0.9 MB |
@@ -690,8 +722,9 @@ afterwards. No code change. `config.json` documents the crons and the fetch knob
 tx-county-watch/
   manifest/
     counties.csv             # seed of truth: 254 counties (county, seat, batch, homepage)
-    targets.csv              # THE manifest: 254 counties x 5 page types = 1,270 rows
+    targets.csv              # THE manifest: 254 counties x 6 page types = 1,524 rows
     audit-report.md          # broken + flagged rows from the last audit
+    voter_registration_draft.csv # Phase 1 (6th page type) intermediate: one row per county
     batch2_homepages.csv     # Phase 1 (batch 2) intermediate: discovered homepages
     batch2_targets_draft.csv # Phase 1 (batch 2) intermediate: discovered election pages
   snapshots/<county>/<page_type>/{page.html,page.txt,meta.json}
