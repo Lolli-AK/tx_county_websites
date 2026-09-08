@@ -122,6 +122,21 @@ PATTERNS: dict[str, list[tuple[str, int]]] = {
         ("polling", -10), ("result", -10), ("faq", -10),
         ("voter lookup", -8), ("check your registration", -14),
         ("registration status", -14), ("am i registered", -12),
+        # The county-accounting trap, and the biggest single source of false
+        # positives in the first 254-county sweep. A Texas county auditor
+        # publishes a monthly "check register" -- the list of cheques the county
+        # wrote -- and a "payroll summary register" and an "EFT register". They
+        # share exactly one word with voter registration, and on that one word
+        # twenty-five counties were assigned an accounting page.
+        ("check register", -20), ("check reg", -18), ("eft register", -20),
+        ("payroll", -18), ("vendor registration", -20),
+        ("accounts payable", -18), ("financial report", -14),
+        # Sign-up forms for things that are not voting. Same single-word match:
+        # reverse-911 alerts, storm-shelter location registries, Code Red.
+        ("emergency alert", -20), ("emergency notification", -20),
+        ("storm shelter", -20), ("code red", -18), ("reverse 9", -18),
+        # An awareness day is a news item, not the county's registration page.
+        ("national voter registration", -14),
     ],
     "results": [
         ("election result", 13), ("election returns", 11),
@@ -190,6 +205,24 @@ GENERIC_PORTAL_HINTS = (
     # Session-ID mapping viewer: the URL embeds a volatile SessID, so it could
     # never produce a stable, diffable snapshot.
     "logis-us.net",
+    # Statewide registration applications. These are the pages a county links
+    # when it has none of its own, so they are a GAP finding, not a target: the
+    # identical URL was picked for fourteen counties. Matched with the "www."
+    # attached on purpose -- a bare "texas.gov" would also reject the perfectly
+    # legitimate county hosts hoodcounty.texas.gov and wheelercounty.texas.gov.
+    "txapps.texas.gov", "www.texas.gov", "texasonline.state.tx.us",
+    # Advocacy and commercial sites that rank on registration vocabulary.
+    # nationalvoterregistrationday.org and a bestcolleges.com "voting by state"
+    # explainer were each picked for several counties.
+    "nationalvoterregistrationday.org", "lwvhillcountrytexas.org",
+    "bestcolleges.com",
+    # Not voting at all: Smart911 is a reverse-911 signup whose URL is literally
+    # /ref/reg.action, so it matches "reg" and nothing else.
+    "smart911.com",
+    # Document viewers. These serve HTML, so a content-type check passes them,
+    # but what they are wrapping is a scanned form -- out of scope for the same
+    # reason PDFs are.
+    "acrobat.adobe.com", "portal.laserfiche.com", "jotform",
     # Translation proxies. Never a valid target in themselves, AND they launder
     # every other entry in this list: Live Oak's elections link pointed at
     # "www-vote411-org.translate.goog", i.e. vote411.org with dots swapped for
@@ -253,12 +286,23 @@ _ANCHOR_RE = re.compile(r"<a\s[^>]*href=", re.I)
 _HEADLESS_LOCK = threading.Lock()
 
 
-def fetch(url: str, allow_headless: bool = True) -> dict:
+def fetch(url: str, allow_headless: bool = True,
+          require_links: bool = True) -> dict:
+    """Fetch a page, escalating to Chromium when the plain result is unusable.
+
+    `require_links` says whether this fetch is being made to CRAWL the page or
+    merely to CHECK it. A page with almost no anchors is a JS shell when you
+    wanted its nav, but it is perfectly normal when you are confirming that a
+    leaf target exists and is HTML -- most registration pages are exactly that.
+    Escalating those was launching a serialized Chromium render per candidate
+    and turning a 254-county sweep into a multi-hour one.
+    """
     r = _fetch_plain(url)
     needs_headless = (
         not r["ok"]
         or (r["status"] or 0) >= 400
-        or ("html" in r["ctype"].lower() and len(_ANCHOR_RE.findall(r["html"])) < 5)
+        or (require_links and "html" in r["ctype"].lower()
+            and len(_ANCHOR_RE.findall(r["html"])) < 5)
     )
     if allow_headless and needs_headless:
         try:
