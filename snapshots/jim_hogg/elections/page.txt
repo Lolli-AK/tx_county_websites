@@ -77,7 +77,10 @@ Monday - Friday
 9:00 am - 12:00 noon
 1:00 pm - 5:00 pm
 Welcome to VoteTexas.gov
+November 3, 2026 General and JHC ISD Election
 ▲
+Notice of General Election
+Notice of Public Logic and Accuracy Test of Automatic Tabulating Equipment
 Press Enter or spacebar to
 Bypass Calendar
 Display calendar by
@@ -97,9 +100,9 @@ iCal
 save current view to clipboard as an .ics link
 RSS
 save current view to clipboard as an .rss link
-August
+September
 2026
-August 2026
+September 2026
 Sun
 day
 Mon
@@ -110,10 +113,6 @@ nesday
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -146,12 +145,9 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
 May 26, 2026 Joint Primary Run-Off Election.
 ▲
 Summary and Certification of Post Hand Count Audit Results

@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "e932a329a7fc40bec718371e72ef0aa85b398cef3695f9192a453bcf94cb45b9",
-  "text_sha256": "6963455408826cbaab48eaa167ff6f06ee5e3346c47417cba513df2da5febf14",
-  "byte_size": 72413,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "31484154a704781b886e2dda417045cde54a6da3e1cac06db92820e3941a5e03",
+  "text_sha256": "d48d540416b8532e2fd94ec21e1b800bbda7641a788abb12651ba6a1eb35e830",
+  "byte_size": 72719,
   "title": "Elections | McLennan County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

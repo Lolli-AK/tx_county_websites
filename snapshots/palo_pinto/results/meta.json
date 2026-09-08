@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "a968f37291da209030368bc4a224e5df207245f154df7ad80fcb78ff7fa85b28",
-  "text_sha256": "476f3258bbc878ba56b29fe53a476a8d20d770b63c4a8e3c251979c792d85393",
-  "byte_size": 39886,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "5f12a91352c8a92291bd40ec8dcab086599070370e722de5b7a1e740eb3ad256",
+  "text_sha256": "8b7f09efc6ffef44cd64234c85a1d15366f79b82c6351a0e14b310f8d6246fa7",
+  "byte_size": 40083,
   "title": "Palo Pinto County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

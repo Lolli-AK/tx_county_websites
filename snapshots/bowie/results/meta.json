@@ -11,10 +11,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
+  "fetched_at": "2026-09-08T17:36:52Z",
   "html_sha256": "a9d7c9746730f075d6ffa66115085e7a13e3f62da091934859d39be5891766a9",
   "text_sha256": "3f91ec254106523141a09acab331929ba1990ace1141b905aa8f62243add3001",
   "byte_size": 30531,
   "title": "Custom404 • Bowie County, TX • CivicEngage",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

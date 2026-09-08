@@ -6,14 +6,19 @@
   "redirect_chain": [
     "https://www.ruskcountytx.gov/page/rusk.Elections"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "f23cb7de6ae0c969a1e0f03197ae5a5932079753f9663cb8e3d47211389f9f24",
-  "text_sha256": "ca85a0c831cda806ca106d531f9a0c3c7e706f4f49ae9f5ad1bd15cac2408d0e",
-  "byte_size": 238014,
-  "title": "Rusk County, Texas",
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "b3444ec4a2dc86b524c6b757fc97f4c9ae95a90be9828bb64185a4ec48bd6a50",
+  "text_sha256": "ab9b47dcc74a027994343952269fabf692cb7bb9c437ede9cac2c3c29c8ac2af",
+  "byte_size": 970,
+  "title": "This type of page is not served.",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

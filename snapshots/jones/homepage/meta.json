@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "070be08cd4ddfdfd936b4e476e0d4d3c2253a79d6bf2dd18e6b09f790448759c",
-  "text_sha256": "73da4e8c6bc934d99962b460f564bfe27c3cb1c48ae030f9419d50ced21a76f3",
-  "byte_size": 27276,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "a1e500686539f33a2986da3392fce0da23d3df807c1ebc2aaf8e61d06aacd105",
+  "text_sha256": "d9f6ff39e763570d5e3eb3848e55c6c861eed85b401a97fee104505a8137fa6c",
+  "byte_size": 27701,
   "title": "Home Page - Jones County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

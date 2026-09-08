@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "a444a84f5a2875c45e59518bd5327f2fc056d93e64d8fc512c4795e7cb5b17f8",
-  "text_sha256": "abd6eb77e90a1a8ab691dc2a8f46455d4b3dc686957c086906b731fe29de73d4",
-  "byte_size": 50294,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "00d8f8e9aeb2505f82ad222afe1467158c87cf6a405be8d10f13c7099ed06d3b",
+  "text_sha256": "a6ebeb5dfbd1c6be9612c9ef56c651d13bbe8982e6abf5990e40962ce5e27b18",
+  "byte_size": 50290,
   "title": "Elections | Taylor County, TX - Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

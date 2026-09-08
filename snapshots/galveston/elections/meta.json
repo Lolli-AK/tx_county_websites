@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "ae3e69ba1b627a5cc47bff7b489f2af267ed721f54b83bca0ed85bc33d84941b",
-  "text_sha256": "27747ba2053bfe8e987f0f9baf378cd4f06db69c767bf2d0aa619e639c8989c3",
-  "byte_size": 20571,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "07e4b65be8f209e4dd08ca2343847a5aff268e6b6f4294bcb78cf3df71beb2cc",
+  "text_sha256": "f609d81d60cf73272e20a5a80fe1f7591639e4465b12674dcbd047801a72e415",
+  "byte_size": 20874,
   "title": "Election Information - Galveston County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

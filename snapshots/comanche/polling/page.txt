@@ -161,6 +161,9 @@ Solicitud de registro de electores
 Notices
 Proclamation by the Governor of the State of Texas
 Order of Election
+Proclamation of Special Election Senate District 22 by the Governor of the State of Texas
+Order of Special Election
+Notice of Ballot Drawing
 Notice of Election
 Notice of Public Testing of Automatic Tabulating Equipment
 Notice of Public Logic and Accuracy Test of Electronic Pollbook Equipment
@@ -205,6 +208,14 @@ Notice of Deadline to File
 ********************************************************************
 Middle Trinity Groundwater Conversation District
 Order of Election
+Order of Cancellation
+********************************************************************
+May ISD
+Order of Election
+********************************************************************
+Lingleville ISD
+Order of Cancellation
+Certification of Unopposed Candidates
 Agendas & Minutes
 Forms
 FAQs

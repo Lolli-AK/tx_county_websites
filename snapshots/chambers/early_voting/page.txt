@@ -150,6 +150,10 @@ Notice
 SAMPLE BALLOTS
 Results
 Notice
+2026-11-03 City of Baytown Ordinance Calling General Election ENGLISH (PDF)
+2026-11-03 City of Baytown Ordinance Calling General Election SPANISH (PDF)
+2026-11-03 City of Beach City Certification of Unopposed Candidates (PDF)
+2026-11-03 City of Beach City Election Cancellation Order (PDF)
 2026-11-03 Notice of Delivery of Ballots Voted By Mail (PDF)
 2026-11-03 Notice of Delivery of Early Voting Balloting Materials (PDF)
 2026-11-03 Notice of Early Voting Branch Polling Places (PDF)
@@ -158,7 +162,32 @@ Notice
 2026-11-03 Notification of Election Training Program (PDF)
 2026-11-03 Order of Election (PDF)
 SAMPLE BALLOTS
+2026-11-03 Write-In Ballot Certification (PDF)
+Voting Precinct 1 (PDF)
+Voting Precinct 10 (PDF)
+Voting Precinct 11 (PDF)
+Voting Precinct 11 City of Baytown (PDF)
+Voting Precinct 12 (PDF)
+Voting Precinct 14 (PDF)
+Voting Precinct 15 (PDF)
+Voting Precinct 15 City of Baytown (PDF)
+Voting Precinct 16 (PDF)
+Voting Precinct 17 (PDF)
+Voting Precinct 18 (PDF)
+Voting Precinct 19 (PDF)
+Voting Precinct 2 (PDF)
+Voting Precinct 3 (PDF)
+Voting Precinct 4 (PDF)
+Voting Precinct 5 (PDF)
+Voting Precinct 6 (PDF)
+Voting Precinct 7 (PDF)
+Voting Precinct 8 (PDF)
+Voting Precinct 9 (PDF)
 Results
+2026-11-03 City of Baytown Ordinance Calling General Election ENGLISH (PDF)
+2026-11-03 City of Baytown Ordinance Calling General Election SPANISH (PDF)
+2026-11-03 City of Beach City Certification of Unopposed Candidates (PDF)
+2026-11-03 City of Beach City Election Cancellation Order (PDF)
 2026-11-03 Notice of Delivery of Ballots Voted By Mail (PDF)
 2026-11-03 Notice of Delivery of Early Voting Balloting Materials (PDF)
 2026-11-03 Notice of Early Voting Branch Polling Places (PDF)
@@ -167,7 +196,18 @@ Results
 2026-11-03 Notification of Election Training Program (PDF)
 2026-11-03 Order of Election (PDF)
 Election Information & Turnout Data
-Tabulation Livestream
+Candidate Information
+Campaign Finance Reports
+Current Elections
+Election Records Inspection Rules of Conduct
+Past Elections
+Precinct Map
+Register to Vote
+Vote by Mail
+Voter ID Requirements
+Voters with Special Needs
+Voting History
+Voting Instructions
 Agendas & Minutes
 Job Opportunities
 Permits

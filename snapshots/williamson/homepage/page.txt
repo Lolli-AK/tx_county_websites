@@ -30,26 +30,26 @@ Stay up to date with your county
 [rotating image slideshow removed for determinism]
 View All News
 /CivicAlerts.aspx
-Upcoming Events
-Mark your calendars
-Aug
-20
-Commissioners Court Special Session
-Commissioners Court Special Session
-Read on...
-Aug
-25
-Commissioners Court Meeting
-Commissioners Court Meeting
-Read on...
+County Events
+Discover what’s happening in your community.
+Calendar
 Sep
-1
-Commissioners Court Meeting
-Commissioners Court Meeting
+8
+2026 Student "I Voted" Sticker Design Contests
+2026 Student "I Voted" Sticker Design Contests
 Read on...
-2026-2027 County Budget Public Hearing
-2026-2027 County Budget Public Hearing
+WilCo EMS Blood Drive
+WilCo EMS Blood Drive
 Read on...
+Nov
+30
+River Ranch County Park 3rd Annual 20-Miler Challenge
+River Ranch County Park 3rd Annual 20-Miler Challenge
+Read on...
+View All Events
+/Calendar.aspx
+Upcoming Public Meetings
+View upcoming public meetings, dates and times
 Sep
 15
 Commissioners Court Meeting
@@ -57,6 +57,21 @@ Commissioners Court Meeting
 Read on...
 Sep
 22
+Commissioners Court Meeting
+Commissioners Court Meeting
+Read on...
+Sep
+29
+Commissioners Court Meeting
+Commissioners Court Meeting
+Read on...
+Oct
+6
+Commissioners Court Meeting
+Commissioners Court Meeting
+Read on...
+Oct
+13
 Commissioners Court Meeting
 Commissioners Court Meeting
 Read on...

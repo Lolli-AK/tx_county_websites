@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "24281d6d32ef3075b983bd907062235530b8f5508d0b2c8e39aa21ce379aedad",
-  "text_sha256": "6531d69f8c89d63efb3cb91a39c6ac04b791d064c461a2186b886b7577d9efeb",
-  "byte_size": 25837,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "fba00e9ab2642cd21d4d41c7f1ad651de61e948cb2d6fc5f21523b825e4480b4",
+  "text_sha256": "8f78048d91064f8f04b9c035c0e8bd4012d479129db5eb563cf8b86cbfc30742",
+  "byte_size": 26521,
   "title": "Home Page - Brown County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

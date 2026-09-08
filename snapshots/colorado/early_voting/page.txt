@@ -9,7 +9,10 @@ Toggle main menu visibility
 Menu
 Home
 County Holiday Schedule
-Commissioner Court Agendas/Notices
+Commissioners Court
+Commissioners Court Homepage
+Commissioners Court Agendas
+Commissioners Court Minutes
 County Departments
 Constables
 County Attorney
@@ -18,7 +21,7 @@ County Clerk
 County Judge
 County Tax Assessor-Collector
 County Treasurer
-Development & Permitting
+Development, Subdivision & Permitting
 Floodplain Management/9-1-1 Rural Addressing/Septic
 Development and Subdivision Regulations
 County Road Use Forms
@@ -39,10 +42,6 @@ Sheriff
 Vehicle Registration & Renewal
 Veterans Services
 Courts
-Commissioners Court
-Homepage
-Agendas
-Minutes
 County Court
 County Clerk
 County Court
@@ -76,6 +75,13 @@ Bid Opportunities
 Burn Ban Status
 Employment Opportunities
 Financial Transparency
+Annual Financial Reports
+Auditor's Reports
+Budgets
+Treasurer's Reports
+Check Reports
+Utility Consumption Reports
+Debt Obligation
 Tax Rate Information
 Texas Public Information Act
 Tax Abatement Guidelines
@@ -132,6 +138,7 @@ Acts 1985, 69th Leg., ch. 211, Sec. 1, eff. Jan. 1, 1986.
 Amended by Acts 1991, 72nd Leg., ch. 203, Sec. 2.55;
 Acts 1991, 72nd Leg., ch. 554, Sec. 26, eff. Sept. 1, 1991.
 Designation of Early Voting Clerk
+(PDF)
 Early Voting Turnout published each day of early voting by 10:00 a.m
 How to find us.
 Colorado County Courthouse

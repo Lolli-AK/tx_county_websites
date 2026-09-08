@@ -82,7 +82,7 @@ The Gregg County Elections Office is working on behalf of the voters of Gregg Co
 EMAIL
 Elections@GreggCounty.Texas.gov
 WEBSITE
-www.GreggCountyVotes.com
+greggcountyvotes.gov
 PHONE
 903-236-8458
 MAIL
@@ -147,14 +147,28 @@ Notice of Voting Priority
 EARLY VOTING LOCATIONS
 ELECTION DAY VOTING LOCATIONS
 Election Results & Notices
-Unofficial Results are posted after votes are tallied on Election Night. Official Results are updated after the Canvass. Please choose an Election from the list of results.
+Unofficial Results are posted after votes are tallied on Election Night. Official Results are updated after the Canvass. Please choose an Election from the list on the RESULTS link.
 RESULTS
 Unofficial Reconciliation Form
 Official Reconciliation Form
 Election Notices:
-Order of Election
-County Appraisal District
-Sabine ISD
+Order of Elections
+Governor’s Proclamation
+(Opens PDF)
+Gregg County Order
+(Opens PDF)
+County Appraisal District Order
+(Opens PDF)
+Notice of Ballot Draw
+(Opens PDF)
+Ballot Draw Results
+(Opens PDF)
+Sabine ISD:
+Trustee election order
+(Opens PDF)
+(will cancel election)
+VATRE election order
+(Opens PDF)
 Notice of Election
 Notice of Training
 Notice of L&A Test

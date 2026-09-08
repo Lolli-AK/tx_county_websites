@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "1cb32b27e0e267d7014813945a4cec8d9fef088f208f44a63aca68c17435c980",
-  "text_sha256": "4d70a35e494cde1f5320546cd865d584a2c1558a8182dee1385f2f43e6f6d7bc",
-  "byte_size": 91270,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "ed5c1eb94a59058022c05a2a86666cb349e38c9f368dffbf68edc9e386d1e492",
+  "text_sha256": "22e070fd5c383cacf9342b98bd4d420807c535b52293206e5956eb53bf717e96",
+  "byte_size": 91070,
   "title": "ELECTIONS DEPARTMENT",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

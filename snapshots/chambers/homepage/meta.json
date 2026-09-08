@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "03bbc5f4bb0685bad778e56dcc9776a2872c116af04177730c7cf21c879069ce",
-  "text_sha256": "c0ac7d1c35e91eff6dd55dd4116816c945e1c3477dd6227c3324073af3e86aa6",
-  "byte_size": 118038,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "7712afe618a31bafd4ced80323107a593b92e63eb18600e289119548958547e9",
+  "text_sha256": "af76f302759940d567aa2bc327b0c92bc41a5040272832aff4c5d5ee8fc639c8",
+  "byte_size": 115022,
   "title": "Chambers County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

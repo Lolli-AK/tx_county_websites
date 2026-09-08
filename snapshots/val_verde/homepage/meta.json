@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "8d57327f4316a83a7bf5fc33b6705dee71ff39f85706965a777b3b5abdf4f3e7",
-  "text_sha256": "76c71a34f59484fb8456f2ba0210e48641949667fabee4743b1c29145d48cc41",
-  "byte_size": 79181,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "47392301ae7e128a36eb00f679697dbbbab3e27d9b23795f5ab540aed372d279",
+  "text_sha256": "30f345fed2bae5d468d1d35a196e4378706cc2a21b61d29d6ce0c2d089a6729b",
+  "byte_size": 77514,
   "title": "Val Verde County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -1,5 +1,4 @@
 County Precinct Maps | Delta County, TX
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to main content
 Image
 Toggle Navigation
@@ -222,12 +221,8 @@ Cooper
 TX
 75432
 Upcoming Events
-Commissioners' Court Special Meeting
-Thu, Aug 20 2026, 9am
 Commissioners' Court Regular Meeting
-Tue, Aug 25 2026, 9am
-Commissioners' Court Regular Meeting
-Tue, Sep 8 2026, 9am
+Tue, Sep 22 2026, 9am
 View the Calendar
 Financial Transparency
 Make a Payment
@@ -257,4 +252,3 @@ Public Information Act Requests
 Staff Directory
 Government Websites by CivicPlus®
 Staff Login
-Explore your accessibility options

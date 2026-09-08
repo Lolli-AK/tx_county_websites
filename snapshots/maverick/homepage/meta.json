@@ -10,10 +10,15 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "b7db84d8739dc3f736b0917f3de985ef541dd9f01d81ff5be28beabb113dc698",
-  "text_sha256": "3cbc2183876f8fc25c52da170a3d4804fc31dba999cedad7319193275f985b35",
-  "byte_size": 74823,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "71a69f9d816c3d04f64d9d76c850ff283fef1d9c0ebaa369a729899b49929e72",
+  "text_sha256": "a98b3b64efb47041c6d32181fc081c7af3e3582381bab6ab1c84962e0aa3309f",
+  "byte_size": 76572,
   "title": "Maverick County, Texas | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

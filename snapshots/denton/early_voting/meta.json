@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "2282cc412ceff427c0803225995c4eb0580915bcb8adda0ed64a86f483dbd477",
-  "text_sha256": "cbaafb614bc89d248d210d9e83c71ec4400c4dae2f68bbbd91027481523102f7",
-  "byte_size": 36030,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "f271c8ea5b2d2cf7162e4097a36b445d26fafc8a71fe4f027305b3bcfbf69164",
+  "text_sha256": "0ef5bf9e4b36d57dfc0a4e493240982c51bd8d94ff2093ce633713567a5c6b90",
+  "byte_size": 36160,
   "title": "Current and Upcoming Election Information - Denton County, TX Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

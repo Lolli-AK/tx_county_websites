@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "7f6f4cb225e92de67f9a7e0f3b8d9f8c35a7b7bc72364bbf27c2fda039780964",
-  "text_sha256": "cddba22f193e237afa04558e1c5cb6d375e8515828d3025af789d286ac5118fe",
-  "byte_size": 42552,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "cfb3f508b91d5807c90126128b174664927b6ce6acc3a23e945ff6bae008eac8",
+  "text_sha256": "29a603aba7f90ffdf5ca84f7c410cde164342bcb73569433dbde323cf9c0e852",
+  "byte_size": 41878,
   "title": "Angelina County – Angelina County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -115,7 +115,8 @@ Cullen Frazier
 Elections Clerk
 Secretaria Electoral
 cfrazier@fanninco.net
-800 E. 2nd Street Bonham, TX 75418
+2225 N. Center Street, Suite 200
+Bonham, TX 75418
 T: 903-583-7488
 F: 903-582-5105
 C: 430-373-5225
@@ -168,15 +169,15 @@ iCal
 save current view to clipboard as an .ics link
 RSS
 save current view to clipboard as an .rss link
-August
+September
 2026
-August 2026
+September 2026
 Day
 Start
 End
 Event - Description
 Action
-Sat
+Tue
 1
 Voter Registration Information - Información Sobre el Registro de Votantes
 ▲

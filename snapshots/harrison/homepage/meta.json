@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "2f52ae850dbe6d0e5f2efee2c470c754b24c4a8e78ff98f50f79f814c980adbf",
-  "text_sha256": "439ccf6cd5f21a0fbac8f05071fb0b256fb9624d51104ba3086fe671a6575daf",
-  "byte_size": 52737,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "174e3e2e69e653fa53567ebb9d662b83c8ebf78efafe92c5981cdbed872ff7e6",
+  "text_sha256": "4fcc8577824f7390c2c80787bf1bc8f2e77146188c2f863cc60a048e49eefed2",
+  "byte_size": 53269,
   "title": "Home | Harrison County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

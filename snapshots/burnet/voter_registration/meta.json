@@ -1,0 +1,24 @@
+{
+  "county": "Burnet",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.burnetcountytexas.org/1334/Voter-Registration",
+  "final_url": "https://www.burnetcountytexas.org/1334/Voter-Registration",
+  "redirect_chain": [
+    "https://www.burnetcountytexas.org/1334/Voter-Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "f9415e681bf51143a89bbae514216714283012abc8cc8cc29421693e44265368",
+  "text_sha256": "3bd07f05a92a715c9cc68d8d73569730760efd0a872a2f74f97d1188838d877d",
+  "byte_size": 44584,
+  "title": "Voter Registration | Burnet County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

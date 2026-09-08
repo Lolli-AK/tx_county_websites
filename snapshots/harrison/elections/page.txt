@@ -59,6 +59,7 @@ Departments
 Elections
 Elections - Home
 2026 Elections
+Election Candidate Information
 Past Elections
 Consumer Health/Inspections
 Purchasing Agent
@@ -105,6 +106,7 @@ Commissioners Court
 Elections & Voting
 Elections - Home
 Elections 2026
+Election Candidate Information
 Past Elections
 Job Openings
 Sheriff's Office

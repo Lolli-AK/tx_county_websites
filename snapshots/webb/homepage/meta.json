@@ -8,12 +8,17 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "c9cf385b794e0a2af7bef67617b49d9a7a498814890051c7c3fff69fd1645bb7",
-  "text_sha256": "442ef5a013ea1af46d015d767e97d977a51a758a62a4eeeebcedea2658618a71",
-  "byte_size": 25416,
-  "title": "Official Site of Webb County",
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "b6f95cb4fa0bd78e20036eb013ac0417d9a091c4eed3cecdd6feb163105ff516",
+  "text_sha256": "283cc5fc698f6e969f4153dad7fd85aaf254d0a71ecfe7f10879bd6e4a77fe75",
+  "byte_size": 85390,
+  "title": "Webb County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

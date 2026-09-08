@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "c5261dcb74a1b109aeebc98177c32d7812cbe893ccc4abda5abf0244bf032f5d",
-  "text_sha256": "ac25a3b5032766971cc5e05a7637cf97530ebfe86c0a7d2d54630ed3962c6272",
-  "byte_size": 58276,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "1df7be71f4a7e02b28618e58b711bc6ce6de007b6e346f6784de70f0c04fad8b",
+  "text_sha256": "c9fb7859db2d4b63e1385a4c63a0942f52b52ad8b205af963c6f01d9d740a3b7",
+  "byte_size": 56659,
   "title": "Election Information – Travis County Clerk",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

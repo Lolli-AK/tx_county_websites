@@ -8,12 +8,17 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "0287066fe95b7bd0e66894c03b051470ecd0aeea279aeac933baf9e62f56c2ad",
-  "text_sha256": "fc1dc2e8d8da7146300a760ce2715d5736a7b2402124bcf45cbfd3d6e5db7559",
-  "byte_size": 36711,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "ccda68f7aeb85510294648b0eb100243e1c6f5f8cef1d2c2ff6298157de675d9",
+  "text_sha256": "ff50b53b1180ea34fd54bb4cbe54eb023add4fbdf12941d38340f13bbcd77be3",
+  "byte_size": 33242,
   "title": "Wichita County | Wichita County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

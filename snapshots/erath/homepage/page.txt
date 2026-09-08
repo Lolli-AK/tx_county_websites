@@ -21,14 +21,11 @@ Financial Transparency
 Receive Alerts
 County News
 Stay up to date
-[rotating image slideshow removed for determinism]
-View All News
-/CivicAlerts.aspx
 Upcoming Events
 Mark your calendar
 Events
 Events
-August 2026
+September 2026
 Sun
 Mon
 Tue
@@ -36,10 +33,6 @@ Wed
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -72,13 +65,13 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
-There are no published events in current month.
+Tue, Sep. 15
+Erath County Historical Commission Meeting
+Erath County Historical Commission Meeting
+Read On
 View All Events
 /Calendar.aspx
 Contact Us

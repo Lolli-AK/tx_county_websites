@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "f4dc766bf7ea85b981b39bddd66679556acbb33c621c02113e3de5bef87a83ae",
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "856e3bbef67e383b7188f5612b8a9e1f20d1d46d4b7dec78e2049c73f41f15d7",
   "text_sha256": "08d0116b29b692780579b3d296867ebbd64d2e80541155287c6f66a0adafc814",
-  "byte_size": 134036,
+  "byte_size": 134029,
   "title": "Past Elections History | Grayson County Tx.",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

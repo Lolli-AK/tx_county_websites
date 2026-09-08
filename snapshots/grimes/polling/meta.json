@@ -10,10 +10,15 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "207562ce3b575c424c5cca1ada59d228b36d588c3534dfe9399ba768ea376d98",
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "5048434c1366d8bf02e9c2c440c9a5ff9164d72dd3da08fe071a13cd8ea9e411",
   "text_sha256": "1255e95a228a8bedada1fb26150da98a69104377a0f7f4ca76c1381e3bc42267",
-  "byte_size": 69393,
+  "byte_size": 69384,
   "title": "Postings - Grimes County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

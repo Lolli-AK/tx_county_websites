@@ -67,6 +67,8 @@ Commissioner’s Court Agendas
 Bail Bond Board Agendas & Minutes
 Submit Agenda Item
 Calendar
+More Results
+No Results found for: {{ input }}
 Election Results
 Current Election Information
 Current Election Notices, Turnout and Rosters
@@ -101,6 +103,4 @@ Click for Directions
 (940) 766-8100
 Copyright Notice
 © 2026 Wichita County, All Rights Reserved.
-English
-Spanish
-en
+Loading...

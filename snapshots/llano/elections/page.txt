@@ -54,10 +54,9 @@ Veteran Services
 Public Notices & News
 Public Notices
 Burn Ban Information
-County News
+County News & Resources
 Commissioners Court Agendas & Minutes
 Employment Opportunities
-Llano Country Resources
 Resolutions & Proclamations
 How Do I...
 Register to Vote
@@ -90,7 +89,7 @@ Phone:
 325-247-5425
 Staff:
 Rachel Wimberley-Assistant Elections Administrator
-Amanda Levens- ABBM Clerk
+Amanda Levens- Ballot By Mail Clerk
 LaJuana Wimberley-Deputy Voter Registrar
 Brenda Morrison-Records Clerk
 Contact the Elections Office
@@ -153,29 +152,19 @@ Para ver esta información en español, haga clic a continuación:
 NOTICE OF VOTING ORDER PRIORITY FOR VOTERS WITH CERTAIN DISABILITIES/ AVISO de PRIORIDAD de ORDEN de VOTACIÓN PARA VOTANTES CON CIERTAS DISCAPACIDADES
 CURBSIDE VOTING
 You can also vote curbside by calling 325-247-5425 (press 1 to speak with a representative). We will need to know the polling location you are at, as well as the color and make of your vehicle. We will then inform the election personnel at your polling location and they will be with you promptly.
-ACCESSIBLE SAMPLE BALLOTS
-click here to be taken to view an accessible sample ballot
-*IMPORTANT NOTE*-
-USPS recently reported that they are not always postmarking mail on the day it is received. The Postmark on your ballot can determine whether or not we can legally accept your ballot. If you are mailing your ballot close to election day, please be sure to enter the post office and have them manually postmark your ballot to ensure it accurately reflects the day your put your ballot into the mail. This is only necessary IF you are mailing close to election day or on election day.
 November 3, 2026 General Election
 ▲
 This section contains information regarding the
 November 3, 2026 General Election.
-ALL INFORMATION SUBJECT TO CHANGE
-Local Non-County Political Subdivisions Only
-Friday, July 17, 2026:
-Last Day for Candidates Planning to File for a Place on the General Election Ballot to Register to Vote or Update Voter Registration
-Saturday, July 18, 2026:
-First Day to File for a Place on the General Election Ballot
-Monday, August 17, 2026 at 5:00 p.m. :
-Last Day to File for a Place on the General Election Ballot
-Friday, August 21, 2026:
-Last Day to File a Declaration of Write-in Candidacy
-General Election for State and County Officers
-Monday, July 20, 2026:
-First Day to File a Declaration of Write-in Candidacy
-Monday, August 17, 2026:
-Last Day to File a Declaration of Write-in Candidacy
+We will be participating in the County Wide Polling Place Program on Election Day for the November General Election
+PRINTABLE
+SAMPLE BALLOT
+-
+This ballot shows all races that
+could
+be voted on in the county. At the local level, only voters who are in a specific precinct will vote on the races within that precinct.
+Write in Candidate List
+- This list will be found in the voting booth when you arrive at the polls to vote.
 Last Day to Register to Vote for this election is:
 Monday, October 5, 2026
 (El último día para registrarse para votar en estas elecciones es el jueves 5 de
@@ -186,13 +175,27 @@ Click here to find out!
 Voter Registration
 Application
 Solicitud de registro de electores
-For Early Voting, a voter may vote at any of the locations listed below
-(
-Para Votación Adelantada, los votantes podrán votar en cualquiera de las ubicaciones nombradas abajo)
+All polling locations are ADA accessible and have ADA compliant equipment for voting.
+If you need assistance you may bring an assistant of your choice OR you can request assistance from an election worker at check-in. All assistants could be required to complete an oath at check-in, depending on the sort of assistance required.
+All polling locations have Curbside voting available to voters who are physically unable to enter the polling place without personal assistance or likelihood of injuring the voter's health.
 EARLY VOTING HOURS ( ALL LOCATIONS) | Horario de Votación Temprana (todas las ubicaciones abajo)
 Early voting will begin on Monday, October 19, 2026 through Friday, October 30, 2026
 (La votación anticipada comenzará del lunes 19 de octubre de 2026 al viernes 30 de octubre de 2026.
 )
+Early Voting Hours for all locations:
+Monday, October 19- Friday, October 23, 2026
+:
+8:00 a.m. to 5:00 p.m.
+Saturday, October 24, 2026
+:
+7:00 a.m. to 7:00 p.m
+.
+Sunday, October 25, 2026
+:
+10:00 a.m. to 4:00 p.m.
+Monday, October 26, 2026 to Friday, October 30, 2026
+:
+7:00 a.m. to 7:00 p.m.
 MAIN EARLY VOTING LOCATION:
 Llano Public Library
 -
@@ -217,19 +220,27 @@ PLEASE NOTE:
 All Llano County voters are eligible to vote at any election day location below.
 Sunrise Beach City Civic Center Complex
 124 Sunrise Beach, Sunrise Beach, TX 78643
+click for directions using Google Maps
 City of Horseshoe Bay Council Chambers
 1 Community Dr., Horseshoe Bay, TX 78657
+click for directions using Google Maps
 East Llano County Annex
-8347 RR 1431 West Buchanan Dam, TX 78609
+8347 RM 1431 West Buchanan Dam, TX 78609
+click for directions using Google Maps
 Lakeshore Branch Library
-7346 RR 261, Buchanan Dam, TX  78609
+7346 Ranch Rd 261, Buchanan Dam, TX, 78609
+click for directions using Google Maps
 Kingsland Public Library
 125 W. Polk, Kingsland, TX 78639
+click for directions using Google Maps
 Llano County Library
 102 E. Haynie, Llano, TX 78643
-NEW LOCATION- JP 4 Court Room at the Llano County Law Enforcement Center
+click for directions using Google Maps
+NEW LOCATION
+- JP 4 Court Room at the Llano County Law Enforcement Center
 752 Andy Taylor Drive, Courtroom, Llano, Texas 78643
-Please call the Llano County Elections Office for assistance: (325) 247-5425
+click for directions using Google Maps
+Questions? Please call the Llano County Elections Office: (325) 247-5425
 IMPORTANT DATES | FECHAS IMPORTANTES
 First day to apply for a Ballot by Mail-
 Thursday, January 1, 2026
@@ -274,13 +285,9 @@ Notice of Election Board Meeting
 Order of Election- Llano County
 Notice of Election- Llano County
 Order of Election- Deerhaven Water District
-updated-8/17/2026
-Press the enter key or spacebar to expand or collapse the accordion
-2026 "I Voted" Sticker Contest
-▲
-Download the "I Voted" Sticker Contest package here
-"I Voted" Sticker Contest
-2026 Finalists
+Notice of Election Worker Training
+Notice of Logics and Accuracy Test
+updated-9/3/2026
 Press the enter key or spacebar to expand or collapse the accordion
 County Wide Polling Place Program
 ▲
@@ -382,6 +389,15 @@ County Justice of the Peace Offices
 • JP 3 – 8347 RR 1431, Buchanan Dam, TX 78609
 • JP 4 – 2001-B N. St. Hwy. 16, Llano, TX 78643
 • Llano County Elections Office – 1447 E. St. Hwy 71, Ste. A, Llano, TX 78643
+What is Suspense and why am I suspended?
+If a county has reason to believe a voter no longer lives at the address on file — most often because the voter’s registration certificate, a jury summons, or other county mail came back from the Postal Service as undeliverable — the registrar must send a written confirmation notice, and the voter is placed on the suspense list. Suspense means the county needs to confirm an address. It does not mean the registration was suspended, cancelled, or removed.
+A voter on suspense who has not moved, or who has moved within the same county, may vote after completing a Statement of Residence at the polling place or with a mail ballot. Voters in counties that do not use countywide polling places may be directed to their assigned precinct to do so.
+A voter who has moved to a different county and did not re-register in time may be eligible to vote a limited ballot — available only during early voting, at the county’s main early voting site.
+The cleanest fix is to update the record: submit a voter registration application with the current address, or update online with a Texas driver license or state ID, before the registration deadline.
+A registration is not cancelled for non-response alone until the voter has remained on suspense through two consecutive federal general elections without responding or voting.
+You can use the
+VoteTexas.gov
+website to check your voter registration or call our office at 325-247-5425.
 Am I registered to vote?
 |
 ¿Estoy registrado para votar?
@@ -479,7 +495,7 @@ If you are voting in a political party’s primary election, you MUST check whic
 Click Here for an
 Application for Ballot by Mail
 –
-- Once you have completed the form, please mail it to:
+Once you have completed the form, please mail it to:
 Llano County Elections Office
 P.O. Box 787
 Llano, Texas 78643
@@ -518,7 +534,7 @@ Llano, Texas 78643
 Military and overseas voters are welcome to use the regular registration and early voting by mail process available to all voters away from their home county on Election Day. However, there are also
 special provisions for military and overseas voters
 .
-updated-4/6/2026
+updated-9/1/2026
 Press the enter key or spacebar to expand or collapse the accordion
 Llano County Maps
 ▲
@@ -581,19 +597,22 @@ You are an employee or relative of an opposed candidate in that election
 All poll workers must be trained PRIOR to working the polls
 Your options for training are our in-person workshops held prior to each election, or the Texas Online Poll Worker Training.
 Your precinct presiding Judge is statutorily required to inform you of the upcoming in-person training schedule. However, this training is open to the public, free and anyone is welcome to attend.
+TRAINING SCHEDULE
 IN-PERSON LOCAL ELECTION WORKER TRAINING
 - November 3, 2026 LOCAL ELECTION TRAINING INFORMATION
 Election Worker Training for the November 3, 2026 Local Election will be held
-October 7th and 8th, 2026
-(time TBD) at the Llano County East Annex at
-8347 West Ranch Road 1431, Buchanan Dam, Texas 78609
+October 7th at 1:00 p.m. and 8th, 2026 at 9:00 a.m. and 1:30 p.m.
+at the Llano County East Annex at
+8347 West RM 1431, Buchanan Dam, Texas 78609
 .
 PAPERWORK WORKSHOP
 We will also hold an optional in-depth paperwork workshop on (date
 TBD) at the Election Administration Office
 - In this workshop we will go over the paperwork used at polling locations and how to fill them out properly. This is an all day event, bring a lunch. Please call 325-247-5425 to reserve your spot.
-Online Poll Worker Training Program-
-If you cannot attend in person, you must submit a certificate that you completed the Texas Secretary of States online poll worker training to our office.
+Flexible Option: Online Poll Worker Training Program-
+If you cannot attend in person, you
+must
+submit a certificate that you completed the Texas Secretary of States online poll worker training to our office.  Llano County uses the Hart system and if prompted to select training by equipment you must select the option for Hart.
 This web-based curriculum mirrors the
 Handbook for Election Judges and Clerks (PDF)
 and will train poll workers about polling place procedures. In addition to the information found in the handbook, there are test questions, real life case studies/exercises to resolve and other features such as voting equipment videos or instructions specific to your county. The online training is available free of charge, 24/7, for all poll workers. They can take the training anytime and anywhere they have Internet access.
@@ -608,11 +627,11 @@ Once registered, you will be prompted to login using your newly created user nam
 If you do not have an email address, you can create one using one of the free providers.
 Texas’ Online Poll Worker Training
 Important Note
-If you have ever been registered as an Administrator or a Student in the past, your old login name and password will no longer work. In this site, administrator rights are reserved for the Texas Secretary of State.
+If you have ever been registered as an Administrator or a Student in the past, your old login name and password will no longer work. On this site, administrator rights are reserved for the Texas Secretary of State and our office cannot assist with access to your account.
 Should you have any questions about the Online Poll Worker Training, please email
 PollWorkerTraining@sos.texas.gov
 or call toll free at 1-800-252-8683.
-updated-6/4/2026
+updated 8/24/2026
 Press the enter key or spacebar to expand or collapse the accordion
 Volunteer Deputy Voter Registrars
 ▲

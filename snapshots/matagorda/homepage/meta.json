@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "5ec169ae78670c10e498a9eb122f3a8b908631e71348b745499c0bd6ad72c14f",
-  "text_sha256": "bf94bfe1efadbfe846c8090c365d9572cf5e6b98e83f2bea4541171fffff5276",
-  "byte_size": 59678,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "bafb95b85473fb70bd3a7395560280d0fab76fc198debf6862b07d74dd5aba43",
+  "text_sha256": "63efad6cbf41b94498a5bb3aa511d7f6909dfd807fcf49e0c66f7913a1ef1597",
+  "byte_size": 61173,
   "title": "Matagorda County, Texas | Homepage",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

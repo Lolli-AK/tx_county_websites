@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "6e43fc5b8cc55fd82c77f98851f61a19e2583462a7a43b03272b3258b6871d0b",
-  "text_sha256": "738d0e6519a44e562ea7fad2977f1fd86febff4177c1d5f8ffaee3bf55d4f2cc",
-  "byte_size": 51916,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "72e6ca88043ed3af3f95ef0b0c25292f359b4343bf9f2eee41d1e320890bbcb6",
+  "text_sha256": "7d352025a89d41db1acf10b0b42e33c1aea53cdf8006a1a941766040668195ed",
+  "byte_size": 50809,
   "title": "Irion County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

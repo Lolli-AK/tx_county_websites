@@ -100,9 +100,9 @@ iCal
 save current view to clipboard as an .ics link
 RSS
 save current view to clipboard as an .rss link
-August
+September
 2026
-August 2026
+September 2026
 Sun
 day
 Mon
@@ -113,10 +113,6 @@ nesday
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -149,12 +145,9 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
 Bailey County Election's Office (Oficina Electoral del Condado de Bailey)
 ▲
 The County Clerk is responsible for all federal, state, and county elections.
@@ -247,6 +240,7 @@ You are not a convicted felon (you may be eligible to vote if you have completed
 You have not been declared by a court exercising probate jurisdiction to be either totally mentally incapacitated or partially mentally incapacitated without the right to vote.
 Voter Registration Application
 Solicitud de Registro Electoral
+Voter Suspense List/Votantes Lista De Suspenso
 Important Election Dates 2025-2026
 ▲
 Written notice of election dates for 2025-2026
@@ -286,6 +280,7 @@ Rodney Baker
 - Justice of the Peace
 November 3, 2026 - Election Day
 ▲
+Deadline Alert - Monday October 5, 2026 is the last day to register to vote (¡Alerta De Fecha Límite!)
 Order of Election - November General Election For County Officers (Orden De Elección General Por Funcionarios Del Condado)
 Bailey County Election Precincts
 Notice for Write-In Candidates 2026 County Elections

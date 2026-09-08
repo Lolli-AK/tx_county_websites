@@ -1,0 +1,24 @@
+{
+  "county": "Milam",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.milamcounty.net/departments/elections_and_voter_registrar/register_to_vote_here.php",
+  "final_url": "https://www.milamcounty.net/departments/elections_and_voter_registrar/register_to_vote_here.php",
+  "redirect_chain": [
+    "https://www.milamcounty.net/departments/elections_and_voter_registrar/register_to_vote_here.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "095da1f4872a02d5cbe31af5cb7a76320d2fd15cca862ca212e6548cfb9ed884",
+  "text_sha256": "4ed298524586b86accd5fda9610e6e3963ca7368cfcf35771c81eec5c0d54e99",
+  "byte_size": 63644,
+  "title": "Milam County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "4e535cfe5fd5934b28b544769ccecb82312413abcbcb7800577f6f109c35f418",
-  "text_sha256": "b8edc75cc413363862be876e4c543cba5c96a667340e68dbe39546761c2a6fce",
-  "byte_size": 57066,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "e2ff9c61bd61538f1b14a7c21e77eb71859064e11e7ec5f5b8dea66c7d4cf265",
+  "text_sha256": "cbc0be5111c24908d1b469d507be6e97509212a1e1355787757f3a5ec4785b8a",
+  "byte_size": 55756,
   "title": "Starr County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

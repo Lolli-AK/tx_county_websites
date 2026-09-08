@@ -6,14 +6,19 @@
   "redirect_chain": [
     "https://www.webbcountytx.gov/electionsadministration/"
   ],
-  "http_status": 200,
+  "http_status": 404,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "1dcfc835c3baa0196353ecf44b528c0b375e3c037538293a7819d9c3d58c5a05",
-  "text_sha256": "a8a195af7f42ddecdbbdd045c779c8ba4a1d6727bcb34c9577a06737940885db",
-  "byte_size": 32939,
-  "title": "Elections",
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "fcaa829b43003fa86ec9a6fff0f1d609830f7544dc7dd5a2551e0fefa71ad160",
+  "text_sha256": "f329ee8846b9d68720069a4b881c6e99b25a4c037c93264933eed98c31ee4813",
+  "byte_size": 41435,
+  "title": "Custom404 • Webb County, TX • CivicEngage",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

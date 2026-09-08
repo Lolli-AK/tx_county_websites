@@ -10,10 +10,15 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "522a3d06f06aaf99fdd03df946be51e6cabd1d3d693ac8922fe9c4436c97f589",
-  "text_sha256": "47a8eeb65cc1d1823d9ef65e730342f29555e2539478a3543f26d20bb494b2ba",
-  "byte_size": 202422,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "9bd37462fc4efb8a2a27af243b8609ea632cfc8368c2060c963632b582dbe5fc",
+  "text_sha256": "02797818ad91745c114348e9025062611cba347c5aa55ca72ea6042ef019f2f1",
+  "byte_size": 218321,
   "title": "Current Election Information",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

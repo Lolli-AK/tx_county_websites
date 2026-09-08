@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "0d950c0608759d42ad77be511fccc830e58276a4d3ca0a63f1c2b1ec5850f062",
-  "text_sha256": "b05a626440ba741c8117083ba89b8e3915291bbe988e2ae1580433b6e91cfc00",
-  "byte_size": 146490,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "b8f4391fdf2bce635391ff63f8a39105c81fea14f3a3c43e514ee3526a98fcea",
+  "text_sha256": "e216c50cf0913d17a52abdb256e2ffa3ffb50f18009ecf8c12c72277d45f5279",
+  "byte_size": 148714,
   "title": "Hutchinson County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

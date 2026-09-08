@@ -1,0 +1,24 @@
+{
+  "county": "Live Oak",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.co.live-oak.tx.us/page/liveoak.Voter.Registration",
+  "final_url": "https://www.co.live-oak.tx.us/page/liveoak.Voter.Registration",
+  "redirect_chain": [
+    "https://www.co.live-oak.tx.us/page/liveoak.Voter.Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "c207a6e7eb02874c7a21f3735bdd6d85f7c7d4699b94e894bd396d85efd2a3d9",
+  "text_sha256": "27d6700eb2b7fa0962eec74318cdfad2ecfa1f417308c8023a941104885bb120",
+  "byte_size": 44796,
+  "title": "Live Oak County Tax Assessor/Collector",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

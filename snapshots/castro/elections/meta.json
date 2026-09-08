@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "f1d86d3277f8d8b017b6c17057a3211214d80397a809a7692f6cbc01ba7ce12b",
-  "text_sha256": "09ca0218e6fbdfeb992dab93534978f2858accb4b6f247d680b12023db891e96",
-  "byte_size": 24359,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "0e7ae96ac5d17808a89f50e567dcad171d76b640fde24b5d829d34bf22402029",
+  "text_sha256": "0d2e37270a3e1434a6837d401012602ba0efc471dc89218bd77eb35567573bb5",
+  "byte_size": 29540,
   "title": "Castro County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

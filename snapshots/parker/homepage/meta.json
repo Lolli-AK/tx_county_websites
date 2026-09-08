@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "3d89c542ceb52666a8c10ec7b2fa1bbddee1175dc873fd2776ecd2f03c0c9c18",
-  "text_sha256": "99add8116e3f0b54830af96c988e7208e65cbe8f5c5b8775a07656c524b56ca3",
-  "byte_size": 57252,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "cd499e754345ff4310159cde3f55c852d61cd122f6e92daee86396c8331c89f4",
+  "text_sha256": "9ba65fe9e019a90f3ac0a87595ea0d2185d66ab7abb66ae77849595367eb6e91",
+  "byte_size": 55529,
   "title": "Parker County, TX - Official Website | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

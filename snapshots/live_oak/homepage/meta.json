@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "7ab9135d53b4b97e7c26426d2e06d03a089c24ba6ad8a72824459a95a70d4113",
-  "text_sha256": "e197b98e174d049a5a60231da6ba3ad0cf92e3497a896f536dcace3ce8da5ac8",
-  "byte_size": 80967,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "09a5504ac65cbcc541e200fd8a41853414aa69b30e433db27d2a73685c8d3455",
+  "text_sha256": "8e61214f9e84495be315c85ed4a0ce181682c6d408119fda3d2ef049c51931d0",
+  "byte_size": 78811,
   "title": "Home Page - Live Oak County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

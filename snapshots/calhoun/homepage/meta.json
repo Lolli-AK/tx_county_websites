@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "419e541a49d346c65f7dcb6df781906d011a76b0ec848a4a38b91d406d829a2b",
-  "text_sha256": "e6fdf9b4f247cba21333f3a64b9a4d3f431aa9807d4acf603fc07dcbaef5442e",
-  "byte_size": 24628,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "62aadb58f21a2922f63ad4b986c83082e4e2db9526078633d2fd62cedc0f7389",
+  "text_sha256": "a40e842ebabf35808e55765ecb7647ccc772c7e59eb34404ef6b744b4d5f133e",
+  "byte_size": 24848,
   "title": "Quick Links - Calhoun County Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "1aeefeb937507d29eaf78cb1c17c102cac0f0d558d63c7e293c88424df85cff0",
-  "text_sha256": "22fe2dde1e7ebcf74a5a30bbbb2bca8f273f9c3f2293f69cbb7e36d8321c85d9",
-  "byte_size": 75294,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "6520362879e08e6287d8695e9be3179600bb02b3f0edc1baea6ae2af5f3b5068",
+  "text_sha256": "562bdc5857ee0e0b28b3af72f00a5f712d6e2b1c453cebc9a260ecb0e8fdad88",
+  "byte_size": 73633,
   "title": "Henderson County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

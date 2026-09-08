@@ -69,7 +69,9 @@ Voter Registration Deadline:
 Monday, October 5, 2026
 Early Voting in Person Begins:
 Monday, October 19, 2026
-Last day for Elections Office to receive an Application for Ballot by Mail or Federal Post Card Application (FPCA):
+Last day for Elections Office to
+RECEIVE (in office)
+an Application for Ballot by Mail or Federal Post Card Application (FPCA):
 Friday, October 23, 2026
 Early Voting in Person Ends:
 Friday, October 30, 2026

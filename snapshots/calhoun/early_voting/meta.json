@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "d3c2e255ec05ab841e4da93f9a3cafde8a81a51fc3d6486ea49459a5d8a08a29",
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "f1c2a8f43ceaa65af20666e0c5c0e5781ab035dfcef38cb49fa3a8d90084a80d",
   "text_sha256": "8c986cfaa2740eb2827fee9d49d91ef30d33ad2bf73c0f55beaa593340382c0b",
   "byte_size": 10325,
   "title": "CCISD ELECTION EARLY VOTING ROSTERS - Calhoun County Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

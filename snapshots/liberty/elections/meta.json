@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "2ffc2ceed9fa00f56d67983f7ee0e067a7a4b251857a22ee19b7858b0e8740c3",
-  "text_sha256": "1cd80ca0eff51e0823bb031733cbe623fe029956186f37a82d1b93be5199551f",
-  "byte_size": 53203,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "f3ad2cd6bde8c53f37b023b874228291b0f931610a43b688e2234f2f7d7e61e3",
+  "text_sha256": "f96d364cd66d12178853a58707f8b499ff32b50a4ead19f5ea9cee237eba4170",
+  "byte_size": 53880,
   "title": "Liberty County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

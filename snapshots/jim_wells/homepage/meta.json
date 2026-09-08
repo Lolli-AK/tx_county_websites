@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "40c9da90e561337f3aafa6e1a58a3205e3a0ae3fa6c27cb409e003be044b32b6",
-  "text_sha256": "5b4762248473dca41fbd6744d885577280a024e0ad274e20383857db3dc21ba5",
-  "byte_size": 70768,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "f696bdea71ab9f1f6aa637b57312beea4573341330d0bed2485f1f91d0c65f70",
+  "text_sha256": "9e4d033cde55b4d5b0bf4d1d12a2a046a03f658998272e119ccf7e6119c7d3d2",
+  "byte_size": 59436,
   "title": "Jim Wells County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

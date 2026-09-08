@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "933adc36ebced9c5187371e2ebc2fde81da21e9794b6d488822b884b55ac6c25",
-  "text_sha256": "8908b9d39be15e8d54db9a817db5dae2c9fcb0a2fd64094051c5e103d0496660",
-  "byte_size": 19207,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "aa0d096418c8671d8485d30f7fecfe36ae6dec9061c66790cc572c762cdb9f8b",
+  "text_sha256": "7218dbeab25a4e4fdd180d51693a1b42bd46f69a1d28909aba70f5c58906aa43",
+  "byte_size": 19409,
   "title": "Upcoming Elections - Wood County, TX Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

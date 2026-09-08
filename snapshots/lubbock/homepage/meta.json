@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "3dc3cbbdcf58cac0f42317824c502c67d148bee12b223ad0c18682eb079ef2cb",
-  "text_sha256": "ca29ca85ebf9cdf2d5fe0d4e13c65869e18003e4b4dc05945841ab7b60f9f009",
-  "byte_size": 12706,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "82af3a92cdca9922ec91b9f1730983bade3481f1aede4dbdfa12de7bba0b774f",
+  "text_sha256": "1df32ea90e24f04fb8d563b16ef000472a1f2cce2afdf003dce071477236968c",
+  "byte_size": 13247,
   "title": "Home / Lubbock County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -41,6 +41,7 @@ King County VFD
 50th Probation Department
 Public Notice Calendar
 Financial Transparency
+2026-2027 Adopted Budget
 2026-2027 Proposed Budget
 2025-2026 Adopted Budget
 2023-2024 Adopted Budget
@@ -200,6 +201,9 @@ Guthrie CSD
 Gateway Groundwater Conservation District
 King Co CAD
 King County Historical Society is Seeking Input for the New King County History Book by 30 August 2026
+2026 Election Polls Information
+Notice to Adopt Tax Rate for 26-27
+Order of Election 3 Nov 2026
 Budget Review 2026
 Public Notice of Budget Hearing
 Proposed Salaries and Allowances
@@ -302,9 +306,9 @@ iCal
 save current view to clipboard as an .ics link
 RSS
 save current view to clipboard as an .rss link
-August
+September
 2026
-August 2026
+September 2026
 Sun
 day
 Mon
@@ -315,10 +319,6 @@ nesday
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -351,12 +351,9 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
 How to find us.
 King County Courthouse
 1667 US-83

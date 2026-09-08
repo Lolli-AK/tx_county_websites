@@ -251,7 +251,7 @@ email this page
 printer icon
 Print this page
 Early Voting Information
-Primary Runoff Election: 26 May 2026
+General Election: 3 November 2026
 January 1, 2026
 - The first day to apply for an Annual
 Ballot by Mail
@@ -266,18 +266,21 @@ Applicants for ballot by mail may submit applications to:
 Bell County Elections Department
 P.O. Box 1629
 Belton, Texas 76513
-Monday, April 27, 2026 -
+Monday, October 5, 2026 -
 Last Day to Register to Vote
-Friday, May 15, 2026
+Friday, October 23, 2026
 -
 Last Day to Apply for Ballot by Mail
 (Received, not postmarked)
 Early Voting
-: Monday, May 18, 2026, to Friday, May 22, 2026
+: Monday, October 19, 2026, to Friday, October 30, 2026
 Dates and Times
-Monday, May 18 to Friday, May 22 - 7:00 am - 7:00 pm
-Tuesday, May 26th, 2026 — The Deadline for receiving Ballots by Mail (they
-must be postmarked by election day).
+Monday, October 19 to Friday, October 23 - 8:00 am - 5:00 pm
+Saturday, October 24 - 7:00 am - 7:00 pm
+Sunday, October 25 - 12:00 pm - 6:00 pm
+Monday, October 26 to Friday, October 30 - 7:00 am - 7:00 pm
+Tuesday, November 3, 2026 — The Deadline for receiving Ballots by Mail (they
+must be postmarked by Election Day).
 Locations and Hours
 Early Voting will be conducted in person during hours of operation at:
 Site
@@ -305,8 +308,8 @@ Harker Heights
 TX
 76548
 14
-Salado Annex (EV)
-11057 Event Drive
+Thomas Arnold Elementary School Gym T3 (EV)
+620 Thomas Arnold Road
 Salado
 TX
 76571
@@ -335,7 +338,7 @@ Killeen
 TX
 76541
 Notice of Voting Priority
-May 26th, 2026 (Tuesday)—ELECTION DAY Voting will be from 7:00 a.m. to 7:00 p.m.
+November 3, 2026 (Tuesday)—ELECTION DAY. Voting will be from 7:00 a.m. to 7:00 p.m.
 at one of the Election Day polling locations.
 Heart of Central Texas
 in the
@@ -354,13 +357,3 @@ Email Notify Sign-Up
 Powered by
 Revize
 Login
-Share
-×
-Share this page
-Copy and paste this code into your website.
-<a href="http://www.bellcountytx.com/departments/elections/early_voting_information.php">Your Link Name</a>
-Share this page on your favorite Social network
-Facebook
-Twitter
-Reddit
-Close

@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "0a2c13247d33dc11924600bcb3ad2d6d6a3d3b46ceff242608db45009748f983",
-  "text_sha256": "baae29ca62529c278578e5ebf08539faef86b53a9601be752d4cd3a6d2e9d661",
-  "byte_size": 27909,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "ce5894619e3e5c01fdd22632dda77ea795ac02a55732c43e8100d1583f03faf4",
+  "text_sha256": "9c76ad4a1990c1888ae9d7e155384f22f68b840a979122ec82d61d83f5e0f1df",
+  "byte_size": 30615,
   "title": "Brazos Votes – Official Website of the Brazos County, Texas Elections Administration",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

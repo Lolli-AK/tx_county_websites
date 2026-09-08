@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "2a39a7e8fc3b06df7ffc37f92c506317b4bfd4fba4ebdd47a2903c8cc84934e2",
-  "text_sha256": "0dac0daccb032db2e6c6d65b0b407c0702fd509d9280a79e0d32a06968339473",
-  "byte_size": 162993,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "c3746845e69741a6c9bc459915966a7d7c7964938e5a14945f5d429503966557",
+  "text_sha256": "14cb437d56ffc9d5d280acd4e82f9deba027f8500b5dcff89cb667512d1e3dd9",
+  "byte_size": 162213,
   "title": "Elections/ Voter Registration | Fort Bend County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

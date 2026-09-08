@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "e4ba435ecfd6793ee50d17561ee657c3e54f7233e120a710d87cf26aae921487",
-  "text_sha256": "d712329c9f6b20be56194fd804a6d57021c8e9f295ef41775d9bcc2b5cf3854d",
-  "byte_size": 43218,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "c5600047186f6a8a31082d75c1059bbf91a808c5e519c8f1f1d47f005486be83",
+  "text_sha256": "f8ad8220fee4d1584c95a9e46a09ea148f75f19f4693c90d41441fa69e1b3592",
+  "byte_size": 45782,
   "title": "Home | Frio County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

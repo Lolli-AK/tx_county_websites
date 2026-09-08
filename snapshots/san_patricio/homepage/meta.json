@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "9ad1bec7e9fc03fa6a951b9eb27eb58a9a0cae56b49741efbaee0c7e7ab26b3e",
-  "text_sha256": "1bcdd316d7083b4a5868c81a11a34f1bdae6266b340513f1c11f66764afb3c63",
-  "byte_size": 64026,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "0b86bf2561a7cf1524e12050de2241b03487ee50d36fa6f889b6f80695170b62",
+  "text_sha256": "4ee2b68968aa46a9ecdf56f876ae110bae414eae503adb80758af1e9a135038e",
+  "byte_size": 65211,
   "title": "San Patricio County Homepage | San Patricio County,Tx",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

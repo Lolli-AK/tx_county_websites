@@ -1,5 +1,4 @@
 Homepage | Delta County, TX
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to main content
 Image
 Image
@@ -193,7 +192,7 @@ Departments & Committees
 Type
 Event Date
 Burn Ban in Effect
-An Emergency Burn Ban was issued for Delta County on August 14, 2026 effective immediately for a period of 7-days. The Commissioners' Court will review the burn ban on August 20, 2026 at 9:00 a.m. to determine if the burn ban shall be renewed, extended, or allowed to expire.
+A Burn Ban was issued for Delta County on August 20, 2026 effective immediately for a period of 90-days. The County Judge, under advisement of the County Fire Marshal, may rescind the burn ban prior to the 90-day period if the conditions that necessitated the burn ban no longer exist.
 Read more
 Acknowledged
 Close
@@ -206,14 +205,28 @@ Contact Your Commissioner
 Receive Alerts
 Agendas & Minutes
 Election Information
-[rotating image slideshow removed for determinism]
+Data Center Development FAQ
+Frequently Asked Questions (FAQ)
+Proposed Development Near the Antioch…
+Read More
+Public Statement Regarding the Vacancy of County Commissioner for Precinct 3
+PUBLIC STATEMENT REGARDING THE VACANCY OF COUNTY COMMISSIONER FOR PRECINCT 3
+I…
+Read More
+Veterans Service Office
+The Delta County Veterans Service Office is responsible for assisting veterans and/or their dependents and…
+Read More
+911 Address
+Need a 9-1-1 Address?
+ATCOG manages the addressing services for cities and counties in the…
+Read More
 Previous
 Next
 View All News
 Fiscal Year 2027 Proposed Budget
 Tax Rate Information
 Budgets
-Notice of Tax Rate for Tax Year 2025
+Notice of Tax Rate for Tax Year 2026
 Notice of Tax Rate
 Tax Code Section 26.04(e) requires local government taxing units to publish a Notice of Tax Rate and sets out…
 Holiday Schedule
@@ -221,17 +234,17 @@ Previous
 Next
 View All
 Commissioners Court & Meetings
-Aug
-20
-Commissioners' Court Special Meeting
-9am
-Aug
-25
+Sep
+8
 Commissioners' Court Regular Meeting
 9am
 Sep
 8
-Commissioners' Court Regular Meeting
+Public Hearing on Fiscal Year 2027 Proposed Budget
+9am
+Sep
+8
+Public Hearing on Tax Year 2026 Tax Rate
 9am
 Previous
 Next
@@ -257,4 +270,3 @@ Public Information Act Requests
 Staff Directory
 Government Websites by CivicPlus®
 Staff Login
-Explore your accessibility options

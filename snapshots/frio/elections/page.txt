@@ -160,9 +160,9 @@ iCal
 Copy iCalendar (.ics) Link
 RSS
 Copy RSS Feed Link
-August
+September
 2026
-August 2026
+September 2026
 Sun
 Mon
 Tue
@@ -170,10 +170,6 @@ Wed
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -206,12 +202,9 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
 Election Commission and Board
 COUNTY ELECTION BOARD (Election Code Section 51.002)
 Elections Administrator (Chair)
@@ -237,6 +230,9 @@ nd
 Legislative Session (2011):  “The Legislature finds that the powers of a county election commission extend no further than to the appointment, acceptance of resignation, or recommendation for termination of a county elections administrator.”
 Press ENTER key to focus on the active panel
 IMPORTANT NOTICES PLEASE READ
+Order of General Election-Frio County
+ORDER of General Election For Other Political Subdivision
+-Charlotte Isd
 2026 ELECTIONS NOTICES:
 JOB OPENING FOR ELECTION WORKERS
 List Of Candidates for Primary

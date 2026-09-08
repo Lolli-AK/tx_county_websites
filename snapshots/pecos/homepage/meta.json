@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "845488d43f1e506a1d836cb688f06682cf2fb9ca5d4c5a6114a39cd9ee5b52a8",
-  "text_sha256": "1a3e98dd7f9042250be37cf05c9b770e9795822160e77887566fd6f972a69221",
-  "byte_size": 36379,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "b060c6fb6a8845256ff47bdc52098dac7b0e3eedec37f7c752a7c07b9577d667",
+  "text_sha256": "b66c6d95473a5e97441dad1fb2e1fc4e92be9250dedbca66949a8e609e8ed226",
+  "byte_size": 36604,
   "title": "Pecos County – co.pecos.tx.us",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

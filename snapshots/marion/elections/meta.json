@@ -6,14 +6,19 @@
   "redirect_chain": [
     "https://marioncountytaxoffice.com/elections/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "7d3aeff4459e2011352b7072784ae7c2729f3f8b2db896afe0fcb972a358545a",
-  "text_sha256": "ecb0c2b8aad33306a90cd9e249229da65f984ef7102c808b4402f21b6d6ba6b2",
-  "byte_size": 91016,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "2d45ae8fed618b86384723203bf33c5cf2ef05162a128ca8ab1e1ea209743626",
+  "text_sha256": "ba0973f30b4d7ba066e4f73800d26f4b32afd3f206db81172bdf7b5113d41187",
+  "byte_size": 104956,
   "title": "Elections – Marion County Tax Office",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

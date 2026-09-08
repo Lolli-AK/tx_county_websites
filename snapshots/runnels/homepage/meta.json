@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "b37ec77253ac72459445f63cb6b134c99de85977f337c3811a4f6c5c4de79699",
-  "text_sha256": "73cc47be20f5c163ef9007d6cfe0c9dfc1d8ef62a94b5df74523702fe80109f5",
-  "byte_size": 36549,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "fdaa00a0b7824d0becd5d9a7a7c48e477d90a728ccb9dcb0a9f235528feaf43a",
+  "text_sha256": "9f77b80da542c54b6968fe023c85d57d406d09021721be41ec4f96cd9b10937d",
+  "byte_size": 36929,
   "title": "Home - Runnels County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -8,12 +8,17 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "c33498ea940f5347592577ea7b70d619993aa7107fc657141ee157926b14381c",
-  "text_sha256": "9bc76c2dd00e1fd49c70b3bd0a8742699c61086e4f0ab6f0f981533cd52b4d5c",
-  "byte_size": 123273,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "d9dcd614dc10709e4ec4a01d359830d7063f3d04a7e48b862d5b75e26221390e",
+  "text_sha256": "716ddbc2d98f3a1acbf5698b38f23c723110fafb012777fea5f245a7e5231f7b",
+  "byte_size": 118449,
   "title": "Homepage | Delta County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

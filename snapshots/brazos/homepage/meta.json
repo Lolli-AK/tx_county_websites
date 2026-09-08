@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "c91e492d0bdf7100f862968a2a52d21e80b92e0f12c763a58fc1ff813f462cb2",
-  "text_sha256": "d10f94b2b155c55102d5f501d01b007fecfe75bbd4b473131c5cd7df3b3faf90",
-  "byte_size": 101484,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "3dd9a1e1dc5621ea9257a9ca197f766346b54e9a0ef90795093f9c642e553ca1",
+  "text_sha256": "d3a609787ab848e60b3b6fb3c038a556420a3a3cf3b2de19cd73444421b3eab6",
+  "byte_size": 105564,
   "title": "Brazos County, TX - Official Website | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

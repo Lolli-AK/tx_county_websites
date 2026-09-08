@@ -44,7 +44,6 @@ Veteran Services
 Visitors
 District Clerk Case Search
 Divorce Information
-Inmate List
 Marriage Information
 Public Records
 Sheriff's Office Open Records Request
@@ -84,17 +83,12 @@ Ben Perry
 Precinct 4 Commissioner
 View Commissioners Court Members
 Emergency Alerts
-Message from City of Mart
-BOIL ORDER: A boil order has been placed for residents in the following areas: All customers south of Texas Ave. (Hwy 164). Customers within Texas Ave. north to Cowen and N. Douglas east to N. Criswell. Water should be brought to a rolling boil for...
-Message from City of Mart
-BOIL ORDER: A boil order has been placed for residents in the following areas: All customers south of Texas Ave. (Hwy 164). Customers within Texas Ave. north to Cowen and N. Douglas east to N. Criswell. Water should be brought to a rolling boil for...
-Extreme Heat Warning issued July 21 at 1:00PM CDT until July 22 at 8:00PM CDT by NWS Fort Worth TX
-* WHAT...For the Heat Advisory, heat index values up to 108. For the
-Extreme Heat Warning, dangerously hot conditions with heat index
-values up to 112 expected.
-* WHERE...Portions of north central, northeast, and south central
-Texas.
-* WHEN...For...
+City of Robinson
+On September 3rd, a contractor will be installing a 6" water tee with 3 valves. This work will require a water shutoff affecting customers in the Windmill Preserve Subdivision and the 600 to 800 block of Stegall from 8 a.m. to around 5 p.m., barring...
+City of Robinson
+On September 3rd, a contractor will be installing a 6" water tee with 3 valves. This work will require a water shutoff affecting customers in the Windmill Preserve Subdivision and the 600 to 800 block of Stegall from 8 a.m. to around 5 p.m., barring...
+Water Shut Off - Emergency Valve Replacement
+A city crew will be installing a new water valve to replace a broken 2-inch valve on Tuesday, September 1, 2026. This work will require a temporary water shutoff affecting customers in the Windmill Preserve Subdivision and the 600-800 block of...
 View All
 /Calendar.aspx
 News & Events
@@ -115,7 +109,7 @@ With the MyAccount feature, you can customize your viewing experience, sign up f
 Read More
 View All News
 /CivicAlerts.aspx
-August 2026
+September 2026
 Sun
 Mon
 Tue
@@ -123,10 +117,6 @@ Wed
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -159,12 +149,9 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
 There are no published events in current month.
 View All Events
 /Calendar.aspx

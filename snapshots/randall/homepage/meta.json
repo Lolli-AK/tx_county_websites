@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "89c0d7084b2b980992ea3b98dd31d83dba87055874dec09eef4414242bb298a5",
-  "text_sha256": "fede6086ab603009c8f715cbedeb476fc4b094fa16055038f039aca35c173135",
-  "byte_size": 51557,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "d1e4df1053f96fe0e60a1349ea9394222452ed093abbd139e00716a0eaa0f4d0",
+  "text_sha256": "f8e1ea8c6033f383f789186442073bb030f87a961e93048f9c239b79cab30cd0",
+  "byte_size": 49834,
   "title": "Randall County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

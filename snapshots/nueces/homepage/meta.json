@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "2ad8954ebee01fdfa2ea88b07a805a805f7e1d47939978f215b81cdb916b02e5",
-  "text_sha256": "c510ac22d92232cfd9a6ff59f5a17e443120b24c7621d943e41eefb1cdc93658",
-  "byte_size": 100452,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "2ff6bed2c9efde0937d334698e3768e6ba8deb65d2943340d93e4421232aac3a",
+  "text_sha256": "6671b927dfd4268a89080f0bcfe5adc931ad33bec398e83cd19a85d47994439a",
+  "byte_size": 101973,
   "title": "Nueces County, TX | Home",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

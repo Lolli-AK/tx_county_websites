@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "6e21ee23c6b2f3849735f45d0e41d2472137066528ca0d47cfd50dc8168d0ee9",
-  "text_sha256": "c7a9e0964f00eef3504ca5d983535ca2a4445a2ecb08eaaf0af693d6a5e3f9a1",
-  "byte_size": 51511,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "5334706740acc2ab9def84006adde7ccf0e53fa47153d4e3279477a3b193b929",
+  "text_sha256": "7733dd7466e5423392cd460a1d6456b340aa28e56d964070e6005efc2b97c6c1",
+  "byte_size": 51330,
   "title": "Wilson County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

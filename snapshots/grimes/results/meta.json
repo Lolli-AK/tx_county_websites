@@ -10,10 +10,15 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "380c2815b175a8e35b31e07dbf24bb4804581371bcd49b4563f2b1ec7f572c01",
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "0bf0f65eabd855c98b2c2da13203a155b75c180e44fb89424cb1c7a5712d6fc3",
   "text_sha256": "4fcd6757fd1bba0a874280050f969c969b4c24985c4104ba7fe698a6bc66e414",
-  "byte_size": 68055,
+  "byte_size": 68046,
   "title": "May 2, 2026 City & School Election: Unofficial Results - Grimes County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

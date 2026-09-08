@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "1434645622001019b695045e23fa4ec37372ec6861bf97951c4735e69307835e",
-  "text_sha256": "104536aa7bd9d1d2a7840596314c9aad7315eb91fb1fb6332f28438ba5b52954",
-  "byte_size": 52052,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "d02b4f394db5b8e96168311acb2b74eb060f436def22f0a50c8043debb3e9552",
+  "text_sha256": "781daa620a14d05c82c5f8bbd1ee43403a0c120f2fb3ea135165c1d106557447",
+  "byte_size": 51041,
   "title": "Austin County Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

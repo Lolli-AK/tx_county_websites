@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "75bf53e3be8b9c84d1758d6e94664f8a0802f166b3eb6004f741c2ed0e2392cf",
-  "text_sha256": "776833f41161aef72c3ff633cd1eec100fe6b56fee2e7cf1f7f9949301b64ae0",
-  "byte_size": 130499,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "1f42a8bb9f2cdc3f75834eefc6085913cfc06dab0265b0f8d69022557b174919",
+  "text_sha256": "424e6de5d1f1cc5559a982c1b611146947e32c495767315d8734008364d3c7a0",
+  "byte_size": 131807,
   "title": "Elections - Voter Information | Blanco County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

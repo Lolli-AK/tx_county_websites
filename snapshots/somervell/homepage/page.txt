@@ -16,8 +16,6 @@ Transfer Station
 Our Community, Our Commitment
 Stay Up To Date With Somervell County
 Latest News
-Order Restricting Outdoor Burning
-Order Restricting Outdoor Burning (PDF)
 Create an Account
 With the MyAccount feature, you can customize your viewing experience, sign up for notifications, and engage in information you care about.
 Read on...
@@ -27,7 +25,7 @@ Read on...
 View All News
 /CivicAlerts.aspx
 Upcoming Events
-August 2026
+September 2026
 Sun
 Mon
 Tue
@@ -35,10 +33,6 @@ Wed
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -71,12 +65,9 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
 There are no published events in current month.
 View All Events
 /Calendar.aspx

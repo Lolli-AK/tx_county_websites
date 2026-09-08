@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "ae0075efebde4a9f97394ad8d7ac9060434d87bf0fba0e7e18854827c888a603",
-  "text_sha256": "cf7c6fd2d9bfea4e8e46fe0a039c3050150cf7ded9d68a6e049007d7fad0a526",
-  "byte_size": 39339,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "d22c9a12753d13b0a74050714a27e1887c511b4179cd0d7018bc810f1e5a8d02",
+  "text_sha256": "9bc92904086911f0a4c960213e8beab7376ff38cb33084a82cceac40279a9c2a",
+  "byte_size": 40231,
   "title": "Election Results | Nacogdoches County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

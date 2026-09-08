@@ -3,6 +3,7 @@ Close Menu
 Voter
 View information for upcoming Elections
 Election Information
+Harris Votes App
 Registration
 What's on my Ballot?
 First-Time Voters
@@ -48,6 +49,7 @@ November 3, 2026, General and Special Elections
 Voter
 View information for upcoming Elections
 Election Information
+Harris Votes App
 Registration
 What's on my Ballot?
 First-Time Voters

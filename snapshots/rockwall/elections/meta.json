@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "bd0ae2b4ff21c9f867855930a807ca5ae594658da1587e117df16884bbba17aa",
-  "text_sha256": "c0dcc748f2c17c8f1623c7abb261a554e4c43d5147f92d09838eb308de45df2b",
-  "byte_size": 27530,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "3526d4c5dc1ea23475bb764ba3065d1c5c86aae652e8d5fac7a1d8a7d581c6cf",
+  "text_sha256": "37f1333e6300433a3e86e7d0ea8a785fe127047ed2994cac873dfcfb95db95d0",
+  "byte_size": 27926,
   "title": "Rockwall County, TX Elections | Rockwall County, TX Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

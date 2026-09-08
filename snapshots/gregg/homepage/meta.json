@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "ef950fd1d791100a14c247c8f729b53414eaf32db4487ba7e1fade47d055d056",
-  "text_sha256": "5da15aa4697e69913d16df15017e40a5c9e54036cf20acc387b07e9970ec8436",
-  "byte_size": 132682,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "e5f66350b42d4d93e13aa7f06cc974e2187302804cf28375a083598b58a7df97",
+  "text_sha256": "e1d6c7f93d1c7b13781085a5f8ad72d02a1515896555a3fad3d71f6fefc23976",
+  "byte_size": 132666,
   "title": "Gregg County\n /\n Home",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

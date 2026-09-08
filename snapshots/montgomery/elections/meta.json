@@ -10,10 +10,15 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "df2b25bc8be8f301afe41831a9bc6c1cb052ad971855da1b83ce3049f6f5fadc",
-  "text_sha256": "deeb0cb6b8d81e0cf17bc51bd2e29919b885643eabd60478de237b630b79179b",
-  "byte_size": 23748,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "3d3028c89e55a9bcd67170bc2afb292ee601e4e2fc0b0ed54f60dcceca8416b0",
+  "text_sha256": "1409501fc368e72a6f5312f8b21f7721f9e64834d1873c5f24327e8349edc64b",
+  "byte_size": 23747,
   "title": null,
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

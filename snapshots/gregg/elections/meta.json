@@ -2,18 +2,24 @@
   "county": "Gregg",
   "page_type": "elections",
   "requested_url": "https://www.greggcountyvotes.com/",
-  "final_url": "https://www.greggcountyvotes.com/",
+  "final_url": "https://greggcountyvotes.gov/",
   "redirect_chain": [
-    "https://www.greggcountyvotes.com/"
+    "https://www.greggcountyvotes.com/",
+    "https://greggcountyvotes.gov/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "c27d5a5ba300004df7c0688c3e721e7402e79a00d7d49865436e6b50f5863474",
-  "text_sha256": "e4dca64b4ea7c7dfdad52c9b57b6379d3ec5d5091cfb6e9cb2f2fc0ffd025a37",
-  "byte_size": 43317,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "0dcc1e0c145daa5ec072c8f27ba91fd383259ec668415f219aceb9f6b89cf6c4",
+  "text_sha256": "61df96728ddd390828b2fa6b64bc32ab15dec8022eb5a5f05251d9b47218cfa8",
+  "byte_size": 45402,
   "title": "Gregg County TX – Elections Department | Elections Information",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

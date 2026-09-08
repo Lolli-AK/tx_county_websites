@@ -1,0 +1,24 @@
+{
+  "county": "Montague",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.co.montague.tx.us/page/montague.RegistertoVote",
+  "final_url": "https://www.co.montague.tx.us/page/montague.RegistertoVote",
+  "redirect_chain": [
+    "https://www.co.montague.tx.us/page/montague.RegistertoVote"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "04ffc0672bd4579cd07887b170df170ff378373e8a31440f8dd095dc2334dd81",
+  "text_sha256": "577dcdce08273ec95502a01e1c16f622cf5a2e9edd564819140ee5eeb13bae25",
+  "byte_size": 35710,
+  "title": "Montague County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

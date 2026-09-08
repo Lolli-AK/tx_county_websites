@@ -51,38 +51,55 @@ Fax: 806-995-2214
 m.montgomery@swishercounty.gov
 11-03-2026 - GENERAL ELECTION (3 DE NOVIEMBRE DE 2026 - ELECCIÓN GENERAL)
 ▲
-Notice of Election (
-Aviso La Eleccion
-) - coming soon (
-muy pronto
-)
-Sample Ballot
-(Boleta de muestra)
--
-coming soon
-(
-muy pronto
-)
+Notice of Tulia Independent School District Tax Rate Election
+(Aviso de la Elección de la Tasa Impositiva del Distrito Escolar Independiente de Tulia)
 Early Voting Dates, Hours and Locations
 (Fechas, Horarios y Lugares de Votacion Anticipada)
 Election Day Voting Hours and Locations
 (Forarios y lugares de votacion el dia de las elecciones)
-Notice of Equipment Testing (
-Aviso de prueba de equipos
-) - coming soon
-(muy pronto)
 Election Worker Public Training
 (Capacitacion Publica Para Trabajadores Electorales)
--
+Notice of General Election (
+Aviso La Eleccion
+) - coming soon
+(p
+róximamente
+)
+Sample Ballots
+(Papeletas de muestra) -
 coming soon
+(p
+róximamente
+)
+Notice of Voter Equipment Testing
 (
-muy pronto
+Aviso de prueba de equipos de votación
+) -
+coming soon
+(p
+róximamente
+)
+Notice of Electronic PollbookTesting
+(
+Aviso de prueba de cuadernos de votación electrónicos
+) -
+coming soon
+(p
+róximamente
+)
+Notice of County Election Board Meeting (
+Aviso de reunión de la Junta Electoral del Condado
 )
 Early Voting Ballot Board and Central Counting Station (
 Junta de votacion anticipada y estacion central de escrutinio)
-- coming soon (
-muy pronto
+- coming soon
+(p
+róximamente
 )
+Election Results (R
+esultados electorales actuales)
+- coming soon
+(próximamente)
 CAMPAIGN FINANCE REPORTS (INFORMES FINANCIEROS DE CAMPANA)
 ▲
 Swisher County Campaign Filing Links Note:  The information in the section below is for candidates who file in Swisher County.  Texas law requires county officeholders and candidates to file documents required to comply with the campaign and financial disclosure laws.  County Officeholders and Candidates must file a semi-annual (January and July) Campaign Finance Report in accordance with Title 15 of the Texas Election Code.
@@ -104,9 +121,7 @@ Update Your Voter Registration
 Actualice su informacion de registro de votantes
 )
 Voters in the Military or Overseas
-(
-Votantes en el ejercito o en el extranjero
-)
+(Votantes en el ejercito o en el extranjero)
 Students, Young and First Time Voters
 (
 Estudiantes, jovenes, y votantes po primera vez
@@ -167,9 +182,11 @@ Poll Worker Recruitment and Training
 (
 Reclutamiento y capacitación de trabajadores electorales
 )
-Become an Election Worker (
+Become an Election Worker
+(
 Conviértete en trabajador electoral
-):
+)
+:
 Contact your Elections Administrator at 806-995-2363 or m.montgomery@swishercounty.gov  (
 Comuníquese con su administrador de elecciones en 806-995-2363 o m.montgomery@swishercounty.gov
 )

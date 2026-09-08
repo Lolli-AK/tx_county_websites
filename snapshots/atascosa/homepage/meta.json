@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "76eec2ed09d48b6388b4aef4ad4588ecb9a83b08e06af22997d509a53796b4f4",
-  "text_sha256": "4e1ef6a9aeb9e671971e2c653d9bf5b96fc2e19d38e2ed47ba5b9745d90dca3e",
-  "byte_size": 40841,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "83b0cee397bd20ce5ff01afef1c5a497c3788911466128d29d23ba4caaad32f4",
+  "text_sha256": "7bc85f6a7c7bee816a2e44c493b87d0f244ad01d33f52c2a8ae5eb55f34cd568",
+  "byte_size": 40850,
   "title": "Atascosa County – Your one-stop shop for County info!",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

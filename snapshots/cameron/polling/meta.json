@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "679deceecf1fe20e9fb3fe76cd42c802de2372a5eb25c320a36c9ce1729796f0",
-  "text_sha256": "8199cc95ec2c20e41f9cc1afc6f2a2e629bbeddea1b1eff7f82a3408f186ebf6",
-  "byte_size": 23467,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "cb98ef7a6e7d4c4339ce994928135a9d7d6ffc60732564dca7a81addc99186d2",
+  "text_sha256": "45124458fbe71ae11503d1cd12b69262668035bca39ae46a7f1dc71800647e3b",
+  "byte_size": 25045,
   "title": "Locations - Cameron County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

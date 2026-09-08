@@ -106,9 +106,9 @@ iCal
 save current view to clipboard as an .ics link
 RSS
 save current view to clipboard as an .rss link
-August
+September
 2026
-August 2026
+September 2026
 Sun
 day
 Mon
@@ -119,10 +119,6 @@ nesday
 Thu
 Fri
 Sat
-26
-27
-28
-29
 30
 31
 1
@@ -155,19 +151,14 @@ Sat
 28
 29
 30
-31
 1
 2
 3
-4
-5
 Approved Zavala County Projects
 Subdivision Regulation Public Notice-English
 Subdivision Regulation Public Notice-Spanish
+Zavala County Public Notice Tax Abatement Public Hearing
 Download file
-Commissioners Court Meeting August 19th at 10:00 a.m.
-Join Us Live!
-https://us06web.zoom.us/j/83059059181?pwd=3RvcgmKRQBaEaPk74UzWiglXejKOYS.1
 Border Crisis Declaration
 Disaster Declaration - Rescinded Curfew
 Disaster Declaration Winter Weather

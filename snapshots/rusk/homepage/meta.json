@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "17dba0d214a6c90419c9396051fa8d20ef47f0371202685390a404eb5397d32e",
-  "text_sha256": "d3b11628451bc727c586ba266c60da20204fc71224499b73053dbc16de5d0b6e",
-  "byte_size": 74649,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "6867b68281f461cbb14dd7a023cbc3e958d21dc53502ae984d2a71b597f1c66b",
+  "text_sha256": "d2dbaa1c272603a1055ede6ff413a541855408cfe5bb82ffb0eb56e1d00d5787",
+  "byte_size": 59860,
   "title": "Rusk County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

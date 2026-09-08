@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "1c7a0361177c5e5dc1fb5bda45fb2efefb0e8dd9c2712719b5ebea92c40bde0f",
-  "text_sha256": "8b4563bf3d7fd15d8e895d091996836cd87e397ad19ddb1c310cbacddd395a9a",
-  "byte_size": 39886,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "cd13782f158075a6659bec877e092fa6ffbc8aa712a640ea235594ba5720154a",
+  "text_sha256": "6626c20633dda3e3aaadeae2aa77bed5915fc3837204af31c38efdaa19557ed2",
+  "byte_size": 40067,
   "title": "Gonzales County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

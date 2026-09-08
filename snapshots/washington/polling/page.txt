@@ -101,6 +101,8 @@ Public Notices
 Texas Public Information Act
 Road Conditions
 Texas Public Information Act
+Truth in Taxation
+Truth in Taxation Summary
 Para leer la versión en español, el botón de traducción está en la parte superior derecha de la página.
 To read the spanish version, the translation button is in the upper right side of the page.
 WASHINGTON COUNTY ELECTIONS OFFICE
@@ -118,10 +120,7 @@ Elections and Voter Registration Office
 Brenham, Texas 77833
 Phone : 979.277.6264
 Fax: 979.277.6213
-Carol Jackson, Elections Administrator, Registered Election Official
-Early Voting Clerk and Voter Registrar
-Email: cjackson@washingtoncountytx.gov
-Jennifer Gajeske, Elections Administrator Clerk, Deputy Voter Registrar
+Jennifer Gajeske, Elections Administrator, Voter Registrar
 Email: jennifer.gajeske@washingtoncountytx.gov                                                                          *
 Provides a complimentary notary service not related to the job requirements.
 _______________________________________________________________________________________________________________
@@ -247,6 +246,24 @@ Please Read Before Training
 .
 100 E. Main Street, Rm 103 B, Brenham, Texas 77833
 Training Provided by the Secretary of State Link
+NOVEMBER 3, 2026 GENERAL ELECTION AND SPECIAL ELECTION
+▲
+EARLY VOTING LOCATION, DATES AND HOURS
+ELECTION DAY POLLING LOCATIONS
+Sample Ballots
+Precinct One
+Precinct Two
+Precinct Three
+Precinct Four
+NOTICES:
+County Election Board Meeting
+Notice of Public Testing of Automatic Tabulating Equipment
+Notice of Testing of Electronic Pollbook
+Notice of Early Voting Ballot Board Convenings
+Notice of Delivery of Provisional Balloting Materials
+Notice of Post Election Hand Count Audit
+Random Hand Count, Notice of Additional Hand Count Audit
+Additional Post Election Hand Count Audit
 MAY 2, 2026 JOINT GENERAL ELECTION AND JUNE 13, RESULTING RUNOFF ELECTION
 ▲
 JUNE 13, 2026 RUNOFF ELECTION
@@ -558,8 +575,7 @@ Notice of Public Testing of Automatic Tabulating Equipment
 Notice of Testing of Electronic Pollbook
 Notice of Early Voting Ballot Board Convenings
 Notice of Delivery of Provisional Balloting Materials
-Notice of Post Election Hand Count Audit
-Random Hand Count, Notice of Additional Hand Count Audit
+Notice of Post Election Hand Count Audit                                                                                                       Random Hand Count, Notice of Additional Hand Count Audit
 Additional Post Election Hand Count Audit
 ELECTION RESULTS
 Republican

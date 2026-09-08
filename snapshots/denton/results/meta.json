@@ -6,14 +6,19 @@
   "redirect_chain": [
     "https://results.enr.clarityelections.com/TX/Denton/"
   ],
-  "http_status": 202,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-08-20T08:22:15Z",
+  "fetched_at": "2026-09-08T17:36:52Z",
   "html_sha256": "eb1c5a9f6b5bedbe24784f2a8d39ad17d6910bf077035a96cbfcad05528dbbc5",
   "text_sha256": "e96a1403c3ba206464923f18b480019ab3b84e926554932951c5aab6ffc03694",
   "byte_size": 49778,
   "title": "List Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

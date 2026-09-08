@@ -6,14 +6,19 @@
   "redirect_chain": [
     "https://www.webbcountytx.gov/ElectionsAdministration/UnofficialResults/default.aspx"
   ],
-  "http_status": 200,
+  "http_status": 404,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "fd645a020c80b3761b54f8983c37750549635b7928ceb8105630f25ff66b38ac",
-  "text_sha256": "c5b12dd40f716c962cc2dede6b894435cff5965b426786a266e2a9de5a620689",
-  "byte_size": 25553,
-  "title": "Unofficial Results",
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "bc6615340c52fbf17f9c68a4baf99ae4742d856a7c44a3639c7b8c8235f6a903",
+  "text_sha256": "54cbff3235045f4f279cad6fb66633d004c1231496a8f306e08c450d42a71cc3",
+  "byte_size": 41465,
+  "title": "Custom404 • Webb County, TX • CivicEngage",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "57c061ac5acf7c56f8cc263bc5149c1d16c5ebdeca90fe3aec4d7f6ffce3649e",
-  "text_sha256": "5640848f0169c7e4f486a2441512f478ab62bafcfc78a686c16e710c05d16adb",
-  "byte_size": 24832,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "707b4e5ce3d9290f444507c9fbf4a38f4fdc87ed122717f3cf67dba3a4b9ca7b",
+  "text_sha256": "6fac230133b48fe0c89230d08daf31a67b66479bb390d1eecc20f8c733a121a9",
+  "byte_size": 32984,
   "title": "Lamb County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

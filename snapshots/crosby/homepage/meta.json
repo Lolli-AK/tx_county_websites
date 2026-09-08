@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "c4def6691cbb6daca672b21c8fccc1a6d30db8171f73e7c1c0e68fa96d83242c",
-  "text_sha256": "a51dc9ff7c4d8422af09339c3ab18ddcb3dbc77deeaafd757d3c69749dc925dd",
-  "byte_size": 23652,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "0b4834770ee4b31cb51d094ac2a30d9c5f4fcd318a7f5beb735395708a768224",
+  "text_sha256": "f77744dbc71eafc6c4f8084e736cdbd1c8b99d10c8b21b94ed7d6d2350f278c3",
+  "byte_size": 23860,
   "title": "Home Page - Crosby County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

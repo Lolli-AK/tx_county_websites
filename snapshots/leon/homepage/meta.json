@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "e30578679084a2ee01a3b42de8a664accd958ccd7e0624bac3c1a2540d333534",
-  "text_sha256": "7bc6606be5339bf5dfe56c4ab5f02b796ffe931962455b68c1ee5a1a3b6e5205",
-  "byte_size": 56306,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "b9058fe4d91fd4f9a993a3a7237c0fba7508b205c27b4ce4a75874940bfc317c",
+  "text_sha256": "6856887ca462a910c87435f87c43b6eacfaeab66f697e66c8ef6b941a25c7648",
+  "byte_size": 53517,
   "title": "Leon County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

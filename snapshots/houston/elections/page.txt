@@ -83,11 +83,12 @@ Houston County Elections Administrator
 REO # TX-138
 401 East Goliad Avenue
 Crockett, Texas 75835
-Office hours 9:00am until 4:00pm
-Upcoming Amended Hours
 Tel: (936) 544-3255 ext 243
 Fax: (936) 544-0189
 Email: election@co.houston.tx.us
+Regular Office hours
+Monday - Friday
+9:00 a.m. - 4:00 p.m.
 Contact Us
 ▲
 tab1
@@ -95,6 +96,49 @@ Email:
 Invalid Email Format
 Reason for Inquiry
 reCAPTCHA is required
+A meeting for the purpose of Poll Worker Recruitment and Public Election Q&A will be held on Friday, October 2, 2026, in the Houston County (old Pioneer Bank) Community Room located on the square.
+For study materials and Worker training schedules please see our dropdown below titled:
+Training for Poll Workers / Volunteer Deputy Registrars
+November 3, 2026 General Mid-Term / Special Election
+▲
+Election Results
+Official
+Election Total
+Precinct by Precinct
+Reconciliation Form
+Preliminary/Unofficial
+Election Total
+Precinct by Precinct
+Reconciliation Form
+Notice of Canvass
+Canvass
+Joint General / Special Election
+List of Voting Locations
+Order of Election
+Lovelady ISD Order of Election
+Notice of Joint General / Special Election
+Sample Ballot
+PROCLOMATION OF ELECTION
+Notice of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+Notice of Public Logic and Accuracy Test of Electronic Pollbook Equipment
+Certification of Logic and Accuracy Test of Electronic Poll Book Equipment
+Notice of Election Training Program
+Central Counting Station - Written Plan
+Notice of Delivery of Balloting Materials to Early Voting Ballot Board
+Notice of Delivery of Balloting Materials to Central Counting Station
+Notice of Delivery of Provisional Ballots
+Rosters
+Early Voting
+Ballot By Mail
+Election Day
+Notice of Post-Election Hand Count Audit                                                                                                                (Replaces Partial Manual Recount)
+Notice of Designation of Early Voting Ballot Board Members for                               the Post-Election Hand Count Audit
+Summary and Certification of Post-Election Hand Count Audit Results
+Post-Election Hand Count Audit Returns
+Previous Elections
+▲
+2026 Elections
+▲
 March 3, 2026 Joint Primary Election
 ▲
 Election Results
@@ -337,43 +381,6 @@ Republican
 Post-Election Hand Count Audit Returns
 Democratic
 Republican
-November 3, 2026 General Mid-Term / Special Election
-▲
-Election Results
-Official
-Election Total
-Precinct by Precinct
-Reconciliation Form
-Preliminary/Unofficial
-Election Total
-Precinct by Precinct
-Reconciliation Form
-Notice of Canvass
-Canvass
-Joint General / Special Election
-List of Voting Locations
-Order of Election
-Lovelady ISD Order of Election
-Notice of Joint General / Special Election
-Sample Ballot
-PROCLOMATION OF ELECTION
-Notice of Public Testing of Automatic Tabulating Equipment
-Notice of Public Logic and Accuracy Test of Electronic Pollbook Equipment
-Notice of Election Training Program
-Central Counting Station - Written Plan
-Notice of Delivery of Balloting Materials to Early Voting Ballot Board
-Notice of Delivery of Balloting Materials to Central Counting Station
-Notice of Delivery of Provisional Ballots
-Rosters
-Early Voting
-Ballot By Mail
-Election Day
-Notice of Post-Election Hand Count Audit                                                                                                                (Replaces Partial Manual Recount)
-Notice of Designation of Early voting Ballot Board Members for                               the Post-Election Hand Count Audit
-Summary and Certification of Post-Election Hand Count Audit Results
-Post-Election Hand Count Audit Returns
-Previous Elections
-▲
 2025 Elections
 ▲
 May 3, 2025 Election
@@ -1140,9 +1147,13 @@ Gene W. Stokes
 Morris E. Luker
 - County Constable, Precinct No. 2 -
 Kenneth "Red" Smith
+_____________________________
+Form C/OH
+____________________________
 Student Voting Guide for Texas
 Nonpartisan Voter Guide
 League of Women Voters
+_____________________________
 _____________________________
 Current List of Approved
 OFFICIAL POLLING LOCATIONS
@@ -1153,6 +1164,7 @@ ask 'GOOGLE' where to vote.
 The list it gives is not correct!
 November 3, 2026
 INFORMATION & ELECTION LOCATIONS
+_____________________________
 Maps
 ▲
 Houston County
@@ -1168,8 +1180,10 @@ Zoomable Map 1-5
 Precincts 6-7
 Precincts 1-5 (City of Crockett only)
 Precincts 6-7(City of Crockett only)
+_____________________________
+_____________________________
 Easy Reference Candidate Filing Schedule
-Current Officeholder (Annual) Filings =
+Current Officeholder (Annual) Filing Dates =
 January 15th
 July 15th
 Filing for a place on the Primary Ballot
@@ -1188,14 +1202,14 @@ October 5
 th
 /   October 26
 th
-After Election Filing (2027)=
-January 15
-th
-/   July 15
-th
-Form C/OH
+Reminder that you must complete all campaign finance filings until you are official election on the November Ballot. At that time, and at your descression you may file a final report to alieveate your continued filing requirement.
+After Election Filing (2027) see current officeholder above
+.
+_____________________________
 Training for Poll Workers / Volunteer Deputy Registrars
 ▲
+November 3, 2026 Training Schedule
+_________________________________________________________________________________
 Online Training Courses
 POLL WORKER TRAINGINGS
 Our online training courses are designed to keep you up to date on policy and procedures and are a great refresher before working an election.
@@ -1229,7 +1243,7 @@ Applications and Forms
 Poll Worker Application
 Student Election Clerk
 Form W-4
-______________________________________
+_________________________________________________________________________________
 VOLUNTEER DEPUTY REGISTRAR
 Volunteer Deputy Registrar Training Presentation
 (Spanish)
@@ -1238,7 +1252,7 @@ Volunteer Deputy Registrar Guide
 After completing the online training,
 call our office @ 936-544-3255 *243 to schedule a time to come in and fill out your application for appointment, and take your test to be appointed. Once you pass, you will be appointed as a Volunteer Deputy Registrar and receive your certification and materials.
 *Note: all appointments will expire on December 31st of each even-numbered year.
-___________________________________________________
+_________________________________________________________________________________
 Open Records Request
 ▲
 A Request form

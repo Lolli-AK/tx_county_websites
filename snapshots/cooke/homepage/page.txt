@@ -1,3 +1,4 @@
+Cooke County Texas Home Page
 Cooke County, Texas
 Skip Navigation
 Cooke County Texas
@@ -25,7 +26,6 @@ Jail
 Patrol Division
 Crime Prevention
 FAQ
-Links
 Recruiting
 County Offices
 County Judge
@@ -44,7 +44,6 @@ County Court at Law
 County Tax Assessor/Collector
 County Treasurer
 Justice of The Peace
-Home
 Precinct 1
 Precinct 2
 Constable
@@ -67,26 +66,24 @@ Check Registers
 Tax Information
 Treasurer Reports
 Utility Reports
-Public Notices & News
-Conflict of Interest Disclosures
-County News
 Public Notices
-Bid, RFP, RFQ, LN
----------------------------------
-County Ordinances
-Home
-Lake Ray Roberts P & Z
-RV Park Ordinances
-Subdivision Regulations
+Conflict of Interest Disclosures
+Meetings/Agendas
 Elections
 Home
 Important Election Dates
 Candidate Filing Information
 Ballot by Mail
 Who Represents Me
+---------------------------------
+Bids, RFPs, RFQs, LNs
+County Ordinances
+Home
+Lake Ray Roberts P & Z
+RV Park Ordinances
+Subdivision Regulations
 Emergency Preparedness
 Employment Opportunities
-Forms
 Open Records
 Pay Traffic Citations
 View Bigger
@@ -119,7 +116,6 @@ Sivells Bend ISD
 St. Mary's Catholic School
 Valley View ISD
 Walnut Bend ISD
-As of Monday, 8/10/26, Cooke County is under a BURN BAN. All outdoor burning is prohibited. Details below.
 Welcome to Cooke County, Texas
 101 South Dixon, Gainesville, Texas 76240
 Phone: 940-668-5500
@@ -130,9 +126,6 @@ BURN BAN
 . All outdoor burning is prohibited.
 Full Details (PDF)
 .
-Cooke County Proposed Budget
-for Fiscal year 2027
-(PDF)
 Considering a Safe Room or
 Storm Shelter
 ?
@@ -162,11 +155,11 @@ Rapid Emergency Notification System
 Enrollment
 -
 Learn more
-1) Residents who have already registered DO NOT need to re-enroll.  They are already grandfathered into the system.
-2) Any residents who live
+Any citizens who live
 within the city limits
-of Gainesville should enroll in the City of Gainesville CodeRED at
-https://gainesville.tx.us/
+of Gainesville should enroll in the
+City of Gainesville CodeRED notification system
+, but are also welcome to join the County's above.
 Install the CodeRED mobile app
 Apple App Store
 Google Play

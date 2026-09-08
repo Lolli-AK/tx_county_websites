@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "2abb7adfb6bde458bc17f54a903cb2eec085a2236873b5a7f6de23da8f6d1a9c",
-  "text_sha256": "b6af24f7f16628412f97e74e15e12c6b8e4e94520377b08288d3b47c3d948d9c",
-  "byte_size": 35454,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "272fb03f96e717ccff97f320305aca61c53bf36225f23894730a880a53cdbdea",
+  "text_sha256": "44630dce9c047a9f6d12c9d4244d1c78d213d7e468cd5e31070536fe53ed1b88",
+  "byte_size": 35373,
   "title": "Homepage | Blanco County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

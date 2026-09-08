@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-81°F
+91°F
 EN
 ES
 Government
@@ -35,8 +35,8 @@ Proposed Budget
 Maverick County Proposed Budget — Fiscal Year 2027 is now available
 View PDF
 Agenda
-Commissioners Court Special Meeting ·
-Friday, August 21, 2026 at 9:00 AM
+Commissioners Court Regular Meeting ·
+Wednesday, September 9, 2026 at 5:00 PM
 View
 Official site · County
 Welcome to Maverick County
@@ -44,34 +44,35 @@ Official website of Maverick County, Texas
 Events
 Upcoming events
 View all
-21
-AUG
+09
+SEP
 meeting
 Commissioners Court
-Commissioners Court Special Meeting
-Friday, August 21, 2026 · 9:00 AM
+Commissioners Court Regular Meeting
+Wednesday, September 9, 2026 · 5:00 PM
 Maverick County Courthouse
-05
-SEP
-community
-¡Viva México! Market Day
-Saturday, September 5, 2026 · 5:00 PM
-Maverick County Lake, Eagle Pass, TX
-Join us for a special evening celebrating our Mexican culture, traditions, and community at Maverick County Lake. Bring your family and friends and come enjoy a great evening together as we celebrate ¡Viva México! For more information: (830) 773-3824. We look forward to seeing you there!
-07
-SEP
-holiday
-Holiday
-Labor Day
-Monday, September 7, 2026
-All county offices closed
-All Maverick County offices will be closed in observance of this federal holiday.
 12
 OCT
 holiday
 Holiday
 Columbus Day
 Monday, October 12, 2026
+All county offices closed
+All Maverick County offices will be closed in observance of this federal holiday.
+11
+NOV
+holiday
+Holiday
+Veterans Day
+Wednesday, November 11, 2026
+All county offices closed
+All Maverick County offices will be closed in observance of this federal holiday.
+26
+NOV
+holiday
+Holiday
+Thanksgiving Day
+Thursday, November 26, 2026
 All county offices closed
 All Maverick County offices will be closed in observance of this federal holiday.
 Quick access
@@ -97,25 +98,39 @@ June 4, 2026
 Public Notice
 Maverick County Public Notice of Application
 May 13, 2026
-Transparency
-Latest Public Documents
+Public Documents
+Financial Transparency
 View all
 Current Bids & Proposals
+Latest
 RFP# FY26-07 — Internet Service Provider (ISP) Services (Deadline: August 31, 2026, 2:00 PM)
+View all documents
 PDF
 Open document
 Foreclosure Postings
-August 4, 2026 - Fernando E. Martinez and Rosa Gabriela Martinez
+Latest
+October 6, 2026 - Jorge Raul Olivas and Norma L. Olivas
+View all documents
 PDF
 Open document
 Audits
+Latest
 Maverick County Annual Financial Report 2024
+View all documents
 PDF
 Open document
 Budgets
+Latest
 Proposed Budget - FY 2027
+View all documents
 PDF
 Open document
+More transparency sections
+Monthly Financial Reports
+Check Registers
+Truth in Taxation
+Unclaimed Funds
+Elections Department
 County Government
 Find your officials
 Commissioners Court
@@ -142,25 +157,11 @@ Explore
 Justices of the Peace
 4 Precincts
 Explore
-Now hiring
-Join the Maverick County team
-Recent openings with competitive benefits and the chance to serve your community.
-View all openings
-Opening 1
-Victims of Crime Coordinator — 293rd District Attorney (8-17-2026)
-Maverick County · Eagle Pass, TX
-View description
-PDF
-Opening 2
-293rd District Attorney Investigator (6-11-2026)
-Maverick County · Eagle Pass, TX
-View description
-PDF
 Emergency Operations Center
 Sign Up for Emergency Alerts
 Get urgent Maverick County notifications by text, call or email: severe weather, evacuations, road closures and emergencies.
 Sign Up
-81°
+91°
 F
 Weather · Eagle Pass
 Clear
@@ -213,5 +214,11 @@ Underline links
 Distinguish links without color
 Reduce motion
 Removes animations and background video
+Invert colors
+Inverted colors for light sensitivity
+Legible fonts
+Simple, clear typography site-wide
+Big cursor
+Larger, more visible pointer
 Reset settings
 WCAG 2.1 AA · ADA Title II

@@ -25,7 +25,7 @@ Calendar
 Commissioners' Court
 Meetings / Events
 Commissioners' Court
-August 2026
+September 2026
 S
 M
 T
@@ -33,10 +33,6 @@ W
 T
 F
 S
-26
-27
-28
-29
 30
 31
 1
@@ -69,20 +65,25 @@ S
 28
 29
 30
-31
 1
 2
 3
-4
-5
-Tue, Aug. 25
+Tue, Sep. 8
+Commissioners' Court
+Commissioners' Court
+Read On
+Tue, Sep. 15
+Commissioners' Court
+Commissioners' Court
+Read On
+Tue, Sep. 22
 Commissioners' Court
 Commissioners' Court
 Read On
 View All Meetings
 /Calendar.aspx
 Meetings / Events
-August 2026
+September 2026
 S
 M
 T
@@ -90,10 +91,6 @@ W
 T
 F
 S
-26
-27
-28
-29
 30
 31
 1
@@ -126,23 +123,20 @@ S
 28
 29
 30
-31
 1
 2
 3
-4
-5
-Thu, Aug. 20
-HC Fair Park Meeting
-HC Fair Park Meeting
+Tue, Sep. 8
+911 Communication District Meeting
+911 Communication District Meeting
 Read On
-Thu, Aug. 20
-ESD 6 Meeting
-ESD 6 Meeting
+Tue, Sep. 8
+2027 Tax Rate Public Hearing
+2027 Tax Rate Public Hearing
 Read On
-Tue, Aug. 25
-Budget Workshop
-Budget Workshop
+Tue, Sep. 8
+Budget Public Hearing
+Budget Public Hearing
 Read On
 View All Events
 /Calendar.aspx

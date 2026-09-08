@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "f52484ad3cf6deaafdb2dad0d3e43170d689d808dadfa325955fc9347cb2f79f",
-  "text_sha256": "5d9b8ae7b20e1b4ffd8ccc8e654b5dccb205b8ad028cef585f0e70c6f8659f2b",
-  "byte_size": 143595,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "80083c69a62cfe91304f90cc2ea3501aad17735ccf517150b98847657746ff63",
+  "text_sha256": "c4bd023fd71ad76113df59131a1d2b3032f2c4bce7bbecd7b7a9f1a832656f53",
+  "byte_size": 146297,
   "title": "Upcoming Election – Franklin, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

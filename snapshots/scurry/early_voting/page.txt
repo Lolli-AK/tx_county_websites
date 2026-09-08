@@ -164,6 +164,23 @@ IRA- Ira Independent School District
 Press the enter key or spacebar to expand or collapse the accordion
 Current Elections & Sample Ballots
 ▲
+November 3, 2026 General Election
+Order of Election
+Proclamation By Governor
+Notice of Election
+Public Notice of L&A Testing Tabulating Equipment
+Certification of L&A Testing
+List of Declared Write-In Candidates
+Sample Ballots
+Hermeligh ISD
+Joint Resolution
+Order of Election
+Order of Cancellation
+Ira ISD
+Joint Resolution
+Joint Election Agreement
+Order of Special ELection
+Order of Election
 May 26, 2026 Primary Runoff Election
 Notice of Election
 Public Notice of L&A Testing Tabulating Equipment
@@ -176,6 +193,12 @@ Republican Sample Ballots
 Precincts 5,6 & 7
 Precincts 8,9,10,14 & 15
 Precincts 11, 12 & 13
+Unofficial Results
+Summary Report with Group Details
+Precinct Report with Group Details
+Official Results
+Summary Report with Group Details
+Precinct Report with Group Details
 May 2, 2026 Uniform Election
 Early Voting/Election Day Roster In Person/by Mail Roster
 -
@@ -233,6 +256,13 @@ Notice of Public Logic and Accuracy Testing 1
 PEHCA Summary & Certification
 Election Reconciliation Unofficial
 Election Reconciliation Official
+Unofficial Resutls
+Summary Report with Group Details
+Precinct Report with Group Details
+Precincts 5,6 & 7
+Precincts 8, 9 & 10
+Precincts 11, 12 & 13
+Precincts 14 & 15
 Official Results-
 Summary Report with Group Details
 Precinct Report with Group Details
@@ -429,6 +459,10 @@ Cole Herring-
 CTA-2025
 -
 C/OH & EXPENDITURES
+Jerry Webb-
+Certificate of Replacement Nomination
+-
+CTA 2026
 Press the enter key or spacebar to expand or collapse the accordion
 Election Turnout
 ▲

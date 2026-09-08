@@ -6,14 +6,19 @@
   "redirect_chain": [
     "https://www.webbcountytx.gov/ElectionsAdministration/ElectionDaySites/"
   ],
-  "http_status": 200,
+  "http_status": 404,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "dd02c7a9c7adaa27a8bac825322f36e0b1f60418788502824a26cb7370186446",
-  "text_sha256": "7b8d05b42d29330c00b63aede06f7c7f9ad339ba074a5ca28a0a6b5d86a1c19d",
-  "byte_size": 25313,
-  "title": "Election Day Sites",
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "3ba58a9f5c3fc0563bf85f9dbd706e61615d6fc712f9e3570d2bf71aaabadc85",
+  "text_sha256": "86dc1a0cf9551d9a85ab28247741f6b7cc32276c6ec0fee513775b8a43c92d3a",
+  "byte_size": 41452,
+  "title": "Custom404 • Webb County, TX • CivicEngage",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

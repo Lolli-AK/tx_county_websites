@@ -126,6 +126,8 @@ Notice of Post Election Hand Count Audit
 Certification of Post Election Hand Count Audit
 Central Count Plan
 Results and Reports
+TX SOS Ballot Certification - Franklin County TX Only
+TX SOS Write-In Candidate Certification
 Other Entity
 Election Information
 Notice of Candidate Filing
@@ -135,6 +137,7 @@ Sample Ballots
 Sulphur Bluff ISD
 General Election Info
 11/03/2026 Candidate Filing Info
+SBISD ORDER OF ELECTION
 Saltillo ISD
 Election Information
 Candidate Filing Info

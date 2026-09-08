@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "77a07a8523e793791893456333990351b2010a3bff1766209ddf18e5bdbfd5bc",
-  "text_sha256": "4a05e126c8a4a74fc2df0e4f2b74d99dc32fe3dbcc3d93a8cfacb9519ca06064",
-  "byte_size": 35808,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "d0c9634a7b7ade4838cc684d3f107c8ca5563140cd83ff16e7dbaf454e1472aa",
+  "text_sha256": "568a9cafaee1d14a2b841805d79334317e35196b5cb9d84919d221926990450b",
+  "byte_size": 35382,
   "title": "Fayette County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

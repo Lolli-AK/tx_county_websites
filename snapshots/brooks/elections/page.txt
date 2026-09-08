@@ -50,9 +50,7 @@ Audit Reports
 Budgets
 HR Information
 Come to the Ed Rachal Memorial Library for any information regarding elections or voting!
-County Clerk
-Closed for lunch Monday - Friday 12:00 PM TO 1:00 PM.
-Hours vary during election cycles
+Election Office
 Brooks County Election Administrator
 Anna M. Garcia
 203 S Calixto Mora Ave
@@ -61,6 +59,7 @@ Falfurrias, Texas 78355
 Phone:
 (361)-325-5670 x369
 Fax:
+512-895-9733
 agarcia@co.brooks.tx.us
 Brooks County Assistant Election Administrator
 Ashley Gonzalez
@@ -70,9 +69,13 @@ Falfurrias, Texas 78355
 Phone:
 (361)-325-5670 x208
 Fax:
+512-895-9733
 ashley.gonzalez@co.brooks.tx.us
 ELECTION OFFICE
 ▲
+November 3, 2026 General Election
+▲
+Order of Election - November General Election 2026.pdf
 WRITE-IN CANDIDATES 2026
 ▲
 WRITE-IN CANDIDATE INFORMATION 2026
@@ -103,8 +106,6 @@ Filing Fee Schedule 2026.pdf
 For questions regarding the write-in candidate filing process, please contact the
 Brooks County Elections Office
 .
-November 3, 2026 General Election
-▲
 Primary Runoff Election - 05/26/2026
 ▲
 Notice of Testing of Automatic Tabulating Equipment and Electronic Voting System and Equipment Hash Testing - Primary Runoff 05262026.pdf
@@ -554,8 +555,8 @@ REGISTERED TO VOTE
 ▲
 REGISTER TO VOTE
 LAST DAY TO REGISTER BEFORE THE
-Joint Primary Runoff
-Monday, April 27, 2026 at 5:00 P.M.
+November General Election
+Monday, October 5, 2026 at 5:00 P.M.
 Voter registration applications are used for new applicants, name changes, address changes or any other change to reflect updated information to a voter record.
 You may obtain an application as follows:
 You may request an application from this office by phone (361) 325-5670 X 369
@@ -688,17 +689,10 @@ e-mail:
 cotwd@cotwd.org
 ABSENTEE BY MAIL VOTING
 ▲
-Ballot By Mail / FPCA Information
-Absentee Ballot by Mail (ABBM)
-must be applied for annually
-. You may call our office at 361-325-5670 ext 369 or 208 to request an application be mailed to you or click here
-Texas Application for Ballot by Mail.pdf
-for a fillable and printable application.
-Voto en ausencia por correo (ABBM)
-debe aplicar anualmente
-. Usted puede llamar a nuestra oficina al 361-325-5670 ext 369 or 208 para solicitar una aplicacion por correo o haga clic here
-Texas Application for Ballot by Mail.pdf
-para llenar una aplicacion imprimibe.
+Vote by Mail
+Application for Ballot by Mail (PDF)
+Application for Ballot by Mail - Spanish (PDF)
+Absentee-FPCA Ballot by Mail Information (PDF)
 Reasons for Voting by Mail:
 *65 years of age or older
 *Disability - voter has a sickness or physical condition that prevents the voter from appearing at the polling place on election day without a likelihood of needing personal assistance or of injuring the voter's health
@@ -707,25 +701,22 @@ Expected to give birth within three weeks before or after Election Day
 *Confinement in jail
 Mail application for ballot by mail to
 :
-Anna M Garcia
-Election Administrator
 Brooks County
+Election Administrator
+Anna M. Garcia
 P.O. Box 714
 Falfurrias, Tx 78355
-For Military/Overseas Voters:
-FPCA Application
-TRACK YOUR MAIL BALLOT
-Effective December 1, 2017 if an ABBM is faxed or emailed or if an FPCA is faxed, then the applicant
-must
-submit the ORIGINAL application BY MAIL to the early voting clerk so that it is received no later than the
-4th business day
-after receiving the original ABBM or FPCA.
-Ballot by Mail Guide - English
-Ballot by Mail Guide - Spanish
-POLL WATCHER
+Secretary of State Ballot by Mail Tracker (External Link)
+POLL WATCHER INFORMATION
 ▲
 Poll Watchers Guide
 Secretary of State Poll Watcher Training
+POLL WORKER
+▲
+Brooks County Poll Worker Application
+Brooks County Poll Worker Application.docx
+POLL WORKER TRAINING FOR NOVEMBER 2026
+▲
 ELECTION RESULTS
 ▲
 2026 Election Results

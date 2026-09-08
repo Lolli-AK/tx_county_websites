@@ -2,18 +2,24 @@
   "county": "Lamb",
   "page_type": "elections",
   "requested_url": "https://www.co.lamb.tx.us/page/lamb.ElectionsHome",
-  "final_url": "https://www.co.lamb.tx.us/page/lamb.ElectionsHome",
+  "final_url": "https://www.co.lamb.tx.us/page/ElectionsHome",
   "redirect_chain": [
-    "https://www.co.lamb.tx.us/page/lamb.ElectionsHome"
+    "https://www.co.lamb.tx.us/page/lamb.ElectionsHome",
+    "https://www.co.lamb.tx.us/page/ElectionsHome"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "d2ff3c366572f8f22cfb95a80d4392dcbbbcd186f26bc68b9c74ec887095ab95",
-  "text_sha256": "c2d44334635e6d2f4a305907ff883c3b2c99e82f37ae97e136d56fd45ec9f89f",
-  "byte_size": 91501,
-  "title": "Lamb County, Texas",
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "27c9e0363bffd66661028dcb8fb6ed857e19e051470f4a0e8da2893eb9e15bb4",
+  "text_sha256": "d76412c7a73e67aedb99f778a376fa85e90fe61986145662cc12bf053d2e18c0",
+  "byte_size": 90526,
+  "title": "Elections & Voting | Lamb County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -8,12 +8,17 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "cc2c4a01e9317dd354c03fb9a87e4006436071111c8d3328c9235babea849a75",
-  "text_sha256": "00ba66e330e12feea2c19f244caf8171c3c0c1afa67d334d482ef498c4424239",
-  "byte_size": 50359,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "0e92fb99d6edebc307bb012e877ca1a4e99241560820199820ed4547f8b6bb79",
+  "text_sha256": "03bfaf8dac4a6cd4966362eb7e4f15559a0f2a34ba1ad9130d439b196bfc0062",
+  "byte_size": 42572,
   "title": "Home Page | Jack County TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

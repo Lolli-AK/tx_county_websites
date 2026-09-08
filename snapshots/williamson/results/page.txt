@@ -356,7 +356,7 @@ Election Result 1999
 11-02-1999 Amendment Election (TXT)
 Voter Registration
 Register to Vote
-Name, Address, or DPS Change
+Update Your Registration
 Volunteer Deputy Registrar
 Request Voter List
 Information for First Time Voters
@@ -369,10 +369,12 @@ Party Affiliation
 Precinct Based Voting
 Elections 201 - Primary Runoffs
 Party Affiliation in a Runoff
-Elections 301- General Information
+Elections 301 - General Information
 First Time Voters
 List Maintenance
-Post Election Hand Count Audit
+Life Cycle of a Voter Registration Application
+Life Cycle of an Election
+Checks and Balances in Texas Elections
 Voter & Sample Ballot Lookup
 Voting By Mail
 FPCA Military & Overseas
@@ -407,7 +409,7 @@ Sistema de Votación
 English
 Campaign Finance Reports
 Notice / Order of Elections
-Meeting Agenda
+County Election Board
 Primary Elections
 2026 Sticker Contest
 2024 Sticker Contest

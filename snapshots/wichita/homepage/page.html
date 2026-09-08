@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-touch svg inlinesvg svgclippaths no-ie8compat wf-roboto-n7-active wf-roboto-n4-active wf-fugazone-n4-active" lang="en-US">
+<html lang="en-US">
  <head>
   <meta charset="utf-8"/>
   <meta content="width=device-width" name="viewport"/>
@@ -21,7 +21,7 @@
   <link href="https://wichitacountytx.com/wp-json/" rel="https://api.w.org/"/>
   <link href="https://wichitacountytx.com/wp-json/wp/v2/pages/12" rel="alternate" title="JSON" type="application/json"/>
   <link href="https://wichitacountytx.com/xmlrpc.php?rsd=" rel="EditURI" title="RSD" type="application/rsd+xml"/>
-  <meta content="WordPress 7.0.4" name="generator"/>
+  <meta content="WordPress 7.1" name="generator"/>
   <link href="https://wichitacountytx.com/" rel="canonical"/>
   <link href="https://wichitacountytx.com/" rel="shortlink"/>
   <meta content="v1" name="et-api-version"/>
@@ -36,7 +36,7 @@
   <meta content="https://wichitacountytx.com/wp-content/uploads/2018/10/Asset-1@2x-8.png" name="msapplication-RANDOM"/>
   <meta content="WordPress Download Manager 7.5.4" name="generator"/>
  </head>
- <body class="home wp-singular page-template page-template-front-page page-template-front-page-php page page-id-12 wp-theme-wichita-county tribe-js tec-no-tickets-on-recurring tec-no-rsvp-on-recurring tribe-theme-wichita-county">
+ <body class="home wp-singular page-template page-template-front-page page-template-front-page-php page page-id-12 wp-theme-wichita-county tribe-no-js tec-no-tickets-on-recurring tec-no-rsvp-on-recurring tribe-theme-wichita-county">
   <header role="banner">
    <div class="super-header">
     <div class="row">
@@ -58,6 +58,10 @@
         </p>
        </div>
        <div class="slidicon search" data-searchblock="searchform_js">
+        <i class="fas fa-search">
+        </i>
+        <i class="fas fa-times">
+        </i>
        </div>
       </div>
      </div>
@@ -90,7 +94,7 @@
        </a>
       </li>
       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1061" id="menu-item-1061">
-       <a tabindex="0">
+       <a>
         Departments
        </a>
        <ul class="sub-menu">
@@ -222,7 +226,7 @@
        </ul>
       </li>
       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1062" id="menu-item-1062">
-       <a tabindex="0">
+       <a>
         Courts
        </a>
        <ul class="sub-menu">
@@ -294,7 +298,7 @@
        </ul>
       </li>
       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6570" id="menu-item-6570">
-       <a tabindex="0">
+       <a>
         Precincts
        </a>
        <ul class="sub-menu">
@@ -321,7 +325,7 @@
        </ul>
       </li>
       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4823" id="menu-item-4823">
-       <a tabindex="0">
+       <a>
         Elections
        </a>
        <ul class="sub-menu">
@@ -385,7 +389,7 @@
        </ul>
       </li>
       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6647" id="menu-item-6647">
-       <a tabindex="0">
+       <a>
         Agendas
        </a>
        <ul class="sub-menu">
@@ -418,12 +422,38 @@
     <div>
      <div class="row">
       <div class="m12 input-mother">
-       <div class="loading-icon">
+       <div class="close" v-if="input" v-on:click="reset">
+        <i aria-hidden="true" class="fa fa-undo">
+        </i>
        </div>
-       <input autocomplete="off" class="cw-ajax-search" id="s" name="s" placeholder="Search..." type="text" value=""/>
+       <div class="loading-icon">
+        <i class="fas fa-spinner fa-pulse">
+        </i>
+       </div>
+       <input autocomplete="off" class="cw-ajax-search" id="s" name="s" placeholder="Search..." type="text" v-model="input" v-on:keyup="cw_ajax_search" value=""/>
       </div>
      </div>
      <div class="search-results">
+      <div class="result cw-js-result" v-for="result in results">
+       <h5 class="result-title">
+        <a v-bind:href="result.url" v-html="result.title">
+        </a>
+       </h5>
+       <p class="type">
+        <small v-html="result.type">
+        </small>
+       </p>
+      </div>
+      <div class="more-results" v-if="more.url">
+       <a class="inner" v-bind:href="more.url">
+        More Results
+       </a>
+      </div>
+      <div class="no-results" v-else-if="input">
+       <p class="inner">
+        No Results found for: {{ input }}
+       </p>
+      </div>
      </div>
     </div>
    </div>
@@ -435,91 +465,39 @@
       <img alt="Wichita County, TX" src="https://wichitacountytx.com/wp-content/uploads/2018/10/wichita-county_seal-banner-1.png"/>
      </div>
     </div>
+    <div id="cw_alerts">
+     <div class="alerts-mother row">
+      <div class="alert s12">
+       <div class="inner">
+        <h3 class="alert-title">
+         WICHITA COUNTY ADOPTED A TAX RATE THAT WILL RAISE MORE TAXES FOR MAINTENANCE AND OPERATIONS THAN LAST YEAR’S TAX RATE.
+        </h3>
+        <div class="alert-text">
+         <p class="has-text-align-center wp-block-paragraph">
+          <a href="https://county-wichita-tx-cleardoc.cleargov.com/27719">
+           Click Here to View the Adopted Budget
+          </a>
+         </p>
+         <p class="wp-block-paragraph">
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
     <div class="row content-mother">
      <div class="s12">
       <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-fe48e5de wp-block-buttons-is-layout-flex">
        <div class="wp-block-button">
-        <a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background has-link-color has-medium-font-size has-custom-font-size wp-element-button" href="https://wichitacountytx.com/wp-content/uploads/2018/10/Burn-Ban-Order-8.5.26-thru-9.4.26-w-Welding-RANDOM.pdf">
+        <a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background has-link-color has-medium-font-size has-custom-font-size wp-element-button" href="https://wichitacountytx.com/download/burn-ban-order-9-4-26-through-10-3-26/">
          Burn Ban:
          <strong>
           ACTIVE
          </strong>
         </a>
        </div>
-       <div class="wp-block-button">
-        <a class="wp-block-button__link has-text-color has-background has-link-color has-medium-font-size has-custom-font-size wp-element-button" href="https://county-wichita-tx-cleardoc.cleargov.com/19305">
-         <strong>
-          2027 Proposed Budget
-         </strong>
-        </a>
-       </div>
       </div>
       <div aria-hidden="true" class="wp-block-spacer">
-      </div>
-      <div id="tourbookwrap">
-       <div class="" id="tourbookdiv" itemscope="" itemtype="http://schema.org/VideoObject">
-        <div class="teaser">
-         <header>
-          <a aria-label="Wichita County Video Tour" href="https://www.elocallink.tv/m/v/Redesign4/?pid=w7w7x9y7A81&amp;fp=txwichco24_wel_iwd" target="_blank">
-           <div class="label">
-            <div>
-             <span>
-              Wichita County
-             </span>
-            </div>
-            <div>
-             <span>
-              Video Tour
-             </span>
-            </div>
-           </div>
-          </a>
-         </header>
-         <div class="container">
-          <a aria-label="Community Video Tour" href="https://www.elocallink.tv/m/v/Redesign4/?pid=w7w7x9y7A81&amp;fp=txwichco24_wel_iwd" target="_blank">
-           <video aria-hidden="true" autoplay="autoplay" loop="" muted="" oncontextmenu="return false;" playsinline="" poster="https://vid.hellonetcdn.com/vid/tx/wichitacounty2023/txwichco24_wel_iwd1.jpg?">
-            <source src="https://vid.hellonetcdn.com/vid/tx/wichitacounty2023/txwichco24_wel_iwd_lrg_univ.mp4?" type="video/mp4"/>
-           </video>
-          </a>
-          <meta content="Teaser for  Video Tour" itemprop="name"/>
-         </div>
-        </div>
-        <div class="list_but">
-         Tour Chapters ▼
-        </div>
-        <ul id="tourbookchapterlist">
-         <li>
-          <a aria-label="Play Welcome video" href="https://www.elocallink.tv/m/v/Redesign4/?pid=w7w7x9y7A81&amp;fp=txwichco24_wel_iwd" target="_blank">
-           Welcome
-          </a>
-         </li>
-         <li>
-          <a aria-label="Play Quality of Life video" href="https://www.elocallink.tv/m/v/Redesign4/?pid=w7w7x9y7A81&amp;fp=txwichco24_qual_rev_iwd" target="_blank">
-           Quality of Life
-          </a>
-         </li>
-         <li>
-          <a aria-label="Play Healthcare and Education video" href="https://www.elocallink.tv/m/v/Redesign4/?pid=w7w7x9y7A81&amp;fp=txwichco26_health_rev2_iwd" target="_blank">
-           Healthcare and Education
-          </a>
-         </li>
-         <li>
-          <a aria-label="Play Economic Development video" href="https://www.elocallink.tv/m/v/Redesign4/?pid=w7w7x9y7A81&amp;fp=txwichco24_eco_rev_iwd" target="_blank">
-           Economic Development
-          </a>
-         </li>
-         <li>
-          <a aria-label="Play Parks and Recreation video" href="https://www.elocallink.tv/m/v/Redesign4/?pid=w7w7x9y7A81&amp;fp=txwichco24_parks_rev_iwd" target="_blank">
-           Parks and Recreation
-          </a>
-         </li>
-         <li>
-          <a aria-label="Play Community Organizations video" href="https://www.elocallink.tv/m/v/Redesign4/?pid=w7w7x9y7A81&amp;fp=txwichco24_comm_rev_iwd" target="_blank">
-           Community Organizations
-          </a>
-         </li>
-        </ul>
-       </div>
       </div>
       <p class="wp-block-paragraph">
       </p>
@@ -817,33 +795,7 @@
   </footer>
   <div id="fb-root">
   </div>
-  <div class="gtranslate_wrapper gt_container-kzxr54" id="gt-wrapper-X">
-   <div id="google_translate_element2">
-   </div>
-   <div id="gt_float_wrapper">
-    <div class="gt_float_switcher notranslate">
-     <div class="gt_options">
-      <a class="nturl gt-current" data-gt-lang="en" href="#">
-       <img alt="en" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/en-us.svg"/>
-       English
-      </a>
-      <a class="nturl" data-gt-lang="es" href="#">
-       <img alt="es" data-gt-lazy-src="https://cdn.gtranslate.net/flags/svg/es-mx.svg"/>
-       Spanish
-      </a>
-     </div>
-     <div class="gt-selected">
-      <div class="gt-current-lang">
-       <img alt="en" src="https://cdn.gtranslate.net/flags/svg/en-us.svg"/>
-       <span class="gt-lang-code">
-        en
-       </span>
-       <span class="gt_float_switcher-arrow">
-       </span>
-      </div>
-     </div>
-    </div>
-   </div>
+  <div class="gtranslate_wrapper" id="gt-wrapper-X">
   </div>
   <div class="wpdm-sp wpdm-sp-light" id="wpdm-side-panel">
    <div class="wpdm-sp__backdrop">
@@ -856,38 +808,12 @@
      </button>
     </div>
     <div class="wpdm-sp__body">
-    </div>
-   </div>
-  </div>
-  <div class="lightboxOverlay" id="lightboxOverlay" tabindex="-1">
-  </div>
-  <div class="lightbox" id="lightbox" tabindex="-1">
-   <div class="lb-RANDOM">
-    <div class="lb-container">
-     <img alt="" class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-     <div class="lb-nav">
-      <a aria-label="Previous image" class="lb-prev" href="">
-      </a>
-      <a aria-label="Next image" class="lb-next" href="">
-      </a>
-     </div>
-     <div class="lb-loader">
-      <a class="lb-cancel">
-      </a>
-     </div>
-    </div>
-   </div>
-   <div class="lb-RANDOM">
-    <div class="lb-data">
-     <div class="lb-details">
-      <span class="lb-caption">
+     <div class="wpdm-sp__loader">
+      <div class="wpdm-sp__spinner">
+      </div>
+      <span>
+       Loading...
       </span>
-      <span class="lb-number">
-      </span>
-     </div>
-     <div class="lb-RANDOM">
-      <a class="lb-close">
-      </a>
      </div>
     </div>
    </div>

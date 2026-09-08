@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "0ba661b7e5cca8e33619685cae6732b90f01841203fa85d4316868e778f6aabe",
-  "text_sha256": "b5af42018e48e7d444fb6863a0bb8c253e47112823bd5e39430fa2b742ef3a83",
-  "byte_size": 40243,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "5db72e821b2a1d83056677a88621a70513eabd122200f5f44f040945085b391e",
+  "text_sha256": "f66fcdeedc264157aad5bc3ac07abe2fea998c06959d9cb3469b54beb52e79f9",
+  "byte_size": 42887,
   "title": "Homepage | Yoakum County Tx",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

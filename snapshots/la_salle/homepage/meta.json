@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "6c7a1a1fed3096630467e82446b7455f41c1adf4cf58115ba4e38e7c5bd99e11",
-  "text_sha256": "950acddb4d4fa89f5ba5f54900bbe3d86496f4f99e1202e4997104d9c6b38a12",
-  "byte_size": 94666,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "730378b6b0538bac1a221d3ad9f57a6fc7207d29598ea6fed4285d0baf79fe05",
+  "text_sha256": "e11fe35339202c74bbd78a5a8154911ea78637f330d865aa47b8771d67483601",
+  "byte_size": 92146,
   "title": "La Salle County, Texas - Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "f9503378276d5d422094d5691c8c844c3c69b0c4e077a8ab7d90e38539d050cb",
-  "text_sha256": "b1bab641be571f2b0058a81113b4d21448bd0baecccb847dc8a9ebb9be30fc65",
-  "byte_size": 65084,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "6cf106f2dde838953a4de230b12253bb24294b920c0d9e8bf47b2a254b0fbd67",
+  "text_sha256": "630124322a871c7583e424aad7b3a42d072af01ed34185143fe8d51c3c70e370",
+  "byte_size": 63459,
   "title": "Eastland County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

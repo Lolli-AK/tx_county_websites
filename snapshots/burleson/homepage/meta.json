@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "5907d249abee3c35879245bec12ba143ac0a466c07760e461d056b61a8b959f7",
-  "text_sha256": "23cdb9cf0a50e4844476b7acd5d26f101ab60292a828e688824507af5984c3d8",
-  "byte_size": 69645,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "d69f5770fb036926a50a61da604d9c9d85b8871147bdd60256dde75e872eea7c",
+  "text_sha256": "423a0fdc3dc073856d2cac33b1aa8c84e5481a91bc1413a75051aa179ad99a46",
+  "byte_size": 69621,
   "title": "Burleson County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

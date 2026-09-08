@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "9281fce1c73efd21dcb5ef8b9893a4769c1aaecd8c548bc71a59e8944594c740",
-  "text_sha256": "b5b84c8329efac0e3567ad40db5f09a9d981f6778ce49c7f48fa62769e1f8c11",
-  "byte_size": 117618,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "73f3f07d9dbe35574ff5d113884e982d23373dcd4528b3f4aa52cb3ae15714fc",
+  "text_sha256": "68f6f479180b99b645e0085ef33546a1136d18a80ef214d46a0b727d163a75cf",
+  "byte_size": 117977,
   "title": "Brazoria County, TX | Home",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

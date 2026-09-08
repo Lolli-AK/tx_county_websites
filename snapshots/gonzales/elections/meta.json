@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "46046fc75ca7efa88f65f6b55abab084969b16891ca1f7c3908a6aa557b52905",
-  "text_sha256": "28295c0cf94b1999f2f8d5e8432faf8e37dacfb31e3f451b508c7b2e0c5d39c7",
-  "byte_size": 170049,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "16b340d37cbbf4c3841c98bcc9fa9bbeddcc9c1e08242901e101310d0e531cb4",
+  "text_sha256": "90dfba40088d6b0b93ac323c121a909e602340d325c05bcda4cfbb20b578bee5",
+  "byte_size": 168644,
   "title": "Elections Administrator",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

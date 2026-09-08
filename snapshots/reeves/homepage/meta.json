@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "423e890ae4a7908ba67625da3bc3c232fbe278eea492cf05000aedca72da3811",
-  "text_sha256": "c52ed7c38590bc3459b67c5dbab1dea874f0eeac8853afd9f0d6962e5755e939",
-  "byte_size": 54142,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "a245d6ba193115189817af6b97c6ecb1ba28c08e0b8865514a9186f5968c4eed",
+  "text_sha256": "a18062b7fd9ba42b48bd3c102c4caa897f6172a4446aa7cc8c2f2b9ed4745931",
+  "byte_size": 55079,
   "title": "Reeves County, TX | Home",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

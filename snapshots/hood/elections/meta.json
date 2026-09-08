@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-08-20T08:22:15Z",
-  "html_sha256": "ad058d9ab3bc226a4b365621d1efafe0a49e3f86892d8632f97f88d27449af62",
-  "text_sha256": "95e5c0c9f832f39235c8e524790766b313f74117a46ff213a803e65338df14e2",
-  "byte_size": 55494,
+  "fetched_at": "2026-09-08T17:36:52Z",
+  "html_sha256": "e673aada6b185ac1f72facf5efe37bbcc19b423d4c50886e22232bf2d8f65421",
+  "text_sha256": "297cadd3dd929c7f332830463cd6868c62017d020c70fc9eede02a924e7c2510",
+  "byte_size": 55300,
   "title": "Hood County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }
