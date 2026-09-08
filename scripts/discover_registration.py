@@ -33,14 +33,17 @@ import argparse
 import concurrent.futures as cf
 import csv
 import logging
+import re
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+from bs4 import BeautifulSoup  # noqa: E402
+
 from discover_pages import (  # noqa: E402
-    MIN_STRONG, PATTERNS, REG_HUB_PATTERNS, fetch, is_external,
-    is_generic_portal, links_of, rank_links, stabilize_url,
+    MIN_STRONG, PATTERNS, REG_HUB_PATTERNS, _plausible_target, fetch,
+    is_external, is_generic_portal, links_of, rank_links, stabilize_url,
 )
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -53,6 +56,88 @@ FIELDS = ["county", "batch", "page_type", "url", "external", "notes",
           "audit_reason", "flag_for_review"]
 
 log = logging.getLogger("discover_registration")
+
+# The words a page about registering voters actually uses. Anchor text and URLs
+# get the crawl to a page; only the page's own prose can say what it is about.
+# Every family of false positive in the first sweep -- check registers, payroll
+# summaries, vendor sign-up, storm-shelter and reverse-911 forms, a public
+# notice, a document viewer -- reached a real, reachable, county-hosted HTML
+# page that scored well on its link. What none of them do is discuss voting.
+_REG_LANGUAGE = re.compile(
+    r"voter\s+registration|register\s+to\s+vote|registering\s+to\s+vote"
+    r"|voter\s+registrar|registration\s+application"
+    r"|(?:eligib|qualif)\w*\s+to\s+(?:register|vote)"
+    r"|registration\s+(?:deadline|certificate)", re.I)
+
+
+def _prose(html: str) -> str:
+    """Visible text with every link removed.
+
+    Dropping anchors is the point, not a simplification. A Texas county CMS puts
+    "Voter Registration" in the sidebar nav of every page on the site, so a
+    check-register page mentions voter registration exactly as often as the real
+    registration page does. Only non-anchor text distinguishes them: prose,
+    headings and list items on the page itself.
+    """
+    soup = BeautifulSoup(html or "", "lxml")
+    for tag in soup(["script", "style", "noscript", "a", "nav", "header",
+                     "footer"]):
+        tag.decompose()
+    return " ".join(soup.get_text(separator=" ").split())
+
+
+def _page_prose(url: str, res: dict) -> str:
+    """Non-anchor text, rendering once through Chromium if the plain fetch is thin.
+
+    A CMS that builds its body client-side yields nav links and nothing else to
+    httpx, and judging a county on that would invent gaps for counties that do
+    publish a page.
+    """
+    prose = _prose(res["html"])
+    if len(prose) >= 400:
+        return prose
+    rendered = fetch(url, require_links=True)
+    if rendered["ok"]:
+        deeper = _prose(rendered["html"])
+        if len(deeper) > len(prose):
+            return deeper
+    return prose
+
+
+# A URL path that names voter registration explicitly -- not the bare word
+# "register", which is what county cheque registers and payroll registers match.
+_REG_IN_PATH = re.compile(
+    r"voter[._\-/]?registration|regist(?:er|ration)[._\-/]?to[._\-/]?vote"
+    r"|voter[._\-/]?registrar", re.I)
+
+
+def _named_by_its_url(url: str, home: str) -> bool:
+    """Is the county's own URL evidence enough on its own?
+
+    Only for a page with too little prose to judge, and only on the county's own
+    site. Waller's registration page is a CivicPlus "Quicklinks" list: its entire
+    body is anchors, so stripping the nav leaves an address and a copyright line
+    and nothing to match. The path still says Elections.VoterRegistration, which
+    the county wrote deliberately. This cannot readmit the accounting pages -- a
+    cheque register's path says "CheckRegister", never "voter registration".
+    """
+    return bool(not is_external(url, home) and _REG_IN_PATH.search(url))
+
+
+def _names_county(prose: str, county: str) -> bool:
+    """Does the page say it belongs to THIS county?
+
+    The last line of defence for an off-site host, and it has to be the page's
+    words rather than its domain. In most Texas counties the Tax
+    Assessor-Collector is the voter registrar and runs its own domain: Harris
+    County's is hctax.net, which names neither the county nor its seat. Starr
+    County linked that very same Harris page. A URL test cannot tell those two
+    apart; the prose can, because it says "Harris County" and never "Starr".
+    """
+    esc = re.escape(county.lower())
+    hay = prose.lower()
+    return bool(re.search(rf"\b{esc}\b[ \t]*'?s?[ \t]+county\b", hay)
+                or re.search(rf"\bcounty\s+of\s+{esc}\b", hay))
 
 
 def anchors() -> dict[str, dict]:
@@ -111,13 +196,16 @@ def discover_one(county: str, a: dict) -> dict:
     # filter in links_of and only fails on content-type. Stopping there would
     # lose the county; the HTML page is usually the next candidate down.
     ranked = rank_links(links, PATTERNS[PTYPE], exclude, a["home"],
-                        prefer_internal=True)[:5]
+                        prefer_internal=True)[:8]
     if not ranked:
         return row("", "GAP: no distinct voter-registration page found")
 
     tried: list[str] = []
     for score, url, text in ranked:
-        r = fetch(url)
+        # Verification only: we need this to exist and be HTML, not to be
+        # crawlable. A registration page having few links is normal, not a
+        # symptom, so it must not trigger a headless render.
+        r = fetch(url, require_links=False)
         tail = url.rstrip("/").split("/")[-1][:30] or url
         if not r["ok"] or (r["status"] or 0) >= 400:
             tried.append(f"{tail} -> {r['status'] or r['error']}")
@@ -128,7 +216,29 @@ def discover_one(county: str, a: dict) -> dict:
         if is_generic_portal(r["final_url"]):
             tried.append(f"{tail} -> statewide portal")
             continue
-        final = stabilize_url(r["final_url"])
+        # Fragments address a spot on a page, not a page. Hidalgo's answer lives
+        # in an FAQ entry, and keeping "#question-197" would invite the same URL
+        # into the manifest twice under two anchors.
+        final = stabilize_url(r["final_url"]).split("#")[0]
+        # A link that lands back on a page we already snapshot under a different
+        # type is a finding, not a target: capturing one URL twice would make
+        # two page types diff identically forever.
+        for other, ourl in (("homepage", a["home"]), ("elections", a["elections"])):
+            if ourl and final.rstrip("/") == ourl.rstrip("/"):
+                return row("", f"GAP: folded into the {other} page")
+        prose = _page_prose(final, r)
+        # Whose page is this? Two counties were assigned another county's page on
+        # a high-scoring link -- Van Zandt got Henderson County's, Starr got the
+        # Harris County tax office -- and no score can catch that, because both
+        # pages are genuinely about voter registration.
+        if (not _plausible_target(final, county, a["home"], a["elections"])
+                and not _names_county(prose, county)):
+            tried.append(f"{tail} -> another county's site")
+            continue
+        if not _REG_LANGUAGE.search(prose) and not (
+                len(prose) < 400 and _named_by_its_url(final, a["home"])):
+            tried.append(f"{tail} -> page not about registering voters")
+            continue
         weak = score < MIN_STRONG[PTYPE]
         note = (f'found via "{text[:40]}" score={score}'
                 + (" (weak match — review)" if weak else "")
