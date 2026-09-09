@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-08T12:20:21Z",
-  "html_sha256": "d0966878ebb8e0fc9660993cac5ac30ab5a769c0aa3dd0a2c97ce66c7f1aaab8",
-  "text_sha256": "300d0d8f2a0de3322de647efb874cc691d68bd80d33c0dd14aaea9543d0e18ee",
-  "byte_size": 47463,
+  "fetched_at": "2026-09-09T12:31:55Z",
+  "html_sha256": "d8a3d941ce3faa10f95d81dd1fc44313500c8564a6c36b753c73a8d33d133b84",
+  "text_sha256": "a3dc32d07b935cd1fcdc03d53978b2d275c4f7b2d027175f4e628b7e26c97cec",
+  "byte_size": 47465,
   "title": "Early Voting Locations - El Paso County, TX Elections | El Paso County Elections Department",
   "error": null
 }

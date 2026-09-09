@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-08T12:20:21Z",
-  "html_sha256": "6eb27b9ebf8b5307965ce67ccf22220054750286eb0b24428419fd2c7746288d",
-  "text_sha256": "d4d8785bb00727944dbfc9c3d442ed9ffeb5cf64c371ec34e4caa49c0fde780d",
-  "byte_size": 24817,
+  "fetched_at": "2026-09-09T12:31:55Z",
+  "html_sha256": "679bb89837c2319b94b087baff47b33445d0791baee4a69c9ef684343d1b6ba9",
+  "text_sha256": "90173df8e10d51aa5b15dc6fc33b9a31d1b19609af775313deceb832cd8872a1",
+  "byte_size": 25286,
   "title": "Elections Current | Waller County TX",
   "error": null
 }

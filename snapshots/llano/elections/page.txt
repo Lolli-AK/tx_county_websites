@@ -163,6 +163,8 @@ SAMPLE BALLOT
 This ballot shows all races that
 could
 be voted on in the county. At the local level, only voters who are in a specific precinct will vote on the races within that precinct.
+Write in Candidate List
+- This list will be found in the voting booth when you arrive at the polls to vote.
 Last Day to Register to Vote for this election is:
 Monday, October 5, 2026
 (El último día para registrarse para votar en estas elecciones es el jueves 5 de
@@ -286,12 +288,6 @@ Order of Election- Deerhaven Water District
 Notice of Election Worker Training
 Notice of Logics and Accuracy Test
 updated-9/3/2026
-Press the enter key or spacebar to expand or collapse the accordion
-2026 "I Voted" Sticker Contest
-▲
-Download the "I Voted" Sticker Contest package here
-"I Voted" Sticker Contest
-2026 Finalists
 Press the enter key or spacebar to expand or collapse the accordion
 County Wide Polling Place Program
 ▲

@@ -25,11 +25,9 @@ District Court Judge
 District Clerk
 District Attorney
 Other County Offices
-911
 EMS
 Texas A&M Cooperative Extension Office
 Juvenile Probation
-Veteran Services
 Financial Transparency
 Budgets
 Proposed Budgets
@@ -49,6 +47,8 @@ County Holidays
 Notice of Foreclosure Sales
 County Historical Commission
 Employee Information
+Emergency Management
+Veteran Services
 Menard County Elections
 Tim Powell
 Tax Assessor Collector

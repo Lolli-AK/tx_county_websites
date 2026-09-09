@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-08T12:20:21Z",
-  "html_sha256": "2a9a72c258a2240e1e9320bcfcd87cff8586a00ede509a63b1ff8e700ac32dea",
-  "text_sha256": "038e77dbe22ba82662a786f9dd02ffc4d05501cf48ef47a2c0b5e40c9e672c96",
-  "byte_size": 134504,
+  "fetched_at": "2026-09-09T12:31:55Z",
+  "html_sha256": "9f62cbad0e07731e5dd3539bf8fa582a1d10fd601a41019c27e6af2e7e32d3d4",
+  "text_sha256": "e806c7756294257bcd05f159180de6abddfdc715a43007cd0147d8c0b4386ad2",
+  "byte_size": 134914,
   "title": "Dawson County, Texas",
   "error": null
 }

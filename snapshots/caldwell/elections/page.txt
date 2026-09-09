@@ -141,8 +141,6 @@ Est. Caldwell County Population:
 49,859 (5/1/2023)
 Total Registered Voters:
 27,465 (as of 5/01/26)
-Heads up the Caldwell County Elections Office will be closing at 12:00 p.m. (noon) on Friday, September 4, 2026 and be closed all day on Monday, September 7, 2026 in observance of Labor Day.
-Our office will resume regular business hours on Tuesday, September 8, 2026.
 Public Notices
 ▲
 2024-2025 Voter Registration Certificates Information (PDF)
@@ -254,8 +252,10 @@ Order of Election (PDF) - TBD
 Notice of Election (PDF) - TBD
 Municipal Utility District(s)
 Misty Lane MUD No. 1
-Order of Election (PDF)
-Notice of Election (PDF) - TBD
+Order of Election
+(PDF)
+Notice of Election
+(PDF)
 Chisolm MUD No. 1
 Notice of Election
 (PDF)
@@ -275,7 +275,8 @@ Fresh Water Supply District(s)
 Open R Fresh Water Supply
 Order of Election
 (PDF)
-Notice of Election (PDF) - TBD
+Notice of Election
+(PDF)
 Public Notices for the Early Voting Ballot Board
 Notice of Convening of Early Voting Ballot Board
 Notice of Delivery of Ballots Voted by Mail
@@ -888,6 +889,8 @@ Press the enter key or spacebar to expand or collapse the accordion
 Press ENTER key to focus on the active panel
 Press the enter key or spacebar to expand or collapse the accordion
 November 3, 2026 General Election
+Early Voting Schedule & Locations - Caldwell County, Texas
+Election Day Assigned Precincts & Locations - Caldwell County, Texas
 Active slide image alt text will be announced here
 Quick Resources
 ▲

@@ -248,6 +248,22 @@ Please Read Before Training
 Training Provided by the Secretary of State Link
 NOVEMBER 3, 2026 GENERAL ELECTION AND SPECIAL ELECTION
 ▲
+EARLY VOTING LOCATION, DATES AND HOURS
+ELECTION DAY POLLING LOCATIONS
+Sample Ballots
+Precinct One
+Precinct Two
+Precinct Three
+Precinct Four
+NOTICES:
+County Election Board Meeting
+Notice of Public Testing of Automatic Tabulating Equipment
+Notice of Testing of Electronic Pollbook
+Notice of Early Voting Ballot Board Convenings
+Notice of Delivery of Provisional Balloting Materials
+Notice of Post Election Hand Count Audit
+Random Hand Count, Notice of Additional Hand Count Audit
+Additional Post Election Hand Count Audit
 MAY 2, 2026 JOINT GENERAL ELECTION AND JUNE 13, RESULTING RUNOFF ELECTION
 ▲
 JUNE 13, 2026 RUNOFF ELECTION
@@ -559,8 +575,7 @@ Notice of Public Testing of Automatic Tabulating Equipment
 Notice of Testing of Electronic Pollbook
 Notice of Early Voting Ballot Board Convenings
 Notice of Delivery of Provisional Balloting Materials
-Notice of Post Election Hand Count Audit
-Random Hand Count, Notice of Additional Hand Count Audit
+Notice of Post Election Hand Count Audit                                                                                                       Random Hand Count, Notice of Additional Hand Count Audit
 Additional Post Election Hand Count Audit
 ELECTION RESULTS
 Republican

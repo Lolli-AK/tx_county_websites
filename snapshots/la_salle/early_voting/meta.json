@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=248:early-voting-rosters-march-2020&catid=78:government"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-08T12:20:21Z",
-  "html_sha256": "c6c0a863531cd11ebf1bd2065d5e6aeeb097a452a4766931625aef25e8792b3e",
-  "text_sha256": "35c6290f7fd385b2f74b5be48f1e14c54571a2238536c4562078086ba35184f6",
-  "byte_size": 70061,
-  "title": "Early Voting Rosters March 2020",
+  "fetched_at": "2026-09-09T12:31:55Z",
+  "html_sha256": "8be40be3421f5f54f3c2c012e73045a6d794f4928118048fc557c2196057400b",
+  "text_sha256": "aef88732b781b4ea702a043a2014093f3655eee27312f9c3a737a2ed40736556",
+  "byte_size": 388,
+  "title": "403: Access Forbidden",
   "error": null
 }

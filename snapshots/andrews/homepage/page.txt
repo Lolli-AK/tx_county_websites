@@ -11,7 +11,6 @@ Search
 News Flash
 PROPOSED BUDGET
 NOTICE OF TAX RATE
-NOTICE OF PUBLIC HEARING ON TAX INCREASE
 View All News
 /CivicAlerts.aspx
 Agendas & Minutes
@@ -65,11 +64,6 @@ Sat
 28
 29
 30
-Tue, Sep. 8
-Pokemon Club
-Pokemon Club
-Pokemon Club
-Read On
 Wed, Sep. 9
 Storytime
 Weekly storytime and craft
@@ -97,7 +91,7 @@ Storytime
 Read On
 Fri, Sep. 18
 Ramen & Manga
-Teen program - Let's talk and eat Ramen while disscussing our favorite Mango.
+Teen program - Let's talk and eat Ramen while disscussing our favorite Manga.
 Ramen & Manga
 Read On
 Tue, Sep. 22
@@ -109,6 +103,11 @@ Wed, Sep. 23
 Storytime
 Weekly storytime and craft
 Storytime
+Read On
+Thu, Sep. 24
+Backpack Flair
+Make Backpack Flair for kids and teens
+Backpack Flair
 Read On
 View All Events
 /Calendar.aspx

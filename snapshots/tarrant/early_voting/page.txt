@@ -425,6 +425,10 @@ Texas Election Code authorizes a limited ballot for a person moving from one Tex
 ))  to the Early Voting Clerk along with their Limited Ballot Application (
 in English / Spanish / Vietnamese
 ).
+Election Advisory No. 2026-24
+- Limited Ballot Voters and District Chart (Chapters 111 and 112, Texas Election Code).  The D
+istrict Chart
+for this Election
 * Newer versions of web browsers will require the use "Adobe Reader" to properly use this form (application form) above.   Free download of
 Adobe Reader
 .
@@ -501,8 +505,8 @@ Audit and Reconciliation Reports
 Post-Election Hand Count Audit
 SOS Preliminary Reconciliation Report
 SOS Official Reconciliation Report
-Early Voting Audit Report --- Counts Cross Check
-Election Day Audit Report --- Counts Cross Check
+Early Voting Reconciliation of Total Votes Cast at Each Polling Location
+Election Day Reconciliation of Total Votes Cast at Each Polling Location
 Other Reports
 Political Subdivision in Election
 Tally Export formatted in comma-delimited text
@@ -601,10 +605,18 @@ Vietnamese
 )
 Contests
 Keller ISD
+Bond Election
 Order of General Election for Place 4 and Place 5
 Order for Special Election for Place 6
-Election Notice
+Election Notices (
+General Election
+,
+Special Election
+, and
+Bond Election
+)
 Candidates
+Bond Propositions
 TC Fresh Water Supply District 2
 Bond and Tax Proposition
 Election Order
@@ -619,6 +631,12 @@ Election Order
 Election Notice
 Candidates
 Cancelled
+Parker and Tarrant Counties Municipal Utility District No. 1
+(Not contracting )
+Election Notice
+Tarrant County Fresh Water Supply District No. 3
+(Not contracting )
+Election Notice
 Texas Election Code Section 87.121 - EARLY VOTING ROSTERS:
 (a)  The early voting clerk shall maintain for each election a roster listing each person who votes an early voting ballot by personal appearance and a roster listing each person to whom an early voting ballot to be voted by mail is sent.
 (b)  For each person listed, the applicable roster must include: (1)  the person's name, address, and voter registration number; (2)  an identification of the person's county election precinct of registration; and (3)  the date of voting or the date the ballot was mailed to the person, as applicable.
@@ -667,7 +685,7 @@ ElectionsInfo@tarrantcountytx.gov
 Phone: 817-831-8683
 TDD: 817-759-7801
 Hours of Business: Monday – Friday, 8 a.m. - 5 p.m.
-This page was last modified on September 03, 2026
+This page was last modified on September 08, 2026
 TARRANT COUNTY, TEXAS
 County Telephone Operator
 817-884-1111

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-08T12:20:21Z",
-  "html_sha256": "eca2a595cc9bf05548be4c39c1afe19c196bf2b4ef3636f30ac53e0876345a3f",
-  "text_sha256": "f08cec643cf911a3e1a7141052651c50ead4ea8f2cfd1331ae25cb97fae51a31",
-  "byte_size": 168575,
+  "fetched_at": "2026-09-09T12:31:55Z",
+  "html_sha256": "212ea981bf8e15903bb7941aa7f067deaf13f0d98c31a0dbaa7b6c7ab2fd4900",
+  "text_sha256": "b9ff49e525f7eed942d41598affd7750e91d8c1a4bc528953183ba23314bcfdb",
+  "byte_size": 173270,
   "title": "Swisher County, Texas",
   "error": null
 }

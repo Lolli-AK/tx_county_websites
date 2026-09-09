@@ -27,11 +27,14 @@ County Clerk
 County Court At Law
 County Court at Law No. 1
 County Court at Law No. 2
+Associate Judge
 County Tax Assessor-Collector
 County Treasurer
 District Attorney
 District Clerk
 District Court
+District Court
+Associate Judge
 Constable
 Justice of the Peace
 JP Precinct 1
