@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-09T12:31:55Z",
-  "html_sha256": "c2314f7dedac1b79c4a279be9ee6251944705ac3f7c8225df564acd2e9b2a01f",
-  "text_sha256": "90dfba40088d6b0b93ac323c121a909e602340d325c05bcda4cfbb20b578bee5",
-  "byte_size": 168644,
+  "fetched_at": "2026-09-10T12:25:22Z",
+  "html_sha256": "ddc2a74d13c31ff56d5c83a2f296194d0ff6f0e42a7c4a5c29db215a899c75a9",
+  "text_sha256": "2c8be667433287f9fccb4e9e7ee8cc4da541e0e171000a5eae62d59b5ba5337d",
+  "byte_size": 171316,
   "title": "Elections Administrator",
   "error": null
 }

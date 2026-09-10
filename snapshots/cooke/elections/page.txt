@@ -117,9 +117,10 @@ when moving to a new state (3rd party information)
 November 3, 2026 -
 General Election
 Important Dates
-Election Polling Locations:
-Early Voting
-Election Day
+Polling Locations:
+Early Voting Location
+Election Day Locations
+Certified Write-In Candidates
 Sample Ballots
 Coming Soon
 Early Voting - In Person Rosters
@@ -131,7 +132,7 @@ Election Day - Ballot by Mail Rosters
 Coming Soon
 Coming Soon
 Notices & Orders
-Eras ISD Order of Cancellation
+Era ISD Order of Cancellation
 Notice of Delivery of Ballots Voted by Mail
 Notice for Early Voting Saturday and Sunday
 Order of Appointment for Central Counting Station

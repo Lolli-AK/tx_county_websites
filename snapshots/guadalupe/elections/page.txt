@@ -225,7 +225,6 @@ Press ENTER key to focus on the active panel
 Livestream: Ballot Processing
 Mission Statement
 "The mission of the Guadalupe County Elections Office is to ensure a fair, transparent, and efficient electoral process that upholds the democratic rights of all eligible voters. We are committed to providing accurate and timely information, ensuring accessibility for all voters, and maintaining the integrity of the voting process. Our goal is to foster public trust in elections by administering them with professionalism, impartiality, and accountability."
-Location: 3251 State Highway 123 North in Seguin, just north of IH 10, Seguin, TX 78155.
 Current Running Elections
 Click on the date below to see all information regarding that election.
 May 26, 2026 Primary Runoff Elections
@@ -256,6 +255,9 @@ and local jurisdictions.
 NAME / ADDRESS CHANGE
 To check if your information matches, click here:
 VoteTexas.gov
+REGISTERED TO VOTE? CHECK HERE
+Link:
+Texas Secretary of State
 Guadalupe County, Texas   I   County Seat: Seguin, TX  I Main Operator 830-303-4188
 Staff Login
 Web Accessibility

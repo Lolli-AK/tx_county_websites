@@ -2,18 +2,19 @@
   "county": "Hansford",
   "page_type": "elections",
   "requested_url": "https://www.co.hansford.tx.us/page/hansford.Elections",
-  "final_url": "https://www.co.hansford.tx.us/page/hansford.Elections",
+  "final_url": "https://www.co.hansford.tx.us/page/Elections",
   "redirect_chain": [
-    "https://www.co.hansford.tx.us/page/hansford.Elections"
+    "https://www.co.hansford.tx.us/page/hansford.Elections",
+    "https://www.co.hansford.tx.us/page/Elections"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-09T12:31:55Z",
-  "html_sha256": "457e3433b6e4592675356433b9923b0896c1f55ebf10e8e144b051e6a0827fb7",
-  "text_sha256": "6c74dcc8267f5974097852951612c3802b881e01e6dd273f872386aaefc3844b",
-  "byte_size": 24679,
-  "title": "Elections - Hansford County",
+  "fetched_at": "2026-09-10T12:25:22Z",
+  "html_sha256": "d48ac0fab597f57b5117cf12407e34afa57364d04fef22ad4357c9ccc3c90f7f",
+  "text_sha256": "ee79c496278fe910561356b2797d1651f7ed0bd87d3f5ac927638f0a81a234f0",
+  "byte_size": 29099,
+  "title": "Elections | Hansford County, TX",
   "error": null
 }

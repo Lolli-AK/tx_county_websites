@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-09T12:31:55Z",
-  "html_sha256": "4df824c57931e043e46efbf2116144dec4f3ff9e9f80217e24eec39997b607c8",
-  "text_sha256": "7946a061b3b03a71a4180b415b2bab0fdc27016af1b0bafc59817175b2a6fc03",
-  "byte_size": 56934,
+  "fetched_at": "2026-09-10T12:25:22Z",
+  "html_sha256": "c75834711bf08c1f7234c3846b3e9339d0f97e00a6b3fe51cb4f002d7adaa2d4",
+  "text_sha256": "399ec518e99283f17cca44b7a2de4476f45a3f60ee06b599f1eb19e5fc236d11",
+  "byte_size": 57272,
   "title": "Hunt County, Texas",
   "error": null
 }

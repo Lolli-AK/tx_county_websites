@@ -63,7 +63,7 @@ Elections 2026
 Elections 2024-2025
 Elections 2016-2023
 REGISTER TO VOTE
-The last day to register to vote for the November 3, 2026 Joint General Election is Monday, October 5, 2026. You can find out if you're already registered or you may fill out an informal application
+The last day to register to vote for the November 3, 2026 Joint General Election is Monday, October 5, 2026. Check your voter registration status, update your voter registration, or complete a new informal voter registration application
 here
 .
 Print
@@ -152,8 +152,9 @@ For help with setting up a new account to file reports, view the
 VistaSG Campaign Finance User Guide
 .
 Press the enter key or spacebar to expand or collapse the accordion
-POLL WORKER INFORMATION
+POLL WORKER & POLL WATCHER INFORMATION
 ▲
+Poll Worker
 If you are
 interested
 in becoming a poll worker for Medina County, click
@@ -161,6 +162,12 @@ here
 , print and fill out the contact information sheet and submit it to the Medina County Elections Office, 1300 Ave M, Rm 108, Hondo, TX, 78861.
 You may also contact your Party Chair for more information.
 If you are a new or returning poll worker for Medina County and need to take the Online Poll Worker Training Course, click
+here
+.
+Poll Watcher
+If you are
+interested
+in becoming a poll watcher for Medina County, please contact your party chair. The Texas Online Poll Watcher Training Course can be found
 here
 .
 Press the enter key or spacebar to expand or collapse the accordion

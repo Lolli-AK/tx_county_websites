@@ -223,12 +223,12 @@ Service Request
 Online Non-County Records
 911 Addressing
 Add Money to Inmate Accounts
+Court Case Lookup
 Renew Auto Registration
 Passport Application Status
 Pay my Probation Fees
 Pay my Property Taxes
 Pay my Court Costs and Fines
-Pay my Ticket
 Register to Vote
 Renew Drivers License
 Online County Records

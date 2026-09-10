@@ -68,7 +68,6 @@ Debt Schedules
 Tax Rate
 Utility Reports
 Texas Comptroller 380-381 Database Agreement
-Expenditures Report
 Agendas & News
 Public Notices - Agendas
 Notice of Estray
@@ -121,6 +120,7 @@ Notice About 2026 Tax Rates
 FY 27 Budget Information
 ▲
 FY 27 Proposed Budget
+FY 27 Adopted Budget
 FY 26 Budget Information
 ▲
 FY 26 Proposed Budget
