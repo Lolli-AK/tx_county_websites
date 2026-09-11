@@ -7,43 +7,28 @@ capture-failure classification, same onset/offset clustering. Only the plumbing
 differs (see "What is different here"), so a Texas cluster and a Florida cluster
 mean the same thing and can be put in the same table.
 
-**Why run it here at all.** Florida found three synchronized episodes, and every
-one was confined to a single web platform: ten WordPress counties on primary
-night, three CivicPlus metros, three on an unidentified platform. Counties in a
-cluster were not adjacent and spanned the whole rurality range, so the thing they
-shared was a vendor, not a region. Texas is the case that matters for that claim,
-because Texas is far more concentrated than Florida: 167 of its 254 county sites
-run ezTask Titanium, distributed through the Texas Association of Counties, and
-113 of them say so in a footer credit. If synchronized failure follows the vendor,
-Texas is where a single push moves two-thirds of a state at once.
+**Why this repo needs it.** Every synchronized cluster Florida found was confined
+to one web platform, across counties that were not adjacent and spanned the whole
+rurality range -- the thing they shared was a vendor, not a region. Texas is the
+sharper test of that, because 167 of its 254 county sites run ezTask Titanium,
+distributed through the Texas Association of Counties, and 113 say so in a footer
+credit. A single push there moves two-thirds of a state.
 
-Both outcomes are results, which is why this is worth running before knowing the
-answer:
-
-  * clusters found -> correlated failure at a scale Florida cannot show, and the
-    vendor-not-region finding replicates in the state where it is most consequential
-  * no clusters    -> concentration did not produce correlated failure in this
-    window. Florida's *fragmented* web layer broke in vendor-shaped clusters three
-    times and Texas's concentrated one did not break at all, which separates
-    concentration from fragility instead of conflating them
-
-### What is different here
+### What is different from the Florida version
 
   * `--ref` reads the commit series from any ref (`origin/main`) without checking
     it out. This repo's snapshot runs land on `main` while analysis work sits on a
     branch, so the freshest captures are usually not in the working tree. Blob
-    specs are `<sha>:<path>`, which is commit-absolute, so nothing here depends on
-    what is checked out -- only `targets.csv` had to be read through git as well.
-  * Cluster rows carry the counties' web platform, from `analysis/output/
-    tx_covariates.csv`. Florida's version reports the counties and leaves the
-    vendor to a join done later; the vendor IS the question, so it is reported
-    inline. It annotates, and never gates -- a cluster is a cluster whether or not
-    its platform could be identified.
-  * Page types are the five this repo has captured for its whole history. The
-    sixth, `voter_registration`, was added recently enough that most of the series
-    predates it; a target whose window opens mid-history cannot supply the
-    before/during/after an episode needs, so including it would add gaps, not
-    episodes.
+    specs are `<sha>:<path>` and therefore commit-absolute; only `targets.csv` had
+    to be read through git as well.
+  * Cluster rows carry the counties' web platform, read from
+    `analysis/output/tx_covariates.csv`. Florida leaves that to a later join; here
+    the vendor is the question, so it is reported inline. It annotates and never
+    gates -- a cluster is a cluster whether or not its platform is known.
+  * Page types are the five captured for this repo's whole history. The sixth,
+    `voter_registration`, was added recently enough that most of the series
+    predates it, and a target whose window opens mid-history cannot supply the
+    before/during/after an episode needs -- it would add gaps, not episodes.
 
 Usage:
     python scripts/analyze_failover_timing.py
@@ -128,7 +113,7 @@ def read_platforms() -> dict[str, str]:
     if not COVARIATES.exists():
         return {}
     with COVARIATES.open(encoding="utf-8") as fh:
-        return {slug(r["county"]): (r.get("platform") or "").strip()
+        return {slug(r["county"]): r["platform"].strip()
                 for r in csv.DictReader(fh)}
 
 
@@ -423,12 +408,11 @@ def main() -> None:
           f"(ordinary single-county changes)")
 
     # Episode incidence by platform. Denominator is captured targets, so a platform
-    # with many counties cannot look fragile just for being common. Reported two
-    # ways because they answer different questions and can disagree sharply: the
-    # SHARE of targets that ever had an episode is how widespread instability is,
-    # while episodes PER TARGET is how often it recurs. A platform with a handful of
-    # chronically flapping sites scores low on the first and high on the second, so
-    # a single "rate" over 100% would be neither.
+    # with many counties cannot look fragile just for being common. Two figures,
+    # because they disagree sharply and answer different questions: the SHARE of
+    # targets that ever had an episode is how widespread instability is, episodes
+    # PER TARGET is how often it recurs. A platform with a few chronically flapping
+    # sites scores low on the first and high on the second.
     if platforms:
         per_plat = defaultdict(lambda: [0, 0, set()])
         for t, series in matrix.items():

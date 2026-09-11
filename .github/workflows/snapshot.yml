@@ -59,19 +59,15 @@ jobs:
 
           # Automatic high-cadence window, UTC, inclusive of both endpoints.
           #
-          # Start: Texas early voting by personal appearance for the 2026 general
-          # runs Oct 19 - Oct 30 (Election Code 85.001 puts it on the 17th day
-          # before election day, which is Sat Oct 17, so it slides to the next
-          # business day; it ends on the 4th day before). Opening Oct 15 catches
-          # the ramp into it, the same four-day lead fl-county-watch uses.
+          # Texas early voting runs Oct 19 - Oct 30 (Election Code 85.001: the
+          # 17th day before election day is Sat Oct 17, so it slides to the next
+          # business day; it ends on the 4th day before). Oct 15 gives the same
+          # four-day lead into the ramp that fl-county-watch uses.
           #
-          # This is five days EARLIER than Florida's Oct 20, because Florida's
-          # mandatory early voting does not begin until Oct 24. Do not sync these
-          # two numbers -- they are answers to different statutes.
-          #
-          # End: the post-election takedown curve is the point of the exercise and
-          # it lives in the WEEKS AFTER Nov 3, not on election night. This one DOES
-          # match Florida's, because election day is the same in both states.
+          # Deliberately not Florida's Oct 20 -- Florida's mandatory early voting
+          # opens Oct 24. Different statutes; do not sync them. The Nov 17 end is
+          # shared, because election day is Nov 3 in both states and the tail is
+          # there for the post-election takedown curve.
           WINDOW_START=20261015
           WINDOW_END=20261117
 
