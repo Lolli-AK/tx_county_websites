@@ -138,7 +138,6 @@ Office
 Hours:
 Monday - Friday, 8AM to 12PM
 1PM to 5PM
-En Español
 WELCOME!
 Thank you for visiting the Frio County Election site. We trust the information listed will assist you in your election research. The Frio County Elections Department is committed to maintaining public confidence in all elections by assuring all elections are conducted in a fair, efficient and accurate manner with the highest level of integrity. The Elections Administrator and his staff are committed to excellence in maintaining up-to-date, accurate voter registration rolls to provide fair and equal opportunities for all of Frio County.
 Press Enter or spacebar to
@@ -385,7 +384,9 @@ Years 1988-2020
 VOTING INFORMATION:
 UPDATED
 Photo ID Requirement
-As of September 2016, the law requires that every voter present photo ID before casting their vote.
+As of September 2026, the law requires that every voter present photo ID before casting their vote.
+NEW
+Voters with Disabilites
 NEW
 House Bill 1735
 Voters may only vote ONCE in a Primary Election.
@@ -408,10 +409,6 @@ VoteTexas.gov
 Answers your WHAT, WHEN, WHERE, WHO, and HOW voting questions.
 Accredited Schools Online
 Navigates the elections process for students and first-time voters.
-College Voter Prep Guide
-Guides first time college voters through the registration and elections process. Furthermore,
-Affordable Online Colleges
-features rankings on the best online colleges in Texas and the U.S., while including info on financial assistance and scholarships.
 First Time Voters Guide
 How to vote in 7 steps, unique resources for first-time voters, and how to cast your vote while studying or living abroad.
 ARCHIVED ELECTION RESULTS  2014 - 2024

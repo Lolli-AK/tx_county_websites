@@ -153,10 +153,6 @@ S
 1
 2
 3
-Thu, Sep. 10
-VDR In Person: September 10 , 10 AM
-Thu, Sep. 10
-VDR In Person: September 10 , 2 PM
 Tue, Sep. 15
 VDR Zoom: September 15, 9 AM
 Tue, Sep. 15
@@ -165,6 +161,10 @@ Tue, Sep. 15
 VDR In Person: September 15 , 2 PM
 Thu, Sep. 17
 VDR In Person: September 17 , 10 AM
+Thu, Sep. 17
+VDR In Person: September 17 , 2 PM
+Tue, Sep. 22
+VDR Zoom: September 22, 9 AM
 View All Events
 /Calendar.aspx
 Contact Us

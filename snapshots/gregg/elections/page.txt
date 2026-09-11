@@ -171,7 +171,9 @@ VATRE election order
 (Opens PDF)
 Notice of Election
 Notice of Training
+(Opens PDF)
 Notice of L&A Test
+(Opens PDF)
 Notice of Hash Comparison
 Results of Hash Comparison
 Notice of Ballot Board Meeting

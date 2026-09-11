@@ -55,6 +55,8 @@ Election Calendar
 *****************************************************************
 APPLICATION FOR BALLOT BY MAIL
 Must include a phone number, your TXDL/ID number or last 4 digits of your SS#. For any questions about a ballot by mail application, call 830-876-2323 option 5
+SOLICITUD DE BOLETA POR CORREO
+Debe incluir un numero de telefono, su numero de licencia de conducir o identificacion de Texas (TXDL/ID) o los ultimos 4 digitos de su numero de Seguo Social (SS#). Si tiene alguna pregunta sobre la solicitud de boleta por correo, llame al 830-876-2323, opcion 5.
 ************************************************
 Visit
 VoteTexas.Gov
@@ -63,6 +65,13 @@ you must print then mail
 or bring in to Tax Office/Voter Registrar. You
 cannot
 register online. Address changes and cancellations can also be made with the voter registrar's office.
+Visite
+VoteTexas.Gov
+en cualquier momento para verificar su registro de votante, rastrear su boleta por correo (si vota por esa vía) y más. Allí puede completar el formulario de registro de votante,
+pero deberá imprimirlo y luego enviarlo por correo
+o entregarlo en la Oficina de Impuestos o ante el funcionario encargado del registro de votantes;
+no es posible registrarse en línea
+. También puede realizar cambios de domicilio y cancelaciones a través de la oficina del funcionario encargado del registro de votantes.
 *******************************************************************
 Acceptable Forms of ID
 MILITARY/OVERSEAS VOTING

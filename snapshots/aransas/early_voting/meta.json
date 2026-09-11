@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-10T12:25:22Z",
-  "html_sha256": "5c9d912e5dd2cd2dabf385a2d2743095d901f2868d91d19e327eb25eb1ee6b71",
-  "text_sha256": "241a40925ed99d1417f88cc5bcd4948282ac814fdcc6077035a4238adbff300b",
-  "byte_size": 33527,
+  "fetched_at": "2026-09-11T12:24:13Z",
+  "html_sha256": "c5a2ef18e6e7db08374d6d56adba67022b05b4e0169b15d261cb9846981c3b0a",
+  "text_sha256": "fb20220cbddc02c179b0ce6258fb323805031ff072ecd3dd2d33d849f35d5896",
+  "byte_size": 34085,
   "title": "Aransas County Elections",
   "error": null
 }

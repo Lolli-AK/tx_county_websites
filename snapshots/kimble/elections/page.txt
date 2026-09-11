@@ -27,7 +27,6 @@ Current Election Information
 Candidate Information
 Archives
 Emergency Management
-Main Website
 Emergency Notifications
 Other County Entities
 Appraisal District
@@ -107,15 +106,26 @@ Kimble County Voter Precinct Map
 as of 4.5.2023
 EARLY VOTING & ELECTION DAY ROSTERS
 *Voter history is uploaded to the Secretary of State's website at the close of every day during elections.  This information is available on their website the next day*
-EARLY VOTING FOR ALL PRECINCTS WILL BE HELD AT THE CLERK'S OFFICE:
-KIMBLE ANNEX BLDG
-CLERK’S OFFICE
-105 REID RD
-JUNCTION, TEXAS
-*SEE TIMES BELOW*
-OTHER 2026 ELECTIONS:
-Mason ISD 5/2/2026 - NOTICE, ORDER, NOTICE OF BOND ELECTION, ORDER CALLING SCHOOL BUILDING BOND ELECTION
 2026 Elections:
+General Election – November 3, 2026
+▲
+Important Dates:
+ABBM Applications
+for General due by
+OCTOBER 23, 2026
+Last Day to Register to Vote:
+October 5, 2026 (always 30 days before the election)
+Early Voting:
+October 19, 2026 – October 23, 2026 8am - 5pm (OPEN THROUGH LUNCH)
+Saturday October 24, 2026 7am - 7pm
+Sunday October 25, 2026 9am – 3PM
+October 26, 2026 – October 30, 2026 7am - 7pm (OPEN THROUGH LUNCH)
+Election Day November 3, 2026 – YOU MUST VOTE IN YOUR DESIGNATED PRECINCT
+.
+Election Notices & Results:
+LAT TESTING
+September 16, 2026 @ 2pm
+Press the enter key or spacebar to expand or collapse the accordion
 Primary Runoff Election – May 26, 2026
 ▲
 Important Dates:
@@ -225,30 +235,13 @@ Republican Sample Ballot - Voting Boxes 2,3
 Republican Sample Ballot - Voting Boxes 7,9
 Democratic Sample Ballot - All Voting Boxes
 Press the enter key or spacebar to expand or collapse the accordion
-General Election – November 3, 2026
+OTHER 2026 ELECTIONS
 ▲
-Important Dates:
-ABBM Applications
-for General due by
-OCTOBER 23, 2026
-Last Day to Register to Vote:
-October 5, 2026 (always 30 days before the election)
-Early Voting:
-October 19, 2026 – October 23, 2026 8am - 5pm (OPEN THROUGH LUNCH)
-Saturday October 24, 2026 7am - 7pm
-Sunday October 25, 2026 9am – 3PM
-October 26, 2026 – October 30, 2026 8am - 8pm (OPEN THROUGH LUNCH)
-Election Day November 3, 2026 – YOU MUST VOTE IN YOUR DESIGNATED PRECINCT
-.
-Election Notices & Results:
-Press the enter key or spacebar to expand or collapse the accordion
-Other 2026 Elections
-▲
-Mason ISD 5/2/2026
-NOTICE
-ORDER
-NOTICE OF BOND ELECTION
-ORDER CALLING SCHOOL BUILDING BOND ELECTION
+MASON ISD -
+May 2026 Bond Election
+HARPER ISD - November 3, 2026 Board of Trustees Election
+JUNCTION ISD -
+May 2026 Board of Trustees Election
 Press the enter key or spacebar to expand or collapse the accordion
 Address
 Kimble County Courthouse

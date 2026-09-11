@@ -57,6 +57,7 @@ Comal County WID No. 3B Order Calling Confirmation, Directors, Bonds, Operation 
 SOS_Proclamation_Uniform_Runoff_Election_Date_for_November_3,_2026_General_Election
 Comal Appraisal District Certification of Unopposed Candidates
 Comal Appraisal District Order of Cancellation General Election
+Comal Appraisal District Certification of Unopposed Candidates
 Get Ready to Vote
 Register to Vote
 What Precinct am I in?

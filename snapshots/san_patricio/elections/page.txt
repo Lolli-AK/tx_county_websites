@@ -137,6 +137,8 @@ Current Election Information
 Visit our
 Elections
 page to find information about the current election.
+Election Schedule
+(Horario de Votación)
 Election Workers
 Interested in helping on Election Day?
 Sign up here.
@@ -174,6 +176,7 @@ General
 State Deadlines
 Voting Dates
 Public Events
+Voting Dates Main Early Voting Polling Place
 Print
 current view to PDF and download
 iCal

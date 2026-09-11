@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-10T12:25:22Z",
-  "html_sha256": "d3b1dbaed961c4b0f579fcf39085e4e8dc95e7edf0ff2c1335b2cf2901046c23",
-  "text_sha256": "a7944a810d2f1830b01f155bd7c7786f813d299a0493decc5390baebfab46127",
-  "byte_size": 114206,
+  "fetched_at": "2026-09-11T12:24:13Z",
+  "html_sha256": "aac92cc8f359fe0e70717564de5cc54b23fed08135517fdc31ddf79c2a7ff19a",
+  "text_sha256": "bb8b440eeb6f82a815cd33f164463207b67e4eb755d4b0eace70c6d3dfec48cf",
+  "byte_size": 114096,
   "title": "Elections Office | Johnson County, TX",
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-10T12:25:22Z",
-  "html_sha256": "d74a183b80b0bf59cb9bd298fe9d83d2df22d185b95604a1b287296dc8719519",
-  "text_sha256": "119d52dfb9e18e1f7d7a63d3b2c34bdaeacdc08eeb17d4f15211428db70fb891",
-  "byte_size": 69441,
+  "fetched_at": "2026-09-11T12:24:13Z",
+  "html_sha256": "2e4d23a3b20f24541ec1bcf64c8118126aee4d8cc389c8beede62af89e2d312e",
+  "text_sha256": "253e1cc378b26d54ab8ebbd7d160831d6cc0b7b535fb95795a7025adcf034f60",
+  "byte_size": 69460,
   "title": "Elections | Ellis County, TX Official Website",
   "error": null
 }

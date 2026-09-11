@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-10T12:25:22Z",
-  "html_sha256": "641a1e265381e0a65d9447569890d0f630a2b9122141a568278c2e894dcfbe3e",
+  "fetched_at": "2026-09-11T12:24:13Z",
+  "html_sha256": "4a53de5a1201b563f2d3031b5020eb277fcdd4d27851f0f62bfc82a62dceb902",
   "text_sha256": "21bd58d25aafa8aea7bf833ecffd8e3e87273135722cbc77fe8371a9b77a5a29",
-  "byte_size": 62744,
+  "byte_size": 62798,
   "title": "County Elections | Guadalupe County, Texas",
   "error": null
 }

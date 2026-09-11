@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-10T12:25:22Z",
-  "html_sha256": "aed88dfed2cbb768b8a826ba4a00a657a8f7a9c3b03dc4db8c61d89593d1ca04",
-  "text_sha256": "682b946534c546cb75e0d293a38d0d7fc54e3b66071844ca77c4c6a39b9193f0",
-  "byte_size": 39471,
+  "fetched_at": "2026-09-11T12:24:13Z",
+  "html_sha256": "f64ef85d878577f89ece0c037db3fd087cfb05ef3a29febb7cb5f740a124266e",
+  "text_sha256": "fd03b2e5be28ba3f1e79dd5e3239f4715904811917a6efd4963928ca26c27824",
+  "byte_size": 39227,
   "title": "Staff Directory • Elections Administrator",
   "error": null
 }

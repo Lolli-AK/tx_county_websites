@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-10T12:25:22Z",
-  "html_sha256": "0f1d822bac0406e36421c9825a2954419153027ab33dd06904b1924cc488615b",
+  "fetched_at": "2026-09-11T12:24:13Z",
+  "html_sha256": "61dbeb895dc1270328a2424ee13b07d33e41aa1773301cbf37517045c28cddc5",
   "text_sha256": "7e3b1c72565d2ca073cf1cbe640bf05c91abacc9e79f7344301759e90402bc8a",
-  "byte_size": 42422,
+  "byte_size": 42713,
   "title": "Montague County, Texas",
   "error": null
 }

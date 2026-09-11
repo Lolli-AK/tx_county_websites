@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-10T12:25:22Z",
-  "html_sha256": "bb06ac6076b3adb7900f7109692e265e66f623058a9b37266300bd59a9a38f76",
-  "text_sha256": "da8537b66afbdf0e39e248c79f3242980b2c5ce0e35ab4d59cbc979a86a93df9",
-  "byte_size": 49262,
+  "fetched_at": "2026-09-11T12:24:13Z",
+  "html_sha256": "b45274a33e8a54c67df994f951788302557a6b9c414500daf09399f2ef2bf6d2",
+  "text_sha256": "575213f7580abee7a30ef76aa1b5c26726dced09751ec856993138840acaa0dd",
+  "byte_size": 49237,
   "title": "Elections | Burnet County, TX",
   "error": null
 }

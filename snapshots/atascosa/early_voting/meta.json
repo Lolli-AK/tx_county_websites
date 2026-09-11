@@ -2,19 +2,19 @@
   "county": "Atascosa",
   "page_type": "early_voting",
   "requested_url": "https://atascosacounty-my.sharepoint.com/:x:/g/personal/cseiter_co_atascosa_tx_us/IQAVvZJaczEzSpO9nJE5CHxnAaib13gCwpIsvw91kcjYkxQ?rtime=-jVFc87s3kg",
-  "final_url": "https://atascosacounty-my.sharepoint.com/:x:/g/personal/cseiter_co_atascosa_tx_us/IQAVvZJaczEzSpO9nJE5CHxnAaib13gCwpIsvw91kcjYkxQ?rtime=CQPawTYP30g",
+  "final_url": "https://atascosacounty-my.sharepoint.com/:x:/g/personal/cseiter_co_atascosa_tx_us/IQAVvZJaczEzSpO9nJE5CHxnAaib13gCwpIsvw91kcjYkxQ?rtime=mxZkx_8P30g",
   "redirect_chain": [
     "https://atascosacounty-my.sharepoint.com/:x:/g/personal/cseiter_co_atascosa_tx_us/IQAVvZJaczEzSpO9nJE5CHxnAaib13gCwpIsvw91kcjYkxQ?rtime=-jVFc87s3kg",
-    "https://atascosacounty-my.sharepoint.com/:x:/g/personal/cseiter_co_atascosa_tx_us/IQAVvZJaczEzSpO9nJE5CHxnAaib13gCwpIsvw91kcjYkxQ?rtime=CQPawTYP30g"
+    "https://atascosacounty-my.sharepoint.com/:x:/g/personal/cseiter_co_atascosa_tx_us/IQAVvZJaczEzSpO9nJE5CHxnAaib13gCwpIsvw91kcjYkxQ?rtime=mxZkx_8P30g"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-09-10T12:25:22Z",
-  "html_sha256": "655e227192f009a5b8046f319e0537beb497a2e49724ea39ed29eac1d1422752",
+  "fetched_at": "2026-09-11T12:24:13Z",
+  "html_sha256": "e081a44c03a2bcb59bbac94b3709c472cefd71d6d063ecc3a540dc568ea91518",
   "text_sha256": "8c2d2abfe1e1a0620460a3758e0f064d3266d765705577225f35f198c5c1c2da",
-  "byte_size": 2958,
+  "byte_size": 3054,
   "title": "DEMOCRATIC - EARLY VOTING ROSTER .xlsx",
   "error": null
 }

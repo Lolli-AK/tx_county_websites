@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://wichitacountytx.com/election_info/election-results/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-10T12:25:22Z",
-  "html_sha256": "8c5a41e83283c0d6b6c594aaea5ef1a3291dca9012d8f7dcd89c7ef9ac277bbd",
-  "text_sha256": "e960812de2495443b9d2aa757eb0b4204de83f7a9d058633c87daa1fb492c317",
-  "byte_size": 30574,
-  "title": "Election Results | Wichita County",
-  "error": null
+  "fetched_at": "2026-09-11T12:24:13Z",
+  "html_sha256": "d3d56f27749ddcb9aad9cfc8a92719577f7d55e8d9f6fceac7374af39607fc12",
+  "text_sha256": "5d8ca29a4cf968f2f0c3af06ac3474bc5e9b8801e302ed1e0d51b6d84bf2340b",
+  "byte_size": 3343,
+  "title": "Attention Required! | Cloudflare",
+  "error": "bot_challenge_not_cleared: captured security-check page, not content; headless_error: Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
 }

@@ -2,15 +2,16 @@
   "county": "Pecos",
   "page_type": "homepage",
   "requested_url": "https://www.co.pecos.tx.us/",
-  "final_url": "https://www.co.pecos.tx.us/",
+  "final_url": "https://www.co.pecos.tx.us/?doing_wp_cron=1789129668.8564810752868652343750",
   "redirect_chain": [
-    "https://www.co.pecos.tx.us/"
+    "https://www.co.pecos.tx.us/",
+    "https://www.co.pecos.tx.us/?doing_wp_cron=1789129668.8564810752868652343750"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-10T12:25:22Z",
+  "fetched_at": "2026-09-11T12:24:13Z",
   "html_sha256": "4657f38b2541fa642091b69bdec20b36ece1c05ccfc5c3ef65cbb4a359825c6b",
   "text_sha256": "fc11d4c42f0f768402287289b473c7a975ada7bc382e45799c3221f5dbb2bad6",
   "byte_size": 36024,
