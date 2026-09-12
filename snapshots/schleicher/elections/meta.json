@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "9e8320ad6e7ff1280b5e02340b47d4be4454dbbb0a754b6f3b45fe00a63832c5",
   "text_sha256": "104d88b41a2f3898aea0ed9109216ab64e7cd784bbe408cf1717e29ad9b5ae70",
   "byte_size": 58236,
   "title": "Elections | Schleicher County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

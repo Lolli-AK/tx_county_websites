@@ -2,19 +2,23 @@
   "county": "Pecos",
   "page_type": "polling",
   "requested_url": "https://www.co.pecos.tx.us/pecos-county-precinct-map/",
-  "final_url": "https://www.co.pecos.tx.us/pecos-county-precinct-map/?doing_wp_cron=1789129668.8110499382019042968750",
+  "final_url": "https://www.co.pecos.tx.us/pecos-county-precinct-map/",
   "redirect_chain": [
-    "https://www.co.pecos.tx.us/pecos-county-precinct-map/",
-    "https://www.co.pecos.tx.us/pecos-county-precinct-map/?doing_wp_cron=1789129668.8110499382019042968750"
+    "https://www.co.pecos.tx.us/pecos-county-precinct-map/"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "d2cbfac75b9bbe3d188149cb2a43e5df0eb772ef26fd47b3eaf1a2b71ed8152e",
   "text_sha256": "29a73f20d4bf50c97bc6e3c2fb07d55162135474a3958e210f539c175335ca08",
   "byte_size": 20323,
   "title": "Pecos County Precinct Map – Pecos County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

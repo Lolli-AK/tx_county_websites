@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "ec3d1bce23fff64ac50320749d4f37698fd108da186f272fd48b885b836f3e0d",
-  "text_sha256": "6d89a3c84e6c5d12b367bf565fe816a5886b6534ab15ad55eacabd0612041f05",
-  "byte_size": 55419,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "d5dd43e200f0f5395f569b32c4f3492d9ea8c86d7ba5097aeb553e4a689b1141",
+  "text_sha256": "6a1dc6bacd2122a8943ceacf453e307b9e53acaba8d2f23076079928c3249d6e",
+  "byte_size": 55561,
   "title": "Burnet County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

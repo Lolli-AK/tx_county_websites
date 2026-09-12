@@ -10,10 +10,15 @@
   "content_type": "text/html",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "5d84282e3c3121bc937e51d0589a65b480cb07c86f04be6296128cb6e3182b10",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "b1e90645d8abe026803307a41f7f6890be0b982f100322b3f7017aee226538b0",
   "text_sha256": "4f56289476fa84969f3f2093e3b45d90569f6172c7ed6d296b196a80456f6202",
   "byte_size": 297656,
   "title": "McMullen County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -11,10 +11,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "6eaf7c7b19f43804fa358cec3a99a82525b7f16c92b93705b8ed352dcfd67a93",
   "text_sha256": "059a0ff6bdf54635de6f0e5592c57ef1de77357e05c2d8e2eb4dbdc2f67f0d7c",
   "byte_size": 35052,
   "title": "Early Voting - Gregg County TX – Elections Department",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "5808a217d39e0600b73f9cc176b7b3cb41bacedad66fd6b2fe067254a74cb949",
-  "text_sha256": "5e4e380275ac711c5e8f28b5ac363c83522989762defbabc1dcc64c5b02a76be",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "a7f2972946357ba72d535ecbe6153c43d227a7b01ddaebe4e8eadb4204e394e9",
+  "text_sha256": "364fff60b17ad8df4bb7ac342b365d4dbad6eb955eb94a8cc48c501675957306",
   "byte_size": 65909,
   "title": "Ector County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -122,8 +122,8 @@ Menu
 Home
 Updates
 Jury Duty
-is NOT
-cancelled.
+IS CANCELLED
+.
 W2s and 1095-Cs are available in
 Employee Self-Service
 under Taxes.

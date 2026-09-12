@@ -1,0 +1,24 @@
+{
+  "county": "Hays",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.hayscountytx.gov/265/Voter-Registration",
+  "final_url": "https://www.hayscountytx.gov/265/Voter-Registration",
+  "redirect_chain": [
+    "https://www.hayscountytx.gov/265/Voter-Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "f07709b037b178623040edafe39dd237aa05c3e2bfd094196d615c52971f57f9",
+  "text_sha256": "219bf089ebaf357af716fa822dccecb24626001493852758cfbe408b3231013c",
+  "byte_size": 53397,
+  "title": "Voter Registration | Hays County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

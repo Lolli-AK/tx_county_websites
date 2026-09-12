@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "5e74bf1383c25428a2f35e8ddf008c11754ecad22df7c4aeca03d35b49ab9d4e",
   "text_sha256": "cf15e761622a2b5a7afef07d0322558453ae04a50885693539f9eaa0be7a7aa5",
   "byte_size": 35925,
   "title": "Live Oak County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -1,0 +1,24 @@
+{
+  "county": "Hood",
+  "page_type": "voter_registration",
+  "requested_url": "https://hoodcounty.texas.gov/departments/elections_administration/voter_registration.php",
+  "final_url": "https://hoodcounty.texas.gov/departments/elections_administration/voter_registration.php",
+  "redirect_chain": [
+    "https://hoodcounty.texas.gov/departments/elections_administration/voter_registration.php"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "d4589ff955d60dedbda8e4d0fb2dbc103ddd3c85aa4efde35835db7620770e14",
+  "text_sha256": "0aaed45c9a80847b5725b2e93345d86e953d3f8fcd2df1c40600a2d295849ac4",
+  "byte_size": 50529,
+  "title": "Voter Registration & ID",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

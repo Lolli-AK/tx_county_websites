@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "7d6e97cdb56313333c5a9519ac580a4b35d2eade86e62a9379ee0f6aa289a18d",
   "text_sha256": "62f7b00300a58db81d8442a00b0ca26a879b01bfc221c937c6c327363b5929b3",
   "byte_size": 118834,
   "title": "Homepage | Delta County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

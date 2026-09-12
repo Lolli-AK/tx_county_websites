@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "45aa4bc7af1fcc68b8a29c3d4746e031e63f9a7a40f3089bc57011766ead1480",
   "text_sha256": "edadbd0aa6315e84f640bfe134950e6ad05959cffb0f3ee094c621944a819404",
   "byte_size": 41183,
   "title": "Welcome to the Official Website of Orange County, Texas - home",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

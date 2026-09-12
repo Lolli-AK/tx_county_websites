@@ -1,0 +1,24 @@
+{
+  "county": "Colorado",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.co.colorado.tx.us/page/Colorado.Elections_Registration",
+  "final_url": "https://www.co.colorado.tx.us/page/Colorado.Elections_Registration",
+  "redirect_chain": [
+    "https://www.co.colorado.tx.us/page/Colorado.Elections_Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "529b88cbbc74aab33af7a549c28493222edbf7a0b33af885230dcf3fcb61e455",
+  "text_sha256": "e0ffb923a7d4b035d8af849163c34da8a062e1ddb17cd21a56fc93cbf3ea3481",
+  "byte_size": 35164,
+  "title": "Voter Registration",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

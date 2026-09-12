@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "ccf018218173a2b4bc7f7d7972c6aefdaae9cd4746006a7236794544efca73b9",
   "text_sha256": "3166dee79d253db55ba4015c34e4185e1b80fe34dc5071146bd393e3341032f0",
   "byte_size": 53007,
   "title": "ELECTION RESULTS | Kaufman County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

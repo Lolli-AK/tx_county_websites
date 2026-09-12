@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "20e32b9450ec1e73ea2373226b3152b49bb7ea6ccfad5489963aea618ba5516e",
-  "text_sha256": "5b08a30d56a5ea0e20b520029a4fd7bd61206c7900a61dc7e6862097ce54cdc7",
-  "byte_size": 56983,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "907d2c66675d7cb3654675fc14e2a1c7c7bf439fc0509a552c4769e8ac06c80b",
+  "text_sha256": "3f4af61d82976ef66224e66e5493e5f5e8cbd9f79a507c40fb1eecd61381d0f9",
+  "byte_size": 57217,
   "title": "San Augustine County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

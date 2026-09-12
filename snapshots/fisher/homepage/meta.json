@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "fc64f31249bbb8295dc7f8db59e35165d3d03436bfba890357565725038709a9",
   "text_sha256": "99940f52403d97761dfd0dd4ffa1ba468efba9022efe441b6ccb884a982df51e",
   "byte_size": 42942,
   "title": "Fisher County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -1,0 +1,24 @@
+{
+  "county": "Johnson",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.johnsoncountytx.org/departments/elections-office/register-to-vote",
+  "final_url": "https://www.johnsoncountytx.org/departments/elections-office/register-to-vote",
+  "redirect_chain": [
+    "https://www.johnsoncountytx.org/departments/elections-office/register-to-vote"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "19ccb89a2cd4b7137cfafecef345794c724d211ab366e18a3bfa1220b3c89ed0",
+  "text_sha256": "efb67fc6aed61605451099da22a149395cbc12d3d88ee6c11d8b1f1213f02a62",
+  "byte_size": 114254,
+  "title": "Register to Vote | Johnson County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

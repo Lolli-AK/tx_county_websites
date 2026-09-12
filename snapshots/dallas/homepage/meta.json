@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "ae52d6c4040b02e6cc0993b166914486adef9d8c75f4caf1247a9c0a8f7c3fd0",
   "text_sha256": "721d868fcfa7e4f297ce4f6fc25fbd9a18e61c0c2ab57453eeba2f23d466f039",
   "byte_size": 56336,
   "title": "Dallas County | Home",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

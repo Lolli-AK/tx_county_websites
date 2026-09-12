@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "3ced090821ede5abd30bb6bcf66a24efd9be73b572d2409f7d3ddc30c22e9c8a",
   "text_sha256": "9de796ef77719863625c5092b36f2bba66535127d399e4c7e45504f5bdf1f3a9",
   "byte_size": 264792,
   "title": "ELECTION INFORMATION & TURNOUT DATA / INFORMACION ELECTORAL Y DATOS DE PARTICIPACION",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "c4c13e61642d50f79ba618ae4b71f363c88bdbe92ddb55bd2b46fae73a4f8a10",
   "text_sha256": "a02a773fe4f49f1a272d8ad5724a9dd53aa2694c613078ed38d481362d403c1b",
   "byte_size": 30870,
   "title": "Home | Bastrop County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

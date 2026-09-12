@@ -11,10 +11,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "66886d8c394a464bbbe35a57aed611ebce934610dc09da19ba3db017fc1bbe22",
   "text_sha256": "207ff8f2dccd2617d8cd1877db1f9307a25c3b60ddc6e9cd9416065ae9e7b913",
   "byte_size": 48974,
   "title": "Home | Coleman County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

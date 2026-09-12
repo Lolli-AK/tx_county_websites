@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "0a60d869e5a4585adb35ee2fbac18c185a6a2d9c33dd80a3123f81508010c0d5",
   "text_sha256": "856ab5495db05cf4943f7e7633f2ec902b34dcb3f2577807a18c7463173ec90c",
   "byte_size": 24199,
   "title": "Elections | Wheeler County Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

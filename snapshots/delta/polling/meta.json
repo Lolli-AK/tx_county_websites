@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "a7ad446738c2334b7c912034627cb622c3701987be0243073a70fc10d31f9bde",
   "text_sha256": "83e82f452a48d8bdd6736344fedaab1010fd63f975e656234c56d7f806589c9d",
   "byte_size": 96848,
   "title": "County Precinct Maps | Delta County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

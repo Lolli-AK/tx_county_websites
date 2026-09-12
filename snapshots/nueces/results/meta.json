@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "73c00ee247e25b3a1094d6ce31c13bfc4500675f9a0bae14740104d99ceac206",
-  "text_sha256": "aad5b9f99daf92e539711f92e5352a7276b01b2bfa5f4062a48dc4647664003d",
-  "byte_size": 140364,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "39c952fd86e4a035aaacfc221f9a7a0b88f72130fdfe74d44ccb449133ed8287",
+  "text_sha256": "df7d543691816f45126c0681d9f02a01d8191bbf42555601bb9d26bba9cd3df0",
+  "byte_size": 140576,
   "title": "Election History | Nueces County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

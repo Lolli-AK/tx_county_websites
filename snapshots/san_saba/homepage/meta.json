@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "83a499ead376e28e8e5552f97a1485de17942583c1176e839979f6f2acba8ced",
   "text_sha256": "cd3c2d14fa7a5c54e32e33fcd7d685762a6d2633eab9c7efb884db722e36dc22",
   "byte_size": 26046,
   "title": "San Saba County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "8f22ff8c9b65ba47fa7eb4b56745e2827f9172fca3cf010ee75882da654aefd7",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "b801b0b4b580dcd9a6a161c118a55b3bbab080d70fe95621f5b1c0a0110d99b8",
   "text_sha256": "b9a0b4e7d02b6c3e0dae9b45847d7469ad49114ced92a136dc22d7ff0e631c45",
   "byte_size": 53605,
   "title": "Lamar County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

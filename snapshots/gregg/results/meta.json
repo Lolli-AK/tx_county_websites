@@ -11,10 +11,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "fc623b9c890256f7f5b2197615fe31b0fec6afbda445be08d00345c93f7103e2",
   "text_sha256": "221588ede2995c6095528ee18f600a5aa0efa68cdc57ab888568b2ee28841a9e",
   "byte_size": 41603,
   "title": "Past Election Results - Gregg County TX – Elections Department",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

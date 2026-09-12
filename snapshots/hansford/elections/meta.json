@@ -11,10 +11,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "d48ac0fab597f57b5117cf12407e34afa57364d04fef22ad4357c9ccc3c90f7f",
   "text_sha256": "ee79c496278fe910561356b2797d1651f7ed0bd87d3f5ac927638f0a81a234f0",
   "byte_size": 29099,
   "title": "Elections | Hansford County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

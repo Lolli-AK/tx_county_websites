@@ -1,0 +1,24 @@
+{
+  "county": "Midland",
+  "page_type": "voter_registration",
+  "requested_url": "https://votemidlandtx.gov/voter-information/voter-registration-sites/",
+  "final_url": "https://votemidlandtx.gov/voter-information/voter-registration-sites/",
+  "redirect_chain": [
+    "https://votemidlandtx.gov/voter-information/voter-registration-sites/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "6df553c1ed50c8391be27df92a366214663fd3775fbfb7c3759933b50ab5af78",
+  "text_sha256": "b9c999f40eb62b19fc2f2a34246f7f4e785abd20fc89caf9125b30196b032617",
+  "byte_size": 65670,
+  "title": "Voter Registration Sites – Midland County, TX Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

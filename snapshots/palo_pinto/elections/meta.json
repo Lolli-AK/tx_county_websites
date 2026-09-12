@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "ec1a37b17cc45d9574ae29e197252e82b161dd00562a71a754727fd39bc2f7f9",
   "text_sha256": "1a5bee49f8fd8cd750dfb62802624bb22ac07a1207317254341019223c104c40",
   "byte_size": 27036,
   "title": "Elections Administration | Palo Pinto County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

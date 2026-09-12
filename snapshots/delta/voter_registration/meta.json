@@ -1,0 +1,24 @@
+{
+  "county": "Delta",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.deltacountytx.com/tax-assessor-collector/page/voter-registration",
+  "final_url": "https://www.deltacountytx.com/tax-assessor-collector/page/voter-registration",
+  "redirect_chain": [
+    "https://www.deltacountytx.com/tax-assessor-collector/page/voter-registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "3d83a51352cb620ba244cae7ceb8ae3f9d4037dc00f1a12e8a9fd81f845dcdbe",
+  "text_sha256": "8f8e4df8651c0f74c3e90a9c430c8c80b438f1f53eb7f815d74ecf1c8eb9fbd9",
+  "byte_size": 99400,
+  "title": "Voter Registration | Delta County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

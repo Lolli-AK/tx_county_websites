@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "310771c5b8c5de0e10a8a235f4484d3d07550d8876765fe5783ad817ef63e5c9",
   "text_sha256": "3491a997bff22b0b1a47c425714996ee4eefc1a7e8594a6190a858fc9dc38c34",
   "byte_size": 61498,
   "title": "Polling Locations | Reeves County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

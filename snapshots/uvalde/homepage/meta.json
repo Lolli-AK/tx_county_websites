@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "3dbe38e424d9bea2138e396e826fedb7881358638294aac53e75ec2969d04c1d",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "74a8915ab24b7d723065659ac437de85dd9e273c058fedbb72f88b0266c9fd9b",
   "text_sha256": "5aa95457d3786af275b53674a233be946bc2666ed4fa7dffad04f3f07e022680",
-  "byte_size": 93794,
+  "byte_size": 95976,
   "title": "Uvalde County Texas Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

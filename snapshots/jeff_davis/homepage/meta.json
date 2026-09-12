@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "9205770fc823f392dad295e5403c0c2f94b04b27a15e14abaf231b56b58d8ddd",
   "text_sha256": "975b7e112ce4aa9e5ca3663647f578093f6f41da7754d07d097446ab51f003f3",
   "byte_size": 31627,
   "title": "Jeff Davis County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

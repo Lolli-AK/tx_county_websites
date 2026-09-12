@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "37022e75e48b9a8a2713c2aa518ca8441bc5ae431de8a47cd10c0a7dd23b8cdd",
   "text_sha256": "48833e566db9e8e9fec6e23f448c761ee31d6de315a145f5987f08859a584cde",
   "byte_size": 20732,
   "title": "Kenedy County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

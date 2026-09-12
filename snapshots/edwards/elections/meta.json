@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "0869aea0f4a5259f89f7c89d0a72cb2733bce72befadc647cd6cfe2afd86c936",
-  "text_sha256": "de20f6a9b5437476de335e15f809e8234387c8f05c313cf77fe4522361ef2133",
-  "byte_size": 60063,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "b673a8bc8c32aa0948175d13ffcad469e0d53c7807231f4dbd6b561040411394",
+  "text_sha256": "76e2c1ad50021b044d9488d7762d13c1902e81d3caaa2d517e2d46ce93dbeebf",
+  "byte_size": 60315,
   "title": "Elections | Edwards County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

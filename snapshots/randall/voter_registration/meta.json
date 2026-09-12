@@ -1,0 +1,24 @@
+{
+  "county": "Randall",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.randallcounty.gov/173/Register-to-Vote",
+  "final_url": "https://www.randallcounty.gov/173/Register-to-Vote",
+  "redirect_chain": [
+    "https://www.randallcounty.gov/173/Register-to-Vote"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "e2c7dfcfb5e0a80d21a6341e611180b153178336be8bf93c35a8318b94cf89bb",
+  "text_sha256": "4db97c05e39e5c1b6ba4b3546e7621069b5057580f327bd16159b37cbbe00ee0",
+  "byte_size": 43553,
+  "title": "Register to Vote | Randall County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

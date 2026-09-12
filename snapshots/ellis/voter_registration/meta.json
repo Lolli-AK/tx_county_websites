@@ -1,0 +1,24 @@
+{
+  "county": "Ellis",
+  "page_type": "voter_registration",
+  "requested_url": "http://www.elliscountytx.gov/740/Voter-Registration-Information",
+  "final_url": "http://www.elliscountytx.gov/740/Voter-Registration-Information",
+  "redirect_chain": [
+    "http://www.elliscountytx.gov/740/Voter-Registration-Information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "73dce83414b85a969e97559bed2eb2b1f952b1126ee85278376e3eb2daa2bfad",
+  "text_sha256": "1bd20077e09e1920189f81b755fb21304320bbb30b107474f002245192644ef4",
+  "byte_size": 74573,
+  "title": "Voter Registration Information | Ellis County, TX Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

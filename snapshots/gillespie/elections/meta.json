@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "36e12810e849fd54b9eba8a6c2f34d6d5cec28a07f92a1b646c2f4a32cfaa955",
   "text_sha256": "a7a73df2c3678d14e34cb25b6432c959cc81d03eb891165fa6bea6d47493d5d5",
   "byte_size": 74416,
   "title": "Elections | Gillespie County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

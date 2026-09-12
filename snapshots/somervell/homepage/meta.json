@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "e7725d245be2b47968807675160ad6dc09eb6eb28dc7cca02da72a12d55d6fc3",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "cd5284ebd3130dd0721dc88b336e1d06306a212ee4e2bd45ad9e094bf01c23b7",
   "text_sha256": "f4ec934002a2125d13b7c0e508b66d3fe01d8f85271deb79e544a42a067f5097",
   "byte_size": 55619,
   "title": "Somervell County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

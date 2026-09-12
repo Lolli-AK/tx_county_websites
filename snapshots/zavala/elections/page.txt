@@ -44,12 +44,9 @@ County Directory
 Contact Us
 About Us
 Elections
-TextMyGov's Terms and Conditions
-Terms and Conditions
-Active slide image alt text will be announced here
 Active slide image alt text will be announced here
 TxMyGov
-Special Election
+General Election
 Polling Places
 Election Results
 Sample Ballots
@@ -109,6 +106,7 @@ View terms and privacy policy info at
 textmygov.com/opt-in-terms-conditions
 Msg & Data rates apply. Please visit:
 https://textmygov.com/
+Active slide image alt text will be announced here
 Precinct #1- Batesville
 Zavala County Government Center Pct. #1
 44 West Avenue
@@ -152,9 +150,6 @@ Precinct 1
 Joint Primary Runoff Election Polling Places
 Download file
 Unofficial Joint Primary Runoff Results
-Download file
-DEMOCRATIC SAMPLE BALLOTS
-REPUBLICAN SAMPLE BALLOTS
 Download file
 ID Types required for voting
 Active slide image alt text will be announced here

@@ -16,13 +16,6 @@ Home
 Elections
 Election Information
 Election Information
-How Can We Help You Vote?
-Current Election
-Check My Registration
-Early Voting
-Election Day Locations
-Vote by Mail
-Election Results
 Current Election:
 2026 Gubernatorial November General and Special Election
 Election Day - November 3, 2026
@@ -200,6 +193,49 @@ Election Information and Turnout Data -
 Official Historical Election Results/Data
 Sample Ballots for Upcoming Elections
 Sample Ballot PDF's
+November 3, 2026 General and Special Election
+Sample ballots help you review the contests before voting. They are for reference and cannot be used to cast your vote.
+Each PDF below contains two pages with English and Spanish text.
+ⓘ
+Find the Correct Sample Ballot
+Your ballot depends on your registered residential address and the districts in which you live. Some precincts contain more than one ballot style.
+Check your Texas voter registration record
+.
+Review the precinct and school-election descriptions below.
+If you are unsure which ballot applies, call
+Howard County Elections at 432-264-2273
+before selecting a sample.
+A precinct number alone may not identify your ballot.
+BCISD means Borden County Independent School District. The BCISD samples below apply only to the applicable portions of those precincts.
+☑
+Download a Sample Ballot
+Ballot Style BS0001
+BS0001 — Precincts 31, 32, 33, 34, 34A, 35, and 304 (PDF, 2 pages)
+BS0001 — Applicable portions of precincts 11, 12, 12A, 13, 14, 16, 103, and 104; no school contests (PDF, 2 pages)
+Ballot Style BS0003 — BCISD
+BS0003 — BCISD portion of precinct 104, split 104.3 (PDF, 2 pages)
+This sample includes BCISD school contests. Its printed heading lists a broader precinct group; confirm your assigned ballot style if you are unsure.
+Ballot Style BS0004
+BS0004 — Applicable portions of precincts 24, 25, 26, and 205 (PDF, 2 pages)
+Ballot Style BS0005
+BS0005 — Applicable portions of precincts 207, 207C, 208, and 208C (PDF, 2 pages)
+Ballot Style BS0006
+BS0006 — Applicable portions of precincts 404, 405, and 408; no school contests (PDF, 2 pages)
+BS0006 — Precincts 41, 42, 45, and 46 (PDF, 2 pages)
+Ballot Style BS0007 — BCISD
+BS0007 — BCISD portion of precinct 405, split 405.3 (PDF, 2 pages)
+This sample includes BCISD school contests. Its printed heading lists a broader precinct group; confirm your assigned ballot style if you are unsure.
+Ballot Style BS0008
+BS0008 — Precinct 409 (PDF, 2 pages)
+ⓘ
+Need Help Reading or Choosing a Ballot?
+Contact Howard County Elections if you need help identifying your ballot style or need sample-ballot information in an accessible format.
+Phone:
+432-264-2273
+Email:
+hcvotes@gmail.com
+Learn about voting assistance and accessible equipment
+.
 BS# = Ballot Style Number - Number Assigned to a Ballot by Common Precinct / Race
 COBS = City of Big
 Spring COC = City of Coahoma

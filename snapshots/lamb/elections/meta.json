@@ -11,10 +11,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "2fa318a7868d23c6549161dce9f9d35c46244b16a5237e5337b7f80ec9fca8e2",
   "text_sha256": "435149b05bd339fe3b126d8d6b9dffe893b060e58d9b713aaa4af66f54df6135",
   "byte_size": 91130,
   "title": "Elections & Voting | Lamb County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

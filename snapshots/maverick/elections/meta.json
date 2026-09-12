@@ -10,10 +10,15 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "024dc19266983d997aa74921f3785db59ca4dc3e799652a7a56fce502a792633",
-  "text_sha256": "ea2aa2b4800b92634b8512f7c688872f059b2ffda3813d6514842110247bd9b5",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "0ef325411abe1f0b3a936166460df7f46010781e398039abbf4878a1bcead2cc",
+  "text_sha256": "7bdf596d3d021d58ab404ca7057c4f2156cdd61be3f0e70ad94b14b1c527bd26",
   "byte_size": 120734,
   "title": "Elections | Maverick County, TX - Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

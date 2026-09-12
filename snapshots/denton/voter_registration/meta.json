@@ -1,0 +1,24 @@
+{
+  "county": "Denton",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.votedenton.gov/voter-information/voter-registration/",
+  "final_url": "https://www.votedenton.gov/voter-information/voter-registration/",
+  "redirect_chain": [
+    "https://www.votedenton.gov/voter-information/voter-registration/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "a37593d46f76d9a798968072510433eac29f187ff37bf9a7f6b3a8a95cfa649e",
+  "text_sha256": "fc6509fbb4e5582542954eea0deb9effe5d754b38c146c05c1c7a5765d71c1e0",
+  "byte_size": 35792,
+  "title": "Voter Registration - Denton County, TX Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

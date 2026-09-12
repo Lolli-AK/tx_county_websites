@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "d879cb056e6b220112026f3f788d33f6056b87c39cd2e372803ca9496ed68eb2",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "d2274a802c8ffca0db306b64c50d26d6dad8e3d898bc43fa1bf3cbcc324d25d6",
   "text_sha256": "da6a2254685c511432fbb742f594d256f19af361b5ca5fb755c9507cd3522888",
   "byte_size": 57087,
   "title": "Wise County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

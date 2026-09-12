@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "89750ccef876aba005c0ee9dbfa471b04555a52382e12c01651593990454705b",
-  "text_sha256": "ccc2ddbca78486ffec6bb518d35e1e3916ca11fc4222929b7ad6e223587e1c14",
-  "byte_size": 44926,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "2dbf2239c0933dd599dace8f7f76055a7f2460635a1b5a9a8fed8c562992b74e",
+  "text_sha256": "9eee38ccfddcef5b9bf22ef66767e74d403eed4bf8d79a0493500b5717077223",
+  "byte_size": 46869,
   "title": "Elections - Runnels County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "cb32441c6bfd4f1b175030262839412702a3768715357c6cd375ef461c659a7a",
   "text_sha256": "0034beba805b42c8ce311199254c77b3c7aaf374c76d49b5cc40901449f6f989",
   "byte_size": 47601,
   "title": "Early Voting | Guadalupe County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

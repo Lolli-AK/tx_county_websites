@@ -1,0 +1,24 @@
+{
+  "county": "Sabine",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.co.sabine.tx.us/page/sabine.Elections%20Voter%20Registration",
+  "final_url": "https://www.co.sabine.tx.us/page/sabine.Elections%20Voter%20Registration",
+  "redirect_chain": [
+    "https://www.co.sabine.tx.us/page/sabine.Elections%20Voter%20Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "76fe71d72e16b1c8178a10c6607d16eb746672897058abbb67b6e7b48604bc99",
+  "text_sha256": "7fb0a088e6b6daa03bb60cf23f83890141152fb8168b8e185761378ac33f3eff",
+  "byte_size": 28112,
+  "title": "Sabine County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

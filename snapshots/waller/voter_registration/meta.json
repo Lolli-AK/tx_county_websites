@@ -1,0 +1,24 @@
+{
+  "county": "Waller",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.co.waller.tx.us/page/Elections.VoterRegistration",
+  "final_url": "https://www.co.waller.tx.us/page/Elections.VoterRegistration",
+  "redirect_chain": [
+    "https://www.co.waller.tx.us/page/Elections.VoterRegistration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "d128d23ccb981a2c94b4d92e38cae5aa40728e2c0550c43404bbe91c392f8094",
+  "text_sha256": "452b27853aa1b9eefbbc453a8f2b5b77bd461c600361c51c9132356cbb4783e0",
+  "byte_size": 27242,
+  "title": "Waller County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

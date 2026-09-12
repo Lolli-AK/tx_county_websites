@@ -47,7 +47,9 @@ Departments
 County Clerk
 Elections
 ELECTIONS
-November 3 General Election,
+Orders of Election for Nov. 3:
+November 3 General Election
+,
 SWTC Annexation Election
 ,
 CSCISD Election

@@ -6,14 +6,19 @@
   "redirect_chain": [
     "https://wichitacountytx.com/election_info/current-election-information/"
   ],
-  "http_status": 202,
-  "content_type": "text/html",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "39bcf12bf2af420f1f376a61c2306090917863187965b00fbfd4b28af0876750",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "a81a19b3f91c2eb1dae4fc1b114918e961eced478a66fbd6565190b49f88679b",
   "text_sha256": "174d393673df56f008ee611cc829a14c2b640332a40d9cecf7c659765776798a",
-  "byte_size": 34735,
+  "byte_size": 34734,
   "title": "Current Election Information | Wichita County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

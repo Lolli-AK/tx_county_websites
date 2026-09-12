@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "d91dcdcc60afe61f8120e97c184703a756f8e86f444de2d37a021231252e0dfa",
-  "text_sha256": "531c325e1c1965673665871c8209d884c9c9075062ee35a94713d47464693798",
-  "byte_size": 26667,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "af163eda107b16b55e6eeb15482d79442559dcd8e00ab19c68c2cc74c505ec0d",
+  "text_sha256": "7052cd385d74ddc59a081ed5f7114459715d7491e7997b5f699284eb671498e8",
+  "byte_size": 26676,
   "title": "Cochran County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

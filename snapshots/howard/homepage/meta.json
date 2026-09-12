@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "c4134e88de3b03cfd9f5fad966e5cbad1014e003fb5cbf01e70e0a21f8a46b1e",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "a56fdee9367a2da969f304afc55d542050cb1d06d797db937a897a18a431f7d7",
   "text_sha256": "74fd50bfcf7fdbef4715726021944e40c2f70de9fc9600a2a490e729625cc97a",
   "byte_size": 51347,
   "title": "Howard County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

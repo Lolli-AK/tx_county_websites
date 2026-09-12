@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "1b5ef12150feb0fc74b2f0305c89829da7a8b1e390157aee2755a4b906d891df",
   "text_sha256": "6f6a1ab79e6e111ebb5c191424923a845aaa61a9e659bbb87bfb0c928600109c",
   "byte_size": 104275,
   "title": "Current Election | Potter County Elections Administration | Amarillo",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

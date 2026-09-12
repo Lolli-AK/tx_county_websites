@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "4ab80e1e35bcc953c5ce8e69f36b3efd40f2a17f63b2817b6a4f4f8e4126f440",
   "text_sha256": "f617919d5b1f09bb432306b0bf56a4c8890a07f14bddcee3f2b3dc1023e831bf",
   "byte_size": 52675,
   "title": "Elections | Kimble County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -126,6 +126,7 @@ Departments
 319th District Court (G)
 347th District Court (H)
 Animal Services
+Budget Office
 County Judge
 Commissioner Precinct 1
 Commissioner Precinct 2
@@ -150,7 +151,6 @@ Dispute Resolution Services
 District Attorney
 District Clerk
 Emergency Management
-Grants Administration
 Human Resources
 Information Technology
 Justice of the Peace 1-1
@@ -321,6 +321,7 @@ Budgets
 +
 Chart of Accounts Tabular
 Employees
+Nueces County Budget
 Other Forms
 County Boards
 +

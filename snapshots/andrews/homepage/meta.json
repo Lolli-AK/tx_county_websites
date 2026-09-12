@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "0b978741a3f7a205afb9dd26c3db1d41d631aa4659758033fa3ee7f10164b866",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "4b0d3a00a0b7de0d64af96e7eabc6ce95ab8e77217027492f7ce0ac20320945b",
   "text_sha256": "fd2f46fa4e71708aac130e02a246b9c3369d58d7a4a93c280ff0734e1560fa73",
   "byte_size": 64674,
   "title": "Andrews County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

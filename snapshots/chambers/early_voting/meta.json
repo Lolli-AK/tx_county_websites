@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "04f682e8a47b377d8f6d3abf7a88f20e876f5999a92bcdb861cf3fb6dfdd2190",
-  "text_sha256": "e5a372372f6c7e610cf235346aa2b7042037c6770699b061d05888c15bc7f298",
-  "byte_size": 168927,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "03e481a168625b4e50495f4f776db744d2afa84cb23865b1c5177828686f091d",
+  "text_sha256": "5b921dc570e7faff219e2965b788264890b1b79c539c2e4e995b214adf198d77",
+  "byte_size": 169883,
   "title": "Current Elections | Chambers County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

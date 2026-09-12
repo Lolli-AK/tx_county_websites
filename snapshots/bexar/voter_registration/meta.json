@@ -1,0 +1,24 @@
+{
+  "county": "Bexar",
+  "page_type": "voter_registration",
+  "requested_url": "https://elections.bexar.gov/180/Register-to-Vote-Registration-Changes",
+  "final_url": "https://elections.bexar.gov/180/Register-to-Vote-Registration-Changes",
+  "redirect_chain": [
+    "https://elections.bexar.gov/180/Register-to-Vote-Registration-Changes"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "93febc809a6859ca27baceaa95a77099b27babfc191e66a038157b4088579c26",
+  "text_sha256": "e8e6e70ca4350fb7390a9b30fa6a0d196a319bbef59237fc74af95817ef723dd",
+  "byte_size": 48824,
+  "title": "Register to Vote & Registration Changes | Bexar County Elections, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

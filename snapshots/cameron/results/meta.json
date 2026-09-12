@@ -10,10 +10,15 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "7ceb338f18454bb729b124113225c9ba632052d3964a1d07ae9766f3af480b1f",
   "text_sha256": "e9f8892d4893d0f4ecc4bec2760fee5e17e52c133ffd49f836bf2a012ac2e8ba",
   "byte_size": 922138,
   "title": "Results - Cameron County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

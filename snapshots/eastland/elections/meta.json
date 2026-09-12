@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "9ae1c9810adae3a9a41865d80d56ac157c5e497ae990b454e51fc6626c2bb171",
   "text_sha256": "b4a293473bd0ea718e26e82405b32e8beec1a20d76d747750e5faf84b7493c12",
   "byte_size": 217210,
   "title": "Eastland County Elections | Eastland County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

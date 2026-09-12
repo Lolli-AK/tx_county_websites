@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "1ae601f413cc12cfa37f9a022fade0ece738603887d16c38599731f4f9c25d5f",
-  "text_sha256": "eec10acbedf6675ce856d10c047ba5d49dd30e1b034b3f54dd4788bb45ac24c1",
-  "byte_size": 85091,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "cdf269b984485078d605d6950c42a9795e14bed72f5e4ad09e45d66b6c699b84",
+  "text_sha256": "e9cc886e650e723a7708a02f920f24a62a35c47204f2b3e29979be4aa6f3d26b",
+  "byte_size": 85025,
   "title": "Webb County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

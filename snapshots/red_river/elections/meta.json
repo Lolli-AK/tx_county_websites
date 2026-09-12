@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "148f0002e08ac556a0820bb7d21d779911867bfb3ba011b03ca335f1bf690471",
-  "text_sha256": "02fe67cd40becb6b370b18ddd5499a0d4690a96b68cfc3a86300c36704065690",
-  "byte_size": 85066,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "4a0632eddbdf3f8dcb978c8c70e8d897a4c0cc71c994c2bc389e3e49375ae83b",
+  "text_sha256": "4662c48ba1b96e22c28d2394031da1a52ea7ef4ea022f81b394dd6dfb0e8c944",
+  "byte_size": 86163,
   "title": "Elections - County Clerk",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "f160deaab1d616756fc27627f5537f191078fedf48a6726095728dd3bf89d597",
   "text_sha256": "a6faaa41fb0c3d5c9771857bbc2df36a0d92b6316c3543e809895a9a52eb2f7b",
   "byte_size": 41896,
   "title": "Home | Jasper County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

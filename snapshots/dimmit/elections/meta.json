@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "bd22cbc894ed33ffa2dfc1e0c8f247b658dea7b44c7fc669a0400e5931e7a782",
-  "text_sha256": "aa48b8d3f27be1309d4263f044bd77aab053fafafb95b85bfa8f59abe47ea41f",
-  "byte_size": 134448,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "a4832ad17c59c45df93fb37d270cb86a67f52aff5b11b396c375578a1ac3476b",
+  "text_sha256": "8388f737a9ffaad9462b965eb5bb74282cdd0ae4cb1df0b9c69fbe8ea45c1771",
+  "byte_size": 134666,
   "title": "Dimmit, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

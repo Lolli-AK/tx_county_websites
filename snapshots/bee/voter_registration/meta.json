@@ -1,0 +1,24 @@
+{
+  "county": "Bee",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.beecounty.gov/274/Voter-Registration",
+  "final_url": "https://www.beecounty.gov/274/Voter-Registration",
+  "redirect_chain": [
+    "https://www.beecounty.gov/274/Voter-Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "27cf3d8ee68e150005f52e75ba21de135f5830f997ac0c52b8e2973aea9630b9",
+  "text_sha256": "da8901a5a2478037c90c34da1191e4d3f4aa72c8a88614aa3d9703a05827cb56",
+  "byte_size": 39730,
+  "title": "Voter Registration | Bee County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

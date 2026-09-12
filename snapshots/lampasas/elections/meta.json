@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "43938cf9bc7aae807914d3077c388335956ebba44bc0b9f99f557c01edd655e1",
   "text_sha256": "bcacfd40d2331fb896b868aa23f53dc098e93a225223d880f547260d70f43b1b",
   "byte_size": 66036,
   "title": "Lampasas County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

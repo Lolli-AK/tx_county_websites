@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "3c50ae253a91e9b3a95c884109b23f4e0e688f30b3eb77ac9c17b7c0f3cb1e73",
   "text_sha256": "909d71c08e78e702d457ece3d84ffd2c6cb8a00f114bb41a080363614061a785",
   "byte_size": 40337,
   "title": "Hamilton County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

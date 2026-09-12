@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "750a84c2c81c2fa31876e96f56e156b8d8f8c0649acd34b6c81ff948ae152f58",
-  "text_sha256": "6b1d8f2f3ee714c2d9d21045dd669778649be71240f21c2c15586e9937467484",
-  "byte_size": 88550,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "418fbfc236088e2cbede448028676fe308ad81b6259ece9147d6a6b08565d01c",
+  "text_sha256": "8d855fe450e3dd39524d4e909daa593df94976831260244c240f3bc9b70a184f",
+  "byte_size": 89696,
   "title": "Elections Administration Home | Grayson County Tx.",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

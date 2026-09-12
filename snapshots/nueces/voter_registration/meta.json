@@ -1,0 +1,24 @@
+{
+  "county": "Nueces",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.nuecesco.com/county-services/tax-assessor-collector/voter-registration/register-to-vote",
+  "final_url": "https://www.nuecesco.com/county-services/tax-assessor-collector/voter-registration/register-to-vote",
+  "redirect_chain": [
+    "https://www.nuecesco.com/county-services/tax-assessor-collector/voter-registration/register-to-vote"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "a8684c964fb7ae00b7d2469278b490002d541bbdd581bdead4d5760a02fdf69a",
+  "text_sha256": "465f988d794bc5d99ce151ebaa5c986661d3448281191caad26e1ab681d35e34",
+  "byte_size": 137935,
+  "title": "Register To Vote | Nueces County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

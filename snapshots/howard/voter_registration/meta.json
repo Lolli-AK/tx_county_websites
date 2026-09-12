@@ -1,0 +1,24 @@
+{
+  "county": "Howard",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.co.howard.tx.us/1242/Voter-Registration",
+  "final_url": "https://www.co.howard.tx.us/1242/Voter-Registration",
+  "redirect_chain": [
+    "https://www.co.howard.tx.us/1242/Voter-Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "21a1e6e94e8a33857e1a6559f845be7c77008520343f20d30828601d2ca96fc1",
+  "text_sha256": "da52b4be0f7c6d1cf13307226baa615dac8938ec0bcdfca3a55adabf22cb9b10",
+  "byte_size": 34218,
+  "title": "Voter Registration | Howard County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

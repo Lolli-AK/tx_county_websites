@@ -1,0 +1,24 @@
+{
+  "county": "Refugio",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.co.refugio.tx.us/page/refugio.Elections.VoterReg",
+  "final_url": "https://www.co.refugio.tx.us/page/refugio.Elections.VoterReg",
+  "redirect_chain": [
+    "https://www.co.refugio.tx.us/page/refugio.Elections.VoterReg"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "01fece5d7ff5bb924c0b6399b4a8c8c5776f30402927cbca0d117f0faa422b9f",
+  "text_sha256": "ef41dbbfbb46493e0347f0764ca8d75a67c83f010b6238ee2306c6c11e2ae020",
+  "byte_size": 28142,
+  "title": "Refugio County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

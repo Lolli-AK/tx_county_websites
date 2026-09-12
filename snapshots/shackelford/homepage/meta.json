@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "0e2731cdaf0f0f6d3d1f2f70270f950450edb03bea0e8b99ac62e6394cdb3ded",
   "text_sha256": "a369d6adf12ce93d8ef2ecff7008c8a5c8e13eee9e740546ed0c4a97922c5467",
   "byte_size": 39380,
   "title": "Shackelford County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

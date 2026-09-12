@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "ed317a175579bcabcb2a1fe0e66668b1ebef793ad8aa066e6a91d1c2e8c53b24",
   "text_sha256": "e1fd9fc3e818ef5c10286a51a892f88d799aa485c3ee2c3cce472397a879533e",
   "byte_size": 22828,
   "title": "Home Page - Terry County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

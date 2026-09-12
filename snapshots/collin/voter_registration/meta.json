@@ -1,0 +1,24 @@
+{
+  "county": "Collin",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.collincountytx.gov/elections/voter-registration-information",
+  "final_url": "https://www.collincountytx.gov/elections/voter-registration-information",
+  "redirect_chain": [
+    "https://www.collincountytx.gov/elections/voter-registration-information"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "eb23f530a1f3c166b6052a469600a0bfe983ddaf6eb1d879c2a808edd2650bfa",
+  "text_sha256": "b06f5322040fb9159b82d9c2479fc03a30f59150cb34338e17cab34c904c879e",
+  "byte_size": 37035,
+  "title": "Voter Registration Information",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

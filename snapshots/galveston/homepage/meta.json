@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "92b768cdd7d1d64dcd9eb340e4e7ab00eabb9be839bb791da7a1f45ad4c2a258",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "dfc2c33a72fef27bc44f506835d68b36de0f4de7b3941fa2b0531449a93cbe81",
   "text_sha256": "e47ef730568ff6c9caa64d9642e8135cd9359b000374d23bf9869804592464cc",
   "byte_size": 53653,
   "title": "Galveston County, TX | Home",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

@@ -1,0 +1,24 @@
+{
+  "county": "McLennan",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.mclennan.gov/384/Voter-Registration",
+  "final_url": "https://www.mclennan.gov/384/Voter-Registration",
+  "redirect_chain": [
+    "https://www.mclennan.gov/384/Voter-Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "72500ab3f2bf7d893345f0eeed114431f2c156c5868f04d44a2c696e31911835",
+  "text_sha256": "5ac87e4a549940cacbe7b23bac3e7762be63e0eaf5dd9a2b7c52bf1d8d96468d",
+  "byte_size": 63418,
+  "title": "Voter Registration | McLennan County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

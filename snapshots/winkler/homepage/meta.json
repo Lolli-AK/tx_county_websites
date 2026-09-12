@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "41a47346e0c0289d49b8442e23b371202fbf69e1debaac61f9b370604587c8f0",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "41439ec00ed8d72a849390d87b918f5fb8eb052d6b8672abebac8e5f2106da4a",
   "text_sha256": "a1b85f39df2e136a80adaa63bb75bc0fb12001607e43f98ea4bc7b875e2feb05",
   "byte_size": 54323,
   "title": "Winkler County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

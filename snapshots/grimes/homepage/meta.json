@@ -10,10 +10,15 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "ae1d214a1eb7d9d3736c3454aa538fdf7d9860bf424f4786e53623950491c86e",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "91881e7658c9c109ebbcbd121dfe1df4f3f7d843df5bf3308ed2d02f9c52c0a7",
   "text_sha256": "64fee0197487a4536bb1596ad97d64ad56e5e6b573df33926fd619105736026c",
   "byte_size": 79003,
   "title": "Grimes County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

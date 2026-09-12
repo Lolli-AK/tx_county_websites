@@ -1,0 +1,24 @@
+{
+  "county": "Rusk",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.ruskcountytx.gov/page/Elections",
+  "final_url": "https://www.ruskcountytx.gov/page/Elections",
+  "redirect_chain": [
+    "https://www.ruskcountytx.gov/page/Elections"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "8cb1267ba5a5c0ed04e84f118de8d221bb2c8a34af2e94cdf0b463cf5bce296f",
+  "text_sha256": "0546f8fff28521f831a5ac387656f06c7ea6b2086a68a5d33f653ec725ce8aae",
+  "byte_size": 189581,
+  "title": "Elections & Voting | Rusk County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

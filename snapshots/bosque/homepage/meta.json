@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "a49b7fa08d91c3a610fda7ecc578a6291ebe96c4f8a31b85ddbd623e3aa4c2a7",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "0d2ee5fd54c79ee0ec33f47f8031d57ca9689c39d830de143087dcbcf6920e45",
   "text_sha256": "b777626dec9cd7d6ea2f0f917e170fefdfacc59750469898cca634307778c0d8",
   "byte_size": 60219,
   "title": "Bosque County, TX | Official Website",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

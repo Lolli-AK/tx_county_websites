@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "2e7c1526168e080b01fb69149f000ba89ed3b588656189ef9a08a620265bd17e",
   "text_sha256": "77314fe1d69c8500f3b6c1d054f469e5ffafc6cf33fe1baa0af66726881d48db",
   "byte_size": 106491,
   "title": "Newton County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

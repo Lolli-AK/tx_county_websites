@@ -1,0 +1,24 @@
+{
+  "county": "Kendall",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.kendallcountytx.gov/232/Voter-Registration",
+  "final_url": "https://www.kendallcountytx.gov/232/Voter-Registration",
+  "redirect_chain": [
+    "https://www.kendallcountytx.gov/232/Voter-Registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "e30997cb937b04a4bea509945f794b27f2cdbc6153b6da066b2c1e8460bd1f4e",
+  "text_sha256": "2906881303f8f1f4620fc684477168d9de16f3e1811d5af36e3239974d73d16f",
+  "byte_size": 64727,
+  "title": "Voter Registration | Kendall County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

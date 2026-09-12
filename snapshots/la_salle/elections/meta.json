@@ -8,12 +8,17 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "2da8155221cb58caac49660429b0e6d8ea9606dbebea77c894ff964af4392025",
-  "text_sha256": "22e070fd5c383cacf9342b98bd4d420807c535b52293206e5956eb53bf717e96",
-  "byte_size": 91070,
-  "title": "ELECTIONS DEPARTMENT",
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "edfcb479cd8867fb8f7d9c7c71b9f1159f37225e7c48e049f8afd3a0aa4c8949",
+  "text_sha256": "bc862b8202909cd7e410f861178f99df93a803ed79a57bd3972e72191509b14a",
+  "byte_size": 488,
+  "title": "One moment, please...",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

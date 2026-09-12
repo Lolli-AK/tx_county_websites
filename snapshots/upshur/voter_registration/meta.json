@@ -1,0 +1,24 @@
+{
+  "county": "Upshur",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.countyofupshur.com/page/voter_registration",
+  "final_url": "https://www.countyofupshur.com/page/voter_registration",
+  "redirect_chain": [
+    "https://www.countyofupshur.com/page/voter_registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "7ff5107c06fb51369d2b264325263bb3fb447f4a245da9b651585999363d9f36",
+  "text_sha256": "f4bbeaa39addae1263c589eb799176d2343aa8d3267f670785cb28546344e84e",
+  "byte_size": 46577,
+  "title": "County of Upshur",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}

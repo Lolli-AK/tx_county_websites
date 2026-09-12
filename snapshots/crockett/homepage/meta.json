@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "b0b495b8eb9568009a6ea0b3290642805459579a15039ec38ee8f43ed7619e7f",
-  "text_sha256": "672d84b3bd490a0e19f9b357f1f7e22cc9be820f79768c38eff56e63473a4305",
-  "byte_size": 22890,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "b86d71644a61587ef75aaa2749cd2e4f6bc7a87505e9d80ab39305c4a8f1ff7c",
+  "text_sha256": "16a85428dace4e9e89009d1ec7a2249d66544da2174a746a29d9621839aeebec",
+  "byte_size": 22967,
   "title": "Home Page - Crockett County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

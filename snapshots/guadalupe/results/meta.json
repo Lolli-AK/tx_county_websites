@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-11T12:24:13Z",
-  "html_sha256": "8ea3fed28e3d6389db57bd130db3084f2b37c5fac33c93f1ba71efa2188515ce",
-  "text_sha256": "a126fe29cb60be71543d6eb850cffc1e17db3906927bc90dfe279780b17a1c25",
-  "byte_size": 256199,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "6030e618182842f5308e8c00d50147ef8ed88be80598b57b9143acca718c87eb",
+  "text_sha256": "3fdf6bcbcef9fd2c0c99e84b37b034a368d34febd3b03828481588779e8d6274",
+  "byte_size": 257176,
   "title": "Elections History | Guadalupe County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

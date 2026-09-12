@@ -10,10 +10,15 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-11T12:24:13Z",
+  "fetched_at": "2026-09-12T11:45:37Z",
   "html_sha256": "a2ab0600bab557e05ea3e4e44cbccf0c8eb787df68d333baf055474aef556e64",
   "text_sha256": "0c392787ac090e2e889463791ca962b17e373bc4df469f1fa9360e0e0604f9f1",
   "byte_size": 49376,
   "title": "Roberts County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
   "error": null
 }

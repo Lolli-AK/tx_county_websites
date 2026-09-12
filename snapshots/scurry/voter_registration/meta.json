@@ -1,0 +1,24 @@
+{
+  "county": "Scurry",
+  "page_type": "voter_registration",
+  "requested_url": "https://www.co.scurry.tx.us/page/elections.voter.registration",
+  "final_url": "https://www.co.scurry.tx.us/page/elections.voter.registration",
+  "redirect_chain": [
+    "https://www.co.scurry.tx.us/page/elections.voter.registration"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-09-12T11:45:37Z",
+  "html_sha256": "10a9082af79233dbf03662c2de8cdd84da474de346e6d175c852c3745193dc66",
+  "text_sha256": "e8b5cf2ec432e4de7af292fe73404a56e6ec938fdc721d51c0ddebb348221801",
+  "byte_size": 40492,
+  "title": "Scurry County Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": null
+}
