@@ -6,19 +6,19 @@
   "redirect_chain": [
     "https://www.angelinacounty.net/"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-12T11:45:37Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-09-13T12:53:35Z",
+  "html_sha256": "cfb3f508b91d5807c90126128b174664927b6ce6acc3a23e945ff6bae008eac8",
+  "text_sha256": "29a603aba7f90ffdf5ca84f7c410cde164342bcb73569433dbde323cf9c0e852",
+  "byte_size": 41878,
+  "title": "Angelina County – Angelina County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectError: [Errno 101] Network is unreachable"
+  "error": null
 }
