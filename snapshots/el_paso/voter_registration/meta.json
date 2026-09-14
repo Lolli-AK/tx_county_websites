@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-13T12:53:35Z",
-  "html_sha256": "bfb3a41b8580e45233f1a1eb33bd34dfdcaf2ad0478e500937b5f4edf0cff04a",
-  "text_sha256": "55860ac85224dd5997f10828ccac400b92623fc828ed3eaf1b21a5911cb1fdee",
+  "fetched_at": "2026-09-14T14:30:02Z",
+  "html_sha256": "3ba4454859b15bc9bc6dca504625296c88c13bcd7a0ef2b606f2bfe349aa506d",
+  "text_sha256": "fff186e1c4f70cf33c0b3896672e069b11f9573bdb1a74bb6982f940ec57eb32",
   "byte_size": 38198,
   "title": "Voter Registration - El Paso County, TX Elections | El Paso County Elections Department",
   "noncitizen_voting": {

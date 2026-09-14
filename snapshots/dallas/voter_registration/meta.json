@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-13T12:53:35Z",
-  "html_sha256": "a6ffc9a96e4ede6263c9c699d812eb63e70fe143466fe727a56b43a6c65a9b4e",
+  "fetched_at": "2026-09-14T14:30:02Z",
+  "html_sha256": "1991e95efd93b4458081df24bf11db59fcbb0b14c6de8744ca517866ad575a9a",
   "text_sha256": "5078ffe64de85bb8d2aea81c0c04c0607beab422454c1657623463f74db44de7",
-  "byte_size": 104197,
+  "byte_size": 104239,
   "title": "Register to Vote – Dallas County Elections Department",
   "noncitizen_voting": {
     "present": false,

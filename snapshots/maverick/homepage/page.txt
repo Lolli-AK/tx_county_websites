@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-80°F
+81°F
 EN
 ES
 Government
@@ -84,14 +84,14 @@ Am I registered?
 Today · Vote
 Voter registration closes in
 Last day: Monday, October 5
-23 days left to vote early
-22
+22 days left to vote early
+21
 Days
-16
+14
 Hours
-02
+26
 Min
-52
+55
 Sec
 Last day to register
 Mon, Oct 5
@@ -197,10 +197,10 @@ Emergency Operations Center
 Sign Up for Emergency Alerts
 Get urgent Maverick County notifications by text, call or email: severe weather, evacuations, road closures and emergencies.
 Sign Up
-80°
+81°
 F
 Weather · Eagle Pass
-Clear
+Mostly Cloudy
 Official portal · Transparency
 Commissioners Court Agendas
 Access agendas, minutes, recordings and official notices for every Maverick County Commissioners Court session. All public information from the county's governing body, in one place.

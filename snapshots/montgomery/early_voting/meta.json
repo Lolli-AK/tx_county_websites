@@ -10,9 +10,9 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-13T12:53:35Z",
-  "html_sha256": "ec25d0259378ca5f131cedf538aeb033524e939f7b57b3e64fadad823f72ec00",
-  "text_sha256": "f2220bfcb41957b0fa3fe8148179ddcba289768e596d21de143cde1d04664536",
+  "fetched_at": "2026-09-14T14:30:02Z",
+  "html_sha256": "ea5a76bfe68f0bb8376bd8a9cfd34bd264b78bd29fa1d20f9a20991df8375a64",
+  "text_sha256": "43a5dae25690a43d6833461dde2a555e8c7dedee07c3f758a59b7bd57a6e1733",
   "byte_size": 10929,
   "title": "Montgomery County, Texas - Elections",
   "noncitizen_voting": {
