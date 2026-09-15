@@ -269,6 +269,11 @@ Coronado High School
 Cafeteria
 (Cafeteria)
 Map & Details
+Del Valle Elementary School
+9251 Escobar Dr. 79907
+Gymnasium
+(Gimnasio)
+Map & Details
 Desert Hills Elementary School
 300 N. Kenazo Dr. 79928
 Main Hallway
@@ -346,8 +351,8 @@ Room 1704
 Map & Details
 El Paso Community College-Valle Verde
 919 Hunter Dr. 79915
-AST-150
-(AST-150)
+Cafeteria
+(Cafeteria)
 Map & Details
 El Paso County Eastside Annex
 2350 George Dieter Dr. 79936
@@ -446,8 +451,8 @@ Library
 Map & Details
 Helen Ball Elementary School
 1950 Firehouse Dr. 79936
-Volunteer Room D105
-(Sala de Voluntarios D105)
+Library
+(Biblioteca)
 Map & Details
 Hilos de Plata Senior Center
 4451 Delta Dr. 79905
@@ -464,7 +469,7 @@ Horizon Heights Elementary School
 Foyer
 (Área de Espera)
 Map & Details
-Hurshel Antwine Elementary School
+Hurshel Antwine Middle School
 3830 Rich Beem Blvd. 79938
 Gymnasium
 (Gimnasio)
@@ -526,8 +531,8 @@ Lobby
 Map & Details
 Memorial Park Senior Citizen Center
 1800 Byron St. 79930
-Dance/Exercise Room
-(Cuarto de Baile/Ejercicio)
+Classroom
+(Salón)
 Map & Details
 Mesita Elementary School
 3307 N. Stanton St. 79902
@@ -649,10 +654,10 @@ Sunrise Mountain Elementary School
 Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
-Texas Tech Health El Paso
+Texas Tech University Health Sciences Center El Paso
 130 Rick Francis St. 79905
-T.B.A.
-(T.B.A.)
+Mezzanine Lobby
+(Mezzanine Área de Espera)
 Map & Details
 The Monte Vista at Coronado
 1575 Belvidere St. 79912
@@ -681,8 +686,8 @@ Library
 Map & Details
 Wayne Thornton Community Center at Grandview
 3134 Jefferson Ave. 79930
-Lobby
-(Área de Espera)
+Classroom
+(Salón)
 Map & Details
 Wellington Chew Senior Center
 4430 Maxwell Ave. 79904
@@ -745,7 +750,7 @@ Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
 530,351
-Registered voters as of Monday, September 14, 2026
+Registered voters as of Tuesday, September 15, 2026
 Are You Registered?
 Every Voice Makes an Impact.
 Every Vote Makes a Difference.

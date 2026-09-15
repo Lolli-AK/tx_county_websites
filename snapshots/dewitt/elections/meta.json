@@ -2,19 +2,20 @@
   "county": "DeWitt",
   "page_type": "elections",
   "requested_url": "https://www.co.dewitt.tx.us/page/dewitt.Elections",
-  "final_url": "https://www.co.dewitt.tx.us/page/dewitt.Elections",
+  "final_url": "https://www.co.dewitt.tx.us/page/Elections",
   "redirect_chain": [
-    "https://www.co.dewitt.tx.us/page/dewitt.Elections"
+    "https://www.co.dewitt.tx.us/page/dewitt.Elections",
+    "https://www.co.dewitt.tx.us/page/Elections"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-14T14:30:02Z",
-  "html_sha256": "29f729d25b3e1470173ad3f91847884886bfdbe06e60ef8fa9030eb8a4237a72",
-  "text_sha256": "16a782e6de5e69395db961c24d9153a52e3ee3917dd04b098b8a6ec4db440133",
-  "byte_size": 135138,
-  "title": "DeWitt County, Texas",
+  "fetched_at": "2026-09-15T12:56:22Z",
+  "html_sha256": "c90f23bab9ef09b85a36e2d96b89c815835efe311448a4364c33109c40a73b95",
+  "text_sha256": "097064b2e7c44eb2c8832c78f4864877293f3daace4d76a117b03c7d9fc825d0",
+  "byte_size": 107984,
+  "title": "Elections & Voting | DeWitt County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

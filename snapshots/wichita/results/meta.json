@@ -2,20 +2,19 @@
   "county": "Wichita",
   "page_type": "results",
   "requested_url": "https://wichitacountytx.com/election_info/election-results/",
-  "final_url": "https://wichitacountytx.com/.well-known/sgcaptcha/?r=%2Felection_info%2Felection-results%2F&y=ipc:172.182.253.36:1789396478.553",
+  "final_url": "https://wichitacountytx.com/election_info/election-results/",
   "redirect_chain": [
-    "https://wichitacountytx.com/election_info/election-results/",
-    "https://wichitacountytx.com/.well-known/sgcaptcha/?r=%2Felection_info%2Felection-results%2F&y=ipc:172.182.253.36:1789396478.553"
+    "https://wichitacountytx.com/election_info/election-results/"
   ],
   "http_status": 202,
   "content_type": "text/html",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-14T14:30:02Z",
-  "html_sha256": "cf384ca8f4bb9fdb8f5b63e868397175c6a17d3c23571204af3d974f3364e71e",
-  "text_sha256": "c44599aa9f5ccab668954a743bdd2d02e1860f8e998d2a44f9feac7163f74200",
-  "byte_size": 917,
-  "title": "Robot Challenge Screen",
+  "fetched_at": "2026-09-15T12:56:22Z",
+  "html_sha256": "666384b50ee5219c6a1cb6c0611a8ce8c11c5295f74bf78d5fbd351938a50900",
+  "text_sha256": "c3ced01834b6da20e31700c7dea8781c1c665ed6502d40a0cdc0bb9f5ac9228a",
+  "byte_size": 30265,
+  "title": "Election Results | Wichita County",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

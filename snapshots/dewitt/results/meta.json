@@ -2,19 +2,20 @@
   "county": "DeWitt",
   "page_type": "results",
   "requested_url": "https://www.co.dewitt.tx.us/page/dewitt.BidNotices",
-  "final_url": "https://www.co.dewitt.tx.us/page/dewitt.BidNotices",
+  "final_url": "https://www.co.dewitt.tx.us/page/BidNotices",
   "redirect_chain": [
-    "https://www.co.dewitt.tx.us/page/dewitt.BidNotices"
+    "https://www.co.dewitt.tx.us/page/dewitt.BidNotices",
+    "https://www.co.dewitt.tx.us/page/BidNotices"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-14T14:30:02Z",
-  "html_sha256": "b83249c416772385ea958fd8726b56b6f487408c351e22af7426fd07a05db6f7",
-  "text_sha256": "90bcc1e3e78e83d6bf27451cb7e2cba61a29de501c9882cbd398108a26fd43df",
-  "byte_size": 40659,
-  "title": "DeWitt County, Texas",
+  "fetched_at": "2026-09-15T12:56:22Z",
+  "html_sha256": "3320db00c1839c0484b6203ad28494aa3898103e4f83e61ba9f8c4166dffe03f",
+  "text_sha256": "5a0c78def22c4e0c505409c7818f752fc5384780f8c159e788cbb4cd9ba060f3",
+  "byte_size": 41668,
+  "title": "Bid Notices & Awarded Bids | DeWitt County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

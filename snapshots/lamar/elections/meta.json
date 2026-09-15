@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.lamarcountytx.gov/1206/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 404,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-14T14:30:02Z",
-  "html_sha256": "feccaf40ebe2aaa59126866fc91e2deb9c3a036c5d4faad46eff1523f923d130",
-  "text_sha256": "cdd269509706611716b2a619370b50b79461e663b56ae760b3eaffc4dc4a316d",
-  "byte_size": 105057,
-  "title": "Elections | Lamar County, TX",
+  "fetched_at": "2026-09-15T12:56:22Z",
+  "html_sha256": "8e8e662048a332a6ac9ece9f0b8fc6ed62293a848f43133dfb13d25033854cd5",
+  "text_sha256": "d93e34bd716933a43f3a14737af6e842da62c505daa73799a5f2ab797addaac4",
+  "byte_size": 695,
+  "title": "404 - File or directory not found.",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

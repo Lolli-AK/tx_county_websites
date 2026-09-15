@@ -70,6 +70,7 @@ List Maintenance
 Life Cycle of a Voter Registration Application
 Life Cycle of an Election
 Checks and Balances in Texas Elections
+Logic & Accuracy
 Voter & Sample Ballot Lookup
 Voting By Mail
 FPCA Military & Overseas
