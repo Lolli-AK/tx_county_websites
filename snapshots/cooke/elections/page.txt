@@ -22,6 +22,7 @@ Home
 Communications
 Criminal Investigations Division
 Jail
+Jail Roster
 Patrol Division
 Crime Prevention
 FAQ
@@ -120,9 +121,11 @@ Important Dates
 Polling Locations:
 Early Voting Location
 Election Day Locations
-Certified Write-In Candidates
 Sample Ballots
-Coming Soon
+Cooke County Sample Ballot - All Voting Precincts
+City of Gainesville Sample Ballots - Voting Precincts 1C-2-4C
+Valley View ISD Sample Ballot - Voting Precincts 10-11-12
+Certified Write-In Candidates
 Early Voting - In Person Rosters
 Election Day - In Person Rosters
 Coming Soon
@@ -132,9 +135,9 @@ Election Day - Ballot by Mail Rosters
 Coming Soon
 Coming Soon
 Notices & Orders
-Era ISD Order of Cancellation
 Notice of Delivery of Ballots Voted by Mail
 Notice for Early Voting Saturday and Sunday
+Notice of General Election
 Order of Appointment for Central Counting Station
 Order of Appointment for Election Judges/Alternates
 Order of Appointment for the Early Voting Ballot Board
@@ -145,6 +148,7 @@ Saint Jo ISD Order of Election
 Sivells Bend ISD Order of Cancellation
 Slidell ISD Order of Cancellation
 Valley View ISD Order of Election
+Era ISD Order of Cancellation
 Important 2026 Election Dates
 Click here for Ballot by Mail info and application
 Informational Pamphlets:

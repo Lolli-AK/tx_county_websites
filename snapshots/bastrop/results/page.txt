@@ -18,6 +18,7 @@ Voter Registration Information
 Acceptable Forms of Identification
 Voters with Special Needs
 Military and Overseas Voters
+Information for First Time Voters
 Volunteer Deputy Registrars
 Precinct Lookup by Address
 Request for Voter Registration-Election Information
@@ -127,16 +128,6 @@ Registered Voters as of 09/14/2026
 Total
 63,982
 Mark Your Calendar
-National Voter Registration Day
-Tuesday
-,
-September
-15th
-Volunteer Deputy Registrar Training
-Thursday
-,
-September
-17th
 Volunteer Deputy Registrar Training
 Thursday
 ,
@@ -177,6 +168,16 @@ Wednesday
 ,
 November
 11th
+County Holiday
+Thursday
+,
+November
+26th
+County Holiday
+Friday
+,
+November
+27th
 View More
 Connect With Us
 Sitemap

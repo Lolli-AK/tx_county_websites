@@ -19,12 +19,7 @@ Agendas
 Sub Division Regs
 "A Service of the Dallam County Commissioners' Court"...
 Search the Site
-September 14, 2026 Meeting Agenda
-2026 Tax Calculations
-Dallam County Proposed Tax Hearing Notice
-Dallam County Budget Hearing Notice
-Dallam County Tax Notice
-Tax Payer Impact Statement
+September 28, 2026 Meeting Agenda
 Choose a Category to Explore:
 Departments
 Voting/Votacion
@@ -39,4 +34,4 @@ All Rights Reserved
 WCR Design
 Visitor #: [an error occurred while processing this directive]
 Couldn't open /www/dallam/cgi-bin/dan_o.dat so I'm bugging out..
-Last Modified: Tuesday, 08-Sep-2026 14:41:09 EDT
+Last Modified: Thursday, 17-Sep-2026 13:51:48 EDT

@@ -10,6 +10,7 @@ Find a Vote Center
 Become a Vote Center
 Vote Center Application
 What's on my Ballot?
+November 3rd 2026 - General and Special Elections Sample Ballot
 First-Time Voters
 Vote by Mail
 Mail Ballot Tracking
@@ -36,8 +37,7 @@ Election Notices
 Live Video
 Information Removal Request
 Election Results
-Democratic Primary Election
-Republican Primary Election
+Live Results
 Early Voting
 Archives
 Election Rosters
@@ -72,8 +72,7 @@ Election Notices
 Live Video
 Information Removal Request
 Election Results
-Democratic Primary Election
-Republican Primary Election
+Live Results
 Early Voting
 Archives
 Election Rosters
@@ -83,8 +82,7 @@ Election Results
 Home
 Election Results
 Menu
-Democratic Primary Election
-Republican Primary Election
+Live Results
 Early Voting
 Archives
 Election Rosters

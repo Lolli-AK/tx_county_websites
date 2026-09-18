@@ -222,11 +222,11 @@ Election Results
 City of Port Arthur Runoff Election
 Property Alert
 Jefferson County Voter Registration Total
-146,982
+146,980
 Updated Weekly
 Jefferson County Voter Registration Total
 Updated Weekly
-146,982
+146,980
 [rotating image slideshow removed for determinism]
 County Clerk
 Elections
@@ -236,7 +236,7 @@ Vote By Mail Application
 Am I
 Registered To Vote
 Notices
-Sample Ballots
+November 2026 Sample Ballot
 Mail Ballot
 Tracker
 Important Dates

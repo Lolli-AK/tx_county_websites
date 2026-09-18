@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-15T12:56:22Z",
-  "html_sha256": "7d709ac67528638b480e747b5287f59e215ff69b74cb9bcf76c385284efa5a0d",
+  "fetched_at": "2026-09-18T12:25:06Z",
+  "html_sha256": "894e16be3893553a6c9e2ef5cd640c0d23017be4c8920b97128319e931b4d5f3",
   "text_sha256": "ca8fbcab1c8f21a96086702a8cfb6a6951fca2f5fc9e3352484d18efe1b828fb",
-  "byte_size": 53964,
+  "byte_size": 53972,
   "title": "Prior Election Results | Ellis County, TX Official Website",
   "noncitizen_voting": {
     "present": false,

@@ -7,13 +7,13 @@
     "https://cameroncountytx.gov/elections/results/"
   ],
   "http_status": 200,
-  "content_type": "text/html",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-15T12:56:22Z",
-  "html_sha256": "7ceb338f18454bb729b124113225c9ba632052d3964a1d07ae9766f3af480b1f",
-  "text_sha256": "e9f8892d4893d0f4ecc4bec2760fee5e17e52c133ffd49f836bf2a012ac2e8ba",
-  "byte_size": 922138,
+  "fetched_at": "2026-09-18T12:25:06Z",
+  "html_sha256": "0bc9ad5c3d518d9d7b359885f479d04bd9c0ef39e2873b034529b94db1a69158",
+  "text_sha256": "271c4e37d30cd17b33fc1fb34b05344d9d397540df8040b9d95845fa6683c8de",
+  "byte_size": 923583,
   "title": "Results - Cameron County",
   "noncitizen_voting": {
     "present": false,

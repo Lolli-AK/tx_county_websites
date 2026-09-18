@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-15T12:56:22Z",
-  "html_sha256": "f2c72c3f92d222c9de917214bc593c46044da576e8a98a294aadd150a9829919",
+  "fetched_at": "2026-09-18T12:25:06Z",
+  "html_sha256": "c4abd22bfb15b2ba075bf8308bc3d2ef2162977e81f2566c4b3ced4e53901bb2",
   "text_sha256": "feae67198f4254182a988eea84ed55c59a656bd786fdb820a627e09d08cbd0a3",
-  "byte_size": 30831,
+  "byte_size": 30860,
   "title": "Register to Vote - Gregg County TX – Elections Department",
   "noncitizen_voting": {
     "present": false,

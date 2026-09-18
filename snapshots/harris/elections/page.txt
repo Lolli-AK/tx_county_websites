@@ -6,6 +6,7 @@ Election Information
 Harris Votes App
 Registration
 What's on my Ballot?
+November 3rd 2026 - General and Special Elections Sample Ballot
 First-Time Voters
 Vote by Mail
 Mail Ballot Tracking
@@ -32,20 +33,20 @@ Election Notices
 Live Video
 Information Removal Request
 Election Results
-Democratic Primary Election
-Republican Primary Election
+Live Results
 Early Voting
 Archives
 Election Rosters
 Election Reports
 Become a Vote Center
+Download the Harris Votes App.
 Harris County Clerk's Office
 Elections Department
 Days
 Hours
 Minutes
 Seconds
-November 3, 2026, General and Special Elections
+November 3, 2026 - General and Special Elections
 Voter
 View information for upcoming Elections
 Election Information
@@ -72,8 +73,7 @@ Election Notices
 Live Video
 Information Removal Request
 Election Results
-Democratic Primary Election
-Republican Primary Election
+Live Results
 Early Voting
 Archives
 Election Rosters

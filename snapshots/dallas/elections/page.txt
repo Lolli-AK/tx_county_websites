@@ -225,7 +225,7 @@ December 12, 2026- Runoff Election (14)
 November 3, 2026 - General Election & Joint Election (12)
 Poll Worker Training (34)
 Volunteer Deputy Registrar Training (0)
-Voter Registration Events (7)
+Voter Registration Events (5)
 Event Type:
 All Events
 Community Outreach Events
@@ -416,16 +416,6 @@ Voter Registration Events
 »
 September
 2026
-September 15, 2026
-VRAM: Garland Government Center
-10:00 AM - 2:00 PM
-Garland Government Center
-voter-registration-events
-September 17, 2026
-VRAM: Garland Government Center
-10:00 AM - 2:00 PM
-Garland Government Center
-voter-registration-events
 September 19, 2026
 Deadline to mail ballots to Military and Overseas Voters
 november-3-2026-general-and-joint-election

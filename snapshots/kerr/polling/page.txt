@@ -165,11 +165,14 @@ Application for Ballot by Mail
 NOVEMBER 3, 2026 ELECTION
 November 3, 2026 - General Election
 Early Voting Dates, Times and Locations
-Election Day Polling Locations -
-coming soon
+Election Day Polling Locations
 Notice of Election Training Program
 for General Public, Presiding Election Judges, Alternate Election Judges, Election Clerks, County Clerk, Voter Registrar, and County Chairs
 Public Notice of Public Logic and Accuracy Test (LAT) and First Test of Automatic Tabulating Equipment
+Headwaters Groundwater Conservation District Election
+Headwaters Groundwater - Order of Cancellation
+Comfort ISD Election - District 1, 3, 4 & 7
+Comfort ISD - Order of Cancellation
 May 26, 2026 - Republican Primary Runoff Election
 Early Voting Dates, Times and Locations
 Election Day Polling Locations
@@ -229,38 +232,23 @@ County Judge
 Name
 Files
 Incumbent
-Party
-James M. "Jack" Stewart
-Candidate(s) Reports for County Judge
-No
 Thomas E. "Tom" Jones
+Candidate(s) Reports for County Judge
 No
 County Commissioner, Precinct 1
 Name
 Files
 Incumbent
-Party
-Wayne K. Uecker
-Candidate(s) Reports for Commissioner, Precinct 1
-No
-George M. Baroody
-No
 Clayson H. Lambert
-No
-Brenda E. Hughes
+Candidate(s) Reports for Commissioner, Precinct 1
 No
 County Commissioner, Precinct 2
 Name
 Files
 Incumbent
-Party
 Richard S. "Rich" Paces
 Candidate(s) Reports for Commissioner, Precinct 2
 Yes
-Michael L Allen
-No
-Danny J. Langbein
-No
 Jeremy R. Walther
 No
 County Commissioner, Precinct 4
@@ -268,51 +256,34 @@ Name
 Fil
 es
 Incumbent
-Party
 Guy R. "Bubba" Walters
 Candidate(s) Reports for Commissioner, Precinct 4
 No
-Randy F. "Murph" Murphy
 County Court at Law Judge
 Name
 Files
 Incumbent
-Party
 Robert Hunter Moose
 Candidate(s) Reports for County Court at Law Judge
 No
-Brett L Ferguson
-No
-Thomas J. Hurt
-No
-Deborah Suzanne Perry
-No
-William L. Tatsch
 County Clerk
 Name
 Files
 Incumbent
-Party
 Carl Berthold
 Candidate(s) Reports for County Clerk
-No
-Denise Vela
 No
 District Clerk
 Name
 Files
 Incumbent
-Party
-Amber D. Longenbaugh
-Candidate(s) Reports for District Clerk
-No
 Eunavae M. Tonroy
+Candidate(s) Reports for District Clerk
 No
 Justice of the Peace, Precinct 1
 Name
 Files
 Incumbent
-Party
 Mitzi M. French
 Candidate(s) Reports for Justice of the Peace, Precinct 1
 Yes
@@ -320,7 +291,6 @@ Justice of the Peace, Precinct 2
 Name
 Files
 Incumbent
-Party
 James R. "J.R." Hoyne
 Candidate(s) Reports for Justice of the Peace, Precinct 2
 Yes
@@ -328,31 +298,20 @@ Justice of the Peace, Precinct 3
 Name
 Files
 Incumbent
-Party
-Frank J. Bigler
-Candidate(s) Reports for Justice of the Peace, Precinct 3
-No
 Taylor L. "Big-Rob" Robertson
+Candidate(s) Reports for Justice of the Peace, Precinct 3
 No
 Justice of the Peace, Precinct 4
 Name
 Files
 Incumbent
-Party
-Christine L. Martinez
-Candidate(s) Reports for Justice of the Peace, Precinct 4
-No
-Sylvia Foraker
-No
-Devan B. Burns
-No
 Don R. Harris
+Candidate(s) Reports for Justice of the Peace, Precinct 4
 No
 County Treasurer
 Name
 Files
 Incumbent
-Party
 Tracy L. Soldan
 Candidate(s) Reports for County Treasurer
 Yes
@@ -360,10 +319,11 @@ County Surveyor
 Name
 Files
 Incumbent
-Party
 Lee C. Voelkel
 Candidate(s) Reports for County Surveyor
 Yes
+Past Candidates
+Past Candidate(s)
 CURRENT OFFICE HOLDERS CAMPAIGN FINANCE REPORTS
 Current Office Holders
 Name

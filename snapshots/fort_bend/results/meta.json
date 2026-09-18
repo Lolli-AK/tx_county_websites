@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-15T12:56:22Z",
-  "html_sha256": "a4b43f62cfea1f89ec24ae6712b99d2cc95ced0e4dde5513843ad2cfb7daa358",
+  "fetched_at": "2026-09-18T12:25:06Z",
+  "html_sha256": "c367509f16852a08320925400fea48651b008f0aecab0f2e95da9e3bfe01367b",
   "text_sha256": "b034889f9aea98a132e226e82dc27fa24d786ca626c0020360d8a0a1dedc1196",
-  "byte_size": 155654,
+  "byte_size": 155690,
   "title": "2026 Election Results | Fort Bend County",
   "noncitizen_voting": {
     "present": false,

@@ -209,11 +209,13 @@ November 3rd, 2026 General Election
 ▲
 Governor Greg Abbott's Proclamation
 Order of Election - Brown County
+_______________________________________________________________________________________________
 Important Information:
 Last Day to Register to Vote: Monday, October 5, 2026
 Last Day to Apply for Ballot By Mail: Friday, October 23, 2026
 Early Voting Starts: Monday, October 19, 2026
 Early Voting Ends: Friday, October 30, 2026
+_______________________________________________________________________________________________
 POLLING LOCATIONS
 Early Voting Week One
 October 19th- October 23rd, 2026      8:00am – 5:00pm
@@ -233,6 +235,10 @@ th
 October 30th, 2026      7:00am - 7:00pm
 Election Day
 Tuesday, November 3, 2026    7:00am – 7:00pm
+_______________________________________________________________________________________________
+PUBLIC TESTS
+HASH VALADATION 11.03.2026
+_______________________________________________________________________________________________
 BROWN COUNTY
 ------------------------------------
 REPUBLICAN CANDIDATES:

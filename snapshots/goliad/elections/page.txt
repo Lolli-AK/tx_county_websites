@@ -125,13 +125,11 @@ lunes 5 de octubre del 2026
 .
 El último día para solicitar la boleta electoral por correo (solo se requiere que el sobre sea recibido, no que tenga matasellos) es el
 viernes 23 de octubre del 2026
-.
-La votación anticipada comienza el
+. La votación anticipada comienza el
 lunes 19 de octubre del 2026
 y termina el
 viernes 30 de octubre del 2026
-.
-El último día para recibir la boleta electoral por correo es el
+. El último día para recibir la boleta electoral por correo es el
 martes 3 de noviembre del 2026
 O
 el
@@ -141,6 +139,11 @@ a las
 si el matasellos del sobre es antes de las
 7:00 p.m.
 en el lugar de votación del día de las elecciones.
+SAMPLE BALLOTS ALL PRECINCTS
+PAPELETAS DE MUESTRA PARA TODOS LOS DISTRITOS ELECTORALES
+(Precincts are listed on bottom left corner. BALLOT MUST BE PRINTED ON YELLOW PAPER;
+los distritos electorales se enumeran en la esquina inferior izquierda. LA PAPELETA DEBE IMPRIMIRSE EN PAPEL AMARILLO
+)
 COUNTY
 Proclamation by the Governor of the State of Texas
 Order of Election

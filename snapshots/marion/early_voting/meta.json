@@ -10,10 +10,10 @@
   "content_type": "text/html",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-09-15T12:56:22Z",
-  "html_sha256": "866bda35fc460569fb253e5f46b07800baafaa5b4dcbfe854f0d820c52152c01",
+  "fetched_at": "2026-09-18T12:25:06Z",
+  "html_sha256": "3fd40c84157cca3865c3b29400645a0ffbca2e990702882be7d7695b2f38185a",
   "text_sha256": "fe10fb09ebee2f6af12829ea0331965556d20c40a2d47c5b6c9f397fe9c90faf",
-  "byte_size": 93555,
+  "byte_size": 93493,
   "title": "NOVEMBER 5, 2024 GENERAL ELECTION – Marion County Tax Office",
   "noncitizen_voting": {
     "present": false,

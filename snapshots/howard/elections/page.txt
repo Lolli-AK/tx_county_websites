@@ -10,8 +10,6 @@ Elections
 Public Notices
 Search
 Election Information
-Voter Information
-Voter Registration
 Howard County Elections
 Sample Ballots and Precinct Information
 Where and When to Vote
@@ -63,12 +61,12 @@ Email Jodi Duck
 Elections
 Physical Address
 View Map
-2006 FM East 700
+2006 E FM 700
 Big Spring
 ,
 TX
 79720
-2006 FM East 700 Big Spring TX 79720
+2006 E FM 700 Big Spring TX 79720
 Directions
 Mailing Address
 P.O. Box 1069

@@ -57,7 +57,7 @@ McMullen County Volunteer Fire Department
 Local Charities
 Food Pantry
 Flood Plain Management
-Garbage and Sewage
+Sewage & Garbage Information:
 Local Organizations
 PALS
 Veteran Services
@@ -145,7 +145,7 @@ McMullen County Volunteer Fire Department
 Local Charities
 Food Pantry
 Flood Plain Management
-Garbage and Sewage
+Sewage & Garbage Information:
 Local Organizations
 PALS
 Veteran Services
@@ -233,7 +233,7 @@ McMullen County Volunteer Fire Department
 Local Charities
 Food Pantry
 Flood Plain Management
-Garbage and Sewage
+Sewage & Garbage Information:
 Local Organizations
 PALS
 Veteran Services
@@ -321,7 +321,7 @@ McMullen County Volunteer Fire Department
 Local Charities
 Food Pantry
 Flood Plain Management
-Garbage and Sewage
+Sewage & Garbage Information:
 Local Organizations
 PALS
 Veteran Services
@@ -412,7 +412,7 @@ McMullen County Volunteer Fire Department
 Local Charities
 Food Pantry
 Flood Plain Management
-Garbage and Sewage
+Sewage & Garbage Information:
 Local Organizations
 PALS
 Veteran Services
@@ -500,7 +500,7 @@ McMullen County Volunteer Fire Department
 Local Charities
 Food Pantry
 Flood Plain Management
-Garbage and Sewage
+Sewage & Garbage Information:
 Local Organizations
 PALS
 Veteran Services

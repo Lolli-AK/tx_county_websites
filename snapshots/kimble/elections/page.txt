@@ -109,6 +109,13 @@ EARLY VOTING & ELECTION DAY ROSTERS
 2026 Elections:
 General Election – November 3, 2026
 ▲
+Sample Ballots:
+Voting Precinct
+1,4,6
+Voting Precinct
+2,3
+Voting Precinct
+7,9
 Important Dates:
 ABBM Applications
 for General due by
@@ -125,6 +132,10 @@ Election Day November 3, 2026 – YOU MUST VOTE IN YOUR DESIGNATED PRECINCT
 Election Notices & Results:
 LAT TESTING
 September 16, 2026 @ 2pm
+LAT Testing
+Certificate
+Notice & Order
+of Election
 Press the enter key or spacebar to expand or collapse the accordion
 Primary Runoff Election – May 26, 2026
 ▲

@@ -115,13 +115,11 @@ Denton County Development Services
 at (940) 349-2990.
 News & Events
 Stay informed with the County
-County News
 Public Notices
 County News
-[rotating image slideshow removed for determinism]
-View All News
-/CivicAlerts.aspx
 Public Notices
+2027 Proposed Budget
+View the Document
 Notice of Public Hearing on Proposed Denton County Budget
 Read the Notice
 Notice of Elected Official Proposed Salary Changes
@@ -136,6 +134,10 @@ Vote on Adopted Budget
 View the Document
 2026 Denton County Notice of Tax Rate
 Read The Notice
+View All News
+/CivicAlerts.aspx
+County News
+[rotating image slideshow removed for determinism]
 View All News
 /CivicAlerts.aspx
 Calendar of Events
@@ -188,14 +190,16 @@ Sat
 3
 Fri, Sep. 4 - Fri, Sep. 18
 ONLINE AUCTION # 26-2931 Supplies/Tools/Equipment, Furniture/Appliances
-Tue, Sep. 15
+Fri, Sep. 18
 Basic County Corrections
 For more information, please contact:
 Lt. Alatzas – (940) 349-1705 or Ari.Alatzas@dentoncounty.gov
 ...
-Tue, Sep. 15
-Denton County Commissioners Court Meeting
-Commissioners Court meetings are open to the public.
+Mon, Sep. 21
+Basic County Corrections
+For more information, please contact:
+Lt. Alatzas – (940) 349-1705 or Ari.Alatzas@dentoncounty.gov
+...
 View All Events
 /Calendar.aspx
 County Meetings
@@ -242,9 +246,6 @@ Sat
 1
 2
 3
-Tue, Sep. 15
-Denton County Commissioners Court Meeting
-Commissioners Court meetings are open to the public.
 Tue, Sep. 22
 Denton County Commissioners Court Meeting
 Commissioners Court meetings are open to the public.

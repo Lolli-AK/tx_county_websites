@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-15T12:56:22Z",
-  "html_sha256": "23ed55caf630331f750f381aa4d9378310adf6d9ec298953a0fd30cc1f386546",
+  "fetched_at": "2026-09-18T12:25:06Z",
+  "html_sha256": "613ae3b0ed77cc7c93f8f2a6d6d25bc24e005802581c143a3e80f49e2f602c11",
   "text_sha256": "4d1d8149d8f8f45e60f94c9398a4c5457e3646e146333f30b2dfad8b16c4c59e",
-  "byte_size": 28794,
+  "byte_size": 28796,
   "title": "Precinct Map – Atascosa County",
   "noncitizen_voting": {
     "present": false,

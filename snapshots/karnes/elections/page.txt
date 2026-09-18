@@ -105,7 +105,14 @@ electionsadmin@co.karnes.tx.us
 Hours:
 Monday - Friday 8 am - 5 pm (closed for lunch 12 - 1)
 Office Closures:
-September 7, 2026 - Labor Day Holiday
+October 12, 2026 - Columbus Day
+November 11, 2026 - Veterans Day
+Nov. 25, 2026 12:00 - 5:00 pm - Thanksgiving
+Nov. 26, 2026 - Thanksgiving
+Nov. 27, 2026 - Thanksgiving
+Dec. 24, 2026 - Christmas Eve
+Dec. 25, 2026 - Christmas
+Jan. 1, 2027 - New Year's Day
 Ballot by Mail Requests to this email:
 elections@co.karnes.tx.us
 The information on this site is best viewed on a desktop computer.
@@ -189,6 +196,7 @@ Falls City ISD
 Karnes City ISD
 Pawnee ISD
 Nixon-Smiley CSD
+Certified List of Write-in Candidates
 VOTER ROSTERS:
 Ballot by Mail Roster
 CLICK
@@ -227,13 +235,15 @@ Karnes City ISD
 Nixon-Smiley ISD
 Pawnee ISD
 Notice of Voting Order Priority
-Notice of Public Test of LAT, Electronic Voting
-System, E=-Pollbook and HASH Testing -
-Certificate of Public Logic and Accuracy Test #1
-Certificate of E-Pollbook Testing
+Public Notice of Public L & A Test and 1st Test of Automatic Tabulating Equipment
+Certificate of Public Logic and Accuracy Test and 1st Test of Automatic Tabulating Equipment
+Public Notice of L & A Test of E-Pollbook
+Certificate of L & A Test of E-Pollbook Testing
+Notice of Election Worker Training
 Notice of Convening of the Central Counting Station
 Central Count Station Plan
-Notice of Delivery of Ballot voted by mail and balloting materials to the Early Voting Ballot Board
+Notice of Delivery of Ballots Voted By Mail
+Notice of Delivery of EV Balloting Materials
 Notice of Post-Election Hand Count Audit
 Notice of Canvass
 MAY 26, 2026 REPUBLICAN AND DEMOCRAT PRIMARY RUNOFF

@@ -103,7 +103,16 @@ We have received numerous voter registration cards returned to our office. If y
 TextMyGov
 November 3, 2026 General Election
 Logic and Accuracy Notice
+Certification of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
 Notice of Ballot Draw for Special Election Senator District 22
+Sample Ballots
+Sample Ballot Pct 1, 9, 10
+Sample Ballot Pct 2, 4, 8
+Sample Ballot Pct 3, 7, 11, 12
+Sample Ballot Pct 5, 6, 13
+Sample Ballot Axtell ISD
+Sample Ballot West ISD
+Write In Canidate List
 Ballot By Mail
 ·
 The last day to apply for a Ballot by Mail (received, not postmarked) is October 23, 2026
@@ -116,28 +125,6 @@ click here
 )
 Order of Election
 City of Itasca
-May 26, 2026 Primary Run-Off
-Early Vote and ABBM Unofficial Results
-Unofficial Results Election Day Part 1
-Unofficial Results Election Day Part 2
-Unofficial Results Election Day Final
-Summary and Certification of Post Election Hand Count Audit Results
-Ballot By Mail
-The last day to apply for a Ballot by Mail (received, not postmarked) is May 15, 2026
-Applications should be mailed to the Hill County Elections Administration, PO Box 725, Hillsboro, TX 76645
-For requirements and an application form
-(
-click here
-)
-Where do I Vote? <
-This link allows you to search the “Voter Portal” to see where you vote.
-May 2, 2026 City & School Election
-City of Hubbard, City of Mertens, City of Penelope, City of Whitney,
-Hubbard ISD, Malone ISD, Mount Calm ISD & Whitney ISD
-Unofficial Early Vote and Ballot by Mail Totals for May 2, 2026 City and School Results
-Unofficial Election Day City and School Totals for
-May 2, 2026
-(pending provisional ballots)
 Maps:
 Hill County Voting Precincts Map
 Hill County Commissioners/Justice of the Peace/Constable Map
@@ -193,6 +180,14 @@ Results:
 Official Results – November 4, 2025 ConstitutionalAmendment Election
 Official Results – November 5, 2024 General Election
 Unofficial Election Day Final Results
+Early Vote and ABBM Unofficial Results
+Unofficial Results Election Day Part 1
+Unofficial Results Election Day Part 2
+Unofficial Results Election Day Final
+Summary and Certification of Post Election Hand Count Audit Results
+Unofficial Early Vote and Ballot by Mail Totals for May 2, 2026 City and School Results
+Unofficial Election Day City and School Totals for
+May 2, 2026
 Public Information
 Request for Election Records:
 Hill County Elections Administration Public InformationRequest Form
