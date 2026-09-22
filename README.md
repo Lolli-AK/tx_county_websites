@@ -145,7 +145,7 @@ Three text artifacts per page, under `snapshots/<county>/<page_type>/`:
 |---|---|---|
 | **`page.html`** | cleaned, normalized HTML — the structural-diff artifact | ~45 KB |
 | **`page.txt`** | visible text only — the primary, lowest-noise human-readable diff | ~4 KB |
-| **`meta.json`** | metadata sidecar: requested/final URL, redirect chain, HTTP status, content type, render mode, `external` flag, `fetched_at`, `html_sha256`, `text_sha256`, byte size, title, `noncitizen_voting`, error | ~0.7 KB |
+| **`meta.json`** | metadata sidecar: requested/final URL, redirect chain, HTTP status, content type, render mode, `external` flag, `fetched_at`, `html_sha256`, `text_sha256`, byte size, title, `noncitizen_voting`, `uocava`, error | ~0.7 KB |
 
 `meta.json` is what catches "page moved / went down / changed vendor" — changes that
 leave no trace in the body.
@@ -246,6 +246,63 @@ Because each page type is its own directory, `git log -p -- 'snapshots/*/early_v
 gives you every early-voting change across all 254 counties in one stream.
 
 ---
+
+
+## The UOCAVA flag
+
+Every `meta.json` also carries:
+
+```json
+"uocava": { "present": true, "terms": ["uocava_form", "military_overseas_voter"], "count": 7 }
+```
+
+`present` is a binary yes/no for whether the page carries information for
+military and overseas voters — the audience covered by the Uniformed and
+Overseas Citizens Absentee Voting Act. Same shape as `noncitizen_voting`, so
+both read through the same code.
+
+**It is a measurement, not a tripwire, and that inverts how it is read.** The
+non-citizen flag is expected `false` everywhere, so one `true` is the whole
+signal. This one reads `true` on **403 of 1,082 captured pages (37%)** — 60%
+in Florida against 28% in Texas — so the question is comparative: which
+counties publish this material, and which of the labels they use. A county
+matching only `military_overseas_voter` has *mentioned* these voters; one
+matching `uocava_form` is telling them how to actually cast a ballot.
+
+What is matched, and what deliberately isn't, is in `scripts/uocava.py`.
+Two decisions carry most of the weight:
+
+- **Adjacency, not proximity.** Three false-positive families all sit within a
+  clause of a voting word, so the 60-character window `noncitizen.py` uses
+  would swallow every one: *military ID* as an accepted photo-ID document,
+  *DD-214 Military Discharge Records* (a county clerk recording service), and
+  **Overseas Highway** — US-1 through the Keys, which appears as a Monroe
+  County *polling place address*. Requiring the noun to sit directly against a
+  voting word excludes all three without an exclusion list.
+- **Spelling slack where it actually occurs.** These counties write the act's
+  name with an **ampersand** ("Uniformed & Overseas Citizens Absentee Voting
+  Act"); matching only *and* finds it zero times. Both spellings of *Post
+  Card*/*Postcard* appear. Acronyms are matched case-insensitively because
+  UOCAVA, FPCA, FWAB and FVAP are not English words — but `MOVE Act` is
+  case-sensitive, like `SAVE`, because "if you move, update your address" is
+  on every registration page.
+
+Computed from `page.txt`, never from the live response, so it is reproducible
+for any past commit:
+
+```bash
+python scripts/scan_uocava.py                        # working tree
+python scripts/scan_uocava.py --history              # every snapshot commit
+python scripts/scan_uocava.py --history --csv manifest/uocava-panel.csv
+```
+
+Read a `false` narrowly: it means the captured page types carry nothing, not
+that the county publishes nothing. Pinellas, Palm Beach and Miami-Dade each
+read `false` on all five original page types and each runs a dedicated
+Military & Overseas Voters page that nothing in the manifest pointed at.
+`scripts/discover_uocava.py` finds that page and adds it as a `uocava` target;
+see the note in its `append_to_targets()` before appending, because
+`tests/test_manifest.py` hard-codes the page-type list.
 
 ## Install
 
