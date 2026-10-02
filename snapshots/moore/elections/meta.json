@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "bc14c6e5b17bdbee7684100c34ec943d6bbf678493da59cf1a7e62892b377cf8",
-  "text_sha256": "7ad48732bb2de8da77e35f1f407d1864bf280b57877e159bb3b4ca39841c46e7",
-  "byte_size": 209008,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "9d9bbad5861e572d4cf17741ce8f8e5e09e759c55b3f696f21a45dc603a5da7c",
+  "text_sha256": "476da9d99f57a0f515057ed95c356752713cc5b34dfd0a0d6c442d36c0bac768",
+  "byte_size": 212804,
   "title": "Elections - Moore County",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 1
   },
   "error": null
 }

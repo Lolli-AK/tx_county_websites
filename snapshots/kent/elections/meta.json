@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "19219c4ec5c372ee7f649d0b25ab724acf76036d747cd79d7a393c32ce886795",
-  "text_sha256": "50d6cd87db9ff166fc087b6e8c83bec6d6eed4274632a4311ebb10f326507301",
-  "byte_size": 22408,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "8d2397a4376a527c15711f24a480f8cad6fe67dc6684efecc488d2316724f70d",
+  "text_sha256": "fae8dea64b58fa6cff80da71b2bf92fae78c54bbe82d8efb8ed40b96b081bf67",
+  "byte_size": 22866,
   "title": "Elections - Kent County, TX",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

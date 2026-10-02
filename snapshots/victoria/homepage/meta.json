@@ -2,20 +2,26 @@
   "county": "Victoria",
   "page_type": "homepage",
   "requested_url": "https://www.vctx.org",
-  "final_url": "https://www.vctx.org",
+  "final_url": "https://www.victoriacountytx.gov",
   "redirect_chain": [
-    "https://www.vctx.org"
+    "https://www.vctx.org",
+    "https://www.victoriacountytx.gov"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "990275cbe196c7eba183de73fd7842d06ec6be8cfd38b5249e24dbcb0d9007a6",
-  "text_sha256": "42a036a9a3fabd85454cb7117338c7269d1742f543bfc7d7c824c01cf93338d9",
-  "byte_size": 73893,
-  "title": "Victoria County, Texas",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "bd46b7363720b5d0dce3d7a9b3f4dcb734079b4f9c962a4c64021a5db35d0307",
+  "text_sha256": "07a473525dc6e4bf0c283fe61631ec829819076a3de829f91338fa60b0163ca2",
+  "byte_size": 50019,
+  "title": "Victoria County, TX | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

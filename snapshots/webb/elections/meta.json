@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "5fd0e02bf20b36ccfc5f3b5827b2f82423106137bd107324bd004836abec2747",
-  "text_sha256": "525054a7f501fc0a36916b723be6da6a63dedfb980ef7824391b3d04825b0bb8",
-  "byte_size": 40605,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "e80dd351cb0319a3690968969803e70e7776ae054accb85ca71520b0839da472",
+  "text_sha256": "7305fe9f57d60c74db199cc7d37d3f8640649d042dd7871130b9745417a57bd5",
+  "byte_size": 39926,
   "title": "Custom404 • Webb County, TX • CivicEngage",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

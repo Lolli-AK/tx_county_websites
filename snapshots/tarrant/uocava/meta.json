@@ -1,0 +1,34 @@
+{
+  "county": "Tarrant",
+  "page_type": "uocava",
+  "requested_url": "https://www.tarrantcountytx.gov/en/elections/military-and-overseas-voting.html",
+  "final_url": "https://www.tarrantcountytx.gov/en/elections/military-and-overseas-voting.html",
+  "redirect_chain": [
+    "https://www.tarrantcountytx.gov/en/elections/military-and-overseas-voting.html"
+  ],
+  "http_status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "353511c17562b917e9b897800fc922f139b0f3a454ea451c16c847258d3e9b1e",
+  "text_sha256": "c284cde6b09cc0689fab2383601746e29c82c34f796235d0d88d0413f8dce691",
+  "byte_size": 167211,
+  "title": "Military and Overseas Voting",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 69
+  },
+  "error": null
+}

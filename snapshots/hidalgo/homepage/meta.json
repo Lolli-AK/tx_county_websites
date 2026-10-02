@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "618b51253395fbda72c0d9c6640453c8d416692cd3af5a9f01d0a692c7200088",
-  "text_sha256": "3d71df41aea96b76031a8e627199d604551b68e6e80a2379f140b40ffffdcc2f",
-  "byte_size": 67252,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "a79a3ec50a00715526a67e5378d008dea43884048f9a7be945283c86d6d6a1b3",
+  "text_sha256": "e5537dfee1a562c609a070f1fe206c717143ac136b0adf9986477f7a35bcdd63",
+  "byte_size": 67054,
   "title": "Hidalgo County, TX - Official Website | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

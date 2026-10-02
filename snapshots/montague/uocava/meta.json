@@ -1,0 +1,32 @@
+{
+  "county": "Montague",
+  "page_type": "uocava",
+  "requested_url": "https://www.co.montague.tx.us/page/montague.SpecialVoters",
+  "final_url": "https://www.co.montague.tx.us/page/montague.SpecialVoters",
+  "redirect_chain": [
+    "https://www.co.montague.tx.us/page/montague.SpecialVoters"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "3a9ee794a708bb333868855fb3d1f88e26e9562591df7ed6e248ec863a39a5ea",
+  "text_sha256": "15b4f14d38625329cf13d9e78a4d36aef7a4c928432b77063092d26d297e5d36",
+  "byte_size": 37175,
+  "title": "Montague County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 6
+  },
+  "error": null
+}

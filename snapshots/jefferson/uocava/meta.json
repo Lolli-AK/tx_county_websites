@@ -1,0 +1,31 @@
+{
+  "county": "Jefferson",
+  "page_type": "uocava",
+  "requested_url": "https://www.jeffcotxvotes.gov/elections/voters/fpca/",
+  "final_url": "https://www.jeffcotxvotes.gov/elections/voters/fpca/",
+  "redirect_chain": [
+    "https://www.jeffcotxvotes.gov/elections/voters/fpca/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "d791762dd4e7df4363029302f86561488845ca815151b2bc3911a0f3586f0473",
+  "text_sha256": "4b5fd4b4d5513f9f44f3b7c9eb6e1ffdfbe25125dcd72da60c6612b1f4ca1511",
+  "byte_size": 129208,
+  "title": "FPCA – Jefferson County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 5
+  },
+  "error": null
+}

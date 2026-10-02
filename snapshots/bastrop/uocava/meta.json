@@ -1,0 +1,34 @@
+{
+  "county": "Bastrop",
+  "page_type": "uocava",
+  "requested_url": "https://www.bastropvotes.org/voter-information-2/military-and-overseas-voters/",
+  "final_url": "https://www.bastropvotes.org/voter-information-2/military-and-overseas-voters/",
+  "redirect_chain": [
+    "https://www.bastropvotes.org/voter-information-2/military-and-overseas-voters/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "a91b90714607a70422bab238a705903755abf53b47982a9e40bef8a86287b523",
+  "text_sha256": "63dfcf166715881b4611b99d3e4d4a91a6157daadc82ca487215624c5edb5287",
+  "byte_size": 38183,
+  "title": "Military and Overseas Voters - Bastrop County, TX Elections",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 33
+  },
+  "error": null
+}

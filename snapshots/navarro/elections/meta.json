@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "486d9638d49e8048571cc51da6dde06c3caee0d3faa2987afd18ef08375675c5",
-  "text_sha256": "e7f15c3e90fe1bd6ef4f8b840e1c4d6ea1adae81eb974f0e9b0f19fe124c0a23",
-  "byte_size": 36197,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "dcb2a5c6cbb5348c59923e32061ca1464897844388526baea7184569503e808c",
+  "text_sha256": "b63cddc003ed3ac09e487d1dac328303082a7889c2825dfa20be634f8ec176bb",
+  "byte_size": 34277,
   "title": "Elections and Voting | Navarro County, TX",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

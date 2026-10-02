@@ -24,6 +24,8 @@ Stay connected to what’s happening in our community.
 News Flash
 Calendar
 News Flash
+Burn Ban in Effect 9/28/26
+Read on...
 Notice of Drawing for a Place on Ballot
 Read on...
 Eastland County Community Wildfire Protection Plan Public Input Request
@@ -34,12 +36,10 @@ FY2027 Proposed Budget
 Read on...
 2026 Eastland County Tax Rate
 Additional Info...
-2026 Eastland County Tax Rate Worksheet
-Additional Info...
 View All News
 /CivicAlerts.aspx
 Calendar
-September 2026
+October 2026
 S
 M
 T
@@ -47,8 +47,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -79,10 +81,12 @@ S
 28
 29
 30
-1
-2
-3
-Mon, Sep. 28
+31
+Mon, Oct. 12
+Columbus Day - County Holiday
+Mon, Oct. 12
+Commissioners' Court Regular Meeting
+Mon, Oct. 26
 Commissioners' Court Regular Meeting
 View All Events
 /Calendar.aspx

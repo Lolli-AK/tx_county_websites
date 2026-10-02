@@ -72,6 +72,7 @@ Pay a Traffic Citation
 Public Notices
 Commissioners Court Minutes
 Sheriff's Office
+TextMyGov
 Physical Address
 :
 2 S. Divide
@@ -81,7 +82,7 @@ Courthouse Phone Number
 (325) 853-1820
 Calendar and Events
 Connections and Dates That Matter
-September, 2026
+October, 2026
 S
 M
 T
@@ -89,8 +90,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -121,9 +124,7 @@ S
 28
 29
 30
-1
-2
-3
+31
 View ALL Events
 Community Resources & Information
 ▲

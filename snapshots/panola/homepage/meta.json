@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "695d21ebbbe604bb0db5dd1845147b70bc73e4bf5f966bf3c9d97e60decd66a8",
-  "text_sha256": "218a319f0dfd882c8db0e2bf6ba3cdace4b7bd71ed6444cf3e9a74b8406fa18f",
-  "byte_size": 49057,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "28dd296a14c60cf30b2a737e23dae6971c1c89808c8cdbfc65e20f233670f8f0",
+  "text_sha256": "8e70e0172a4f8b7e2ff1fdf208cb133ed38c4773f685f4cd57ca4449acbbd36f",
+  "byte_size": 49604,
   "title": "Panola County, TX | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

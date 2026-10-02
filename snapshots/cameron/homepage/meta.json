@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "fdd1c32b3f0b432ef78c0f48ce49bddc56a858d61f2bffeb138355fd9279459e",
-  "text_sha256": "c61972910e5099f28db21a689246d25acb91737ed83d3c4126356727da85f4c9",
-  "byte_size": 90263,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "78362fd57e8026542267a17ac1a3d2bf7964a0d218ce2f54f7aa7fa46ab5fd53",
+  "text_sha256": "e3b4fb2b09e6f45b556f1024124125d52133a354d7e4aea7427fdea8937b95fd",
+  "byte_size": 91882,
   "title": "Cameron County Homepage - Cameron County",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "a16eb1791d9f66bec782c858c04edef6b80b38056c9adfb4c2ec3a0d5d042592",
-  "text_sha256": "1bc56a8deba777fb2eb3ed201188c3b7e8bbb0f4d4986b050c290cf2e1a0d220",
-  "byte_size": 70946,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "65b35397be72cea83cc0cba9e38f37a98a9c5657b24d044bd2e3f38198d77e42",
+  "text_sha256": "0749b1ad8673fa0e7954f118a11909b4e6a9993d2a23d4a35abafdeaa73f2af5",
+  "byte_size": 71586,
   "title": "Kaufman County, TX | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "f65f24fb08a92206830246a0f6e69d135e5608a4d8de3af75a00abbaab6722c5",
-  "text_sha256": "33d45619570bf2e9de89b9743a34751863199b9e692474fbf5b315772fcbee2e",
-  "byte_size": 71257,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "cecf9139aa789d623e09bd6c705805e5f085d637beff039022312c95c4beed5c",
+  "text_sha256": "85495b97381d0c6ee2d281d524c45d39d253ed117caa606d6834668e9a107ede",
+  "byte_size": 71462,
   "title": "Hudspeth County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

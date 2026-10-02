@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "0bc9ad5c3d518d9d7b359885f479d04bd9c0ef39e2873b034529b94db1a69158",
-  "text_sha256": "271c4e37d30cd17b33fc1fb34b05344d9d397540df8040b9d95845fa6683c8de",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "f89993dfa197c10e56e09b993d3b4afa5e7ac39e6c787b99bb048946c33fc854",
+  "text_sha256": "b2a243c943e453c0cb92a2ef7f2935e9cb8eb7a127b171435b6100d27316cc2e",
   "byte_size": 923583,
   "title": "Results - Cameron County",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "2c4a68c053352531975433b4f2c1a9f0b7341994a17a6f16f1168b940bbf075c",
-  "text_sha256": "caf81804868f7cb52d28d5aa4709e5b3480659695c07e4de8c9a1f5a5b660db7",
-  "byte_size": 63828,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "47cb5db2a87e9a10f22a266dcff48aaaf2707c51b329be90e830b76606b733cb",
+  "text_sha256": "5851edfe6ed6dc062ca4c5fd563ca710f4373f1f11eb55094ef4c7d080e29ed2",
+  "byte_size": 66120,
   "title": "Voter Registration | Brazoria County Clerk",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

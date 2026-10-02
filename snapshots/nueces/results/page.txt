@@ -358,6 +358,7 @@ Election GIS Maps
 Notices
 Voting System
 Voter Complaint Form
+Sample Ballot 1126 (Precinct)
 Thank a Veteran
 +
 Business Information
@@ -429,7 +430,6 @@ Calendar
 Description of Office
 Driveways
 Engineering
-Environmental Enforcement
 FEMA Floodplain Maps
 Floodplain Development
 Subdivision and Platting Requirements

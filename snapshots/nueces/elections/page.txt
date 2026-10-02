@@ -358,6 +358,7 @@ Election GIS Maps
 Notices
 Voting System
 Voter Complaint Form
+Sample Ballot 1126 (Precinct)
 Thank a Veteran
 +
 Business Information
@@ -429,7 +430,6 @@ Calendar
 Description of Office
 Driveways
 Engineering
-Environmental Enforcement
 FEMA Floodplain Maps
 Floodplain Development
 Subdivision and Platting Requirements
@@ -496,9 +496,10 @@ The Nueces County Clerk serves as Chief Elections Officer of the 17th largest co
 Under the County Clerk's Office, the Elections Division conducts special, primary, and general elections for Nueces County and governmental entities within the County.
 Nueces County thrives when every person takes part in the voting process. Our website is designed to inform and assist voters so they can successfully cast their ballot.
 The electoral process only succeeds when all voters in our community are informed and actively participate. As the Nueces County Clerk, I encourage you to learn more about the elections process and make your voice heard in the upcoming elections.
-Notice of Deadline to File an Application for Place on the Ballot for Appraisal District
-For more Information
-Running for County Appraisal Districts in 2026
+November 3, 2026 General Election
+Early Voting Locations
+Election Day Locations
+Sample Ballots
 Important Dates:
 Monday, October 5th:
 Last day to Register to Vote

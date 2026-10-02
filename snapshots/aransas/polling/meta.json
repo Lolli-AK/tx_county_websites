@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "0c8b2d4d3e612676d5486531f4ce05e152efa4a4907855fefc16cbcf1aadaf12",
-  "text_sha256": "b6c2f225ae3d878fb4aed99b6404430c260f391d9b6de77b9b247021d6635c87",
-  "byte_size": 25984,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "5e2b9793ea718440da359762dedd6a299281d7e7a5937be2a9b74ebbe6befd4d",
+  "text_sha256": "4a2e902480b9d36a82c57cedb0aa09e7a79baef1621220d130ec6d72d666421a",
+  "byte_size": 26162,
   "title": "Aransas County Commissioners Court",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

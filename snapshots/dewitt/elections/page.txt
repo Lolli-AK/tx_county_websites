@@ -8,6 +8,7 @@ Toggle main menu visibility
 Menu
 About
 2025-2026 Holiday Schedule
+2026-2027 County Holiday Schedule
 Permits, Regulations & Applications
 Redistricting Maps & Information
 County Hazard Mitigation Action Plan
@@ -99,9 +100,9 @@ Email:
 dewitt-county-elections@dwcotx.org
 Office Hours:
 Monday - Friday
-8:00 a.m. to Noon
+8:00 a.m. to 12:00 p.m.
 1:00 p.m. - 5:00 p.m.
-(Closed for lunch Noon-1)
+(Closed for lunch 12-1)
 Voter Resources
 ▲
 ID Required for Voting
@@ -120,6 +121,51 @@ To register to vote in De Witt County, you may pick up a voter registration card
 Para registrarse para votar en el condado de De Witt, puede regoger una tarjeta de registro en la oficina de Administration Electoral del condado de De Witt.
 Current and Upcoming Elections
 This page will be updated with the time, date, and place for each election including a listing of the precinct polling places and sample ballot information. At the conclusion of an election, the results from the election will also be posted on this page.
+Tuesday November 3, 2026 General Election
+Last Day to Register to Vote is
+Monday, October 5, 2026.
+Last Day to Apply for Ballot by Mail (
+Received
+, not postmarked) is
+Friday, October 23, 2026.
+Early Voting Begins
+Monday, October 19, 2026
+and ends on
+Friday, October 30, 2026.
+Last Day to Receive Ballot by Mail
+Tuesday, November 3, 2026
+OR
+Wednesday, November 4, 2026 at 5:00pm
+if carrier envelope is postmarked by
+7:00pm at the Elections Office on Election Day
+.
+Martes, 3 de Noviembre, 2026 Eleccion General
+El último día para registrarse para votar es el
+lunes 5 de octubre de 2026.
+El último día para solicitar una boleta por correo (debe ser recibida, no solamente tener matasellos) es el
+viernes 23 de octubre de 2026.
+La votación anticipada comienza el
+lunes 19 de octubre de 2026 y termina el viernes 30 de octubre de 2026.
+El último día para recibir una boleta por correo es el
+martes 3 de noviembre de 2026, O el miércoles 4 de noviembre de 2026
+a las
+5:00 p. m.,
+si el sobre de envío tiene matasellos de las
+7:00 p. m. o antes del día de la elección y es recibido en la Oficina de Elecciones.
+Sample Ballots Precinct 1 (101, 102)
+Sample Ballots Precinct 2 (201, 202, 203)
+Sample Ballots Precinct 3 (301, 302, 303)
+Sample Ballots Precinct 4 (401, 402)
+Where and When can you vote?  Click here
+November 3, 2026 General Election
+Election Notices and Orders - County
+Notice of Election
+Order of Election
+Governor's Proclamation
+Certification of Write-In's
+Logic and Accuracy Testing - Public Notice
+Notice of Election Worker Training
+Election Notices and Orders - Local Entities
 General Information for Voters and Candidates
 Where To Vote - Precinct Map
 ▲
@@ -136,6 +182,8 @@ As the Voter Registrar of De Witt County, the Elections Administrator is respons
 The Elections Administrator is also responsible for notification and maintenance of candidate/officeholder reports and appointments of campaign treasurer designations for county offices.
 Related Links:
 Notice of County Election Board Meeting
+Central Count Station Plan
+Logic and Accuracy Testing Policy
 Press the enter key or spacebar to expand or collapse the accordion
 Voters With Special Needs
 ▲
@@ -170,7 +218,6 @@ Press the enter key or spacebar to expand or collapse the accordion
 Run for Office - Candidate Information
 ▲
 This section was created as a reference guide only and should not be used as a substitute for legal advice. It is solely a guide for running for office and filing reports. It is the candidate's and officeholder's responsibility to obtain the actual knowledge of the laws, regulations and duties.
-Filing in the 2026 Republican or Democratic Primary Election
 General Candidate Information
 2026 Candidates Guide
 2025 Candidate & Officeholder Information
@@ -257,6 +304,7 @@ Appt. Campaign Treasurer
 Campaign Finance Report 01/15/26
 Campaign Finance Report 01/28/26
 Campaign Finance Report 02/23/26
+Campaign Finance Report 08/06/26
 Nancy Hosek
 Appt. Campaign Treasurer
 Natalie Carson

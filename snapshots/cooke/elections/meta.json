@@ -10,15 +10,23 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "cb73b274ffbf86ed905764353763e45afa0b48db586d4e939d68e7e945a1ef95",
-  "text_sha256": "63325ff338295cff11bb395642f2f6f1b5ff2ca4881a7465186c9a7333dd3ccc",
-  "byte_size": 357507,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "c2ee82ab60deb091c3c88999d062d7469dbcead8e76d3c2d601c620b3255bc37",
+  "text_sha256": "24b51ebf646d772165a99f817b54c1c75c66a3ad38b63c984bf4ae2e9eeedd81",
+  "byte_size": 357936,
   "title": "Cooke County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 5
   },
   "error": null
 }

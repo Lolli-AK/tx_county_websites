@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "29bd6c75fbad38150fd8398921949b13a707a4810f7808d1bb03f30e588b1758",
-  "text_sha256": "b6a39d79eb2dc77d2ec700097338baef425f516a241e8a3a11f89a70030b6049",
-  "byte_size": 95109,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "351b61b4b1b1e5a3a4e95b7428e4caf40dc271d300b056768de699033bec3df9",
+  "text_sha256": "b540c5169ce815878d9d231cf13925776fdcb46f2c601bf454ff7494a6e6b244",
+  "byte_size": 95426,
   "title": "Dickens County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

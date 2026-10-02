@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "b41fbc7f1b8c6dc7ff06655c816d7cddcd95e72fea70eeb93992a06f6631ad04",
-  "text_sha256": "9e39a46481ea2225997e1e9d5963d589ed45e534d5c51dc3c482b2d0336a9989",
-  "byte_size": 28395,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "423e6d94a183a02ac528a25104a8a48564280b29c2c4e25f87fbcdc13bf6c01b",
+  "text_sha256": "f180689a391fcf58c2fc80d97d93e150b5797c7ae08d6049b7776f4ca13750e8",
+  "byte_size": 28866,
   "title": "Presidio County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

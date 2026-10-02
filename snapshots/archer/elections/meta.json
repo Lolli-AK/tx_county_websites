@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "9a63e89e0a145675e71349af7d0b3a29b64cfbf68d6e324e7735f6fabfd33f8b",
-  "text_sha256": "cb53e5b44cb5205c13ff4108a85949e9a2cf5e08ce81981f59023c2b04b1ea98",
-  "byte_size": 160442,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "a8cc674714c936071c59754216f60152bd40c51ad1b46ee6e58e32cd063543bc",
+  "text_sha256": "586c6b2ab3801bf8d257f68898908bfd5168ea810fe353c4f65d9c1ddc60c778",
+  "byte_size": 161646,
   "title": "Archer County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

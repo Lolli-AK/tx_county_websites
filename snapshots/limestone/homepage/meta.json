@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "7ec73b6efdbc95c0ac43c8e6cf409d3d7c2660ad0e07d4df624ab2c3aebb3ae4",
-  "text_sha256": "fd9b5ce0bc425f86e6c135ffb35382bbc680fbc9974076430f66c1b882428ca4",
-  "byte_size": 38728,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "8e56b1f7f52da919e2b4de920ade1114f72e67eb02246f8f34e5c69acefa7e6b",
+  "text_sha256": "6983de03a9b8a0b7bad04ca4260fae090e99ddafda029c915483c58b59c2c994",
+  "byte_size": 38512,
   "title": "Limestone County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "95757d4f2bea98fd42e56b7194290e6c88edd527143cdd8ec5fd8d719a8494be",
-  "text_sha256": "8fc03bc6cb79b547c69862d3fe15dd45d2d2d99950d2845e93448c949f7c6e0d",
-  "byte_size": 49344,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "fa0c1c2472234b008d84e58bcf94cf79f18e4917dd4dc2e5f5cbd5ade6dfea8b",
+  "text_sha256": "8efdc975b9d6fa309978bb4f32a438bab642df78cdb61a1e5cd3a9313c98c60e",
+  "byte_size": 49343,
   "title": "Brooks County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

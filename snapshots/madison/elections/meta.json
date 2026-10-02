@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "f0bba5c49e352f7c94bb8677d65e8fb404961e52894a0afcbaa41704bfb59cfb",
-  "text_sha256": "59da8d1f2b0df16c630aca072064f0dcbc11b4dd52a5ff0635edae124a01d86f",
-  "byte_size": 78522,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "e5966a0c4cdfd5cc69670300ee9acdc2a31748348183e3c78170d8704d5f84ce",
+  "text_sha256": "0c18d63d99a5c4e4826374c4e1415938f0c9814a9b273d0da7e887811aa5d7cf",
+  "byte_size": 78851,
   "title": "November 7 2023",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

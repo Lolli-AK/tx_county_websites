@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "2b76f29b61d3a4c55dffd8f9c2bf5a52817b453347e836983d228472217a777f",
-  "text_sha256": "682ff2a903a6fd14465ade4e9172eb54144c4b73a374f7ad86a57497327146f4",
-  "byte_size": 50473,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "8b69d9e86130ee70732f4015f65c44a72824acb06d071c1e6e637af64aa8edcb",
+  "text_sha256": "ff15a691edb5e27ba2326cfea091a027e99ad15bb02e952811120b12da09e003",
+  "byte_size": 50660,
   "title": "Home Page - Robertson County",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

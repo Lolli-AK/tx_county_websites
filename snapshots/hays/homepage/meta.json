@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "2a488c35e878bbbf288c12310ad45a9da89e8c4072d935e2281eeca1ec6ac0d4",
-  "text_sha256": "26efc3c2f0996116558164f99c29c08a8d67b0cf059586bf4144a2e647519058",
-  "byte_size": 76046,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "7bb5952a0c4df5caaf0590b860bd11f035766dfe36b7c1354b694c0789acbfc2",
+  "text_sha256": "13cddb27ddcabb9ba6c923ff5e4071fe499398c1e9785dc0e08b84111711c90a",
+  "byte_size": 75993,
   "title": "Hays County, TX | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

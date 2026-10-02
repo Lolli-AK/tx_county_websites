@@ -1,0 +1,34 @@
+{
+  "county": "Webb",
+  "page_type": "uocava",
+  "requested_url": "https://www.webbcountytx.gov/702/Military-Overseas-Voters",
+  "final_url": "https://www.webbcountytx.gov/702/Military-Overseas-Voters",
+  "redirect_chain": [
+    "https://www.webbcountytx.gov/702/Military-Overseas-Voters"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "1fddbfa738eef58ff131107b4d78261d2b271a01552472a74851450e43f93981",
+  "text_sha256": "d9f1cde509deaa07d9551d3b7f096ffeaa8eb47705e6c4d6d20fd10911dc5b19",
+  "byte_size": 58094,
+  "title": "Military & Overseas Voters | Webb County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 23
+  },
+  "error": null
+}

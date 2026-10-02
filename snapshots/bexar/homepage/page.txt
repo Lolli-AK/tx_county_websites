@@ -84,7 +84,7 @@ Find Your Precinct
 The My Bexar Community Dashboard application helps you identify your local, County, State, and Federal representation as well as other useful information. Simply click on the map, then use your current location or enter an address including city or ZIP code. Scroll through the information at the bottom of the map to find your representatives and other resources.
 Check out the My Bexar Community Dashboard
 Upcoming Events
-September 2026
+October 2026
 S
 M
 T
@@ -92,8 +92,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -124,17 +126,19 @@ S
 28
 29
 30
-1
-2
-3
-Tue, Sep 22
+31
+Sat, Oct 3
+Bexar County Clerk's Mobile Satellite Office will be at Friendship Park for the Kirby Fest has been CANCELED
+Wed, Oct 7
+Veteran Benefits Workshop Pct 4.
+Thu, Oct 8
+Bexar County Clerk's Mobile Satellite Office will be at McDonald's on Walzem - The Shields Legacy LLC PCT 4 Community
+Tue, Oct 13
+Commissioners Court
+Thu, Oct 15
+Bexar County Clerk's Mobile Satellite Office will be at SBOC-Bexar County Small Business Opportunity Center
+Tue, Oct 20
 Bexar County Clerk's Mobile Satellite Office will be at Bexar County Precinct 3 Justice of the Peace Office
-Tue, Sep 22
-Technical Advisory Committee for Persons with Disabilities
-Wed, Sep 23
-Veteran Benefits Workshop Pct 1.
-Tue, Sep 29
-Bexar County Clerk's Mobile Satellite Office will be at Madonna Neighborhood Place
 View All Events
 /Calendar.aspx
 County Resources

@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "dab239e34dd1ad8a5e46cef8b7992be209515b66d220f6c3e6f18481aa842581",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "2abb2058583e846a2f853f915008b41af1a8f3e1095cd950b030a6f325376723",
   "text_sha256": "8bff9f8b343c131019ecaa07d15623d9fbf5bcd6015dc514e0b73033f7462987",
-  "byte_size": 38216,
+  "byte_size": 38214,
   "title": "Sabine County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

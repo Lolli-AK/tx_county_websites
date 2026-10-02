@@ -10,12 +10,17 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "edf010f3e14515c26795f80bccfead2b4c20c89bb9c3878af260f9ce14661d8b",
-  "text_sha256": "329ee228e2208d2d10bb23ea9a6ad881ff76ed55bb4ae6f37dd17a83c20e4eb1",
-  "byte_size": 18535,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "c9e71b184fab9578c4561ccfd300255e988440e08e5e2e76154dcbf62574f633",
+  "text_sha256": "d9012b5bceffbb53ab1cb17f82785f64c9c8a4f68bd7f10dd7704da6376cf093",
+  "byte_size": 19480,
   "title": "Cherokee County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

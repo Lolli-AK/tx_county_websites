@@ -61,23 +61,35 @@ ExpressVote - Election Systems & Software
 Thoroughly tested by independent laboratories and verified by more than 100,000 machines in use across the country, the
 ExpressVote Universal Voting System
 brings independence to the election process, allowing all voters to vote privately and independently.
+https://verifiedvoting.org/election-system/ess-expresspoll/
 ExpressPoll_One-Sheet
 (pdf)
 Download
 Meetings & Notices
+ORDER OF ELECTION SIGNED
+(pdf)
+Download
+NOTICE OF ELECTION
+(pdf)
+Download
 Announcement of Republican Party Meeting
-(pdf)
-Download
-EVBB NOTICE OF CONVENING
-(pdf)
-Download
-NOTICE OF CANVASS
 (pdf)
 Download
 HASH VALIDATION
 (pdf)
 Download
-Files coming soon.
+Notice of Appt EVBB
+(pdf)
+Download
+Notice of Appt EVBB Spanish
+(pdf)
+Download
+Notice of Conveneing EVBB
+(pdf)
+Download
+SAMPLE BALLOTS
+(pdf)
+Download
 OTHER POSTINGS AND NOTICES
 Precinct Map
 (pdf)
@@ -117,9 +129,6 @@ PLAN FOR THE OPERATION OF
 (pdf)
 Download
 Notice of Voting Order Priority
-(pdf)
-Download
-WINK-LOVING ISD ELECTION DAY MAY 2, 2026
 (pdf)
 Download
 CAMPAIGNE FINANCE REPORTS
@@ -179,11 +188,14 @@ Election Information
 Polling Place, Precincts 1, 2, 3, & 4
 Polling Place, Precincts 1, 2, 3, & 4
 Polling Place, Precincts 1, 2, 3, & 4
+COMBINED PRECINCTS
+SB 985 amended Section 420051 of the Code, effective September 1, 2025
 Loving County Courthouse
+2nd floor, Jury Room
 Physical Address:
-100 Bell Street Mentone, TX 79754
+100 Bell Street, Mentone, TX 79754
 Mailing Address:
-P.O. Box 194 Mentone, TX 79754
+P.O. Box 194, Mentone, TX 79754
 Contact Us
 Polling Place, Precincts 1, 2, 3, & 4
 Polling Place, Precincts 1, 2, 3, & 4
@@ -233,12 +245,12 @@ voter registrar’s office
 .
 LOVING COUNTY VOTER REGISTRAR, SHERIFF DAVID LANDERSMAN, 114 COLLINS, MENTONE, TX
 432-377-2411
-Welcome visitors & announce promotions
-Welcome visitors & announce promotions
-Welcome visitors & announce promotions
-Welcome visitors & announce promotions
-Welcome visitors & announce promotions
-Welcome visitors & announce promotions
+Thank you for visiting our Elections tab. During Elections our website is updated daily.
+Thank you for visiting our Elections tab. During Elections our website is updated daily.
+Thank you for visiting our Elections tab. During Elections our website is updated daily.
+Thank you for visiting our Elections tab. During Elections our website is updated daily.
+Thank you for visiting our Elections tab. During Elections our website is updated daily.
+Thank you for visiting our Elections tab. During Elections our website is updated daily.
 Poll Workers
 POLL WORKER and POLL WATCHER information:
 Texas Election Training Portal

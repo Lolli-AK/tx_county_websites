@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "250485270bc4fb310725d5e8d00f784d331f0d7d03af0fa94b6b114438df52a5",
-  "text_sha256": "04eb21c4401f84fd88a768b8728d0ef28dfcf18f5ccdaabe832140727d0b8b37",
-  "byte_size": 67885,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "45bf9ac92c2f8d7e1535e83c2a29d6101fe93649170b9ab66a69416da553784a",
+  "text_sha256": "8cb08a0d862fa3a1c3780691f9c0023b8fb20cd83d16a7f0d0a29e5a71c7e03d",
+  "byte_size": 68100,
   "title": "Midland County, TX Elections – Midland County, TX Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
   "error": null
 }

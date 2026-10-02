@@ -2,23 +2,31 @@
   "county": "Lynn",
   "page_type": "elections",
   "requested_url": "https://www.co.lynn.tx.us/page/lynn.Elections",
-  "final_url": "https://www.co.lynn.tx.us/page/lynn.Elections",
+  "final_url": "https://www.co.lynn.tx.us/page/Elections",
   "redirect_chain": [
-    "https://www.co.lynn.tx.us/page/lynn.Elections"
+    "https://www.co.lynn.tx.us/page/lynn.Elections",
+    "https://www.co.lynn.tx.us/page/Elections"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "8ec56da5d8dfb46c23f3af3e36db81a0783b4c8dec0b9e438509e133ed57fc57",
-  "text_sha256": "cb5a7944f291f47004ece1d478863354bdb41f50b7a1e26d083e3fec4673cc58",
-  "byte_size": 103496,
-  "title": "Lynn County, Texas",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "916e6fa32334817da1246ec7dd7e2f22135f708cdc3f9148c788e2b724bb1f4a",
+  "text_sha256": "5dede0eda2be8bd22b1596486653feaf583b179ade993a06d82a9b91a354541d",
+  "byte_size": 110115,
+  "title": "Elections & Voting | Lynn County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "citizen_abroad"
+    ],
+    "count": 1
   },
   "error": null
 }

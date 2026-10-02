@@ -113,6 +113,16 @@ November 8, 2022
 May 24, 2022
 May 7, 2022
 March 1, 2022
+November 3, 2026 Carson County General Election
+Early Voting:
+Oct 19 - Oct 23
+8:00a to 5:00p
+Oct 24
+6:00a to 6:00p
+Oct 25
+9:00a to 3:00p
+Oct 26 - Oct 30
+6:00a to 6:00p
 If you wish to receive a Ballot by Mail, please contact the Carson Co Elections office or follow the link for more information. Please note that Annual applications must be filled out every year.
 Application for Ballot by Mail
 For all questions regarding voting by mail, military or overseas voting, please visit
@@ -380,12 +390,15 @@ Tuesday, November 3, 2026 (Election Day) at 7:00 p.m. if carrier envelope is not
 November 3, 2026 Carson County Joint Election
 ▲
 Carson Co General Election
+Notice of Election
+Notice of L&A
 Central Counting Station Plan
 SOS Ballot Certification
 Write-In Candidate Certification
 Order of General Election
 Proclamation
 Carson Co Assistance District Election
+Notice of Election
 Order of CCAD Election
 Groom ISD Tax Rate Election
 Notice of GISD Tax Rate Election
@@ -510,9 +523,9 @@ iCal
 save current view to clipboard as an .ics link
 RSS
 save current view to clipboard as an .rss link
-September
+October
 2026
-September 2026
+October 2026
 Sun
 day
 Mon
@@ -523,8 +536,10 @@ nesday
 Thu
 Fri
 Sat
+27
+28
+29
 30
-31
 1
 2
 3
@@ -555,9 +570,7 @@ Sat
 28
 29
 30
-1
-2
-3
+31
 May 26, 2026 Joint Primary Runoff
 ▲
 Official Results

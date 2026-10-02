@@ -11,12 +11,17 @@
   "content_type": "text/html",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "498af2ccf23237202ca8ad88f6ce13bc161ed37914212fc2879cc6ae10fd596b",
-  "text_sha256": "aca2f33362a8b417b137ad53555355ed4d0f33a921580a41b89e9d2dd5106340",
-  "byte_size": 12230,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "90600e172e2bb4005f92aec952e0ee953617b7a255f83dd56e346762b53ee630",
+  "text_sha256": "62cc80c18058ede1173baa98ea3d201e27b24e5a80d7aa957ac2ef2a5d25d0a0",
+  "byte_size": 4395,
   "title": null,
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

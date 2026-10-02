@@ -133,13 +133,16 @@ Notice of Delivery of Balloting Materials (
 Spanish
 )
 Reconciliation
-L& A Testing - Ballot Marking Devices; E-Poll Books & Ballot Counters
+L& A Testing -
+Automatic Tabulation Equipment
+;
+E-Poll Books
 Voting Results Summary
 Notice of Convening EVBB
 Voting Results by Precinct
 Order Calling SVC
 Election Information and Turnout Data (Texas SOS)
-Certification of E-Poll Books
+Notice of Convening Central Counting Station
 Austin County Precinct Voting Map
 Certificate of Preparation of Ballot Counters
 Notice of Election Hand Count Audit

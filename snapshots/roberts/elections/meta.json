@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "a2ab0600bab557e05ea3e4e44cbccf0c8eb787df68d333baf055474aef556e64",
-  "text_sha256": "0c392787ac090e2e889463791ca962b17e373bc4df469f1fa9360e0e0604f9f1",
-  "byte_size": 49376,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "24b81fbbe3df981b5f85d5bf28a757830831e766493c27bc641006ca92cf94e3",
+  "text_sha256": "8c64af66a1768cb10ef66a435eba772eba10dab97217b17bca43426dfc64aaad",
+  "byte_size": 49070,
   "title": "Roberts County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

@@ -112,9 +112,9 @@ General Election – November 3, 2026
 Sample Ballots:
 Voting Precinct
 1,4,6
-Voting Precinct
+, Voting Precinct
 2,3
-Voting Precinct
+, Voting Precinct
 7,9
 Important Dates:
 ABBM Applications

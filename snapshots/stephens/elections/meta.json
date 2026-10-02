@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "662721a1385eb4920491e03418aa8a1c844d104c50519f492fa23b54013bdecb",
-  "text_sha256": "2bfa0d914fd6fe46dec5bab6f51aedd8114539b19534de14d7cd15e99c9cfaad",
-  "byte_size": 46831,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "0997f52fc7659dd79cd0662f1cef91c68b84a683822d09a9501e2bcd35956cb6",
+  "text_sha256": "95d230774983a3485925db27b297acd86d4ba27d55b78589debd265e2ceb913a",
+  "byte_size": 46965,
   "title": "Stephens County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

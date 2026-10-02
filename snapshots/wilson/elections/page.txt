@@ -118,6 +118,10 @@ Wilson County Renovation and Construction Projects
 Wilson County Road Condition Reports
 Texas AgriLife Extension Office
 (espanol)
+Texas DPS failed to send voter registration applications to county election officials
+Over the past 24 hours, Texas county voter registrars across the state have received a flood of new voter registrations and updates to voter registration records submitted through the Texas Department of Public Safety. Some of these submissions date as far back as October 2025, but were not sent to Texas county voter registrars until this week. Depending on their size, counties have received anywhere from several hundred to tens of thousands of records to process as a result of a technological error at the state level that caused this major backlog. Texas voters should be confident that Texas county election officials are working around the clock to ensure valid voter registrations submitted in a timely manner before the deadline will be processed appropriately, despite the challenges and additional time that this backlog has created. We encourage Texas voters to verify their registration status by visiting
+VoteTexas.gov
+or by contacting their county voter registrar to verify that their current voter registration information is updated and on file ahead of the October 5th deadline.
 This site is available in Spanish by clicking on "Translate" at the top of the page.
 (este sitio está disponible en español haciendo clic en "traducir" en la parte superior de la página)
 Elections Department
@@ -264,7 +268,10 @@ Order Calling for SVC
 Notice of Delivery to SVC
 Notice of Delivery to Ballot Board
 Sample Ballots:
-Will be Posted once available
+PCT 1
+PCT 2
+PCT 3
+PCT 4
 PAST ELECTIONS
 ▲
 May 26, 2026 Republican & Democratic Primary Runoff

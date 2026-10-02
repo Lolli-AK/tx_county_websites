@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "51dc42818fcdf74e9266f0cc52c8e9131d6f92db1ccd9a6dd2490c83210cc9bc",
-  "text_sha256": "a0681417a5769eac0b6b55f5df4f9620da0e1106a98e18802848f8adffeed10d",
-  "byte_size": 44398,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "283c0ef7c8a75731bde223f3c2dd852839512e1a153685726b811757e6b46618",
+  "text_sha256": "0e1cfceb3ff1c1a90be5641cc06c4716efd5987fd01e6d6b9d98b8e8972e8bdf",
+  "byte_size": 44659,
   "title": "Lamar County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

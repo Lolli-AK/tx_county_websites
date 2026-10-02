@@ -1,0 +1,29 @@
+{
+  "county": "Delta",
+  "page_type": "uocava",
+  "requested_url": "https://www.deltacountytx.com/elections/page/military-overseas-voters",
+  "final_url": "https://www.deltacountytx.com/elections/page/military-overseas-voters",
+  "redirect_chain": [
+    "https://www.deltacountytx.com/elections/page/military-overseas-voters"
+  ],
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
+  "external": false,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "84cadb04059d921ece5941d8eec707b2f740ae58623f88e286091dabaf74bb29",
+  "text_sha256": "c9392e2b08e87b136e4299e8e8fb107f3a712e4c38c57547d4546a932b008d2d",
+  "byte_size": 2867,
+  "title": "Just a moment...",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+}

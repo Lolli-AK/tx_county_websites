@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "4c38612c09d8a0e289471561cf7f3d2eb7ab1ef25c4f1ffaf1d08d623b090da4",
-  "text_sha256": "71805b5bc17f5807ef60bb937980cdf4276c678cf15816977dc983f15d2dfdb2",
-  "byte_size": 148071,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "8ef5ada37107b1caeec39f2c07c40075d71d73f8a39de441c9f6a9e24335a8c6",
+  "text_sha256": "653862d4e008f2a84ae55d826d70147b800311aac00150dbb7b79d2eb9f9db22",
+  "byte_size": 148104,
   "title": "Ellis County, TX Official Website | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

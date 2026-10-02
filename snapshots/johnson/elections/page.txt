@@ -109,7 +109,7 @@ Major Thoroughfare Plan
 Transportation Bond
 Economic Development
 Elections Office
-Early Voting Locations
+Early Voting and Election Day Locations
 Current Election Information
 Election Sample Ballots
 Election Results
@@ -275,7 +275,7 @@ Transportation Bond
 Economic Development
 Elections Office
 -
-Early Voting Locations
+Early Voting and Election Day Locations
 Current Election Information
 Public Notices
 Previous Election Information
@@ -349,21 +349,6 @@ Reddit
 Font Size:
 +
 -
-We are aware the Applications for Ballot by Mail (ABBM) are being mailed out from
-Center for Voter Information
-(an outside organization working to promote Ballot by Mail). If you choose to use their application, please note that if you are providing your TX DL or TX ID number,
-the full 8 numbers need to be provided
-,
-or the application will be rejected
-. Below is the placement of their ID identifier. In accordance with application requirements,
-the whole ID number is needed
-or
-the last four of your social
-.
-If you have any questions concerning this, please contact our office at (817) 556-6197, option #7.
-We have received approval from the Texas Secretary of State; in the upcoming weeks, you will be receiving your new voter registration card.
-Please, be on the lookout for your new card over the next few weeks
-.
 CONTACT INFORMATION
 QUICK LINKS
 Our hours of operation are:
@@ -408,7 +393,7 @@ ONLY DELIVER YOUR OWN
 AND YOU
 MUST SHOW PHOTO ID
 Notice as of August 2016:
-To vote In-Person, all registered voters are required to present 1 of the 7 approved forms of photo identification. If you are unable to obtain one of the photo ID's, you may fill out a declaration at the polls explaining why, and bring one of the supporting documents.
+To vote In-Person, all registered voters are required to present 1 of the 7 approved forms of photo identification. If you are unable to obtain one of the photo ID's, you may fill out a declaration at the polls explaining why and bring one of the supporting documents.
 Click the following link to view the list of acceptable ID's and to read more:
 Texas Voter ID Requirements|VoteTexas.gov
 TEMPORARY ELECTION WORKERS NEEDED
@@ -417,7 +402,7 @@ Thank you,
 Johnson County Elections
 VOLUNTEER DEPUTY VOTER REGISTRAR
 -
-CALL FOR APPOINTMENT ON TUESDAYS OR THURSDAYS
+CALL FOR APPOINTMENT
 The Johnson County Elections Office will be scheduling appointments for anyone interested in becoming a Volunteer Deputy Voter Registrar. Volunteer Deputy Registrars are entrusted with the responsibility of officially registering voters in the State of Texas. They are appointed by county voter registrars and charged with helping increase voter registration in the state.
 Acceptance of the duties of volunteer deputy registrar places you in a position of trust and responsibility to the citizens you will register to vote. Deputizing will be done by appointment only.
 Please call (817) 556-6197, option #7, for any additional information.

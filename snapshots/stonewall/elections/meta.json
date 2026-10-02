@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "d1d15bb891538b0284e1bbaac46ae80a5bedcfcb6a80037c958c3fe5782455fd",
-  "text_sha256": "0793d52b82daffdad544bc324e174c21f94aa03b565c6dee68a45d5962b1d06c",
-  "byte_size": 52863,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "2ab849fc2edd6f945830f33f9a05d2fe3f6b32244861e2f05c87b14186951c8e",
+  "text_sha256": "6975955c3c234880b4f9cf18c56b745f5b1a908f516573153f5f65ea58bd8961",
+  "byte_size": 53035,
   "title": "Stonewall County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

@@ -18,7 +18,6 @@ Elections 2026
 Elections 2025 and Earlier
 County Services
 Emergency Services
-County Events
 Government
 County Judge
 Commissioners Court
@@ -87,7 +86,7 @@ Friday 8:30am-5:00pm
 Press the enter key or spacebar to expand or collapse the accordion
 Calendar and Events
 Connections and Dates That Matter
-September, 2026
+October, 2026
 S
 M
 T
@@ -95,8 +94,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -127,9 +128,7 @@ S
 28
 29
 30
-1
-2
-3
+31
 View ALL Events
 Upcoming Events
 County Commissioners

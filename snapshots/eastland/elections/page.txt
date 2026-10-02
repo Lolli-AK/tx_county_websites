@@ -315,7 +315,8 @@ Eastland County Elections Office
 Eastland County Early Voting Clerk
 100 W. Main St. Suite 104
 Eastland, Tx 76448
-Email : temi.nichols@eastlandcounty.gov
+Email :
+[email protected]
 Phone : 254-629-6051
 Fax : 254-631-0067
 Last day to apply for a Ballot by Mail – Friday, October 23, 2026 (must be received by this day NOT postmarked)
@@ -334,15 +335,18 @@ Proclamation of Special Election Senate District 22 by the Governor of the State
 Order of Special Election
 Notice of Election
 Notice of Public Testing of Automatic Tabulating Equipment
+Certification of Public Logic and Accuracy Test of Automatic Tabulating Equipment
 Notice of Public Logic and Accuracy Test of Electronic Pollbook Equipment
+Certification of Logic and Accuracy Test of Electronic Pollbook Equipment
 Notice of Election Training
 Central Counting Station Plan – English
 Notice of Delivery of Ballots
 Notice of Convening of EVBB
 *******************************************************************************************
 Sample Ballots
-Precinct 1 & 7 are the same
-Precinct 2, 3, 4, 5, 6, 8, & 9 are the same
+Precinct 1-COE & 7-COE are the same (COE-City of Eastland)
+Precinct 1, 7, & 8 are the same
+Precinct 2, 3, 4, 5, 6, & 9 are the same
 *******************************************************************************************
 Daily Voting Rosters
 10-19-2026
@@ -357,6 +361,8 @@ Daily Voting Rosters
 10-28-2026
 10-29-2026
 10-30-2026
+11-03-2026
+MAIL BALLOTS SPREADSHEET
 *******************************************************************************************
 Results
 11-3-26 Voter Check-ins

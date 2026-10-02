@@ -185,11 +185,10 @@ State/County
 City
 School
 College
-ESD
 MUD
-SUD
-GCD
 FWSD
+GCD
+SUD
 EVBB/SVC
 L&A
 State Notices
@@ -208,6 +207,8 @@ aldwell County Early Voting Schedule & Locations
 (PDF)
 Caldwell County Election Day Locations
 (PDF)
+Notice of Delivery of Provisional Ballots
+(PDF)
 City District(s)
 City of Lockhart
 Order of Election (PDF)
@@ -219,21 +220,18 @@ City of Martindale
 Order of Election (PDF)
 Notice of Election (PDF) - TBD
 City of Mustang Ridge
-Order of Election (PDF)
-Order of Cancellation (PDF) - TBD
+Order of Cancellation
+(PDF)
 School District(s)
 Lockhart ISD
 Order of Election
 (PDF)
-Notice of Election (PDF) - TBD
+Notice of Election
+(PDF)
 College District(s)
 Austin Community College
 Order of Election (PDF)
 Notice of Election (PDF)
-Emergency Service District(s)
-CC ESD No. 6
-Order of Election (PDF) - TBD
-Notice of Election (PDF) - TBD
 Municipal Utility District(s)
 Misty Lane MUD No. 1
 Order of Election
@@ -241,16 +239,9 @@ Order of Election
 Notice of Election
 (PDF)
 Chisolm MUD No. 1
-Notice of Election
-(PDF)
-Special Utility District(s)
-Maxwell SUD
-Cancellation of Election (PDF) - TBD
-Groundwater Conservation District(s)
-Edwards Aquifer Authority
 Order of Election
 (PDF)
-Certificate of Unopposed Candidates
+Notice of Election
 (PDF)
 Fresh Water Service District(s)
 Open R Fresh Water Supply
@@ -258,11 +249,26 @@ Order of Election
 (PDF)
 Notice of Election
 (PDF)
+Groundwater Conservation District(s)
+Edwards Aquifer Authority
+Certificate of Unopposed Candidates
+(PDF)
+Order of Cancellation of Election
+(PDF)
+Special Utility District(s)
+Maxwell SUD
+Order of Cancellation
+(PDF)
 Public Notices for the Early Voting Ballot Board
+Notice of Delivery of Provisional Ballots
+(PDF)
+Notice of Convening of Central Count (PDF) - TBD
 Notice of Convening of Early Voting Ballot Board
 Notice of Delivery of Ballots Voted by Mail
 Notice of Delivery of Early Voting Balloting Materials
 Logic and Accuracy Testing
+15-6f Public Notice of Test of Automatic Tabulating Equipment_Caldwell Co.pdf
+Download file
 Press ENTER key to focus on the active panel
 Press the enter key or spacebar to expand or collapse the accordion
 SAMPLE BALLOTS
@@ -280,6 +286,30 @@ on yellow paper
 .
 To determine your election precinct, refer to the left side of your voter registration card, located next to your year of birth.
 Your eligibility to vote in specific elections is based on your residential address and its placement within established district boundaries.
+Austin Community College (ACC)
+Lockhart ISD
+City of Martindale
+Chisholm MUD No 1
+Open R FWSD
+Misty Lane MUD No 1
+District 1 & 2 - City of Lockhart
+District 3 - City of Lockhart
+District 4 - City of Lockhart
+Precinct 1 - COUNTY ONLY
+Precinct 2 - COUNTY ONLY
+Precinct 3 - COUNTY ONLY
+Precinct 4 - COUNTY ONLY
+Download file
+Caldwell County - Official Write-In Candidates
+(PDF)
+IMPORTANT NOTICE
+The
+publication ballot shown below is for informational purposes only
+and displays all statewide and local elections being held in Caldwell County.
+This is not an applicable ballot for any individual voter.
+Actual ballot styles vary based on the voter’s precinct, districts, and jurisdictions.
+2026 November_Publication Ballot_Sample.pdf
+Download file
 Previous Election Sample Ballots
 ▲
 2026
@@ -398,9 +428,28 @@ Frequently Asked Questions (FAQs)
 ▲
 Voting ID Requirements
 ▲
-To vote, all registered voters are now required to present an approved form of photo identification in order to vote in all Texas Elections.  More information on
-acceptable forms of identifications
-is available.
+ID Required for Texas Voters
+You must present one of the following forms of photo ID when voting in person:
+Texas driver's license issued by the Texas Department of Public Safety (DPS)
+Texas Election Identification Certificate issued by DPS
+Texas personal identification card issued by DPS
+Texas license to carry a handgun issued by DPS
+United States military identification card containing your photograph
+United States citizenship certificate containing your photograph
+United States passport
+Do not possess and cannot reasonably obtain one of these IDs? Fill out a declaration at the polls explaining why and bring one of the following supporting documents:
+Valid voter registration certificate
+Certified birth certificate (must be an original)
+Copy of or original current utility bill
+Copy of or original bank statement
+Copy of or original government check
+Copy of or original paycheck
+Copy of or original government document with your name and an address (original required if it contains a photograph)
+With the exception of the U.S. citizenship certificate, the identification must be current or have expired no more than 4 years before being presented for voter qualification at the polling place.
+Exemptions: Voters with a disability may apply with the county voter registrar for a permanent exemption to showing ID at the polls. Voters with a religious objection to being photographed or voters who do not have an ID due to certain natural disasters may apply for a temporary exemption to showing ID at the polls. Please contact your voter registrar for more details. Chambers County Voter Registration 409-267-2740.
+For more information see the
+Secretary of State's Website
+or call Caldwell County's Election Office if you have any questions at (512) 668-4347
 Press the enter key or spacebar to expand or collapse the accordion
 Party Affiliation Questions and Answers
 ▲

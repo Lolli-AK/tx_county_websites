@@ -9,14 +9,14 @@ Toggle main menu visibility
 Menu
 Government
 County Judge
-Commissioners Court
+County Commissioners
 County Attorney
-County Clerk
+County & District Clerk
 County Treasurer
 County Auditor
-Tax Assessor Collector
-Sheriff
-Constables
+Vehicle & Voter Registration
+County Sheriff
+County Constables
 Justice of the Peace
 34th District Court
 205th District Court
@@ -28,20 +28,21 @@ Elections
 Elections - Home
 Elections 2025-2026
 Elections Results 2025 and Earlier
-Bail Bond Board
-Emergency Management
-GIS and 911 Coordinator
-County Extension & 4-H
+Bail Bonds
+County Indigent Health Care Program
+Emergency Mgmt. Office
+GIS / 911 Office
+Solid Waste Mgmt. & Landfill
+County Appraisal District & Property Taxes
+County Extension Agent
 Adult Probation
 Juvenile Probation
-Indigent Healthcare Program
-Landfill & Solid Waste
 Financial Transparency
 Budgets
 Audits
 Public Notices
-Commissioners Court Agendas & Minutes
-Public Notices Calendar
+Commissioners Court & Agendas
+Public Notice Calendar
 Applications and Permits
 Job Openings
 How Do I...
@@ -67,7 +68,7 @@ Public Information Requests
 Community Benefits
 Sewage & Septic Tank Information
 Domestic Relation Office and Services
-Brenda Sanchez, Early Voting Clerk
+Brenda Sanchez, County Clerk
 Email:
 bsanchez@co.hudspeth.tx.us
 Patricia Rose, Voter Registrar
@@ -86,6 +87,7 @@ Texas Election Results
 Election Information & Turnout Data
 2026 Elections Information
 2025 and Earlier Elections Results
+Hudspeth County Political Boundaries
 IMPORTANT: The Elections Department will not answer questions pertaining to Texas Ethics Commission Forms. These forms are legal documents which warrant legal advice from an attorney. The Commission has attorneys on staff available to assist you.
 Candidate Information
 ▲
@@ -102,11 +104,6 @@ Public Information Notice
 Please be advised that all documents and information filed by a candidate are considered public records and are subject to disclosure under the Texas Public Information Act. Any interested party, including citizens, other candidates, or members of the media, may request to review the materials you submit.
 Primary Elections are held in March of even numbered years.
 The first thing you must do before announcing candidacy for ANY office is file a Campaign Treasurer Appointment form with our office.
-IMPORTANT DATES FOR CANDIDATES
-These dates will be updated prior to the next primary election season.
-Tuesday, September 9, 2025 – First day to file for a place on the primary ballot for Precinct Chair candidates.
-Saturday, November 8, 2025 – First day to file for all other candidates for offices regularly scheduled on the primary ballot; also, the first day for independent candidates to file their Declaration of Intent.
-Monday, December 8, 2025, at 6:00 p.m. – Filing deadline for primary candidates; also, the filing deadline for independent candidates to submit the Declaration of Intent.
 FILING AUTHORITY – COUNTY ELECTION ADMINISTRATOR
 All candidates and/or officeholders for county-wide offices, precinct-specific offices within the county, and single-county criminal district attorney must file the following with the County Elections Administrator:
 Appointment of Campaign Treasurer by a Candidate (Form CTA)

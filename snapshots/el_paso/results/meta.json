@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "621a37acdaf7744e526f313561146478ac201c4267206bf0e9f43c597a825cfd",
-  "text_sha256": "badc9d12a67057fcdda9dbdf64eb3a50f1103c2101fc6f25e4fcbb012afe6cd6",
-  "byte_size": 33838,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "2849b44b07d06bbe4c962b56b73e7a8e5db0f57962eb6494752dd78dddc9fdfe",
+  "text_sha256": "27845098fa5e9822cfd23aba09ae82bae01d5cf7c71bf90d31bd998282e16e00",
+  "byte_size": 37059,
   "title": "List Elections",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

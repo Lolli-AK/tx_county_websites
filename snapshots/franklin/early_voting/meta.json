@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "bd4c162171058b1a7373e9dee36238749a8e3cf6e7a021b9ce71d13fb95519d6",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "3a936267121b2d73537c9667cb701f5ac7a00db6a2d419d0f5813b82b1ad48de",
   "text_sha256": "0a3ace01ada21397c4aa0bcd14399a0e561da5fd023fc73843851b41a9d0e93f",
-  "byte_size": 64236,
+  "byte_size": 64238,
   "title": "EARLY VOTING IN PERSON ROSTER – Franklin, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
   "error": null
 }

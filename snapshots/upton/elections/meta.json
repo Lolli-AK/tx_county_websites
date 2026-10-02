@@ -10,15 +10,24 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "9d445ea0ac96b7167174e756d7b9b51e4e969b303fc5a19afbdf7fa389fb2ccf",
-  "text_sha256": "ad84b035d8a7cd378f0ce92b86ea3eb5a94411a9659e43f4cbafc8d0040fa2f2",
-  "byte_size": 150229,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "68e410972d05ecaf5e112da36ecbb820e47399e86aa4c5ba76dbcbb0570ecfeb",
+  "text_sha256": "ef19f69c1327b8d8103003cf9d3c0dfc9de83d42ca46a6c2ca023fa5c24863aa",
+  "byte_size": 152028,
   "title": "Elections | Upton County",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 13
   },
   "error": null
 }

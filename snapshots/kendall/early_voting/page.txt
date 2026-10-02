@@ -45,21 +45,27 @@ Order of Election (Kendall County)
 - PDF
 Order of Election (Comal ISD - English) - pdf
 Order of Election (Comal ISD - Spanish) - pdf
+Order of Election (Comfort ISD)
+- PDF
 Notice of Election
 CISD - Notice of Order of Bond Election - (English) - pdf
 CISD - Notice of Order of Bond Election - (Spanish) - pdf
+Comal ISD with Exhibits - (English) - pdf
+Comal ISD with Exhibits - (Spanish) - pdf
+Kendall County Notice of General Election - pdf
 Other Notices Required By Law
 Notice of Public Logic and Accuracy Test of Electronic Voting Equipment
 (
-Test Date: TBD)
+Test Date: 10/05/26 @ 8:30am)
 Notice of Public Logic and Accuracy Test of Electronic PollBooks
 (
-Test Date: TBD)
-Notice of Public County Training Program - No training classes
+Test Date: 10/05/26 @ 8:30am)
+Notice of Public County Training Program
+- pdf
 Notice of Delivery of Ballots Voted By Mail
 Notice of Delivery of Early Voting Balloting Materials
 Notice of Post Election Hand Count Audit
-(Date: TBD)
+(Date: 11/09, 11/10, 11/12, 11/13 @ 8:30am)
 SAMPLE BALLOTS
 Generic Sample Ballot
 Please note that if you are printing copies of this sample ballot and distributing it within our community, BY LAW, It must be printed on yellow paper.
@@ -147,7 +153,7 @@ October 28th, 2026 (Wednesday)
 October 29th, 2026 (Thursday)
 October 30th 2026 (Friday)
 Below is a roster of ballots that have been received by our office, so far. This list is a cumulative list and is updated daily as return ballots are processed.
-Returned Ballots Roster - November 3rd General (as of xx/xx/xxxx)
+Returned Ballots Roster - November 3rd General (as of 10/01/2026)
 Ballots must have a postmark of Election Day
 Election Day
 Election Day Roster:

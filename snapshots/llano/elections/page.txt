@@ -244,6 +244,7 @@ Google Map
 7. Llano County Library
 102 E. Haynie, Llano, TX 78643
 Google Map
+GIS MAP OF POLLING LOCATIONS
 Questions? Please call the Llano County Elections Office: (325) 247-5425
 IMPORTANT DATES | FECHAS IMPORTANTES
 First day to apply for a Ballot by Mail-
@@ -296,7 +297,8 @@ Central Counting Station Plan
 Order for Additional EV on Saturday and Sunday
 Notice of Designation of EVBB Members for PEHCA & Dates and Times
 Notice of EVBB and Delivery of Absentee Ballots
-updated-9/15/2026
+Ordinance Cancelling Election
+updated-9/18/2026
 Press the enter key or spacebar to expand or collapse the accordion
 County Wide Polling Place Program
 ▲
@@ -548,6 +550,7 @@ Press the enter key or spacebar to expand or collapse the accordion
 Llano County Maps
 ▲
 Interactive Maps
+GIS MAP OF POLLING LOCATIONS
 Llano County Web Map
 Public Utility Commission of Texas
 For Deerhaven Search 13180 in the search bar

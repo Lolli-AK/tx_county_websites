@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "b291f925ed2a2af8a4b3c154f2b241508316cd86a744efa7f41d12d0da69b79b",
-  "text_sha256": "6a374a469b18a80f961dace7f400d1d87c1de92d689cbd23afc240a781eca9e3",
-  "byte_size": 93677,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "832a011d19b57e270fb88a9dc8bf05e2ea6d4383927a322181c559bcddbffe8c",
+  "text_sha256": "32ceaa551c214ed805e9c2bc4188cf7ff84dfaed228d15a8ed09b707d188239d",
+  "byte_size": 94055,
   "title": "Motley County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

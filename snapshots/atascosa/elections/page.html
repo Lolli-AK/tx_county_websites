@@ -13,10 +13,10 @@
   <link href="https://co.atascosa.tx.us/wp-json/" rel="https://api.w.org/"/>
   <link href="https://co.atascosa.tx.us/wp-json/wp/v2/pages/27" rel="alternate" title="JSON" type="application/json"/>
   <link href="https://co.atascosa.tx.us/xmlrpc.php?rsd=" rel="EditURI" title="RSD" type="application/rsd+xml"/>
-  <meta content="WordPress 7.1.1" name="generator"/>
+  <meta content="WordPress 7.1.2" name="generator"/>
   <link href="https://co.atascosa.tx.us/elections-administration/" rel="canonical"/>
   <link href="https://co.atascosa.tx.us/?p=27" rel="shortlink"/>
-  <meta content="Site Kit by Google 1.187.0" name="generator"/>
+  <meta content="Site Kit by Google 1.188.0" name="generator"/>
   <link href="https://co.atascosa.tx.us/wp-content/uploads/2025/11/Seal-150x150.png" rel="icon" sizes="32x32"/>
   <link href="https://co.atascosa.tx.us/wp-content/uploads/2025/11/Seal.png" rel="icon" sizes="192x192"/>
   <link href="https://co.atascosa.tx.us/wp-content/uploads/2025/11/Seal.png" rel="apple-touch-icon"/>
@@ -496,6 +496,11 @@
           </li>
          </ul>
         </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3036" id="menu-item-3036">
+         <a href="https://co.atascosa.tx.us/public-information-act/">
+          Public Information Act
+         </a>
+        </li>
         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-167" id="menu-item-167">
          <a href="https://co.atascosa.tx.us/public-notices/">
           Public Notices
@@ -654,7 +659,59 @@
            <h3 class="wp-block-heading has-text-align-center">
             November 3, 2026
            </h3>
+           <div class="atascosa-lookup" id="atascosa-voter-lookup">
+            <h2 class="atascosa-title">
+             VOTER REGISTRATION CHECK &amp; SAMPLE BALLOT SEARCH
+            </h2>
+            <h3>
+             ENTER VOTER INFORMATION
+            </h3>
+            <p class="atascosa-instructions">
+             Enter your date of birth and the house number of the address where you are registered. For instance, if your address is 123 Main Street, enter
+             <strong>
+              123
+             </strong>
+             for your House Number.
+            </p>
+            <form autocomplete="off" method="post">
+             <input name="_wp_http_referer" type="hidden"/>
+             <div class="atascosa-fields">
+              <div>
+               <label for="atascosa-dob">
+                Date of Birth (MM/DD/YYYY):
+               </label>
+               <input id="atascosa-dob" inputmode="numeric" maxlength="10" name="dob" placeholder="MM/DD/YYYY" required="" type="text" value=""/>
+              </div>
+              <div>
+               <label for="atascosa-house">
+                House Number:
+               </label>
+               <input id="atascosa-house" inputmode="numeric" name="house" placeholder="Example: 123" required="" type="text" value=""/>
+              </div>
+             </div>
+             <button class="atascosa-search-button" name="atascosa_lookup_submit" type="submit" value="1">
+              Check Registration &amp; Find Sample Ballot
+             </button>
+            </form>
+            <div id="atascosa-lookup-response">
+            </div>
+           </div>
            <ul class="wp-block-list">
+            <li>
+             <a data-id="2991" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/09/26GATASC_SAMPLE_canary_yellow_SMALL.pdf">
+              Sample Ballots
+             </a>
+            </li>
+            <li>
+             <a data-id="3046" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/09/2611-pnplatftate.pdf">
+              Public Notice of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+             </a>
+            </li>
+            <li>
+             <a data-id="3077" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/10/coflna.pdf">
+              Certification of Public Logic and Accuract Test and First Test of Automatic Tabulating Equipment
+             </a>
+            </li>
             <li>
              <a data-id="2890" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/09/atascosanoe.pdf">
               Notice of Election – Atascosa County
@@ -686,9 +743,23 @@
              </a>
             </li>
             <li>
+             <a data-id="3058" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/09/noekcisd.pdf">
+              Notice of Bond Election – Karnes City ISD
+             </a>
+            </li>
+            <li>
              <a data-id="2719" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/08/202611ordersomerset.pdf">
               Order/Notice of Election – Somerset ISD
              </a>
+             (
+             <a data-id="3047" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/09/2611-aonsisd.pdf">
+              Addendum
+             </a>
+             ) (
+             <a data-id="3060" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/09/rnoesisd.pdf">
+              Replacement
+             </a>
+             )
             </li>
             <li>
              <a data-id="2779" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/08/2026ooejisd.pdf">
@@ -701,13 +772,23 @@
              </a>
             </li>
             <li>
-             <a data-id="2984" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/09/oogefm-cochr.pdf">
+             <a data-id="3075" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/10/ooecochr.pdf">
               Order of Election – City of Christine
+             </a>
+            </li>
+            <li>
+             <a data-id="3076" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/10/noecochr.pdf">
+              Notice of Election – City of Christine
              </a>
             </li>
             <li>
              <a data-id="2985" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/09/ooc-sisd.pdf">
               Order of Cancellation for SMD #1 &amp; SMD #2 – Somerset ISD
+             </a>
+            </li>
+            <li>
+             <a data-id="2999" data-type="attachment" href="https://co.atascosa.tx.us/wp-content/uploads/2026/09/RO-09-26-156-RANDOM-RANDOM-Elected-Cancel-RANDOM-2026.pdf">
+              Declaration of Unopposed Candidates – Edwards Aquifer Authority
              </a>
             </li>
             <li>

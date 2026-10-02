@@ -10,8 +10,8 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "176f09babb401de9489eaf0838f83d96d38736c9ed88f0e94ce68636d22e8937",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "9e48a39e9a7fb3bf7e7285496262a370104f4a3e050449ab2126f6c1b1126ad8",
   "text_sha256": "ce48979dbff9edda95c968fc8350293b70cf875691020ece209759105142a947",
   "byte_size": 20361,
   "title": "Register to Vote or Update your Voter Registration Information – Kenedy County",
@@ -19,6 +19,13 @@
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }

@@ -6,16 +6,21 @@
   "redirect_chain": [
     "https://www.co.ward.tx.us/page/ward.Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "0be6a4ef978d8a354ec4d94b1fa782002008898504962db86e41b22f279f8059",
-  "text_sha256": "14194cfdfbdff6e2c5a8890a2dd992654e3c4ba9f999b251bde09a7af3d02ba7",
-  "byte_size": 62403,
-  "title": "Ward County, Texas",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "26e9f46ee15cb064c2aeb9f8c7ba31aa8409fcac4d0fbbf8bd0af5635a3719e9",
+  "text_sha256": "2f3820f7e07550288acdf8d1ad8ce8d02d98aa93c3bc53289eed1e78533876a1",
+  "byte_size": 683,
+  "title": "403 - Forbidden: Access is denied.",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

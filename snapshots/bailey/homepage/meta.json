@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "beae80df022c97f4fc67bb4f97bd5c818b3764a905db5b3b3db03de36ee06754",
-  "text_sha256": "cde01f57f1f4f05d7df5a4f23fe76416d0fca6e4f362f36d14311e9fa79309d3",
-  "byte_size": 23507,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "93ede3e309423b7089898e5ab4c82583baff4558eedec516ec17f40d617c1638",
+  "text_sha256": "594dd1085446599dc93e000903240de1f21b24db1654e12a2d1ae2c16e0aa1b2",
+  "byte_size": 23539,
   "title": "Bailey County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

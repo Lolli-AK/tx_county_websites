@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "10c302af7292e3100481d2f4c17ac7fcdb9216c7c1eb96461eb263600610ec26",
-  "text_sha256": "f63396e0c5eaaed317a1b34abbb5e327f33fa3952b731c3daad2a14e06aabd7d",
-  "byte_size": 39952,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "c08195c70a972a82cd68bd9e83c3ae5472513479120253cf0c16bb30dcfecac9",
+  "text_sha256": "13aef4f7edeb4b3f9ee75a2cc1274503dd3035a7674badb82e8c6c0de8550e75",
+  "byte_size": 39969,
   "title": "Voter Registration | Bee County, TX",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

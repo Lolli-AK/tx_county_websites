@@ -1,0 +1,34 @@
+{
+  "county": "Fort Bend",
+  "page_type": "uocava",
+  "requested_url": "https://www.fortbendcountytx.gov/government/departments/elections-voter-registration/vote-by/military-and-overseas-voters",
+  "final_url": "https://www.fortbendcountytx.gov/government/departments/elections-voter-registration/vote-by/military-and-overseas-voters",
+  "redirect_chain": [
+    "https://www.fortbendcountytx.gov/government/departments/elections-voter-registration/vote-by/military-and-overseas-voters"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "80fb65bb4be2b8f2a4392b2cbfa334eab17ced9616059451437f0e8ec4ca4176",
+  "text_sha256": "98a5aae9d18b401477c88f1836ac499d950ab89a3bf9e1dee02d517af036375d",
+  "byte_size": 162993,
+  "title": "Military and Overseas Voters | Fort Bend County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 55
+  },
+  "error": null
+}

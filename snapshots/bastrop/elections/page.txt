@@ -30,7 +30,7 @@ Offices Up for Election
 Election Workers
 Poll Watchers
 Voting Precinct Maps
-Results Archive
+Election Results
 Candidates/Office Holders
 Information for Candidates and Office Holders
 Elected Officials Listing
@@ -41,8 +41,15 @@ Current and Upcoming Elections
 Request a Mail Ballot
 Am I Registered?
 Mail Ballot Status
-Elections Results
+Election Night Reporting
 Bastrop County Elections
+“I VOTED” AND “FUTURE VOTER” STICKER DESIGN CONTESTS
+Official Rules
+Entry Form
+Consent Form
+“Future Voter” Sticker Design Template – Grades K-5th
+“I Voted” Sticker Design Template – Grades 6th-12th
+“I Voted” Sticker Design Digital Template – Grades 6th-12th
 NOTICE OF ELECTION PRECINCT BOUNDARY CHANGE 2026
 The Bastrop County Elections Administrator conducts Federal, State, and County elections. The Elections Administrator also conducts
 elections for other governmental entities that may contract with the county for election services.
@@ -80,15 +87,10 @@ elections@co.bastrop.tx.us
 Para Mas Información
 ¿Necesita información o ayuda en español? Por favor comuníquese con nuestra oficina al 512-581-7160.
 Voter Stats
-Registered Voters as of 09/14/2026
+Registered Voters as of 09/28/2026
 Total
-63,982
+64,850
 Mark Your Calendar
-Volunteer Deputy Registrar Training
-Thursday
-,
-October
-1st
 Last Day to Register to Vote
 Monday
 ,
@@ -134,6 +136,11 @@ Friday
 ,
 November
 27th
+County Holiday
+Thursday
+,
+December
+24th
 View More
 Connect With Us
 Sitemap

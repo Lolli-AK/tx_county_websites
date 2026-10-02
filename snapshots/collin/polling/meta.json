@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "6108de4eb31333f455e3cf2437b30647c127711314b14266d6f04adf576c0852",
-  "text_sha256": "685ec91352534a6d6780ad1f6ecdc402b382c6d21031f49099b7b1974a57f9e9",
-  "byte_size": 17808,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "4fc38ba6692f9367f6f93d1bb1b36bc923323c1370c6b3ee86819fae6d2a0c14",
+  "text_sha256": "15b79033ca926170a806c0beb19e68b2cea28f58675106e96918606a26b9886c",
+  "byte_size": 18295,
   "title": "Polling Locations",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

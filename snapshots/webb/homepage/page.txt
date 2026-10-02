@@ -1,8 +1,5 @@
 Webb County, TX | Official Website
 Skip to Main Content
-Create a Website Account
-- Manage notification subscriptions, save form progress and more.
-Website Sign In
 Elected Government
 Departments
 Services
@@ -23,7 +20,7 @@ View All News
 /CivicAlerts.aspx
 Upcoming Events
 Mark your calendar
-September 2026
+October 2026
 S
 M
 T
@@ -31,8 +28,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -63,21 +62,19 @@ S
 28
 29
 30
-1
-2
-3
-Mon, Sep. 21
-Jury Week - All Courts
-Mon, Sep. 21
-Commissioners Court Meeting (if needed)
-Wed, Sep. 23
-Start of Fall
-Sat, Sep. 26
-Knock Out Breast Cancer Event at Independence Park
-Mon, Sep. 28
-Commissioners Court Meeting
-Tue, Sep. 29
-National Coffee Day
+31
+Mon, Oct. 5
+World Teacher's Day
+Mon, Oct. 5
+Jury Week - District Clerk
+Mon, Oct. 5
+Last Day to Register to Vote
+Mon, Oct. 5
+Pre-Agenda
+Tue, Oct. 6 - Fri, Oct. 9
+Bexa Breast Exams at Public Health
+Mon, Oct. 12
+Columbus Day - County Holiday
 View All Events
 /Calendar.aspx
 County Government

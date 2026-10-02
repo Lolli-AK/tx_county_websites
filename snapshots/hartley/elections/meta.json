@@ -2,20 +2,26 @@
   "county": "Hartley",
   "page_type": "elections",
   "requested_url": "https://www.co.hartley.tx.us/page/hartley.Voter.Information",
-  "final_url": "https://www.co.hartley.tx.us/page/hartley.Voter.Information",
+  "final_url": "https://www.co.hartley.tx.us/page/Voter.Information",
   "redirect_chain": [
-    "https://www.co.hartley.tx.us/page/hartley.Voter.Information"
+    "https://www.co.hartley.tx.us/page/hartley.Voter.Information",
+    "https://www.co.hartley.tx.us/page/Voter.Information"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "2249a1cbbf7ab7ce565ddb0e59f60f38b18a9cbb11ddc4bf032f2ce012c3822f",
-  "text_sha256": "81a92a354aa9fefc08e339f0085a94ac86e28eb72362794b66344df3154285a2",
-  "byte_size": 89290,
-  "title": "Hartley County, Texas",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "66eca643f0a7a77a08c76809da2f41dc4b2cbb013d490b802c543f5a9aaade4b",
+  "text_sha256": "b92add72e46234c30760536071b9876b7672df3bcacd882646ccddfa5139520b",
+  "byte_size": 81490,
+  "title": "Elections and Voter Information | Hartley County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

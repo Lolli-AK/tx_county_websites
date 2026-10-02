@@ -11,6 +11,8 @@ Become a Vote Center
 Vote Center Application
 What's on my Ballot?
 November 3rd 2026 - General and Special Elections Sample Ballot
+Write-In Candidates
+Notice of Cancellations
 First-Time Voters
 Vote by Mail
 Mail Ballot Tracking

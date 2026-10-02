@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "2aa4c34714b618a8c7b2a2d2f1ff8984f1b4cd09a82e74a90a53ce7968d6b15b",
-  "text_sha256": "d71bade5c982c66e23a1e435a9d39fa2edc4217bab54325fe7c8bee75cc1cf5d",
-  "byte_size": 133874,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "5189f94b3d114197ba90db8a0306c62bdb3f87cdbee38a179109fb9c2caa5ef8",
+  "text_sha256": "f95ced7cc907e3c11ad727ab82abf4f5de407f8aaca4a5c6d46b34ba0787347c",
+  "byte_size": 137718,
   "title": "Election Notices - Reagan County",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

@@ -1,0 +1,32 @@
+{
+  "county": "Cameron",
+  "page_type": "uocava",
+  "requested_url": "https://www.cameroncountytx.gov/elections/index.php/military-overseas-2/",
+  "final_url": "https://www.cameroncountytx.gov/elections/index.php/military-overseas-2/",
+  "redirect_chain": [
+    "https://www.cameroncountytx.gov/elections/index.php/military-overseas-2/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "2e0d7d212d5920d7fa62fb2e80afcb2ece00667c52b0aec83b89663599ba53a3",
+  "text_sha256": "0ea51e040e52c0f64147657d2f1d081b84a57095e05acc91f7402e94c5291666",
+  "byte_size": 21672,
+  "title": "Military & Overseas - Cameron County",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 18
+  },
+  "error": null
+}

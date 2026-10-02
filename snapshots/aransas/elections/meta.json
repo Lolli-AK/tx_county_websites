@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "7291222f2126347f392ec988fb4d9fb4e70b90ab286202ca8bd4446b13925781",
-  "text_sha256": "c1b3fb2824003ae894150725fc1a5cfe1a68752304094426f48a4b7e31ec567f",
-  "byte_size": 36612,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "45bf70d055717b1679d6a0e56317c956e61a30981415c99f0801fb7ca808961d",
+  "text_sha256": "db902d46245a83c18b50d5f4c27e71020b027198c4372344b2e8c7ab4da5701a",
+  "byte_size": 36790,
   "title": "Aransas County Elections Administration",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

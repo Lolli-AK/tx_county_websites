@@ -238,34 +238,29 @@ Tuesday, November 3, 2026    7:00am – 7:00pm
 _______________________________________________________________________________________________
 PUBLIC TESTS
 HASH VALADATION 11.03.2026
+L&A PUBLIC NOTICE FIRST TEST
 _______________________________________________________________________________________________
-BROWN COUNTY
-------------------------------------
-REPUBLICAN CANDIDATES:
-------------------------------------
-ELECTION CANDIDA
-TES
-(ARE NOT In Ballot Order)
-STATEWIDE
-----------------------------------
-DEMOCRATIC CANDIDATES:
-ELECTION CANDIDA
-TES
-(ARE NOT In Ballot Order)
-REPUBLICAN CANDIDATES:
-----------------------------------
-ELECTION CANDIDA
-TES
-(ARE NOT In Ballot Order)
-----------------------------------
-SCHOOLS
-------------------------------------
-INDEPENDENT SCHOOL DISTRICTS:
-ELECTION CANDIDA
-TES
-(ARE NOT In Ballot Order).
-May ISD
-------------------------------------
+SAMPLE BALLOTS BY POLLING LOCATIONS
+101    Milton Baptist Church
+105    Southside Baptist Churc
+h
+109    Brookesmith Community Center
+113    New Life Assembly of God Church
+202    Brown County Elections Office
+204    Brown County Elections Office
+212    May Community Center
+214    May Community Center
+215    Crossroads Baptist Church
+303    Brownwood ISD Administration Bldg
+306    First Baptist Church
+307    First Methodist Church
+308    Zephyr Community Center
+316    Northridge Baptist Church
+318
+Northridge Baptist Church
+410    Bangs Community Center
+411    Coggin Avenue Baptist Church
+417    Rocky Creek Baptist Church
 May 26th, 2026 Primary Runoff Election
 ▲
 Polling Locations

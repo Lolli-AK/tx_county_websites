@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "fb3011847669376bef661cc1d00bc0253d2a3aeccd332749a8094b8e449182bb",
-  "text_sha256": "daf7308598e320a28bf4fcfb80d2be20ce2dd89c242cfe6f1ad22bc00ee905f9",
-  "byte_size": 61357,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "062d6daae9c5bd09d87d8b65563f205e976d787f5a09b3108751426cc72352c7",
+  "text_sha256": "e66753042b56f100d0846e63afe5d237df5ac49db50785dcd410d5689401ceca",
+  "byte_size": 60672,
   "title": "Register to Vote / Address / Name Change | Webb County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

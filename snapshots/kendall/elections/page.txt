@@ -28,7 +28,7 @@ As of August 4th, 2026: 40,386
 History of Registered Voters
 [rotating image slideshow removed for determinism]
 Calendar
-September 2026
+October 2026
 S
 M
 T
@@ -36,8 +36,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -68,10 +70,9 @@ S
 28
 29
 30
-1
-2
-3
-There are no published events in current month.
+31
+Mon, Oct. 19 - Fri, Oct. 30
+Early Voting - November General Election
 View All Events
 /Calendar.aspx
 CONTACT US

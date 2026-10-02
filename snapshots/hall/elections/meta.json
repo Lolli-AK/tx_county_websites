@@ -10,15 +10,24 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "80d177495f16ccd5bde6aebf72544897f6a1a8b30390b62c17c04899fa4a9239",
-  "text_sha256": "7bf03cdd03a280a2b7d57865d0033fd4927a34ab080361591dd2d8545d122527",
-  "byte_size": 84920,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "a4752383d433df6aa46a089259342eaecba2bf97ba8cd4e2dd19212fc5023f2c",
+  "text_sha256": "1513c08841252b98c2d1ee990f0d47124c21fae4c70464fbadee435b5274b56a",
+  "byte_size": 87351,
   "title": "Hall County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 15
   },
   "error": null
 }

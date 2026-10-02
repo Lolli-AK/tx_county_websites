@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "330b7153342d70a93bd64fef34a7a9bce14d7afc3b0b0f65e8046c3ba54b0e28",
-  "text_sha256": "259666ceadd33deeb8e4c51ea67226bcbc6e42edff7793ccebe56cfb1e8d4ebf",
-  "byte_size": 70388,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "96e9d0a5015f3e785dda83ef67b674fa301520586b7807f296043143c0c91b18",
+  "text_sha256": "41145cbb9920f87f7b430c91f151f80c9a3180aa6fbb562f7b051464247581ac",
+  "byte_size": 70523,
   "title": "Comal County, TX | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

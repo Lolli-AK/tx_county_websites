@@ -10,15 +10,25 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "9c5c628eaeb157281954d5bb80e1bb36b0355684540861922e76f12be0010ab1",
-  "text_sha256": "078aa6be9a7c6d7cb70e789253036564c06b5e12491e36ad1b38292a976dc683",
-  "byte_size": 132779,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "f58350f11997cefa053e2fb559207b3d29168f7a82351b787ceb204c342039e1",
+  "text_sha256": "b8dd4e3bd1feacfb7827949492d6046b76e0927f5bfd39f234a689625a9a0975",
+  "byte_size": 139669,
   "title": "Kerr County Elections | Welcome to Kerr County | Kerrville, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 11
   },
   "error": null
 }

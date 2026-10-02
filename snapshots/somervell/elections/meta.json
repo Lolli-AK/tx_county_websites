@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "de57d60ef6f9b4639b4a2850b665dab158e07d91095f3f3536f5879f544ed4c8",
-  "text_sha256": "e570bc5efe732d4acc34311ec4a609f85ade9fdeaea27839620b596e129bfa32",
-  "byte_size": 49842,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "902eab36f7879162acd7f48f82bcb1c087f2e6f5751015dd2dcff4c7a991272b",
+  "text_sha256": "0e05fb2c384c2723af42eba86a7dccd8b56edb433408dad443a6c21be7fb3413",
+  "byte_size": 50406,
   "title": "Elections | Somervell County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

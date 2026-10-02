@@ -49,7 +49,47 @@ Order of Election- Clyde CISD
 Order of Election- City of Clyde
 Order of Election- Baird ISD
 Cancellation of Election- Eula ISD
+Cancellation of Election- Baird ISD
 Logic and Accuracy Test on Tabulating Equipment
+Logic and Accuracy Test on Tabulating Equipment
+#2
+Early Voting Location
+Courthouse -100 West 4th St., Basement, Baird
+Dates: October 19, 2026, - October 23, 2026
+Hours: 8:00 AM - 5:00 PM
+Date: October 24, 2026
+Hours: 7:00 AM - 7:00 PM
+Dates: October 25, 2026
+Hours: 12:00 PM - 6:00 PM
+Dates: October 26, 2026 - October 30, 2026
+Hours: 7:00 AM - 7:00 PM
+Election Day Locations
+Courthouse -100 West 4th St., Basement, Baird
+JP1 Office- 208 Oak St, Clyde, TX
+Cross Plains Community Center- 108 Beech St., Cross Plains, TX
+Eula School- 6040 FM 603, Clyde, TX
+Date: November 3, 2026
+Hours: 7:00 AM - 7:00 PM
+Sample Ballots
+Precinct 1
+Precinct 1 City Clyde
+Precinct 1 CCISD
+Precinct 2
+Precinct 2 City Clyde
+Precinct 2 CCISD
+Precinct 3
+Precinct 3 City Clyde
+Precinct 3 CCISD
+Precinct 4
+Precinct 5
+Precinct 6
+Precinct 6 City Clyde
+Precinct 6 CCISD
+Precinct 7
+Precinct 7 CCISD
+Precinct 8
+Precinct 8 City Clyde
+Precinct 8 CCISD
 May 26, 2026, Primary Runoff Election
 ▲
 May 26, 2026, Primary Runoff Election

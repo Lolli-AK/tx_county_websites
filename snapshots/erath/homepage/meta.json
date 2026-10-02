@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "c9ef109cf963c1c967078f9991b096832059687b8873081371b139a9b0775585",
-  "text_sha256": "1c53beee2bb6ddc15f9f970c52d773f1a2d90dc952dd20bf32498688eabfbdc7",
-  "byte_size": 60576,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "84de4c44405aae733fd7806a888b6e3d83918662bb632fe45d28404c9fcc3d4f",
+  "text_sha256": "43b78c8104e157bf23af763b2a7afe56ef5c985ee3ea6d975c8a069f051d40e8",
+  "byte_size": 60742,
   "title": "Erath County, TX | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

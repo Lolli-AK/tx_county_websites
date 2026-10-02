@@ -54,6 +54,7 @@ Financial Reports
 Utility Reports
 Treasurer's Report
 Budgetary Public Notices
+Tax Abatements
 Public Notices & News
 Public Notices
 Indigent Health Care Eligibilty Standards
@@ -297,12 +298,17 @@ Sample Ballots
 Toggle main menu visibility
 Menu
 Precinct 2
+Precinct 2-City Sem
 Precinct 3
+Precinct 3-City Sem
 Precinct 4
+Precinct 4-City Sem
 Precinct 5
 Precinct 6
 Precinct 8
+Precinct 8-City Sea
 Precinct 9
+Precinct 9-City Sem
 2025
 ▲
 November 4, 2025

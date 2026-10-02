@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "ede7b370914c4abe859c00e6a274ae0a6fa98db5ae37682d03a66e8564798cf9",
-  "text_sha256": "9388e819001dfaffb957318469680e838552ad1c229f45986f4eb953e8dc9708",
-  "byte_size": 57861,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "95cad8bbc94ee0c4bc581e93ed481a4b90e2b58ef68e8f344ba4b78ee84abeb1",
+  "text_sha256": "8244d16665ba64d842033d7aead6643e43bc7d5f2c9a7eb0e5c383713d356883",
+  "byte_size": 57860,
   "title": "Trinity County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

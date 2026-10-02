@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "e67fbcf48377480d37a9aacd444713bc4e5efed6b756fe35cd43e88024b5a0bf",
-  "text_sha256": "cab27be40663eeb88e8513e23165a8bf0841d7e321879c658a10bbb8a5d24109",
-  "byte_size": 68054,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "28bb8e97ea6d49b8c11a5e38d0df361ca284a7d46d70ab4ac27b71535bea72ba",
+  "text_sha256": "5db80a0c4b7cab7c7fe0b3665d05270635e4db00208586916cea44360559443f",
+  "byte_size": 68358,
   "title": "Floyd County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 2
   },
   "error": null
 }

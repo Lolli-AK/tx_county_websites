@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "6fa0b23eead802146c9b83505247b88dcbf2cda5ee413ad83235ce7f54ea9589",
-  "text_sha256": "dca71025c49ef92b6d8599fdc62b97680406196cb01df28cfd9dc2645fea939e",
-  "byte_size": 471102,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "16d7820f3d013d9ddeb44440bd94c9358ecfbc10ecbbe671d60f5099c227ce6c",
+  "text_sha256": "171503c365774ab900a0b2b512d042d499975606a8e629ca36c29dee657bc782",
+  "byte_size": 471585,
   "title": "Goliad County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

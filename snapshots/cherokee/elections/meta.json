@@ -10,15 +10,22 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "2a77105b6d3546eafa0e95adcd8c56e9aa6d788cd9dc2d98913dbfe4e201d81a",
-  "text_sha256": "d1b96b1c58be05106d29e3221736066925bb95704549737a94f16c5f5a030b25",
-  "byte_size": 30609,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "1abf9940fad9ff9010ee96c9b063f2209003e92057d7b74bec8c62218b8de590",
+  "text_sha256": "53c28e7ae375bd2561212fbb894bb740df8793f8ad7f698dddc7b0fd7d1877ba",
+  "byte_size": 32538,
   "title": "Cherokee County - Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

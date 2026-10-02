@@ -749,8 +749,8 @@ Zach White Elementary School
 Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
-530,351
-Registered voters as of Friday, September 18, 2026
+537,655
+Registered voters as of Friday, October 2, 2026
 Are You Registered?
 Every Voice Makes an Impact.
 Every Vote Makes a Difference.

@@ -149,8 +149,21 @@ Notice of Logic & Accuracy Test
 (Aviso de la prueba de Logica y Precision)
 Public Notice of Election Board Meeting
 (Aviso Publico de la Reunion de la Junta Electoral)
+Public Notice of Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+(Aviso Publico de Prueba de Logica y Precision Publica y Primera Prueba de Equipo de Tabulacion Automatica)
+Public Notice of Public Logic and Accuracy Test of Electronic Pollbook Equipment
+(Aviso Publico de Prueba de Logica y Precision del Equipo Electronico del Libro de Votaciones)
 SampIe ballots / Boletas de Muestra
-*Will be posted when available
+Precinct 1
+(Precinto 1)
+Precinct 2
+(Precinto 2)
+Precinct 3
+(Precinto 3)
+Precinct 4
+(Precinto 4)
+List of Declared Write-in Candidates
+(Lista de Candidatos Declarados Eligibles para Recibir Votos por Insercion Escrita)
 VOTING ROSTERS
 (listas de votacion)
 Early Voting and Election Day Rosters

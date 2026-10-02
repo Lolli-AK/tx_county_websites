@@ -4,6 +4,7 @@ Create a Website Account
 - Manage notification subscriptions, save form progress and more.
 Website Sign In
 About Us
+Early Voting Schedule
 Records
 Voter Resources
 Search
@@ -13,7 +14,7 @@ Poll Worker Page
 Poll Worker Training
 View Current Election Information for November 3, 2026 Here
 Calendar
-September 2026
+October 2026
 S
 M
 T
@@ -21,8 +22,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -53,9 +56,7 @@ S
 28
 29
 30
-1
-2
-3
+31
 There are no published events in current month.
 View All Events
 /Calendar.aspx

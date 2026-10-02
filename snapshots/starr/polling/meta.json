@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-09-18T12:25:06Z",
+  "fetched_at": "2026-10-02T14:18:01Z",
   "html_sha256": "d670a260435214054bcd527bb70b170db9367cb1dab0368bca5d38c63978a2d4",
   "text_sha256": "5fdc15241f2faad6242185f7da931880c8f098fe45349f27aeb13d9d37d5799b",
   "byte_size": 4826,
   "title": "Vote Centers",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

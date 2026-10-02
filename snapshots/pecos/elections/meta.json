@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "394733d34ed744978e15422fea3e33fa69199b037a770d9216c9390112c382f2",
-  "text_sha256": "a501030e1e6aaa9c00e50f4b3535d38aa89fea79a048a7528195b33b73c31a33",
-  "byte_size": 27072,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "4e55c324e393bbd1b32720d5ae08c001c9d4c5c67f95cbb81b4106f266712cc2",
+  "text_sha256": "1d953a93f6481c14f6633c4778f437a1791bc758af4324210a1889ded6cc1be5",
+  "byte_size": 27910,
   "title": "Election Information – Pecos County",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

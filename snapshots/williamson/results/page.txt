@@ -376,6 +376,7 @@ Life Cycle of a Voter Registration Application
 Life Cycle of an Election
 Checks and Balances in Texas Elections
 Logic & Accuracy
+Ballot By Mail & The EVBB
 Voter & Sample Ballot Lookup
 Voting By Mail
 FPCA Military & Overseas
@@ -391,29 +392,13 @@ Related Links
 Public Information Request
 Election Live Streams
 Elecciones
-Registro de Votantes
-Cambio de Nombre, Dirección, o DPS
-Información del Registro Electoral
-Registrador Voluntario de Votantes
-Solicitar Lista de Votantes
-Búsqueda De Votantes y Boletas de Muestra
-Boleta por Correo
-Boleta para Militares
-Trabajadores de Elecciones
-Resultados
-Información Adicional
-Enlaces Relacionados
-Finanzas de campaña
-Mapas
-Oficiales Electos
-Sistema de Votación
-English
 Campaign Finance Reports
 Notice / Order of Elections
 County Election Board
 Primary Elections
 2026 Sticker Contest
 2024 Sticker Contest
+Daily Voting Roster
 Budget & Tax Rate Info
 Records
 Tax Office

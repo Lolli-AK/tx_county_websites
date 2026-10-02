@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "835111f2e1dec118fd60fc5700701c94a94c55a6a51163d2598c96ff5ec67acf",
-  "text_sha256": "8b506fd77ea3ebb6e1c631468212529141f8f79afef37e4cb14356bfead762e7",
-  "byte_size": 36700,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "ce57d826dc568bd14d33f427782b2f5399fa61dda90d1dfacae674110f0535cf",
+  "text_sha256": "a102f2767fe036ba69283fa6c22d8224eb6e2a291090715d82ce6024415b2256",
+  "byte_size": 36968,
   "title": "Home Page - Stephens County",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

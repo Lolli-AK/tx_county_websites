@@ -2,23 +2,31 @@
   "county": "Victoria",
   "page_type": "elections",
   "requested_url": "https://www.vctx.org/page/elections.home",
-  "final_url": "https://www.vctx.org/page/elections.home",
+  "final_url": "https://www.victoriacountytx.gov/page/elections.home",
   "redirect_chain": [
-    "https://www.vctx.org/page/elections.home"
+    "https://www.vctx.org/page/elections.home",
+    "https://www.victoriacountytx.gov/page/elections.home"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "b1a9dd56891fc6016740b894d49c6ff17272e23d423743c29acc86e6c8e147f8",
-  "text_sha256": "e4745417441ccec55a01c2faf6ca4d59651f8262fde0bc12c3f295f69a9de05d",
-  "byte_size": 49271,
-  "title": "Victoria County, Texas",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "e01a2aa2c441cc89128e3cf78617514d1d41ad4b69c44010ac7817aaec558ce6",
+  "text_sha256": "8aea4b4c73f39a8b743b7cabaa783bb64d243311150b98f24691de5a67225b58",
+  "byte_size": 68166,
+  "title": "Elections | Victoria County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "aebde8189716787bda3e284d93955d74401c4bc409b8f8fb153a2a9a49c5649f",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "3d9d8452c99886f5afd9f95e279bfecfdf90ec8b7eb64e70c1f300ddafc74db6",
   "text_sha256": "b13679a50698699532f297fd74663a823299eaaafdb95962b0c3ec17f1a4a4e0",
-  "byte_size": 54791,
+  "byte_size": 54743,
   "title": "Elections / Voter Registration | Henderson County, TX",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

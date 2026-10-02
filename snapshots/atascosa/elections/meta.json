@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "cc0dae7de982241845c672347ced962d0cea5562090949f47f8f28c425994f64",
-  "text_sha256": "4b548f5704527565869a6ed2b997fbbd2462853e279d5511b18f401103272dc8",
-  "byte_size": 82534,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "181265bd7f66ba12ff7d240c6a1007b89e2343050140a54a3bb83e1f3687661a",
+  "text_sha256": "923addf91e3b5a45c4fe59da80e72fdd9332baed43a29a11b06de495857494eb",
+  "byte_size": 86396,
   "title": "Elections Administration – Atascosa County",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

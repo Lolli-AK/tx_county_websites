@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "3876ff87cdcae38de32fb51bb1cfa72f062f665e97f6c7672adaa745ae59df7f",
-  "text_sha256": "54d7867f14dead3cc34b1096b303c3db57e82d5d427762db4ccb5f94f7bbdebe",
-  "byte_size": 21047,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "072faf8fec09c670d5253d97843f05e0e1139a3df35920358bc442aa70f451ff",
+  "text_sha256": "5689c84aeb9c44b6cd3a7403726390e3edfef5358ecc1246cb22baa80acd3ced",
+  "byte_size": 21020,
   "title": "Red River County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

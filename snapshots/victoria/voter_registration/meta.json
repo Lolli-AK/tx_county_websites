@@ -2,23 +2,31 @@
   "county": "Victoria",
   "page_type": "voter_registration",
   "requested_url": "https://www.vctx.org/page/elections.registration",
-  "final_url": "https://www.vctx.org/page/elections.registration",
+  "final_url": "https://www.victoriacountytx.gov/page/elections.registration",
   "redirect_chain": [
-    "https://www.vctx.org/page/elections.registration"
+    "https://www.vctx.org/page/elections.registration",
+    "https://www.victoriacountytx.gov/page/elections.registration"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "777624f9ab8b5e184ce08b68fc0f33f6a84c43d9d2f432fed2aecd2df686832c",
-  "text_sha256": "b07a2fb9c62186812a885044f883f158c5e14fa9ef5811325cfd0328913da0e2",
-  "byte_size": 44773,
-  "title": "Victoria County, Texas",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "8154ed85e672aa5a3f76c01d668c73466b0117cc2fb181621396e5191f78ece9",
+  "text_sha256": "2c60176c100282715574985522bfddf4f6a5daee6e79386a56e384c829b20fc9",
+  "byte_size": 57869,
+  "title": "Voter Registration | Victoria County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

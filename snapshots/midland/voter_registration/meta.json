@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "6df553c1ed50c8391be27df92a366214663fd3775fbfb7c3759933b50ab5af78",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "74e0f2abe03e94154a64f7a3572269408f942a5231adcec48beaaefb823a0bf8",
   "text_sha256": "b9c999f40eb62b19fc2f2a34246f7f4e785abd20fc89caf9125b30196b032617",
-  "byte_size": 65670,
+  "byte_size": 65672,
   "title": "Voter Registration Sites – Midland County, TX Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
   "error": null
 }

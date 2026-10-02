@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
+  "fetched_at": "2026-10-02T14:18:01Z",
   "html_sha256": "844addb5c4c2589991002652a0039058f16a8f25e4847085857d97785f0591ce",
   "text_sha256": "2474dcf4c337b9ed3481c420557079dbb1a2fa6b37d6b64303a31102542c8403",
   "byte_size": 39632,
   "title": "Where and When to Vote – Brazos Votes",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

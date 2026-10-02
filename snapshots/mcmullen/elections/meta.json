@@ -8,17 +8,22 @@
   ],
   "http_status": 403,
   "content_type": "text/html",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "5eba046604fbd1c73993120e11a13b0b73894594e1941ccc3c21b79d420914a2",
-  "text_sha256": "5810169d4fa622297783b2c2e8467c9b130d34dd6d1f4076c6f6a6b0ad1fa693",
-  "byte_size": 333309,
-  "title": "Elections – McMullen County",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "80f6219d5c8526276263b593105791c8c58148174243e782b32d24922688ad51",
+  "text_sha256": "9319cb7d2e6c377765eaae716a7ffdef6ea15b73a0a8c8123ed62fa3f799d716",
+  "byte_size": 387,
+  "title": "Checking your browser...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
-  "error": null
+  "uocava": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": "bot_challenge_not_cleared: captured security-check page, not content; headless_hard_timeout: killed after 180s"
 }

@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "3b272afc18599836c99eab94f500bba6660bc65068ee3a882ef4b8feca81e57c",
-  "text_sha256": "705552cd31f6435f5b16a5ef8cdf7ed57a6768541fcb4a997cb76e345f07aa18",
-  "byte_size": 104540,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "ee9ce4f4b985ef27e78a4bf88ecc31aca0daab9a03298d9b5ada82df213ae9c2",
+  "text_sha256": "b66da93ec048673997fc40b7dda9d4f918cd1acafe5b8247963d22b18336bd81",
+  "byte_size": 110166,
   "title": "Yoakum County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

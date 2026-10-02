@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "f3d67c5a8ab783da5e1358c727c90055f2ef8521646c0800918e0e0fd5ca4073",
-  "text_sha256": "800ad5226c50fb1ee8fa015530a320a1f77172c92cc70e0acf4fb818ccc07c28",
-  "byte_size": 75198,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "c516550e226ee284ee37e796499fa7ba4cff555d1432718af3da683240e7dc87",
+  "text_sha256": "21a558ad4ecf27736983167de20de409b51fde332d107c0f77d77ff5f68c0d1d",
+  "byte_size": 74577,
   "title": "Bell County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

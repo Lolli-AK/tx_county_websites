@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "99d8dd43526515c34a983e17b2004ad73cae97cd139b2b317ec4d0926ce42466",
-  "text_sha256": "aa50ebee47fb305352fbcb24b30f2557350fa2861bc221d0dd4e322e1f592eed",
-  "byte_size": 51262,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "ac63db095f67b49bb9bb75273d90e6930df988561836562a8cefb3f2ad0a1814",
+  "text_sha256": "75a91125e5e2460a356b040276e9d525b0718c87c9d19dcdec1ae5f51b86abc0",
+  "byte_size": 52357,
   "title": "Comanche County, TX | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

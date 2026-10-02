@@ -2,23 +2,31 @@
   "county": "Victoria",
   "page_type": "early_voting",
   "requested_url": "https://www.vctx.org/page/elections.upcoming",
-  "final_url": "https://www.vctx.org/page/elections.upcoming",
+  "final_url": "https://www.victoriacountytx.gov/page/elections.upcoming",
   "redirect_chain": [
-    "https://www.vctx.org/page/elections.upcoming"
+    "https://www.vctx.org/page/elections.upcoming",
+    "https://www.victoriacountytx.gov/page/elections.upcoming"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "aba9120bcb0c771e1b8dab96796b3c8e2d586c7d10694090cece877220078393",
-  "text_sha256": "e218158e7b582a0b36eb37a7ae4e1c81d01a7d24dbe7d737a810842374b47cc1",
-  "byte_size": 56039,
-  "title": "Victoria County, Texas",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "563058d31b34f87a9df499d61dc9d48cf95b173bc0142bbc1fa5fe17bf628361",
+  "text_sha256": "c6c15622a707b5d24663288e00f61a0a93be6fb68c38022253f4bd36c557f851",
+  "byte_size": 80189,
+  "title": "November 3 General Election | Victoria County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

@@ -9,14 +9,14 @@ Toggle main menu visibility
 Menu
 Government
 County Judge
-Commissioners Court
+County Commissioners
 County Attorney
-County Clerk
+County & District Clerk
 County Treasurer
 County Auditor
-Tax Assessor Collector
-Sheriff
-Constables
+Vehicle & Voter Registration
+County Sheriff
+County Constables
 Justice of the Peace
 34th District Court
 205th District Court
@@ -28,20 +28,21 @@ Elections
 Elections - Home
 Elections 2025-2026
 Elections Results 2025 and Earlier
-Bail Bond Board
-Emergency Management
-GIS and 911 Coordinator
-County Extension & 4-H
+Bail Bonds
+County Indigent Health Care Program
+Emergency Mgmt. Office
+GIS / 911 Office
+Solid Waste Mgmt. & Landfill
+County Appraisal District & Property Taxes
+County Extension Agent
 Adult Probation
 Juvenile Probation
-Indigent Healthcare Program
-Landfill & Solid Waste
 Financial Transparency
 Budgets
 Audits
 Public Notices
-Commissioners Court Agendas & Minutes
-Public Notices Calendar
+Commissioners Court & Agendas
+Public Notice Calendar
 Applications and Permits
 Job Openings
 How Do I...

@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "74c77bc4ef0c265f5f068feca385923c111b8eb346cc390bb095e4dd0448fdde",
-  "text_sha256": "5f9cfaebddde70efe4d34fc3ebb2de5190e7672b4c2444b60bcba3e4066a604a",
-  "byte_size": 121061,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "9c74779b26e8ca7c08e4d9b55d538d5bc9d613a3c04ebb5745c5a665647d9c69",
+  "text_sha256": "dd171a26fca5c218faf525b236e77c0c0ff4454a7d376153491cdf2368ef4393",
+  "byte_size": 121384,
   "title": "March 3, 2026 Joint Primary Election Information",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 2
   },
   "error": null
 }

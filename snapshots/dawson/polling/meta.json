@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "6d7a94a01db41cef4f4c409b23cc9294e1575a947a222de26ac74252acd23462",
-  "text_sha256": "918d3872a12f9da94f88233eb90a4b6ad4943b23d2253f9ae942ae1751ed71f6",
-  "byte_size": 135809,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "84c4f4f8b95ac021f203467c40e27f3321d0c7aca9e42a996c946d9c10ea22d9",
+  "text_sha256": "015917ddbcd02a35cfff7e81d2e187503a4995191336b390efd22dbd7d5a1a93",
+  "byte_size": 137130,
   "title": "Dawson County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "citizen_abroad"
+    ],
+    "count": 1
   },
   "error": null
 }

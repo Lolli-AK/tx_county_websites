@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "5f080b335ee2c8c730f95adcea5ce2ecb57cf65015d0290a6613985b009297bd",
-  "text_sha256": "4cc50d95fb7c71c2c067e329db9dab36017470335631299e8316190fad56f453",
-  "byte_size": 48128,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "57063de18fd343d4f02efeaf7469ab04a19d77ed1cc205974a50657a07252563",
+  "text_sha256": "36bc369c23f6920898d1e6dacd91d1a0a4db5ddb55fbe8e80b41a622ca21c0d7",
+  "byte_size": 47510,
   "title": "Live Oak County Tax Assessor/Collector",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

@@ -10,15 +10,24 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "da2a4ef5f96be1c1759147f4ed67859afbbb981e01a2e21e2ee55a3d5a0c4712",
-  "text_sha256": "b4cb8b937c8c9e2e2b881c491f4b058b389d7da399176e5e73246dd7097fec48",
-  "byte_size": 103212,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "aa80f916dcfc14c091e9d905b4d283fa808b5ad06a0eedff3e6e1c3dffe1fdad",
+  "text_sha256": "e21b4db0baaee81c1e3c9814d22271e85d5af0777579a405593d50de318db396",
+  "byte_size": 103964,
   "title": "Scurry County Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 4
   },
   "error": null
 }

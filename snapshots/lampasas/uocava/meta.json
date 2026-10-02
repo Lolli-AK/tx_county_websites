@@ -1,0 +1,35 @@
+{
+  "county": "Lampasas",
+  "page_type": "uocava",
+  "requested_url": "https://www.co.lampasas.tx.us/page/FPCA%20Military%20and%20Oversea%20Voters",
+  "final_url": "https://www.co.lampasas.tx.us/page/FPCA%20Military%20and%20Oversea%20Voters",
+  "redirect_chain": [
+    "https://www.co.lampasas.tx.us/page/FPCA%20Military%20and%20Oversea%20Voters"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "b3d0087a02369d0604c628404e00fbaabe340959efde3a2b3115b4bfc8eb78c0",
+  "text_sha256": "50227daf52308faf45c3a4b89a96b1a2a1bbf2ebaa1c4805d9f4c76feebaaa33",
+  "byte_size": 30921,
+  "title": "Lampasas County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "move_act",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 22
+  },
+  "error": null
+}

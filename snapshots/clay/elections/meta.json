@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "9bc93ec9b3f92b396ab0b1f63583b6c51826af49ae3acf42d56cd8a6f351b594",
-  "text_sha256": "b3a27f1125ad97ae9f6c14ae5aace314042cdb6e867c9e352051b6ca5e68203e",
-  "byte_size": 175871,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "f2ac9876f6fc11a459dfc7788251aad6eb6acb37edf9ee2430bacaead5d09521",
+  "text_sha256": "952ea8a337da29997b3754b1076a2d8636113fab7c5a8628fd3c0861911eff1e",
+  "byte_size": 169549,
   "title": "Elections Administrator | claycounty",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 2
   },
   "error": null
 }

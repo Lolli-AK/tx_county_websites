@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "8dea48fc08386609ed3bcb538c5d160b500d5202d0690cae51ab9bcb789870de",
-  "text_sha256": "a3b9ac5dfc4711652f87d3b563b905de3565f2287b14b94cb075dd2c3a121e59",
-  "byte_size": 42090,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "7f2da34f37f36761f390ad9c42ff44b11f4f4653a91e82a945f89ca0312f2e09",
+  "text_sha256": "7bc92bef18ee4647433bd7403c3b51f8fc8edb7ad515258e086768931bb6fd6c",
+  "byte_size": 42912,
   "title": "View information for upcoming Elections",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

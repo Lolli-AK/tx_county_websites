@@ -13,13 +13,14 @@ Information
 Search
 Michele Carew
 Elections Administrator
-1,312,750 Registered Voters
-As of 8/28/2026
+1,315,860 Registered Voters
+As of 9/28/2026
 Countdown to November 3 Election:
+Election Night Returns
 Election Information
 Ballot & Voting Information for the November 3 Election
-Polling Locations & Wait Time
-Coming Soon
+Early Vote Polling Locations
+Interactive map of polling locations for the November 3 election
 Voter Registration Check
 Check your registration or learn how to register
 Volunteer Deputy Registrar
@@ -63,7 +64,7 @@ Mark Your Calendar
 Election Events
 VDR Classes
 Election Events
-September 2026
+October 2026
 S
 M
 T
@@ -71,8 +72,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -103,14 +106,19 @@ S
 28
 29
 30
-1
-2
-3
-There are no published events in current month.
+31
+Mon, Oct. 5
+Last Day to Register to Vote
+Mon, Oct. 19
+First Day of Early Vote
+Fri, Oct. 23
+Last Day to Apply for Ballot by Mail
+Fri, Oct. 30
+Last Day of Early Vote
 View All Events
 /Calendar.aspx
 VDR Classes
-September 2026
+October 2026
 S
 M
 T
@@ -118,8 +126,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -150,21 +160,8 @@ S
 28
 29
 30
-1
-2
-3
-Tue, Sep. 22
-VDR Zoom: September 22, 9 AM
-Tue, Sep. 22
-VDR In Person: September 22 , 10 AM
-Tue, Sep. 22
-VDR In Person: September 22 , 2 PM
-Thu, Sep. 24
-VDR In Person: September 24 , 10 AM
-Thu, Sep. 24
-VDR In Person: September 24 , 2 PM
-Tue, Sep. 29
-VDR Zoom: September 29, 9 AM
+31
+There are no published events in current month.
 View All Events
 /Calendar.aspx
 Contact Us

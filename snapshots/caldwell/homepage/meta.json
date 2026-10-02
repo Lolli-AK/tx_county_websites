@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "614ad4ec005fcc595f4827b625807619d82a9eb082c9c2aa75b0c0ec36ddd453",
-  "text_sha256": "0514aa75e212cad05dd0457331cfe0164c4f30172cfa41aee5a634011274a786",
-  "byte_size": 44720,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "dd6efe4e8c0fb3dcc1905d0f2ad51d1f2dbb23cb606190747f48ceb2d7057726",
+  "text_sha256": "75b4bbe896fadfd74b2e11473c5530bc64bffcdd428b071d2f0e3e15810883e1",
+  "byte_size": 44746,
   "title": "Homepage - Caldwell County, TX",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

@@ -10,15 +10,23 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "4f64964fa30c601f3f84d9b6aef8f26fb5fd27a96168661feb674c00c14a415a",
-  "text_sha256": "fa04979cbc5f46edafedde4065a6bf72c6a673eb46a46da5c60efa166b601acd",
-  "byte_size": 91945,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "567c4aef57f4d9878e96b1ba1b4f826e3b5ba92be0da244bbfe2a24aa6c76fb2",
+  "text_sha256": "ce217e91ed6ef1b2ac86ea7243f015110f55130f1d6314a5593a0dab230b415f",
+  "byte_size": 92127,
   "title": "Milam County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 2
   },
   "error": null
 }

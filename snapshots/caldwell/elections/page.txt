@@ -182,11 +182,10 @@ State/County
 City
 School
 College
-ESD
 MUD
-SUD
-GCD
 FWSD
+GCD
+SUD
 EVBB/SVC
 L&A
 State Notices
@@ -203,6 +202,8 @@ Caldwell County Early Voting & Election Day Locations
 Caldwell County Early Voting Schedule & Locations
 (PDF)
 Caldwell County Election Day Locations
+(PDF)
+Notice of Delivery of Provisional Ballots
 (PDF)
 Additional Information
 Voter Information Poster (PDF)
@@ -237,21 +238,18 @@ City of Martindale
 Order of Election (PDF)
 Notice of Election (PDF) - TBD
 City of Mustang Ridge
-Order of Election (PDF)
-Order of Cancellation (PDF) - TBD
+Order of Cancellation
+(PDF)
 School District(s)
 Lockhart ISD
 Order of Election
 (PDF)
-Notice of Election (PDF) - TBD
+Notice of Election
+(PDF)
 College District(s)
 Austin Community College
 Order of Election (PDF)
 Notice of Election (PDF)
-Emergency Service District(s)
-CC ESD No. 6
-Order of Election (PDF) - TBD
-Notice of Election (PDF) - TBD
 Municipal Utility District(s)
 Misty Lane MUD No. 1
 Order of Election
@@ -259,16 +257,9 @@ Order of Election
 Notice of Election
 (PDF)
 Chisolm MUD No. 1
-Notice of Election
-(PDF)
-Special Utility District(s)
-Maxwell SUD
-Cancellation of Election (PDF) - TBD
-Groundwater Conservation District(s)
-Edwards Aquifer Authority
 Order of Election
 (PDF)
-Certificate of Unopposed Candidates
+Notice of Election
 (PDF)
 Fresh Water Supply District(s)
 Open R Fresh Water Supply
@@ -276,11 +267,26 @@ Order of Election
 (PDF)
 Notice of Election
 (PDF)
+Groundwater Conservation District(s)
+Edwards Aquifer Authority
+Certificate of Unopposed Candidates
+(PDF)
+Order of Cancellation of Election
+(PDF)
+Special Utility District(s)
+Maxwell SUD
+Order of Cancellation
+(PDF)
 Public Notices for the Early Voting Ballot Board
+Notice of Delivery of Provisional Ballots
+(PDF)
+Notice of Convening of Central Count (PDF) - TBD
 Notice of Convening of Early Voting Ballot Board
 Notice of Delivery of Ballots Voted by Mail
 Notice of Delivery of Early Voting Balloting Materials
 Logic and Accuracy Testing
+15-6f Public Notice of Test of Automatic Tabulating Equipment_Caldwell Co.pdf
+Download file
 Press ENTER key to focus on the active panel
 Press the enter key or spacebar to expand or collapse the accordion
 May 26, 2026 - Primary Runoff Elections

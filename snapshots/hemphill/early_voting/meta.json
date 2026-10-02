@@ -10,15 +10,24 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "49c688bd2b9f1f6658bb05d91335bd122eb0cf20601246d8e5aa8745760f1e75",
-  "text_sha256": "7b77391b703af7b97400f48a068c00a807142f5fdd5f0e9bbafc9d958d8258a5",
-  "byte_size": 373046,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "e369bd964e7879febb3c13ff06ef64055f89639e5734a4fc8e74f37a4cf84d89",
+  "text_sha256": "d17a314ce3ad009b83bcb1a0ca82ea1f79d54f835e1dea6b2fd9611877ad358d",
+  "byte_size": 375600,
   "title": "Hemphill County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 48
   },
   "error": null
 }

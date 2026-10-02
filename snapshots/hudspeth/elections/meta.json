@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "574a8f2092919547fe6c609cc0ebccafdf392b5bf76c43d4504a40d5f9a949fe",
-  "text_sha256": "60b3fe7faa7781f2c429fc479d76f1601eb07877929796842b004bd41c9f5fa1",
-  "byte_size": 38921,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "d052547f86c77a00e6bb2b701808cd366fee5be07748b9758e689fd8a5afceb7",
+  "text_sha256": "27b833e092811473df9651144ef8a4bc3c75e2748ec104f08977f06bcc21d894",
+  "byte_size": 38325,
   "title": "Elections Home | Hudspeth County, TX",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

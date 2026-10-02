@@ -100,9 +100,9 @@ iCal
 save current view to clipboard as an .ics link
 RSS
 save current view to clipboard as an .rss link
-September
+October
 2026
-September 2026
+October 2026
 Sun
 day
 Mon
@@ -113,8 +113,10 @@ nesday
 Thu
 Fri
 Sat
+27
+28
+29
 30
-31
 1
 2
 3
@@ -145,9 +147,7 @@ Sat
 28
 29
 30
-1
-2
-3
+31
 Bailey County Election's Office (Oficina Electoral del Condado de Bailey)
 ▲
 The County Clerk is responsible for all federal, state, and county elections.
@@ -283,10 +283,27 @@ Rodney Baker
 - Justice of the Peace
 November 3, 2026 - Election Day
 ▲
+Notice of General Election / Aviso De Elección General
 Deadline Alert - Monday October 5, 2026 is the last day to register to vote (¡Alerta De Fecha Límite!)
 Order of Election - November General Election For County Officers (Orden De Elección General Por Funcionarios Del Condado)
 Bailey County Election Precincts
 Notice for Write-In Candidates 2026 County Elections
+Election Day Polling Locations
+Aviso De Ubicaciones De Votación Para El Día De La Elección
+Vote Early for the November 3, 20206 Election!
+Vote Temprano Para La Elección Del 3 De Noviembre De 2026!
+Apply for Ballot By Mail
+Solicite Su Boleta Por Correo
+Apply For A Ballot By Mail
+Solicite Su Boleta Por Correo
+Public Notice of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment / Aviso
+Público De Prueba De Lógica Y Precisón Pública Y Primera Prueba Del Equipo De TAbulacón Automática
+Certification of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+Precinct 1 Ballot
+Precinct 2 Ballot
+Precinct 3 Ballot
+Precinct 4 Ballot
+Precinct 4 Ballot Sudan ISD
 2026 Primary Runoff Election
 ▲
 Precinct Summary Results Report 2026 Primary Runoff Election Republican

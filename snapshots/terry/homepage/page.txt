@@ -1,29 +1,42 @@
-Home Page - Terry County
 Terry County, Texas
 Skip Navigation
-Terry County Texas
-HOME
-CONTACT US
-TRANSLATE
-GO
-Quicklinks
 Toggle main menu visibility
 Menu
-Home
-County Offices
+Government
 County Judge
 Commissioners Court
+County Commissioners
+Meeting Agendas
 County Attorney
 County Clerk
+County Clerk Home
+Birth and Death Records
+E-Filing
+Marriage Licenses
+Public Records
 County Treasurer
-County Tax Assessor/Collector
+Tax Assessor Collector
 Sheriff
-Justice of The Peace
+Justice of the Peace
 County Auditor
-District Court
 District Court Judge
 District Clerk
 District Attorney
+Departments
+Elections
+Elections Home
+Elections Calendar
+Get Involved
+Local Government Elections
+Special Types of Voting
+ADA Voting Information
+Campaign Finance Reports
+Past Elections
+CSCD - Corrections
+Cooperative Extension Office
+Kendrick Memorial Library
+Juvenile Probation
+Veterans Services
 Financial Transparency
 Unfunded Mandates
 Tax Information
@@ -31,52 +44,67 @@ Utility Reports
 Approved Budgets
 Proposed Budgets
 Audits
-Other County Offices
-CSCD
-Cooperative Extension Office
-Kendrick Memorial Library
-Probation - Juvenile
-Public Notices & News
 Public Notices
-Notice of Foreclosure Sales
-Current Foreclosure Sale Notices
-Archived Foreclosure Sale Notices
-Veterans Services
-Elections
-Directory
-Text My Gov
-Local Area Links
-▲
-AgriLIFE Extension
-The Brownfield News
-Town Talk
-Texas Veterans Portal
-Terry County Appraisal District
-Online Resources
-▲
-TexasCourtHelp
-State Law Library
-Welcome to Terry County, Texas
-Burn Ban - Prohibiting outdoor burning for 90 days 8/11/2026
-Holidays fo
-r 202
-6
-Protect Property Tax Payers
+Public Notices Calendar
+Public Announcements
+Commissioners Court Agendas
+Foreclosure Sales
+How Do I...
+Register to Vote
+Pay a Traffic Citation
+Pay Criminal Court Fees
+Search Online Public Records
+Sign Up for Emergency Alerts
+Contact Us
+County Commissioners
+Agendas & Minutes
+District Court Dockets
+Elections & Voting
+Foreclosure Sales
+Pay a Traffic Citation
+Public Announcements
+Public Notices Calendar
+2026 Holiday Schedule
+County News and
+Information
+Welcome to Terry County, Texas! Located in the heart of the Texas South Plains, Terry County is proud of its rich agricultural heritage, welcoming communities, and strong hometown spirit. Whether you are a longtime resident, new neighbor, or visitor, we invite you to explore our website and discover the people, services, and opportunities that make Terry County a great place to call home.
+From thriving agriculture and local businesses to community events, schools, and public services, Terry County continues to grow while preserving the traditions and values that have shaped our communities. We are pleased to provide this website as a convenient resource for residents, businesses, and visitors.
+Notifications and Emergency Alerts
+https://r.i-info.com/terry/notice
+Scan QR Code or use website above to sign up to receive notifications
+Burn Ban in Effect
+- Order Prohibiting outdoor burning for 90 days 8/11/2026
 Important Notice Regarding Ransomware
-How to find us.
+Local Links and Online Resources
+The Brownfield News
+Texas Veterans Portal
+Town Talk Radio
+Kendrick Memorial Library
+Cooperative Extension Office
+Terry County Appraisal District
+Texas Court Help
+State Law Library
+Upcoming Events
+Address
 Terry County Courthouse
-500 W Main St
+500 W. Main Street
 Brownfield, TX 79316
-How to reach us.
-Phone: (806) 637-7230
-Google Map Loading...
-Provided by the Texas Association of Counties
-Duties & Responsibilities of County Officials
+Contact
+Main: (806) 637-7230
+Department Contacts
+Useful Links
+Nondiscrimination
+Disclaimer
+Report Problem
+Web Accessibility
 Copyright ©
 {{YEAR}}
-{{COUNTY}}
-{{STATE}}
+Terry County, Texas. All rights reserved.
+Provided by the
+Texas Association of Counties
+(opens in a new tab)
 powered by
 ezTask
 Titanium
+(opens in a new tab)
 TM

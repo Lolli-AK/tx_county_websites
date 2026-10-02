@@ -1,0 +1,35 @@
+{
+  "county": "Hays",
+  "page_type": "uocava",
+  "requested_url": "https://www.hayscountytx.gov/253/Ballot-by-Mail-Absentee-Military-and-Ove",
+  "final_url": "https://www.hayscountytx.gov/253/Ballot-by-Mail-Absentee-Military-and-Ove",
+  "redirect_chain": [
+    "https://www.hayscountytx.gov/253/Ballot-by-Mail-Absentee-Military-and-Ove"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "77a4bd0617cef74bb2d58e4a4da42622263f9ab7fe57c015efc5df81bca4a4e3",
+  "text_sha256": "b5c19a195d4b72737a005ed97a0e397f50f13b56d19bec77d5fee3c2da9bb79c",
+  "byte_size": 60986,
+  "title": "Ballot by Mail, Absentee, Military, and Overseas Voters | Hays County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 30
+  },
+  "error": null
+}

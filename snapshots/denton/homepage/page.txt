@@ -118,20 +118,10 @@ Stay informed with the County
 Public Notices
 County News
 Public Notices
-2027 Proposed Budget
-View the Document
-Notice of Public Hearing on Proposed Denton County Budget
-Read the Notice
-Notice of Elected Official Proposed Salary Changes
-Read the Notice
-Notice of Public Hearing on Tax Increase
-Read the Notice
-2026 Adopted Budget
-View the Document
-Adopted Tax Rate
-View the Document
 Vote on Adopted Budget
-View the Document
+Additional Info...
+Adopted Tax Rate
+Additional Info...
 2026 Denton County Notice of Tax Rate
 Read The Notice
 View All News
@@ -145,7 +135,7 @@ Keep up to date with the County
 County Events
 County Meetings
 County Events
-September 2026
+October 2026
 Sun
 Mon
 Tue
@@ -153,8 +143,10 @@ Wed
 Thu
 Fri
 Sat
+27
+28
+29
 30
-31
 1
 2
 3
@@ -185,25 +177,24 @@ Sat
 28
 29
 30
-1
-2
-3
-Fri, Sep. 4 - Fri, Sep. 18
-ONLINE AUCTION # 26-2931 Supplies/Tools/Equipment, Furniture/Appliances
-Fri, Sep. 18
+31
+Fri, Oct. 2
 Basic County Corrections
 For more information, please contact:
 Lt. Alatzas – (940) 349-1705 or Ari.Alatzas@dentoncounty.gov
 ...
-Mon, Sep. 21
-Basic County Corrections
-For more information, please contact:
-Lt. Alatzas – (940) 349-1705 or Ari.Alatzas@dentoncounty.gov
-...
+Fri, Oct. 2
+CPR Training (3 hours)
+Instructor: Adam Krech. For more information, please contact:
+Lt. Alatzas – (940) 349-1705 or Ari.A...
+Fri, Oct. 2
+Tactical First Aid
+Instructor: Adam Krech. For more information, please contact:
+Lt. Alatzas – (940) 349-1705 or Ari.A...
 View All Events
 /Calendar.aspx
 County Meetings
-September 2026
+October 2026
 Sun
 Mon
 Tue
@@ -211,8 +202,10 @@ Wed
 Thu
 Fri
 Sat
+27
+28
+29
 30
-31
 1
 2
 3
@@ -243,13 +236,14 @@ Sat
 28
 29
 30
-1
-2
-3
-Tue, Sep. 22
+31
+Mon, Oct. 5
 Denton County Commissioners Court Meeting
 Commissioners Court meetings are open to the public.
-Tue, Sep. 29
+Tue, Oct. 13
+Denton County Commissioners Court Meeting
+Commissioners Court meetings are open to the public.
+Tue, Oct. 20
 Denton County Commissioners Court Meeting
 Commissioners Court meetings are open to the public.
 View All Events

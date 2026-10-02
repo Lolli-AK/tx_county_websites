@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "3ced090821ede5abd30bb6bcf66a24efd9be73b572d2409f7d3ddc30c22e9c8a",
-  "text_sha256": "9de796ef77719863625c5092b36f2bba66535127d399e4c7e45504f5bdf1f3a9",
-  "byte_size": 264792,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "8007ee51ad24d60386d20d81f0750a19e28d84b1e777428990a6f76ffa22220f",
+  "text_sha256": "1e7dec7d19a49497ff96098995d812f096ea54b999dfcee4729e36e37cd6e1ef",
+  "byte_size": 266769,
   "title": "ELECTION INFORMATION & TURNOUT DATA / INFORMACION ELECTORAL Y DATOS DE PARTICIPACION",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 3
   },
   "error": null
 }

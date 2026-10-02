@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "fe058ad26593d1e04296d0a5a349e6a23ea6095dfaa909514fa8af281d73ca89",
-  "text_sha256": "0ab2041c790b1704ef969285bf3fe4efd7ec0a5df574a39bfc3aca6fe0b0cdf5",
-  "byte_size": 420309,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "b7eee8787baf689913797649288c5ec73f36d5669e9d87675598cf78566ef22a",
+  "text_sha256": "ddec5d50bcbb20366894233ab548f064834319c4171119880d3c56deae87c662",
+  "byte_size": 420724,
   "title": "Kleberg County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 14
   },
   "error": null
 }

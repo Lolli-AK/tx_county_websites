@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "a26d1b08f58779df0e368def2b81fdb8a4968b47bc9b2b8485195f0bf52f121a",
-  "text_sha256": "0630100df15364d96b89820f39793394f81170939f3e7495029a2649aaa390f8",
-  "byte_size": 52579,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "5f4508a4d60c50724e2ded0e35a77ce04d468238d5990acf6c64cef90e32825d",
+  "text_sha256": "a3189d945f8a9bded31b963fba85faf42f7a0597dc20750b26187e80e1ed8c34",
+  "byte_size": 52580,
   "title": "Jackson County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

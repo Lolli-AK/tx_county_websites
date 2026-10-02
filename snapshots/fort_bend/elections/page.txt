@@ -144,12 +144,13 @@ Indigent Health Care
 Information Technology
 Justice of the Peace
 Juvenile Probation
+Legal Civil Division
 Library
 Magistrate Court
 Mail Center
 Medical Examiner’s Office
-Parks and Recreation
 Empty title
+Parks and Recreation
 Public Defender
 Public Safety
 Public Transportation
@@ -197,6 +198,7 @@ Elections/ Voter Registration
 Elections/ Voter Registration
 Elections Commission
 Early Voting Information (Nov 3)
+Sample Ballots (Nov 3)
 Election Notices
 Voter Precinct Interactive Web Map
 Voter Registration
@@ -250,7 +252,6 @@ Home
 Government
 Departments
 Elections/ Voter Registration
-Due to the San Jacinto State Holiday, there is no voting on Tuesday, April 21, 2026. Polling locations will open again on Wednesday, April 22, 2026.
 We have received several reports that district information found on third party websites are reflecting outdated 2021-2025 district information.
 Please use the 'New Voter Precinct Interactive Web Map' and 'View my registration' for up-to-date 2026 district information.
 If you have any questions or concerns please do not hesitate to contact us at vote@fbctx.gov.

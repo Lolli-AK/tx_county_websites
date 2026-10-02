@@ -54,6 +54,7 @@ SWTC Annexation Election
 ,
 CSCISD Election
 Election Calendar
+CLICK HERE FOR SAMPLE BALLOTS
 *****************************************************************
 APPLICATION FOR BALLOT BY MAIL
 Must include a phone number, your TXDL/ID number or last 4 digits of your SS#. For any questions about a ballot by mail application, call 830-876-2323 option 5
@@ -113,11 +114,20 @@ Election Worker Application
 document seq
 0.00
 November 3, 2026 General & Special Election
-2 documents
+5 documents
 Order of Election - Southwest Texas College
 document seq
 0.00
 Order of Election - CSCISD
+document seq
+0.00
+Order of Election - Dimmit County
+document seq
+0.00
+Notice of Election - Dimmit County
+document seq
+0.00
+SAMPLE BALLOTS FOR NOV. 3, 2026 ELECTION - ALL PCTS.
 document seq
 0.00
 DONE: May 26, 2026 Primary Run-off Election & Sample Ballots

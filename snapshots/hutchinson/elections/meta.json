@@ -6,16 +6,21 @@
   "redirect_chain": [
     "https://www.co.hutchinson.tx.us/page/hutchinson.ElectionInformation"
   ],
-  "http_status": 200,
+  "http_status": 404,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "16eb095f4e5afe0ad859cfe8792fddc87723a2b86e32c3690167ce12477578f8",
-  "text_sha256": "f7f77e77cdc3f92bf549a1fdc2ab3e1cdbc97cf78279ac39ded6bf73e4292e69",
-  "byte_size": 150346,
-  "title": "Hutchinson County, Texas",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "00dfe3f1294e170ec193a20dd67f6e9a3209d90b0501fe2f73a20edec148fc4f",
+  "text_sha256": "fd89137e3487e0ce6b373d0a0e2b5dcbcb12ac40da079da6014971ba9ba91768",
+  "byte_size": 21315,
+  "title": "Not Found 404 | Hutchinson County",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

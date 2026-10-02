@@ -10,15 +10,26 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "dc4f99717b6be31ec444d91bda32ec3a38bea747694d1d6c45b111896a2f98eb",
-  "text_sha256": "c8775b76777310a0dcfefb42d4a942f3803eec9fd1e4d6c6d869aa110757297a",
-  "byte_size": 177875,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "df73c674ff98c8375b164fd17797bdbaf051ddf74dd01be49323252f8197f5a5",
+  "text_sha256": "09a26cfe3df5f793268f50a17869149327afa596a88387a40a58837c3a93f342",
+  "byte_size": 179956,
   "title": "Real County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "move_act",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 27
   },
   "error": null
 }

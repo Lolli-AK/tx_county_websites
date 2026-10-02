@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "a87d1564650982b0f5be78572a0bdc368ba396baada74b5010ad4e575dd4d4ff",
-  "text_sha256": "48c0ea63058292477d1255f075c7591c61f60edabb5c4f7105e516252aaa2f4d",
-  "byte_size": 50375,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "e8b1925be98e13b9cd317fa4fe1556483e703a99b608a65afa337d42337f8dbc",
+  "text_sha256": "47d598789c590ae6b62e6f5f8d72a1769a9fc35e2d4128b9adb501db18f5e70a",
+  "byte_size": 50364,
   "title": "Welcome to Kerr County Texas | Kerr County | Kerrville, TX",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

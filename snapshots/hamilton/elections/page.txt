@@ -65,7 +65,7 @@ Click below to find who represents you!
 ¡Haga clic a continuación para encontrar quién le representa!
 Who Represents Me? Find your Federal and State Representatives
 ¿Quién me representa? Encuentre a sus representantes federales y estatales
-Primary Election Runoff
+November 3, 2026 General Election
 Precincts Map
 ▲
 2022 Election Precincts Map
@@ -781,6 +781,7 @@ Proclamation by The Governor of Texas 2
 The Secretary of Texas Official Candidates for Senate District 22
 Notice of Drawing for a place on Ballot
 Public Notices of Public Logic and accuracy test and first test of automatic tabulating equipment
+Notice of General Election November 3 2026
 ELECTION DAY POLLING LOCATIONS -
 LUGARES DE VOTACIÓN EL DÍA DE LAS ELECCIONES
 Election Day
@@ -795,6 +796,17 @@ Hico Community Center
 100 N Railroad Avenue
 Hico, TX 76457
 Sample Ballots
+Precinct 1
+Precinct 4
+Precinct 5
+Precinct 7
+Precinct 9
+Precinct 12
+Precinct 14
+Prccinct 15
+Precinct 17
+Precinct 22
+Precinct 23
 *******************************************************************************************
 Daily Voting Rosters
 10-19-2026

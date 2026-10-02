@@ -11,12 +11,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "1589b3dd24a0aba4b707c51133d4449806974a38c35799f926ed9330dfa9b188",
-  "text_sha256": "2e8027d1dcaf5ebcb6bb4537c9a0f2738141b33aef2973b47d8c60dec509f89e",
-  "byte_size": 50452,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "188735a615c63a3d03e14855de6ebe385cc316291cbff4ee7abec0e01d6fb4c6",
+  "text_sha256": "7ca6beb154bd580bb5de030c00d6ae1b939855861f3dc29c543d8a4382432752",
+  "byte_size": 52172,
   "title": "Bowie County, TX | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

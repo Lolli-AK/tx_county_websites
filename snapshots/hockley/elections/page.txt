@@ -33,6 +33,7 @@ Juvenile Probation
 Veterans' Office
 County Library
 Indigent Healthcare
+Human Resources
 Financial Transparency
 Budgets
 Utility Reports
@@ -86,7 +87,12 @@ Notice of Voting Order Priority
 NEXT ELECTION:  2026 GENERAL ELECTION
 November 3, 2026
 Order of Election
-Notice of Logic & Accuracy Test
+Notice of Logic & Accuracy
+Polling Locations--Early Voting
+Polling Locations-Election Day
+SAMPLE BALLOT-GENERAL
+SAMPLE BALLOT-GENERAL & LEVELLAND ISD
+SAMPLE BALLOT-GENERAL & WHITHARRAL ISD
 Required Notice for Whiteface
 CISD May 2026 Bond Issue:
 Notice of Election-English

@@ -142,13 +142,33 @@ Download file
 Nov. 2026 Election
 May 26 Primary Run-off
 Mar. 3, 2026  Primary
-County Election Board Meeting 9.11.2026
+SAMPLE BALLOTS
+Precinct 101
+Precinct 102
+Precinct 102 in NISD
+Precinct 203 in ESD 2
+Precinct 203 in NISD
+Precinct 203
+Precinct 204
+Precinct 305 in City of Bandera
+Precinct 305 in ESD 1
+Precinct 305
+Precinct 306 in ESD 1
+Precinct 306
+Precinct 407 in ESD 1
+Precinct 407
+Precinct 408 in ESD 1
+Precinct 408
+Precinct 409
+Precinct 410 in ESD 1
+Precinct 410
 REQUIRED NOTICES
 Order of Election
 Order of Appointments
 Order for Signature Verification Committee
 Public Logic and Accuracy Test of Automatic Tabulating Equipment
 Public Notice of Logic and Accuracy Test of Electronic Pollbook Equipment
+County Election Board Meeting 9.11.2026
 Understanding the Process - Filling a vacancy
 Download file
 Cumulative Results-5-26-2026
@@ -188,9 +208,9 @@ iCal
 Copy iCalendar (.ics) Link
 RSS
 Copy RSS Feed Link
-September
+October
 2026
-September 2026
+October 2026
 Sun
 Mon
 Tue
@@ -198,8 +218,10 @@ Wed
 Thu
 Fri
 Sat
+27
+28
+29
 30
-31
 1
 2
 3
@@ -230,9 +252,7 @@ Sat
 28
 29
 30
-1
-2
-3
+31
 Bandera County, Texas  |  500 Main Street  |  Bandera, Texas 78003
 Staff Login
 Web Accessibility

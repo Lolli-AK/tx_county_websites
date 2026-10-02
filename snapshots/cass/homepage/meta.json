@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "44b17cb00130115aac8246d1d95422fc41b86c483e83db31dfbb192f1a25045f",
-  "text_sha256": "1b8a5328a9113d5002e4fe624e0de2d18f9a10c91d0f75b6bb8994cf0f0caef4",
-  "byte_size": 56888,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "fa375f44637b473a1e77b05dfd06f4e7c917af58186885e135b2a055d5aca229",
+  "text_sha256": "2dedc53d07c3117fc8f70ed46f6c77fe2cf5499031386c21628441130947b5fd",
+  "byte_size": 56892,
   "title": "Cass County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

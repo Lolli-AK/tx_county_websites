@@ -294,7 +294,7 @@ Request for Bids/Qualifications
 Budget
 Records Request
 Community Calendar
-September
+October
 2026
 Sunday
 S
@@ -324,8 +324,10 @@ Saturday
 S
 at
 urday
+27
+28
+29
 30
-31
 1
 2
 3
@@ -356,12 +358,10 @@ urday
 28
 29
 30
-1
-2
-3
+31
 <
-Aug
-Oct
+Sep
+Nov
 >
 More Events
 No Events in the Current Month

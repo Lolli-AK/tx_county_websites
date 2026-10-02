@@ -10,15 +10,22 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "ab9d93405b47828f2e786c4f654c7232f8539038154a5812ec3e2c097265611e",
-  "text_sha256": "6bdd759b2fe5b414c9661029fb5768f1934364565243b106119eb92ecd887e4f",
-  "byte_size": 178262,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "b480217baa5b8ae552c70826b81ac33b6129d62261119881029acefc4b0c2ee8",
+  "text_sha256": "4c894ad395c506d075274d4c7e8ca5457cd3cd40e2908829b12e61e1b1e75c54",
+  "byte_size": 178646,
   "title": "Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "181e54b59b810c727e0a9242263c29628aa41404978d719710396fb3546bc466",
-  "text_sha256": "88f09d46859ab8cc115a418f86a00d5bc92b501b2a17f596e4574856476e522b",
-  "byte_size": 28838,
-  "title": "Lynn County, Texas",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "30f91af4ae6043aee92d65fe2ed0b016e647037d48c503684c203cf9ca5f22d7",
+  "text_sha256": "7463d8cf1786bad9e6dda8220719bd1e92e9d2981344c4abaf968dcfa55cfd84",
+  "byte_size": 36600,
+  "title": "Home | Lynn County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

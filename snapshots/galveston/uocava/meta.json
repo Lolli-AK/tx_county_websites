@@ -1,0 +1,33 @@
+{
+  "county": "Galveston",
+  "page_type": "uocava",
+  "requested_url": "https://galvestonvotes.org/voter-information/military-and-overseas-voters/",
+  "final_url": "https://galvestonvotes.org/voter-information/military-and-overseas-voters/",
+  "redirect_chain": [
+    "https://galvestonvotes.org/voter-information/military-and-overseas-voters/"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "37bd68bdc48ccde2fcb370338c761e8595e2a7271ea0cacfdc38443455b9996f",
+  "text_sha256": "f8d3184ee4fc7fe62ab0684b9b10532eafd9c45bf221c425c3c97fa0d1f3c159",
+  "byte_size": 22554,
+  "title": "Military and Overseas Voters - Galveston County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 9
+  },
+  "error": null
+}

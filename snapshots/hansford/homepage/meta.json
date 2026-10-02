@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "c0e021f320abf781a6a17a58788a3e07c5e1a62e876e8512b0a3b8844a4f10c6",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "a2c08472057549e7284a1e3d947c6dc019f9c5c365619512165646b901243dbc",
   "text_sha256": "2f3fca23e81df9d6b47660868e342011b5049b9c89f550dc2a37cb98043cbb66",
-  "byte_size": 33593,
+  "byte_size": 33633,
   "title": "Hansford County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

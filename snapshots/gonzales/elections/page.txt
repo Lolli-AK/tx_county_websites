@@ -107,9 +107,9 @@ iCal
 save current view to clipboard as an .ics link
 RSS
 save current view to clipboard as an .rss link
-September
+October
 2026
-September 2026
+October 2026
 Sun
 day
 Mon
@@ -120,8 +120,10 @@ nesday
 Thu
 Fri
 Sat
+27
+28
+29
 30
-31
 1
 2
 3
@@ -152,9 +154,7 @@ Sat
 28
 29
 30
-1
-2
-3
+31
 Vote by Mail / Overseas Voters / Military Voters
 ▲
 Ballot by Mail

@@ -40,6 +40,9 @@ Summary documents and supporting materials.
 /QuickLinks.aspx
 News & Calendar
 Stay Up To Date
+History is Calling! El Paso County Seeks Commission Applicants
+The El Paso County Historical Commission is seeking applicants who are passionate about preserving, promoting, and interpreting the history and cultural heritage of El Paso County.
+View Press Release
 Commissioners Court Propose Voter-Approval Tax Rate as FY2027 Budget Ceiling
 EL PASO, TX —On Monday, August 3, the El Paso County Commissioners Court voted to propose a property tax rate of $0.504717 per $100 of taxable value for tax year 2026.
 View Press Release
@@ -47,15 +50,12 @@ Protect Your Pet This Fourth of July: El Paso County Announces Additional Free M
 Independence Day celebrations are just around the corner, and the El Paso
 County Animal Welfare Department urges pet owners to take extra precautions to protect their furry companions during fireworks festivities.
 View Press Release
-Integrated Small Business Support Program Launches for Mission Trail, Combining Marketing and Techni
-El Paso County, in partnership with Revby and EFO Media, launched a Small Business Administration (SBA) program supporting small business technical assistance and marketing funded through the support of Congresswoman Veronica Escobar.
-View Press Release
 View All News
 /CivicAlerts.aspx
 Events Calendar
 Public Meetings
 Events Calendar
-September 2026
+October 2026
 Sun
 Mon
 Tue
@@ -63,8 +63,10 @@ Wed
 Thu
 Fri
 Sat
+27
+28
+29
 30
-31
 1
 2
 3
@@ -95,14 +97,12 @@ Sat
 28
 29
 30
-1
-2
-3
+31
 There are no published events in current month.
 View All Events
 /Calendar.aspx
 Public Meetings
-September 2026
+October 2026
 Sun
 Mon
 Tue
@@ -110,8 +110,10 @@ Wed
 Thu
 Fri
 Sat
+27
+28
+29
 30
-31
 1
 2
 3
@@ -142,13 +144,8 @@ Sat
 28
 29
 30
-1
-2
-3
-Mon, Sep. 21
-Commissioners Court
-Mon, Sep. 28
-Commissioners Court
+31
+There are no published events in current month.
 View All Meetings
 /Calendar.aspx
 Contact Us

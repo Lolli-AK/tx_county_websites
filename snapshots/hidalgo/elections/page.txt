@@ -14,9 +14,9 @@ Departments
 Elections Department
 Hidalgo County Elections Department
 Registered Voters as of
-September 14, 2026
+October 1 2026
 Total
-466,557.
+468,513.
 Welcome to the Hidalgo County Elections Department! Our goal is to provide voters with impeccable, transparent and timely service for a wide variety of county, city, school, state and federal constitutional elections.
 We pride ourselves on doing our best, being responsible with taxpayer dollars and running the smoothest elections possible.
 Facebook
@@ -90,6 +90,7 @@ Hart Verity Hybrid Voting System
 Political Parties
 Texas Secretary of State
 National Voter Registration Month
+Sample Ballots 2026 General Election
 Jury Duty
 Employment
 Public Information

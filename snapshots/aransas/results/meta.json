@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "cadb6635994035fb090f78dbc29f96c9a83eefe11d54b10820eec1aa5e53828e",
-  "text_sha256": "b1f4b1662200e468e48934948e4c6cda6be02f6ba81068a73fefac6e54f3ea1b",
-  "byte_size": 24783,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "4c5dd40c7093dfad4e85671f77c9b30cce7fa98f122dd2d0506e86c678f9c4bf",
+  "text_sha256": "3361dff5a25b3ba7aee76117b740fae4b37db129b47cb8a38585f2ef66a35449",
+  "byte_size": 24961,
   "title": "Aransas County Election Results",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

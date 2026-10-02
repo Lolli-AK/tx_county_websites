@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "acf0ab4b5ef09e37c450bdec31a93eebe24028e6ab7748802a22a6f9cb95c6ea",
-  "text_sha256": "81b38d6cdd8b3b0b46e7624cef20e03f24bf98e54f3c41751bbfc9ec57c365f6",
-  "byte_size": 31973,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "9ac9da4c02e1ed9e9a93bc75159b4cdad5a41448002f1dea5acf44fb55bbb3e1",
+  "text_sha256": "7636a668d85fdc43a1d21fb6e50b7c77d9b6584f85a6e8adff64f6ff8a97b4c8",
+  "byte_size": 30896,
   "title": "Welcome to Hale County, TX",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

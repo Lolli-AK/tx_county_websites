@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "a5e812dc0ab9fcce9eb36caf40b804ce95e783c93bf96f593a06a6e8dc08153c",
-  "text_sha256": "c004306b0dbe6c98a5fafc1e5132da388e45ca6f3b16a38299a1001c12e1d261",
-  "byte_size": 74580,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "20eed86c526f0df0e61565735a0dec284e1c87877521d2f3ae8c7dfa328fcaab",
+  "text_sha256": "7fb62e2c325e6e3bb77dabf7e5969a473778e634b641547a138a1136322ca18e",
+  "byte_size": 73997,
   "title": "Voter Registration Information | Ellis County, TX Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

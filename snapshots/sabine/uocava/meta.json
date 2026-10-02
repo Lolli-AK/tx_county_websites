@@ -1,0 +1,34 @@
+{
+  "county": "Sabine",
+  "page_type": "uocava",
+  "requested_url": "https://www.co.sabine.tx.us/page/sabine.Elections%20FPCA",
+  "final_url": "https://www.co.sabine.tx.us/page/sabine.Elections%20FPCA",
+  "redirect_chain": [
+    "https://www.co.sabine.tx.us/page/sabine.Elections%20FPCA"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "e38154a873e630f3af5e1dd3c394783097e7c94950ddd2625cbacede36c33a29",
+  "text_sha256": "d77116e6d3f4903fb2af02eff9911cc27637ed9aea69caee702a4a3d837c0149",
+  "byte_size": 23988,
+  "title": "Sabine County, Texas",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 26
+  },
+  "error": null
+}

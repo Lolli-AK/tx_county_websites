@@ -2,20 +2,26 @@
   "county": "Terry",
   "page_type": "elections",
   "requested_url": "https://www.co.terry.tx.us/page/terry.elections",
-  "final_url": "https://www.co.terry.tx.us/page/terry.elections",
+  "final_url": "https://www.co.terry.tx.us/page/elections",
   "redirect_chain": [
-    "https://www.co.terry.tx.us/page/terry.elections"
+    "https://www.co.terry.tx.us/page/terry.elections",
+    "https://www.co.terry.tx.us/page/elections"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "c03f41ca02700c1147b8205ba341f8f4e26cb1ad59590ec76df68c056ab625c5",
-  "text_sha256": "13c04db1e07161bd63d6862e27ea87b72afaa0d41c59ff368aa6debd612c364a",
-  "byte_size": 26169,
-  "title": "Terry County, Texas",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "9b3ae7af7babd399291e580c378acc318fd2ddfa6d1dd86b11473d8ccf641519",
+  "text_sha256": "946da15aa059d587a85ee910181c1723bf186cd4806b13b5e0c943b7932a43c3",
+  "byte_size": 42857,
+  "title": "Elections Home | Terry County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "8d88f49fcfc86417fd21afd1b017d27a18b6f10faac06ec5cf08c6c5db64770d",
-  "text_sha256": "7ff345eddfa654503520529ca5b02a5d01fc4e03a27252629a74cda1943cd12d",
-  "byte_size": 27398,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "9e270fe729f747a618babfb3be2007d4d1eb5a947ebaed09070820426dbbdb40",
+  "text_sha256": "a8ea07048a671c804d9c388ed8becdcf2f59b0f4315e85c563ec9507b196ba58",
+  "byte_size": 28664,
   "title": "Home Page - Coke County",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

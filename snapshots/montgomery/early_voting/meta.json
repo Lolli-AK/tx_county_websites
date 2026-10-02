@@ -6,19 +6,24 @@
   "redirect_chain": [
     "https://elections.mctx.org/evPolls.asp?ELID=96&curLang=English&ElectionId=CON061326"
   ],
-  "http_status": 200,
-  "content_type": "text/html",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "140a56044c51455d331812e5fc73d80a1573fcd803ea1855f269d39d14b63307",
-  "text_sha256": "a4ac17cf08a368271c333bd35ffb9c0745768d208f445ed326e2db78f1b3d349",
-  "byte_size": 10478,
-  "title": "Montgomery County, Texas - Elections",
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
-  "error": null
+  "uocava": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)"
 }

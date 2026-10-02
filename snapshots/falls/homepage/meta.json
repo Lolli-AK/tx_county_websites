@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "bcb35da055eb5b6cad6b57551faec61a1e93efb49ef67e0c92c9907aab03c350",
-  "text_sha256": "9933a3458de7687daab87f703b5401c978607beb1e78612d63cd69894ea6dd2a",
-  "byte_size": 79549,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "552ad443fcc550897b01ee431e4a669fec0979e6cc88ee24714e1490dfbbca35",
+  "text_sha256": "643a4b43b2372cb379e68f80d90c5057db77ab0b8652a536039409cbd51d5ac6",
+  "byte_size": 79461,
   "title": "Falls County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

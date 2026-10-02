@@ -1,0 +1,33 @@
+{
+  "county": "Eastland",
+  "page_type": "uocava",
+  "requested_url": "https://www.eastlandcounty.gov/1301/Military-Overseas-Voters",
+  "final_url": "https://www.eastlandcounty.gov/1301/Military-Overseas-Voters",
+  "redirect_chain": [
+    "https://www.eastlandcounty.gov/1301/Military-Overseas-Voters"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "90c84db9df72c9da909233d51f7dd1340138685d25a7bfb5cd3e2ac9fc24c0e7",
+  "text_sha256": "12f24a38cad44effb91cc8876e6d45d921e5f2c97fabea71143c9fa7c21dc486",
+  "byte_size": 42421,
+  "title": "Military & Overseas Voters | Eastland County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 8
+  },
+  "error": null
+}

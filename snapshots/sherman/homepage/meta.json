@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "60ef00385271ed0d427204ba376cf02a1e378cf1924cb3556874ef24033bb63c",
-  "text_sha256": "099fad5a24b36a8f7e865faa3c9a24da0da2b99dc893e90cdd90a59581ad8e38",
-  "byte_size": 31555,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "cae7215052dc89a517e09d6e93615f4da8d0bd86601f2a0611ade3077957b0b3",
+  "text_sha256": "77ff4bace55c1ce633fca20798aaceb45bd7b51a20e48f11e6ddb72adf7dda3a",
+  "byte_size": 32914,
   "title": "Sherman County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

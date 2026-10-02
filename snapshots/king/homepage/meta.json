@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "dc956305552d9952bba9565b94d59aeed4763bd4e0507526813363830baeb868",
-  "text_sha256": "691993a208882b5526c49415ba0271ed94c580a0c2e53af9d82f1f290b9ad29e",
-  "byte_size": 83123,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "57cdd1a50e1d0e8580614d8b5efa85dddf50f63ef4e31c21d34b7df69f9d94cd",
+  "text_sha256": "40e943d4ae3399b555fceedd36fd4fc3e77d063ba169c5227efec5f78d0738fa",
+  "byte_size": 83650,
   "title": "King County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

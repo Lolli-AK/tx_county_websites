@@ -68,6 +68,9 @@ November 2026 Order of Election
 November 2026 Notice of Election
 List of Declared Write-In Candidates
 Public Notice of Logic & Accuracy Testing
+Sample Ballot for ALL PRECINCTS for 2026 November General Election
+Certification of Public LAT
+Hash Test Results (PASS)
 Primary Runoff Information
 Notice of Election for Primary Runoff
 Logic & Accuracy Testing Notice for Runoff

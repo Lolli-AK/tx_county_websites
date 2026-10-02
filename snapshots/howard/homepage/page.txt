@@ -27,7 +27,7 @@ Read on...
 View All News
 /CivicAlerts.aspx
 Calendar
-September 2026
+October 2026
 S
 M
 T
@@ -35,8 +35,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -67,10 +69,9 @@ S
 28
 29
 30
-1
-2
-3
-There are no published events in current month.
+31
+Mon, Oct. 12
+Columbus Day
 View All Events
 /Calendar.aspx
 Commissioner's Court

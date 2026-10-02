@@ -47,12 +47,14 @@ Permit & License Appointment
 Hotel/Motel Taxes
 Special Inventory Tax (Dealer) Forms
 Voter Registration
-About
-Register to Vote
-National Voter Registration Day 2026
-Voter Registration Search
-Voter Registration Portal
-Voter Registration Statistics
+About the Voter Registration Division
+How to Register to Vote
+Check Your Voter Registration Status
+Get a Voter Registration Application
+Voter Suspense Information
+Find a Voter Registration Event Near You
+Voter Registration Data
+Frequently Asked Questions
 Volunteer Deputy Voter Registrar
 VDVR Portal
 Calendar of Outreach Events
@@ -65,7 +67,6 @@ Name/Address Change
 Registration Cancellation
 Information Removal Request
 Information Disclosure Request
-Frequently Asked Questions
 Online Services
 Pay Tax
 Delinquent Property Tax Sales
@@ -171,7 +172,7 @@ Automobile Title/License:
 Annette Ramirez Tax Assessor-Collector & Voter Registrar
 P.O. Box 4089
 Houston, Texas 77210-4089
-Autotdmv@hctx.net
+HCAuto@tax.hctx.net
 Property Tax Payments:
 Annette Ramirez
 Tax Assessor-Collector & Voter Registrar

@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "9d048a92760a2426e94603cbbe78ae54fe6c0263f88a6bcb63e8b5b35159e310",
-  "text_sha256": "75edadb336ece9180a0cc88b946095f1ce4ba2e6395d276d618e0786875b97cb",
-  "byte_size": 36819,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "a580b8d4d801236f889da564729af2adba97fb5d4f2ab04a974102d756a5a7d9",
+  "text_sha256": "15ef897512aea9b0799c0564a465a8c5be0b30e3f3c7a4a1ba134ea42f01c190",
+  "byte_size": 36820,
   "title": "Home | Foard County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

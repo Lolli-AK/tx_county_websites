@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "db15166618efe20482a8e1b6f0b24ef43b912a43ea4f160cd36f06ac1d230dbb",
-  "text_sha256": "0b74ea7c3cac28541e0d78f7a5716a360a8a8eb9860329a6ef222552a6d93b42",
-  "byte_size": 30908,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "5dbdfd66c724bb21079f8c295c697d5bce847bf2e4665aea4a76f10b5a35e58a",
+  "text_sha256": "653965ac1742e78e5d32cf23a6a1c0384b9ddbe7a967f0dd445c207b81574274",
+  "byte_size": 31768,
   "title": "Jefferson County TX",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

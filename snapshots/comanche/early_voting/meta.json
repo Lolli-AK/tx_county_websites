@@ -10,15 +10,23 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "5bd28f097860746e14e57b1ff85625b2471f510e38e3e55fe5a7e567397ee570",
-  "text_sha256": "2f148d77c5bb7588d315a8cd00fac278d19ffa1a772e3041acfd31bc125d00f8",
-  "byte_size": 96883,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "7d9ef080956790c63a751b0586586f23ed0fcfc6027fa2b9e50cee28845a0716",
+  "text_sha256": "3d8624d1e73f1806b1caf6883c63ee843eac68ae855198b906870d79bd433d7e",
+  "byte_size": 97335,
   "title": "2026 November 3rd General Election | Comanche County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
   "error": null
 }

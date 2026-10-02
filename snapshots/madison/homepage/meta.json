@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "ee03c21611fb0457fbb181a79a5834554e547aec1d15f2146441947a7fbeadcb",
-  "text_sha256": "1e466f9a8d055dbade64dfb87791a5edc81269eb23441ef7809de60af20bfcb8",
-  "byte_size": 34069,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "34d1495e6a1ee4855fb6e5b371909dc31c838c13da6224d8e1a7ba6e661090c0",
+  "text_sha256": "c187082635540cac79e94c491e25d2a119aa879f843642c19825eb6b37572a19",
+  "byte_size": 32172,
   "title": "Madison County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

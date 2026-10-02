@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "0f78b99e3b9e37f8f5aee43a4f9f5895087f740dc0ee60bd7a7d4f0428e12321",
-  "text_sha256": "375835eda6b4c4bf8f17bc1df0ccbd7c5e282f0dfb043c02a91b863d4fcc93da",
-  "byte_size": 136299,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "e5f5bfbb4a089876d4f4fb2d2783d25e5e507f9f920e044e4276807eb64534ef",
+  "text_sha256": "e77cf96fc8904cc94b90116c0b7f39cc2a7f90f6a7e12d5865f3f219e8142ce8",
+  "byte_size": 136301,
   "title": "Jefferson County, Texas – Jefferson County, Texas Elections",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "9ef10f82828a67c0fb50458037d364e694591c15d9b2ea1b4a7f73b960dc4d68",
-  "text_sha256": "351d912b3ec4aec544970ba97e3494f77aebcdf6cf0cb044affc95806e3ca136",
-  "byte_size": 59305,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "bbac1606fa03aa855b06ec2ecdf3b51395e1e402d727d35c5f94897ad4234e63",
+  "text_sha256": "bec45767c26c709246b284f873407af9d2a35ed5e7dd11e62807a9558786c22b",
+  "byte_size": 59322,
   "title": "Elections Administration | Bee County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 1
   },
   "error": null
 }

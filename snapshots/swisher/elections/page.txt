@@ -49,8 +49,6 @@ Tulia, TX 79088
 Phone: 806-995-2363
 Fax: 806-995-2214
 m.montgomery@swishercounty.gov
-Click here for information on how to vote in Texas.
-(Haga clic aquí para obtener información sobre cómo votar en Texas..)
 11-03-2026 - GENERAL ELECTION (3 DE NOVIEMBRE DE 2026 - ELECCIÓN GENERAL)
 ▲
 Notice of Tulia Independent School District Tax Rate Election
@@ -81,6 +79,8 @@ Precinct
 Precinct
 (Precinto)
 6
+Write-In Candidates
+(Candidatos escritos)
 Sample Ballots for Voters
 outside
 Tulia ISD territory
@@ -102,13 +102,11 @@ Precinct
 Precinct
 (Precinto)
 11
-Notice of Voter Equipment Testing
+Write-In Candidates
+(Candidatos escritos)
+Notice of Public Testing of Voter Tabulating Equipment
 (
-Aviso de prueba de equipos de votación
-) -
-coming soon
-(p
-róximamente
+Aviso de prueba pública de equipos de tabulación
 )
 Notice of Electronic Pollbook Testing
 (Aviso de prueba de cuadernos de votación electrónicos) -
@@ -124,10 +122,6 @@ Aviso de reunión de la Junta Electoral del Condado
 )
 Early Voting Ballot Board and Central Counting Station (
 Junta de votacion anticipada y estacion central de escrutinio)
-- coming soon
-(p
-róximamente
-)
 Election Results (R
 esultados electorales actuales)
 - coming soon

@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "16f392565a73851b28cf7f3635a009fe720c66803c1a77518f172c73c0d2a9b0",
-  "text_sha256": "2b1d6806ba33aa52623ac8a2ac003012ceb3aa3d37583474d57eadbb6ad7bd84",
-  "byte_size": 37194,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "169ce6c1a3f49b800c69af1fe39f3f8975848c777f690921430055a00808ae2d",
+  "text_sha256": "5c5acdf48943a5b498fd7c1761b41be316e94069d003993f70bde90a60f77b00",
+  "byte_size": 40754,
   "title": "Terrell County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

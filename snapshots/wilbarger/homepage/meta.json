@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "e8ff67bfe5edf241263ecdbe89151f5eb521dd8bb2c4b4715f052093859ad932",
-  "text_sha256": "b2f0f00ddb196509715aa53937fdd9d165e8c4869b99c4c046d8b82423204e6f",
-  "byte_size": 39684,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "65c7d278db35bf62dca1e0e896ab66ebb259bab326e4a77f275eeb0f8f9b56d1",
+  "text_sha256": "9087faac5864f916b9cbd155cc3a8062457aa7ff8a3f6bb08902bfb139625c48",
+  "byte_size": 39685,
   "title": "Homepage | Wilbarger County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

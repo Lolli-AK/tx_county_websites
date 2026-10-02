@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "dda065b8d12b7ebc3f064c90e836a1a2b33b4af625c933e39fb4b7fd73c3f778",
-  "text_sha256": "4ff5edb8a1e03a6f65346d663564e20eea51d575c48d994b4f8bf4e12061087f",
-  "byte_size": 39213,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "f01bf912dbcb37defc21fdc73a066bf2203453b47dca0c5c406b979a98cd437b",
+  "text_sha256": "28a77352fddc4649fcca7894e68b6082bfdec6fadf8cfb49e0a2c75076ce1b02",
+  "byte_size": 38789,
   "title": "Fannin County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

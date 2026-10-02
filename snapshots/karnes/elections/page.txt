@@ -189,27 +189,60 @@ Early Voting Polling Location and Hours
 Election Day Polling Location & Hours
 SAMPLE BALLOTS:
 Commissioner 1
+Precinct 4
+Precinct 4 - Pawnee ISD
+Precinct 11
+Precinct 11- Karnes City ISD
+Precinct 11 - Pawnee ISD
 Commissioner 2
+Precinct 2 - Karnes City ISD
+Precinct 2 - Falls City ISD
+Precinct 6 - Karnes City ISD
+Precinct 6 - Falls City ISD
+Precinct 7 - Karnes City ISD
+Precinct 7 - Falls City ISD
+Precinct 10- Karnes City ISD
+Precinct 10 - Falls City ISD
+Precinct 12 - Karnes City ISD
+Precinct 12 - Falls City ISD
+Precinct 13 - Karnes City ISD
 Commissioner 3
+Precinct 1 - Karnes City ISD
+Precinct 3 - Karnes City ISD
+Precinct 3 - Nixon Smiley ISD
+Precinct 8
+Precinct 8 - Karnes City ISD
+Precinct 15
 Commissioner 4
+Precinct 5
+Precinct 9
+Precinct 14
 Falls City ISD
+Precinct 2 - Falls City ISD
+Precinct 6 - Falls City ISD
+Precinct 7 - Falls City ISD
+Precinct 10 - Falls City ISD
+Precinct 12 - Falls City ISD
 Karnes City ISD
+Precinct 1 -Karnes City ISD
+Precinct 2- Karnes City ISD
+P
+recinct 3-Karnes City ISD
+Precinct 6- Karnes City ISD
+Precinct 7-Karnes City ISD
+Precinct 8- Karnes City ISD
+Precinct 10- Karnes City ISD
+Precinct 11-Karnes City ISD
+Precinct 12- Karnes City ISD
+Precinct 13-Karnes City ISD
 Pawnee ISD
+Precinct
+4 - Pawnee ISD
+Precinct
+11-Pawnee ISD
 Nixon-Smiley CSD
+Precinct 3-Nixon Smiley ISD
 Certified List of Write-in Candidates
-VOTER ROSTERS:
-Ballot by Mail Roster
-CLICK
-HERE
-Early Voting Roster
-10/19/2026 10/20/2026
-10/21/2026 10/22/2026
-10/23/2026 10/24/2026
-10/25/2026 10/26/2026
-10/27/2026 10/28/2026
-10/29/2026 10/30/2026
-Election Day Roster
-11/03/2026
 RESULTS:
 UNOFFICIAL & Reconciliation
 OFFICIAL & Reconciliation
@@ -236,6 +269,7 @@ Nixon-Smiley ISD
 Pawnee ISD
 Notice of Voting Order Priority
 Public Notice of Public L & A Test and 1st Test of Automatic Tabulating Equipment
+Public Notice of Public L & A Test and Testing of Automatic Tabulating Equipment - (Rescheduled)
 Certificate of Public Logic and Accuracy Test and 1st Test of Automatic Tabulating Equipment
 Public Notice of L & A Test of E-Pollbook
 Certificate of L & A Test of E-Pollbook Testing
@@ -246,6 +280,19 @@ Notice of Delivery of Ballots Voted By Mail
 Notice of Delivery of EV Balloting Materials
 Notice of Post-Election Hand Count Audit
 Notice of Canvass
+VOTER ROSTER:
+Ballot by Mail Roster
+CLICK
+HERE
+Early Voting Roster
+10/19/2026 10/20/2026
+10/21/2026 10/22/2026
+10/23/2026 10/24/2026
+10/25/2026 10/26/2026
+10/27/2026 10/28/2026
+10/29/2026 10/30/2026
+Election Day Roster
+11/03/2026
 MAY 26, 2026 REPUBLICAN AND DEMOCRAT PRIMARY RUNOFF
 ▲
 VOTER ROSTER LINK: Click

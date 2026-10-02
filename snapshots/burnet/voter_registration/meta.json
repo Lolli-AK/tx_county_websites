@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "f6db134adf7e302a1281c88ee6e39fa7e9c7b0d90a21467ca2e5704bad1d5d85",
-  "text_sha256": "21cd89420490fc8e213aab29dd467444866411c472fe28d2383394fb0ad400bf",
-  "byte_size": 45766,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "5997648a685cf1c1d05ca3d33c13f87fa5b522f49a95bbe6ddc67b0b14d643e8",
+  "text_sha256": "918f990bb7f34315e1fc825f4c0e9492b0f2e34d8a81cb0fa60bd18a90fdbdd7",
+  "byte_size": 45662,
   "title": "Voter Registration | Burnet County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

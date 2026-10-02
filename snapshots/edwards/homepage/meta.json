@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "e3a5376224719f54d6b51c33051d662637edaff781e3bbc993ab803ef6965f84",
-  "text_sha256": "dc14ff5eea5fcaf1d8ce0b1a4bd07a45c7fe9c2f5986aa454e042422ce00224a",
-  "byte_size": 48443,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "c9af1fefcb4d309e90cb3ebdffa30b476efcf4bf936f26b244195fb5245a5169",
+  "text_sha256": "afd5b4c371f24437bb7b79e572f356e9cf06a60fd2da212c9bc962d8c3458d44",
+  "byte_size": 48365,
   "title": "Home | Edwards County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

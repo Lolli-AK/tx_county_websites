@@ -277,6 +277,9 @@ County Commissioner, Precinct 2
 County Commissioner, Precinct 4
 Justice of the Peace, Precinct 2
 Justice of the Peace, Precinct 3
+City of Granbury
+Councilperson, Place 4
+Councilperson, Place 6
 Political Signs
 Political Signs
 :

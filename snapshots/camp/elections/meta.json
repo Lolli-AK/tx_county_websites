@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "54368cba7cc77bab2ddb13eae7a56bd724718b06c125d1dd79d086d9f6811788",
-  "text_sha256": "fef49774df874ff819230ef9c7dfc0c6d91bff8411549c80f8758ba658721d8e",
-  "byte_size": 119098,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "42290ad3af14412502248576cad57dca7dc85eb79bfb101e46227cd3e4da1216",
+  "text_sha256": "3a7a40ce302540a7a29349645ad730705fb4ee4dad718d7ac0f606eeebc42919",
+  "byte_size": 119652,
   "title": "Camp County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

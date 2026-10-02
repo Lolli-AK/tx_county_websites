@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "2c1e756c73798b72cca89b5fdac678166cb1c1016bf4693099a8b94ba554824b",
-  "text_sha256": "abdec9ea8fe609f189b58e34886c3e31631b77b46fd02a97d08bf20553bdcbe9",
-  "byte_size": 35806,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "f802a37241a38060ea4cb511d9b8586e9a1eef007b09d5d865206cfeea34d170",
+  "text_sha256": "74633207e8a08697b16f31f60a8a441cf3a8a37b90e4aa44ab4ca10e8d263a00",
+  "byte_size": 36839,
   "title": "Homepage | Waller County TX",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

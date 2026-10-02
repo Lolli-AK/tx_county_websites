@@ -158,9 +158,9 @@ iCal
 Copy iCalendar (.ics) Link
 RSS
 Copy RSS Feed Link
-September
+October
 2026
-September 2026
+October 2026
 Sun
 Mon
 Tue
@@ -168,8 +168,10 @@ Wed
 Thu
 Fri
 Sat
+27
+28
+29
 30
-31
 1
 2
 3
@@ -200,9 +202,7 @@ Sat
 28
 29
 30
-1
-2
-3
+31
 Election Commission and Board
 COUNTY ELECTION BOARD (Election Code Section 51.002)
 Elections Administrator (Chair)
@@ -232,11 +232,15 @@ Order of General Election-Frio County
 ORDER of General Election For Other Political Subdivision
 -Charlotte Isd
 Public Notice of Public Logic Accuracy testing
+Certification Of Public Logic and Test
 2026 ELECTIONS NOTICES:
 JOB OPENING FOR ELECTION WORKERS
 List Of Candidates for Primary
 Notification Of Election Training Program
 CTAs for 2026 Primary Elections
+Frio County Sample Ballots for Box 1 -Box 10
+City Of Dilley Sample Ballot
+Charlotte ISD sample Ballot
 FRIO COUNTY MAPS:
 Precinct Maps
 APPLICATION FOR BALLOT BY MAIL:
@@ -266,6 +270,13 @@ October 25, 2026
 12pm to 6 pm
 October 26, 2026 - October 30, 2026
 7am to 7 pm
+PRECINCT 4:
+BOX 9 & Box 10
+Frio County Dilley Annex Building 2
+124 E Leona St.
+Dilley TX 78017
+October 28, 2026 - October 30, 2026
+7 am to 7 pm
 ELECTION DAY HOURS & LOCATIONS:
 November  Tuesday, 3, 2026
 7am to 7pm

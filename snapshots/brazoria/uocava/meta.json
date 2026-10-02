@@ -1,0 +1,33 @@
+{
+  "county": "Brazoria",
+  "page_type": "uocava",
+  "requested_url": "https://www.brazoriacountyclerktx.gov/departments/elections/vote-by-mail/military-and-overseas-voters",
+  "final_url": "https://www.brazoriacountyclerktx.gov/departments/elections/vote-by-mail/military-and-overseas-voters",
+  "redirect_chain": [
+    "https://www.brazoriacountyclerktx.gov/departments/elections/vote-by-mail/military-and-overseas-voters"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": true,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "0d8aa769abaaa4a9f9902a64c46957917aa728b1f346da6104885b70b38b4503",
+  "text_sha256": "e8b7fe54be90fc7ccfd6225ac7a984775ecf661f62c34c723da021dc9c48d4f7",
+  "byte_size": 58646,
+  "title": "Military and Overseas Voters | Brazoria County Clerk",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 14
+  },
+  "error": null
+}

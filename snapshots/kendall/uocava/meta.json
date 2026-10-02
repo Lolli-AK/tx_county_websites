@@ -1,0 +1,35 @@
+{
+  "county": "Kendall",
+  "page_type": "uocava",
+  "requested_url": "https://www.kendallcountytx.gov/217/Military-Overseas-Voters",
+  "final_url": "https://www.kendallcountytx.gov/217/Military-Overseas-Voters",
+  "redirect_chain": [
+    "https://www.kendallcountytx.gov/217/Military-Overseas-Voters"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "99223330247a81fa45ba8a0f65905f28fc796b623742d04525806386faae9f3e",
+  "text_sha256": "8c54ec354a07d8244b51519b69c1ed085124aa1feee1638ca31ff9e4aa7db8c9",
+  "byte_size": 42279,
+  "title": "Military & Overseas Voters | Kendall County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "move_act",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 30
+  },
+  "error": null
+}

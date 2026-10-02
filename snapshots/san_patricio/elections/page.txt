@@ -141,9 +141,21 @@ Election Schedule
 (Horario de Votación)
 Important Election Dates
 (Fechas electorales importantes)
+Sample Ballots
+(
+Boleta
+de muestra)
+List of Declared Write-in Candidates
+(Lista de candidatos declarados elegibles para recibir votos por inserción escrita)
 Election Workers
 Interested in helping on Election Day?
-Sign up here.
+Sign up here
+Voter Registration
+Check your
+voter registration
+Print a
+voter registration application
+Update your voter registration information online
 Victoria Pereida
 Elections Administrator
 Office Location
@@ -185,15 +197,15 @@ iCal
 Copy iCalendar (.ics) Link
 RSS
 Copy RSS Feed Link
-September
+October
 2026
-September 2026
+October 2026
 Day
 Start
 End
 Event - Description
 Action
-Tue
+Thu
 1
 San Patricio County Courthouse  |  400 W Sinton St  |  Sinton, TX 78387  |  Phone: (361) 364-9300
 HOURS: Monday - Friday: 8am - 5:00pm, Closed:  Weekends, Holidays

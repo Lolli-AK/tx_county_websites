@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
+  "fetched_at": "2026-10-02T14:18:01Z",
   "html_sha256": "9b8fb0cef1de2567e5006b2f8dbf18a7f6abf185323e954d97a500e74375821c",
   "text_sha256": "4801bc3b758a3db28cb25d84ec4073f366ecfb415c494c79d05142eb7cf5a2ce",
   "byte_size": 27650,
   "title": "Shelby County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

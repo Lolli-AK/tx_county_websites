@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "35089e6f5e7ffad00fec09d29565545748ce3f32583c0b4cf39a39e037cfbe05",
-  "text_sha256": "c2795032c50b7afb6ab311893439a23cef3ba812992a94cf6530d4c6859b17bb",
-  "byte_size": 21208,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "9d754d457479c1ce9867dc5fb67ad1043f9223d4cf98c8dff037ba9e76e74efe",
+  "text_sha256": "847e95edb1908c338a21ef2c67a4eda8ee8fbfca907f6d04a5dc7873cd31ea1a",
+  "byte_size": 21432,
   "title": "Knox County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

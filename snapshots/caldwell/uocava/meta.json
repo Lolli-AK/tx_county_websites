@@ -1,0 +1,34 @@
+{
+  "county": "Caldwell",
+  "page_type": "uocava",
+  "requested_url": "https://www.co.caldwell.tx.us/page/Elections.Ballot%20By%20Mail",
+  "final_url": "https://www.co.caldwell.tx.us/page/Elections.Ballot%20By%20Mail",
+  "redirect_chain": [
+    "https://www.co.caldwell.tx.us/page/Elections.Ballot%20By%20Mail"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "e47db823f0caa15343eb19a83e6280893a672d7b0f01cee34ca008dbbc329cd8",
+  "text_sha256": "65584b7eea823c9cfa02c92c2d41a094bb64916f7f62591ef4153ef682c4f706",
+  "byte_size": 78538,
+  "title": "Elections Ballot by Mail - Caldwell County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 30
+  },
+  "error": null
+}

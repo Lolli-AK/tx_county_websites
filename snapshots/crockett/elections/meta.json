@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "354acd4972d38897db5d1a63c8a146ca2a905a552e9bf2a8e02ec416d52a698a",
-  "text_sha256": "12228285d94f6445b7bb81899f8b0e67d7b706c53b7e9f5e638260075a9fd004",
-  "byte_size": 39137,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "8fa05d0d041d31814b3a3f6c1edba8b8df270aaee03705ff7b876f839077a66f",
+  "text_sha256": "3e1dac65339ea38617930780256fa784ae5e3e0028c189a463d0abdf02e1e758",
+  "byte_size": 40125,
   "title": "Election Notices - Crockett County",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

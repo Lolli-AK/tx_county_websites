@@ -72,14 +72,10 @@ Directory
 VOTER REGISTRATION INFORMATION
 In Zapata County, the responsibility of voter registration and election administration is separated between the Tax Assessor-Collector’s Office and the County Clerk’s office. The Zapata County Tax Assessor-Collector’s office is responsible for all voter registration functions, which include maintenance of voter registration records, voter participation lists, and district maps. Questions regarding the administration of the election can be directed to the Zapata County Clerk's Office (200 E. 7th Ave., Ste. 117, Zapata, TX 78076) at 956-765-9915
 Secretary of State Results
-2026 DEMOCRATIC & REPUBLICAN RUNOFF ELECTION--May 26, 2026
+2026 GENERAL ELECTION--November 3, 2026
 Application for Ballot by Mail
 (pdf)
-Sample Ballots/Boletas de Muestra--
-DEMOCRATIC
-/
-REPUBLICAN
-- All Precincts
+Sample Ballots/Boletas de Muestra
 ELECTION DAY POLLING PLACES:
 (7:00 A.M.--7:00 P.M.)
 Pct. 1
@@ -104,20 +100,20 @@ Pct. 4
 Precinct No. 4 Annex Bldg.
 1701 17th Ave., Zapata, TX
 EARLY VOTING POLLING PLACES:
-May 18 - 22, 2026
+October 19 - 30, 2026
 (8:00 A.M.--8:00 P.M.)
 ALL
 Zapata County Courthouse
 200 E. 7th Ave,"Bldg B", Zapata, TX
-ELECTION CALENDAR - mAY 26, 2026 RUNOFF ELECTION
+ELECTION CALENDAR - nOVEMBER 3, 2026 GENERAL ELECTION
 Last day to register to vote
-Monday, April 27, 2026
+Monday, October 5, 2026
 Early voting period
-May 18-22, 2026
+October 19-30, 2026
 Last day to apply for a ballot by mail
-May 15, 2026
+October 23, 2026
 Election Day
-Tuesday, May 26, 2026
+Tuesday, November 3, 2026
 ELECTION FAQ
 Find out if you're registered to vote
 Required ID for voting in person
@@ -130,6 +126,7 @@ NOTICES
 ▲
 Approved by the Zapata County Commissioners Court on
 April 26, 2021
+Public Notice for Public Logic & Accuracy Test and First Test of Automatic Tabulating Machine - November 3, 2026
 Summary and Certification of Post-Election Hand Count Audit Results
 Notice of Designation of Early Voting Ballot Board Members for the Post Election Hand Count Audit
 Notice of Post Election Hand County Audit

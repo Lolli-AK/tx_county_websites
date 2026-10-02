@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "965eed935cf990327674d1f426f55cc5be4e805921afef1a5bb0beebda851e65",
-  "text_sha256": "b9142ac06d8c480e167c6addb0a29c1ac5a61e54be09d5ac2a3fdf7c7abb2fb7",
-  "byte_size": 127151,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "8ba043814614077280a95cbc69ed66b94ed020ea7628bea02b2665c4c31e4e32",
+  "text_sha256": "dcd53feba549030b40921cc07014cc102ca8dfb2d9c20c127982a7e12af1becb",
+  "byte_size": 128876,
   "title": "Bexar County, TX - Official Website | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

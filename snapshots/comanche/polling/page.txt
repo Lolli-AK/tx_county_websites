@@ -146,7 +146,7 @@ Comanche County Early Voting Clerk
 215 N. Houston St.
 Comanche, Tx 76442
 Email :
-elections@comanchecountytx.gov
+[email protected]
 Phone : 325-356-4005
 Fax : 325-356-4006
 Last day to apply for a Ballot by Mail – Friday, October 23, 2026 (must be received by this day NOT postmarked)
@@ -208,6 +208,7 @@ Daily Voting Rosters
 10-28-2026
 10-29-2026
 10-30-2026
+Mail Ballots
 *******************************************************************************************
 Results
 11-3-26 Voter Check-ins

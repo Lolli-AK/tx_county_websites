@@ -159,6 +159,9 @@ NOTICES:
 Notice of General Election (Aviso de Eleccion General)
 Public Notice of Test of Automatic Tabulating Equipment (Aviso Publico de Probar el Equipo Para Tabular Automaticamente)
 Public Notice of Training for Election Judges and Clerk (Aviso Publico De Capacitacion Parajueces Y Secretarios Electorales)
+Notice of Convening of Early Voting Ballot Board (Aviso de Convocatoria de la Junta de Boletas de Votacion Anticipada)
+Notice of Delivery of Ballots Voted by Mail (Aviso de Entrega Boletas Votadas por Correo)
+Notice of Delivery of Early Voting Balloting Materials (Aviso de Entrega de Materiales Utilizados para Votacion Adelantada)
 SAMPLE BALLOTS FOR NOVEMBER 3, 2026 GENERAL ELECTION:
 Sample Ballot Precinct 102
 Sample Ballot Precinct 201

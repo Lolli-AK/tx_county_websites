@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "df799da579deacf10f7500a0265b8f23c0091caba632cf2f2b0d70971fd39fe2",
-  "text_sha256": "152310fda25b55c6c1231f7af9d640a49bdd288fddd10d063859dba8daeae49f",
-  "byte_size": 486656,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "da20d17f14b94fc38a15443c86afac6705b70145a11d331e345e3bb911599309",
+  "text_sha256": "2a0117f87f9b810ea25e70c071343ed044cf3ac29de221c737b0f18612baab02",
+  "byte_size": 488817,
   "title": "Houston County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

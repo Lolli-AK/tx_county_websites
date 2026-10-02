@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "75edae8dd10abb5d8fda6305ca53bcee6501960e15d6c6ed5caabe5e075b2698",
-  "text_sha256": "6760aedaf6ad8f832953a503fb6aee4ebb4cfff9fd58b0ba893ddcf16d3dca99",
-  "byte_size": 43036,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "5a540e38241537d853dbe7a5b779e213dc325e3f8993468d509e2436f17f1647",
+  "text_sha256": "0e33d998bdde700304dc66874bcc94feb269967197fcfba0240fc55810b872d7",
+  "byte_size": 42647,
   "title": "Fisher County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

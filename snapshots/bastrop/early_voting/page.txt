@@ -30,7 +30,7 @@ Offices Up for Election
 Election Workers
 Poll Watchers
 Voting Precinct Maps
-Results Archive
+Election Results
 Candidates/Office Holders
 Information for Candidates and Office Holders
 Elected Officials Listing
@@ -41,7 +41,7 @@ Current and Upcoming Elections
 Request a Mail Ballot
 Am I Registered?
 Mail Ballot Status
-Elections Results
+Election Night Reporting
 Early Voting Information
 Since any registered voter may vote early in person, many Texans vote early. Texas enables residents to vote in the days and weeks before an election to make the voting process more convenient and accessible. There are two ways to vote early: by showing up in person during the prescribed early voting period or by voting by mail.
 Vote Early in Person
@@ -59,15 +59,10 @@ elections@co.bastrop.tx.us
 Para Mas Información
 ¿Necesita información o ayuda en español? Por favor comuníquese con nuestra oficina al 512-581-7160.
 Voter Stats
-Registered Voters as of 09/14/2026
+Registered Voters as of 09/28/2026
 Total
-63,982
+64,850
 Mark Your Calendar
-Volunteer Deputy Registrar Training
-Thursday
-,
-October
-1st
 Last Day to Register to Vote
 Monday
 ,
@@ -113,6 +108,11 @@ Friday
 ,
 November
 27th
+County Holiday
+Thursday
+,
+December
+24th
 View More
 Connect With Us
 Sitemap

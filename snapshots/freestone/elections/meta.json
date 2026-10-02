@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "4c93fc2cda58d6a824e7cbc329a8801156d24886ddbe42a3454508d1490e17e3",
-  "text_sha256": "ef1bd63d8dab6586d7d05ff69f4ed977e94e18e838ce164496518a15b0b6f117",
-  "byte_size": 310851,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "7149a6e95933b8641b3e1ae41e2904f4524a481cf3706daa604e8199f1929000",
+  "text_sha256": "ab21e53a76f2d89f584741fcf533904ecd6d82a86fe3d605693c0826e36a2f83",
+  "byte_size": 313553,
   "title": "MAY 28, 2024 REPUBLICAN PRIMARY RUNOFF DISTRICT 10",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 1
   },
   "error": null
 }

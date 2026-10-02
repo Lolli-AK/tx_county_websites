@@ -10,15 +10,24 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "9fd8e0e2e7dbe2ba8f9f7fde8cf4534a89695c48e09c87d69f9b97db7246df46",
-  "text_sha256": "edf05c4c132282a6855634e8f08ec171f0f89c18a2981bf5d7a27d58e4c770ac",
-  "byte_size": 89836,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "c420d241a0561dd246391a48d6f371fd222e164a47532df13d80929984e65938",
+  "text_sha256": "3c1402558a205990446f2df386a0da34a0f4e2e954708070dd2a38d4e567b46d",
+  "byte_size": 92642,
   "title": "Rains County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 4
   },
   "error": null
 }

@@ -20,6 +20,7 @@ GO
 Quicklinks
 Toggle main menu visibility
 Menu
+Emergency Alerts Sign Up Page
 Home
 Departments
 336th Judicial District Court
@@ -91,7 +92,6 @@ Utility Reports
 Auditor Reports
 Weekly Bills
 Employment Opportunities
-CodeRED Alert System
 Public Information Requests
 Fannin County, Texas
 Elections Administration Office
@@ -123,15 +123,20 @@ C: 430-373-5225
 E:
 Elections@fanninco.net
 Please note:
-Local election results for city and school      elections are available on their respective websites.
+If you want to double check your voter registration, you can check online at
+votetexas.gov
+or more specifically:
+https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login
+If you aren’t in that
+system, you can file a voter registration application online, but we recommend that you file with the Fannin County Elections
+Administration Office. We process applications faster!
 OFFICE CLOSURES
 CIERRES DE LA OFICINA
-THE FANNIN COUNTY ELECTIONS OFFICE
+THE FANNIN COUNTY ELECTIONS ADMINISTRATION OFFICE
 WILL BE CLOSED FROM 12:00 TO 5:00 PM ON FRIDAY AFTERNOONS UNTIL FURTHER NOTICE.
-IT IS OUR HOPE THAT WE WILL BE RELOCTED
-BY SEPTEMBER 1, 2026
+WE HAVE RELOCTED
 TO:
-THE FANNIN COUNTY JUSTICE CENTER,  2225 N. CENTER ST., BONHAM, TX 75418
+THE FANNIN COUNTY JUSTICE CENTER,  2225 N. CENTER ST., SUITE 200, BONHAM, TX 75418
 Party Chairs - Presidentes de Partídos Políticos
 ▲
 Democratic Party Chair,
@@ -169,15 +174,15 @@ iCal
 save current view to clipboard as an .ics link
 RSS
 save current view to clipboard as an .rss link
-September
+October
 2026
-September 2026
+October 2026
 Day
 Start
 End
 Event - Description
 Action
-Tue
+Thu
 1
 Voter Registration Information - Información Sobre el Registro de Votantes
 ▲

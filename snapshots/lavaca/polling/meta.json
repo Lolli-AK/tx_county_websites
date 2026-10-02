@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "fb07ba55136a5aa2d836a1eacf47fe7cfa72facac5b8d4366d84358b6fc28c34",
-  "text_sha256": "40f61b7bb9a821f246f6dbcbcaf5b8f0d2abdd1a163f8a2e5f845ec4b1ebfb34",
-  "byte_size": 16142,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "b1940842e9d55f8f37dc4a809dd1278f912c15b3b015ed9a716d731b6b01e424",
+  "text_sha256": "b6db234c3bbb4aed9cc5b7fb488b2fbd67a8495674d7d813a881e5b59b182742",
+  "byte_size": 16298,
   "title": "Lavaca County Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

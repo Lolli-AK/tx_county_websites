@@ -9,6 +9,8 @@ Government
 Residents
 Search
 Alerts
+November 3rd, 2026 Election
+Declaring a Local State of Disaster
 Notice About 2026 Tax Rates
 Burn Ban - ON
 Notify Me®
@@ -25,7 +27,7 @@ Calendar
 Commissioners' Court
 Meetings / Events
 Commissioners' Court
-September 2026
+October 2026
 S
 M
 T
@@ -33,8 +35,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -65,21 +69,24 @@ S
 28
 29
 30
-1
-2
-3
-Tue, Sep. 22
+31
+Tue, Oct. 6
+No Court- Commissioners' Court
+No Court
+No Court- Commissioners' Court
+Read On
+Tue, Oct. 13
 Commissioners' Court
 Commissioners' Court
 Read On
-Tue, Sep. 29
+Tue, Oct. 20
 Commissioners' Court
 Commissioners' Court
 Read On
 View All Meetings
 /Calendar.aspx
 Meetings / Events
-September 2026
+October 2026
 S
 M
 T
@@ -87,8 +94,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -119,10 +128,15 @@ S
 28
 29
 30
-1
-2
-3
-There are no published events in current month.
+31
+Wed, Oct. 7
+Groundwater Management Meeting
+Groundwater Management Meeting
+Read On
+Wed, Oct. 7
+Henderson County Historical Commission Meeting
+Henderson County Historical Commission Meeting
+Read On
 View All Events
 /Calendar.aspx
 Henderson County

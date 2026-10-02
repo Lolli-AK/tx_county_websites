@@ -1,0 +1,34 @@
+{
+  "county": "McLennan",
+  "page_type": "uocava",
+  "requested_url": "https://www.mclennan.gov/1195/Military-and-Overseas-Voters-FPCAs",
+  "final_url": "https://www.mclennan.gov/1195/Military-and-Overseas-Voters-FPCAs",
+  "redirect_chain": [
+    "https://www.mclennan.gov/1195/Military-and-Overseas-Voters-FPCAs"
+  ],
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
+  "external": false,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "71ddf66ebc822e072902c2ae7c45992c74cd767a52f2086b06a39aee6acf5fe9",
+  "text_sha256": "7c315bb0ce222a20122ca9d3bd2cfcd006141346c43ea2cd2edaea8b78ba193d",
+  "byte_size": 56485,
+  "title": "Military and Overseas Voters (FPCAs) | McLennan County, TX",
+  "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 18
+  },
+  "error": null
+}

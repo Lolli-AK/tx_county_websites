@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "d1d30168ea94d079667d4db045260f2cdd378e957920717cdab5ab50c36d0a42",
-  "text_sha256": "2164a5624bd994e984cf27c28c9321315a5e9c867bbfd82c27e31547beb1a20f",
-  "byte_size": 31208,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "e30723382fe1e7b854a1efd8288756c5ef62409d4dd585b7bc902906d6ab9e31",
+  "text_sha256": "2d124f1b355e173c76ba9ef7aeaffac2b96334040a62a04fc8d1781562caf510",
+  "byte_size": 33009,
   "title": "Brewster County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 1
   },
   "error": null
 }

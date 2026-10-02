@@ -75,6 +75,7 @@ Juvenile Board Check Registers
 Treasurer’s Reports
 Truth In Taxation
 Utility Reports
+Public Information Act
 Public Notices
 Commissioners Court
 Required Postings
@@ -104,6 +105,17 @@ Where to find us:
 2026 Filing Schedule for Candidates and Officeholders Filing with the County Clerk or Elections Administrator
 Current Election Information
 November 3, 2026
+VOTER REGISTRATION CHECK & SAMPLE BALLOT SEARCH
+ENTER VOTER INFORMATION
+Enter your date of birth and the house number of the address where you are registered. For instance, if your address is 123 Main Street, enter
+123
+for your House Number.
+Date of Birth (MM/DD/YYYY):
+House Number:
+Check Registration & Find Sample Ballot
+Sample Ballots
+Public Notice of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+Certification of Public Logic and Accuract Test and First Test of Automatic Tabulating Equipment
 Notice of Election – Atascosa County
 Order of Election – Atascosa County
 Order of Election – City of Jourdanton
@@ -112,11 +124,19 @@ Notice of Bond Election – Karnes City ISD –
 English
 /
 Spanish
+Notice of Bond Election – Karnes City ISD
 Order/Notice of Election – Somerset ISD
+(
+Addendum
+) (
+Replacement
+)
 Order of Election – Jourdanton ISD
 Order of Election – Charlotte ISD
 Order of Election – City of Christine
+Notice of Election – City of Christine
 Order of Cancellation for SMD #1 & SMD #2 – Somerset ISD
+Declaration of Unopposed Candidates – Edwards Aquifer Authority
 Certification of Unopposed Candidates & Notice of Drawing for Place on Ballot – Somerset ISD
 Certification of Unopposed Candidate – Edwards Aquifer Authority
 Notice of Deadline to File Applications for Place on the Ballot – Somerset ISD

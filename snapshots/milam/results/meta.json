@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
+  "fetched_at": "2026-10-02T14:18:01Z",
   "html_sha256": "fe263319380f48f5a915964dada2491894ad212de229402c34631ab6a13c565b",
   "text_sha256": "aa61b4b0f3190a47a2bc4219d15e3eab0388b3b4fa9ecb6d57a22311d068a57a",
   "byte_size": 75664,
   "title": "Milam County, TX",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

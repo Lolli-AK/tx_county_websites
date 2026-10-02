@@ -10,15 +10,23 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "3d2feff72f148a4615780884f3100e7625f8fa362ba5548bc19e5dbef2258799",
-  "text_sha256": "4dd98919a7ec562a326cc65cbfdb7387ca95c2cfe9725e737c0b1e27417b7e42",
-  "byte_size": 111738,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "f6e661c34ecb6d8b8fd7a097888926f692a707e9502aade292c6eac6bc21d264",
+  "text_sha256": "f0cfabe85d9dae7313fe31a8ea38ad3c2e8957b823d405c8ba0fe524382337a7",
+  "byte_size": 111730,
   "title": "San Saba County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 20
   },
   "error": null
 }

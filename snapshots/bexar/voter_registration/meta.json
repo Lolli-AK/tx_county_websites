@@ -10,15 +10,22 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "e73d344e38bd4bcf06f8415f0283317d65dfc74f3751f216afda9d70fc412c7a",
-  "text_sha256": "ee2d4c07a25a27f1b64c9c9ceccd94312ed9c4aecec9ccdd6d9fc1ad7966ecf1",
-  "byte_size": 48885,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "2857b06e614e184f6769b5861eda76f75c35375769ceea9233e08970f23670be",
+  "text_sha256": "52d0911f34d85432223895a7cdf177e24bbb4306c8ecaf17c0a889e74323b8e6",
+  "byte_size": 48909,
   "title": "Register to Vote & Registration Changes | Bexar County Elections, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

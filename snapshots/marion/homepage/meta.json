@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
+  "fetched_at": "2026-10-02T14:18:01Z",
   "html_sha256": "edc18ff65794b2af839226ee41aa1b344acd36753e271989888775ea371813d2",
   "text_sha256": "ae37a76b633a4925e454325d0c9bc0ca085aa49581f218f98a3858f26412412c",
   "byte_size": 40477,
   "title": "Home Page - Marion County",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

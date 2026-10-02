@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "736701454b1029b0c883b475c17677e8f112c08487db45f72c3e0b90ad8ff4fb",
-  "text_sha256": "dc09209f3ec60a6f2e6128dbcdf3ac7ed297e888d997a2527e50716f14a86275",
-  "byte_size": 70644,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "5f4e50e77451f6a2d422ea99bb4e4fe8757e6ac4ee2412105061ccfc63611357",
+  "text_sha256": "d067ca15994c57c2b06d88212c7e9199380c94b5fe8938312b8be06a7b7e8918",
+  "byte_size": 69444,
   "title": "Bee County, TX | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

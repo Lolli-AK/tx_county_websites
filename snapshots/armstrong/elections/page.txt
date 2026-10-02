@@ -227,6 +227,19 @@ TEXAS ELECTION NIGHT RESULTS
 https://goelect.txelections.civixapps.com/ivis-enr-ui/races
 2026 Election Information -
 ▲
+NOVEMBER 3, 2026 GENERAL ELECTION SAMPLE BALLOTS
+▲
+PRECINCT 101 COUNTY / CISD
+PRECINCT 201 COUNTY / CISD
+PRECINCT 202 COUNTY / CISD
+PRECINCT 202 COUNTY / GISD (GROOM)
+PRECINCT 202 COUNTY ONLY
+PRECINCT 301 COUNTY / CISD
+PRECINCT 303 COUNTY ONLY
+PRECINCT 303 COUNTY / CISD
+PRECINCT 401 COUNTY / CISD
+PRECINCT 402 COUNTY / CISD
+PRECINCT 404 COUNTY / CISD
 November 03, 2026 General Election
 ▲
 Last day to register to vote in the November 3, 2026 General Election is Monday Oct. 5, 2026
@@ -275,6 +288,8 @@ Order Of Election -  November General Election For County Officers
 Notification Of Election Training program
 Notice Of Combined Precincts
 List Of Declarred Write-In Candidates
+Public Notice Of Public Logic And Accuracy Test and First Test Of Automatic Tabulating Equipment
+Certification Of Public Logic And Accuracy Test And First Test Of Automatic Tabulating Equipment
 Voter Information ***********************
 Voter Registration Information
 ▲

@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "bfad1b8cde4ed23576287a6327ee0f8c0a7f974a6437c1571f5f96742255b0a8",
-  "text_sha256": "dfacac9ef0af61ca08b97d3f1f362726efef9d39457c1ca9e36f3b645bedeacf",
-  "byte_size": 33992,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "18bbf9f41ec7ff130bd055c4bb7b68e941ad122114a7dc5d9647012f48f38df6",
+  "text_sha256": "0e54a7b254bfec1d770eab91bbd01e0ae2b3fe230ce771ca23118c6c0f45b4dc",
+  "byte_size": 33921,
   "title": "Real County, Texas",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

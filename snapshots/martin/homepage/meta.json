@@ -10,12 +10,17 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "f77741c60ce88bc6c7a793ea35d93ece236139f0851ebe006eb552921f562317",
-  "text_sha256": "ddbf0249d8ee9281c52d90b5bae7e0f90e17f61ced4bd7835ad2aa5a4405dc60",
-  "byte_size": 61781,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "00d06658a3e310fb3b8c81545bc1de6b05b106fc006c3902b8901c43f26ddf5f",
+  "text_sha256": "87871622d7fb05998d8acd20477ce110d6cc176dc97df838aca00d175845e8f2",
+  "byte_size": 61770,
   "title": "Martin County | Official Website",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

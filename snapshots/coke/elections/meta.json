@@ -10,15 +10,23 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "b6d8a1929eb3a0c98d973ec6993bcbdc8cc67103fa840e5ab04988d1ea500dbf",
-  "text_sha256": "232c0554e23887b43ba8bb98934e604e345101635322ab053e114764900cab70",
-  "byte_size": 133728,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "09cdbfaaec8a5d4040ff8dc2a087a9c06f03101fe6d37c29585a862bd1ac1941",
+  "text_sha256": "e6e55fd43745cfb03ad10093af4b107ba3fd14f4cc1d1da562864256035771a3",
+  "byte_size": 134197,
   "title": "Elections - Coke County",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 5
   },
   "error": null
 }

@@ -10,6 +10,7 @@ Toggle main menu visibility
 Menu
 About
 2025-2026 Holiday Schedule
+2026-2027 County Holiday Schedule
 Permits, Regulations & Applications
 Redistricting Maps & Information
 County Hazard Mitigation Action Plan
@@ -102,7 +103,7 @@ Christmas
 : Thursday, December 24 - Friday, December 25
 Calendar and Events
 Connections and Dates That Matter
-September, 2026
+October, 2026
 S
 M
 T
@@ -110,8 +111,10 @@ W
 T
 F
 S
+27
+28
+29
 30
-31
 1
 2
 3
@@ -142,9 +145,7 @@ S
 28
 29
 30
-1
-2
-3
+31
 Commissioners Court Calendar
 District Court Calendar
 Upcoming Events

@@ -10,15 +10,25 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "38bbd00ce0085b9fb31c8b9a7bcb23320d9f1f36d52efa5cc5795daba028eee3",
-  "text_sha256": "c48ac634cc3e86526cf004451d435685295d1791e16f2ba807b54585b1427ba2",
-  "byte_size": 140760,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "f568d06843f4ea6881560ad54115feefb5b5ba2850f5c8ee9b3442af2a049953",
+  "text_sha256": "14f005b00bbd440574fa4c6e221081e1072710930654461fa13e5fbdc3ac125e",
+  "byte_size": 139217,
   "title": "Crane County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 6
   },
   "error": null
 }

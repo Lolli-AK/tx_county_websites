@@ -12,12 +12,17 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "d8b60e58091146669e9a8b798b7d4363c772dd44b124b460e7c20cbcf77b63bf",
-  "text_sha256": "d51fe292dde984aef6dd528974eac5225d93230968657e9143217011cecd8e88",
-  "byte_size": 171685,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "aa2d26a51c6a8cacec78d4d15a7d131bb88dd6545c35bc808bc25da8afb751a7",
+  "text_sha256": "ffeacd4f9758893e5496227392fae7d36c519a00425c77ca3a28da1345899e7a",
+  "byte_size": 171933,
   "title": "Tarrant County - Home",
   "noncitizen_voting": {
+    "present": false,
+    "terms": [],
+    "count": 0
+  },
+  "uocava": {
     "present": false,
     "terms": [],
     "count": 0

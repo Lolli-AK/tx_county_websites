@@ -10,15 +10,25 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-09-18T12:25:06Z",
-  "html_sha256": "0e31fe1e29ef4d7e9db32f4611ff2c8f290a9346ff54d5345eb6554bd3e16993",
-  "text_sha256": "c62b100ed8302c11cc0fd101f3e737a1af2363bfeca58d7b595b8707b6bbc6da",
-  "byte_size": 146955,
+  "fetched_at": "2026-10-02T14:18:01Z",
+  "html_sha256": "13f2b82aeb3ece8e60050b845850c90bdaa59b0cf4871b3e8f2ed49ec65ffa2d",
+  "text_sha256": "f54afab37c025a1d950f57e8cd2cefd061f84eff11fa545599115ac3af14d3ed",
+  "byte_size": 148948,
   "title": "Carson County, TX - Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
+  },
+  "uocava": {
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 14
   },
   "error": null
 }
