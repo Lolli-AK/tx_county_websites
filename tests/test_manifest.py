@@ -24,8 +24,11 @@ SNAPSHOTS = ROOT / "snapshots"
 TEXAS_COUNTY_COUNT = 254
 # voter_registration was added after the other five were already snapshotting;
 # it is where citizenship language lives, which the other five never carry.
+# uocava was added seventh on the same argument: military-and-overseas material
+# lives on its own page, and the counties that publish one are mostly not the
+# ones whose other six pages mention it.
 PAGE_TYPES = ["homepage", "elections", "voter_registration", "polling",
-              "early_voting", "results"]
+              "early_voting", "results", "uocava"]
 BATCHES = {"1", "2", "3"}
 
 

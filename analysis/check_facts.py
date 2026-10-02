@@ -88,6 +88,37 @@ ABBR = {"jan": 1, "feb": 2, "mar": 3, "apr": 4, "jun": 6, "jul": 7, "aug": 8,
 
 DATE_RE = re.compile(rf"\b({MON_RE})\.?\s+(\d{{1,2}})(?:st|nd|rd|th)?,?\s+(\d{{4}})\b", re.I)
 NUMDATE_RE = re.compile(r"\b(\d{1,2})/(\d{1,2})/(\d{4})\b")
+
+# A date RANGE elides the repeated parts: the year, and often the month, appear
+# only on the LAST endpoint ("October 19 - 30, 2026"). DATE_RE requires
+# month+day+year adjacent, so it saw ONE endpoint or none, and this check needs a
+# PAIR -- which is how a page literally reading "Early voting October 19 - 30,
+# 2026" was recorded as "no date pair near early-voting language".
+#
+# Deliberately ONE regex, so the whole range must be contiguous. Letting a year
+# reach backwards across a sentence would invent windows out of unrelated dates
+# ("Register by October 5. Early voting ends October 30, 2026").
+_RANGE_SEP = r"(?:-|–|—|\bto\b|\bthrough\b|\bthru\b|\buntil\b|\btill\b)"
+DATE_RANGE_RE = re.compile(
+    rf"\b({MON_RE})\.?\s+(\d{{1,2}})(?:st|nd|rd|th)?\s*{_RANGE_SEP}\s*"
+    rf"(?:({MON_RE})\.?\s+)?(\d{{1,2}})(?:st|nd|rd|th)?,?\s+(\d{{4}})\b", re.I)
+NUMRANGE_RE = re.compile(
+    rf"\b(\d{{1,2}})/(\d{{1,2}})\s*{_RANGE_SEP}\s*(\d{{1,2}})/(\d{{1,2}})/(\d{{4}})\b")
+
+# A BARE date omits the year entirely ("Register by October 5", "Early voting
+# October 19-30"). To a reader that is a complete claim, because the year is
+# established elsewhere on the page; to a month+day+year regex it is invisible.
+# This was a larger recall hole than the range elision it sits next to.
+#
+# The year is RESOLVED, never guessed: a bare date is emitted only when the
+# surrounding text pins exactly ONE year, or the caller supplies a hint. Text
+# carrying two years is ambiguous and yields nothing, so a 2024 archive link
+# cannot drag an undated deadline into the current cycle.
+BARE_RANGE_RE = re.compile(
+    rf"\b({MON_RE})\.?\s+(\d{{1,2}})(?:st|nd|rd|th)?\s*{_RANGE_SEP}\s*"
+    rf"(?:({MON_RE})\.?\s+)?(\d{{1,2}})(?:st|nd|rd|th)?\b", re.I)
+BARE_DATE_RE = re.compile(rf"\b({MON_RE})\.?\s+(\d{{1,2}})(?:st|nd|rd|th)?\b", re.I)
+YEAR_RE = re.compile(r"\b(20\d{2})\b")
 TIME_RANGE_RE = re.compile(
     r"\b(\d{1,2})(?::(\d{2}))?\s*([ap])\.?\s*m\.?\s*(?:-|–|—|to|until|till|thru|through)\s*"
     r"(\d{1,2})(?::(\d{2}))?\s*([ap])\.?\s*m\.?", re.I)
@@ -109,6 +140,17 @@ LOCAL_ELECTION_CTX = re.compile(
     r"\b(?:city of|municipal|school district|isd\b|utility district|mud\b|"
     r"water district|special election|bond election|runoff for|charter)\b", re.I)
 
+# A line that NAMES election day (or the general-election date) is unambiguous
+# on its face. The vetoes below exist to stop AMBIGUOUS hours being read as
+# election-day hours; applied to a self-identifying line they only destroy
+# recall. A census of all 202 "never states polling hours" counties found 10
+# that state the statutory 7-7 in so many words: 6 lost to the early_voting
+# page-type skip (counties routinely put an "Election Day" block on that page),
+# 3 to an EV_CTX veto firing on an adjacent nav label ("Early Voting Reports"),
+# and 1 to POLL_CTX not recognising "General Election Tuesday 11/03/2026".
+ELECTION_DAY_LINE = re.compile(
+    r"\belection\s*day\b|\bnovember\s+3(?:rd)?,?\s*2026\b|\b11/0?3/2026\b", re.I)
+
 REG_CTX = re.compile(
     r"(?:last day|deadline|final day|must (?:be )?register|register(?:ed)? by|"
     r"registration deadline|last day to register)", re.I)
@@ -118,18 +160,79 @@ ELECTION_DAY_CTX = re.compile(
     r"upcoming election|november \d{1,2},? 2026", re.I)
 
 
-def parse_dates(text: str) -> list[tuple[int, int, int]]:
+def _mon_num(tok: str) -> int | None:
+    mon = tok.lower().rstrip(".")
+    return MONTHS.get(mon) or ABBR.get(mon)
+
+
+def _mask(text: str, regexes) -> str:
+    """Blank out spans already consumed, preserving offsets."""
+    chars = list(text)
+    for rx in regexes:
+        for m in rx.finditer(text):
+            for i in range(m.start(), m.end()):
+                chars[i] = " "
+    return "".join(chars)
+
+
+def _resolve_year(text: str, year_hint: int | None) -> int | None:
+    years = {int(y) for y in YEAR_RE.findall(text)}
+    if len(years) == 1:
+        return years.pop()
+    return year_hint            # ambiguous or absent: only an explicit hint
+
+
+def parse_dates(text: str, year_hint: int | None = None) -> list[tuple[int, int, int]]:
     out = []
+    # Ranges first: their endpoints are invisible to DATE_RE. The trailing
+    # endpoint is usually a complete date and so is found twice -- hence the
+    # de-duplication below, which matters because callers test len(dates) >= 2
+    # and a double-counted single date would read as a pair.
+    for m in DATE_RANGE_RE.finditer(text):
+        m1, d1, m2, d2, y = m.groups()
+        mm1 = _mon_num(m1)
+        mm2 = _mon_num(m2) if m2 else mm1
+        if mm1 and mm2:
+            out.append((int(y), mm1, int(d1)))
+            out.append((int(y), mm2, int(d2)))
+    for m in NUMRANGE_RE.finditer(text):
+        a1, b1, a2, b2, y = (int(g) for g in m.groups())
+        if 1 <= a1 <= 12 and 1 <= b1 <= 31 and 1 <= a2 <= 12 and 1 <= b2 <= 31:
+            out.append((y, a1, b1))
+            out.append((y, a2, b2))
     for m in DATE_RE.finditer(text):
-        mon = m.group(1).lower().rstrip(".")
-        mm = MONTHS.get(mon) or ABBR.get(mon)
+        mm = _mon_num(m.group(1))
         if mm:
             out.append((int(m.group(3)), mm, int(m.group(2))))
     for m in NUMDATE_RE.finditer(text):
         a, b, y = int(m.group(1)), int(m.group(2)), int(m.group(3))
         if 1 <= a <= 12 and 1 <= b <= 31:
             out.append((y, a, b))
-    return out
+
+    # Bare dates last, over the text with every year-bearing match blanked out,
+    # so a complete date is never re-read as a yearless one.
+    year = _resolve_year(text, year_hint)
+    if year:
+        masked = _mask(text, (DATE_RANGE_RE, NUMRANGE_RE, DATE_RE, NUMDATE_RE))
+        for m in BARE_RANGE_RE.finditer(masked):
+            m1, d1, m2, d2 = m.groups()
+            mm1 = _mon_num(m1)
+            mm2 = _mon_num(m2) if m2 else mm1
+            if mm1 and mm2:
+                out.append((year, mm1, int(d1)))
+                out.append((year, mm2, int(d2)))
+        masked = _mask(masked, (BARE_RANGE_RE,))
+        for m in BARE_DATE_RE.finditer(masked):
+            mm = _mon_num(m.group(1))
+            if mm:
+                out.append((year, mm, int(m.group(2))))
+
+    seen, uniq = set(), []
+    for d in out:
+        if d not in seen:
+            seen.add(d)
+            uniq.append(d)
+    return uniq
 
 
 def parse_time_ranges(text: str) -> list[tuple[int, int, str]]:
@@ -155,30 +258,85 @@ def load_pages(county: str) -> list[tuple[str, list[str]]]:
     return pages
 
 
+def evidence(lines: list[str], i: int, want, before: int = 2, after: int = 2) -> str:
+    """The line that actually states `want`, not merely the line we were on.
+
+    Dates are parsed from a context WINDOW, so the line under the cursor is
+    often a fragment of markup - snapshots recorded "**********", "rd" and a
+    bare "\u25b2" as the evidence for real, correct date matches. Auditing the
+    output by hand was impossible until this looked for the right line.
+    """
+    lo, hi = max(0, i - before), min(len(lines), i + after + 1)
+    for j in list(range(i, hi)) + list(range(lo, i)):
+        ln = lines[j].strip()
+        if ln and want in parse_dates(ln, want[0]):
+            return ln
+    return lines[i].strip()
+
+
 def window(lines: list[str], i: int, before: int = 2, after: int = 2) -> str:
     return " ".join(lines[max(0, i - before): i + after + 1])
 
 
 # ---------------------------------------------------------------- checks
+OPEN_CLOSE_RE = re.compile(
+    r"open\w*[^.]{0,40}?(\d{1,2})(?::(\d{2}))?\s*([ap])\.?\s*m\.?[^.]{0,40}?"
+    r"clos\w+[^.]{0,30}?(\d{1,2})(?::(\d{2}))?\s*([ap])\.?\s*m\.?", re.I)
+
+
+def _open_close(line: str) -> list[tuple[int, int, str]]:
+    """"Polls will open at 7 am and close at 7 pm" states a range without ever
+    writing one; TIME_RANGE_RE needs a dash or a "to" and so saw nothing."""
+    out = []
+    for m in OPEN_CLOSE_RE.finditer(line):
+        h1, ap1, h2, ap2 = int(m.group(1)), m.group(3).lower(), int(m.group(4)), m.group(6).lower()
+        out.append(((h1 % 12) + (12 if ap1 == "p" else 0),
+                    (h2 % 12) + (12 if ap2 == "p" else 0), m.group(0)))
+    return out
+
+
 def check_polling_hours(pages):
     """Election-day poll hours only. Returns (verdict, evidence, why)."""
     judged = []
+    exp = EXPECTED["polling_hours"]
     for ptype, lines in pages:
-        if ptype == "early_voting":
-            continue                     # defence 2: wrong voting mode entirely
         for i, ln in enumerate(lines):
-            ranges = parse_time_ranges(ln)
+            ranges = parse_time_ranges(ln) or _open_close(ln)
             if not ranges:
                 continue
+            # The vetoes are bypassed ONLY for the statutory value on a line
+            # that names election day. A DIFFERING value still has to earn its
+            # way past every defence, so an 8-5 early-voting row cannot slip in.
+            # +/-1 line, because markup splits these constantly: Cherokee's
+            # "7AM to 7PM" sits alone under "Tuesday 11/03/2026". The EV test
+            # stays LINE-scoped, so a 7-7 row in an early-voting day table
+            # cannot borrow an "Election Day" heading from its neighbour.
+            # Naming election day ON THE LINE settles it: Brazos writes "On
+            # election day, polls are open 7 a.m. - 7 p.m." in a sentence that
+            # also mentions the early voting period. Borrowing the name from a
+            # NEIGHBOUR is weaker, so that path additionally requires the whole
+            # +/-1 window to be free of early-voting talk - otherwise Freestone's
+            # early-voting 7-7 row is captured by the "ELECTION DAY HOURS:"
+            # heading sitting on the next line.
+            win = window(lines, i, 1, 1)
+            named = bool(ELECTION_DAY_LINE.search(ln)) or bool(
+                ELECTION_DAY_LINE.search(win)
+                and not EV_CTX.search(win) and not EV_CTX.search(ln))
+            plain = (named
+                     and any((o, c) == (exp["open"], exp["close"])
+                             for o, c, _ in ranges))
+            if ptype == "early_voting" and not plain:
+                continue                 # defence 2: wrong voting mode entirely
             ctx = window(lines, i)
-            if BUSINESS_CTX.search(ctx):                 # defence 1
-                continue
-            if EV_CTX.search(ctx):                       # defence 2
-                continue
-            if LOCAL_ELECTION_CTX.search(ctx):           # defence 3
-                continue
-            if not POLL_CTX.search(ctx):
-                continue                 # no poll-open context: not a claim
+            if not plain:
+                if BUSINESS_CTX.search(ctx):             # defence 1
+                    continue
+                if EV_CTX.search(ctx):                   # defence 2
+                    continue
+                if LOCAL_ELECTION_CTX.search(ctx):       # defence 3
+                    continue
+                if not POLL_CTX.search(ctx):
+                    continue             # no poll-open context: not a claim
             for o, c, raw in ranges:
                 # A sub-4-hour window is a meeting, a lunch closure or a single
                 # site's slot - never a statewide poll day. Coke's "12:00pm-1:00pm".
@@ -187,7 +345,6 @@ def check_polling_hours(pages):
                 judged.append((o, c, raw, ptype, ln, ctx))
     if not judged:
         return "Never states it", "", "no line with poll-open context and a time range"
-    exp = EXPECTED["polling_hours"]
 
     # ASYMMETRIC BURDEN OF PROOF. A statement of the statutory hours is accepted
     # wherever it appears with poll context - it needs no disambiguation, since
@@ -223,15 +380,17 @@ def check_election_date(pages):
     seen = []
     for ptype, lines in pages:
         for i, ln in enumerate(lines):
-            ds = parse_dates(ln)
-            if not ds:
-                continue
             ctx = window(lines, i)
             if not ELECTION_DAY_CTX.search(ctx):
                 continue
+            # The line may carry a bare "November 3"; the year is on a neighbour.
+            ds = parse_dates(ln, _resolve_year(ctx, None))
+            if not ds:
+                continue
             for d in ds:
                 if d == exp:
-                    return "Matches expected", f"[{ptype}] {ln[:110]}", f"{d}"
+                    return ("Matches expected",
+                            f"[{ptype}] {evidence(lines, i, d)[:110]}", f"{d}")
                 # only future statewide-plausible dates count as a competing claim
                 if d[0] >= 2026 and not LOCAL_ELECTION_CTX.search(ctx):
                     seen.append((d, ptype, ln))
@@ -253,9 +412,11 @@ def check_registration_deadline(pages):
             ctx = window(lines, i)
             if not (REG_TOPIC.search(ctx) and REG_CTX.search(ctx)):
                 continue
-            for d in parse_dates(ln) or parse_dates(ctx):
+            yh = _resolve_year(ctx, None)
+            for d in parse_dates(ln, yh) or parse_dates(ctx, yh):
                 if d == exp:
-                    return "Matches expected", f"[{ptype}] {ln[:110]}", f"{d}"
+                    return ("Matches expected",
+                            f"[{ptype}] {evidence(lines, i, d)[:110]}", f"{d}")
                 if d[0] >= 2026:
                     seen.append((d, ptype, ln))
     if seen:
@@ -270,7 +431,7 @@ def check_registration_deadline(pages):
 
 def check_early_voting_window(pages):
     start_exp, end_exp = EXPECTED["early_voting_window"]
-    seen = []
+    seen, partial = [], False
     for ptype, lines in pages:
         for i, ln in enumerate(lines):
             ctx = window(lines, i, 1, 3)
@@ -280,12 +441,22 @@ def check_early_voting_window(pages):
             if len(ds) < 2:
                 continue
             if start_exp in ds and end_exp in ds:
-                return "Matches expected", f"[{ptype}] {ln[:110]}", f"{start_exp}..{end_exp}"
+                return ("Matches expected",
+                        f"[{ptype}] {evidence(lines, i, start_exp, 1, 3)[:110]}",
+                        f"{start_exp}..{end_exp}")
             # Only a claim ABOUT THE NOVEMBER WINDOW counts as a competing
             # value. Texas ran a March primary, a May uniform election, a May
             # runoff and June runoffs in 2026, and every one of those publishes
             # its own early-voting dates; treating those as a wrong November
             # window produced 82 spurious flags on the first pass.
+            # A county that lists early-voting days ONE PER LINE states no
+            # window at all; the window's endpoints never share a context
+            # window. Every date being inside Oct 19-30 is agreement with the
+            # expected window, not a competing claim about it - reporting
+            # "states Oct 19..Oct 23" as a conflict was wrong on 11 counties.
+            if all(start_exp <= d <= end_exp for d in ds):
+                partial = True
+                continue
             in_oct = [d for d in ds if d[0] == 2026 and d[1] == 10]
             names_general = EXPECTED["election_date"] in ds or re.search(
                 r"november\s+3,?\s+2026|general election", ctx, re.I)
@@ -299,6 +470,9 @@ def check_early_voting_window(pages):
                    f"states {ds}, expected {start_exp}..{end_exp}"
         ds, ptype, ln = max(seen, key=lambda x: max(x[0]))
         return STALE, f"[{ptype}] {ln[:110]}", f"latest window stated is {ds}, already past"
+    if partial:
+        return ("Never states it", "",
+                "lists days inside the expected window but never states it")
     return "Never states it", "", "no date pair near early-voting language"
 
 

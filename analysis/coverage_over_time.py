@@ -27,11 +27,24 @@ import check_facts as cf                                    # noqa: E402
 
 OUT = ROOT / "analysis" / "output"
 
-# Roughly weekly across the 756-target era. The two 381-target runs on 07-29 are
-# excluded: a different manifest scope is not comparable.
-COMMITS = ["44063a9e", "8e9d784d", "3a856395", "d021fbdf",
-           "cb5e70c69", "c92ed8a15", "fba0768b6", "5aee6dddf",
-           "2bc697f5f", "3be83ac67", "2a01e26ea"]
+# Every snapshot run in the 756-target era, oldest first, discovered from the
+# commit series rather than pinned. A hardcoded list silently freezes the series
+# at whatever date it was written -- this one had stopped at 2026-08-20 while
+# three more weeks of runs accumulated. Runs at a different manifest scope (the
+# 381-target era) are excluded: a different denominator is not comparable.
+TARGET_SCOPE = "(756 targets)"
+
+
+def discover_commits() -> list[str]:
+    out = subprocess.run(
+        ["git", "--no-optional-locks", "log", "--format=%H\t%s", "--", "snapshots"],
+        cwd=ROOT, capture_output=True, text=True).stdout
+    found = []
+    for line in out.splitlines():
+        sha, _, subject = line.partition("\t")
+        if subject.startswith("snapshot run") and TARGET_SCOPE in subject:
+            found.append(sha)
+    return list(reversed(found))  # oldest first
 
 
 def git(*a) -> str:
@@ -77,7 +90,7 @@ def main() -> None:
     rows = []
     with tempfile.TemporaryDirectory(prefix="txhist-") as tmp:
         work = Path(tmp)
-        for c in COMMITS:
+        for c in discover_commits():
             d = git("log", "-1", "--format=%ad", "--date=format:%Y-%m-%d", c).strip()
             t = run_at(c, work)
             t.update({"commit": c, "run_date": d})
