@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-02T14:18:01Z",
-  "html_sha256": "c11edc61e00b893164e3bd5ea9768c0cc0426e19076634365575bb6251452a09",
+  "fetched_at": "2026-10-03T12:48:03Z",
+  "html_sha256": "8026082a4912b8f43343a4b047d72944fa4d59f54c3d49bf3cfdfa47b408a817",
   "text_sha256": "0ac087d93e740c92e4d47cedb31356d58d372bfedc251c2f3ec2dab82828908c",
-  "byte_size": 56882,
+  "byte_size": 57356,
   "title": "Elections | Medina County TX",
   "noncitizen_voting": {
     "present": false,

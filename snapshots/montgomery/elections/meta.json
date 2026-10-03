@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://elections.mctx.org"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-02T14:18:01Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
+  "fetched_at": "2026-10-03T12:48:03Z",
+  "html_sha256": "181a55fd2540bc654269fc6473644e9eda717c16f142667bd206fa36b624bcf7",
+  "text_sha256": "c6e6fff8cfa807606eb8700e2a28a9c5b5a72fcf6e74e99332234c5754a4f79b",
+  "byte_size": 20006,
   "title": null,
   "noncitizen_voting": {
     "present": false,
@@ -21,9 +21,13 @@
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 6
   },
-  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)"
+  "error": null
 }

@@ -123,14 +123,22 @@ votetexas.gov
 votetexas.gov EN ESPAÑOL
 Press the enter key or spacebar to expand or collapse the accordion
 The information on this site is best viewed on a desktop computer.
+Voter Registration-
 VERIFY YOUR VOTER REGISTRATION
 -
 Click here if you would like to verify your voter registration.
-VERIFIQUE SU REGISTRO DE VOTANTE-
+VERIFIQUE SU REGISTRO DE VOTANTE
+-
 haga clic aquí si desea verificar su registro de votante.
+Voter Registration
+Application
+- English
+Solicitud de registro de electores
+-
+Español
+Ballot By Mail-
 Your
-Application for Ballot By Mail expires on
-December 31st of EACH year
+Application for Ballot By Mail expires on December 31st of EACH year
 and you must reapply every year. You can call our office and request an application or print one by clicking
 here.
 Su Solicitud de Boleta Electoral por Correo vence el
@@ -138,6 +146,12 @@ Su Solicitud de Boleta Electoral por Correo vence el
 de CADA año y debe volver a solicitarla cada año.
 Puede llamar a nuestra oficina y solicitar una solicitud o imprimirla haciendo clic
 aquí.
+Application for Ballot by Mail
+- English
+Solicitud de Bolet
+a por Correo
+-
+Español
 GENERAL ELECTION INFORMATION
 FOR MORE SPECIFIC ELECTION INFORMATION SCROLL DOWN TO THE SPECIFIC ELECTION
 Track Your Ballot:

@@ -251,8 +251,14 @@ Poth ISD- Order of Election
 Falls City ISD- Order of Election
 Stockdale ISD- Order of Election
 Nixon-Smiley CISD- Order of Election
+Floresville ISD- Order of Election
+Floresville ISD- Election Cancellation District 3
+Floresville ISD- Election Cancellation District 5
 County- Notice of Election
 Poth ISD- Notice of Election
+(
+español
+)
 Falls City ISD- Notice of Election
 (
 español
@@ -1516,6 +1522,8 @@ Oct 28, 2019
 CTA
 John "Scott" Akin
 Commissioner Pct 4
+Oct 1, 2026
+30th Day Before Election
 July 13, 2026
 July 15
 Feb 23, 2026

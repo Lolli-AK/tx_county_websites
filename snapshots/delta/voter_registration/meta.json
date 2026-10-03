@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.deltacountytx.com/tax-assessor-collector/page/voter-registration"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-02T14:18:01Z",
-  "html_sha256": "a9607e9aa79cc070e9c833180a43549d9d0868cfa8a69701cfb4fb39506e2b40",
-  "text_sha256": "b5a1f278173a568fc45431f4674b745c4a9257292af1aee6bb49e372968d75ec",
-  "byte_size": 2867,
-  "title": "Just a moment...",
+  "fetched_at": "2026-10-03T12:48:03Z",
+  "html_sha256": "715296345033892e6900323dce7fe4c4ba35537ea90171fc4091cbb520b03897",
+  "text_sha256": "68ce45a8abe88dea9f99077ce8e14979f1569585c612a364ae0f6dd196b12549",
+  "byte_size": 99862,
+  "title": "Voter Registration | Delta County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

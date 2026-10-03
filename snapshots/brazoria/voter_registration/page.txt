@@ -67,6 +67,7 @@ Voter Registration
 Central Count Station Cameras
 Ballot Delivery Cameras
 Ballot Board Signature Verification
+Warehouse Drop-off Cameras
 Juvenile
 General Information
 Juvenile Payments
@@ -151,6 +152,7 @@ Voter Registration
 Central Count Station Cameras
 Ballot Delivery Cameras
 Ballot Board Signature Verification
+Warehouse Drop-off Cameras
 Juvenile
 +
 General Information

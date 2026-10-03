@@ -2,19 +2,20 @@
   "county": "Montgomery",
   "page_type": "early_voting",
   "requested_url": "https://elections.mctx.org/evPolls.asp?ELID=96&curLang=English&ElectionId=CON061326",
-  "final_url": "https://elections.mctx.org/evPolls.asp?ELID=96&curLang=English&ElectionId=CON061326",
+  "final_url": "https://elections.mctx.org/election",
   "redirect_chain": [
-    "https://elections.mctx.org/evPolls.asp?ELID=96&curLang=English&ElectionId=CON061326"
+    "https://elections.mctx.org/evPolls.asp?ELID=96&curLang=English&ElectionId=CON061326",
+    "https://elections.mctx.org/election"
   ],
-  "http_status": null,
-  "content_type": null,
-  "render_mode": "plain",
+  "http_status": 404,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-02T14:18:01Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-03T12:48:03Z",
+  "html_sha256": "8e8e662048a332a6ac9ece9f0b8fc6ed62293a848f43133dfb13d25033854cd5",
+  "text_sha256": "d93e34bd716933a43f3a14737af6e842da62c505daa73799a5f2ab797addaac4",
+  "byte_size": 695,
+  "title": "404 - File or directory not found.",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)"
+  "error": null
 }

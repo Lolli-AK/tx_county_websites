@@ -6,24 +6,28 @@
   "redirect_chain": [
     "https://elections.mctx.org/ElectionResults.asp"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-02T14:18:01Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-03T12:48:03Z",
+  "html_sha256": "90e0753cd8845bd26ca21cf46e6f3222bb3cfacf66c098f6094d02bfb8580256",
+  "text_sha256": "45e08177ead1a75e0bb5d26aba9770b9c49f6c06b5a6a541d798df2f3555e7d5",
+  "byte_size": 119352,
+  "title": "Montgomery County Elections Results Archive",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 6
   },
-  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)"
+  "error": null
 }

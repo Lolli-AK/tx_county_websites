@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-02T14:18:01Z",
-  "html_sha256": "7ef0d2ddadedc2185fa22476e588aa4b17dce0a2df0bd029ece8a7c4dc779444",
+  "fetched_at": "2026-10-03T12:48:03Z",
+  "html_sha256": "1d4a4ba959d46741198551c4b8ad519257dac34b8bff1a2f2f886fba7a213be2",
   "text_sha256": "bc5daca92b6d4736ad24f68d6b87e681e8fd30c59fe2869a87d2d3cf2c776c2d",
-  "byte_size": 103799,
+  "byte_size": 103793,
   "title": "Early Voting Locations | Potter County Elections Administration | Amarillo",
   "noncitizen_voting": {
     "present": false,
