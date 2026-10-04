@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "d1d49a6ac12204251dd84e793d24bd42abcadbb73688e41e86c5686ed881006c",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "68c4880db6a38c769cd593d68ec937babbabdf40cef889c87089a10a54a96fc5",
   "text_sha256": "f65f5350f45a427daf41e41e11bc33c6e1932a9e931383a9e586595cacc3e4bd",
-  "byte_size": 58771,
+  "byte_size": 60297,
   "title": "Vote Centers/Polling Locations | McLennan County, TX",
   "noncitizen_voting": {
     "present": false,

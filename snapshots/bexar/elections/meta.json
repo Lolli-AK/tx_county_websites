@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "a3e52a02e7211498fe7458237401f1b95a396fcb3790846b082385b3f86dcd7a",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "b0919c35a7c16f1608b4304cce4dd48735f7a632e21daaed9148ee4a1d85ba9a",
   "text_sha256": "398768d4bfe5e87f4ae52be31f834218f9512290f95a57ac1718d5b75b2c47dc",
-  "byte_size": 101953,
+  "byte_size": 103457,
   "title": "Bexar County Elections, TX | Official Website",
   "noncitizen_voting": {
     "present": false,

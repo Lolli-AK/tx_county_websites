@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "1fddbfa738eef58ff131107b4d78261d2b271a01552472a74851450e43f93981",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "de79cee02c923275689709d55e3286fa60e098ec1dbc0a9cc937e47039da3e66",
   "text_sha256": "d9f1cde509deaa07d9551d3b7f096ffeaa8eb47705e6c4d6d20fd10911dc5b19",
-  "byte_size": 58094,
+  "byte_size": 59082,
   "title": "Military & Overseas Voters | Webb County, TX",
   "noncitizen_voting": {
     "present": false,

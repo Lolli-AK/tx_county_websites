@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "fb4f9f0175843748522d9c3ec7c4387e64545b7685d837297e2e7850d714b402",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "86e1df700f3a09da296ff93fa2e9014cff57806ba77348aa9b21f23730a92216",
   "text_sha256": "ac15cc0bb1d7fda053ff30501dd23b436df51651f10dd976f9e891d56faa6680",
-  "byte_size": 44974,
+  "byte_size": 45948,
   "title": "Elections | Comanche County, TX",
   "noncitizen_voting": {
     "present": false,

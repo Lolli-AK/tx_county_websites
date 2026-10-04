@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "2d92872b8b7960d25131a7a3de1a60b44c7a5fe6e59c62e76e36266d699d12ab",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "6eabe03ca47b7b15c9301410957ef17e6268ebdbc3fd84e163d7f57fa20aa94b",
   "text_sha256": "4b280f111498c56fa31bdcfbb54443f9f16c68482deac53b885bfa954dd97aa3",
-  "byte_size": 69416,
+  "byte_size": 70814,
   "title": "CURRENT ELECTION INFORMATION | Kaufman County, TX",
   "noncitizen_voting": {
     "present": false,

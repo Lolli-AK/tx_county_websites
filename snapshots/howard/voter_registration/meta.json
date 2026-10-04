@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "f489b5a2946920fb98880cbd0e1439880c5c4499cd7a4adef1bf2df3ee149ef7",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "fb49c574885973aa8d52cea6084dd58a7c8da6ad083313d30eca8caddee74154",
   "text_sha256": "153d381937198ae5f3d9b25f42d503cbe7f532f7e40223917455f484310295b1",
-  "byte_size": 37676,
+  "byte_size": 38289,
   "title": "Voter Registration | Howard County, TX",
   "noncitizen_voting": {
     "present": false,

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "5b3fb33c02ce654bc3519cb5d3e615aa2174147c93c75123a2f5608459210bea",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "7828157d741a2d72ee5a1c91d04f14f7862b92126e9b615b51d66fcfc506b070",
   "text_sha256": "e34d9fe2a8ed352175f5c79666515fc1bb67384160120750b4584c0972c97ecb",
-  "byte_size": 78316,
+  "byte_size": 79599,
   "title": "Register to Vote | Chambers County, TX",
   "noncitizen_voting": {
     "present": false,

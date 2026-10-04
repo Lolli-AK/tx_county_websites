@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "abc88778beb44a7d531a34b2c24cbe360f56634ea74a15f6fe980d92d29a8cd3",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "99bf9d222bcf2339657b71a47e3e768bafd0b61743fd1b56a339f06b972ec464",
   "text_sha256": "e64cfa947376a90159a3623d9483d4c2739c8e99a6e7cf03f455ff280874d12e",
-  "byte_size": 55546,
+  "byte_size": 56520,
   "title": "Vote by Mail and Military/Overseas Voters | Comanche County, TX",
   "noncitizen_voting": {
     "present": false,

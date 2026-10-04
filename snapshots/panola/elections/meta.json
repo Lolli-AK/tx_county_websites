@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "444ca20ec50cd80046a3bc92f43ec44afbeae87caeaaab99171f14d11beccdcc",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "8c573ddb5cce2363233258f1b854e798eb108b332d3d7186ab13357928124f4a",
   "text_sha256": "8a48866d32c3632a69dd0b304abdfdefaee138a6ec5b2c81c8ec1c8775b4aade",
-  "byte_size": 235532,
+  "byte_size": 236600,
   "title": "Elections | Panola County, TX",
   "noncitizen_voting": {
     "present": false,

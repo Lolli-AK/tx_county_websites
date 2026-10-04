@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "d34a88f3cf8dd71b9ad84e3e59b8a75504f7ecd96df22534438d981532de07bb",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "a95a8b15c69ca773bbf9dd05ced5082437e1c26dbd9feff802bbaa29bee277a8",
   "text_sha256": "b0f9e99e93fe68ae147cea1314abe3abc881ad12c9f9bf996abb0c301f25025f",
-  "byte_size": 137965,
+  "byte_size": 139008,
   "title": "Elections | Winkler County, TX",
   "noncitizen_voting": {
     "present": false,

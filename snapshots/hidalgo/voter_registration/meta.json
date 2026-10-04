@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "9306a09549eb32283c26b51d3dc41e6488d1056d0c2c9f4e77e8bb7bc9072984",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "6e7a1955a6dbfd8390dc285e5114a12b702831c3357ee1c5bcf8c677c7dcd704",
   "text_sha256": "9c976facf65498f52a3f073b491aaf10c186eec8b4ada52d988e859768d04b20",
-  "byte_size": 92469,
+  "byte_size": 92860,
   "title": "FAQs - CivicPlus.CMS.FAQ",
   "noncitizen_voting": {
     "present": false,

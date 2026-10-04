@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "0888f8c66778dfc91932f29772a8ec2094124e1a38e378947ee67517fb0133cf",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "eebe8715aa4aef44868d9c950c7bbb17a4d80a631526b68ee079ea03d646d231",
   "text_sha256": "164e0d7689d720451eac57606b6a52705761b9ae7808a89224dafd910d954059",
-  "byte_size": 86101,
+  "byte_size": 93364,
   "title": "Precinct Maps | Smith County, TX",
   "noncitizen_voting": {
     "present": false,

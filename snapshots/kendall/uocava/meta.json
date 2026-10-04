@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "d23fd1ce9c1b7d5157ed0472922d5c31285f9e8b42c4a4b6269dd634720c42b1",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "7855b3e77fd2d366584135a2f477e153e5fd0e8a675a4fa0d9d20472f0c9641c",
   "text_sha256": "b8ef607bb86a8eb923e232bf13c51dee6357b71719307f8e5443c7657a1b2fce",
-  "byte_size": 42281,
+  "byte_size": 42908,
   "title": "Military & Overseas Voters | Kendall County, TX",
   "noncitizen_voting": {
     "present": false,

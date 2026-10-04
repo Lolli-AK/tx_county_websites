@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "82b6ca4edf9000264d13e1b547550c297756a58a9b73f64d43edb0db5b4c2c4b",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "683437a27e3095c6b37691d3927b0eb8df6352a2a6d3297b29c54536914019f9",
   "text_sha256": "2f58e47f5f71c29926e049959736cb7e6315433416ce7e8c8d68c9f32c69eb4f",
-  "byte_size": 49600,
+  "byte_size": 50570,
   "title": "Elections | Somervell County, TX",
   "noncitizen_voting": {
     "present": false,

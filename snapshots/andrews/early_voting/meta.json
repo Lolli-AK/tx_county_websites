@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "c6c5fa1208a669de5216be6c774cd7178897802528a770f9dfb3ea4b69a2c48c",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "56bc73d6e689ef7782e8e80e1a0e0d8be4554ec2835ece1bd7508bdeefab8f76",
   "text_sha256": "1aeb8ef046934795f6cf0e65e05141f645a6ef2ce955611a785942b4954d86b2",
-  "byte_size": 70634,
+  "byte_size": 71448,
   "title": "Election Information | Andrews County, TX",
   "noncitizen_voting": {
     "present": false,

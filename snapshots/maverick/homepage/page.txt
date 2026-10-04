@@ -78,14 +78,14 @@ Am I registered?
 Today · Vote
 Voter registration closes in
 Last day: Monday, October 5
-3 days left to vote early
-2
+2 days left to vote early
+1
 Days
-16
+15
 Hours
-02
+21
 Min
-41
+40
 Sec
 Last day to register
 Mon, Oct 5
@@ -185,7 +185,7 @@ Sign Up
 72°
 F
 Weather · Eagle Pass
-View forecast
+Cloudy
 Official portal · Transparency
 Commissioners Court Agendas
 Access agendas, minutes, recordings and official notices for every Maverick County Commissioners Court session. All public information from the county's governing body, in one place.

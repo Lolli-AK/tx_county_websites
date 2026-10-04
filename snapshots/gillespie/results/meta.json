@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-03T12:48:03Z",
-  "html_sha256": "b45ffd4d7dc26ab3e6d4453bbf6a994a3650871d061bac6a24b105001514e4d3",
+  "fetched_at": "2026-10-04T13:31:17Z",
+  "html_sha256": "4c5b4e9de5c10b7070f1dc4b07971c0bb30770cc6ca10d3773097250efd45b84",
   "text_sha256": "866f8da926106e7c3d304954f22b107a4469a65f63f5dd2c3a6205d955b9967f",
-  "byte_size": 165372,
+  "byte_size": 165747,
   "title": "Election Results (Past & Present) | Gillespie County, TX",
   "noncitizen_voting": {
     "present": false,
