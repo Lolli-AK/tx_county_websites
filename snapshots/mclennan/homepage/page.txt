@@ -1,8 +1,11 @@
 McLennan County, TX | Official Website
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
 Website Sign In
+Accessible Menu
 Government
 County Services
 Safety & Justice
@@ -107,25 +110,31 @@ of I-35.
 * WHEN...From 4 PM CDT this afternoon through Friday morning.
 * IMPACTS...Excessive runoff may...
 View All
+Emergency Alerts
 /Calendar.aspx
 News & Events
 Keep up to date with upcoming events and meetings
 Notice of Adopted 2026 Tax Rate (PDF)
 Road Closures in McLennan County
 Read on...
+about
 County Notices and Public Service Announcements
 View County Notices and Public Service Announcements
 Read More
+about
 Covid-19 Resources
 View Related Information
 Create an Account
 With the MyAccount feature, you can customize your viewing experience, sign up for notifications, and engage in information you care about.
 Read More
+about
 McLennan County Five Year Tax History
 View Tax History
+about
 View All News
 /CivicAlerts.aspx
 October 2026
+Calendar
 Sun
 Mon
 Tue
@@ -174,6 +183,16 @@ Columbus Day - County Offices Closed
 Read More
 View All Events
 /Calendar.aspx
+McLennan County
+Video Tour
+Tour Chapters ▼
+Welcome
+Economic Development
+Recruitment
+Quality of Life
+Entertainment & Tourism
+Education
+Community Organizations
 Visit the McLennan County Historical Commission's Website
 McLennan County Spotlight Video
 Captions for the spotlight video are viewable within the full screen video player.
@@ -186,6 +205,7 @@ Waco, TX 76701
 Department Contacts
 Phone:
 254-757-5000
+Phone Number
 Helpful Links
 Bond Office Questions
 County Budget Information
@@ -207,4 +227,258 @@ Loading
 Loading
 Do Not Show Again
 Close
-[]
+Select Language
+Abkhaz
+Acehnese
+Acholi
+Afar
+Afrikaans
+Albanian
+Alur
+Amharic
+Arabic
+Armenian
+Assamese
+Avar
+Awadhi
+Aymara
+Azerbaijani
+Balinese
+Baluchi
+Bambara
+Baoulé
+Bashkir
+Basque
+Batak Karo
+Batak Simalungun
+Batak Toba
+Belarusian
+Bemba
+Bengali
+Betawi
+Bhojpuri
+Bikol
+Bosnian
+Breton
+Bulgarian
+Buryat
+Cantonese
+Catalan
+Cebuano
+Chamorro
+Chechen
+Chichewa
+Chinese (Simplified)
+Chinese (Traditional)
+Chuukese
+Chuvash
+Corsican
+Crimean Tatar (Cyrillic)
+Crimean Tatar (Latin)
+Croatian
+Czech
+Danish
+Dari
+Dhivehi
+Dinka
+Dogri
+Dombe
+Dutch
+Dyula
+Dzongkha
+Esperanto
+Estonian
+Ewe
+Faroese
+Fijian
+Filipino
+Finnish
+Fon
+French
+French (Canada)
+Frisian
+Friulian
+Fulani
+Ga
+Galician
+Georgian
+German
+Greek
+Guarani
+Gujarati
+Haitian Creole
+Hakha Chin
+Hausa
+Hawaiian
+Hebrew
+Hiligaynon
+Hindi
+Hmong
+Hungarian
+Hunsrik
+Iban
+Icelandic
+Igbo
+Ilocano
+Indonesian
+Inuktut (Latin)
+Inuktut (Syllabics)
+Irish
+Italian
+Jamaican Patois
+Japanese
+Javanese
+Jingpo
+Kalaallisut
+Kannada
+Kanuri
+Kapampangan
+Kazakh
+Khasi
+Khmer
+Kiga
+Kikongo
+Kinyarwanda
+Kituba
+Kokborok
+Komi
+Konkani
+Korean
+Krio
+Kurdish (Kurmanji)
+Kurdish (Sorani)
+Kyrgyz
+Lao
+Latgalian
+Latin
+Latvian
+Ligurian
+Limburgish
+Lingala
+Lithuanian
+Lombard
+Luganda
+Luo
+Luxembourgish
+Macedonian
+Madurese
+Maithili
+Makassar
+Malagasy
+Malay
+Malay (Jawi)
+Malayalam
+Maltese
+Mam
+Manx
+Maori
+Marathi
+Marshallese
+Marwadi
+Mauritian Creole
+Meadow Mari
+Meiteilon (Manipuri)
+Minang
+Mizo
+Mongolian
+Myanmar (Burmese)
+Nahuatl (Eastern Huasteca)
+Ndau
+Ndebele (South)
+Nepalbhasa (Newari)
+Nepali
+NKo
+Norwegian
+Nuer
+Occitan
+Odia (Oriya)
+Oromo
+Ossetian
+Pangasinan
+Papiamento
+Pashto
+Persian
+Polish
+Portuguese (Brazil)
+Portuguese (Portugal)
+Punjabi (Gurmukhi)
+Punjabi (Shahmukhi)
+Quechua
+Qʼeqchiʼ
+Romani
+Romanian
+Rundi
+Russian
+Sami (North)
+Samoan
+Sango
+Sanskrit
+Santali (Latin)
+Santali (Ol Chiki)
+Scots Gaelic
+Sepedi
+Serbian
+Sesotho
+Seychellois Creole
+Shan
+Shona
+Sicilian
+Silesian
+Sindhi
+Sinhala
+Slovak
+Slovenian
+Somali
+Spanish
+Sundanese
+Susu
+Swahili
+Swati
+Swedish
+Tahitian
+Tajik
+Tamazight
+Tamazight (Tifinagh)
+Tamil
+Tatar
+Telugu
+Tetum
+Thai
+Tibetan
+Tigrinya
+Tiv
+Tok Pisin
+Tongan
+Tshiluba
+Tsonga
+Tswana
+Tulu
+Tumbuka
+Turkish
+Turkmen
+Tuvan
+Twi
+Udmurt
+Ukrainian
+Urdu
+Uyghur
+Uzbek
+Venda
+Venetian
+Vietnamese
+Waray
+Welsh
+Wolof
+Xhosa
+Yakut
+Yiddish
+Yoruba
+Yucatec Maya
+Zapotec
+Zulu
+Powered by
+Translate
+Original text
+Rate this translation
+Your feedback will be used to help improve Google Translate
+Explore your accessibility options

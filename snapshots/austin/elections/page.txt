@@ -94,7 +94,7 @@ votenow@austincounty.com
 Office Hours:
 Monday thru Friday
 8:00 am to 4:30 pm
-During election cycles staff are available during early voting hours and election day hours
+During election cycles staff is available during early voting hours and election day hours
 Austin County Participates in COUNTYWIDE VOTING!
 Spanish
 Click on the above VoteTexas.Gov  link to Access information such as your Voter Registration, Polling Locations, Election Results, Application for Ballot by Mail and Track My Ballot
@@ -117,7 +117,7 @@ Sample Ballot Pct 3
 Election Worker Training
 Sample Ballot Pct 3
 - County & ESD
-List of Presiding Judges & Clerks
+List of Presiding Judges
 Sample Ballot Pct 4
 - County Only
 Notice of Designation of EVBB
@@ -144,9 +144,12 @@ Order Calling SVC
 Election Information and Turnout Data (Texas SOS)
 Notice of Convening Central Counting Station
 Austin County Precinct Voting Map
-Certificate of Preparation of Ballot Counters
-Notice of Election Hand Count Audit
-Certification of L&A Testing
+Certificate of Precinct Ballot Counters
+Notice of  Post Election Hand Count Audit
+Certification of E-Poll Book Testing
+&
+Equipment
+Testing
 Notice of RLA Testing
 May 26, 2026 Primary Run-Off
 Notice of L&A Testing

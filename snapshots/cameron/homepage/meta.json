@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-04T13:31:17Z",
-  "html_sha256": "81604072222a60a176715ba6cae3bb5d856589299ec8226c13362bce01b99ccf",
+  "fetched_at": "2026-10-05T16:30:00Z",
+  "html_sha256": "7c44cd56eabb279c2879be1beb0d6a5375661e18e464f8e231027c6893a37a39",
   "text_sha256": "e3b4fb2b09e6f45b556f1024124125d52133a354d7e4aea7427fdea8937b95fd",
-  "byte_size": 91882,
+  "byte_size": 91886,
   "title": "Cameron County Homepage - Cameron County",
   "noncitizen_voting": {
     "present": false,

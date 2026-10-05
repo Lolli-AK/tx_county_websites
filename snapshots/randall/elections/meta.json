@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-04T13:31:17Z",
-  "html_sha256": "ab8c2a6271db6d754aebc292ac9b9ff4926e45f1382fa99b9f2683fa5138c945",
+  "fetched_at": "2026-10-05T16:30:00Z",
+  "html_sha256": "5ceb93c6278f59ae1125dab8d3e2b087aeb973b5ad224718d6cd79c78aff8362",
   "text_sha256": "9afa6e824fbffd86e1bb2aaa7188f8f9ffba60333a01adcadea6ab3d64af1635",
-  "byte_size": 45994,
+  "byte_size": 45996,
   "title": "Voter Registration | Randall County, TX",
   "noncitizen_voting": {
     "present": false,

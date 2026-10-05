@@ -1,4 +1,6 @@
 Elections | Hays County, TX
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
@@ -98,6 +100,7 @@ an election for you to be eligible to vote in
 that
 election.
 View All FAQs
+FAQs
 /FAQ.aspx
 Commissioners Court Agenda
 Elections
@@ -132,4 +135,4 @@ Loading
 Loading
 Do Not Show Again
 Close
-[]
+Explore your accessibility options

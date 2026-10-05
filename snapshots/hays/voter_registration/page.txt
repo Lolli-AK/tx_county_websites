@@ -1,4 +1,6 @@
 Voter Registration | Hays County, TX
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
@@ -52,6 +54,7 @@ Online Voter Name and Address Changes (SoS)
 Request to Cancel Voter Registration (PDF)
 Request to Cancel Voter Registration of a Deceased Relative (PDF)
 View All Quick Links
+Quick Links
 /QuickLinks.aspx
 Commissioners Court Agenda
 Elections
@@ -86,4 +89,4 @@ Loading
 Loading
 Do Not Show Again
 Close
-[]
+Explore your accessibility options

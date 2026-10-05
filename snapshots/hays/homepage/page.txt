@@ -1,4 +1,6 @@
 Hays County, TX | Official Website
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
@@ -44,15 +46,19 @@ Stay up to date
 Hays County to host open house for East Kyle roadway improvements
 Hays County invites community members to attend an open house on Thursday, Oct. 1, to learn about planned roadway improvements in east Kyle as part of...
 Read on...
+about
 Hays County receives more than $15 million in CAMPO funding for FM 2001 improvements
 Hays County has received $15,237,235 in Surface Transportation Block Grant funding for roadway projects along FM 2001, advancing long-planned safety a...
 Read on...
+about
 County adopts FY27 budget and tax rate
 After a final public hearing on Tuesday, Sept. 15, the Hays County Commissioners Court voted 3-2 to adopt a tax rate of $0.4097 per $100 valuation and...
 Read on...
+about
 View All News
 /CivicAlerts.aspx
 October 2026
+Calendar
 S
 M
 T
@@ -137,4 +143,4 @@ Loading
 Loading
 Do Not Show Again
 Close
-[]
+Explore your accessibility options

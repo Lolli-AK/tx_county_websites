@@ -1,4 +1,6 @@
 Ballot by Mail, Absentee, Military, and Overseas Voters | Hays County, TX
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
@@ -67,6 +69,7 @@ Related Documents
 Ballot by Mail Application (PDF)
 Federal Post Card Application (FPCA) (ZIP)
 US Embassy and Consulate E-mail Addresses
+PDF
 Quick Links
 Learn about USPS Informed Delivery
 Federal Voting Assistance Program (Texas)
@@ -74,6 +77,7 @@ Overseas Vote Foundation Web Site
 Vote Texas Military and Overseas Voters
 UOCAVA Voter Materials for the 20261103 General Election
 View All Quick Links
+Quick Links
 /QuickLinks.aspx
 Commissioners Court Agenda
 Elections
@@ -108,4 +112,4 @@ Loading
 Loading
 Do Not Show Again
 Close
-[]
+Explore your accessibility options
