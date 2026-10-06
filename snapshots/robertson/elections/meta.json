@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "68efcbfcdcb5f2e18b86800554b3ab8ff32484aa004b6bf23634a6f2f088421e",
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "37316ead809f7073ca6d31af6edbcc420ef1320e693d86a7a9488288ed7b7d58",
   "text_sha256": "38086e4d7444ede5d2dac2d6ddd411d04fbcfbd0736e12e7346e92be29b51e7d",
-  "byte_size": 66958,
+  "byte_size": 67138,
   "title": "Robertson County, Texas",
   "noncitizen_voting": {
     "present": false,

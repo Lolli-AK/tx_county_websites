@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "54ebd1bed08fa40208f363ea2f36f99d58a8f8a5d2ec55d52e55324e7ec1f176",
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "3f27d602650d900424ac5e8a552672eb38b429f458aa1f31c8b696660d0794e2",
   "text_sha256": "daed297462c456dbe20c402cf4575ddf03c12972c956b82295537be5fb791539",
-  "byte_size": 104125,
+  "byte_size": 104577,
   "title": "Early Voting – Dallas County Elections Department",
   "noncitizen_voting": {
     "present": false,

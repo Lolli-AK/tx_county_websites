@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.dimmitcounty.org/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "e8c36d9fd404b9a9dddb9cb4d45b5e854fc66c7dff05dd816a92a41547c406a9",
-  "text_sha256": "1af7c7d2b42f61c751ce5ce12e996d7c1fc02b64d3cb97f678444af4fe04d807",
-  "byte_size": 30667,
-  "title": "County of Dimmit, TX",
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "68ed3e7b20d647e33783e0c65890cf35f6aac28d02ce7b20106dc740a32d9ef9",
+  "text_sha256": "343d94af6626b89cbd534b74068b9a69fb11414ec320aadb2dc9a72bd8efe7c4",
+  "byte_size": 145,
+  "title": "403 Forbidden",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

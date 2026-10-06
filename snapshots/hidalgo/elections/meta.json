@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "5bf8e403cdabf646accb9bfd40b3a1b474904fa639ca6f295c5a7e320b1e2ad3",
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "b3feb8f5057f64556ff1f953ae7696ad87910652e284cd747f1981adb86864cc",
   "text_sha256": "c370361be82552127e9cd0fa5ea9897f483da4e89370632e0ffe4d4ead43639e",
-  "byte_size": 81504,
+  "byte_size": 81307,
   "title": "Hidalgo County Elections Department | Hidalgo County, TX - Official Website",
   "noncitizen_voting": {
     "present": false,

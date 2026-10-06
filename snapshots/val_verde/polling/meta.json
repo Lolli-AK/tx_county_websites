@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://valverdecounty.texas.gov/382/2020-GENERAL-ELECTION"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "0c755e1dbb9e4a2f3ccce904f7bdd91900766bc24b76e81fd216247663664e99",
+  "text_sha256": "1934b127dfdae8eb6bed1eec694e37c93a9bdcd31e5913309abbb20f3cca6411",
+  "byte_size": 114598,
+  "title": "2020 CITY OF DEL RIO GENERAL RUNOFF ELECTION  | Val Verde County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
+  "error": null
 }

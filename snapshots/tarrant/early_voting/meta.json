@@ -10,10 +10,10 @@
   "content_type": "text/html;charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "fbd450470e931b721d794940ead022d2169451f9bf6571e8d0ce0f8f1957df9b",
-  "text_sha256": "32401d923043df14ebe4a93ea4ed83aee80920daf47d5645b2c8b70a20e6e433",
-  "byte_size": 221039,
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "965b75b945479a19be52f6718028190571cca6f7e42d86ca89d6928dc5c00923",
+  "text_sha256": "bf6e871633acf6249a5ce49acc38f9f1f6506caf9782da9dd8f7f557300d40db",
+  "byte_size": 223835,
   "title": "Current Election Information",
   "noncitizen_voting": {
     "present": false,
@@ -23,9 +23,10 @@
   "uocava": {
     "present": true,
     "terms": [
+      "uocava_form",
       "military_overseas_voter"
     ],
-    "count": 2
+    "count": 3
   },
   "error": null
 }

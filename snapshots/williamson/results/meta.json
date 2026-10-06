@@ -6,27 +6,24 @@
   "redirect_chain": [
     "https://www.wilcotx.gov/292/Results-Archive"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "bfd0eb3d9140c10e3ffd3f67738fd900cf4ff841e960f95f90320a63e172927a",
-  "text_sha256": "f3c0d2c33ed4b17c23c5b8ba1feeabc5c98b67e7c877b4f6e08b407a73ea2d93",
-  "byte_size": 276099,
-  "title": "Results Archive | Williamson County, TX",
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "d83d789640577d55276015bc814d07e6fda1d1bb363416bcac83dac56e9f4d46",
+  "text_sha256": "9a58d11e3bee5e8daf9f2d140cc126bd0a766d706ea176b65bf7762957c4037a",
+  "byte_size": 3332,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

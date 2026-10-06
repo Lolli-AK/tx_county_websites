@@ -6,24 +6,27 @@
   "redirect_chain": [
     "https://www.mclennan.gov/546/Current-Election-Results"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "144ccdcf7ed735f8ba1737bafdf15af47d553e6f663d901e5c60f34061950cc9",
-  "text_sha256": "400e70519a398036422709b95f1e8a03d91f22d6f223fb108d13d54cfaed7d25",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "b01ef090f23cb726a6cd15f64265c0a0a15b55c7d116b620482f2c7e1bee5d06",
+  "text_sha256": "03f9c405205445f20b303e9df4e6bdfef6c53edf3f408dc52ca6836517b3174c",
+  "byte_size": 77006,
+  "title": "Current Election Results | McLennan County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

@@ -6,30 +6,24 @@
   "redirect_chain": [
     "https://www.hayscountytx.gov/253/Ballot-by-Mail-Absentee-Military-and-Ove"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "a6aae9dcd0f5a36f71750fa77fda87b04aecbe4408faafbee1cd02b4475e09c4",
-  "text_sha256": "6d3417bd9557bbfb5e0f8a2495113ca26e1ce815e200ff063ec1c30a1c398843",
-  "byte_size": 66083,
-  "title": "Ballot by Mail, Absentee, Military, and Overseas Voters | Hays County, TX",
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "c7c0a4e7964b6faf1c8cec74d331aec119519b66acbd2ee2bc164b0607345229",
+  "text_sha256": "703a59854e6c31af13e9cf1094efac9c73ad627e228b518d8623a660f76ae003",
+  "byte_size": 3332,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava",
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 30
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

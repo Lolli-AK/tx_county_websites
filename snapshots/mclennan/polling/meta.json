@@ -6,24 +6,27 @@
   "redirect_chain": [
     "https://www.mclennan.gov/383/Vote-CentersPolling-Locations"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "704e0f46d8f059e6bee1ac205e674f6769f9947f56f8e88e6140c5cd6c0a6ab4",
-  "text_sha256": "225e333060d8005380874776373058ac7a9d4d32c7a246f52a4378ac778b17d4",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "2fdb88592020de921f5cc59445c736eb1c9c7d16350624b7a1d2d35ba9da17c7",
+  "text_sha256": "6fde6b6535527e2b8386d33e1b492b3a02dd13d863deb25f25b8cbffc98ea1ea",
+  "byte_size": 81582,
+  "title": "Vote Centers/Polling Locations | McLennan County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

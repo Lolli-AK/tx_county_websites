@@ -1,18 +1,22 @@
-Attention Required! | Cloudflare
-Please enable cookies.
-Sorry, you have been blocked
-You are unable to access
-civicplus.io
-Why have I been blocked?
-This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
-What can I do to resolve this?
-You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
-Cloudflare Ray ID:
-a45dd1cce8c44b86
-•
-Your IP:
-Click to reveal
-20.106.191.93
-•
-Performance & security by
-Cloudflare
+Voter and Sample Ballot Lookup
+Language
+English
+Español
+Williamson County Elections
+Please search by Name and Date of Birth.
+Select an Election
+Select Election
+Joint General and Special Elections - November 3, 2026
+Name
+First Name
+Last Name
+Date of Birth
+Date of Birth
+Use the date picker or enter a date of birth within the allowed voter age range.
+Search
+Search a voter for information
+Williamson County Elections
+This is provided as a service to Williamson County and all information presented is based solely on the names and addresses of registered voters. If you feel there is any discrepancy in the provided information please email
+VoterRegistration@wilcotx.gov
+or call 512-943-1630. Voter registrations are effective 30 days after the submission of the application. If you have recently applied and do not see your name in the lookup, please check back.
+If you are currently registered to vote in Williamson County and have moved within the county or have changed your name, please make sure to update your voter registration information.

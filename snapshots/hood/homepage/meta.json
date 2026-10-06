@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://hoodcounty.texas.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "bdfd77d75e8518c36b291bf0ae8374f8e8f5fb446321516582d928029aa1886d",
-  "text_sha256": "1d88cb7cff83e8cd5559bb70598177fca7cc35f18ab2ed83dc99b43ab27c4cab",
-  "byte_size": 42033,
-  "title": "Hood County, TX",
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "68ed3e7b20d647e33783e0c65890cf35f6aac28d02ce7b20106dc740a32d9ef9",
+  "text_sha256": "343d94af6626b89cbd534b74068b9a69fb11414ec320aadb2dc9a72bd8efe7c4",
+  "byte_size": 145,
+  "title": "403 Forbidden",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

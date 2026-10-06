@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "7b8c8b6b587f08aa01fb1cf6ff16ad38e849c592167266655afbcbfb6eadc303",
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "e991aca2488bbff4c8a33670f38eef7514ad08a27596fc7647e42a93a7d2aacf",
   "text_sha256": "584236fd718e1be36e79511ef730e5c81fa2d44ff312e7842469b297306f24d1",
-  "byte_size": 124146,
+  "byte_size": 124102,
   "title": "Clay County Texas",
   "noncitizen_voting": {
     "present": false,

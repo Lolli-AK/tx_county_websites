@@ -126,6 +126,11 @@ Democratic May 21 2026
 General Primary Runoff Election Results May 26, 2026
 Republican
 Democratic
+Sample Ballots General Election November 3 2026
+Precinct 1
+Precinct 3
+Precinct 2
+Precinct 4
 March 3, 2026 - Joint Primary Election
 Public Notices:
 Notice of Joint General Primary Election Voting Locations and Times March 3rd 2026 & Early Voting Hours

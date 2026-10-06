@@ -29,6 +29,7 @@ County Auditor
 Indigent Defense and Pretrial Services
 District Court
 District Court Judge
+Adult Probation
 District Clerk
 District Attorney
 Elections

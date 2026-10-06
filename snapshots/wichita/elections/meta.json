@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "b8c11ba26d0699722c3d598dddd4109173ae03a2798f45ab5d0f0148e389651b",
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "53e7026f711ff43b9b74271a28bba859974beeb5f661bbaad9df805d59cf523e",
   "text_sha256": "8b000d0ba4a95b04f73e463a10f44c44aeb8c3f882f5fccb732b2e0a5ec7eaaa",
-  "byte_size": 35025,
+  "byte_size": 35026,
   "title": "Current Election Information | Wichita County",
   "noncitizen_voting": {
     "present": false,

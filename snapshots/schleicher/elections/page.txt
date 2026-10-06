@@ -119,18 +119,37 @@ Election Room
 107 Cottonwood
 Eldorado, Texas 76936
 Early Vote Polling:
-Monday, May 18, 2026
+Monday, October 19, 2026
+8
+:00 AM to 5:00 PM
+Tuesday, October 20, 2026
+8
+:00 AM to 5:00 PM
+Wednesday, October 21, 2026
+8
+:00 AM to 5:00 PM
+Thursday, October 22, 2026
+8
+:00 AM to 5:00 PM
+Friday, October 23, 2026
+8
+:00 AM to 5:00 PM
+Saturday, October 24, 2026
 7:00 AM to 7:00 PM
-Tuesday, May 19, 2026
+Sunday, October 25, 2026
+9:00 AM to 3:00 PM
+Monday, October 26, 2026
 7:00 AM to 7:00 PM
-Wednesday, May 20, 2026
+Tuesday, October 27, 2026
 7:00 AM to 7:00 PM
-Thursday, May 21, 2026
+Wednesday, October 28, 2026
 7:00 AM to 7:00 PM
-Friday, May 22, 2026
+Thursday, October 29, 2026
+7:00 AM to 7:00 PM
+Friday, October 30, 2026
 7:00 AM to 7:00 PM
 Election Day Polling:
-Tuesday, May 2, 2026, from 7:00 AM to 7:00 PM
+Tuesday, November 3, 2026, from 7:00 AM to 7:00 PM
 Schleicher County Precinct Map
 Precinct Map - Inside City Limits
 Application for Ballot by Mail
@@ -147,6 +166,11 @@ UNOFFICIAL RESULTS
 Post Election Hand Count Audit
 Democrat Unofficial Results
 Republican Unofficial Results
+SAMPLE BALLOTS
+Precinct 1
+Precinct 2
+Precinct 3
+Precinct 4
 Press the enter key or spacebar to expand or collapse the accordion
 Helpful Links
 ▲

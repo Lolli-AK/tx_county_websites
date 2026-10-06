@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.hayscountytx.gov/255/Current-Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "e9d66693649c76141578bb628d729657cf868cdbbadb9b7ce50c99f0cd5be037",
-  "text_sha256": "e3f6f733710abdd3a528615a655d15c2efdf9efdd0036cfafdff0170ad3f839c",
-  "byte_size": 52434,
-  "title": "Current Elections | Hays County, TX",
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "ae1a7da336ae1e18d84e628ff939c6d291b9cb39020649d6004a6f4179b5d8dc",
+  "text_sha256": "61634c25f8276d4091ba4381f271fec67e1241faf910aa5e77128fd0db890dee",
+  "byte_size": 3332,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

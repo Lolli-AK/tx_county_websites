@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-05T16:30:00Z",
-  "html_sha256": "ab79ef06494cc52d448ab13f8a0c20b92a80fa3db404852d603f79bb22ae51ad",
+  "fetched_at": "2026-10-06T14:32:50Z",
+  "html_sha256": "8f76ff57745c3ba643a31da111296bf707c613b9228a39379ce16b22120496cc",
   "text_sha256": "807356ed38d01e42c5c33f4502946348fe460bae9968b5851392e9518b7ee017",
-  "byte_size": 43319,
+  "byte_size": 43317,
   "title": "View information for upcoming Elections",
   "noncitizen_voting": {
     "present": false,

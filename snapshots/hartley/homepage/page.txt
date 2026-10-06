@@ -52,6 +52,9 @@ Information, Links, and Resources
 Quick Access to Online Services
 Hartley County, Texas
 is known for its sweeping High Plains landscapes, deep ranching heritage, and its connection to the legendary XIT Ranch, one of the largest ranches in American history. Centered around the community of Channing, the county reflects generations of agricultural tradition, western values, and a strong sense of independence. From its expansive prairie vistas to its enduring ranching legacy, Hartley County offers a distinctive blend of history, hard work, and the timeless character of the Texas Panhandle.
+<script src="https://textmygov.com
+<script src="https://textmygov.com/widget-update/dist/app.js" data-key="23144500" data-position="" defer></script>
+/widget-update/dist/app.js" data-key="23144500" data-position="" defer></script>
 Commissioners' Court Meetings
 AgriLife Extension Office
 Dallam-Hartley County Library
@@ -159,7 +162,7 @@ June: Allen Voight
 July:  Camilla Green
 August: Scott White
 September: Avry McCollum
-October:
+October: Maryah Cain
 November:
 December:
 Press the enter key or spacebar to expand or collapse the accordion

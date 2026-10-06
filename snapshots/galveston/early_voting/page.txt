@@ -71,6 +71,7 @@ City of League City Notice English
 City of League City Notice Spanish
 Order Canceling Bond Election for WCID 12
 NOTICE OF GENERAL ELECTION FOR GALVESTON CTY
+Santa Fe ISD Notice
 Sample Ballots
 Access your ballot
 Ballots and Measures
@@ -111,6 +112,10 @@ CSV
 /
 PDF
 10/02/2026
+CSV
+/
+PDF
+10/03/2026
 CSV
 /
 PDF

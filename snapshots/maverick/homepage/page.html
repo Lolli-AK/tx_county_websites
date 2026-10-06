@@ -79,9 +79,9 @@
       Maverick County, TX
      </span>
      <div class="flex items-center gap-2">
-      <a aria-label="Current weather: 79 degrees Fahrenheit" class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-white/10 hover:bg-white/20 ring-1 ring-white/20 text-white font-bold text-[11px] transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-300" href="/weather">
+      <a aria-label="Current weather: 71 degrees Fahrenheit" class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-white/10 hover:bg-white/20 ring-1 ring-white/20 text-white font-bold text-[11px] transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-300" href="/weather">
        <span>
-        79°F
+        71°F
        </span>
       </a>
       <div aria-label="Language selector" class="lang-pill" role="group">
@@ -243,6 +243,34 @@
     </div>
    </div>
   </header>
+  <div class="relative overflow-hidden border-b border-amber-700/40">
+   <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-r from-amber-700 via-amber-600 to-amber-700">
+   </div>
+   <div aria-hidden="true" class="absolute inset-0 bg-grid opacity-[0.08]">
+   </div>
+   <div class="relative container mx-auto px-3 sm:px-4 py-1.5">
+    <div class="flex items-center justify-center md:justify-between gap-x-3 md:gap-x-5 text-white min-w-0">
+     <span class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-amber-200 text-amber-950 text-[10px] font-extrabold uppercase tracking-widest shadow-sm shrink-0">
+      Holiday
+     </span>
+     <span class="inline-flex items-center gap-2 text-xs sm:text-sm font-bold text-white min-w-0 truncate">
+      <span class="hidden md:inline text-amber-100 text-[11px] uppercase tracking-widest font-extrabold shrink-0">
+       Offices Closed
+      </span>
+      <span aria-hidden="true" class="hidden md:inline-block w-px h-4 bg-white/30 shrink-0">
+      </span>
+      <span class="font-extrabold truncate">
+       Columbus Day
+      </span>
+     </span>
+     <span class="inline-flex items-center gap-1.5 text-xs font-bold text-amber-100 shrink-0">
+      <span>
+       Monday, October 12
+      </span>
+     </span>
+    </div>
+   </div>
+  </div>
   <main class="flex-1 focus:outline-none" id="main" tabindex="-1">
    <section class="relative hero-mesh text-white overflow-hidden">
     <video aria-hidden="true" autoplay="" class="absolute inset-0 w-full h-full object-cover object-top z-0" loop="" muted="" playsinline="" poster="/tenant-assets/maverick/logo.webp" preload="auto">
@@ -469,9 +497,6 @@
        <p class="mt-3 text-sm md:text-base text-blue-100 leading-relaxed">
         Check whether you're registered, learn the requirements to register, which ID to bring, and all the key dates.
        </p>
-       <p class="mt-3 text-xs text-blue-200/90 leading-relaxed">
-        Tip: if you mail your application, ask for a free manual postmark at the USPS counter so the date matches the day you mail it.
-       </p>
        <div class="mt-6 flex flex-col sm:flex-row gap-3">
         <a class="group inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-amber-400 text-blue-950 text-base font-extrabold shadow-lg shadow-amber-500/30 ring-2 ring-amber-200/60 hover:bg-amber-300 hover:-translate-y-0.5 hover:shadow-xl transition-all focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-white" href="/elections">
          More information
@@ -491,19 +516,19 @@
            Today · Vote
           </span>
           <p class="text-[11px] font-extrabold uppercase tracking-widest text-amber-300" data-cd-title="">
-           Voter registration closes in
+           Early voting starts in
           </p>
           <p class="mt-1 text-xs text-blue-100" data-cd-note="">
-           Last day: Monday, October 5
+           Monday, October 19 · polls open at 7:00 AM
           </p>
           <p class="mt-2 text-xl md:text-2xl font-extrabold text-white leading-tight" data-cd-days-text="" hidden="">
-           Today is the last day
+           13 days left to vote early
           </p>
          </div>
          <div class="grid grid-cols-4 gap-2 shrink-0" data-cd-clock="" role="timer">
           <div class="w-16 md:w-[4.5rem] rounded-xl bg-white/10 ring-1 ring-white/20 py-2 text-center">
            <span class="block text-2xl md:text-3xl font-extrabold tabular-nums leading-none text-white" data-cd-unit="d">
-            0
+            12
            </span>
            <span class="block mt-1 text-[9px] font-bold uppercase tracking-widest text-blue-200">
             Days
@@ -511,7 +536,7 @@
           </div>
           <div class="w-16 md:w-[4.5rem] rounded-xl bg-white/10 ring-1 ring-white/20 py-2 text-center">
            <span class="block text-2xl md:text-3xl font-extrabold tabular-nums leading-none text-white" data-cd-unit="h">
-            12
+            21
            </span>
            <span class="block mt-1 text-[9px] font-bold uppercase tracking-widest text-blue-200">
             Hours
@@ -519,7 +544,7 @@
           </div>
           <div class="w-16 md:w-[4.5rem] rounded-xl bg-white/10 ring-1 ring-white/20 py-2 text-center">
            <span class="block text-2xl md:text-3xl font-extrabold tabular-nums leading-none text-white" data-cd-unit="m">
-            16
+            06
            </span>
            <span class="block mt-1 text-[9px] font-bold uppercase tracking-widest text-blue-200">
             Min
@@ -527,7 +552,7 @@
           </div>
           <div class="w-16 md:w-[4.5rem] rounded-xl bg-white/10 ring-1 ring-white/20 py-2 text-center">
            <span class="block text-2xl md:text-3xl font-extrabold tabular-nums leading-none text-white" data-cd-unit="s">
-            00
+            17
            </span>
            <span class="block mt-1 text-[9px] font-bold uppercase tracking-widest text-blue-200">
             Sec
@@ -537,15 +562,15 @@
         </div>
        </div>
        <ol class="grid grid-cols-1 sm:grid-cols-3 gap-3">
-        <li class="relative rounded-2xl p-5 backdrop-blur ring-1 transition bg-white/10 ring-white/25">
+        <li class="relative rounded-2xl p-5 backdrop-blur ring-1 transition bg-white/10 ring-white/25 opacity-60">
          <p class="text-[10px] font-extrabold uppercase tracking-widest text-amber-200">
           Last day to register
          </p>
-         <p class="mt-2 text-2xl md:text-[1.65rem] font-extrabold leading-none tracking-tight text-white">
+         <p class="mt-2 text-2xl md:text-[1.65rem] font-extrabold leading-none tracking-tight text-white line-through decoration-2">
           Mon, Oct 5
          </p>
          <p class="mt-3 text-xs leading-relaxed text-blue-100">
-          Postmarked or received by the office
+          Registration for this election is closed
          </p>
         </li>
         <li class="relative rounded-2xl p-5 backdrop-blur ring-1 transition bg-white/10 ring-white/25">
@@ -1218,7 +1243,7 @@
      <div class="rounded-2xl bg-gradient-to-br from-sky-600 via-sky-700 to-sky-900 text-white p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-0.5 transition flex items-center justify-between gap-4">
       <div class="flex items-center gap-4">
        <div class="text-5xl md:text-6xl font-extrabold leading-none">
-        79°
+        71°
         <span class="text-base font-bold opacity-80">
          F
         </span>
@@ -1228,7 +1253,7 @@
          Weather · Eagle Pass
         </p>
         <p class="font-semibold mt-0.5">
-         View forecast
+         Clear
         </p>
        </div>
       </div>

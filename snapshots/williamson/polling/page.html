@@ -1,93 +1,125 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en">
  <head>
-  <title>
-   Attention Required! | Cloudflare
-  </title>
   <meta charset="utf-8"/>
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
-  <meta content="noindex, nofollow" name="robots"/>
-  <meta content="width=device-width,initial-scale=1" name="viewport"/>
+  <link href="https://apps.wilcotx.gov/elections/favicon.ico" rel="icon"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="en" property="og:locale"/>
  </head>
- <body>
-  <div id="cf-wrapper">
-   <div class="cf-alert cf-alert-error cf-cookie-error" data-translate="enable_cookies" id="cookie-alert">
-    Please enable cookies.
+ <body data-sveltekit-preload-data="hover">
+  <div>
+   <header class="svelte-k6quf3">
+    <a href="https://www.wilcotx.gov/elections">
+     <img alt="Williamson County W Logo" class="svelte-k6quf3" src="https://apps.wilco.org/utils/wilcoMark.svg" width="100px"/>
+    </a>
+    <h1 class="svelte-k6quf3">
+     Voter and Sample Ballot Lookup
+    </h1>
+    <div class="languageToggle svelte-k6quf3">
+     <div class="svelte-1hx8anb">
+      <label class="sr-only svelte-1hx8anb" for="lang">
+       Language
+      </label>
+      <select aria-label="Language" class="svelte-1hx8anb" id="lang">
+       <option value="en">
+        English
+       </option>
+       <option value="es">
+        Español
+       </option>
+      </select>
+     </div>
+    </div>
+   </header>
+   <div class="directionsAndLinkBack svelte-k6quf3">
+    <a href="https://www.wilcotx.gov/elections">
+     Williamson County Elections
+    </a>
+    <p>
+     Please search by Name and Date of Birth.
+    </p>
    </div>
-   <div class="cf-error-details-wrapper" id="cf-error-details">
-    <div class="cf-wrapper cf-header cf-error-overview">
-     <h1 data-translate="block_headline">
-      Sorry, you have been blocked
-     </h1>
-     <h2 class="cf-subheadline">
-      <span data-translate="unable_to_access">
-       You are unable to access
-      </span>
-      civicplus.io
-     </h2>
-    </div>
-    <div class="cf-section cf-highlight">
-     <div class="cf-wrapper">
-      <div class="cf-screenshot-container cf-screenshot-full">
-       <span class="cf-no-screenshot error">
-       </span>
+   <p aria-live="polite" class="srOnly svelte-k6quf3" role="status">
+   </p>
+   <h2>
+    Select an Election
+   </h2>
+   <select class="svelte-k6quf3" id="electionDropdown" name="electionDropdown" required="" title="Election Drop-down">
+    <option value="0">
+     Select Election
+    </option>
+    <option value="g26">
+     Joint General and Special Elections - November 3, 2026
+    </option>
+   </select>
+   <br/>
+   <div class="searchShell svelte-k6quf3">
+    <div class="searchSection svelte-k6quf3">
+     <form class="svelte-k6quf3" id="nameDOBSection">
+      <h4>
+       Name
+      </h4>
+      <div class="voterName svelte-k6quf3">
+       <div class="firstName">
+        <input class="svelte-k6quf3" id="firstNameInput" name="firstName" title="First Name Input" type="text"/>
+        <br/>
+        <label for="firstNameInput">
+         First Name
+        </label>
+       </div>
+       <div class="lastName">
+        <input class="svelte-k6quf3" id="lastNameInput" name="lastName" title="Last Name Input" type="text"/>
+        <br/>
+        <label for="lastNameInput">
+         Last Name
+        </label>
+       </div>
       </div>
-     </div>
-    </div>
-    <div class="cf-section cf-wrapper">
-     <div class="cf-columns two">
-      <div class="cf-column">
-       <h2 data-translate="blocked_why_headline">
-        Why have I been blocked?
-       </h2>
-       <p data-translate="blocked_why_detail">
-        This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
-       </p>
+      <h4>
+       Date of Birth
+      </h4>
+      <div class="voterDOB svelte-k6quf3">
+       <div class="voterDOBelement svelte-k6quf3">
+        <input aria-describedby="dobHint" class="svelte-k6quf3" id="dobInput" max="2008-10-06" min="1916-10-06" name="dob" title="Date of Birth" type="date"/>
+        <label for="dobInput">
+         Date of Birth
+        </label>
+        <span class="srOnly svelte-k6quf3" id="dobHint">
+         Use the date picker or enter a date of birth within the allowed voter age range.
+        </span>
+       </div>
       </div>
-      <div class="cf-column">
-       <h2 data-translate="blocked_resolve_headline">
-        What can I do to resolve this?
-       </h2>
-       <p data-translate="blocked_resolve_detail">
-        You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
-       </p>
-      </div>
-     </div>
+      <button class="button button__blue svelte-k6quf3" type="submit">
+       Search
+      </button>
+     </form>
     </div>
-    <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">
-       Cloudflare Ray ID:
-       <strong class="font-semibold">
-        a45dd1cce8c44b86
-       </strong>
-      </span>
-      <span class="cf-footer-separator sm:hidden">
-       •
-      </span>
-      <span class="cf-footer-item sm:block sm:mb-1" id="cf-footer-item-ip">
-       Your IP:
-       <button class="cf-footer-ip-reveal-btn" id="cf-footer-ip-reveal" type="button">
-        Click to reveal
-       </button>
-       <span class="hidden" id="cf-footer-ip">
-        20.106.191.93
-       </span>
-       <span class="cf-footer-separator sm:hidden">
-        •
-       </span>
-      </span>
-      <span class="cf-footer-item sm:block sm:mb-1">
-       <span>
-        Performance &amp; security by
-       </span>
-       <a href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" rel="noopener noreferrer" target="_blank">
-        Cloudflare
-       </a>
-      </span>
+    <div aria-busy="false" class="svelte-k6quf3" id="searchResults">
+     <p class="searchPrompt svelte-k6quf3">
+      Search a voter for information
      </p>
     </div>
+   </div>
+   <div class="bottomLinks svelte-k6quf3">
+    <a href="https://www.wilcotx.gov/elections">
+     Williamson County Elections
+    </a>
+   </div>
+   <section>
+    <div class="adminInfo">
+     This is provided as a service to Williamson County and all information presented is based solely on the names and addresses of registered voters. If you feel there is any discrepancy in the provided information please email
+     <a href="mailto:VoterRegistration@wilcotx.gov">
+      VoterRegistration@wilcotx.gov
+     </a>
+     or call 512-943-1630. Voter registrations are effective 30 days after the submission of the application. If you have recently applied and do not see your name in the lookup, please check back.
+     <br/>
+     <br/>
+     If you are currently registered to vote in Williamson County and have moved within the county or have changed your name, please make sure to update your voter registration information.
+    </div>
+   </section>
+   <div aria-atomic="true" aria-live="polite" class="toast-container svelte-ypwkk1">
+   </div>
+   <div aria-atomic="true" aria-live="assertive" id="svelte-announcer">
    </div>
   </div>
  </body>
