@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.kaufmancounty.net/436/ELECTION-RESULTS"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-06T14:32:50Z",
-  "html_sha256": "a40f0b3e92abeafba355882714a5c034c0b883b6525322378ff71f62b22db13e",
-  "text_sha256": "35128fa51466277aa78272088391d713ba9af88858f39be6cd35abb078a162dc",
-  "byte_size": 53541,
-  "title": "ELECTION RESULTS | Kaufman County, TX",
+  "fetched_at": "2026-10-07T14:49:28Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

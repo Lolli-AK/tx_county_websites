@@ -1,8 +1,5 @@
 Henderson County, TX | Official Website
 Skip to Main Content
-EMERGENCY ALERT
-BURN BAN - OFF
-Read On...
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
 Website Sign In
@@ -73,16 +70,15 @@ S
 29
 30
 31
-Tue, Oct. 6
-No Court- Commissioners' Court
-No Court
-No Court- Commissioners' Court
-Read On
 Tue, Oct. 13
 Commissioners' Court
 Commissioners' Court
 Read On
 Tue, Oct. 20
+Commissioners' Court
+Commissioners' Court
+Read On
+Tue, Oct. 27
 Commissioners' Court
 Commissioners' Court
 Read On
@@ -132,10 +128,6 @@ S
 29
 30
 31
-Tue, Oct. 6
-ESD 7 Meeting
-ESD 7 Meeting
-Read On
 Wed, Oct. 7
 Groundwater Management Meeting
 Groundwater Management Meeting
@@ -143,6 +135,10 @@ Read On
 Wed, Oct. 7
 Henderson County Historical Commission Meeting
 Henderson County Historical Commission Meeting
+Read On
+Wed, Oct. 7
+I.T. Committee Meeting
+I.T. Committee Meeting
 Read On
 View All Events
 /Calendar.aspx

@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.erath.tx.us/186/Current-Elections"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-06T14:32:50Z",
-  "html_sha256": "87a93934a5d3299e858b9218df798e313aad2c42296458e323d91ae0742cbd28",
-  "text_sha256": "929049dd1b1d2305db3866423584e497c2a443ff2785bf32cb6a567db4957707",
-  "byte_size": 3332,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-07T14:49:28Z",
+  "html_sha256": "7d87f6a15a41e55997e90f93e7aea50c90fbf39a1bcfd9a5c76de4ef17ab2fc1",
+  "text_sha256": "e09789b1b45559fb48ef5d0a6a756bfbe9e1e3d4e3f398521c92b7effa0d1041",
+  "byte_size": 136893,
+  "title": "Current Elections | Erath County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

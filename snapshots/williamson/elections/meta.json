@@ -6,24 +6,27 @@
   "redirect_chain": [
     "https://www.wilcotx.gov/185/Elections"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-06T14:32:50Z",
-  "html_sha256": "8635d9f4337a316ac2b31348db10d09759d5048ca6bc1be97277ccd76d3ef516",
-  "text_sha256": "6301db419a3a721ac5e9db14c7286b412e41e40edeab0457c55ef827665977e2",
-  "byte_size": 3332,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-07T14:49:28Z",
+  "html_sha256": "c71ac85e3eea0851a0fe55f938d6c3c7f1b198d2476bfd284bcb86e2042e76af",
+  "text_sha256": "4c222aef82b0fc7f59b513aaebcaac04dcc737d4eb9ce98c6d1f7bd2e3c6f66d",
+  "byte_size": 100594,
+  "title": "Elections | Williamson County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

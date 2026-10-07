@@ -162,7 +162,7 @@ Map & Details
 Bassett Place
 6101 Gateway West 79925
 Next to Claire's
-(Al lado de Claire's)
+(Al Lado de Claire's)
 Map & Details
 Benito Martinez Elementary School
 2640 Robert Wynn St. 79936
@@ -667,7 +667,7 @@ Map & Details
 The Shoppes at Solana
 750 Sunland Park Dr. 79912
 By the Food Court, Next to Book Nook
-(Por el Patio de Comidas, al lado del Book Nook)
+(Por el Patio de Comidas, al Lado del Book Nook)
 Map & Details
 Tippin Elementary School
 6541 Bear Ridge Dr. 79912
@@ -726,8 +726,8 @@ Program Offices Room
 Map & Details
 YWCA-East
 10712 Sam Snead Dr. 79935
-Community Room
-(Centro Comunitario)
+Program Offices Room
+(Cuarto de Oficinas de Programa)
 Map & Details
 YWCA-Lower Valley
 115 Davis Dr. 79907
@@ -750,7 +750,7 @@ Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
 537,655
-Registered voters as of Tuesday, October 6, 2026
+Registered voters as of Wednesday, October 7, 2026
 Are You Registered?
 Every Voice Makes an Impact.
 Every Vote Makes a Difference.

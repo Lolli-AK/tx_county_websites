@@ -2,20 +2,19 @@
   "county": "Bosque",
   "page_type": "elections",
   "requested_url": "https://www.bosquecounty.gov/Directory.aspx?did=37",
-  "final_url": "https://www.bosquecounty.gov/m/directory/department?did=37",
+  "final_url": "https://www.bosquecounty.gov/Directory.aspx?did=37",
   "redirect_chain": [
-    "https://www.bosquecounty.gov/Directory.aspx?did=37",
-    "https://www.bosquecounty.gov/m/directory/department?did=37"
+    "https://www.bosquecounty.gov/Directory.aspx?did=37"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-06T14:32:50Z",
-  "html_sha256": "8f26659327d5dbe93e867ed922da73bfe5a98ce870641df8cc500b07c9ef5952",
-  "text_sha256": "b8e744ec7e92b2f3965d35f5a50b59d6bc2c3f347d58ca3596cf0a6b101a4227",
-  "byte_size": 40019,
-  "title": "Staff Directory • Elections Administrator",
+  "fetched_at": "2026-10-07T14:49:28Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }
