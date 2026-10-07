@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.wise.tx.us/317/Election-Results-Archive"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-06T14:32:50Z",
-  "html_sha256": "d7f4ba1ff3526be86c2ebb214c416523c77fbaa944e2f827941e09b77696d694",
-  "text_sha256": "ed59a0f8f0bb04b0e00d1ed5d61f4b98fc5dfcf71d3afb2a8bec4c507d050fe0",
-  "byte_size": 44442,
-  "title": "Election Results (Archive) | Wise County, TX",
+  "fetched_at": "2026-10-07T15:39:26Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

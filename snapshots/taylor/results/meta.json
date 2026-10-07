@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://taylorcounty.texas.gov/549/Archived-Election-Results"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-06T14:32:50Z",
-  "html_sha256": "6f7b29925f3d61b4d135206ae38315be7f3e99ae23d9dbff9a0faee3343aa1b8",
-  "text_sha256": "f7801aa90ba0e3996a9a282d6645fd0bc0380b448df01b453251a16e57844bf8",
-  "byte_size": 81275,
-  "title": "Archived Election Results | Taylor County, TX - Official Website",
+  "fetched_at": "2026-10-07T15:39:26Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

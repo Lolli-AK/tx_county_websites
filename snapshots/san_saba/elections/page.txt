@@ -69,8 +69,18 @@ VoteTexas.Gov
 VERIFY YOUR VOTER REGISTRATION
 NOVEMBER 3, 2026 GENERAL ELECTION
 ▲
+SAMPLE BALLOTS
+Precinct 1
+Precinct 2A
+Precinct 2B
+Precinct 3A
+Precinct 3B
+Precinct 4
+Write in Candidate List
+- This list will be found in the voting booth when you arrive at the polls to vote.
 ORDERS AND NOTICES |
 PEDIDOS Y AVISOS
+Public Notice of Public Logic and Accuracy Test
 Order of Election - November General Election
 Notice of Election
 Last Day to Register to Vote for this election is:
