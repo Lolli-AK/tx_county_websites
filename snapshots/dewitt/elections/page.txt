@@ -157,6 +157,9 @@ Sample Ballots Precinct 2 (201, 202, 203)
 Sample Ballots Precinct 3 (301, 302, 303)
 Sample Ballots Precinct 4 (401, 402)
 Where and When can you vote?  Click here
+DAILY VOTING ROSTERS
+Ballot by Mail 10/5/2026
+Ballot by Mail 10/6/2026
 November 3, 2026 General Election
 Election Notices and Orders - County
 Notice of Election
@@ -167,7 +170,6 @@ Logic and Accuracy Testing - Public Notice
 Notice of Election Worker Training
 Notice of Convening the Early Voting Ballot Board
 Notice of Delivery of Ballots Voted By Mail
-Election Notices and Orders - Local Entities
 General Information for Voters and Candidates
 Where To Vote - Precinct Map
 ▲
@@ -186,6 +188,7 @@ Related Links:
 Notice of County Election Board Meeting
 Central Count Station Plan
 Logic and Accuracy Testing Policy
+Election Security
 Press the enter key or spacebar to expand or collapse the accordion
 Voters With Special Needs
 ▲

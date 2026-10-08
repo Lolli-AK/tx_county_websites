@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.beecounty.gov/274/Voter-Registration"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-07T14:49:28Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-08T15:00:28Z",
+  "html_sha256": "d279a415be2d0bd9107394f8f92f32bcdb7e3feae6b8778ce5ce0682f3f48050",
+  "text_sha256": "13aef4f7edeb4b3f9ee75a2cc1274503dd3035a7674badb82e8c6c0de8550e75",
+  "byte_size": 40459,
+  "title": "Voter Registration | Bee County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

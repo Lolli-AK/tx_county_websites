@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.andrews.tx.us/"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-07T14:49:28Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-08T15:00:28Z",
+  "html_sha256": "ee5dc0982228a6b5e236150b0e1bb542a9576c116c3efc9eb16f7c9085e31b1e",
+  "text_sha256": "e6b156e7c2939772a441625a13cd788c5b156fe6b90eaab161b62728624e6f1c",
+  "byte_size": 54744,
+  "title": "Andrews County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

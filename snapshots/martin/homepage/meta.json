@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.martincountytx.com/"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-07T14:49:28Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-08T15:00:28Z",
+  "html_sha256": "e3d9b813a2d6e739bbe226ec4116b0ee95a3d11cb23a6a99ae9e1ed5049502d8",
+  "text_sha256": "87871622d7fb05998d8acd20477ce110d6cc176dc97df838aca00d175845e8f2",
+  "byte_size": 62831,
+  "title": "Martin County | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

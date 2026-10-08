@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.andrews.tx.us/196/Register-to-Vote"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-07T14:49:28Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-08T15:00:28Z",
+  "html_sha256": "dad8cb29af663cdb489b8e4156d908038ae7ac12fb53fd75f829492ef59b1c3d",
+  "text_sha256": "176ccbf7c4b66d5e82b330369fb5d6306ecf08505627236a2d75ed5f436b0380",
+  "byte_size": 46911,
+  "title": "Register to Vote | Andrews County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

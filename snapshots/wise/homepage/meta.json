@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.wise.tx.us/"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-07T15:39:26Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-08T15:00:28Z",
+  "html_sha256": "d2177c557e3fbe1593cd9e6c0ddb496cf05f0dc47cd5d830eb1f73969934f129",
+  "text_sha256": "9bf171e2f0303afa3afaa6fa09a1d73dda3d7a799bffbea6cab08ef602182410",
+  "byte_size": 58714,
+  "title": "Wise County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-07T14:49:28Z",
-  "html_sha256": "1b5ca1432fc2ed39c80d7b8385d6c12edc0ea13c0edc25d8ea9852652dce9b3a",
+  "fetched_at": "2026-10-08T15:00:28Z",
+  "html_sha256": "833dafcb983787c4e93a64382ce650e34b11a5d6bb855fe2499b6b36ae0f5bff",
   "text_sha256": "b142b4547134f4ac55f7f4dfeef1987b3188c87c81c1984da9723fd9b23b57c5",
-  "byte_size": 11720,
+  "byte_size": 11718,
   "title": "March 5, 2026 Primary Election Information - Calhoun County Texas",
   "noncitizen_voting": {
     "present": false,

@@ -155,6 +155,10 @@ Public Notice of Public Logic and Accuracy Test of Electronic Pollbook Equipment
 (Aviso Publico de Prueba de Logica y Precision del Equipo Electronico del Libro de Votaciones)
 Notice of General Election
 (Aviso de Eleccion General)
+Certification of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+(Certificacion de la Prueba Publica de Logica y  Precicion y de la Primera Prueba del Equipo de Tabulacion Automatica)
+Certification of Logic and Accuracy Test of Electronic Pollbook Equipment
+(Certificacion de Logica y Precicion de la Prueba de los Equipos de Cuadernos Electorales Electronicos)
 SampIe ballots / Boletas de Muestra
 Precinct 1
 (Precinto 1)

@@ -29,9 +29,10 @@ Sample Ballots
 Calendar
 Results
 Notices
-Are you Registered to Vote?
-Are you registered to vote?
-View status
+Sample Ballots
+Sample Ballots
+Look up your sample ballot for the November 3, 2026 General and Special Elections.
+View Ballots
 Polling Place
 Where to vote?
 For the 2026 Elections

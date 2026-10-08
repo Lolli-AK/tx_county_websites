@@ -6,24 +6,29 @@
   "redirect_chain": [
     "http://www.elliscountytx.gov/739/Early-Voting-Information-Ballot-by-Mail"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-07T14:49:28Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-08T15:00:28Z",
+  "html_sha256": "d4b25e45995572fafe772d4a875955906dd4d042c1535f67322dffc07f0e1132",
+  "text_sha256": "d07454e14489d2fafcde6cc47f87eaaf62dd0cb4ada0972cdb574cf3a7880115",
+  "byte_size": 82377,
+  "title": "Early Voting Information | Ellis County, TX Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 27
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

@@ -219,7 +219,7 @@ Upcoming events
 Community Outreach Events (0)
 December 12, 2026- Runoff Election (14)
 November 3, 2026 - General Election & Joint Election (10)
-Poll Worker Training (11)
+Poll Worker Training (8)
 Volunteer Deputy Registrar Training (0)
 Voter Registration Events (0)
 Event Type:
@@ -301,8 +301,6 @@ Clerk Training
 2:00 p.m. - 5:00 p.m.
 1520 Round Table Dr. Dallas, Texas 75247
 Training sessions are open to the public as space allows. Attendance must be scheduled in advance by contacting VotingSites-ED@dallascounty.org or calling (469) 627-8683. Please no...
-Last Day to Register to Vote or Make a Change of Address
-10/05/2026 - 10/05/2026
 Clerk Training
 10/05/2026 - 10/05/2026
 8:00 a.m. - 11:00 a.m.
@@ -325,6 +323,8 @@ Practice Makes Perfect
 1520 Round Table Dr. Dallas, Texas 75247
 Training sessions are open to the public as space allows. Attendance must be scheduled in advance by contacting VotingSites-ED@dallascounty.org
 or calling (469) 627-8683. Please...
+Last Day to Register to Vote or Make a Change of Address
+10/05/2026 - 10/05/2026
 Clerk Training
 10/06/2026 - 10/06/2026
 8:00 a.m. - 11:00 a.m.
@@ -520,19 +520,6 @@ Voter Registration Events
 »
 October
 2026
-October 7, 2026
-Election Day Judge
-8:00 a.m. - 11:30 a.m.
-1520 Round Table Dr. Dallas, Texas 75247
-poll-worker-training
-Election Judge Training
-1:30 p.m. - 5:00 p.m.
-1520 Round Table Dr. Dallas, Texas 75247
-poll-worker-training
-Clerk Training
-6:30 p.m. - 9:30 p.m.
-1520 Round Table Dr. Dallas, Texas 75247
-poll-worker-training
 October 8, 2026
 Clerk Training
 8:00 a.m. - 11:00 a.m.
@@ -546,80 +533,6 @@ Election Day Judge Training
 5:30 p.m. - 9:00 p.m.
 1520 Round Table Dr. Dallas, Texas 75247
 poll-worker-training
-October 9, 2026
-Election Day Judge Training
-8:00 a.m. - 11:30 a.m.
-1520 Round Table Dr. Dallas, Texas 75247
-poll-worker-training
-Election Day Judge Training
-1:30 p.m. - 5:00 p.m.
-1520 Round Table Dr. Dallas, Texas 75247
-poll-worker-training
-Clerk Training
-6:30 p.m. - 9:30 p.m.
-1520 Round Table Dr. Dallas, Texas 75247
-poll-worker-training
-October 10, 2026
-Clerk Training
-9:00 a.m. - 12:00 p.m.
-1520 Round Table Dr. Dallas, Texas 75247
-poll-worker-training
-Election Day Judge Training
-2:00 p.m. - 5:00 p.m.
-1520 Round Table Dr. Dallas, Texas 75247
-poll-worker-training
-October 19, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 20, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 21, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 22, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 23, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-Last Day to Receive Ballot by Mail Application
-november-3-2026-general-and-joint-election
-October 24, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 25, 2026
-Early Voting
-12:00PM - 6:00 PM
-november-3-2026-general-and-joint-election
-October 26, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 27, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 28, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-Deadline to mail ballots to Military and Overseas Voters
-december-12-2026-runoff-election
-October 29, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 30, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
 View All
 GET INVOLVED
 Become a Pollworker

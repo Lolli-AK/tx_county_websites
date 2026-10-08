@@ -6,24 +6,30 @@
   "redirect_chain": [
     "https://www.kendallcountytx.gov/217/Military-Overseas-Voters"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-07T14:49:28Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-08T15:00:28Z",
+  "html_sha256": "7855b3e77fd2d366584135a2f477e153e5fd0e8a675a4fa0d9d20472f0c9641c",
+  "text_sha256": "b8ef607bb86a8eb923e232bf13c51dee6357b71719307f8e5443c7657a1b2fce",
+  "byte_size": 42908,
+  "title": "Military & Overseas Voters | Kendall County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "move_act",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 30
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }
