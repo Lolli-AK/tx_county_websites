@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-08T15:00:28Z",
-  "html_sha256": "e47db823f0caa15343eb19a83e6280893a672d7b0f01cee34ca008dbbc329cd8",
-  "text_sha256": "65584b7eea823c9cfa02c92c2d41a094bb64916f7f62591ef4153ef682c4f706",
-  "byte_size": 78538,
+  "fetched_at": "2026-10-09T14:44:51Z",
+  "html_sha256": "e5555f6cc6a18b01ed30893a873aa83eef8154b059503f2e7e6425545558f66b",
+  "text_sha256": "e04b6d3d814ff2becd1492d4231f54f825fd4174efc33a1487241a543e14ec0d",
+  "byte_size": 79454,
   "title": "Elections Ballot by Mail - Caldwell County, TX",
   "noncitizen_voting": {
     "present": false,
@@ -28,7 +28,7 @@
       "military_overseas_voter",
       "citizen_abroad"
     ],
-    "count": 30
+    "count": 31
   },
   "error": null
 }

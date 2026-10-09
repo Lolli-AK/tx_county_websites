@@ -179,6 +179,7 @@ Election Day Polling Locations
 Notice of Election Training Program
 for General Public, Presiding Election Judges, Alternate Election Judges, Election Clerks, County Clerk, Voter Registrar, and County Chairs
 Public Notice of Public Logic and Accuracy Test (LAT) and First Test of Automatic Tabulating Equipment
+Public Notice of Logic and Accuracy Test of Electronic Pollbook Equipment
 Sample Ballots
 Notice of Delivery of Ballots Voted by Mail -EVBB
 Notice of Delivery of Early Voting Balloting Materials

@@ -3,6 +3,7 @@ Election List
 Election Night Reporting
 Filter by:
 ALL
+2026
 2025
 2024
 2023
@@ -17,6 +18,11 @@ ALL
 2014
 2013
 2012
+2026
+2026 Primary Runoff Election
+5/26/2026
+2026 Primary Election
+3/3/2026
 2025
 2025 Constitutional Amendment Election
 11/4/2025

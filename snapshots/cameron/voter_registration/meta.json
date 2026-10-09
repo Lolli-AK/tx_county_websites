@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-08T15:00:28Z",
-  "html_sha256": "f7dd701ef117bb5047aad2bd7fc31daa027cf2b8ef7446c4d8e513ea3eac4d67",
+  "fetched_at": "2026-10-09T14:44:51Z",
+  "html_sha256": "081a56cb0dbb4ca19d9d6e55b14bf485a1987064d1c54184fd6534a86c652408",
   "text_sha256": "c37b52d4633faf142a7caeabed0e07f54a2853ec7652795ea53817153d59586f",
-  "byte_size": 24214,
+  "byte_size": 24212,
   "title": "Register to Vote - Cameron County",
   "noncitizen_voting": {
     "present": false,
