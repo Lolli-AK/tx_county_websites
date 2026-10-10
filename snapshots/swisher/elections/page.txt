@@ -104,16 +104,13 @@ Precinct
 11
 Write-In Candidates
 (Candidatos escritos)
+Early Voting By Mail Roster
 Notice of Public Testing of Voter Tabulating Equipment
 (
 Aviso de prueba pública de equipos de tabulación
 )
 Notice of Electronic Pollbook Testing
-(Aviso de prueba de cuadernos de votación electrónicos) -
-coming soon
-(p
-róximamente
-)
+(Aviso de prueba de cuadernos de votación electrónicos)
 Election Worker Public Training
 (Capacitacion
 Publica Para Trabajadores Electorales)

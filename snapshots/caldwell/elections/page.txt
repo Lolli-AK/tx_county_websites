@@ -140,8 +140,7 @@ Caldwell County Elections
 Est. Caldwell County Population:
 49,859 (5/1/2023)
 Total Registered Voters:
-27,465 (as of 5/01/26)
-Public Logic and Accuracy testing will be delayed to 2:00 p.m. on Tuesday, October 5, 2026.
+28,586 (as of 10/01/26)
 Public Notices
 ▲
 2024-2025 Voter Registration Certificates Information (PDF)
@@ -281,10 +280,14 @@ Order of Cancellation
 Public Notices for the Early Voting Ballot Board
 Notice of Delivery of Provisional Ballots
 (PDF)
-Notice of Convening of Central Count (PDF) - TBD
+Notice of Convening of Central Count
+(PDF)
 Notice of Convening of Early Voting Ballot Board
+Notice of Convening of Early Voting Ballot Board (PDF)
 Notice of Delivery of Ballots Voted by Mail
+Notice of Delivery of Ballots Voted by Mail (PDF) - TBD
 Notice of Delivery of Early Voting Balloting Materials
+Notice of Delivery of Early Voting Balloting Materials - TBD
 Logic and Accuracy Testing
 15-6f Public Notice of Test of Automatic Tabulating Equipment_Caldwell Co.pdf
 Logic and Accuracy Cert_2026 Nov 3.pdf

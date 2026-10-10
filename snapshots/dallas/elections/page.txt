@@ -162,6 +162,9 @@ Historical
 Accessibility
 [rotating image slideshow removed for determinism]
 News & Announcements
+October 9, 2026
+Public Notice of Logic & Accuracy Test of Electronic Pollbook
+uncategorized
 October 5, 2026
 Voter Registration Drive-Thru
 2026
@@ -201,10 +204,6 @@ September 8, 2026
 Irving ISD – Order of Bond Election
 2026
 orders
-September 8, 2026
-Mesquite ISD – Noice of Voter Approval Tax Rate Election
-2026
-notice
 View All
 Election Information
 Sample Ballot
@@ -219,7 +218,7 @@ Upcoming events
 Community Outreach Events (0)
 December 12, 2026- Runoff Election (14)
 November 3, 2026 - General Election & Joint Election (10)
-Poll Worker Training (5)
+Poll Worker Training (2)
 Volunteer Deputy Registrar Training (0)
 Voter Registration Events (0)
 Event Type:
@@ -520,19 +519,6 @@ Voter Registration Events
 »
 October
 2026
-October 9, 2026
-Election Day Judge Training
-8:00 a.m. - 11:30 a.m.
-1520 Round Table Dr. Dallas, Texas 75247
-poll-worker-training
-Election Day Judge Training
-1:30 p.m. - 5:00 p.m.
-1520 Round Table Dr. Dallas, Texas 75247
-poll-worker-training
-Clerk Training
-6:30 p.m. - 9:30 p.m.
-1520 Round Table Dr. Dallas, Texas 75247
-poll-worker-training
 October 10, 2026
 Clerk Training
 9:00 a.m. - 12:00 p.m.

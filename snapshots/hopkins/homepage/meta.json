@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-09T14:44:51Z",
-  "html_sha256": "b411c167b19b3e3f7e70a8f8f28e17de9452a9c8fc4d8da0493076d1bc206f43",
+  "fetched_at": "2026-10-10T14:01:46Z",
+  "html_sha256": "92071ebdff0fea66d66db9c887c0cc5865de3b1793702f5310f64d813a220bcf",
   "text_sha256": "a04a9627925609b2d6e1497d4796e07de68740feb52fd413faefd98f2171c5f3",
-  "byte_size": 32473,
+  "byte_size": 32413,
   "title": "Home Page - Hopkins County",
   "noncitizen_voting": {
     "present": false,

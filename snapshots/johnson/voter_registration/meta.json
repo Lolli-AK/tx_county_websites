@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-09T14:44:51Z",
-  "html_sha256": "ccc3bae0ae7be4f892c21e3782189c47d75a93d01b028ce0cd8e038d271eef91",
+  "fetched_at": "2026-10-10T14:01:46Z",
+  "html_sha256": "d1c316c780e24e2dac0440445079f72fc79585e9aeadaff01ad929321c9324e0",
   "text_sha256": "ed1ffa97376013ab7e7ac9ee4ecc745f0bcd361f77f54ab26f3d2b259970c9d5",
-  "byte_size": 114364,
+  "byte_size": 114734,
   "title": "Register to Vote | Johnson County, TX",
   "noncitizen_voting": {
     "present": false,

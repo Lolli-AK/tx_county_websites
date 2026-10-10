@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-09T14:44:51Z",
-  "html_sha256": "5f3923724e15ce69543d5ed91ae28ce80542bd8ec263b4d56ba4edcb87361d77",
+  "fetched_at": "2026-10-10T14:01:46Z",
+  "html_sha256": "1319e9b803a4e80131fdcbf13dac4a82134e1ddf95c1be11c1e457ea0266c125",
   "text_sha256": "ce3c2eab194eb809c56f36e7f0fd383844c6d2a3d2b7015acd42a7a753066158",
-  "byte_size": 80749,
+  "byte_size": 80308,
   "title": "Military and Overseas Voters (FPCAs) | McLennan County, TX",
   "noncitizen_voting": {
     "present": false,

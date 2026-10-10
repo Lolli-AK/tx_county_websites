@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-09T14:44:51Z",
-  "html_sha256": "c0a99ccabeb114845c676b1d14d669b6f0601e2cd27cef709928d811cc324de2",
+  "fetched_at": "2026-10-10T14:01:46Z",
+  "html_sha256": "8a97751bd116f85319646374cade1a95d3872d8109c94ef95b7f82ee8279ebe6",
   "text_sha256": "f390d29e3196c714db6b5fc2a183452fad92f8f97b1bc613fef26439c527467d",
-  "byte_size": 40439,
+  "byte_size": 40380,
   "title": "Glasscock County, Texas",
   "noncitizen_voting": {
     "present": false,
