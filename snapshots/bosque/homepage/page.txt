@@ -78,10 +78,6 @@ S
 29
 30
 31
-Mon, Oct 12
-Commissioners Court
-Commissioners Court
-Read On
 Tue, Oct 13
 County Court at Law Docket
 County Court at Law Docket
@@ -93,6 +89,10 @@ Read On
 Thu, Oct 15
 County Court at Law Docket
 County Court at Law Docket
+Read On
+Fri, Oct 16
+District Court Criminal Non-Jury Docket
+District Court Criminal Non-Jury Docket
 Read On
 View All Events
 /Calendar.aspx

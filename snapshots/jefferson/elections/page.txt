@@ -222,11 +222,11 @@ Election Results
 City of Port Arthur Runoff Election
 Property Alert
 Jefferson County Voter Registration Total
-147,298
+148,753
 Updated Weekly
 Jefferson County Voter Registration Total
 Updated Weekly
-147,298
+148,753
 [rotating image slideshow removed for determinism]
 County Clerk
 Elections
@@ -246,6 +246,61 @@ JUN
 Monday - June 08, 2026
 7:00 AM - 7:00 PM
 Early Voting – Port Arthur Runoff Election (Week 2)
+JUN
+11
+Thursday - June 11, 2026
+2:00 PM - 3:00 PM
+Volunteer Deputy Registrar Training
+JUN
+13
+Saturday - June 13, 2026
+7:00 AM - 7:00 PM
+Port Arthur Runoff – Election Day
+JUN
+19
+Friday - June 19, 2026
+8:00 AM - 5:00 PM
+Juneteenth Holiday – County Offices Closed
+JUN
+23
+Tuesday - June 23, 2026
+10:00 AM - 11:00 AM
+Volunteer Deputy Registrar Training
+JUL
+03
+Friday - July 03, 2026
+8:00 AM - 5:00 PM
+Fourth of July (Day of Observance) – County Offices Closed
+OCT
+05
+Monday - October 05, 2026
+8:00 AM - 5:00 PM
+Last Day to Register to Vote for November Election
+OCT
+19
+Monday - October 19, 2026
+8:00 AM - 5:00 PM
+Early Voting – November Election
+OCT
+20
+Tuesday - October 20, 2026
+8:00 AM - 5:00 PM
+Early Voting – November Election
+OCT
+21
+Wednesday - October 21, 2026
+8:00 AM - 5:00 PM
+Early Voting – November Election
+OCT
+22
+Thursday - October 22, 2026
+8:00 AM - 5:00 PM
+Early Voting – November Election
+OCT
+23
+Friday - October 23, 2026
+8:00 AM - 5:00 PM
+Last Day to Apply for Ballot By Mail – November Election
 OCT
 26
 Monday - October 26, 2026
@@ -256,6 +311,26 @@ OCT
 Tuesday - October 27, 2026
 7:00 AM - 7:00 PM
 Early Voting – November Election
+OCT
+28
+Wednesday - October 28, 2026
+7:00 AM - 7:00 PM
+Early Voting – November Election
+OCT
+29
+Thursday - October 29, 2026
+7:00 AM - 7:00 PM
+Early Voting – November Election
+OCT
+30
+Friday - October 30, 2026
+7:00 AM - 7:00 PM
+Early Voting – November Election
+NOV
+03
+Tuesday - November 03, 2026
+7:00 AM - 7:00 PM
+Election Day – November Election
 DEC
 24
 Thursday - December 24, 2026

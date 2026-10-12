@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-73°F
+80°F
 EN
 ES
 Government
@@ -45,14 +45,6 @@ Official website of Maverick County, Texas
 Events
 Upcoming events
 View all
-12
-OCT
-holiday
-Holiday
-Columbus Day
-Monday, October 12, 2026
-All county offices closed
-All Maverick County offices will be closed in observance of this federal holiday.
 14
 OCT
 meeting
@@ -76,6 +68,14 @@ Thanksgiving Day
 Thursday, November 26, 2026
 All county offices closed
 All Maverick County offices will be closed in observance of this federal holiday.
+27
+NOV
+holiday
+Holiday
+Day After Thanksgiving
+Friday, November 27, 2026
+All county offices closed
+All Maverick County offices will be closed in observance of this federal holiday.
 General Election · Nov 3, 2026
 Get ready to vote in the General Election
 Check whether you're registered, learn the requirements to register, which ID to bring, and all the key dates.
@@ -84,14 +84,14 @@ Am I registered?
 Today · Vote
 Early voting starts in
 Monday, October 19 · polls open at 8:00 AM
-8 days left to vote early
-7
+7 days left to vote early
+6
 Days
-22
+19
 Hours
-20
+41
 Min
-27
+59
 Sec
 Last day to register
 Mon, Oct 5
@@ -136,7 +136,7 @@ PDF
 Open document
 Foreclosure Postings
 Latest
-November 3, 2026 - Jose Manuel Ayala Jr. and Leticia Ayala
+December 1, 2026 - Jose Rodolfo Rendon Jr.
 View all documents
 PDF
 Open document
@@ -202,10 +202,10 @@ Emergency Operations Center
 Sign Up for Emergency Alerts
 Get urgent Maverick County notifications by text, call or email: severe weather, evacuations, road closures and emergencies.
 Sign Up
-73°
+80°
 F
 Weather · Eagle Pass
-Clear
+Cloudy
 Official portal · Transparency
 Commissioners Court Agendas
 Access agendas, minutes, recordings and official notices for every Maverick County Commissioners Court session. All public information from the county's governing body, in one place.

@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.deltacountytx.com/elections"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-11T14:26:49Z",
-  "html_sha256": "7eb27639e5a78d48038684e70aad87c90712bab0771bfd4e49c16977c69c6c5f",
-  "text_sha256": "4f61d88c9c21e1d84cb87d87ed763d60f93bab3d7d5b1778430dd86029a82f9a",
-  "byte_size": 104013,
-  "title": "Elections | Delta County, TX",
+  "fetched_at": "2026-10-12T17:04:32Z",
+  "html_sha256": "bd8c8d30fa9065ec28fa88dfcc4bf4e19c9eb304164798441a7352595d31a491",
+  "text_sha256": "5605392c110b7e30ca0b3276e9c05e51bb4c3e6dbb781768c7ca46197bd72ae2",
+  "byte_size": 2866,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

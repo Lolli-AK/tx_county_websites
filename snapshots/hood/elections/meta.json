@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://hoodcounty.texas.gov/departments/elections_administration/index.php"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-11T14:26:49Z",
-  "html_sha256": "68ed3e7b20d647e33783e0c65890cf35f6aac28d02ce7b20106dc740a32d9ef9",
-  "text_sha256": "343d94af6626b89cbd534b74068b9a69fb11414ec320aadb2dc9a72bd8efe7c4",
-  "byte_size": 145,
-  "title": "403 Forbidden",
+  "fetched_at": "2026-10-12T17:04:32Z",
+  "html_sha256": "97001105cf3e31a048688f19d14e150fe160bab47764e86a0879e429f6f481cd",
+  "text_sha256": "0ea14908454809ac6fbc5a1fbb71c96fe572aceab3dab592046c01ddeac8679f",
+  "byte_size": 56072,
+  "title": "Hood County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

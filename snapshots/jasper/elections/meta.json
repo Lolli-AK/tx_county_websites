@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-11T14:26:49Z",
-  "html_sha256": "c937d7e15c1c4107985ee41dd52be74164f784e7a76d8cfc46f9c19e27e6f282",
+  "fetched_at": "2026-10-12T17:04:32Z",
+  "html_sha256": "e14784a0a95eaacba8e144c509e8f6eda5ec04f94614707def4c08adf7595563",
   "text_sha256": "55b66b724a50932e41da607927e28a1b07b6681c63df810220d1bcd4b1e1b829",
-  "byte_size": 107557,
+  "byte_size": 107473,
   "title": "Elections | Jasper County, Texas",
   "noncitizen_voting": {
     "present": false,

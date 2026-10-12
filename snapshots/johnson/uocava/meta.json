@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-11T14:26:49Z",
-  "html_sha256": "cb7f6cf6d19a7b8bed5f38aa201296b740707200078cbab913b940c8924ed661",
+  "fetched_at": "2026-10-12T17:04:32Z",
+  "html_sha256": "240ae317449839bb2a31a08c9f9bb292c861c0d2d6006662eb6782bdfaa5c08b",
   "text_sha256": "4811afda76768f6d705a5ef174f9e48ceb55495a61d661013391a0234e29f00e",
-  "byte_size": 117245,
+  "byte_size": 117236,
   "title": "Federal Post Card Application (FPCA) for Military/Overseas Citizens to Vote by Mail | Johnson County, TX",
   "noncitizen_voting": {
     "present": false,
