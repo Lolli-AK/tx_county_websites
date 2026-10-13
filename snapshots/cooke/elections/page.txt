@@ -110,8 +110,9 @@ Cooke County Voter Registrar
 Brandy Ann Carr
 112 South Dixon
 Gainesville, Texas 76240
-Phone: (940) 668-5500, Option 8
 VoterReg@co.cooke.tx.us
+Phone: (940) 668-5500, Option 8
+(The voice menu #8 says Tax Assessor/Collector and Vehicle registration, but we handle Voter registration as well.)
 How to Register to Vote
 Am I Registered to Vote? (Check your status)
 Guide for updating your address
@@ -147,6 +148,7 @@ Order of Appointment for the Early Voting Ballot Board
 Order of Election for City of Gainesville
 Order of Election for County Officers
 Proclamation of General Election by the Governor of the State of Texas
+Saint Jo ISD Order of Cancellation
 Saint Jo ISD Order of Election
 Sivells Bend ISD Order of Cancellation
 Slidell ISD Order of Cancellation
@@ -627,6 +629,97 @@ Two Way Subdivisions Order of Election
 Two Way Special Utility District Order of Cancellation
 2024
 ▲
+November 5th, 2024 General Election
+November 5th, 2024 General Election
+Official Election Results
+Cooke County Official Summary Results
+Cooke County Official Voting Results - Pct by Pct
+Canvass of Votes
+Official Election Day Totals
+Official Election Vote Totals
+Official Election Early Voting In Person Totals
+Official Election Early Ballot by Mail Totals
+Official Totals Election Reconciliation
+Cast Vote Record
+Unofficial Election Results
+Cooke County Unofficial Early Voting Results
+Cooke County Unofficial Precinct by Precinct Report
+Cooke County Unofficial Final Summary Results
+Polling Locations
+Early Voting Hours
+Important Dates
+Sample Ballots
+General Election - All Precincts
+Precinct by Precinct Ballots:
+Pct 1
+Pct 1C
+Pct 2
+Pct 3
+Pct 4
+Pct 4C
+Pct 6
+Pct 7
+Pct 8
+Pct 10
+Pct 11
+Pct 12
+Pct 17
+Pct 18
+Pct 21
+Pct 22
+Pct 33
+Saint Jo ISD
+Slidell ISD
+Election Day Rosters
+In-Person
+Ballot by mail
+General Election Voting Statistics
+Voters by Hour and Age
+(Unofficial)
+Early Voting - In Person Rosters
+October 21, 2024
+October 22, 2024
+October 23, 2024
+October 24, 2024
+October 25, 2024
+October 26, 2024
+October 27, 2024
+October 28, 2024
+October 29, 2024
+October 30, 2024
+October 31, 2024
+November 1, 2024
+<>
+Ballot by mail Rosters
+October 21, 2024
+October 22, 2024
+October 23, 2024
+October 24, 2024
+October 25, 2024
+October 26, 2024
+October 27, 2024
+October 28, 2024
+October 29, 2024
+October 30, 2024
+October 31, 2024
+November 1, 2024
+Notices & Orders
+Notice of Partial Manual Count
+Notice of Test of Automatic Tabulating Equipment
+Notice of General Election
+Notice of Election Training
+Order of Appointment for Election Judges & Alternate Judges
+Order of Appointment for Central Counting Station
+County Officers Order of Election
+Era ISD Cancellation of Election
+Order of Appointment for Early Voting Ballot Board
+Walnut Bend Resolution & Order of Election
+Walnut Bend Resolution & Order of Special Election
+Saint Jo ISD Notice of Election
+Saint Jo ISD Order of Election
+Sivell's Bend Order of Special Election
+Slidel ISD Notice of Election
+Slidell ISD Order of Election
 May 28th, 2024 Joint Primary Runoff Election
 May 28th, 2024 Joint Primary Runoff Election
 Official Election Results

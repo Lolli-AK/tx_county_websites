@@ -157,7 +157,8 @@ RESULTS
 Unofficial Reconciliation Form
 Official Reconciliation Form
 Election Notices:
-Gregg County Appraisal District:
+Gregg County Appraisal District
+:
 GCAD Election Order
 (Opens PDF)
 Notice of Ballot Draw
@@ -165,7 +166,9 @@ Notice of Ballot Draw
 Ballot Draw Results
 (Opens PDF)
 Notice of Election
-Sabine ISD:
+(Opens PDF)
+Sabine ISD
+:
 Trustee election order
 (Opens PDF)
 (will cancel election)
@@ -177,6 +180,7 @@ Governor’s Proclamation
 Gregg County Order
 (Opens PDF)
 Notice of Election
+(Opens PDF)
 Notice of Training
 (Opens PDF)
 Notice of County Election Board Meeting
@@ -186,6 +190,8 @@ Notice of L&A Test
 Results of Hash Comparison
 (Opens PDF)
 Notice of Poll Book Test
+(Opens PDF)
+Results of Pollbook Test
 Notice of Ballot Board Meeting
 Notice of Canvass
 Notice of Post Election Hand Count Audit
