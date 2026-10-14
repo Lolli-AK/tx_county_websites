@@ -195,7 +195,7 @@ Highlighted
 Elections/ Voter Registration
 Elections/ Voter Registration
 Elections Commission
-Early Voting Information (Nov 3)
+Early Voting and Election Day Information (Nov 3)
 Sample Ballots (Nov 3)
 Election Notices
 Voter Precinct Interactive Web Map
@@ -251,8 +251,11 @@ Government
 Departments
 Elections/ Voter Registration
 2026 Election Results
-June 13, 2026-Municipal Runoff Election
+November 3, 2026-General Election
 Unofficial Results
+Preliminary Election Reconciliation-Unofficial Totals
+June 13, 2026-Municipal Runoff Election
+official Results
 Preliminary Election Reconciliation - Unofficial Totals
 Election Reconciliation-Unofficial Totals
 May 26, 2026-Primary Runoff Election

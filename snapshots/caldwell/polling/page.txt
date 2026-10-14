@@ -187,10 +187,9 @@ School
 College
 MUD
 FWSD
-GCD
-SUD
 EVBB/SVC
 L&A
+Cancellations
 State Notices
 November 2026 General Election Proclamation (PDF)
 November 2026 Ballot Certification (PDF)
@@ -215,15 +214,9 @@ City District(s)
 City of Lockhart
 Order of Election (PDF)
 Notice of Election (PDF) - TBD
-City of Niederwald
-Certification of Unopposed Candidates
-(PDF)
 City of Martindale
 Order of Election (PDF)
 Notice of Election (PDF) - TBD
-City of Mustang Ridge
-Order of Cancellation
-(PDF)
 School District(s)
 Lockhart ISD
 Order of Election
@@ -251,16 +244,6 @@ Order of Election
 (PDF)
 Notice of Election
 (PDF)
-Groundwater Conservation District(s)
-Edwards Aquifer Authority
-Certificate of Unopposed Candidates
-(PDF)
-Order of Cancellation of Election
-(PDF)
-Special Utility District(s)
-Maxwell SUD
-Order of Cancellation
-(PDF)
 Public Notices for the Early Voting Ballot Board
 Notice of Delivery of Provisional Ballots
 (PDF)
@@ -276,6 +259,23 @@ Logic and Accuracy Testing
 15-6f Public Notice of Test of Automatic Tabulating Equipment_Caldwell Co.pdf
 Logic and Accuracy Cert_2026 Nov 3.pdf
 Download file
+City of Niederwald
+Certification of Unopposed Candidates
+(PDF)
+City of Mustang Ridge
+Order of Cancellation
+(PDF)
+Caldwell Hays ESD 1
+Order of Cancellation
+(PDF)
+Edwards Aquifer Authority
+Certificate of Unopposed Candidates
+(PDF)
+Order of Cancellation of Election
+(PDF)
+Maxwell SUD
+Order of Cancellation
+(PDF)
 Press ENTER key to focus on the active panel
 Press the enter key or spacebar to expand or collapse the accordion
 SAMPLE BALLOTS

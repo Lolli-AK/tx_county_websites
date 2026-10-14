@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-13T15:21:13Z",
-  "html_sha256": "6f2f1ed9cfdae9b0fb5a47cf64fa7edca8a5f0717f85aecb034fb063f0a09662",
+  "fetched_at": "2026-10-14T13:09:05Z",
+  "html_sha256": "abac1bbf6b82b35a5e0b1fb00d4da4828260ecf5bcc881375989ad2757d381b2",
   "text_sha256": "992477bd425fc586291f04339114ea3d938add24b7b018ba779c6d55360b4ff6",
-  "byte_size": 36180,
+  "byte_size": 36148,
   "title": "Collingsworth County, Texas",
   "noncitizen_voting": {
     "present": false,

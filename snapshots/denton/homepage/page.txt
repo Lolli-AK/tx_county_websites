@@ -8,12 +8,12 @@ Services
 Our Community
 How Do I...
 Search
-EMERGENCY NOTIFICATIONS
-Be sure to sign up for alerts to receive timely and critical messages.
-Sign Up for Emergency Notifications
-STEAR REGISTRY
-Sign up for the State of Texas Emergency Assistance Registry (STEAR).
-Sign Up for Alerts
+VOTING EARLY?
+Early voting begins on Monday, Oct. 19, and continues through Friday, Oct. 30.
+Click Here for Early Voting Locations
+VOTING ON ELECTION DAY?
+Enter first and last name, birth date. Hit enter. Page gives voting location.
+Find Your Election Day Voting Site HERE
 Agendas
 & Minutes
 Elections
@@ -112,8 +112,12 @@ Denton County Development Services
 at (940) 349-2990.
 News & Events
 Stay informed with the County
+County News
 Public Notices
 County News
+[rotating image slideshow removed for determinism]
+View All News
+/CivicAlerts.aspx
 Public Notices
 Vote on Adopted Budget
 Additional Info...
@@ -121,10 +125,6 @@ Adopted Tax Rate
 Additional Info...
 2026 Denton County Notice of Tax Rate
 Read The Notice
-View All News
-/CivicAlerts.aspx
-County News
-[rotating image slideshow removed for determinism]
 View All News
 /CivicAlerts.aspx
 Calendar of Events
@@ -175,16 +175,14 @@ Sat
 29
 30
 31
-Tue, Oct. 13
-CPR Training (3 hours)
-Instructor: Adam Krech. For more information, please contact:
-Lt. Alatzas – (940) 349-1705 or Ari.A...
-Tue, Oct. 13
-Denton County Commissioners Court Meeting
-Commissioners Court meetings are open to the public.
-Tue, Oct. 13
-Community Engagement @ Emily Fowler Library
-Your chance to meet with a member of the Denton County Public Health team, learn more about DCPH pro...
+Sat, Oct. 17
+DCPH @ Denton Community Market
+Representatives from the DCPH WIC team will be at the Denton Community Market to provide information...
+Sat, Oct. 17
+Denton Dig It! Archeology Fair
+Sat, Oct. 17
+DCPH @ Parkway Elementary
+Representatives from DCPH's WIC and Women's Health teams will provide information and community reso...
 View All Events
 /Calendar.aspx
 County Meetings
@@ -231,9 +229,6 @@ Sat
 29
 30
 31
-Tue, Oct. 13
-Denton County Commissioners Court Meeting
-Commissioners Court meetings are open to the public.
 Tue, Oct. 20
 Denton County Commissioners Court Meeting
 Commissioners Court meetings are open to the public.
@@ -245,6 +240,7 @@ View All Events
 County Historical Markers
 Denton County Courts
 Watch Commissioners Court
+Sign Up for Emergency Notifications
 Stay Connected
 Denton County Social Media
 Facebook

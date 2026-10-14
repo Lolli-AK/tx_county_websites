@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.co.lamb.tx.us/page/ElectionsHome"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-13T15:21:13Z",
-  "html_sha256": "26e9f46ee15cb064c2aeb9f8c7ba31aa8409fcac4d0fbbf8bd0af5635a3719e9",
-  "text_sha256": "2f3820f7e07550288acdf8d1ad8ce8d02d98aa93c3bc53289eed1e78533876a1",
-  "byte_size": 683,
-  "title": "403 - Forbidden: Access is denied.",
+  "fetched_at": "2026-10-14T13:09:05Z",
+  "html_sha256": "1d6c3b7ec1d09cdec938083566e777b6cc384eef6e62d1d3d39be35a0a8bc715",
+  "text_sha256": "d696e15898cc4828086def7bb2262dd0cf21c01e5b429dab431bc902acd36931",
+  "byte_size": 80947,
+  "title": "Elections & Voting | Lamb County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "fvap"
+    ],
+    "count": 1
   },
   "error": null
 }

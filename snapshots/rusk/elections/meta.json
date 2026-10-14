@@ -2,28 +2,34 @@
   "county": "Rusk",
   "page_type": "elections",
   "requested_url": "https://www.ruskcountytx.gov/page/rusk.Elections",
-  "final_url": "https://www.ruskcountytx.gov/page/rusk.Elections",
+  "final_url": "https://www.ruskcountytx.gov/page/Elections",
   "redirect_chain": [
-    "https://www.ruskcountytx.gov/page/rusk.Elections"
+    "https://www.ruskcountytx.gov/page/rusk.Elections",
+    "https://www.ruskcountytx.gov/page/Elections"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-13T15:21:13Z",
-  "html_sha256": "b3444ec4a2dc86b524c6b757fc97f4c9ae95a90be9828bb64185a4ec48bd6a50",
-  "text_sha256": "ab9b47dcc74a027994343952269fabf692cb7bb9c437ede9cac2c3c29c8ac2af",
-  "byte_size": 970,
-  "title": "This type of page is not served.",
+  "fetched_at": "2026-10-14T13:09:05Z",
+  "html_sha256": "b011436ce917236ee759663929258a99bba02b724d498da891cd2b8676f78415",
+  "text_sha256": "544f874fa3afb81a69b56aeb12d3cf2648f629a225640fdf87a8fa4139b14da5",
+  "byte_size": 191949,
+  "title": "Elections & Voting | Rusk County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 30
   },
   "error": null
 }

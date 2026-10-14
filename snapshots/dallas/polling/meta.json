@@ -2,20 +2,20 @@
   "county": "Dallas",
   "page_type": "polling",
   "requested_url": "https://www.dallascountyvotes.org/vote-centers/",
-  "final_url": "https://mailchi.mp/dallascountyvotes.org/lu4b864r3c",
+  "final_url": "https://experience.arcgis.com/experience/8204fc2e36cd4fac8729efcedd4fda7f/page/Page?views=Early-Voting",
   "redirect_chain": [
     "https://www.dallascountyvotes.org/vote-centers/",
-    "https://mailchi.mp/dallascountyvotes.org/lu4b864r3c"
+    "https://experience.arcgis.com/experience/8204fc2e36cd4fac8729efcedd4fda7f/page/Page?views=Early-Voting"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-10-13T15:21:13Z",
-  "html_sha256": "cc7adcfde23ca3fd7f2891babf6120bb95fd6bcdaa88f569b5e5eaf99090ffa1",
-  "text_sha256": "42c34e7c39c5daf3757deab0f0f0ab7ca07b390ac09cf5d867429638697fcccd",
-  "byte_size": 6106,
-  "title": "110326 - Early Voting & Election Day Vote Centers",
+  "fetched_at": "2026-10-14T13:09:05Z",
+  "html_sha256": "4678dc72c8d89f98af76437cc90f26243ca0003481503fe733bef4cd36b6e661",
+  "text_sha256": "dd99a464aa84776781b9ad56c05bfe67525e9f22cded603ca8c49c6cb22e6d2f",
+  "byte_size": 10580,
+  "title": "Vote Center Finder 3.0",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

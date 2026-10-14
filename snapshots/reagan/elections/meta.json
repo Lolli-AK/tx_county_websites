@@ -2,19 +2,20 @@
   "county": "Reagan",
   "page_type": "elections",
   "requested_url": "https://www.co.reagan.tx.us/page/reagan.Elections",
-  "final_url": "https://www.co.reagan.tx.us/page/reagan.Elections",
+  "final_url": "https://www.co.reagan.tx.us/page/Elections",
   "redirect_chain": [
-    "https://www.co.reagan.tx.us/page/reagan.Elections"
+    "https://www.co.reagan.tx.us/page/reagan.Elections",
+    "https://www.co.reagan.tx.us/page/Elections"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-13T15:21:13Z",
-  "html_sha256": "5189f94b3d114197ba90db8a0306c62bdb3f87cdbee38a179109fb9c2caa5ef8",
-  "text_sha256": "f95ced7cc907e3c11ad727ab82abf4f5de407f8aaca4a5c6d46b34ba0787347c",
-  "byte_size": 137718,
-  "title": "Election Notices - Reagan County",
+  "fetched_at": "2026-10-14T13:09:05Z",
+  "html_sha256": "ae991d9d8b4479306f01be9eaf6ba3fc86d4e624ee38bf9269ab712569d9810f",
+  "text_sha256": "c245c0045da0aab6cd047237d1cf0924458c9fb3725a3e9bc93b1fae8ed5587a",
+  "byte_size": 143499,
+  "title": "Elections & Voting | Reagan County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
