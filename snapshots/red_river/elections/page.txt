@@ -71,6 +71,7 @@ Public Notice of Logic & Accuracy Testing
 Sample Ballot for ALL PRECINCTS for 2026 November General Election
 Certification of Public LAT
 Hash Test Results (PASS)
+Notice of LAT of Poll Pads
 Primary Runoff Information
 Notice of Election for Primary Runoff
 Logic & Accuracy Testing Notice for Runoff

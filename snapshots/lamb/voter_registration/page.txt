@@ -143,13 +143,22 @@ or you may request one by contacting the Elections Administrator.
 Ballot by Mail - English
 Boleta por Correo - Español
 Applications my be mailed or emailed to the Elections Administrator.
+Dates (fechas), Times (tiempo) and Location (ubicación) of Early Voting (votación anticipada)
+October (octubre) 19 - October (octubre) 23, 2026 from 8:00 AM to 5:00 PM
+October (octubre) 24 from 7:00 AM to 7:00 PM and October (octubre) 25, 2026 from 9:00 AM to 3:00 PM
+October (octubre) 26 - October (octubre) 30, 2026 from 7:00 AM to 7:00 PM
+For early voting all voters will vote at: (Para la votación anticipada a todos los electores votarán en):
+Main Location:
+Lamb County COURTHOUSE - COUNTY CLERK'S OFFICE
+1
+00 6th Drive, Room 103, Littlefield, TX 79339
 General Election November 3, 2026
 ▲
 Order of Election (PDF)
 Notice of Voter-Approval Tax Rate Election for Sudan Independent School District (PDF)
 Convocatoria de Elecciónes Para la Aprobacón de los Impositiva por Parte de los Votantes Distrito Escolar Independiente de Sudán (PDF)
-Public Notice of L & A Testing of Automatic Tabulating Equipment (PDF)
 Certification of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+Test date 10.16.26
 ORDER CALLING A VOTER-APPROVAL TAX RATE ELECTION AND NOTICE OF ELECTION
 Notice of General Election
 Order Calling a Bond Election and Notice of Election - Olton ISD
@@ -255,7 +264,7 @@ PCT 5 - OLTON ISD
 PCT 10 - AMHERST
 PCT 2 - LITTLEFIELD
 PCT 5 - OLTON
-PCT 11 - SUAND ISD
+PCT 11 - SUDAN ISD
 PCT 3 - EARTH
 PCT 6 - LITTLEFIELD
 PCT 11 - SUDAN

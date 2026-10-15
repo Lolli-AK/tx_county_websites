@@ -601,7 +601,7 @@ Election Notice
 Contests
 City of Forest Hill
 Election Order
-Election Notice
+Special Election Notice
 Candidates/Contests
 City of North Richland Hills
 Bond Election
@@ -634,7 +634,13 @@ Election Notice
 Candidates
 City of White Settlement
 Election Order
-Election Notice
+General Election Notice (
+English
+,
+Spanish
+,
+Vietnamese
+)
 Candidates
 Eagle Mountain-Saginaw ISD
 Bond and Vatre Election
@@ -728,7 +734,7 @@ ElectionsInfo@tarrantcountytx.gov
 Phone: 817-831-8683
 TDD: 817-759-7801
 Hours of Business: Monday – Friday, 8 a.m. - 5 p.m.
-This page was last modified on October 09, 2026
+This page was last modified on October 14, 2026
 TARRANT COUNTY, TEXAS
 County Telephone Operator
 817-884-1111

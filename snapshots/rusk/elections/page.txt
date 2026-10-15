@@ -7,38 +7,15 @@ TRANSLATE
 Search
 Toggle main menu visibility
 Menu
-About
-2026 Holiday Schedule
-Rusk County Airport
-Airport Facilities
-Airport Contact Information
-Library System
-Library System - Home
-Rusk County Library
-McMillan Memorial Library
-Mt. Enterprise Library
-Tatum Public Library
-Youth Expo Center
-Historical Commission
-Garbage Collection
-Septic Inspections
-Title VI Compliance
 Government
 County Judge
 Commissioners Court
 County Court at Law
-County/District Attorney
 County Auditor
 County Clerk
 Tax Assessor-Collector
 Treasurer
 Constables
-Justice of the Peace
-Precinct 1
-Precinct 2
-Precinct 3
-Precinct 4
-Precinct 5
 Sheriff
 District Court
 District Court Judge
@@ -47,13 +24,20 @@ Civil Dockets
 District Attorney
 District Clerk
 Departments
+AgriLife Extension Service
 Elections
 Emergency Management
-AgriLife Extension Service
-Human Resources
 Health Department
+Historical Commission
+Human Resources
 Indigent Health
+Justice of The Peace
+Public Libraries
+Rusk County Airport
+Airport Contact Information
+Airport Facilities
 Veterans Services
+Youth Expo Center
 Financial Transparency
 Treasurer Reports
 Budgets
@@ -62,6 +46,10 @@ Tax Abatement Agreements
 Tax Rate
 2019 Annual Local Debt Report
 Public Notices
+Title VI Compliance
+Septic Inspections
+Holiday Schedule 2026
+Garbage Collections
 Public Notices - Events & Calendar
 Commissioners' Court Agendas & Minutes
 Foreclosure Notices

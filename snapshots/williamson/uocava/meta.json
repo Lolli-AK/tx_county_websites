@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-14T13:09:05Z",
-  "html_sha256": "58437924e6d8eb5ccdf3243a6b2fd3e08c9861a41d9a90154f49e3001375c029",
+  "fetched_at": "2026-10-15T03:54:52Z",
+  "html_sha256": "40df98092e25da0c36ae2a2235314056c811006c4aeab870c80c800fcff6d413",
   "text_sha256": "383f56feb093b0414a2a1162ab9f210a6655146e782c5266571c02063d65fb24",
-  "byte_size": 68624,
+  "byte_size": 68654,
   "title": "FPCA Military & Overseas | Williamson County, TX",
   "noncitizen_voting": {
     "present": false,

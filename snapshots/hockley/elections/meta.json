@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-14T13:09:05Z",
-  "html_sha256": "335122c73e4d00843a7f3146d16b59a07482f4160509e8d9b896e56e4ea3d01c",
+  "fetched_at": "2026-10-15T03:54:52Z",
+  "html_sha256": "4dd39ad71acd6726c4766d377cb536e3a1fa8a890004fae69794f8f9df2010ea",
   "text_sha256": "ec1e50d438d29e76892f1561f65266626a2a99b5ef90c4e2df8ca8cae9d615c7",
-  "byte_size": 83141,
+  "byte_size": 83149,
   "title": "Elections | Hockley County, Texas",
   "noncitizen_voting": {
     "present": false,

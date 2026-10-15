@@ -116,7 +116,7 @@ Election Day
 Polling Locations
 Sample Ballot Pct 3
 - County Only
-Election Worker Training
+Notice of Change of Polling Location
 Sample Ballot Pct 3
 - County & ESD
 List of Presiding Judges
@@ -153,6 +153,7 @@ Certification of E-Poll Book Testing
 Equipment
 Testing
 Notice of RLA Testing
+Notice of Election Worker Training
 May 26, 2026 Primary Run-Off
 Notice of L&A Testing
 Order of Election

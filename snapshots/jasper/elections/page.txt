@@ -91,7 +91,6 @@ Application for Ballot By Mail -
 English (PDF)
 |
 Spanish (PDF)
-How to use the Express Vote machine
 Helpful Links
 Toggle main menu visibility
 Menu
@@ -108,6 +107,10 @@ Security of Elections (PDF)
 Notice of Voting Order Priority (PDF)
 Curbside Voting (PDF)
 Voters With Physical Disabilities (PDF)
+How to use the Express Vote machine
+Additional Instructions for Selecting a Write-in Candidate on the Express Vote Machine
+Select Write-in box
+Type in the candidate’s name of your choice from the list of certified write-in candidates posted in your voting booth
 Finance Reports
 ▲
 As of September 1, 2023, all campaign reports submitted to the Jasper County Clerk’s office shall be placed on our website as they are filed. (HB 2626)
@@ -321,6 +324,7 @@ Sample Ballots (PDF)
 List of Write In Candidates (PDF)
 Rescheduled Notice of Public L&A Test (PDF)
 Certificate of L&A Testing (PDF)
+Public Notice of L&A Testing of Electronic Pollbook Equipment (PDF)
 Press the enter key or spacebar to expand or collapse the accordion
 May 26th, 2026 Election
 ▲

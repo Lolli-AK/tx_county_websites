@@ -121,8 +121,8 @@ Information on Photo ID
 Hart Verity Voting System
 Please enable voterstats plugin
 Registered Voters
-as of 08/07/2026
-201,272
+as of 10/14/2026
+204,551
 Upcoming Events
 There are no current events
 Elections Office
