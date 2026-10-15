@@ -118,14 +118,14 @@ Polling Locations
 Sample Ballots
 Ballot by Mail Roster
 In Person Voting Rosters
+Results and Reports
+Central Count Plan
 Notice of Public Test
 Certification of Public Test
 Notice - Delivery of Ballots by Mail
 Notice - Delivery of Provisional Ballots
 Notice of Post Election Hand Count Audit
 Certification of Post Election Hand Count Audit
-Central Count Plan
-Results and Reports
 TX SOS Ballot Certification - Franklin County TX Only
 TX SOS Write-In Candidate Certification
 Other Entity

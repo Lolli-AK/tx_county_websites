@@ -109,9 +109,18 @@ Click here for the Frio Onsolve account portal
 TEXT FrioAlerts to 24639
 Scan this QR code
 Press the enter key or spacebar to expand or collapse the accordion
-Frio County Remembers 9/11
+TOWN HALL MEETING:
 ▲
-Active slide image alt text will be announced here
+FRIO COUNTY TOWN HALL MEETING
+Frio County invites all members of the public to join us for a
+Town Hall Meeting
+tomorrow.
+Date: Friday, October 16, 2026
+Time: 6:00 PM
+Location: Frio County Conference Room-410 S. Pecan St., Pearsall, TX 78061
+We encourage our community members to attend, stay informed, and take part in the conversation.
+Your participation and input are important to our community.
+We look forward to seeing you there!
 Press the enter key or spacebar to expand or collapse the accordion
 Frio County
 [live weather removed for determinism]

@@ -1,10 +1,10 @@
 Just a moment...
-brazoscountytx.gov
+www.brazoscountytx.gov
 Performing security verification
 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
-Verification successful. Waiting for brazoscountytx.gov to respond
+Verification successful. Waiting for www.brazoscountytx.gov to respond
 Ray ID:
-a4b04162ae41510e
+a4b1cd432f802c7f
 Performance and Security by
 Cloudflare
 Privacy
