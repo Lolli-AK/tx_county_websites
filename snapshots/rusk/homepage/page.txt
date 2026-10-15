@@ -15,6 +15,7 @@ Commissioners Court
 County Court at Law
 County Auditor
 County Clerk
+Justice of the Peace
 Tax Assessor-Collector
 Treasurer
 Constables
@@ -33,7 +34,6 @@ Health Department
 Historical Commission
 Human Resources
 Indigent Health
-Justice of The Peace
 Public Libraries
 Rusk County Airport
 Airport Contact Information

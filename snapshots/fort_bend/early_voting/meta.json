@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-15T12:55:04Z",
-  "html_sha256": "4064a7eb1dcbbec4f92652c3eaf8719ae178efc2b55669d68012ad65b95c511d",
+  "fetched_at": "2026-10-15T16:36:35Z",
+  "html_sha256": "51e51ffde4c454be7ee7b88a8116a2987e13894b29e315a3c2f180e6afd4426c",
   "text_sha256": "067bc4bb7a8da746264454d36f0a39697496f864131a26d7f851394cf0c26673",
-  "byte_size": 153628,
+  "byte_size": 153610,
   "title": "Early Voting Statistics | Fort Bend County",
   "noncitizen_voting": {
     "present": false,

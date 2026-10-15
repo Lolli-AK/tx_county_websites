@@ -225,6 +225,8 @@ CURBSIDE VOTING
 If are physically unable to enter the polling place without personal assistance or likelihood of injuring your health You may vote curbside by calling 806-673-5936. We will need to know the polling location you are at, as well as the color and make of your vehicle. We will then inform the election personnel at your polling location, and they will be with you promptly.
 TEXAS ELECTION NIGHT RESULTS
 https://goelect.txelections.civixapps.com/ivis-enr-ui/races
+TURN OUT DATA FOR THE NOVEMBER 3, 2026 GENERAL ELECTION
+https://goelect.txelections.civixapps.com/ivis-evr-ui/evr.
 2026 Election Information -
 ▲
 NOVEMBER 3, 2026 GENERAL ELECTION SAMPLE BALLOTS
