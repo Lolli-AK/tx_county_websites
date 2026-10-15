@@ -2,19 +2,20 @@
   "county": "Hidalgo",
   "page_type": "elections",
   "requested_url": "https://www.hidalgocounty.us/105/Elections-Department",
-  "final_url": "https://www.hidalgocounty.us/105/Elections-Department",
+  "final_url": "https://www.hidalgocounty.us/Error.aspx?aspxerrorpath=/105/Elections-Department",
   "redirect_chain": [
-    "https://www.hidalgocounty.us/105/Elections-Department"
+    "https://www.hidalgocounty.us/105/Elections-Department",
+    "https://www.hidalgocounty.us/Error.aspx?aspxerrorpath=/105/Elections-Department"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-15T03:54:52Z",
-  "html_sha256": "ffe4bcc2e651a45d81a9969146c3ff6da271ac42b3472e1ba03ff560c6dec97f",
-  "text_sha256": "1aec51a4885996006b37788934029dc07e12418b274e4b000dee2e45ba7ffa4b",
-  "byte_size": 81914,
-  "title": "Hidalgo County Elections Department | Hidalgo County, TX - Official Website",
+  "fetched_at": "2026-10-15T11:05:54Z",
+  "html_sha256": "4724ac3996478b212ef4097074a4610f4c3a0839d92c7bba3d5fa1cd934dd6f2",
+  "text_sha256": "07fe221308aa7d8f5d912d037bdc3351915d690b363b388bb333cfd2f42ab941",
+  "byte_size": 54283,
+  "title": "Hidalgo County • CivicEngage",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
