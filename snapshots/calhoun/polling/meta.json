@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.calhouncotx.org/march-5-2026-primary-election-information/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-16T20:43:21Z",
-  "html_sha256": "833dafcb983787c4e93a64382ce650e34b11a5d6bb855fe2499b6b36ae0f5bff",
-  "text_sha256": "b142b4547134f4ac55f7f4dfeef1987b3188c87c81c1984da9723fd9b23b57c5",
-  "byte_size": 11718,
-  "title": "March 5, 2026 Primary Election Information - Calhoun County Texas",
+  "fetched_at": "2026-10-16T23:20:52Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)"
 }

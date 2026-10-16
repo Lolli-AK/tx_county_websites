@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-16T20:43:21Z",
-  "html_sha256": "0b87b25488e759caff93de8d9f14de77235f03acc92eeaca638d052428c5bfce",
+  "fetched_at": "2026-10-16T23:20:52Z",
+  "html_sha256": "a142af83d179e5c68e05bb6f0833bb608bc2397521f77f0e7823e68f033d463f",
   "text_sha256": "1beebf05b48168384aaa9b38b22dd1cb813de52caba69311ea48f304c5541929",
-  "byte_size": 88952,
+  "byte_size": 88950,
   "title": "Office of Elections Administration",
   "noncitizen_voting": {
     "present": false,

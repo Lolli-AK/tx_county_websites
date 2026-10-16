@@ -6,28 +6,24 @@
   "redirect_chain": [
     "https://www.calhouncotx.org/calhoun-county-elections/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-16T20:43:21Z",
-  "html_sha256": "b6e7fa519f5f67d9bca6a7e974197a55bd9f9f0661d4c469ebfcf1786d878928",
-  "text_sha256": "2d894a3cd11094470e8d3498873aa0549b5df0d50f884019d80619396f2710b2",
-  "byte_size": 27834,
-  "title": "CALHOUN COUNTY ELECTIONS - Calhoun County Texas",
+  "fetched_at": "2026-10-16T23:20:52Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter"
-    ],
-    "count": 3
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)"
 }

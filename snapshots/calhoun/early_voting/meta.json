@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.calhouncotx.org/ccisd-election-early-voting-rosters/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-16T20:43:21Z",
-  "html_sha256": "3d1b99b515a41b44b4a60eda3e1ccc7c6e08606022f2476f41e1ce1d039ddd65",
-  "text_sha256": "8c986cfaa2740eb2827fee9d49d91ef30d33ad2bf73c0f55beaa593340382c0b",
-  "byte_size": 10422,
-  "title": "CCISD ELECTION EARLY VOTING ROSTERS - Calhoun County Texas",
+  "fetched_at": "2026-10-16T23:20:52Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)"
 }
