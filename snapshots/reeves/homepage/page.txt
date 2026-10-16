@@ -135,29 +135,9 @@ Elections
 GIS
 Up-Coming Events
 Sep
-03
-RC Senior Center: Every Thursday Loteria
-02:00 PM - Dec, 18 03:00 PM
-Sep
-03
-RC Veterans Center: Every Tuesday & Thursday Work-Outs
-02:00 PM - Dec, 31 03:00 PM
-Sep
-07
-RC Senior Center Movie Matinee
-02:00 PM - Dec, 21 03:00 PM
-Sep
 09
 RC Rec: Every Wednesday Baseball/Softball Classes
 12:00 AM - Dec, 05
-Sep
-10
-RC Senior Center: Every Thursday Bingo
-02:00 PM - Dec, 29 03:00 PM
-Sep
-14
-RC Rec Center: 2026 Winter Dance Academy
-05:15 PM - Dec, 11 05:15 PM
 Sep
 21
 RC Rec Center: Flag Football Youth League
@@ -166,10 +146,26 @@ Oct
 05
 RC Rec Center: Hygiene & Personal Health Drive
 12:00 AM - Oct, 17
-Oct
-15
-RC Civic Center: Meet The Candidates
-06:00 PM - 08:00 PM
+Sep
+03
+RC Veterans Center: Every Tuesday & Thursday Work-Outs
+02:00 PM - Dec, 31 03:00 PM
+Sep
+10
+RC Senior Center: Every Thursday Bingo
+02:00 PM - Dec, 29 03:00 PM
+Sep
+03
+RC Senior Center: Every Thursday Loteria
+02:00 PM - Dec, 18 03:00 PM
+Sep
+07
+RC Senior Center Movie Matinee
+02:00 PM - Dec, 21 03:00 PM
+Sep
+14
+RC Rec Center: 2026 Winter Dance Academy
+05:15 PM - Dec, 11 05:15 PM
 Oct
 16
 RC Rec Center: Power of Pink 2.5k Walk in Balmorhea
@@ -190,6 +186,10 @@ Oct
 30
 RC Rec Center: Halloween Bash Balmorhea
 04:30 PM - 06:30 PM
+Nov
+03
+RC Elections: Election Day
+All Day
 More Events
 Reeves County Texas News
 Weather Update: NWS-Midland
