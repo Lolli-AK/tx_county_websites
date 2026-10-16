@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.webbcountytx.gov/705/Register-to-Vote-Address-Name-Change"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "15c08cc451e0e4b77593a2dc966e80952a9dd161f6b9c52e4da8a82919c6a6c3",
-  "text_sha256": "e66753042b56f100d0846e63afe5d237df5ac49db50785dcd410d5689401ceca",
-  "byte_size": 61660,
-  "title": "Register to Vote / Address / Name Change | Webb County, TX",
+  "fetched_at": "2026-10-16T12:46:56Z",
+  "html_sha256": "a46866361de20482e35be922805029b962f078c8dea9544988f85b7b6411282c",
+  "text_sha256": "08d09d6375fa3f016805bc7d1c427cfd376e05fd8f9f3857ddd448980230bf9d",
+  "byte_size": 2864,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

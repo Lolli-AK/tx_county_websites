@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.comalcounty.gov/193/Elections-Voter-Registration"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "cb89e420bdb725204152ce52a247ab632392f98e1e04627d0d6ac1536c5af301",
-  "text_sha256": "6d2084d7d3cacf81b5fb0a6fa839592ba9ca13054c6df38b91737891589e2efb",
-  "byte_size": 80680,
-  "title": "Elections & Voter Registration | Comal County, TX",
+  "fetched_at": "2026-10-16T12:46:56Z",
+  "html_sha256": "e8abefe4059ba4181c0b6ee0dfdd9523f82d98a6fc41f481d61460430357f346",
+  "text_sha256": "e60f1e49997129b447cd882a9b51209e78bcf1a30acdd80d294f71726cce33b7",
+  "byte_size": 2861,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

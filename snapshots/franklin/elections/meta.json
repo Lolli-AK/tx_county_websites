@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://franklincountytxelections.gov/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "d586a79b66918ccd0d876ac5c9409447650984a37611aec4d15267257f0ca5d7",
-  "text_sha256": "39e0445aee3c79f6480946621205cf43476f19046f9329f3e9e7afd62a16bc72",
-  "byte_size": 105823,
-  "title": "Franklin, TX – Franklin, TX – Elections Website",
+  "fetched_at": "2026-10-16T12:46:56Z",
+  "html_sha256": "067420fdd48270653a4ecac67672665948ea77a77fc3b06c53a93c4fc8eeebfc",
+  "text_sha256": "ff18f8b9b5e1abe95d7e42dee613dae647d98c9e919964c0b8ae53d18e8c6973",
+  "byte_size": 4693,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 3
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

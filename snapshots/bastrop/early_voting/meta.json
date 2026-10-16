@@ -6,27 +6,24 @@
   "redirect_chain": [
     "https://www.bastropvotes.org/election-information-2/early-voting-information/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "3126b16ce5ae98cd60b6c8bfcacd8da13a0a5a647409b5eedeb52dcaf2525aba",
-  "text_sha256": "4b1ca659799d567e4e94b535041d5c9c52135d52df48f7585a4964dd5948f2d7",
-  "byte_size": 27104,
-  "title": "Early Voting Information - Bastrop County, TX Elections",
+  "fetched_at": "2026-10-16T12:46:56Z",
+  "html_sha256": "067420fdd48270653a4ecac67672665948ea77a77fc3b06c53a93c4fc8eeebfc",
+  "text_sha256": "ff18f8b9b5e1abe95d7e42dee613dae647d98c9e919964c0b8ae53d18e8c6973",
+  "byte_size": 4693,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

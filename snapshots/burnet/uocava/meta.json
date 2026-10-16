@@ -6,30 +6,24 @@
   "redirect_chain": [
     "https://www.burnetcountytexas.org/1332/Military-Overseas-Voters"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "5480f14786706011af7b2769e67fd817bbd2729da9577a033ad3c413363981e1",
-  "text_sha256": "16f911379c98e2d0cab558301b694344bf4b0346762762bcf2d4d1402a485583",
-  "byte_size": 39254,
-  "title": "Military / Overseas Voters | Burnet County, TX",
+  "fetched_at": "2026-10-16T12:46:56Z",
+  "html_sha256": "207cb3f7745499b2c2b5687c5dc658933cbc5e21130230d84bedc35ae6ee2493",
+  "text_sha256": "e8a47d712713e12cd941201c3d1ceba831e2ddecec127da052ad93e915fac282",
+  "byte_size": 2879,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "move_act",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 24
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

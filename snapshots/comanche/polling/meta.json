@@ -6,27 +6,24 @@
   "redirect_chain": [
     "https://www.comanchecountytx.gov/253/2026-November-3rd-General-Election"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "447d5de850424c7022a389050b2e190e5a9c34cb70fe53a694208779ed5e8926",
-  "text_sha256": "0277d3d2c1a4375d2544c8fcd4442c656349ccc17290b5eda768637e2fed2074",
-  "byte_size": 93951,
-  "title": "2026 November 3rd General Election | Comanche County, TX",
+  "fetched_at": "2026-10-16T12:46:56Z",
+  "html_sha256": "2ac3ecf0a78468d3eb19cc69393f976ed8521827be7953280eeafda056227e41",
+  "text_sha256": "ef0f59fdb616860a01a70fcf835488a2978ab8d51ad5b79958930943dc707663",
+  "byte_size": 2876,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "military_overseas_voter"
-    ],
-    "count": 3
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

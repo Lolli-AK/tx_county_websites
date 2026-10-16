@@ -7,15 +7,15 @@
     "https://burnetcountyelections.com/",
     "https://www.burnetcountytexas.org/1194/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "e809dc6a30f121669060c8a1e3aac11638cb1e7305197f39d19a4e1817af3a41",
-  "text_sha256": "ff7b3115b5553d769ec824e3b80572b50a32bcac2402a90433fcc114108bfcc9",
-  "byte_size": 47151,
-  "title": "Elections | Burnet County, TX",
+  "fetched_at": "2026-10-16T12:46:56Z",
+  "html_sha256": "f3185c59e9247ec368321eeb04b67ea1595eeb67a8d1f4a547b936e5e9a2c34c",
+  "text_sha256": "c21b4fede5fa58c6890c35e4e62b74fc8baac97ada8285359c3f5049046dd925",
+  "byte_size": 2879,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

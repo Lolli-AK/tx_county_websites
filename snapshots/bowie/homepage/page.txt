@@ -1,4 +1,5 @@
 Bowie County, TX | Official Website
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 BURN BAN IN EFFECT
 BOWIE COUNTY IS CURRENTLY UNDER A BURN BAN
@@ -21,15 +22,19 @@ News Flash
 Website Personalization Now Available!
 With the launch of the new MyAccount feature, visitors to our website can now enhance their viewing experience!
 Read on...
+about Website Personalization Now Available!
 Keep in Touch
 Stay in touch with us by following us on Twitter, becoming our friend on Facebook, or subscribing to one of our RSS Feeds.
 Stay connected!
 Subscribe to Notify Me to receive updates and information.
 Read on...
+about Stay connected!
 View All News
+News Flash
 /CivicAlerts.aspx
 Calendar
 October 2026
+Calendar
 S
 M
 T
@@ -75,6 +80,7 @@ S
 Mon, Oct. 26
 Commissioners Court
 View All Events
+Calendar
 /Calendar.aspx
 Commissioners Court
 Employment Opportunities
@@ -99,3 +105,4 @@ Loading
 Do Not Show Again
 Close
 []
+Explore your accessibility options
