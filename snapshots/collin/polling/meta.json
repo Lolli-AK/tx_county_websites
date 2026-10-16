@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.collincountytx.gov/Elections/polling-locations"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-16T12:46:56Z",
-  "html_sha256": "2ee3620bca45570b4082d02e113fd7e6aa62b18b5e1e7712dce24a68f6f82b2b",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 278,
-  "title": null,
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "4fc38ba6692f9367f6f93d1bb1b36bc923323c1370c6b3ee86819fae6d2a0c14",
+  "text_sha256": "15b79033ca926170a806c0beb19e68b2cea28f58675106e96918606a26b9886c",
+  "byte_size": 18295,
+  "title": "Polling Locations",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

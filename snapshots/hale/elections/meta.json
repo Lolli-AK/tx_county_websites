@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.halecounty.org/county_offices/county_clerk.php"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-16T12:46:56Z",
-  "html_sha256": "68ed3e7b20d647e33783e0c65890cf35f6aac28d02ce7b20106dc740a32d9ef9",
-  "text_sha256": "343d94af6626b89cbd534b74068b9a69fb11414ec320aadb2dc9a72bd8efe7c4",
-  "byte_size": 145,
-  "title": "403 Forbidden",
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "462ce38ba3731bb3b38e0bba83591cc482309c6737f7e8873d1510fc859d04b9",
+  "text_sha256": "7751f8322329bdc0b55b9aab9a84d5dd46f4fad722bb9b696523097020bfd3b3",
+  "byte_size": 34111,
+  "title": "Welcome to Hale County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

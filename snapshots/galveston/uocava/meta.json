@@ -6,24 +6,28 @@
   "redirect_chain": [
     "https://galvestonvotes.org/voter-information/military-and-overseas-voters/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-16T12:46:56Z",
-  "html_sha256": "067420fdd48270653a4ecac67672665948ea77a77fc3b06c53a93c4fc8eeebfc",
-  "text_sha256": "ff18f8b9b5e1abe95d7e42dee613dae647d98c9e919964c0b8ae53d18e8c6973",
-  "byte_size": 4693,
-  "title": "Human Verification",
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "cbb223349e0332c861b682ae39ebad95f32e625a0ce2a4f5ae9dfba6722d3377",
+  "text_sha256": "f8d3184ee4fc7fe62ab0684b9b10532eafd9c45bf221c425c3c97fa0d1f3c159",
+  "byte_size": 22554,
+  "title": "Military and Overseas Voters - Galveston County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 9
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.jeffcotxvotes.gov/elections/voters/fpca/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-16T13:32:38Z",
-  "html_sha256": "067420fdd48270653a4ecac67672665948ea77a77fc3b06c53a93c4fc8eeebfc",
-  "text_sha256": "ff18f8b9b5e1abe95d7e42dee613dae647d98c9e919964c0b8ae53d18e8c6973",
-  "byte_size": 4693,
-  "title": "Human Verification",
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "d6a2d2c9d539619d3e738892d53967ae41d7e715d5ab9941267f2ab7c7ab90dd",
+  "text_sha256": "4b5fd4b4d5513f9f44f3b7c9eb6e1ffdfbe25125dcd72da60c6612b1f4ca1511",
+  "byte_size": 129208,
+  "title": "FPCA – Jefferson County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 5
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

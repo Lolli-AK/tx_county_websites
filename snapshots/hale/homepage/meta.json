@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.halecounty.org/"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-16T12:46:56Z",
-  "html_sha256": "68ed3e7b20d647e33783e0c65890cf35f6aac28d02ce7b20106dc740a32d9ef9",
-  "text_sha256": "343d94af6626b89cbd534b74068b9a69fb11414ec320aadb2dc9a72bd8efe7c4",
-  "byte_size": 145,
-  "title": "403 Forbidden",
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "35c99b4259f4bbda00febf009dc4d0adade084210bd052747b38bb747a2bdd7f",
+  "text_sha256": "af5672a98fb7ba7a084924c27ad59e61987f9699393d7c600fc7d9c4452e461c",
+  "byte_size": 26957,
+  "title": "Welcome to Hale County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

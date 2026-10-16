@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.milamcounty.net/departments/elections_and_voter_registrar/polling_locations.php"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-16T13:32:38Z",
-  "html_sha256": "68ed3e7b20d647e33783e0c65890cf35f6aac28d02ce7b20106dc740a32d9ef9",
-  "text_sha256": "343d94af6626b89cbd534b74068b9a69fb11414ec320aadb2dc9a72bd8efe7c4",
-  "byte_size": 145,
-  "title": "403 Forbidden",
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "50419c87bc1ce07dc1aba98ff54682f6928bd87f492b828f9b3d0ce27ea8d3b6",
+  "text_sha256": "987f62323dd4cee9b18ca812f879cf88e24ab4fe5048871fc3124bf3daf283e9",
+  "byte_size": 69416,
+  "title": "Milam County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

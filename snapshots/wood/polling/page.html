@@ -1,105 +1,640 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
  <head>
   <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
   <title>
-   Human Verification
+   Polling Locations - Wood County, TX Elections
   </title>
+  <link href="https://elections.mywoodcounty.com/xmlrpc.php" rel="pingback"/>
+  <link href="https://elections.mywoodcounty.com/wp-content/themes/wood-tx_1.13.0/favicon.ico" rel="shortcut icon"/>
+  <meta content="max-image-preview:large" name="robots"/>
+  <link href="https://elections.mywoodcounty.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Felections.mywoodcounty.com%2Felection-information%2Fpolling-locations%2F" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"/>
+  <link href="https://elections.mywoodcounty.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Felections.mywoodcounty.com%2Felection-information%2Fpolling-locations%2F&amp;format=xml" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"/>
+  <link href="https://elections.mywoodcounty.com/election-information/polling-locations/" rel="canonical"/>
+  <link href="https://elections.mywoodcounty.com/?p=221" rel="shortlink"/>
+  <meta content="Site Kit by Google 1.189.0" name="generator"/>
+  <link href="https://elections.mywoodcounty.com/wp-content/themes/wood-tx_1.13.0/apple-touch-icon.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="https://elections.mywoodcounty.com/wp-content/themes/wood-tx_1.13.0/favicon.ico" rel="icon" type="image/x-icon"/>
+  <link href="https://elections.mywoodcounty.com/wp-content/themes/wood-tx_1.13.0/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="https://elections.mywoodcounty.com/wp-content/themes/wood-tx_1.13.0/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="https://elections.mywoodcounty.com/wp-content/themes/wood-tx_1.13.0/site.webmanifest" rel="manifest"/>
+  <link color="#5bbad5" href="https://elections.mywoodcounty.com/wp-content/themes/wood-tx_1.13.0/safari-pinned-tab.svg" rel="mask-icon"/>
+  <meta content="#da532c" name="msapplication-RANDOM"/>
+  <meta content="#ffffff" name="theme-color"/>
  </head>
- <body>
-  <div dir="ltr" id="captcha-container">
-   <div id="root">
-    <div>
-     <div>
-      <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIDhDMCAxMi40MTgzIDMuNTgxNzIgMTYgOCAxNkMxMi40MTgzIDE2IDE2IDEyLjQxODMgMTYgOEMxNiAzLjU4MTcyIDEyLjQxODMgMCA4IDBDMy41ODE3MiAwIDAgMy41ODE3MiAwIDhaTTE0IDhDMTQgMTEuMzEzNyAxMS4zMTM3IDE0IDggMTRDNC42ODYyOSAxNCAyIDExLjMxMzcgMiA4QzIgNC42ODYyOSA0LjY4NjI5IDIgOCAyQzExLjMxMzcgMiAxNCA0LjY4NjI5IDE0IDhaTTYuNTg1NzkgOEw0LjQ2Mjg5IDEwLjEyMjlMNS44NzcxMSAxMS41MzcxTDggOS40MTQyMUwxMC4xMjI5IDExLjUzNzFMMTEuNTM3MSAxMC4xMjI5TDkuNDE0MjEgOEwxMS41MzcxIDUuODc3MTFMMTAuMTIyOSA0LjQ2Mjg5TDggNi41ODU3OUw1Ljg3NzExIDQuNDYyODlMNC40NjI4OSA1Ljg3NzExTDYuNTg1NzkgOFoiIGZpbGw9IiNEMTMyMTIiLz4gPC9zdmc+IA=="/>
-      <p>
-       Temporary error. Please try again.
-      </p>
-     </div>
-     <div>
-      <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIDhDMCAxMi40MTgzIDMuNTgxNzIgMTYgOCAxNkMxMi40MTgzIDE2IDE2IDEyLjQxODMgMTYgOEMxNiAzLjU4MTcyIDEyLjQxODMgMCA4IDBDMy41ODE3MiAwIDAgMy41ODE3MiAwIDhaTTE0IDhDMTQgMTEuMzEzNyAxMS4zMTM3IDE0IDggMTRDNC42ODYyOSAxNCAyIDExLjMxMzcgMiA4QzIgNC42ODYyOSA0LjY4NjI5IDIgOCAyQzExLjMxMzcgMiAxNCA0LjY4NjI5IDE0IDhaTTYuNTg1NzkgOEw0LjQ2Mjg5IDEwLjEyMjlMNS44NzcxMSAxMS41MzcxTDggOS40MTQyMUwxMC4xMjI5IDExLjUzNzFMMTEuNTM3MSAxMC4xMjI5TDkuNDE0MjEgOEwxMS41MzcxIDUuODc3MTFMMTAuMTIyOSA0LjQ2Mjg5TDggNi41ODU3OUw1Ljg3NzExIDQuNDYyODlMNC40NjI4OSA1Ljg3NzExTDYuNTg1NzkgOFoiIGZpbGw9IiNEMTMyMTIiLz4gPC9zdmc+IA=="/>
-      <p>
-       Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. Please disable Google Translate and retry.
-      </p>
-     </div>
-     <div>
-      <h1>
-       Let's confirm you are human
-      </h1>
-     </div>
-     <div>
-      <div id="root-instructions">
-       <p>
-        Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your account and prevent spam.
-       </p>
+ <body class="wp-singular page-template-default page page-id-221 page-child parent-pageid-9 wp-theme-archless2 wp-child-theme-wood-tx_BUILD">
+  <div id="content-slide">
+   <div class="sub-page" id="page-wrap">
+    <div id="masthead">
+     <header class="page-header" role="banner">
+      <a class="skip-to-content-link" href="#primary">
+       Skip to main content
+      </a>
+      <a aria-label="Wood County County Elections Department" href="https://elections.mywoodcounty.com" id="page-title">
+       <h1 class="print">
+        Wood County County Elections Department
+       </h1>
+      </a>
+     </header>
+     <nav id="main-nav" role="navigation">
+      <div class="seal-menu" data-href="https://elections.mywoodcounty.com" id="seal-menu">
       </div>
-      <div id="verification-status">
-       <div class="amzn-captcha-state-container">
-        <button class="amzn-captcha-verify-button btn btn-primary" id="amzn-captcha-verify-button" type="button">
-         Begin
-         <img alt="begin" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOSIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDkgMTQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMS43ODQ2NyAwTDAuNTAwMjA1IDEuMjg0NDZMNi4yMTUwMyA3TDAuNTAwMjA1IDEyLjcxNTVMMS43ODQ2NyAxNEw4Ljc4NDY3IDdMMS43ODQ2NyAwWiIgZmlsbD0iYmxhY2siLz4gPC9zdmc+IA=="/>
+      <button aria-controls="main-menu-menu" aria-expanded="false" class="mobile-menu-btn" id="mobile-menu-btn">
+       <span aria-hidden="true" class="ci ci-menu">
+       </span>
+       <span class="if-not-active screen-reader-text">
+        Menu
+       </span>
+      </button>
+      <div class="mobile-menu-wrapper">
+       <div class="mobile-only test" id="mobile-menu-meta">
+        Main Menu
+       </div>
+       <ul class="parent-menu">
+        <li class="parent">
+         <a class="wood_county_elections/voter_registration_office" href="https://elections.mywoodcounty.com/elections-office/">
+          <span>
+           Wood County Elections/Voter Registration Office
+          </span>
+         </a>
+         <ul class="child">
+          <li>
+           <a class="about_us" href="https://elections.mywoodcounty.com/elections-office/about-us/">
+            <span>
+             About Us
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="meet_the_elections_administrator" href="https://elections.mywoodcounty.com/elections-office/meet-the-elections-administrator/">
+            <span>
+             Meet the Elections Administrator
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="faqs" href="https://elections.mywoodcounty.com/elections-office/faqs/">
+            <span>
+             FAQs
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="election_fun_facts" href="https://elections.mywoodcounty.com/elections-office/election-fun-facts/">
+            <span>
+             Election Fun Facts
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="contact_us" href="https://elections.mywoodcounty.com/elections-office/contact-us/">
+            <span>
+             Contact Us
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="parent current">
+         <a class="election_information" href="https://elections.mywoodcounty.com/election-information/">
+          <span>
+           Election Information
+          </span>
+         </a>
+         <ul class="child">
+          <li>
+           <a class="training_classes" href="https://elections.mywoodcounty.com/election-information/training-classes/">
+            <span>
+             Training Classes
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="upcoming_elections" href="https://elections.mywoodcounty.com/election-information/upcoming-elections/">
+            <span>
+             Upcoming Elections
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="sample_ballots" href="https://elections.mywoodcounty.com/election-information/sample-ballots/">
+            <span>
+             Sample Ballots
+            </span>
+           </a>
+          </li>
+          <li class="current">
+           <a class="polling_locations" href="https://elections.mywoodcounty.com/election-information/polling-locations/">
+            <span>
+             Polling Locations
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="ballot_by_mail" href="https://elections.mywoodcounty.com/election-information/ballot-by-mail/">
+            <span>
+             Ballot By Mail
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="election_results" href="https://elections.mywoodcounty.com/election-information/election-results/">
+            <span>
+             Election Results
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="poll_worker_information" href="https://elections.mywoodcounty.com/election-information/poll-worker-information/">
+            <span>
+             Poll Worker Information
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="poll_watcher_information" href="https://elections.mywoodcounty.com/election-information/poll-watcher-information/">
+            <span>
+             Poll Watcher Information
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="city_and_school_websites" href="https://elections.mywoodcounty.com/election-information/city-and-school-websites/">
+            <span>
+             City and School Websites
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="parent">
+         <a class="voter_information" href="https://elections.mywoodcounty.com/voter-information/">
+          <span>
+           Voter Information
+          </span>
+         </a>
+         <ul class="child">
+          <li>
+           <a class="general_voter_information" href="https://elections.mywoodcounty.com/voter-information/general-voter-information/">
+            <span>
+             General Voter Information
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="voter_registration_faq" href="https://elections.mywoodcounty.com/voter-information/voter-registration-faq/">
+            <span>
+             Voter Registration FAQ
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="voter_lookup" href="https://elections.mywoodcounty.com/voter-information/voter-lookup/">
+            <span>
+             Voter Lookup
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="precinct_finder" href="https://elections.mywoodcounty.com/voter-information/precinct-finder/">
+            <span>
+             Precinct Finder
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="military_and_overseas_voters" href="https://elections.mywoodcounty.com/voter-information/military-and-overseas-voters/">
+            <span>
+             Military and Overseas Voters
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="student_election_workers" href="https://elections.mywoodcounty.com/voter-information/student-voter-information/">
+            <span>
+             Student Election Workers
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="voter_with_special_needs" href="https://elections.mywoodcounty.com/voter-information/voter-with-special-needs/">
+            <span>
+             Voter with Special Needs
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="maps" href="https://elections.mywoodcounty.com/voter-information/precinct-maps/">
+            <span>
+             Maps
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="parent">
+         <a class="candidates/office_holders" href="https://elections.mywoodcounty.com/candidates-office-holders/">
+          <span>
+           Candidates/Office Holders
+          </span>
+         </a>
+         <ul class="child">
+          <li>
+           <a class="elected_officials" href="https://elections.mywoodcounty.com/candidates-office-holders/elected-officials/">
+            <span>
+             Elected Officials
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="offices_up_for_election" href="https://elections.mywoodcounty.com/election-information/offices-up-for-election/">
+            <span>
+             Offices Up for Election
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="campaign_finance_information" href="https://elections.mywoodcounty.com/candidates-office-holders/campaign-finance-information/">
+            <span>
+             Campaign Finance Information
+            </span>
+           </a>
+          </li>
+          <li>
+           <a class="campaign_finance_reports" href="https://elections.mywoodcounty.com/candidates-office-holders/campaign-finance-reports/">
+            <span>
+             Campaign Finance Reports
+            </span>
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <div class="mobile-header mobile-only" id="mobile-header">
+      <ul aria-label="Mobile Top Options" class="mobile-menu-nav" id="mobile-menu-nav">
+       <li>
+        <a class="mobile-menu-nav-item" href="https://elections.mywoodcounty.com" id="mobile-home-btn">
+         <span aria-hidden="true" class="ci ci-home">
+         </span>
+         <span class="screen-reader-text">
+          Home
+         </span>
+        </a>
+       </li>
+       <li>
+        <button class="mobile-menu-nav-item mobile-search-btn" id="mobile-search-btn">
+         <span aria-hidden="true" class="ci ci-search">
+         </span>
+         <span class="screen-reader-text">
+          Search
+         </span>
         </button>
+        <div aria-hidden="true" id="mobile-search-wrapper">
+         <form action="https://elections.mywoodcounty.com/" class="search-form" method="get" role="search">
+          <input aria-label="Search" class="s" name="s" placeholder="Search..." type="text"/>
+          <button aria-label="Search" class="search-submit" type="submit" value="Search">
+           <span aria-hidden="true" class="ci ci-search">
+           </span>
+          </button>
+         </form>
+        </div>
+       </li>
+       <li>
+        <div id="mobile-language-btn">
+        </div>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div id="content-wrapper">
+     <section id="content">
+      <div id="primary" role="main">
+       <div class="fluid">
+        <article class="post post-221 page type-page status-publish hentry">
+         <header class="entry-header" id="entry-header">
+          <h1 class="entry-title">
+           Polling Locations
+          </h1>
+         </header>
+         <div class="entry-content">
+          <p>
+           <strong>
+            <span>
+             <span>
+              EARLY VOTING POLLING LOCATIONS:
+             </span>
+            </span>
+           </strong>
+           <br/>
+           <span>
+            NOVEMBER 03, 2026 GENERAL ELECTION
+           </span>
+           <br/>
+           <span>
+            <b>
+             <i>
+              Carroll Green Civic Center
+             </i>
+            </b>
+           </span>
+           <br/>
+           <span>
+            602 McAllister St
+           </span>
+           <br/>
+           <span>
+            Quitman, TX 75783
+           </span>
+          </p>
+          <h1>
+           <span>
+            <strong>
+             <span>
+              GENERAL ELECTION DAY POLLING LOCATIONS:
+             </span>
+            </strong>
+           </span>
+          </h1>
+          <p>
+           (**Precincts are sharing location.)
+          </p>
+          <p>
+           <em>
+            <span>
+             <strong>
+              YOU MUST VOTE IN THE PRECINCT YOU ARE REGISTERED IN!
+             </strong>
+            </span>
+           </em>
+           <br/>
+           <em>
+            <span>
+             <strong>
+              NO VOTING AT ANNEX ON ELECTION DAY!
+             </strong>
+            </span>
+           </em>
+           <br/>
+           <span>
+            ELECTION DAY HOURS – 7:00 AM – 7:00 PM
+           </span>
+          </p>
+          <div class="al-accordion" data-autoexpand="" data-name="">
+           <button aria-expanded="false" class="al-accordion-title">
+            11 CARROLL GREEN CIVIC CENTER
+            <span aria-hidden="true" class="al-accordion-toggle default">
+            </span>
+           </button>
+           <div aria-hidden="true" class="al-accordion-content">
+            602 McALLISTER ST.
+            <br/>
+            QUITMAN, TX 75783
+            <br/>
+            <a href="https://www.google.com/maps/place/Carroll+Green+Civic+Center/@32.789931,-95.4545258,15z/data=!4m5!3m4!1s0x0:0x6bf5d6e274565ae!8m2!3d32.789931!4d-95.4545258">
+             Google Maps Link
+            </a>
+            <br/>
+           </div>
+          </div>
+          <div class="al-accordion" data-autoexpand="" data-name="">
+           <button aria-expanded="false" class="al-accordion-title">
+            12 YANTIS COMMUNITY CENTER
+            <span aria-hidden="true" class="al-accordion-toggle default">
+            </span>
+           </button>
+           <div aria-hidden="true" class="al-accordion-content">
+            101 CITY CIRCLE
+            <br/>
+            YANTIS, TX 75497
+            <br/>
+            <a href="https://goo.gl/maps/ov54ro59MX52">
+             Google Maps Link
+            </a>
+            <br/>
+           </div>
+          </div>
+          <div class="al-accordion" data-autoexpand="" data-name="">
+           <button aria-expanded="false" class="al-accordion-title">
+            13,14 HAROLD SIMMONS COMMUNITY CENTER**
+            <span aria-hidden="true" class="al-accordion-toggle default">
+            </span>
+           </button>
+           <div aria-hidden="true" class="al-accordion-content">
+            5921 FM 779
+            <br/>
+            GOLDEN, TX 75444
+            <br/>
+            <a href="https://goo.gl/maps/1yXkSAmooEU2">
+             Google Maps Link
+            </a>
+            <br/>
+           </div>
+          </div>
+          <div class="al-accordion" data-autoexpand="" data-name="">
+           <button aria-expanded="false" class="al-accordion-title">
+            21,22,23 MINEOLA CIVIC CENTER**
+            <span aria-hidden="true" class="al-accordion-toggle default">
+            </span>
+           </button>
+           <div aria-hidden="true" class="al-accordion-content">
+            1150 N NEWSOM ST
+            <br/>
+            MINEOLA, TX 75773
+            <br/>
+            <a href="https://goo.gl/maps/EFBsMCLinmK2">
+             Google Maps Link
+            </a>
+            <br/>
+           </div>
+          </div>
+          <div class="al-accordion" data-autoexpand="" data-name="">
+           <button aria-expanded="false" class="al-accordion-title">
+            31 QUITMAN PUBLIC LIBRARY
+            <span aria-hidden="true" class="al-accordion-toggle default">
+            </span>
+           </button>
+           <div aria-hidden="true" class="al-accordion-content">
+            202 E GOODE ST
+            <br/>
+            QUITMAN, TX 75783
+            <br/>
+            <a href="https://maps.app.goo.gl/E7dv498PF4n2z3Lh8">
+             Google Maps Link
+            </a>
+            <br/>
+           </div>
+          </div>
+          <div class="al-accordion" data-autoexpand="" data-name="">
+           <button aria-expanded="false" class="al-accordion-title">
+            32 HOLLY LAKE VFD
+            <span aria-hidden="true" class="al-accordion-toggle default">
+            </span>
+           </button>
+           <div aria-hidden="true" class="al-accordion-content">
+            126 PR 7869
+            <br/>
+            HOLLY LAKE, TX 75765
+            <br/>
+            <a href="https://goo.gl/maps/egbKnV3AZgr">
+             Google Maps Link
+            </a>
+            <br/>
+           </div>
+          </div>
+          <div class="al-accordion" data-autoexpand="" data-name="">
+           <button aria-expanded="false" class="al-accordion-title">
+            33 HAWKINS COMMUNITY CENTER
+            <span aria-hidden="true" class="al-accordion-toggle default">
+            </span>
+           </button>
+           <div aria-hidden="true" class="al-accordion-content">
+            301 LYNCH ST
+            <br/>
+            HAWKINS, TX 75765
+            <br/>
+            <a href="https://goo.gl/maps/tfzzzbc2UVx">
+             Google Maps Link
+            </a>
+            <br/>
+           </div>
+          </div>
+          <div class="al-accordion" data-autoexpand="" data-name="">
+           <button aria-expanded="false" class="al-accordion-title">
+            41,44 QUITMAN VFD**
+            <span aria-hidden="true" class="al-accordion-toggle default">
+            </span>
+           </button>
+           <div aria-hidden="true" class="al-accordion-content">
+            401 E GOODE ST
+            <br/>
+            QUITMAN, TX 75783
+            <br/>
+            <a href="https://maps.app.goo.gl/dYZ6rhWVB9gthC5x7">
+             Google Maps Link
+            </a>
+            <br/>
+           </div>
+          </div>
+          <div class="al-accordion" data-autoexpand="" data-name="">
+           <button aria-expanded="false" class="al-accordion-title">
+            42,43 WINNSBORO CITY AUDITORIUM**
+            <span aria-hidden="true" class="al-accordion-toggle default">
+            </span>
+           </button>
+           <div aria-hidden="true" class="al-accordion-content">
+            HWY 515 TO WHEELER DR
+            <br/>
+            WINNSBORO, TX 75494
+            <br/>
+            <a href="https://goo.gl/maps/VfwzqixGxKy">
+             Google Maps Link
+            </a>
+            <br/>
+           </div>
+          </div>
+          <p>
+          </p>
+          <p>
+          </p>
+         </div>
+        </article>
+       </div>
+      </div>
+      <div id="secondary">
+      </div>
+     </section>
+    </div>
+    <footer>
+     <div class="footer-wrapper" id="footer-wrapper">
+      <div class="topbar">
+      </div>
+      <div class="page-footer">
+       <div class="widget widget_text" id="text-3">
+        <h2 class="widget-title">
+         About
+        </h2>
+        <div class="textwidget">
+         <p>
+          This is the official website of Wood County, TX Elections
+         </p>
+        </div>
+       </div>
+       <div class="widget widget_quick_links" id="quick_links-2">
+        <h2 class="widget-title">
+         Quick Links
+        </h2>
+        <ul>
+         <li>
+          <a href="https://goelect.txelections.civixapps.com/ivis-evr-ui/evr" target="_blank">
+           <div class="outerContainer">
+            <img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" decoding="async" height="67" src="https://elections.mywoodcounty.com/wp-content/uploads/2013/10/ql-icon-UpcomingElections-2.png" width="90"/>
+            <div class="innerContainer">
+             <div class="element">
+              <span>
+               Early Voting Results
+              </span>
+             </div>
+            </div>
+           </div>
+          </a>
+         </li>
+         <li>
+          <a href="https://elections.mywoodcounty.com/site-map/">
+           <div class="innerContainer">
+            <div class="element">
+             <span>
+              Sitemap
+             </span>
+            </div>
+           </div>
+          </a>
+         </li>
+        </ul>
+       </div>
+       <div class="widget widget_social_links" id="social_links-2">
+        <h2 class="widget-title">
+         Connect
+        </h2>
+        <ul class="social-links item-count-2">
+         <li>
+          <a href="http://www.facebook.com/woodcountytx" target="_blank" title="Facebook">
+           <img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" decoding="async" height="35" src="https://elections.mywoodcounty.com/wp-content/uploads/2013/10/social-facebook.png" width="35"/>
+          </a>
+         </li>
+         <li>
+          <a href="http://www.mywoodcounty.com/" target="_blank" title="My Wood County">
+           <img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" decoding="async" height="35" src="https://elections.mywoodcounty.com/wp-content/uploads/2013/10/social-wood-tx.png" width="35"/>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="bottombar">
+      </div>
+     </div>
+     <div class="copyright-wrapper" id="copyright-wrapper">
+      <div class="copyright">
+       <div class="widget widget_text" id="text-4">
+        <h3 class="widget-title">
+         No Title
+        </h3>
+        <div class="textwidget">
+         © 2026
+         <a href="/">
+          Wood, TX
+         </a>
+         | All Rights Reserved | Powered by
+         <a href="https://soesoftware.com/" target="_blank">
+          SOE Software
+         </a>
+        </div>
        </div>
       </div>
      </div>
-    </div>
-    <select aria-label="Select language" class="amzn-captcha-lang-selector">
-     <option aria-labelledby="ar" value="ar">
-      العربية
-     </option>
-     <option aria-labelledby="cs" value="cs">
-      Čeština
-     </option>
-     <option aria-labelledby="da" value="da">
-      Dansk
-     </option>
-     <option aria-labelledby="de" value="de">
-      Deutsch
-     </option>
-     <option aria-labelledby="en" selected="" value="en">
-      English
-     </option>
-     <option aria-labelledby="es" value="es">
-      Español
-     </option>
-     <option aria-labelledby="fr" value="fr">
-      Français
-     </option>
-     <option aria-labelledby="id" value="id">
-      Bahasa Indonesia
-     </option>
-     <option aria-labelledby="it" value="it">
-      Italiano
-     </option>
-     <option aria-labelledby="ja" value="ja">
-      日本語
-     </option>
-     <option aria-labelledby="ko" value="ko">
-      한국어
-     </option>
-     <option aria-labelledby="nl" value="nl">
-      Nederlands
-     </option>
-     <option aria-labelledby="pl" value="pl">
-      Polski
-     </option>
-     <option aria-labelledby="pt" value="pt">
-      Português
-     </option>
-     <option aria-labelledby="sv" value="sv">
-      Svenska
-     </option>
-     <option aria-labelledby="th" value="th">
-      ไทย
-     </option>
-     <option aria-labelledby="tr" value="tr">
-      Türkçe
-     </option>
-     <option aria-labelledby="zh" value="zh">
-      中文
-     </option>
-    </select>
+    </footer>
    </div>
   </div>
  </body>

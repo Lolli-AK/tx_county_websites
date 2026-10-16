@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.collincountytx.gov/elections"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-16T12:46:56Z",
-  "html_sha256": "2ee3620bca45570b4082d02e113fd7e6aa62b18b5e1e7712dce24a68f6f82b2b",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 278,
-  "title": null,
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "308ca40e37e62fe04c463328aa4a4d29d8a50d35c0fe78439a9f68fafcc3575b",
+  "text_sha256": "2a2908157234bf984c0fdefef74d9ff4a956f94c8bd98b17c8892819b2e9bbf9",
+  "byte_size": 22328,
+  "title": "Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

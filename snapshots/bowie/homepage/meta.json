@@ -2,19 +2,19 @@
   "county": "Bowie",
   "page_type": "homepage",
   "requested_url": "https://www.co.bowie.tx.us/",
-  "final_url": "https://www.bowiecounty.org/",
+  "final_url": "https://www.bowiecounty.org",
   "redirect_chain": [
     "https://www.co.bowie.tx.us/",
-    "https://www.bowiecounty.org/"
+    "https://www.bowiecounty.org"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-16T12:46:56Z",
-  "html_sha256": "5cbe3409d3d6036c8077a316e46443a3af733e2f2266619d13005902f7a00e3e",
-  "text_sha256": "0430648ebb2e40debfc185cb939fb5ef184f3e0b32908e4537cad3cfd40d7684",
-  "byte_size": 54433,
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "a32e796426198c823c168bd6ef9d5bb29b01027ba4199ab1a550f2090744941c",
+  "text_sha256": "8db11eaf7cb00f52cd2e2b74ac9411725a8772fd944b2535bff58584214aacb4",
+  "byte_size": 50897,
   "title": "Bowie County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,

@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.titus.tx.us/page/elections.home"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-16T13:32:38Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "13fe02102839e7e17e84b98f2c5524ce3f6933efd2366e6a2adb2b151f519ed3",
+  "text_sha256": "d5ef4ef4cdc96e689a47e20a89009b9bdf0ca6a623960c4577dbc7ad164e0a6a",
+  "byte_size": 80946,
+  "title": "Elections | Titus County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectError: [Errno -3] Temporary failure in name resolution"
+  "error": null
 }

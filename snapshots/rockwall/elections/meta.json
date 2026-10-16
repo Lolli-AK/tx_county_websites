@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.rockwallvotes.com/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-16T13:32:38Z",
-  "html_sha256": "067420fdd48270653a4ecac67672665948ea77a77fc3b06c53a93c4fc8eeebfc",
-  "text_sha256": "ff18f8b9b5e1abe95d7e42dee613dae647d98c9e919964c0b8ae53d18e8c6973",
-  "byte_size": 4693,
-  "title": "Human Verification",
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "93b33bd6af85b45cdcc1f29777b0e27d4ce13fd765c36fb6d910d8e53d2ace5e",
+  "text_sha256": "dd842362487042c48dfca945a07bcb60ea0026dbd00ca6e4c02bfe5aeea58bc7",
+  "byte_size": 28036,
+  "title": "Rockwall County, TX Elections | Rockwall County, TX Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

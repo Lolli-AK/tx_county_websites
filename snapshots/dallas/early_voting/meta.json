@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.dallascountyvotes.org/early-voting/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-16T12:46:56Z",
-  "html_sha256": "067420fdd48270653a4ecac67672665948ea77a77fc3b06c53a93c4fc8eeebfc",
-  "text_sha256": "ff18f8b9b5e1abe95d7e42dee613dae647d98c9e919964c0b8ae53d18e8c6973",
-  "byte_size": 4693,
-  "title": "Human Verification",
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "ff9226b5b3e8ed0acebafb02f2ed13de597abdda7712380917cd6c3ae2b83153",
+  "text_sha256": "daed297462c456dbe20c402cf4575ddf03c12972c956b82295537be5fb791539",
+  "byte_size": 104191,
+  "title": "Early Voting – Dallas County Elections Department",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

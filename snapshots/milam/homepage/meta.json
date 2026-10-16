@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.milamcounty.net/"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-16T13:32:38Z",
-  "html_sha256": "68ed3e7b20d647e33783e0c65890cf35f6aac28d02ce7b20106dc740a32d9ef9",
-  "text_sha256": "343d94af6626b89cbd534b74068b9a69fb11414ec320aadb2dc9a72bd8efe7c4",
-  "byte_size": 145,
-  "title": "403 Forbidden",
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "5389da3dd44bc8e3d211fe111847547f9ba71d9055922a24cc20b469444d5315",
+  "text_sha256": "504adb7df6e915be145b1831647e5263349a935be64a9aef3a8f7cdd129b659e",
+  "byte_size": 69055,
+  "title": "Milam County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

@@ -1,105 +1,142 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="size-mode-LARGE esriLtr jimu-ltr en-us en" dir="ltr" lang="en-us">
  <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="width=device-width,initial-scale=1,user-scalable=yes" name="viewport"/>
+  <meta content="IE=EDGE" http-equiv="X-UA-Compatible"/>
+  <meta content="Gl928UcZRBt8t7njrpXivrsVrbVcc7sLybtCMZ6Dzlg" name="google-site-verification"/>
+  <meta content="script-src 'self' 'unsafe-eval' blob: *.arcgis.com *.esri.com https://cdn.jsdelivr.net/npm/@esri/arcgis-html-sanitizer@2.9.0/dist/umd/arcgis-html-sanitizer.min.js https://js.arcgis.com/calcite-components/5.1.1/ https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js https://www.googletagmanager.com https://developer.api.autodesk.com" http-equiv="Content-Security-Policy"/>
   <title>
-   Human Verification
+   Vote Center Finder 3.0
   </title>
+  <link href="https://experience.arcgis.com/experience/HEX" rel="canonical"/>
+  <link href="assets/exb.ico" rel="shortcut icon"/>
+  <base href="/cdn/3751/experience/"/>
+  <meta content="Vote Center Finder 3.0" name="title"/>
+  <meta content="Revised Vote Center Finder" name="description"/>
+  <meta content="EXB Experience,JavaScript,lastEditor:kevin.burns_dallascountygis,modified: 1791824425977,publishVersion:1.21.0,Ready To Use,status: Published,template:jewelrybox,version:1.21.0,Web Application,Web Experience,Web Mapping Application,Web Page,Web Site" name="keywords"/>
+  <link href="https://www.arcgis.com/sharing/rest/content/items/HEX/info/thumbnail/thumbnail1791563049298.png" rel="image_src"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="@arcgisonline" name="twitter:site"/>
+  <meta content="Vote Center Finder 3.0" name="twitter:title"/>
+  <meta content="Revised Vote Center Finder" name="twitter:description"/>
+  <meta content="https://www.arcgis.com/sharing/rest/content/items/8204fc2e36cd4fac8729efcedd4fda7f/info/thumbnail/thumbnail1791563049298.png" name="twitter:image"/>
+  <meta content="Vote Center Finder 3.0" property="og:title"/>
+  <meta content="Revised Vote Center Finder" property="og:description"/>
+  <meta content="https://www.arcgis.com/sharing/rest/content/items/8204fc2e36cd4fac8729efcedd4fda7f/info/thumbnail/thumbnail1791563049298.png" property="og:image"/>
  </head>
- <body>
-  <div dir="ltr" id="captcha-container">
-   <div id="root">
-    <div>
-     <div>
-      <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIDhDMCAxMi40MTgzIDMuNTgxNzIgMTYgOCAxNkMxMi40MTgzIDE2IDE2IDEyLjQxODMgMTYgOEMxNiAzLjU4MTcyIDEyLjQxODMgMCA4IDBDMy41ODE3MiAwIDAgMy41ODE3MiAwIDhaTTE0IDhDMTQgMTEuMzEzNyAxMS4zMTM3IDE0IDggMTRDNC42ODYyOSAxNCAyIDExLjMxMzcgMiA4QzIgNC42ODYyOSA0LjY4NjI5IDIgOCAyQzExLjMxMzcgMiAxNCA0LjY4NjI5IDE0IDhaTTYuNTg1NzkgOEw0LjQ2Mjg5IDEwLjEyMjlMNS44NzcxMSAxMS41MzcxTDggOS40MTQyMUwxMC4xMjI5IDExLjUzNzFMMTEuNTM3MSAxMC4xMjI5TDkuNDE0MjEgOEwxMS41MzcxIDUuODc3MTFMMTAuMTIyOSA0LjQ2Mjg5TDggNi41ODU3OUw1Ljg3NzExIDQuNDYyODlMNC40NjI4OSA1Ljg3NzExTDYuNTg1NzkgOFoiIGZpbGw9IiNEMTMyMTIiLz4gPC9zdmc+IA=="/>
-      <p>
-       Temporary error. Please try again.
-      </p>
-     </div>
-     <div>
-      <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIDhDMCAxMi40MTgzIDMuNTgxNzIgMTYgOCAxNkMxMi40MTgzIDE2IDE2IDEyLjQxODMgMTYgOEMxNiAzLjU4MTcyIDEyLjQxODMgMCA4IDBDMy41ODE3MiAwIDAgMy41ODE3MiAwIDhaTTE0IDhDMTQgMTEuMzEzNyAxMS4zMTM3IDE0IDggMTRDNC42ODYyOSAxNCAyIDExLjMxMzcgMiA4QzIgNC42ODYyOSA0LjY4NjI5IDIgOCAyQzExLjMxMzcgMiAxNCA0LjY4NjI5IDE0IDhaTTYuNTg1NzkgOEw0LjQ2Mjg5IDEwLjEyMjlMNS44NzcxMSAxMS41MzcxTDggOS40MTQyMUwxMC4xMjI5IDExLjUzNzFMMTEuNTM3MSAxMC4xMjI5TDkuNDE0MjEgOEwxMS41MzcxIDUuODc3MTFMMTAuMTIyOSA0LjQ2Mjg5TDggNi41ODU3OUw1Ljg3NzExIDQuNDYyODlMNC40NjI4OSA1Ljg3NzExTDYuNTg1NzkgOFoiIGZpbGw9IiNEMTMyMTIiLz4gPC9zdmc+IA=="/>
-      <p>
-       Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. Please disable Google Translate and retry.
-      </p>
-     </div>
-     <div>
-      <h1>
-       Let's confirm you are human
-      </h1>
-     </div>
-     <div>
-      <div id="root-instructions">
-       <p>
-        Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your account and prevent spam.
-       </p>
-      </div>
-      <div id="verification-status">
-       <div class="amzn-captcha-state-container">
-        <button class="amzn-captcha-verify-button btn btn-primary" id="amzn-captcha-verify-button" type="button">
-         Begin
-         <img alt="begin" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOSIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDkgMTQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMS43ODQ2NyAwTDAuNTAwMjA1IDEuMjg0NDZMNi4yMTUwMyA3TDAuNTAwMjA1IDEyLjcxNTVMMS43ODQ2NyAxNEw4Ljc4NDY3IDdMMS43ODQ2NyAwWiIgZmlsbD0iYmxhY2siLz4gPC9zdmc+IA=="/>
-        </button>
+ <body class="calcite-mode-dark">
+  <div id="loading">
+   <div class="loading-content">
+    <div class="justify-content-center jimu-primary-loading-app">
+    </div>
+   </div>
+  </div>
+  <div id="app">
+   <div aria-atomic="true" aria-live="assertive" class="sr-only" data-testid="route-title-announcer" role="status">
+    Vote Center Finder 3.0
+   </div>
+   <div class="page-renderer d-flex flex-column app-root-emotion-cache-ltr-1xlk1uu" data-testid="pageRenderer">
+    <div class="page jimu-outline-inside app-root-emotion-cache-ltr-yoc2pl" data-pageid="home" id="home">
+     <div class="layout fixed-layout d-flex w-100 flex-grow-1 app-root-emotion-cache-ltr-3cyen5" data-layoutid="layout_1">
+      <div class="app-root-emotion-cache-ltr-1nvu187" data-layoutid="layout_1">
+       <div class="d-flex layout-item is-widget app-root-emotion-cache-ltr-1y185b7 animation-end" data-layoutid="layout_1" data-layoutitemid="1">
+        <div class="d-flex w-100 animate-wrapper">
+         <div class="widget-renderer layout-item-content w-100 app-root-emotion-cache-ltr-1bvwbo4" data-widgetid="widget_75">
+          <div class="widget-content jimu-outline-inside">
+           <div class="widget-view-navigation jimu-widget app-root-emotion-cache-ltr-28yrtp">
+            <div class="navigation app-root-emotion-cache-ltr-1d4k401">
+             <div class="jimu-nav jimu-nav-type-pills nav-pills navbar-nav text-center nav-justified jimu-outline-inside app-root-emotion-cache-ltr-19ph4x0-Nav-root">
+              <div class="jimu-nav-button-group jimu-nav-button-group-text nav-button-group jimu-scroll-list scroll-list jimu-outline-inside app-root-emotion-cache-ltr-1iakzji-RANDOM-root-RANDOM-root" data-version="1">
+               <div class="jimu-page-item app-root-emotion-cache-ltr-1r8qsq5">
+                <button aria-disabled="true" aria-label="Previous" class="disabled jimu-button jimu-button-as-link jimu-button-size-default jimu-disabled jimu-link jimu-link-link jimu-disabled jimu-link-size-default jimu-page-link jimu-page-link-text jimu-disabled jimu-page-link-icon-only jimu-page-link-icon-position-start previous direction-button no-link app-root-emotion-cache-ltr-1e2edk8-Button-root-Link-root" disabled="" id="jimu-link-app-0" tabindex="0" type="button">
+                </button>
+               </div>
+               <div class="jimu-scroll-tab-content">
+                <ul aria-label="Views Navigation" aria-orientation="horizontal" class="jimu-scroll-list-list list jimu-outline-inside app-root-emotion-cache-ltr-vvcga7-RANDOM-list" role="tablist">
+                 <li class="jimu-nav-item jimu-scroll-list-item scroll-item nav-item app-root-emotion-cache-ltr-1f0swa2-NavItem-root" role="none" title="Early Voting">
+                  <a aria-controls="section_1_view_1" aria-disabled="false" aria-label="Early Voting" aria-selected="true" class="jimu-button jimu-button-as-link jimu-button-size-default jimu-link jimu-link-link jimu-link-size-default jimu-nav-link jimu-nav-link-pills jimu-active jimu-nav-link-icon-position-start nav-link jimu-outline-inside active app-root-emotion-cache-ltr-1pkogy7-Button-root-Link-root-NavLink-root" draggable="false" href="/experience/HEX/page/Page?views=Early-Voting" id="jimu-link-app-1" role="tab" tabindex="0" type="button">
+                   <span class="jimu-nav-link-wrapper app-root-emotion-cache-ltr-nobrgd-NavLink-wrapper">
+                    Early Voting
+                   </span>
+                  </a>
+                 </li>
+                 <li class="jimu-nav-item jimu-scroll-list-item scroll-item nav-item app-root-emotion-cache-ltr-1f0swa2-NavItem-root" role="none" title="Election Day">
+                  <a aria-controls="section_1_view_2" aria-disabled="false" aria-label="Election Day" aria-selected="false" class="jimu-button jimu-button-as-link jimu-button-size-default jimu-link jimu-link-link jimu-link-size-default jimu-nav-link jimu-nav-link-pills jimu-nav-link-icon-position-start nav-link jimu-outline-inside app-root-emotion-cache-ltr-1pkogy7-Button-root-Link-root-NavLink-root" draggable="false" href="/experience/HEX/page/Page?views=Election-Day" id="jimu-link-app-2" role="tab" tabindex="-1" type="button">
+                   <span class="jimu-nav-link-wrapper app-root-emotion-cache-ltr-nobrgd-NavLink-wrapper">
+                    Election Day
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+               </div>
+               <div class="jimu-page-item app-root-emotion-cache-ltr-1r8qsq5">
+                <button aria-disabled="true" aria-label="Next" class="disabled jimu-button jimu-button-as-link jimu-button-size-default jimu-disabled jimu-link jimu-link-link jimu-disabled jimu-link-size-default jimu-page-link jimu-page-link-text jimu-disabled jimu-page-link-icon-only jimu-page-link-icon-position-end next direction-button no-link app-root-emotion-cache-ltr-1e2edk8-Button-root-Link-root" disabled="" id="jimu-link-app-3" tabindex="0" type="button">
+                </button>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="d-flex layout-item is-section app-root-emotion-cache-ltr-7as2pc animation-end" data-layoutid="layout_1" data-layoutitemid="0">
+        <div class="d-flex w-100 animate-wrapper">
+         <div aria-label="Section. Active view Early Voting." class="section-layout layout-item-content w-100 undefined app-root-emotion-cache-ltr-s3jyba" data-sectionid="section_1" role="group" tabindex="0">
+          <div class="section-content">
+           <div class="w-100 h-100 view-content">
+            <div class="w-100 h-100">
+             <div class="w-100 h-100 d-flex section-view focusable-container app-root-emotion-cache-ltr-1lhhdia" id="section_1_view_1">
+              <div class="layout fixed-layout d-flex w-100" data-layoutid="layout_64">
+               <div class="app-root-emotion-cache-ltr-1nvu187" data-layoutid="layout_64">
+                <div class="d-flex layout-item is-widget app-root-emotion-cache-ltr-sxvv8i animation-end" data-layoutid="layout_64" data-layoutitemid="0">
+                 <div class="d-flex w-100 animate-wrapper">
+                  <div class="widget-renderer layout-item-content w-100 app-root-emotion-cache-ltr-1bvwbo4" data-widgetid="widget_60">
+                   <div class="widget-content jimu-outline-inside">
+                    <div class="jimu-surface jimu-surface-flat jimu-surface-shape-none jimu-surface-level-paper surface jimu-paper jimu-paper-flat jimu-paper-shape-none jimu-paper-transparent jimu-widget widget-embed app-root-emotion-cache-ltr-14yeghb-Surface-root-Paper-root">
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="w-100 h-100 view-content">
+            <div class="w-100 h-100">
+             <div class="w-100 h-100 d-flex section-view app-root-emotion-cache-ltr-11a7w7" id="section_1_view_2">
+              <div class="layout fixed-layout d-flex w-100" data-layoutid="layout_65">
+               <div class="app-root-emotion-cache-ltr-1nvu187" data-layoutid="layout_65">
+                <div class="d-flex layout-item is-widget app-root-emotion-cache-ltr-1r4xbb0 animation-end" data-layoutid="layout_65" data-layoutitemid="0">
+                 <div class="d-flex w-100 animate-wrapper">
+                  <div class="widget-renderer layout-item-content w-100 app-root-emotion-cache-ltr-1bvwbo4" data-widgetid="widget_61">
+                   <div class="widget-content jimu-outline-inside">
+                    <div class="jimu-widget widget-embed">
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
        </div>
       </div>
      </div>
     </div>
-    <select aria-label="Select language" class="amzn-captcha-lang-selector">
-     <option aria-labelledby="ar" value="ar">
-      العربية
-     </option>
-     <option aria-labelledby="cs" value="cs">
-      Čeština
-     </option>
-     <option aria-labelledby="da" value="da">
-      Dansk
-     </option>
-     <option aria-labelledby="de" value="de">
-      Deutsch
-     </option>
-     <option aria-labelledby="en" selected="" value="en">
-      English
-     </option>
-     <option aria-labelledby="es" value="es">
-      Español
-     </option>
-     <option aria-labelledby="fr" value="fr">
-      Français
-     </option>
-     <option aria-labelledby="id" value="id">
-      Bahasa Indonesia
-     </option>
-     <option aria-labelledby="it" value="it">
-      Italiano
-     </option>
-     <option aria-labelledby="ja" value="ja">
-      日本語
-     </option>
-     <option aria-labelledby="ko" value="ko">
-      한국어
-     </option>
-     <option aria-labelledby="nl" value="nl">
-      Nederlands
-     </option>
-     <option aria-labelledby="pl" value="pl">
-      Polski
-     </option>
-     <option aria-labelledby="pt" value="pt">
-      Português
-     </option>
-     <option aria-labelledby="sv" value="sv">
-      Svenska
-     </option>
-     <option aria-labelledby="th" value="th">
-      ไทย
-     </option>
-     <option aria-labelledby="tr" value="tr">
-      Türkçe
-     </option>
-     <option aria-labelledby="zh" value="zh">
-      中文
-     </option>
-    </select>
+   </div>
+   <div id="jimu-overlays-container">
+   </div>
+   <div class="arcade-global-datasources-component d-none">
    </div>
   </div>
  </body>

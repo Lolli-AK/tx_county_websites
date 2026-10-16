@@ -2,20 +2,19 @@
   "county": "Jefferson",
   "page_type": "elections",
   "requested_url": "https://www.jeffcotxvotes.gov",
-  "final_url": "https://www.jeffcotxvotes.gov/",
+  "final_url": "https://www.jeffcotxvotes.gov",
   "redirect_chain": [
-    "https://www.jeffcotxvotes.gov",
-    "https://www.jeffcotxvotes.gov/"
+    "https://www.jeffcotxvotes.gov"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-16T13:32:38Z",
-  "html_sha256": "067420fdd48270653a4ecac67672665948ea77a77fc3b06c53a93c4fc8eeebfc",
-  "text_sha256": "ff18f8b9b5e1abe95d7e42dee613dae647d98c9e919964c0b8ae53d18e8c6973",
-  "byte_size": 4693,
-  "title": "Human Verification",
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "3010b6b8edf1536af904d429719eed4dc5c7a98dac7b9532c70ace3e3723c194",
+  "text_sha256": "54413f5eb529baea98fa58cf65a36cef331b67f4d0235af6701da8808991d12c",
+  "byte_size": 150774,
+  "title": "Jefferson County, Texas – Jefferson County, Texas Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

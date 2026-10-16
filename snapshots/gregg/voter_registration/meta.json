@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://greggcountyvotes.gov/register-to-vote/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-16T12:46:56Z",
-  "html_sha256": "067420fdd48270653a4ecac67672665948ea77a77fc3b06c53a93c4fc8eeebfc",
-  "text_sha256": "ff18f8b9b5e1abe95d7e42dee613dae647d98c9e919964c0b8ae53d18e8c6973",
-  "byte_size": 4693,
-  "title": "Human Verification",
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "eb077de0ea2e8088defac3662582310d0a284f2a3c204aba2542c9c16b5dd5de",
+  "text_sha256": "feae67198f4254182a988eea84ed55c59a656bd786fdb820a627e09d08cbd0a3",
+  "byte_size": 30860,
+  "title": "Register to Vote - Gregg County TX – Elections Department",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

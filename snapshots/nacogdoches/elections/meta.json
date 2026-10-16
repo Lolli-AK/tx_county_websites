@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.nacogdochesco.gov/164/Election-Results"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 404,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-16T13:32:38Z",
-  "html_sha256": "61acdab1b9a779c44353914a9b061d683c65148f493f521733d316478e688b17",
-  "text_sha256": "8579aa2cec2c6101cdb64dd612bdca5c7b62f2a36717c6849f0140baac0e7cf8",
-  "byte_size": 2867,
-  "title": "Just a moment...",
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "8bd8207e26ab467f11326f8ef88925eac4343076d7ae1cdde3176f8321b65900",
+  "text_sha256": "79b83440ef59f8d729bbbff27115f2361de8561d88115b09776559109f8d2bed",
+  "byte_size": 8562,
+  "title": "Custom404 • Nacogdoches County, TX • CivicEngage",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

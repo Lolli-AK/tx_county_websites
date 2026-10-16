@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://galvestonvotes.org/election-information/current-and-upcoming-elections/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-16T12:46:56Z",
-  "html_sha256": "067420fdd48270653a4ecac67672665948ea77a77fc3b06c53a93c4fc8eeebfc",
-  "text_sha256": "ff18f8b9b5e1abe95d7e42dee613dae647d98c9e919964c0b8ae53d18e8c6973",
-  "byte_size": 4693,
-  "title": "Human Verification",
+  "fetched_at": "2026-10-16T16:21:02Z",
+  "html_sha256": "5c3d1e022b3007355c0fbe8d675ad3272b2ec7169f0403bbe2cf8de7a8e0622c",
+  "text_sha256": "97f35d602c72ef1ab2336807718783e8c2831ff50bfdb1638348268a792c637b",
+  "byte_size": 38931,
+  "title": "Current / Upcoming Elections - Galveston County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
