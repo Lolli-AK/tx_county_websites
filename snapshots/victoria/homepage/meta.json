@@ -2,20 +2,20 @@
   "county": "Victoria",
   "page_type": "homepage",
   "requested_url": "https://www.vctx.org",
-  "final_url": "https://www.victoriacountytx.gov",
+  "final_url": "https://www.victoriacountytx.gov/",
   "redirect_chain": [
     "https://www.vctx.org",
-    "https://www.victoriacountytx.gov"
+    "https://www.victoriacountytx.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "3243f995866557d40594c27f8c28f0e79fea00589ea7fc1d5f1ef0be9ece5448",
-  "text_sha256": "8a6d090602c0485794fff60dffab673dbd5ac3dae3c865cc1468b67dd36a9d88",
-  "byte_size": 49819,
-  "title": "Victoria County, TX | Official Website",
+  "fetched_at": "2026-10-16T13:32:38Z",
+  "html_sha256": "7a7caa9af76165ccc5d1f15a99a00c46a1979838e81d4427735df30965e473b8",
+  "text_sha256": "d86028353f87b6e39a5b49d89a7d4ca2ae2ef4bf5b6552e10b410c786f8c1c6c",
+  "byte_size": 2876,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

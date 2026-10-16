@@ -1,4 +1,5 @@
 November 3 General Election | Victoria County, TX
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
@@ -94,6 +95,7 @@ Notice of Convening of Early Voting Ballot Board
 Notice of Partial Manual Handcount
 Calendar
 October 2026
+Calendar
 Sun
 Mon
 Tue
@@ -137,12 +139,16 @@ Sat
 30
 31
 Mon, Oct. 19
+Mon, Oct. 19
 Early Voting
+Tue, Oct. 20
 Tue, Oct. 20
 Early Voting
 Wed, Oct. 21
+Wed, Oct. 21
 Early Voting
 View All Events
+Calendar
 /Calendar.aspx
 Public Notices
 Budget & Transparency
@@ -183,3 +189,5 @@ Loading
 Do Not Show Again
 Close
 []
+Hi, how can I help?
+Explore your accessibility options

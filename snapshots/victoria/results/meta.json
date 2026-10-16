@@ -7,15 +7,15 @@
     "https://www.vctx.org/page/elections.results",
     "https://www.victoriacountytx.gov/page/elections.results"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "ca37695e9e9e1239d0e3370470a8820d294247f35094b6defaafb2d9ee24ff0a",
-  "text_sha256": "66e407015e986ce1f5f44528ae9d97bc858f9f1beb4c8a1b5f762c649ad16c8a",
-  "byte_size": 54413,
-  "title": "Election Results | Victoria County, TX",
+  "fetched_at": "2026-10-16T13:32:38Z",
+  "html_sha256": "b16450b4a909afe3a8433441a54e9086105cd216fe261fa8ca0d7068cacf8650",
+  "text_sha256": "29626ad4a1ee75ad984bf24ed3ab134dc16fdebb3e41e792d5f862d09ccf12ee",
+  "byte_size": 2876,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

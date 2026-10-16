@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.winkler.tx.us/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "6d1db90f1547c70bb68da287229fdf5b92948348851f23000f2a39c16f7480e2",
-  "text_sha256": "3b729ce7a14baf2041cac9ea66a0e89d755a0ae1fa120b94509b862cacd49035",
-  "byte_size": 54746,
-  "title": "Winkler County, TX | Official Website",
+  "fetched_at": "2026-10-16T13:32:38Z",
+  "html_sha256": "a6ad87d30085ca8ee75c43b29b52b202406173cdeb71497d8c22f50a6abb0b46",
+  "text_sha256": "35a95bddd2a35b336471aff917fc2248c5dba0a54229fc8cb76aa9381e6dc830",
+  "byte_size": 2864,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.smith-county.com/236/Current-Election-Results"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "3556b98f0a0f963c7b573d77a23e8f0a437b9302c0e4a5ff8ab19a2a1ef42fb9",
-  "text_sha256": "4cb8d5b3df310d5d1b678e708065017516f7c5f5318941c35f2d65f48e0cc0ed",
-  "byte_size": 62456,
-  "title": "Current Election Results | Smith County, TX",
+  "fetched_at": "2026-10-16T13:32:38Z",
+  "html_sha256": "8f2d706910ddf9f23986e87f9ddec03abd70cc236a5d6555d1990d7821161641",
+  "text_sha256": "924b537e4b7207ad93f3b8808c1454e8a1b98c0cc6bb785d71ba6555e3da72a0",
+  "byte_size": 2864,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

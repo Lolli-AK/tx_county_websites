@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.rockwallvotes.com/voter-information/voter-registration/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "2f35d828e2db93210eef7d7aead3ddbea048ce7b035636496fa68314c07c47bf",
-  "text_sha256": "9e894643e534834fed0e492f2b0a93e0aa59fbe5c336a621c7330a6df29a3167",
-  "byte_size": 29814,
-  "title": "Voter Registration - Rockwall County, TX Elections",
+  "fetched_at": "2026-10-16T13:32:38Z",
+  "html_sha256": "067420fdd48270653a4ecac67672665948ea77a77fc3b06c53a93c4fc8eeebfc",
+  "text_sha256": "ff18f8b9b5e1abe95d7e42dee613dae647d98c9e919964c0b8ae53d18e8c6973",
+  "byte_size": 4693,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

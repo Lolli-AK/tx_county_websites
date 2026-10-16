@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.smith-county.com/227/Voter-Registration"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "184c54c888a86378a2a2619bc53ec43ebf3d2186ad6e6397c499ca3b5266a332",
-  "text_sha256": "0a182d7ef79a555bcc3a8766ca2070479fc0a4bc60c4adcb31441ff1201c1874",
-  "byte_size": 64667,
-  "title": "Voter Registration | Smith County, TX",
+  "fetched_at": "2026-10-16T13:32:38Z",
+  "html_sha256": "57b08e72bb4358eb6a7e159d5cf8135affe053e0705e75a7b9fcfac53733122e",
+  "text_sha256": "6ca3d03a8333cccd2446000d5de79fda3fae6ec5dccf3c290c278253ae061bff",
+  "byte_size": 2864,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

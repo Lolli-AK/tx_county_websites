@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.smith-county.com/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-16T11:00:55Z",
-  "html_sha256": "42ed224b87d7b515eca2e6aa1839e3ca06b793144936191af40cef7ae6f6b4f0",
-  "text_sha256": "b74657a64f5c8dd406a4239abd342215eb6019f5c324ff06231b6e7045ecf8b0",
-  "byte_size": 57383,
-  "title": "Smith County, TX | Official Website",
+  "fetched_at": "2026-10-16T13:32:38Z",
+  "html_sha256": "5072e1bf6481445b77b48be35ecf4db17c57a30ffd072e550d12410879a3b8ad",
+  "text_sha256": "178e3a78c9362447a83d5e6ab7b90f90717d4b6294c26ea91d9621c29cd62231",
+  "byte_size": 2864,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
