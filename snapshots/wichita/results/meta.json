@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://wichitacountytx.com/election_info/election-results/"
   ],
-  "http_status": 202,
-  "content_type": "text/html",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-17T03:41:08Z",
-  "html_sha256": "c8260be088f65ecaa4b98ac71eecefb58393f19c3efa08de25d3558886dd0e1f",
-  "text_sha256": "c3ced01834b6da20e31700c7dea8781c1c665ed6502d40a0cdc0bb9f5ac9228a",
-  "byte_size": 30260,
+  "fetched_at": "2026-10-17T10:22:50Z",
+  "html_sha256": "71be143157d12762ebaaa1fd7f5688ff5e100c16ddcb0e71471d36131669c712",
+  "text_sha256": "cf39163649479e83604be59a7575230b2acecbe86512aec46f250e8f0204cb11",
+  "byte_size": 45298,
   "title": "Election Results | Wichita County",
   "noncitizen_voting": {
     "present": false,

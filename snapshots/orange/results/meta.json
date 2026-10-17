@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.co.orange.tx.us/ElectionResults"
   ],
-  "http_status": 200,
+  "http_status": 500,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-17T03:41:08Z",
-  "html_sha256": "d365603266960434c6aeb05d48698aae9a759c3606488e33be372e5e48294804",
-  "text_sha256": "adc279a2681081eded7c05356477ecde742daf8244bb9fb7bcba8012ce220014",
-  "byte_size": 38476,
-  "title": "Welcome to the Official Website of Orange County, Texas - Election Results",
+  "fetched_at": "2026-10-17T10:22:50Z",
+  "html_sha256": "25b1a4f74162193a8dcd3c13653cd5648b0267f9ff2a76abab6ffbc1c916538a",
+  "text_sha256": "366ce435e0af37408b174155204566841b96526bc7c04331d6aa78637263afbf",
+  "byte_size": 168,
+  "title": "Server Error (500)",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }
