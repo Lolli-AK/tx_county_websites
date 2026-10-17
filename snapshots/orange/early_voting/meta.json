@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.co.orange.tx.us/EarlyVotingTotals"
   ],
-  "http_status": 500,
+  "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-17T11:48:02Z",
-  "html_sha256": "25b1a4f74162193a8dcd3c13653cd5648b0267f9ff2a76abab6ffbc1c916538a",
-  "text_sha256": "366ce435e0af37408b174155204566841b96526bc7c04331d6aa78637263afbf",
-  "byte_size": 168,
-  "title": "Server Error (500)",
+  "fetched_at": "2026-10-17T15:15:32Z",
+  "html_sha256": "e9a04e1f10d3fd12f153491bb5c54ab2b6ece06cce8099e971a1dd3f34a21698",
+  "text_sha256": "b432fc8851a3cff6d8eef8750c006231bea98c5f3fd206612838ec2cde9d575b",
+  "byte_size": 20229,
+  "title": "Welcome to the Official Website of Orange County, Texas - Early Voting Totals",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 2
   },
   "error": null
 }

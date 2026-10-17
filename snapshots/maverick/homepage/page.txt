@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-49°F
+50°F
 EN
 ES
 Government
@@ -33,7 +33,7 @@ Agendas ↗
 Contact
 Early Voting
 Starts in
-2d 00h 57m 06s
+1d 21h 26m 23s
 Monday, October 19 · 8:00 AM – 5:00 PM · Multi‑Purpose Center · 480 S. Adams St.
 Details
 Adopted Budget
@@ -92,14 +92,14 @@ Am I registered?
 Today · Vote
 Early voting starts in
 Monday, October 19 · polls open at 8:00 AM
-3 days left to vote early
-2
+2 days left to vote early
+1
 Days
-00
+21
 Hours
-57
+26
 Min
-06
+23
 Sec
 Last day to register
 Mon, Oct 5
@@ -210,7 +210,7 @@ Emergency Operations Center
 Sign Up for Emergency Alerts
 Get urgent Maverick County notifications by text, call or email: severe weather, evacuations, road closures and emergencies.
 Sign Up
-49°
+50°
 F
 Weather · Eagle Pass
 Clear

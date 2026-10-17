@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-17T11:48:02Z",
-  "html_sha256": "c75d67e56ed479accb3282173f5e26f72b85ab52edf5d7f819621cf1deff9dd7",
+  "fetched_at": "2026-10-17T15:15:32Z",
+  "html_sha256": "f9617d18bf7d647c755fb080751ce71013b2f18e0cbfe5be71b8d16c63db3ce6",
   "text_sha256": "9d84d47fdd50b6c1b56f107f9f44d641a339e524e149df9c1c31e597e7792fa5",
-  "byte_size": 27228,
+  "byte_size": 27231,
   "title": "Home / Walker County, TX",
   "noncitizen_voting": {
     "present": false,
