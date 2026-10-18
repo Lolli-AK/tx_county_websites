@@ -238,7 +238,8 @@ Am I Registered?
 portal, which allows you to look up your voter registration record in the statewide voter registration database.
 If you have  specific questions regarding the status of your voter registration please contact us at:
 432-287-0222 option 4 or email us at
-elections@reevescounty.org
+elections@reevescounty
+tx.gov
 Texans who have recently changed their name or moved can easily update their voter registration online through Texas.gov
 .
 Click here to update your voter registration information online

@@ -33,7 +33,7 @@ Agendas ↗
 Contact
 Early Voting
 Starts in
-16h 27m 08s
+13h 54m 37s
 Monday, October 19 · 8:00 AM – 5:00 PM · Multi‑Purpose Center · 480 S. Adams St.
 Details
 Adopted Budget
@@ -92,11 +92,11 @@ Monday, October 19 · polls open at 8:00 AM
 Today is the last day
 0
 Days
-16
+13
 Hours
-27
+54
 Min
-08
+37
 Sec
 Last day to register
 Mon, Oct 5
@@ -210,7 +210,7 @@ Sign Up
 71°
 F
 Weather · Eagle Pass
-Mostly Cloudy
+Partly Cloudy
 Official portal · Transparency
 Commissioners Court Agendas
 Access agendas, minutes, recordings and official notices for every Maverick County Commissioners Court session. All public information from the county's governing body, in one place.
