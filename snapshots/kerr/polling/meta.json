@@ -6,29 +6,24 @@
   "redirect_chain": [
     "https://kerrcountytx.gov/voting-in-kerr-county/kerr-county-elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-18T15:36:51Z",
-  "html_sha256": "3017a12d076f1d4d0a0d71c906fc1ce6648d1ae6a91dea12079f67c3e1945ccb",
-  "text_sha256": "47ee17eedbac77d91f39cc97e7d766e12896bd557438b75f8ca38db459c2846b",
-  "byte_size": 140848,
-  "title": "Kerr County Elections | Welcome to Kerr County | Kerrville, TX",
+  "fetched_at": "2026-10-18T20:20:12Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 11
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)"
 }

@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://kerrcountytx.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-18T15:36:51Z",
-  "html_sha256": "dc3a05778b20cd3fb38b5dc3fbc60aa2eed6ed7c2e14a91846c6508da9ef8f3d",
-  "text_sha256": "a22b8f237f868f60ce7a7b383a80532ab8db004d4216dfd2385e9dd5e09e00bf",
-  "byte_size": 49768,
-  "title": "Welcome to Kerr County Texas | Kerr County | Kerrville, TX",
+  "fetched_at": "2026-10-18T20:20:12Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)"
 }

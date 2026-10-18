@@ -2,19 +2,19 @@
   "county": "Brazos",
   "page_type": "homepage",
   "requested_url": "https://www.brazoscountytx.gov/",
-  "final_url": "https://brazoscountytx.gov/?ki-cf-botcl=1",
+  "final_url": "https://www.brazoscountytx.gov/?ki-cf-botcl=1",
   "redirect_chain": [
     "https://www.brazoscountytx.gov/",
-    "https://brazoscountytx.gov/?ki-cf-botcl=1"
+    "https://www.brazoscountytx.gov/?ki-cf-botcl=1"
   ],
   "http_status": 403,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-18T15:36:51Z",
-  "html_sha256": "69bb207962db769d8c2d2d7b5e1aff59371d293416d70fef92445c27a5212b6f",
-  "text_sha256": "b8a249f8a41dd4c93e902a49cf8cb28aa45cf5563032bd2bb9197d85bc74272e",
-  "byte_size": 2858,
+  "fetched_at": "2026-10-18T20:20:12Z",
+  "html_sha256": "64665c1fa4b24eebdc814271cb6cb56a386a3d347851824964c7a2c2e4887c43",
+  "text_sha256": "3971ba2d34eaabb635cd311a11f5f1e22199648ebe5d3175e0f2e47422140f8c",
+  "byte_size": 2870,
   "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
