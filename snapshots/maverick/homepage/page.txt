@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-61°F
+66°F
 EN
 ES
 Government
@@ -31,10 +31,9 @@ Elections
 Notices
 Agendas ↗
 Contact
-Early Voting
-Starts in
-00h 12m 47s
-Monday, October 19 · 8:00 AM – 5:00 PM · Multi‑Purpose Center · 480 S. Adams St.
+Early Voting · Open Now
+Today, Monday, October 19 · 8:00 AM – 5:00 PM
+Multi‑Purpose Center · 480 S. Adams St.
 Details
 Elections
 New telephone number for the Elections Department: (830) 206-8351 · Fax (830) 206-8355
@@ -84,20 +83,21 @@ Check whether you're registered, learn the requirements to register, which ID to
 More information
 Am I registered?
 Today · Vote
-Early voting starts in
-Monday, October 19 · polls open at 8:00 AM
-Today is the last day
-0
+Early voting is underway
+Last day: Friday, October 30
+12 days left to vote early
+11
 Days
-00
+13
 Hours
-12
+46
 Min
-47
+36
 Sec
 Last day to register
 Mon, Oct 5
 Registration for this election is closed
+Now
 Early voting
 Oct 19 – 30
 At any early voting location in the county
@@ -204,7 +204,7 @@ Emergency Operations Center
 Sign Up for Emergency Alerts
 Get urgent Maverick County notifications by text, call or email: severe weather, evacuations, road closures and emergencies.
 Sign Up
-61°
+66°
 F
 Weather · Eagle Pass
 Clear

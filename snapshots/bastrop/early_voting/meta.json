@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-19T12:37:24Z",
-  "html_sha256": "3126b16ce5ae98cd60b6c8bfcacd8da13a0a5a647409b5eedeb52dcaf2525aba",
-  "text_sha256": "4b1ca659799d567e4e94b535041d5c9c52135d52df48f7585a4964dd5948f2d7",
+  "fetched_at": "2026-10-19T15:04:22Z",
+  "html_sha256": "bbb33f1e055f1fb0a6a263253b458cbb656f3caca7cd5bef0cc1bb21ca65a7a5",
+  "text_sha256": "c3e0721df3067bf3ec7906c009da9a106a03ad8fab6e235888c6faaadf66adc5",
   "byte_size": 27104,
   "title": "Early Voting Information - Bastrop County, TX Elections",
   "noncitizen_voting": {
