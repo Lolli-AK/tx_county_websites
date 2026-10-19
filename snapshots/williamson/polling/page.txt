@@ -12,7 +12,7 @@ First Name
 Last Name
 Date of Birth
 Date of Birth
-Use the date picker or enter a date of birth within the allowed voter age range.
+Type month/day/year (MM/DD/YYYY) or use the calendar. You can also type eight digits (MMDDYYYY).
 Search
 Search a voter for information
 Williamson County Elections

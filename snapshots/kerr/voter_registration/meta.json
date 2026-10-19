@@ -6,24 +6,28 @@
   "redirect_chain": [
     "https://kerrcountytx.gov/voting-in-kerr-county/kerr-county-voter-registration-and-information"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-19T15:04:22Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-19T20:27:33Z",
+  "html_sha256": "eef9493d63bdbd764b140858875b1b28f3a08a2abff2f2decef95ab89b243412",
+  "text_sha256": "1f762d6d11b644bbb7b7d5aa8244c17fe4761f8f9eb02806a0ba7c5398d46143",
+  "byte_size": 40443,
+  "title": "Voter Registration & Info | Welcome to Kerr County | Kerrville, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 5
   },
-  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)"
+  "error": null
 }

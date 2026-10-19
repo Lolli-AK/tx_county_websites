@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-19T15:04:22Z",
-  "html_sha256": "b67452e6e744f2a0a6c9ae8534a8e147c53c980e943b08e38ebca326cf44575f",
+  "fetched_at": "2026-10-19T20:27:33Z",
+  "html_sha256": "a4a45f87f194f5f70b185e0ad6598e08aa28318f4ebcb6dd7101b392b50773d1",
   "text_sha256": "dc1eef204ba9b0b2bb5454ec7140460d4a3444e8af52b05040fffae2df7c793d",
-  "byte_size": 54015,
+  "byte_size": 52626,
   "title": "Elections Administration | Anderson County, TX",
   "noncitizen_voting": {
     "present": false,

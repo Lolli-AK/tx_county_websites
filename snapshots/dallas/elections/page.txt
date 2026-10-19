@@ -162,6 +162,14 @@ Historical
 Accessibility
 [rotating image slideshow removed for determinism]
 News & Announcements
+October 19, 2026
+Poll Worker Training Schedule-11032026
+2026
+October 19, 2026
+Order of Election (DallasCounty)
+2026
+news-announcements
+orders
 October 9, 2026
 Public Notice of Logic & Accuracy Test of Electronic Pollbook
 uncategorized
@@ -196,14 +204,6 @@ September 10, 2026
 DCAD Cancellation of Election
 2026
 resolution
-September 8, 2026
-City of Garland – Notice of Special Election
-2026
-notice
-September 8, 2026
-Irving ISD – Order of Bond Election
-2026
-orders
 View All
 Election Information
 Sample Ballot
@@ -523,51 +523,10 @@ October 19, 2026
 Early Voting
 7:00 AM - 7:00 PM
 november-3-2026-general-and-joint-election
-October 20, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 21, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 22, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
 October 23, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
 Last Day to Receive Ballot by Mail Application
 november-3-2026-general-and-joint-election
 October 24, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 25, 2026
-Early Voting
-12:00PM - 6:00 PM
-november-3-2026-general-and-joint-election
-October 26, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 27, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 28, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-Deadline to mail ballots to Military and Overseas Voters
-december-12-2026-runoff-election
-October 29, 2026
-Early Voting
-7:00 AM - 7:00 PM
-november-3-2026-general-and-joint-election
-October 30, 2026
 Early Voting
 7:00 AM - 7:00 PM
 november-3-2026-general-and-joint-election
