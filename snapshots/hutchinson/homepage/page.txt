@@ -95,15 +95,7 @@ Aug 18, 2026
 Museum
 View All News
 Events
-Oct
-19
-First Day of Early Voting by Personal Appearance
-Oct
-23
-Last Day to Apply for Ballot by Mail
-Oct
-26
-Commissioners Court Meeting
+Invalid calendar feed configuration. Please check integration setup.
 View All Events
 Emergency Notification Sign Up
 Join Hutchinson County Public Notification System
