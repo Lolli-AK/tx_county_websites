@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.mclennan.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-18T22:53:18Z",
-  "html_sha256": "7eb19fcc17040b9e6c9b777379e22e7815de02e39f5e811be7a80e78fbce275d",
-  "text_sha256": "847971a010b6b96ecda7fe459d04481de1cec28d78f6ba5c31a9037134188d81",
-  "byte_size": 131431,
-  "title": "McLennan County, TX | Official Website",
+  "fetched_at": "2026-10-19T03:56:41Z",
+  "html_sha256": "715318e8938f0e670df6fe9a06884666250f7ac701e8f0838e9ac4603c0faaa3",
+  "text_sha256": "6b8bf572d2dc2667c4d695b626033bdca7b12818ad8195c2f9230f12fe7ce479",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
