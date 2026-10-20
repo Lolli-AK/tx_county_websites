@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-20T14:11:55Z",
-  "html_sha256": "ee51b5b859dc665277bb3c415069e0a5da5ccfed83b1cd83492cae1066c85d7d",
+  "fetched_at": "2026-10-20T19:03:32Z",
+  "html_sha256": "003a7149635a5e71e697c048d5294b76d81b3f2289d94ee73cad36adb872a7b6",
   "text_sha256": "e6d3b8a4c0e6cd31c9025138615b0afb8d8a594ed0664f0e270468c49ccccecb",
-  "byte_size": 178927,
+  "byte_size": 179051,
   "title": "Current Election Information | Kendall County, TX",
   "noncitizen_voting": {
     "present": false,

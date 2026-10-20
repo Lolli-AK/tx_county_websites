@@ -131,6 +131,7 @@ CERTIFICATION OF PUBLIC LOGIC AND ACCURACY TEST AND FIRST TEST OF AUTOMATIC TABU
 CERTIFICATION OF LOGIC AND ACCURACY TEST OF ELECTRONIC POLLBOOK EQUIPMENT
 Early Voting & Election Day Turnout By Date
 ▲
+October 19, 2026
 Sample Ballots
 ▲
 General Election November 3, 2026 Sample Ballots
@@ -168,6 +169,7 @@ October 13, 2026
 October 14, 2026
 October 15, 2026
 October 16, 2026
+October 19, 2026
 November 3, 2026 General Election Information/Results
 ▲
 Election/Voter Registration

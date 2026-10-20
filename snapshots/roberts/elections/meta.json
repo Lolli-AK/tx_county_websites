@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-20T14:11:55Z",
-  "html_sha256": "5e6c15b13c69ca951fb205edd412c1a881eb320d83f038f52be68c91c8db0bc9",
+  "fetched_at": "2026-10-20T19:03:32Z",
+  "html_sha256": "6578f67da97d2b5f2353f6510483940daac6c07374f10f59eee034dc80034073",
   "text_sha256": "3b8286796a096d33627e244b2ff422a7c885d0737325a840ad8332e4dd3b1a4b",
-  "byte_size": 41423,
+  "byte_size": 40861,
   "title": "Roberts County, Texas",
   "noncitizen_voting": {
     "present": false,

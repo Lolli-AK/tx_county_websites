@@ -114,7 +114,7 @@ Election Worker Application
 document seq
 0.00
 November 3, 2026 General & Special Election
-5 documents
+6 documents
 Order of Election - Southwest Texas College
 document seq
 0.00
@@ -128,6 +128,11 @@ Notice of Election - Dimmit County
 document seq
 0.00
 SAMPLE BALLOTS FOR NOV. 3, 2026 ELECTION - ALL PCTS.
+document seq
+0.00
+Daily Voter List - Early Voting
+1 document
+EV Oct 19, 2026
 document seq
 0.00
 DONE: May 26, 2026 Primary Run-off Election & Sample Ballots
