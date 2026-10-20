@@ -160,7 +160,7 @@ Map & Details
 Today's Hours:
 10:00 AM - 7:00 PM
 Current Wait Time:
-More Than 30 Minutes
+Less Than 10 Minutes
 Canutillo Nutrition Center
 7351 Bosque Rd. 79835
 Exercise Room
@@ -485,8 +485,8 @@ Today's Hours:
 8:00 AM - 6:00 PM
 Current Wait Time:
 Less Than 10 Minutes
-540,732
-Registered voters as of Monday, October 19, 2026
+541,117
+Registered voters as of Tuesday, October 20, 2026
 Are You Registered?
 Every Voice Makes an Impact.
 Every Vote Makes a Difference.

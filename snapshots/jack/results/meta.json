@@ -6,15 +6,15 @@
   "redirect_chain": [
     "http://apps.easydoc.jackcounty.org/elections/"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-20T00:09:54Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-20T08:19:07Z",
+  "html_sha256": "7c224ebe8f34afab8ff1c58c356609a114f28ed634095d8805ecb5cba7bd4901",
+  "text_sha256": "72a5daaaf26b63562c59150a3ef1c90a21c7fff74e9d1421623647d29e6af36d",
+  "byte_size": 4771,
+  "title": "Election Returns",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

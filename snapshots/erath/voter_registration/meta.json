@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-20T00:09:54Z",
-  "html_sha256": "cd917c7bcf54351dc6220c2709bfe2124297c243984eecc8a4f13ae19cd40848",
+  "fetched_at": "2026-10-20T08:19:07Z",
+  "html_sha256": "e2cc626218ff60e68309fa8341562c0c8ec3570065dd79f6479ce887c7e74dbb",
   "text_sha256": "97db537c323ce5a8b64576e9dcf5973a63be54a548c50d64540d4370411c7131",
-  "byte_size": 60154,
+  "byte_size": 60217,
   "title": "Voter Registration | Erath County, TX",
   "noncitizen_voting": {
     "present": false,

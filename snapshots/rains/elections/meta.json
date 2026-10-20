@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-20T00:09:54Z",
-  "html_sha256": "5aa77def86cee9eeea9917884fca8c76d32d9b9cd37e84bed0000b54eb4052f6",
+  "fetched_at": "2026-10-20T08:19:07Z",
+  "html_sha256": "ea40e553bd2d392912dc90a713f0344aa1b99bf491b05c4d4e4cc2973abcbe77",
   "text_sha256": "72c6607f6bf037df349f8819327d2081e384b0279762ffba390bc5a1f63f29c4",
-  "byte_size": 94306,
+  "byte_size": 94426,
   "title": "Rains County, Texas",
   "noncitizen_voting": {
     "present": false,
