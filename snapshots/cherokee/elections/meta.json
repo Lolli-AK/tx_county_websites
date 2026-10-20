@@ -6,26 +6,24 @@
   "redirect_chain": [
     "http://www.co.cherokee.tx.us/ips/cms/othercountyoffices/elections.html"
   ],
-  "http_status": 200,
-  "content_type": "text/html",
+  "http_status": 403,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-19T20:27:33Z",
-  "html_sha256": "1abf9940fad9ff9010ee96c9b063f2209003e92057d7b74bec8c62218b8de590",
-  "text_sha256": "53c28e7ae375bd2561212fbb894bb740df8793f8ad7f698dddc7b0fd7d1877ba",
-  "byte_size": 32538,
-  "title": "Cherokee County - Elections",
+  "fetched_at": "2026-10-20T00:09:54Z",
+  "html_sha256": "3dc268415d498fac71190a027573f8a6d7b99d1a5642368f110c77086e67c71d",
+  "text_sha256": "3e9f58cbeed6ded289db13fe768842511b8755874db139a1d0610c1075d924fb",
+  "byte_size": 977,
+  "title": "Security Verification Required",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

@@ -151,7 +151,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+More Than 30 Minutes
 Bassett Place
 6101 Gateway West 79925
 Next to Claire's
@@ -277,7 +277,7 @@ Map & Details
 Today's Hours:
 10:00 AM - 7:00 PM
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 Fabens Community Center
 201 NW Camp St. 79838
 Pool Room
@@ -322,7 +322,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 La Fe Montana Vista Community Center
 14618 Greg Dr. 79938
 Auditorium
@@ -385,7 +385,7 @@ Map & Details
 Today's Hours:
 10:00 AM - 7:00 PM
 Current Wait Time:
-10 - 20 Minutes
+More Than 30 Minutes
 Pebble Hills High School
 14400 Pebble Hills Blvd. 79938
 Auditorium Foyer
@@ -421,7 +421,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-More Than 30 Minutes
+10 - 20 Minutes
 UTEP-Union Building East
 351 W. University Ave. 79968
 River View Room 102H

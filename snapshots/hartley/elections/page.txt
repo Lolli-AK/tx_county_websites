@@ -106,7 +106,12 @@ General Election - November 3, 2026
 Early Voting Dates 10/19/2026-10/30/2026
 Early Voting Weekend Date 10/24-10/25
 Texas General Election Dates - register to vote by 10/05
-Ballot Samples 2026
+Ballot Samples 2026 101
+Ballot Samples 2026 102
+Ballot Samples 2026 201
+Ballot Samples 2026 202
+Ballot Samples 2026 301
+Ballot Samples 2026 401
 Public Logic and Accuracy Test of Automatic Tabulating Equipment
 Order of Elections
 Election Results

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-19T20:27:33Z",
-  "html_sha256": "9f02090afb89a57ca6bf63f2fb46471a276d2d68971a4853f345b1462a6ffe47",
+  "fetched_at": "2026-10-20T00:09:54Z",
+  "html_sha256": "673a1f796e64d87d8e4719b1d507b4501e2b0880552af48aa9f54daae4d6fc5d",
   "text_sha256": "437ea49ec1b7aedbdb7b2f0787fbbff552aa5e876a604d65da830f16c0c7c0c5",
-  "byte_size": 33511,
+  "byte_size": 33640,
   "title": "Current and Upcoming Elections - Bastrop County, TX Elections",
   "noncitizen_voting": {
     "present": false,

@@ -31,8 +31,8 @@ Elections
 Notices
 Agendas ↗
 Contact
-Early Voting · Open Now
-Today, Monday, October 19 · 8:00 AM – 5:00 PM
+Early Voting
+Closed for today · Tomorrow, Tuesday, October 20 · 8:00 AM – 5:00 PM
 Multi‑Purpose Center · 480 S. Adams St.
 Details
 Elections
@@ -88,11 +88,11 @@ Last day: Friday, October 30
 12 days left to vote early
 11
 Days
-08
+04
 Hours
-15
+24
 Min
-54
+00
 Sec
 Last day to register
 Mon, Oct 5

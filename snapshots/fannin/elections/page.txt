@@ -491,6 +491,13 @@ Ballot Style 4 - Precinct 7 & 17
 Ballot Style 5 - Precinct 16
 Ballot Style 6 - Precinct 1, 2, 4, 5, 9, & 15
 Ballot Style 7 - Precinct 3, 12, & 19
+Notice of Election:
+Fannin County
+City of Leonard
+AVISO DE ELECCIÓN DE BONOS
+A LOS VOTANTES CALIFICADOS RESIDENTES DE
+LA CIUDAD DE LEONARD
+Public Notice of Logic and Accuracy Testing (LAT)
 Important Dates:
 Last day to Register to Vote – Monday, October 5, 2026
 Early Voting Period - Monday, October 19 - October 30, 2026
@@ -498,6 +505,11 @@ Last day to Receive Application for Ballot by Mail – Friday, October 23, 2026
 Last day to Receive FPCA – Friday, October 23, 2026
 Election Day - November 3, 2026
 Last Day for Elections to Receive Ballot by Mail - November 4, 2026 5:00 PM
+Voter History Reports
+Absentee (Ballots by Mail)
+October 19, 2026
+Early Voters
+October 19, 2026
 2025 Elections
 ▲
 November 4, 2025 Constitutional Amendment Election

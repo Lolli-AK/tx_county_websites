@@ -240,6 +240,7 @@ ________________________________________________________________________________
 PUBLIC TESTS
 HASH VALADATION 11.03.2026
 L&A PUBLIC NOTICE FIRST TEST
+NOTICE OF CONVENING OF EVBB
 _______________________________________________________________________________________________
 SAMPLE BALLOTS BY POLLING LOCATIONS
 101    Milton Baptist Church
@@ -262,6 +263,8 @@ Northridge Baptist Church
 410    Bangs Community Center
 411    Coggin Avenue Baptist Church
 417    Rocky Creek Baptist Church
+EARLY VOTERS 11032026
+Early Voters 10.19.2026
 May 26th, 2026 Primary Runoff Election
 ▲
 Polling Locations

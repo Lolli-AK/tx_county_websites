@@ -157,14 +157,32 @@ Sample Ballots Precinct 2 (201, 202, 203)
 Sample Ballots Precinct 3 (301, 302, 303)
 Sample Ballots Precinct 4 (401, 402)
 Where and When can you vote?  Click here
-DAILY VOTING ROSTERS
+BALLOT BY MAIL DAILY VOTING ROSTER
+EARLY VOTING IN PERSON DAILY VOTING ROSTER
 Ballot by Mail 10/5/2026
+Early Voting in Person 10/19/2026
 Ballot by Mail 10/6/2026
+Early Voting in Person 10/20/2026
 Ballot by Mail 10/7/2026
+Early Voting in Person 10/21/2026
 Ballot by Mail 10/8/2026
+Early Voting in Person 10/22/2026
 Ballot by Mail 10/9/2026
+Early Voting in Person 10/23/2026
 Ballot by Mail 10/13/2026
+Early Voting in Person 10/24/2026
 Ballot by Mail 10/14/2026
+Early Voting in Person 10/25/2026
+Ballot by Mail 10/15/2026
+Early Voting in Person 10/26/2026
+Ballot by Mail 10/16/2026
+Early Voting in Person 10/27/2026
+Ballot by Mail 10/19/2026
+Early Voting in Person 10/28/2026
+Ballot by Mail 10/20/2026
+Early Voting in Person 10/29/2026
+Ballot by Mail 10/21/2026
+Early Voting in Person 10/30/2026
 November 3, 2026 General Election
 Election Notices and Orders - County
 Notice of Election

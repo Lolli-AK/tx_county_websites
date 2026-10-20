@@ -105,6 +105,7 @@ Precinct
 Write-In Candidates
 (Candidatos escritos)
 Early Voting By Mail Roster
+Early Voting In Person Roster
 Election Results (R
 esultados electorales actuales)
 - coming soon
