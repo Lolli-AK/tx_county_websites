@@ -45,10 +45,11 @@ General Election Sample Ballots
 Weekend -Early voting
 GENERAL ELECTION DAY RESULTS 2026
 ▲
-Republican Voter Rosters-Early Voting
-Democratic Voter Rosters-Early Voting
-Republican Voter Rosters-Election Day
-Democrat Voter Rosters-Election Day
+Voter Rosters-Early Voting
+10-19-2026
+Mail Ballots
+10-19-2026 Mail
+Voter Rosters-Election Day
 General Voter Information
 ▲
 Application for Ballot by Mail

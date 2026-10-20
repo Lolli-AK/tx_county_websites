@@ -223,7 +223,10 @@ Last day of Early Voting
 11/03/2026:
 Election Day
 Early Voting Roster:
-10.19.26 IN PERSON / MAIL
+10.19.26
+IN PERSON
+/
+MAIL
 10.20.26 IN PERSON / MAIL
 10.21.26 IN PERSON / MAIL
 10.22.26 IN PERSON / MAIL
@@ -273,6 +276,7 @@ L&A Testing
 Order Calling for SVC
 Notice of Delivery to SVC
 Notice of Delivery to Ballot Board
+Notice of Ballot Correction
 Sample Ballots:
 PCT 1
 PCT 2

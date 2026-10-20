@@ -77,6 +77,10 @@ Access your ballot
 Ballots and Measures
 November 2026 General Election Ballot and Measures
 Early Voting Rosters
+10/19/2026
+CSV
+/
+PDF
 Election Day Roster
 Mail Ballot Rosters
 9/21/2026
@@ -148,6 +152,14 @@ CSV
 /
 PDF
 10/15/2026
+CSV
+/
+PDF
+10/16/2026
+CSV
+/
+PDF
+10/19/2026
 CSV
 /
 PDF
