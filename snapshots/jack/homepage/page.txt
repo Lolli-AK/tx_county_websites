@@ -7,14 +7,13 @@ We’re currently experiencing issues
 Community Development (v3 + FMO)
 Community Development (v4)
 Municipal Websites Open
-Recreation Management
 Service Disruption - Community Development v4
-Community Development v4 services have been restored. We are continuing to monitor the system to ensure security and stability. If you continue to experience issues, please contact support.
+Community Development v4 services have been restored. We are continuing to monitor the system to support security and stability.
 Monitoring
 ·
 Ongoing for
-14
-minutes
+4
+hours
 ·
 Affects Community Development (v4)
 Service Disruption - Municipal Websites Open
@@ -22,7 +21,7 @@ The Web Open solution (all versions) has been taken offline as a precaution due 
 Identified
 ·
 Ongoing for
-2
+6
 hours
 ·
 Affects Municipal Websites Open
@@ -31,29 +30,10 @@ Community Development v3 and FMO are offline as a precaution due to a security v
 Identified
 ·
 Ongoing for
-43
-minutes
+5
+hours
 ·
 Affects Community Development (v3 + FMO)
-Degraded Performance - Municipal Websites Open
-A fix has been implemented and services have been restored. We are continuing to monitor system performance to ensure stability. If you continue to experience issues, please contact support.
-Monitoring
-·
-Ongoing for
-7
-hours
-·
-Affects Municipal Websites Open
-Security Maintenance Today – Brief Interruptions Possible
-Today we’re applying an important security update to the technology that powers Recreation Management. While this work is underway, you may notice brief, intermittent interruptions. Pages may load slowly or be temporarily unavailable. If this happens, please wait a few minutes and try again. Additionally, Sandbox sites will be unavailable during this maintenance window.
-This is a proactive update, and there’s no action needed on your part.
-To give this work our full attention, today’s scheduled release has been moved to 10/22.
-We’ll post an update here once maintenance is complete. Thank you for your patience!
-In progress
-·
-Ongoing for
-3
-hours
 System status
 Jul 2026
 -

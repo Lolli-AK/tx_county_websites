@@ -160,7 +160,7 @@ Map & Details
 Today's Hours:
 10:00 AM - 7:00 PM
 Current Wait Time:
-More Than 30 Minutes
+Less Than 10 Minutes
 Canutillo Nutrition Center
 7351 Bosque Rd. 79835
 Exercise Room
@@ -187,7 +187,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 City of San Elizario Municipal Court
 12004 Socorro Rd. Suite B, 79849
 Council Chambers
@@ -232,7 +232,7 @@ Map & Details
 Today's Hours:
 8:00 AM - 5:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 EPCC Transmountain Campus
 9570 Gateway North Blvd. 79924
 Pit, Next to the Union
@@ -250,7 +250,7 @@ Map & Details
 Today's Hours:
 8:00 AM - 5:00 PM
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 El Paso County Northwest Annex
 435 E. Vinton Rd. 79821
 Community Room
@@ -277,7 +277,7 @@ Map & Details
 Today's Hours:
 10:00 AM - 7:00 PM
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Fabens Community Center
 201 NW Camp St. 79838
 Pool Room
@@ -322,7 +322,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 La Fe Montana Vista Community Center
 14618 Greg Dr. 79938
 Auditorium
@@ -340,7 +340,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-More Than 30 Minutes
+20 - 30 Minutes
 Memorial Park Senior Citizen Center
 1800 Byron St. 79930
 Classroom
@@ -385,7 +385,7 @@ Map & Details
 Today's Hours:
 10:00 AM - 7:00 PM
 Current Wait Time:
-20 - 30 Minutes
+Less Than 10 Minutes
 Pebble Hills High School
 14400 Pebble Hills Blvd. 79938
 Auditorium Foyer

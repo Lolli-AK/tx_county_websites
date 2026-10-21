@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-21T16:53:31Z",
-  "html_sha256": "a9dc10c7b45b75514165fbe51583cf3aa15c2aa85626283359c1e6c4c8761ceb",
+  "fetched_at": "2026-10-21T21:25:54Z",
+  "html_sha256": "ab7ff60d420a3d06f152c25eb6a452b8d85c6d5710d3515e6eb99861d385de4b",
   "text_sha256": "b200c22f4c20975e62b25b0b075e3d632a8428711ebf526f788d2737d8502868",
-  "byte_size": 147234,
+  "byte_size": 147222,
   "title": "Elections & Voting | Reagan County, Texas",
   "noncitizen_voting": {
     "present": false,
