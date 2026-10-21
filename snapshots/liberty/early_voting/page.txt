@@ -120,7 +120,9 @@ ELECTION DAY:
 November 3, 2026 - Voter List
 EARLY VOTING:
 October 19, 2026 - Voter List
+: 1956
 October 20, 2026 - Voter List
+: 1877 (3833)
 October 21, 2026 - Voter List
 October 22, 2026 - Voter List
 October 23, 2026 - Voter List

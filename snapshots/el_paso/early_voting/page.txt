@@ -223,7 +223,7 @@ Map & Details
 Today's Hours:
 10:00 AM - 7:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 EPCC Administrative Services Center
 9050 Viscount Blvd. 79925
 A-Building Foyer
@@ -385,7 +385,7 @@ Map & Details
 Today's Hours:
 10:00 AM - 7:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Pebble Hills High School
 14400 Pebble Hills Blvd. 79938
 Auditorium Foyer
@@ -421,7 +421,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-20 - 30 Minutes
+10 - 20 Minutes
 UTEP-Union Building East
 351 W. University Ave. 79968
 River View Room 102H

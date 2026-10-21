@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-20T23:41:25Z",
-  "html_sha256": "d98aa58b236d0bd129237f485c294cfe49420af1386933ad2fe6550d376a3642",
+  "fetched_at": "2026-10-21T03:57:54Z",
+  "html_sha256": "0bf22a05b4a37ef4a46c0a2cc86da6218d11d26be78b77244e714cff3e03a27e",
   "text_sha256": "95dd8484cb5ae9e5f53215b0468a59b812e508075f1fc90f17b857458f4461df",
-  "byte_size": 214455,
+  "byte_size": 214459,
   "title": "Dallas County Elections Department – Dallas County Elections – Your trusted source for voting information, resources, and updates. Explore voter registration, election details, polling locations, and essential tools to help you make informed choices. Empowering Dallas County to engage, educate, and vote",
   "noncitizen_voting": {
     "present": false,
