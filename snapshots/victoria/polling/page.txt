@@ -10,6 +10,7 @@ Business
 How Do I
 Search
 November 3 General Election
+Voting Rosters
 Voter Registration
 Need to Know Information
 Voter Information
@@ -26,7 +27,6 @@ Elections Historical Archive
 Elected Officials Archive
 Election Workers
 Ballot By Mail and Overseas Voting
-Voting Rosters
 Campaign Finance Reports
 The 1776 Initiative
 Intern Blog
@@ -136,11 +136,11 @@ Sat
 29
 30
 31
-Tue, Oct. 20
-Early Voting
 Wed, Oct. 21
 Early Voting
 Thu, Oct. 22
+Early Voting
+Fri, Oct. 23
 Early Voting
 View All Events
 /Calendar.aspx

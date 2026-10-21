@@ -113,6 +113,7 @@ for your House Number.
 Date of Birth (MM/DD/YYYY):
 House Number:
 Check Registration & Find Sample Ballot
+Roster for Early Voting In-Person
 Sample Ballots
 Notice of Pollworker Training
 Public Notice of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment

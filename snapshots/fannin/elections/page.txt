@@ -107,6 +107,10 @@ Stephanie Hawes
 Elections Deputy Clerk
 Secretaria Electoral
 shawes@fanninco.net
+Kourtni Miles
+Elections Deputy Clerk
+Secretaria Electoral
+kmiles@fanninco.net
 Elizabeth Shewmake
 Elections Clerk
 Secretaria Electoral
@@ -507,8 +511,7 @@ Election Day - November 3, 2026
 Last Day for Elections to Receive Ballot by Mail - November 4, 2026 5:00 PM
 Voter History Reports
 Absentee (Ballots by Mail)
-October 19, 2026
-- 63 Voters
+- 105 Voters
 Early Voters - County
 October 19, 2026 - 1023 Voters
 Early Voters - City of Leonard

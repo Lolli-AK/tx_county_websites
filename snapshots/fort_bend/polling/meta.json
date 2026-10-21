@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-20T19:03:32Z",
-  "html_sha256": "67f4d40e89ae9d763f770ca14bbc12c0bf5988b1569f5b0c6ea697a6977b85c9",
+  "fetched_at": "2026-10-20T23:41:25Z",
+  "html_sha256": "e4b03defbc7fc0dab1453744bdda3cbd8fa0890f67b910628c7331b3d878e2ae",
   "text_sha256": "d5eaeafbc3bfbabfd056b02f92afdf1647b572ee3c0d45510cfed57030e8b656",
-  "byte_size": 152490,
+  "byte_size": 152472,
   "title": "Voter Precinct Maps | Fort Bend County",
   "noncitizen_voting": {
     "present": false,

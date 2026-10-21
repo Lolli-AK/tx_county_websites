@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.calhouncotx.org/"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-20T19:03:32Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-20T23:41:25Z",
+  "html_sha256": "f6609be216aa5400cf6f99b4843b2d9d8863846e995cbfb94aec84b769d6be42",
+  "text_sha256": "2a65fe8635237c2f88e153b3aecf1896deb2fa56a60d717f9bdcb7ca5bd78f69",
+  "byte_size": 22965,
+  "title": "Quick Links - Calhoun County Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)"
+  "error": null
 }

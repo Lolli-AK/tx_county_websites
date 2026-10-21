@@ -346,8 +346,10 @@ Notice of Convening of EVBB
 *******************************************************************************************
 Sample Ballots
 Precinct 1-COE & 7-COE are the same (COE-City of Eastland)
-Precinct 1, 7, & 8 are the same
-Precinct 2, 3, 4, 5, 6, & 9 are the same
+Precinct 1 and 7 are the same
+Precinct 5 and 6 are the same
+Precinct 8
+Precinct 2, 3, 4, & 9 are the same
 *******************************************************************************************
 Daily Voting Rosters
 10-19-2026
@@ -366,7 +368,6 @@ Daily Voting Rosters
 MAIL BALLOTS SPREADSHEET
 *******************************************************************************************
 Results
-11-3-26 Voter Check-ins
 Unofficial – Early Results
 Unofficial – Results
 Precinct by Precinct Report

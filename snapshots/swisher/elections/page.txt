@@ -104,8 +104,11 @@ Precinct
 11
 Write-In Candidates
 (Candidatos escritos)
-Early Voting By Mail Roster
-Early Voting In Person Roster
+Early Voting By Mail Roster (
+Lista de votación anticipada por correo)
+Early Voting In Person Roster (
+Lista de votación anticipada presencial
+)
 Election Results (R
 esultados electorales actuales)
 - coming soon

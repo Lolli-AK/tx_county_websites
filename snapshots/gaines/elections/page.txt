@@ -286,6 +286,7 @@ Notice of Election Worker Training
 Notice of Voting Order Priority for Voters with Certain Disablities
 Early Voting Rosters
 October 19th
+October 20th
 Election Day Roster
 Results
 Unofficial
@@ -375,10 +376,11 @@ Filing as a Candidate
 Procedures for Write-In Candidate
 Frequently Asked Questions
 Current Voter Turnout
-Absentee Ballots: 25
-October 19th: 282
+Absentee Ballots: 26
+October 19th: 281
+October 20th: 268
 __________________
-Total: 307
+Total: 575
 How to find us.
 Gaines County Courthouse
 101 S Main St
