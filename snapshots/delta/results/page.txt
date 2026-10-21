@@ -1,10 +1,490 @@
-Just a moment...
-www.deltacountytx.com
-Performing security verification
-This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
-Verification successful. Waiting for www.deltacountytx.com to respond
-Ray ID:
-a4e0a2529dda4b80
-Performance and Security by
-Cloudflare
-Privacy
+CivicPlus Status
+Report a problem
+Subscribe to updates
+Report a problem
+Subscribe to updates
+We’re currently experiencing issues
+Community Development (v3 + FMO)
+Community Development (v4)
+Municipal Websites Open
+Recreation Management
+Service Disruption - Community Development v4
+Community Development v4 services have been restored. We are continuing to monitor the system to ensure security and stability. If you continue to experience issues, please contact support.
+Monitoring
+·
+Ongoing for
+11
+minutes
+·
+Affects Community Development (v4)
+Service Disruption - Municipal Websites Open
+The Web Open solution (all versions) has been taken offline as a precaution due to a security vulnerability affecting PHP and may affect this product. There is no evidence that customer data has been compromised. We will provide updates as information becomes available.
+Identified
+·
+Ongoing for
+2
+hours
+·
+Affects Municipal Websites Open
+Service Disruption - Community Development v3
+Community Development v3 and FMO are offline as a precaution due to a security vulnerability affecting PHP and may affect this product. There is no evidence that customer data has been compromised. We will provide updates as information becomes available.
+Identified
+·
+Ongoing for
+40
+minutes
+·
+Affects Community Development (v3 + FMO)
+Degraded Performance - Municipal Websites Open
+A fix has been implemented and services have been restored. We are continuing to monitor system performance to ensure stability. If you continue to experience issues, please contact support.
+Monitoring
+·
+Ongoing for
+7
+hours
+·
+Affects Municipal Websites Open
+Security Maintenance Today – Brief Interruptions Possible
+Today we’re applying an important security update to the technology that powers Recreation Management. While this work is underway, you may notice brief, intermittent interruptions. Pages may load slowly or be temporarily unavailable. If this happens, please wait a few minutes and try again. Additionally, Sandbox sites will be unavailable during this maintenance window.
+This is a proactive update, and there’s no action needed on your part.
+To give this work our full attention, today’s scheduled release has been moved to 10/22.
+We’ll post an update here once maintenance is complete. Thank you for your patience!
+In progress
+·
+Ongoing for
+3
+hours
+System status
+Jul 2026
+-
+Oct 2026
+Upcoming scheduled maintenance
+Agenda and Meeting Management Essential
+1 component
+Agenda and Meeting Management Essential
+1 component
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Thu, Jul 23, 2026
+No incidents
+Agenda and Meeting Management Select
+4 components
+Agenda and Meeting Management Select
+4 components
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Public Portal
+Public Portal
+Thu, Jul 23, 2026
+No data available
+Admin Portal
+Admin Portal
+Thu, Jul 23, 2026
+No data available
+Board Portal
+Board Portal
+Thu, Jul 23, 2026
+No data available
+Thu, Jul 23, 2026
+No incidents
+Asset Management
+5 components
+Asset Management
+5 components
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Integration Syncing
+Integration Syncing
+Thu, Jul 23, 2026
+No data available
+Mobile Field Operations
+Mobile Field Operations
+Thu, Jul 23, 2026
+No data available
+Reporting
+Reporting
+Thu, Jul 23, 2026
+No data available
+System Application
+System Application
+Thu, Jul 23, 2026
+No data available
+Thu, Jul 23, 2026
+No incidents
+CivicPlus Agent
+2 components
+CivicPlus Agent
+2 components
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Analytics
+Analytics
+Thu, Jul 23, 2026
+No data available
+Thu, Jul 23, 2026
+No incidents
+Codification
+1 component
+Codification
+1 component
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Thu, Jul 23, 2026
+No incidents
+Community Development (v3 + FMO)
+1 component
+Community Development (v3 + FMO)
+1 component
+Login
+Login
+Thu, Jul 23, 2026
+No data available
+Thu, Jul 23, 2026
+No incidents
+Community Development (v4)
+7 components
+Community Development (v4)
+7 components
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Payments
+Payments
+Thu, Jul 23, 2026
+No incidents
+Property Management
+Property Management
+Thu, Jul 23, 2026
+No data available
+Inspections
+Inspections
+Thu, Jul 23, 2026
+No data available
+Invoicing
+Invoicing
+Thu, Jul 23, 2026
+No data available
+Reports
+Reports
+Thu, Jul 23, 2026
+No data available
+Mapping System
+Mapping System
+Thu, Jul 23, 2026
+No data available
+Thu, Jul 23, 2026
+No incidents
+DocAccess
+6 components
+DocAccess
+6 components
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Admin Interface
+Admin Interface
+Thu, Jul 23, 2026
+No incidents
+Document Service
+Document Service
+Thu, Jul 23, 2026
+No incidents
+Document Processing
+Document Processing
+Thu, Jul 23, 2026
+No data available
+API
+API
+Thu, Jul 23, 2026
+No data available
+LMS Integrations
+LMS Integrations
+Thu, Jul 23, 2026
+No data available
+Thu, Jul 23, 2026
+No incidents
+Mass Notifications
+1 component
+Mass Notifications
+1 component
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Thu, Jul 23, 2026
+No incidents
+Municipal Websites Central
+5 components
+Municipal Websites Central
+5 components
+Login
+Login
+Thu, Jul 23, 2026
+Service Disruption to Web Central Sites
+Payments
+Payments
+Thu, Jul 23, 2026
+Service Disruption to Web Central Sites
+Resident Portal
+Resident Portal
+Thu, Jul 23, 2026
+No data available
+Visitor Access
+Visitor Access
+Thu, Jul 23, 2026
+No data available
+Notifications
+Notifications
+Thu, Jul 23, 2026
+No data available
+Thu, Jul 23, 2026
+Service Disruption to Web Central Sites
+Municipal Websites Evolve
+1 component
+Municipal Websites Evolve
+1 component
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Thu, Jul 23, 2026
+No incidents
+Municipal Websites Open
+1 component
+Municipal Websites Open
+1 component
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Thu, Jul 23, 2026
+No incidents
+NextRequest
+2 components
+NextRequest
+2 components
+Login
+Login
+Thu, Jul 23, 2026
+Degraded Performance with NextRequest
+Payments
+Payments
+Thu, Jul 23, 2026
+No incidents
+Thu, Jul 23, 2026
+Degraded Performance with NextRequest
+Online Code Hosting
+12 components
+Online Code Hosting
+12 components
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Admin Portal
+Admin Portal
+Thu, Jul 23, 2026
+No data available
+MuniPro
+MuniPro
+Thu, Jul 23, 2026
+No data available
+CodeBank
+CodeBank
+Thu, Jul 23, 2026
+No data available
+OrdBank
+OrdBank
+Thu, Jul 23, 2026
+No data available
+CodeBank Compare
+CodeBank Compare
+Thu, Jul 23, 2026
+No data available
+eNotify
+eNotify
+Thu, Jul 23, 2026
+No data available
+OrdLink
+OrdLink
+Thu, Jul 23, 2026
+No data available
+MuniDocs
+MuniDocs
+Thu, Jul 23, 2026
+No data available
+PDF Conversion
+PDF Conversion
+Thu, Jul 23, 2026
+No data available
+Word Document Conversion
+Word Document Conversion
+Thu, Jul 23, 2026
+No data available
+Printing
+Printing
+Thu, Jul 23, 2026
+No data available
+Thu, Jul 23, 2026
+No incidents
+Process Automation and Digital Services
+2 components
+Process Automation and Digital Services
+2 components
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Payments
+Payments
+Thu, Jul 23, 2026
+No incidents
+Thu, Jul 23, 2026
+No incidents
+Recreation Management
+2 components
+Recreation Management
+2 components
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Payments
+Payments
+Thu, Jul 23, 2026
+No incidents
+Thu, Jul 23, 2026
+No incidents
+SeeClickFix 311 CRM
+5 components
+SeeClickFix 311 CRM
+5 components
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Requests
+Requests
+Thu, Jul 23, 2026
+No data available
+Notices
+Notices
+Thu, Jul 23, 2026
+No data available
+Word Orders
+Word Orders
+Thu, Jul 23, 2026
+No data available
+Conversations
+Conversations
+Thu, Jul 23, 2026
+No data available
+Thu, Jul 23, 2026
+No incidents
+Self-Publishing Software
+3 components
+Self-Publishing Software
+3 components
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Propose Mode
+Propose Mode
+Thu, Jul 23, 2026
+No data available
+Live Mode
+Live Mode
+Thu, Jul 23, 2026
+No data available
+Thu, Jul 23, 2026
+No incidents
+Social Media Archiving
+1 component
+Social Media Archiving
+1 component
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Thu, Jul 23, 2026
+No incidents
+Staff Center + CivicPlus Athena
+5 components
+Staff Center + CivicPlus Athena
+5 components
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Dashboard
+Dashboard
+Thu, Jul 23, 2026
+No data available
+Chat
+Chat
+Thu, Jul 23, 2026
+No data available
+Settings
+Settings
+Thu, Jul 23, 2026
+No data available
+Agent Settings
+Agent Settings
+Thu, Jul 23, 2026
+No data available
+Thu, Jul 23, 2026
+No incidents
+Streamline CMS
+2 components
+Streamline CMS
+2 components
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Notifications
+Notifications
+Thu, Jul 23, 2026
+No data available
+Thu, Jul 23, 2026
+No incidents
+Utility Billing
+4 components
+Utility Billing
+4 components
+Login
+Login
+Thu, Jul 23, 2026
+No incidents
+Payments
+Payments
+Thu, Jul 23, 2026
+No data available
+Notifications
+Notifications
+Thu, Jul 23, 2026
+No data available
+Organizations
+Organizations
+Thu, Jul 23, 2026
+No data available
+Thu, Jul 23, 2026
+No incidents
+View history
+Powered by
+Privacy policy
+·
+Terms of service

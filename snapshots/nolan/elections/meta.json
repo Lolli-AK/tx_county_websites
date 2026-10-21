@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-21T13:17:06Z",
-  "html_sha256": "96ba8528dce752a66553dc4a2e265e831d17b6966e42e228e24c47343fb4e7c0",
+  "fetched_at": "2026-10-21T16:53:31Z",
+  "html_sha256": "b2239e35e89741ec0d5276753a147225995d169d832fcc12d49ae6819c162da8",
   "text_sha256": "b4f692518f9534bcce3021642d489010fed772430659923e6b23e35fe98c5864",
-  "byte_size": 282191,
+  "byte_size": 282303,
   "title": "ELECTION INFORMATION & TURNOUT DATA / INFORMACION ELECTORAL Y DATOS DE PARTICIPACION",
   "noncitizen_voting": {
     "present": false,

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-21T13:17:06Z",
-  "html_sha256": "07076d53d5d393332720680832d5efbda52f5745c2328e9d8eb97a0d84c35322",
+  "fetched_at": "2026-10-21T16:53:31Z",
+  "html_sha256": "53afa72230ce43f64ad7cd0a50430e6a9f242b10c6c75f99b1844d782f483362",
   "text_sha256": "02fd7599856c142c3009c386fb15542c00d3e4fb89b38da7e978152b45e779d7",
-  "byte_size": 47623,
+  "byte_size": 47632,
   "title": "Hill County, Texas",
   "noncitizen_voting": {
     "present": false,

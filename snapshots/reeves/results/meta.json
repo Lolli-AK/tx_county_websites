@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.reevescounty.org/departments/elections/election-results-archive"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-21T13:17:06Z",
-  "html_sha256": "829b4be940c935f797e18a5ac4c8e5b07a9e2519cc54c7e9c9ee2b4e213c95df",
-  "text_sha256": "a4a5ce1e9dfecfbfdd8e52fe9fc8608c398e86c807c078402d33c167c63042b8",
-  "byte_size": 71935,
-  "title": "Election Results Archive | Reeves County, TX",
+  "fetched_at": "2026-10-21T16:53:31Z",
+  "html_sha256": "3bf1bf025b30432824565d6303124170520535ee4358aa18a32f27a49eeffc63",
+  "text_sha256": "a3f0272da0f24ff4b24d277191a211c6aba8f092aa38d996c63f566a1024cfa2",
+  "byte_size": 358,
+  "title": "Access Denied",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

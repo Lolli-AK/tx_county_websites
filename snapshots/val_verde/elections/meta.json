@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-21T13:17:06Z",
-  "html_sha256": "00eab90a92dd57ca09b45de091df5a8755dacea175e5e1e26b6d713e7947aba3",
+  "fetched_at": "2026-10-21T16:53:31Z",
+  "html_sha256": "fb5fffdf17a503350e24c358c6bdc65d071050bb8539087658579cc0884a7ea8",
   "text_sha256": "cf7e7bdc2a3a4778c4110636425e7062d8d5611a526507ba816aba5f82dabdf1",
-  "byte_size": 139718,
+  "byte_size": 139701,
   "title": "Voter Registration & Elections | Val Verde County, TX",
   "noncitizen_voting": {
     "present": false,

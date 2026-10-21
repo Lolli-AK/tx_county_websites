@@ -253,7 +253,6 @@ Government
 Departments
 Elections/ Voter Registration
 Early Voting Statistics
-We are experiencing some technical delays in statistic reporting. We have posted the information currently available and will update the statistic information shortly to include precinct numbers and a reformatted personal appearance statistics page.
 The Early Voting by Mail reports lists all voters who have returned a ballot by mail.  It does
 not
 mean that every ballot has been approved for counting. To verify the status of your ballot, click the button below:
@@ -262,7 +261,6 @@ Early Voting by Mail
 Early Voting by Personal Appearance
 Early Voting by Mail Statistics
 Early Voting by Personal Appearance Statistics
-[PDF]
 BBM
 EV
 Connect with us

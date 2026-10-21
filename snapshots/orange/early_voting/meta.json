@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-21T13:17:06Z",
-  "html_sha256": "2ca6708fa76b1de2c846fe611ebe4b8ba6d1e03d9fc24a9cab0d7dd0c523be0f",
+  "fetched_at": "2026-10-21T16:53:31Z",
+  "html_sha256": "567d506c012d40b1afe7c848cf332843d1d89730bd0dcc15cf34f27764ca9472",
   "text_sha256": "72f677e54a8bade428103ffe20b1615e8cad479f4826bd7a1191639c4ad7b3fc",
-  "byte_size": 17237,
+  "byte_size": 17245,
   "title": "Welcome to the Official Website of Orange County, Texas - Early Voting Totals",
   "noncitizen_voting": {
     "present": false,

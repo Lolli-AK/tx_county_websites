@@ -2,19 +2,20 @@
   "county": "Delta",
   "page_type": "results",
   "requested_url": "https://www.deltacountytx.com/elections/page/election-results",
-  "final_url": "https://www.deltacountytx.com/elections/page/election-results",
+  "final_url": "https://status.civicplus.com/",
   "redirect_chain": [
-    "https://www.deltacountytx.com/elections/page/election-results"
+    "https://www.deltacountytx.com/elections/page/election-results",
+    "https://status.civicplus.com/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-21T13:17:06Z",
-  "html_sha256": "4798b1129752c4c850fbabba7c895105d61ae1f86fee444bfd12c1cccb8c3a06",
-  "text_sha256": "ad321062bfe483529dc5ccf98cda15a9716728ecfddb647293bb1af3ce2fd13b",
-  "byte_size": 2867,
-  "title": "Just a moment...",
+  "fetched_at": "2026-10-21T16:53:31Z",
+  "html_sha256": "b1a32e418115990e378cc1fea89e0bad262cec5fa07e98f2e34cc8661d5a01d8",
+  "text_sha256": "de855affba09335569f32947e88858f61319ec6b81c19fc7c83664cd7ce734c2",
+  "byte_size": 292929,
+  "title": "CivicPlus Status",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

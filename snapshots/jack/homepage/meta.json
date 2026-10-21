@@ -2,19 +2,20 @@
   "county": "Jack",
   "page_type": "homepage",
   "requested_url": "https://www.jackcounty.texas.gov/",
-  "final_url": "https://www.jackcounty.texas.gov/",
+  "final_url": "https://status.civicplus.com/",
   "redirect_chain": [
-    "https://www.jackcounty.texas.gov/"
+    "https://www.jackcounty.texas.gov/",
+    "https://status.civicplus.com/"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-21T13:17:06Z",
-  "html_sha256": "48a213f738c28ccaa09026ab6347d9e0a7ff597b9cef8aa3e6077da95d212663",
-  "text_sha256": "f831a35ec36b9f45a3362eb479dfed652e5b67c239b67cdfc12e1836177e8193",
-  "byte_size": 51542,
-  "title": "Home Page | Jack County TX",
+  "fetched_at": "2026-10-21T16:53:31Z",
+  "html_sha256": "cb15e2fe130ac322b34b0ad2dad7657cf061a82a3956cb09307f0b081fc0e633",
+  "text_sha256": "5b7cb04d446e1a7c6f45e7d3f463d69a42da4583eeebca035ef2b73528edd03a",
+  "byte_size": 292928,
+  "title": "CivicPlus Status",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
