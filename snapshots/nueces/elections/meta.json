@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-21T03:57:54Z",
-  "html_sha256": "e02bc115654acdc0aa3bad46b4d01e47be79d99707b5f7e6ae1f8004851b4d17",
+  "fetched_at": "2026-10-21T11:26:11Z",
+  "html_sha256": "8daecd006140afbb7d719a99ca510553c1f3c4535a8cf55e77f5b6b3cccd3ab2",
   "text_sha256": "600bbf01f7b05190854e42f9b1c150c724f81ce75c5258aa9d50b73691549100",
-  "byte_size": 156555,
+  "byte_size": 156182,
   "title": "Elections Department | Nueces County, TX",
   "noncitizen_voting": {
     "present": false,
