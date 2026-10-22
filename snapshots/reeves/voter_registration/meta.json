@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.reevescounty.org/departments/elections/voter-registration"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-22T16:53:41Z",
-  "html_sha256": "235a8d83cec6d9bf667dfdeabdc78424a81de1df22d04dd2cf6309cf861e8116",
-  "text_sha256": "3bd82042ef3e1fe8a80085d02e297863e0972a6ba1d29bb546ad1949f849b59e",
-  "byte_size": 62423,
-  "title": "Voter Registration | Reeves County, TX",
+  "fetched_at": "2026-10-22T21:20:48Z",
+  "html_sha256": "82d9db68aed9bed94eb086d25eaac028e3ef5f2aaecbe2bc9ff3c9863782585a",
+  "text_sha256": "b3c016ff497c05e752b29a99ccbec0e8d793aac584ea590977e3fb5b538330e5",
+  "byte_size": 352,
+  "title": "Access Denied",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

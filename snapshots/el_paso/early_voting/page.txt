@@ -160,7 +160,7 @@ Map & Details
 Today's Hours:
 10:00 AM - 7:00 PM
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Canutillo Nutrition Center
 7351 Bosque Rd. 79835
 Exercise Room
@@ -232,7 +232,7 @@ Map & Details
 Today's Hours:
 8:00 AM - 5:00 PM
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 EPCC Transmountain Campus
 9570 Gateway North Blvd. 79924
 Pit, Next to the Union
@@ -421,7 +421,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 UTEP-Union Building East
 351 W. University Ave. 79968
 River View Room 102H
@@ -430,7 +430,7 @@ Map & Details
 Today's Hours:
 8:00 AM - 5:00 PM
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 W.E. Neill Community Center
 19210 Cobb Ave. 79853
 Library

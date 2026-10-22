@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-22T16:53:41Z",
-  "html_sha256": "48f163e4fed3f0e69dd3555e432bb13c30ced164593ef1e224d17ab00035371a",
+  "fetched_at": "2026-10-22T21:20:48Z",
+  "html_sha256": "1071e4072139a1f82d0dbadd1dcf1acb9552d845210a6dc1378f98959b84eb16",
   "text_sha256": "4d830016549a7856ed3142d644775c41f802c40c342a65f256832e972ee0ca7c",
-  "byte_size": 46308,
+  "byte_size": 46257,
   "title": "Home",
   "noncitizen_voting": {
     "present": false,

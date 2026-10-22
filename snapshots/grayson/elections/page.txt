@@ -357,10 +357,13 @@ Press the enter key or spacebar to expand or collapse the accordion
 Early Voting Reporting
 ▲
 October 19 2026 Absentee Voter List.xlsx
+October 19 2026 Check in Summary By Location.xlsx
 October 19 2026 EV Check-in Report.xlsx
 October 20 2026 EV Check-in Report.xlsx
+October 20 2026 Check-in Summary By Location.xlsx
 October 20 2026 Absentee Voter List.xlsx
 October 21 2026 Absentee Voter List.xlsx
+October 21 2026 Check-in Summary By Location.xlsx
 October 21 2026 EV Check-in Report.xlsx
 Download file
 Press the enter key or spacebar to expand or collapse the accordion
