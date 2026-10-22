@@ -67,6 +67,7 @@ Voter Registration
 Central Count Station Cameras
 Ballot Delivery Cameras
 Ballot Board Signature Verification
+Ballot Board Signature Verification 2
 Warehouse Drop-off Cameras
 Juvenile
 General Information
@@ -152,6 +153,7 @@ Voter Registration
 Central Count Station Cameras
 Ballot Delivery Cameras
 Ballot Board Signature Verification
+Ballot Board Signature Verification 2
 Warehouse Drop-off Cameras
 Juvenile
 +

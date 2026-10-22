@@ -19,7 +19,6 @@ Constable
 Sheriff
 Justice of The Peace
 Veterans Information
-Elections Administrator
 Commissioners Court
 Policy and Procedure
 Minutes
@@ -31,6 +30,7 @@ District Court Judge
 District Clerk
 District Attorney
 Elections
+Elections Administrator
 Financial Transparency
 Tax Information
 Annual Local Debt Reports

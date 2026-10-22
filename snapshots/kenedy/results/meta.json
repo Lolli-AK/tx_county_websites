@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-22T13:24:51Z",
-  "html_sha256": "73c98a9febfae489c05418a5a68f81c2a1201d19ebdf7e1e3fa96a7c9190326a",
+  "fetched_at": "2026-10-22T16:53:41Z",
+  "html_sha256": "dcb6f93552e474ed69d4909c624a1371d0258369caf5d4744fdfbad64f68bf32",
   "text_sha256": "23a3c293688c4437b4f21c1891aa1e651ed7bfc3df8f2e02d0b0c4834c1e42bb",
-  "byte_size": 39444,
+  "byte_size": 39458,
   "title": "Results – Kenedy County",
   "noncitizen_voting": {
     "present": false,

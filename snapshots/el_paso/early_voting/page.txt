@@ -160,7 +160,7 @@ Map & Details
 Today's Hours:
 10:00 AM - 7:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Canutillo Nutrition Center
 7351 Bosque Rd. 79835
 Exercise Room
@@ -187,7 +187,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 City of San Elizario Municipal Court
 12004 Socorro Rd. Suite B, 79849
 Council Chambers
@@ -250,7 +250,7 @@ Map & Details
 Today's Hours:
 8:00 AM - 5:00 PM
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 El Paso County Northwest Annex
 435 E. Vinton Rd. 79821
 Community Room
@@ -295,7 +295,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Gonzalez Place
 4101 Rich Beem Blvd. 79938
 Community Room
@@ -421,7 +421,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 UTEP-Union Building East
 351 W. University Ave. 79968
 River View Room 102H

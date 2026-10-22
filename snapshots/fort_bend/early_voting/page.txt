@@ -257,12 +257,17 @@ The Early Voting by Mail reports lists all voters who have returned a ballot by 
 not
 mean that every ballot has been approved for counting. To verify the status of your ballot, click the button below:
 Track Ballot By Mail
+Last Updated: 10/22/26
 Early Voting by Mail
 Early Voting by Personal Appearance
 Early Voting by Mail Statistics
+[PDF]
 Early Voting by Personal Appearance Statistics
+[PDF]
 BBM
+[Excel]
 EV
+[Excel]
 Connect with us
 Stay informed
 County Calendar
