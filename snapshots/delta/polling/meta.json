@@ -2,20 +2,19 @@
   "county": "Delta",
   "page_type": "polling",
   "requested_url": "https://www.deltacountytx.com/commissioners/page/county-precinct-maps",
-  "final_url": "https://status.civicplus.com/",
+  "final_url": "https://www.deltacountytx.com/commissioners/page/county-precinct-maps",
   "redirect_chain": [
-    "https://www.deltacountytx.com/commissioners/page/county-precinct-maps",
-    "https://status.civicplus.com/"
+    "https://www.deltacountytx.com/commissioners/page/county-precinct-maps"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-21T21:25:54Z",
-  "html_sha256": "17eaf60f3d0986107d3b0d4eab19892083577a3da2e784dcac5a44ccc0829ddf",
-  "text_sha256": "4f3aacde8692acb6c57d7280be0a16af04e74bf4ac3d22c2274b555c521d8ef0",
-  "byte_size": 287590,
-  "title": "CivicPlus Status",
+  "fetched_at": "2026-10-22T03:58:17Z",
+  "html_sha256": "9706548dd69486100c2dc1706542e744770944788d3e9fb21c8ee7df92a7567d",
+  "text_sha256": "9e252c6edc8fb93b201703dfa13d7ac67035ec3f73ebb9935f072e66a7256eb7",
+  "byte_size": 2867,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

@@ -6,29 +6,24 @@
   "redirect_chain": [
     "https://kerrcountytx.gov/voting-in-kerr-county/kerr-county-elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-21T21:25:54Z",
-  "html_sha256": "cf0cf301fb541fafe34c47a60241f87351a4e11ae48888abf57cdac059ad0818",
-  "text_sha256": "6cf5e999a9b7e6f24b4ab483001d6b8df08fe28f9339334994aab8d9219be863",
-  "byte_size": 143670,
-  "title": "Kerr County Elections | Welcome to Kerr County | Kerrville, TX",
+  "fetched_at": "2026-10-22T03:58:17Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 11
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

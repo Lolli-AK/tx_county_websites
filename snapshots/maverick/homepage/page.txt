@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-85°F
+71°F
 EN
 ES
 Government
@@ -31,8 +31,8 @@ Elections
 Notices
 Agendas ↗
 Contact
-Early Voting · Open Now
-Today, Wednesday, October 21 · 8:00 AM – 5:00 PM
+Early Voting
+Closed for today · Tomorrow, Thursday, October 22 · 8:00 AM – 5:00 PM
 Multi‑Purpose Center · 480 S. Adams St.
 Details
 Elections
@@ -44,15 +44,6 @@ Official website of Maverick County, Texas
 Events
 Upcoming events
 View all
-21
-OCT
-community
-Eagle Pass MPO Public Workshop: 2050 Transportation Plan (MTP) & TIP
-Wednesday, October 21, 2026 · 5:00 PM
-International Center for Trade (ICT), 3295 Bob Rogers Drive, Eagle Pass, TX 78852
-Maverick County encourages residents to attend the public workshop hosted by the Eagle Pass Metropolitan Planning Organization (MPO) on the 2050 Metropolitan Transportation Plan (MTP) and the Transportation Improvement Program (TIP).
-Learn about upcoming transportation plans and projects, share your ideas, and highlight the transportation needs that matter most to you and your family. Whether you drive, walk, bike, or use public transportation, your perspective is important.
-For questions or additional information, or to arrange free translation services or disability assistance at least three business days in advance: sfigueroa@eaglepasstx.gov or (830) 773-4247.
 24
 OCT
 community
@@ -77,6 +68,14 @@ Thanksgiving Day
 Thursday, November 26, 2026
 All county offices closed
 All Maverick County offices will be closed in observance of this federal holiday.
+27
+NOV
+holiday
+Holiday
+Day After Thanksgiving
+Friday, November 27, 2026
+All county offices closed
+All Maverick County offices will be closed in observance of this federal holiday.
 General Election · Nov 3, 2026
 Get ready to vote in the General Election
 Check whether you're registered, learn the requirements to register, which ID to bring, and all the key dates.
@@ -88,11 +87,11 @@ Last day: Friday, October 30
 10 days left to vote early
 9
 Days
-07
+00
 Hours
-13
+36
 Min
-44
+09
 Sec
 Last day to register
 Mon, Oct 5
@@ -204,7 +203,7 @@ Emergency Operations Center
 Sign Up for Emergency Alerts
 Get urgent Maverick County notifications by text, call or email: severe weather, evacuations, road closures and emergencies.
 Sign Up
-85°
+71°
 F
 Weather · Eagle Pass
 Clear

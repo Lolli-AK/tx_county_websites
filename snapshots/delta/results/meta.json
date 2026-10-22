@@ -2,29 +2,30 @@
   "county": "Delta",
   "page_type": "results",
   "requested_url": "https://www.deltacountytx.com/elections/page/election-results",
-  "final_url": "https://status.civicplus.com/",
+  "final_url": "https://www.deltacountytx.com/elections/page/election-results",
   "redirect_chain": [
-    "https://www.deltacountytx.com/elections/page/election-results",
-    "https://status.civicplus.com/"
+    "https://www.deltacountytx.com/elections/page/election-results"
   ],
   "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-21T21:25:54Z",
-  "html_sha256": "0059b0aa63087460b007ca2474a3e6c69ab5a1ef9060aba6d31b713573afe363",
-  "text_sha256": "4f3aacde8692acb6c57d7280be0a16af04e74bf4ac3d22c2274b555c521d8ef0",
-  "byte_size": 287591,
-  "title": "CivicPlus Status",
+  "fetched_at": "2026-10-22T03:58:17Z",
+  "html_sha256": "4d66c93c1e1139fbec83e33536db1b6befb8c0cb4749ce081d9a9204712b434f",
+  "text_sha256": "fe0c07591ece55db661657112914ba98c222ae62a1e59ed362a09020004b9ba7",
+  "byte_size": 132649,
+  "title": "Election Results | Delta County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-21T21:25:54Z",
-  "html_sha256": "f83c3b5ea17ecb5e7dbaa3a002e1f5f2555d82c2781cafadc0da299bf2701432",
+  "fetched_at": "2026-10-22T03:58:17Z",
+  "html_sha256": "42c6744407e6f8d29be87d22f3cbcd077cdfcb7305f6935f4f2dec447b54c3c8",
   "text_sha256": "96da054985031ad86f8ecef9e26603cbb8f932564861b5d5dc7e58dfc1f694c6",
-  "byte_size": 39517,
+  "byte_size": 39519,
   "title": "Elections 2026 | Kinney County, Texas",
   "noncitizen_voting": {
     "present": false,

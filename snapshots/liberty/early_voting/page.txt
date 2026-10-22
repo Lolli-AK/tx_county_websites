@@ -97,8 +97,6 @@ Texas Association of Counties
 November 3, 2026
 General Election
 ▲
-The Liberty County Courthouse is closed on Monday, October 12, 2026, and Wednesday, October 21, 2026.
-The Elections Department will be open on Wednesday, October 21, 2026.
 Toggle main menu visibility
 Menu
 CLICK HERE to RETURN TO ELECTIONS PAGE
@@ -122,8 +120,9 @@ EARLY VOTING:
 October 19, 2026 - Voter List
 : 1956
 October 20, 2026 - Voter List
-: 1877 (3833)
+: 1877 (3833 total to-date)
 October 21, 2026 - Voter List
+: 1686 (5519 total to-date)
 October 22, 2026 - Voter List
 October 23, 2026 - Voter List
 October 24, 2026 - Voter List

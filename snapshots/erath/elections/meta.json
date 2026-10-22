@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-21T21:25:54Z",
-  "html_sha256": "55479321fb44ed889079c7325d63aebd55e076cd00262c085793fe625dcdfac0",
+  "fetched_at": "2026-10-22T03:58:17Z",
+  "html_sha256": "7798038a2c700c6b28494d0ae83f20ad69e5fc55538f9048d65a69d458257db1",
   "text_sha256": "1dd4d6f9291e77f36e28330f79af62b37c579b0c9feb365b1e33818a3569f780",
-  "byte_size": 56379,
+  "byte_size": 56377,
   "title": "Elections Administration | Erath County, TX",
   "noncitizen_voting": {
     "present": false,

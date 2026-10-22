@@ -2,20 +2,19 @@
   "county": "Delta",
   "page_type": "homepage",
   "requested_url": "https://www.deltacountytx.com/",
-  "final_url": "https://status.civicplus.com/",
+  "final_url": "https://www.deltacountytx.com/",
   "redirect_chain": [
-    "https://www.deltacountytx.com/",
-    "https://status.civicplus.com/"
+    "https://www.deltacountytx.com/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-21T21:25:54Z",
-  "html_sha256": "7bfcc1212dc8b1d4c1b7e04ceb4492dab4322bf483c078ff33dbaee88ccbdd8a",
-  "text_sha256": "4f3aacde8692acb6c57d7280be0a16af04e74bf4ac3d22c2274b555c521d8ef0",
-  "byte_size": 287591,
-  "title": "CivicPlus Status",
+  "fetched_at": "2026-10-22T03:58:17Z",
+  "html_sha256": "7a727109779998c341994c04be15f41e7d98dc7d4f1b6c6fe25ec5fa3ef43322",
+  "text_sha256": "35b02c17679cd66497b4bb3e49244ba9bb02e883fc3cbadf3c77d65d2bd4382a",
+  "byte_size": 2867,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

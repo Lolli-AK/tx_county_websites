@@ -250,7 +250,7 @@ Map & Details
 Today's Hours:
 8:00 AM - 5:00 PM
 Current Wait Time:
-20 - 30 Minutes
+10 - 20 Minutes
 El Paso County Northwest Annex
 435 E. Vinton Rd. 79821
 Community Room
@@ -295,7 +295,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Gonzalez Place
 4101 Rich Beem Blvd. 79938
 Community Room
@@ -322,7 +322,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 La Fe Montana Vista Community Center
 14618 Greg Dr. 79938
 Auditorium
@@ -421,7 +421,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 UTEP-Union Building East
 351 W. University Ave. 79968
 River View Room 102H
@@ -430,7 +430,7 @@ Map & Details
 Today's Hours:
 8:00 AM - 5:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 W.E. Neill Community Center
 19210 Cobb Ave. 79853
 Library

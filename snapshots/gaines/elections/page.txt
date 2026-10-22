@@ -287,6 +287,7 @@ Notice of Voting Order Priority for Voters with Certain Disablities
 Early Voting Rosters
 October 19th
 October 20th
+October 21st
 Election Day Roster
 Results
 Unofficial
@@ -379,8 +380,9 @@ Current Voter Turnout
 Absentee Ballots: 26
 October 19th: 281
 October 20th: 268
+October 21st: 212
 __________________
-Total: 575
+Total: 787
 How to find us.
 Gaines County Courthouse
 101 S Main St
