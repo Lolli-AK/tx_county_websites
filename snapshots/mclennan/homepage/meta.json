@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-22T11:27:21Z",
-  "html_sha256": "39f12d8f874a96410030564cff47f61a7ac45d84e0c91577a95ca2bd10441f3b",
+  "fetched_at": "2026-10-22T13:24:51Z",
+  "html_sha256": "c0b90090a0904fcb15eae7500bae13b236c8131ea4f1fb1ef287fa56cbe0cec5",
   "text_sha256": "847971a010b6b96ecda7fe459d04481de1cec28d78f6ba5c31a9037134188d81",
-  "byte_size": 131368,
+  "byte_size": 131431,
   "title": "McLennan County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,

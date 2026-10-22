@@ -6,11 +6,11 @@
   "redirect_chain": [
     "https://www.deltacountytx.com/"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-22T11:27:21Z",
+  "fetched_at": "2026-10-22T13:24:51Z",
   "html_sha256": "3ac16208d5885cf98813fa246b25db7ef057cedaafbfe8161f98f3e421bf1532",
   "text_sha256": "4daa8cd16ee788c92b98e43d18a35984fc1b2d641e1298202508233e7ebff6a0",
   "byte_size": 122116,
