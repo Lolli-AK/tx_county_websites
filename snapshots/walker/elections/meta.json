@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.co.walker.tx.us/department/index.php?structureid=39"
   ],
-  "http_status": 418,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-23T16:45:01Z",
-  "html_sha256": "5f72e6c258e337f16263329126c34e200ad6e9c7d2fa87e473e8361b450f2e10",
-  "text_sha256": "8b23bbadec3e5ca56d1fb1cbe6c1916cf454a18dfed5e3e25873d21795f275e6",
-  "byte_size": 430,
-  "title": "We'll Be Back Soon",
+  "fetched_at": "2026-10-23T21:23:07Z",
+  "html_sha256": "bdadce171e77616b8ffcf5b0358af678a2e1355ad2719152b7a9e4fc38bdf440",
+  "text_sha256": "27ace9691ecbc2cb1d4a0080d543d64b936e5d7c85d47d12d91c33e78d64550e",
+  "byte_size": 25074,
+  "title": "Voter Registration / Walker County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }

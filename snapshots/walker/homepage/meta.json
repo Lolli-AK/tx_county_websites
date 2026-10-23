@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.walker.tx.us/"
   ],
-  "http_status": 418,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-23T16:45:01Z",
-  "html_sha256": "5f72e6c258e337f16263329126c34e200ad6e9c7d2fa87e473e8361b450f2e10",
-  "text_sha256": "8b23bbadec3e5ca56d1fb1cbe6c1916cf454a18dfed5e3e25873d21795f275e6",
-  "byte_size": 430,
-  "title": "We'll Be Back Soon",
+  "fetched_at": "2026-10-23T21:23:07Z",
+  "html_sha256": "3ed12b5f9b33e35ce73163e8457c8cbd5cffb4b6ead2ce3b9939e7a70982825b",
+  "text_sha256": "1fc06df38794a41acad4dd300798bae0997ac6f4f228237b668e4ba2d72ced2f",
+  "byte_size": 26305,
+  "title": "Home / Walker County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
