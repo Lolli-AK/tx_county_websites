@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.co.walker.tx.us/department/division.php?structureid=251"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 418,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-23T04:04:32Z",
-  "html_sha256": "580bf910aba5299f3d8ae75fabf504770b22c67c92611770934e3e846d8d398e",
-  "text_sha256": "9bb2d5b4a182e3911eaceb725eac6b37e8453c8ca9371e6ca0fe0dc4bcd9b019",
-  "byte_size": 22158,
-  "title": "Deputy Voter Registrar Program / Walker County, TX",
+  "fetched_at": "2026-10-23T11:16:21Z",
+  "html_sha256": "5f72e6c258e337f16263329126c34e200ad6e9c7d2fa87e473e8361b450f2e10",
+  "text_sha256": "8b23bbadec3e5ca56d1fb1cbe6c1916cf454a18dfed5e3e25873d21795f275e6",
+  "byte_size": 430,
+  "title": "We'll Be Back Soon",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

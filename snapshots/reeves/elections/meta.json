@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-23T04:04:32Z",
-  "html_sha256": "0d92c53e8fcc631a5d8cb3ea5b5c054235a83bd327e25bebea1d770bb37ae426",
+  "fetched_at": "2026-10-23T11:16:21Z",
+  "html_sha256": "53a4b20c115fcd62ccc2d65d426c2464ad2a0da674e7a618f831a5c6f9d6622c",
   "text_sha256": "896b32e49f28db630364c334b680e9c4879692642c6305d54f2865c2afabb2fb",
-  "byte_size": 80634,
+  "byte_size": 80264,
   "title": "ELECTIONS DEPARTMENT | Reeves County, TX",
   "noncitizen_voting": {
     "present": false,
