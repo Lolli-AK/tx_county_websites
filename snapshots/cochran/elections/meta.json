@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-23T12:54:37Z",
-  "html_sha256": "1667eaf0de089011cbf3ef7ea99dbd1b78c0fb019106cfee65bc3b6059122d36",
+  "fetched_at": "2026-10-23T16:45:01Z",
+  "html_sha256": "f5889c76f574ae22973fbeefd4ff7f6270e761408ce27d1c4eebc290bb755854",
   "text_sha256": "702028bcf10533f60fb9580198fab3ccb98b2a1babfdeecf8a7ac3a270fc9f64",
-  "byte_size": 32269,
+  "byte_size": 32262,
   "title": "Elections - Cochran County",
   "noncitizen_voting": {
     "present": false,

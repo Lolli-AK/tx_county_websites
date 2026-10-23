@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://kerrcountytx.gov/voting-in-kerr-county"
   ],
-  "http_status": 404,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-23T12:54:37Z",
-  "html_sha256": "5e95ceadb184241eb44bd3501c9800fd81b351c603d02d37fef7519f69376ac5",
-  "text_sha256": "a9aa9ec7ef3ec92e7eb52220a9f0cb578ff2ba0a71cb3e9c1a0b828857529fcc",
-  "byte_size": 76,
+  "fetched_at": "2026-10-23T16:45:01Z",
+  "html_sha256": "0cb405b631145a9d559cc450ace97af9b57f2b7a2badcd975d9e2e1d556fe250",
+  "text_sha256": "cee33cb78f91e7388e6101d306f4aac8af0311bd61b8908fbd6efea6e556cd77",
+  "byte_size": 25572,
   "title": null,
   "noncitizen_voting": {
     "present": false,
