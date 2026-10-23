@@ -6,14 +6,14 @@
   "redirect_chain": [
     "https://kerrcountytx.gov/voting-in-kerr-county/kerr-county-voter-registration-and-information"
   ],
-  "http_status": null,
-  "content_type": null,
-  "render_mode": "plain",
+  "http_status": 404,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-22T21:20:48Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
+  "fetched_at": "2026-10-23T04:04:32Z",
+  "html_sha256": "5e95ceadb184241eb44bd3501c9800fd81b351c603d02d37fef7519f69376ac5",
+  "text_sha256": "a9aa9ec7ef3ec92e7eb52220a9f0cb578ff2ba0a71cb3e9c1a0b828857529fcc",
+  "byte_size": 76,
   "title": null,
   "noncitizen_voting": {
     "present": false,
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

@@ -122,7 +122,7 @@ cfrazier@fanninco.net
 2225 N. Center Street, Suite 200
 Bonham, TX 75418
 T: 903-583-7488
-F: 903-582-5105
+F: 903-582-5101
 C: 430-373-5225
 E:
 Elections@fanninco.net
@@ -487,6 +487,7 @@ General Election November 3, 2026
 ▲
 General Election – November 3, 2026
 Early Voting and Election Day Locations
+Saturday and Sunday Early Voting Notice
 Sample Ballots
 Ballot Style 1 - Precinct 10, 11, & 13
 Ballot Style 2 - Precinct 11.12 (City of Leonard)
@@ -519,9 +520,11 @@ Absentee (Ballots by Mail)
 Early Voters - County
 October 19, 2026 - 1023 Voters
 October 20, 2026 - 898 Voters
+October 21, 2026 - 767 Voters
 Early Voters - City of Leonard
 October 19, 2026 - 30 Voters
 October 20, 2026 - 22 Voters
+October 21, 2026 - 24 Voters
 2025 Elections
 ▲
 November 4, 2025 Constitutional Amendment Election

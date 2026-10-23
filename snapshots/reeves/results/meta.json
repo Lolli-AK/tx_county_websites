@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-22T21:20:48Z",
-  "html_sha256": "d8f0dd40caf68e57e9f75f2d70aea031f150e651e3585b7e4aab817d89e0e044",
+  "fetched_at": "2026-10-23T04:04:32Z",
+  "html_sha256": "4951953d153b0ba43920ec2a39b103d118c4f2a33556f8fc27fa2d8070cc038e",
   "text_sha256": "e8a3952798cbc5e932210b31deaae025d10e9610c4422487b696b1940d6f12b1",
-  "byte_size": 72451,
+  "byte_size": 72821,
   "title": "Election Results Archive | Reeves County, TX",
   "noncitizen_voting": {
     "present": false,

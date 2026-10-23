@@ -71,6 +71,9 @@ Wed. Oct. 21
 447
 153
 Thurs. Oct. 22
+430
+389
+137
 Fri. Oct. 23
 Sat. Oct. 24
 Sun. Oct. 25
@@ -80,9 +83,10 @@ Wed. Oct. 28
 Thurs. Oct. 29
 Fri. Oct. 30
 Totals
-1607
-1453
+2037
+1842
 377
+514
 Voters
 10.19.26
 Voters
@@ -90,7 +94,8 @@ Voters
 Voters
 10.21.26
 Voters
-10.22.26   Voters 10.23.26
+10.22.26
+Voters 10.23.26
 Voters10.24.26 Voters 10.25.26  Voters
 10.26.26  Voters  10.27.26  Voters 10.28.26   Voters 10.29.26
 Voters 10.30.26  Voters 11.03.2026

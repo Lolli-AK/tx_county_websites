@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-22T21:20:48Z",
-  "html_sha256": "685a39fea47f325228bbac21dfe81f940a5ea32cb696d19896a1d8e39ff5bbd3",
+  "fetched_at": "2026-10-23T04:04:32Z",
+  "html_sha256": "8ec79bfa75c092003115224b88ffd9ab151c770a56d5200f631a94bc8311a9ed",
   "text_sha256": "de2d7833bd4cb382790dff5b271bcf09928bd03c5a24bbcd832a2f06af348ef5",
-  "byte_size": 299776,
+  "byte_size": 299955,
   "title": "Karnes County, Texas",
   "noncitizen_voting": {
     "present": false,
