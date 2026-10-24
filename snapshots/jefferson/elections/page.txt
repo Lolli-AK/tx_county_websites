@@ -277,21 +277,6 @@ Monday - September 07, 2026
 8:00 AM - 5:00 PM
 Labor Day – County Offices Closed
 OCT
-05
-Monday - October 05, 2026
-8:00 AM - 5:00 PM
-Last Day to Register to Vote for November Election
-OCT
-19
-Monday - October 19, 2026
-8:00 AM - 5:00 PM
-Early Voting – November Election
-OCT
-20
-Tuesday - October 20, 2026
-8:00 AM - 5:00 PM
-Early Voting – November Election
-OCT
 24
 Saturday - October 24, 2026
 7:00 AM - 7:00 PM
@@ -309,6 +294,11 @@ Early Voting – November Election
 OCT
 27
 Tuesday - October 27, 2026
+7:00 AM - 7:00 PM
+Early Voting – November Election
+OCT
+28
+Wednesday - October 28, 2026
 7:00 AM - 7:00 PM
 Early Voting – November Election
 OCT
@@ -331,6 +321,16 @@ NOV
 Wednesday - November 11, 2026
 8:00 AM - 5:00 PM
 Veteran’s Day – County Offices Closed
+NOV
+26
+Thursday - November 26, 2026
+8:00 AM - 5:00 PM
+Thanksgiving Holiday – County Offices Closed
+NOV
+27
+Friday - November 27, 2026
+8:00 AM - 5:00 PM
+Thanksgiving Holiday – County Offices Closed
 DEC
 24
 Thursday - December 24, 2026
