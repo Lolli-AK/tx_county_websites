@@ -95,7 +95,7 @@ Daily Voter Turnout - Secretary of State Link
 November 3, 2026 General Election
 Early Voting Schedule
 Election Day Locations
-May 26, 2026 Joint Primary Results
+May 26, 2026 Joint Primary Runoff Results
 ▲
 Republican Canvass
 Democratic Canvass
@@ -111,6 +111,8 @@ Election Results:
 March 3, 2026 Joint Primary
 ▲
 March 3, 2026 Primary Results
+Republican Canvass
+Democratic Canvass
 2026 Democratic Primary Post Election Audit
 2026 Republican Primary Post Election Audit
 Previous Election Results:

@@ -199,7 +199,6 @@ Marriage License
 Elections Department
 Frequently Asked Questions
 Notices
-Voter Complaint Form
 Thank a Veteran
 Treasury
 Bail Bond Information
@@ -357,7 +356,6 @@ Election History
 Election GIS Maps
 Notices
 Voting System
-Voter Complaint Form
 Sample Ballot 1126 (Precinct)
 Thank a Veteran
 +

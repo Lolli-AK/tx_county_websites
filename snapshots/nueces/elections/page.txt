@@ -199,7 +199,6 @@ Marriage License
 Elections Department
 Frequently Asked Questions
 Notices
-Voter Complaint Form
 Thank a Veteran
 Treasury
 Bail Bond Information
@@ -357,7 +356,6 @@ Election History
 Election GIS Maps
 Notices
 Voting System
-Voter Complaint Form
 Sample Ballot 1126 (Precinct)
 Thank a Veteran
 +
@@ -500,10 +498,7 @@ November 3, 2026 General Election
 Early Voting Locations
 Early Voting Locations (Map)
 Early Voting Turnout
-Early Voting Daily Roster (In Person)
-*Texas Election code 87.121(g).(h).(i)., requires this posting
-Early Voting Daily Roster (Mail)
-*Texas Election code 87.121(g).(h).(i)., requires this posting
+Sample Ballots
 Ballot By Mail Tracker
 Texas Election Code 87.121(g).(h).(i)., requires this posting
 If you are having issues accessing this tracker, please visit
@@ -511,13 +506,17 @@ Am I Registered
 to view the information as listed in your voter registration record or contact your
 county voter registrar
 361-888-0404.
-Early Voting Campaign Sign Rules and Regulations
+Early Voting Campaign Signs Rules and Regulations
 Election Day Locations
-Election Complaint to the Texas Secretary of State
+Election and Voter Complaint form
+All formal complaints must be filed with the Secretary of State office.
 Ballot Board
 Camera 1
 Camera 2
-Sample Ballots
+Early Voting Daily Roster (In Person)
+*Texas Election code 87.121(g).(h).(i)., requires this posting
+Early Voting Daily Roster (Mail)
+*Texas Election code 87.121(g).(h).(i)., requires this posting
 Important Dates:
 Monday, October 5th:
 Last day to Register to Vote
