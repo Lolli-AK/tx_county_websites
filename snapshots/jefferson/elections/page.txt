@@ -271,6 +271,11 @@ JUL
 Friday - July 03, 2026
 8:00 AM - 5:00 PM
 Fourth of July (Day of Observance) – County Offices Closed
+SEP
+07
+Monday - September 07, 2026
+8:00 AM - 5:00 PM
+Labor Day – County Offices Closed
 OCT
 05
 Monday - October 05, 2026
@@ -287,20 +292,15 @@ Tuesday - October 20, 2026
 8:00 AM - 5:00 PM
 Early Voting – November Election
 OCT
-21
-Wednesday - October 21, 2026
-8:00 AM - 5:00 PM
+24
+Saturday - October 24, 2026
+7:00 AM - 7:00 PM
 Early Voting – November Election
 OCT
-22
-Thursday - October 22, 2026
-8:00 AM - 5:00 PM
+25
+Sunday - October 25, 2026
+12:00 PM - 6:00 PM
 Early Voting – November Election
-OCT
-23
-Friday - October 23, 2026
-8:00 AM - 5:00 PM
-Last Day to Apply for Ballot By Mail – November Election
 OCT
 26
 Monday - October 26, 2026
@@ -309,11 +309,6 @@ Early Voting – November Election
 OCT
 27
 Tuesday - October 27, 2026
-7:00 AM - 7:00 PM
-Early Voting – November Election
-OCT
-28
-Wednesday - October 28, 2026
 7:00 AM - 7:00 PM
 Early Voting – November Election
 OCT
@@ -331,6 +326,11 @@ NOV
 Tuesday - November 03, 2026
 7:00 AM - 7:00 PM
 Election Day – November Election
+NOV
+11
+Wednesday - November 11, 2026
+8:00 AM - 5:00 PM
+Veteran’s Day – County Offices Closed
 DEC
 24
 Thursday - December 24, 2026

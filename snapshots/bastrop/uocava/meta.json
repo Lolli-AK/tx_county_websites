@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-23T21:23:07Z",
-  "html_sha256": "fe7f733384322129cffae050c653f0610c4b32ba4dac1b8494ab4e376b570a28",
-  "text_sha256": "2fc7813fea5900985cf5904e276cfd630e1118a42e2095b1645dcf17af870bdb",
-  "byte_size": 38158,
+  "fetched_at": "2026-10-24T03:56:02Z",
+  "html_sha256": "2dc76c364ce3456dc5679118f44b82cee02b14b801034de2d3f522b3ff63ef8e",
+  "text_sha256": "d392eac1a06c9e1e1d660cc3f5e2e36a57390537226f824e5b5e425054b2e3fb",
+  "byte_size": 38006,
   "title": "Military and Overseas Voters - Bastrop County, TX Elections",
   "noncitizen_voting": {
     "present": false,
@@ -28,7 +28,7 @@
       "military_overseas_voter",
       "citizen_abroad"
     ],
-    "count": 33
+    "count": 32
   },
   "error": null
 }

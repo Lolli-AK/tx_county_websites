@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-23T21:23:07Z",
-  "html_sha256": "3bfa606fb57d621a8e858a10b12bee4ea9f69c095ba7d4203a8ffc5b1121d1e6",
+  "fetched_at": "2026-10-24T03:56:02Z",
+  "html_sha256": "b62435d7b38c1d6acebce15b5fa8e3f3b5337290126f5794b825571600acd3ce",
   "text_sha256": "a053fd98e26175ae6073a8af7856e644e2c4a7d82fdd8fcde58a39e882900f42",
-  "byte_size": 142187,
+  "byte_size": 142140,
   "title": "Harris County | Texas",
   "noncitizen_voting": {
     "present": false,
