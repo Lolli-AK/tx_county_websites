@@ -140,7 +140,7 @@ Classroom B
 (Salón B)
 Map & Details
 Today's Hours:
-10:00 AM - 7:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Arlington Park Shelter
@@ -149,7 +149,7 @@ Main Room
 (Cuarto Principal)
 Map & Details
 Today's Hours:
-9:00 AM - 6:00 PM
+7:00 AM - 7:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Bassett Place
@@ -158,7 +158,7 @@ Next to Claire's
 (Al lado de Claire's)
 Map & Details
 Today's Hours:
-10:00 AM - 7:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Canutillo Nutrition Center
@@ -167,7 +167,7 @@ Exercise Room
 (Cuarto de Ejercicios)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Carl L. Robinson Heat Retreat
@@ -176,7 +176,7 @@ The People's Place
 (El Lugar de la Gente)
 Map & Details
 Today's Hours:
-9:00 AM - 6:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Chayo Apodaca Community Center
@@ -185,7 +185,7 @@ Community Center
 (Centro Comunitario)
 Map & Details
 Today's Hours:
-9:00 AM - 6:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 City of San Elizario Municipal Court
@@ -194,7 +194,7 @@ Council Chambers
 (Consejo de Cámaras)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Clint Junior High School
@@ -203,7 +203,7 @@ Library Conference Room
 (Cuarto de Conferencias de la Biblioteca)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Commissioner's Corner
@@ -212,7 +212,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Today's Hours:
-9:00 AM - 6:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Dorris Van Doren Library
@@ -221,7 +221,7 @@ Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
 Today's Hours:
-10:00 AM - 7:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 10 - 20 Minutes
 EPCC Administrative Services Center
@@ -230,7 +230,7 @@ A-Building Foyer
 (Área de Espera de Edificio-A)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 EPCC Transmountain Campus
@@ -239,7 +239,7 @@ Pit, Next to the Union
 (Pit, al Lado de la Unión)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 El Paso County Eastside Annex
@@ -248,7 +248,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+7:00 AM - 7:00 PM
 Current Wait Time:
 20 - 30 Minutes
 El Paso County Northwest Annex
@@ -257,7 +257,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Today's Hours:
-8:00 AM - 6:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Enrique Moreno County Courthouse - Main Early Voting Location
@@ -266,7 +266,7 @@ Third Floor, Back Lobby
 (Tercer Piso, Área de Espera)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+7:00 AM - 7:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Esperanza Acosta Moreno Library
@@ -275,7 +275,7 @@ Meeting Room
 (Cuarto de Juntas)
 Map & Details
 Today's Hours:
-10:00 AM - 7:00 PM
+7:00 AM - 7:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Fabens Community Center
@@ -284,7 +284,7 @@ Pool Room
 (Cuarto de Billar)
 Map & Details
 Today's Hours:
-8:00 AM - 6:00 PM
+7:00 AM - 7:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Gary del Palacio Recreation Center
@@ -293,7 +293,7 @@ Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
 Today's Hours:
-9:00 AM - 6:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Gonzalez Place
@@ -302,7 +302,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Hilos de Plata Senior Center
@@ -311,7 +311,7 @@ Classroom
 (Salón)
 Map & Details
 Today's Hours:
-9:00 AM - 6:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Kennedy Brothers Memorial Recreation Center
@@ -320,7 +320,7 @@ Kennedy Gym
 (Gimnasio Kennedy)
 Map & Details
 Today's Hours:
-9:00 AM - 6:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 La Fe Montana Vista Community Center
@@ -329,7 +329,7 @@ Auditorium
 (Auditorio)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Marty Robbins Recreation Center
@@ -338,7 +338,7 @@ Lobby
 (Área de Espera)
 Map & Details
 Today's Hours:
-9:00 AM - 6:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 10 - 20 Minutes
 Memorial Park Senior Citizen Center
@@ -347,7 +347,7 @@ Classroom
 (Salón)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Mountain View-Rae Gilmore Recreation Center
@@ -356,7 +356,7 @@ Classroom
 (Salón)
 Map & Details
 Today's Hours:
-10:00 AM - 6:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Nations Tobin Sports Center
@@ -365,7 +365,7 @@ Small Rink
 (Pequeña Pista)
 Map & Details
 Today's Hours:
-9:00 AM - 6:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Officer David Ortiz Recreation Center
@@ -374,7 +374,7 @@ Classroom A
 (Salón A)
 Map & Details
 Today's Hours:
-9:00 AM - 6:00 PM
+7:00 AM - 7:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Oz Glaze Senior Center
@@ -383,7 +383,7 @@ Main Dining Area
 (Comedor Principal)
 Map & Details
 Today's Hours:
-10:00 AM - 7:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Pebble Hills High School
@@ -392,7 +392,7 @@ Auditorium Foyer
 (Área de Espera del Auditorio)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 SISD District Service Center
@@ -401,7 +401,7 @@ TSC Library
 (Biblioteca del TSC)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 South El Paso Senior Center
@@ -410,7 +410,7 @@ Classroom
 (Salón)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 The Shoppes at Solana
@@ -419,7 +419,7 @@ By the Food Court, Next to Book Nook
 (Por el Patio de Comidas, al lado de Book Nook)
 Map & Details
 Today's Hours:
-9:00 AM - 6:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 UTEP-Union Building East
@@ -428,7 +428,7 @@ River View Room 102H
 (Cuarto River View 102H)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 W.E. Neill Community Center
@@ -437,7 +437,7 @@ Library
 (Biblioteca)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Wayne Thornton Community Center at Grandview
@@ -446,7 +446,7 @@ Classroom
 (Salón)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Wellington Chew Senior Center
@@ -455,7 +455,7 @@ Classroom
 (Salón)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Western Technical College-Northeast
@@ -464,7 +464,7 @@ Classroom 400
 (Salón 400)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 YWCA-Central
@@ -473,7 +473,7 @@ Program Offices
 (Cuarto de Oficinas de Programa)
 Map & Details
 Today's Hours:
-8:00 AM - 5:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 YWCA-West
@@ -482,11 +482,11 @@ Program Offices
 (Cuarto de Oficinas de Programa)
 Map & Details
 Today's Hours:
-8:00 AM - 6:00 PM
+12:00 PM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
-541,449
-Registered voters as of Friday, October 23, 2026
+541,726
+Registered voters as of Saturday, October 24, 2026
 Are You Registered?
 Every Voice Makes an Impact.
 Every Vote Makes a Difference.
