@@ -160,7 +160,7 @@ Map & Details
 Today's Hours:
 12:00 PM - 5:00 PM
 Current Wait Time:
-20 - 30 Minutes
+Less Than 10 Minutes
 Canutillo Nutrition Center
 7351 Bosque Rd. 79835
 Exercise Room
@@ -250,7 +250,7 @@ Map & Details
 Today's Hours:
 7:00 AM - 7:00 PM
 Current Wait Time:
-20 - 30 Minutes
+Less Than 10 Minutes
 El Paso County Northwest Annex
 435 E. Vinton Rd. 79821
 Community Room
@@ -322,7 +322,7 @@ Map & Details
 Today's Hours:
 12:00 PM - 5:00 PM
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 La Fe Montana Vista Community Center
 14618 Greg Dr. 79938
 Auditorium
@@ -340,7 +340,7 @@ Map & Details
 Today's Hours:
 12:00 PM - 5:00 PM
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Memorial Park Senior Citizen Center
 1800 Byron St. 79930
 Classroom
@@ -421,7 +421,7 @@ Map & Details
 Today's Hours:
 12:00 PM - 5:00 PM
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 UTEP-Union Building East
 351 W. University Ave. 79968
 River View Room 102H

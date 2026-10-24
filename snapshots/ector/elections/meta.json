@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-24T20:28:50Z",
-  "html_sha256": "bb0c8e38b36a95120e13bdc50b6884cc914b07bbec870b61005e75f6f57f31f7",
+  "fetched_at": "2026-10-24T23:00:08Z",
+  "html_sha256": "3e9c07c3125cac4bfab1516c15961721844ff518397075fc23326c380547e492",
   "text_sha256": "94893d65952ce7e8d8e2e9725e745dcf2b7d6b2756a1c7101afec4d1d6ec3ba0",
-  "byte_size": 425833,
+  "byte_size": 425717,
   "title": "Elections | Ector County, TX",
   "noncitizen_voting": {
     "present": false,

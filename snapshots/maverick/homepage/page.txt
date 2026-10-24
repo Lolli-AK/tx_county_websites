@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-79°F
+81°F
 EN
 ES
 Government
@@ -48,14 +48,6 @@ Official website of Maverick County, Texas
 Events
 Upcoming events
 View all
-24
-OCT
-community
-7th Annual Trick or Treat Event
-Saturday, October 24, 2026 · 4:00 PM
-Maverick County Lake, Eagle Pass, TX
-Join the fun! Bring the family and enjoy the 7th Annual Trick or Treat Event at Maverick County Lake. Come out, participate, and enjoy a fun-filled afternoon with our community!
-Hosted by Maribel Flores, District Judge, 293rd Judicial District (Dimmit, Maverick & Zavala Counties).
 28
 OCT
 meeting
@@ -79,6 +71,14 @@ Thanksgiving Day
 Thursday, November 26, 2026
 All county offices closed
 All Maverick County offices will be closed in observance of this federal holiday.
+27
+NOV
+holiday
+Holiday
+Day After Thanksgiving
+Friday, November 27, 2026
+All county offices closed
+All Maverick County offices will be closed in observance of this federal holiday.
 General Election · Nov 3, 2026
 Get ready to vote in the General Election
 Where and when to vote, which ID to bring, your sample ballot, and all the key dates.
@@ -90,11 +90,11 @@ Last day: Friday, October 30
 7 days left to vote early
 6
 Days
-08
+05
 Hours
-04
+36
 Min
-27
+35
 Sec
 Last day to register
 Mon, Oct 5
@@ -206,7 +206,7 @@ Emergency Operations Center
 Sign Up for Emergency Alerts
 Get urgent Maverick County notifications by text, call or email: severe weather, evacuations, road closures and emergencies.
 Sign Up
-79°
+81°
 F
 Weather · Eagle Pass
 Mostly Cloudy

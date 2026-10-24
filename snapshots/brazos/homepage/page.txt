@@ -4,7 +4,7 @@ Performing security verification
 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
 Verification successful. Waiting for www.brazoscountytx.gov to respond
 Ray ID:
-a4fbbd89cb111ee8
+a4fca07f8e1c638a
 Performance and Security by
 Cloudflare
 Privacy

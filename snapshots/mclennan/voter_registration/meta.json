@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-24T20:28:50Z",
-  "html_sha256": "3728e2acfeaecd8dc071a4479c29896cf117577cafdfe81de4589e45468c1aae",
+  "fetched_at": "2026-10-24T23:00:08Z",
+  "html_sha256": "30003b9f8db2657ac664b48a9a17182b6e2050d61403b8795ad32bb74206da48",
   "text_sha256": "1a2ab52163dce856678243a91c5997a94c9080265b8831116386aebf18aee291",
-  "byte_size": 88020,
+  "byte_size": 87937,
   "title": "Voter Registration | McLennan County, TX",
   "noncitizen_voting": {
     "present": false,

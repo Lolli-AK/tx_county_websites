@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-24T20:28:50Z",
-  "html_sha256": "0e2c66f5cc02c02880187367a4d29a8d0e81c4967646eceaae69d2781bb53e0a",
+  "fetched_at": "2026-10-24T23:00:08Z",
+  "html_sha256": "1e9945824c0cd57bd553f659cf0b9336ca84314fc3cd8ef5ec0fe7d6cccfa646",
   "text_sha256": "dc12e957be64c419c48d88cd1afd95767a7dcf7432928a80f5b11e349a2457fd",
-  "byte_size": 61502,
+  "byte_size": 61419,
   "title": "Current Election Information | Smith County, TX",
   "noncitizen_voting": {
     "present": false,
