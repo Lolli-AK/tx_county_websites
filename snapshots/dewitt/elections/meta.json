@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-25T20:36:32Z",
-  "html_sha256": "c206112a47f16b8758733cfa97f596ed8eb28cf431c97835d110133b6a4ee6bf",
+  "fetched_at": "2026-10-25T23:06:02Z",
+  "html_sha256": "0ea8484cfeb5e5c2e5d34a25b7b368e52364facf517a7811edfd13535e4d89f6",
   "text_sha256": "9acae0af65d8cea58993abf7cfb3f1ee07a7eba3d9985b1eb91b83674df4f3d3",
-  "byte_size": 122367,
+  "byte_size": 122541,
   "title": "Elections & Voting | DeWitt County, Texas",
   "noncitizen_voting": {
     "present": false,

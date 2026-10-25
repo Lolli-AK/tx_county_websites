@@ -1,5 +1,4 @@
 May 26, 2026 Local Election Day Polling Locations - Burnet County Elections
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Toggle Navigation
 Home
 Calendar of Events
@@ -141,4 +140,3 @@ Voter ID Required
 Hestia | Developed by
 ThemeIsle
 !function(){varb=function(){window.__AudioEyeSiteHash="9df5642d168eaf41b1f9667a83c97565";vara=document.createElement("script");a.src="https://wsv3cdn.audioeye-services.com/aem.js?h=9df5642d168eaf41b1f9667a83c97565";a.type="text/javascript";a.crossOrigin="anonymous";a.setAttribute("async","");document.getElementsByTagName("body")[0].appendChild(a)};"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",b):window.attachEvent&&window.attachEven t("onload",b):b()}();
-Explore your accessibility options
