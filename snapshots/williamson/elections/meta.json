@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-25T12:48:45Z",
-  "html_sha256": "130759bddaed7370a32b3220729eb9be1c6c133bfbf10cfa0b8239a3e20466b8",
+  "fetched_at": "2026-10-25T15:49:14Z",
+  "html_sha256": "4848f991b66361f6d6427ba1f61682218f6662f89e04f819f8dea59a7cff91e2",
   "text_sha256": "24adde84deed498cdc250537f56e6563200e296c0a56f18d1ffe0f4beeec6922",
-  "byte_size": 98634,
+  "byte_size": 98829,
   "title": "Elections | Williamson County, TX",
   "noncitizen_voting": {
     "present": false,

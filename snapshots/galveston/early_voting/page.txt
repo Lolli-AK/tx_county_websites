@@ -97,6 +97,10 @@ PDF
 CSV
 /
 PDF
+10/24/2026
+CSV
+/
+PDF
 Election Day Roster
 Mail Ballot Rosters
 9/21/2026
@@ -192,6 +196,10 @@ CSV
 /
 PDF
 10/23/2026
+CSV
+/
+PDF
+10/24/2026
 CSV
 /
 PDF
