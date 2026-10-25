@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-24T23:00:08Z",
-  "html_sha256": "43f73d3d651e535caaa8724fb45705107d0f3c4bf70fe76e44bc6c2dbb655257",
+  "fetched_at": "2026-10-25T03:55:18Z",
+  "html_sha256": "39ab4a1f9776f213d004b524a123d9de2108006c770ee5a03f32437fafa6a0da",
   "text_sha256": "cabea675ece478e2302d5a6f70a333bbf743553c3795b3be8396fdd740cd281f",
-  "byte_size": 84374,
+  "byte_size": 84004,
   "title": "Johnson County, TX | Home",
   "noncitizen_voting": {
     "present": false,

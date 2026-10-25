@@ -79,6 +79,9 @@ Fri. Oct. 23
 350
 200
 Sat. Oct. 24
+0
+236
+0
 Sun. Oct. 25
 Mon. Oct. 26
 Tues. Oct. 27
@@ -87,7 +90,7 @@ Thurs. Oct. 29
 Fri. Oct. 30
 Totals
 2528
-2192
+2428
 714
 514
 Voters
@@ -100,7 +103,9 @@ Voters
 10.22.26
 Voters
 10.23.26
-Voters10.24.26 Voters 10.25.26  Voters
+Voters
+10.24.26
+Voters 10.25.26  Voters
 10.26.26  Voters  10.27.26  Voters 10.28.26   Voters 10.29.26
 Voters 10.30.26  Voters 11.03.2026
 May 26, 2026  Joint Primary Runoff

@@ -303,8 +303,10 @@ Precinct by Precinct Report
 Unofficial Preliminary Reconciliation Form
 Official Election Reconciliation
 Post Election Hand Count Audit:
+Notice of Convening of Early Voting Ballot Board
 Notice of Early Voting Ballot Board Members
 Notice of Post Election Hand Count Audit
+Notice of Delivery of ballots voted by mail
 Post Election Hand Count Audit Returns
 Summary and Certification of Post Election Hand Count Audit Results
 Voting History – Secretary of State Website

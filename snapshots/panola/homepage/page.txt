@@ -1,4 +1,6 @@
 Panola County, TX | Official Website
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+Loading
 Skip to Main Content
 Burn Ban
 Panola County is currently under a Burn Ban!
@@ -18,14 +20,19 @@ Bids & Proposals
 News Flash
 BURN BAN ORDER
 Read on...
+about BURN BAN ORDER
 2026 No New Revenue Tax Rate
 Read on...
+about 2026 No New Revenue Tax Rate
 Panola County Inmate Records Search
 Read on...
+about Panola County Inmate Records Search
 View All News
+News Flash
 /CivicAlerts.aspx
 Calendar
 October 2026
+Calendar
 S
 M
 T
@@ -70,6 +77,7 @@ S
 31
 There are no published events in current month.
 View All Events
+Calendar
 /Calendar.aspx
 Financial Transparency
 Foreclosures
@@ -92,4 +100,4 @@ Loading
 Loading
 Do Not Show Again
 Close
-[]
+Explore your accessibility options
