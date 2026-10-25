@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-25T15:49:14Z",
-  "html_sha256": "62cc9fd79f842baf9952f388ed896a145deaca60b9d3f85151517e39c8985cbf",
+  "fetched_at": "2026-10-25T20:36:32Z",
+  "html_sha256": "45b5ca72f906cce1391d8275020866be96205858f84e03f60fa7d678ca30d67a",
   "text_sha256": "dc9faad3faea73d9fae89942c470ac45f886539bb0dc76554cf5abd619c081f5",
-  "byte_size": 8950274,
+  "byte_size": 8950278,
   "title": "San Jacinto County, Texas",
   "noncitizen_voting": {
     "present": false,
