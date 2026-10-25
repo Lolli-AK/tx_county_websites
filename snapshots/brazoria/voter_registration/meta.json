@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-25T03:55:18Z",
-  "html_sha256": "955a90b4b3081f4bbe7eb1ad5a7991dad309603f24b5e321c60318caeaa81bc8",
+  "fetched_at": "2026-10-25T11:00:39Z",
+  "html_sha256": "bc9dc1071ab4666d4c7193b0ed6a31ad2f1553ee12fd9c4a09c41220ffa45f67",
   "text_sha256": "2b88b5acca7373ce137c77edd9c0e3e7ea93b1da34b25dedfeb9184caab35ce0",
-  "byte_size": 67294,
+  "byte_size": 67664,
   "title": "Voter Registration | Brazoria County Clerk",
   "noncitizen_voting": {
     "present": false,

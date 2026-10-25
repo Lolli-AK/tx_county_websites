@@ -149,7 +149,7 @@ Main Room
 (Cuarto Principal)
 Map & Details
 Today's Hours:
-7:00 AM - 7:00 PM
+11:00 AM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Bassett Place
@@ -248,7 +248,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Today's Hours:
-7:00 AM - 7:00 PM
+11:00 AM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 El Paso County Northwest Annex
@@ -266,7 +266,7 @@ Third Floor, Back Lobby
 (Tercer Piso, Área de Espera)
 Map & Details
 Today's Hours:
-7:00 AM - 7:00 PM
+11:00 AM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Esperanza Acosta Moreno Library
@@ -275,7 +275,7 @@ Meeting Room
 (Cuarto de Juntas)
 Map & Details
 Today's Hours:
-7:00 AM - 7:00 PM
+11:00 AM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Fabens Community Center
@@ -284,7 +284,7 @@ Pool Room
 (Cuarto de Billar)
 Map & Details
 Today's Hours:
-7:00 AM - 7:00 PM
+11:00 AM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Gary del Palacio Recreation Center
@@ -374,7 +374,7 @@ Classroom A
 (Salón A)
 Map & Details
 Today's Hours:
-7:00 AM - 7:00 PM
+11:00 AM - 5:00 PM
 Current Wait Time:
 Less Than 10 Minutes
 Oz Glaze Senior Center
@@ -486,7 +486,7 @@ Today's Hours:
 Current Wait Time:
 Less Than 10 Minutes
 541,726
-Registered voters as of Saturday, October 24, 2026
+Registered voters as of Sunday, October 25, 2026
 Are You Registered?
 Every Voice Makes an Impact.
 Every Vote Makes a Difference.
