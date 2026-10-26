@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-26T14:37:36Z",
-  "html_sha256": "261d9afde1285d3067909eb1eb11b362aced582e05ed434715067b7eead06220",
+  "fetched_at": "2026-10-26T20:32:03Z",
+  "html_sha256": "2c344545cd43b8278dd4a1a5e19e1ba046449c8142be4fcb3c5af01eb1183a82",
   "text_sha256": "fca83226cb3b839d1c4485fb397fe13b83fffd9419b2e81d6881090b4a618bff",
-  "byte_size": 47494,
+  "byte_size": 47495,
   "title": "Election Results | Wichita County",
   "noncitizen_voting": {
     "present": false,

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-26T14:37:36Z",
-  "html_sha256": "ea5a5fce356dd87f87e15d3cc68f4e50e4a54685ff49a3296be81d1d790861d8",
+  "fetched_at": "2026-10-26T20:32:03Z",
+  "html_sha256": "c929d3f3594767e5f49c90166cb0b0d2c56d404597dfd71aab011144d69288fa",
   "text_sha256": "e8ad8384c9ea00a227c234e1972831338132523dc39b7abac0e1f2fd0f355eab",
-  "byte_size": 142835,
+  "byte_size": 142841,
   "title": "Home | Potter County Elections Voting | Amarillo, Texas",
   "noncitizen_voting": {
     "present": false,
