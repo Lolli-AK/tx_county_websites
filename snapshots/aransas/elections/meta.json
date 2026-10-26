@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.aransascountytx.gov/electionadmin/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 503,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-10-25T23:06:02Z",
-  "html_sha256": "45bf70d055717b1679d6a0e56317c956e61a30981415c99f0801fb7ca808961d",
-  "text_sha256": "db902d46245a83c18b50d5f4c27e71020b027198c4372344b2e8c7ab4da5701a",
-  "byte_size": 36790,
-  "title": "Aransas County Elections Administration",
+  "fetched_at": "2026-10-26T03:59:26Z",
+  "html_sha256": "2ee3620bca45570b4082d02e113fd7e6aa62b18b5e1e7712dce24a68f6f82b2b",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 278,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
