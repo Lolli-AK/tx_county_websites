@@ -222,11 +222,11 @@ Election Results
 City of Port Arthur Runoff Election
 Property Alert
 Jefferson County Voter Registration Total
-149,016
+149,257
 Updated Weekly
 Jefferson County Voter Registration Total
 Updated Weekly
-149,016
+149,257
 [rotating image slideshow removed for determinism]
 County Clerk
 Elections
@@ -276,11 +276,6 @@ SEP
 Monday - September 07, 2026
 8:00 AM - 5:00 PM
 Labor Day – County Offices Closed
-OCT
-25
-Sunday - October 25, 2026
-12:00 PM - 6:00 PM
-Early Voting – November Election
 OCT
 26
 Monday - October 26, 2026
