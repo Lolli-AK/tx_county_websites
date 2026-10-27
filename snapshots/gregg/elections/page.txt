@@ -159,6 +159,7 @@ Saturday, 10-24-26
 Sunday, 10-25-26
 (Opens PDF)
 Monday, 10-26-26
+(Opens PDF)
 Tuesday, 10-27-26
 Wednesday, 10-28-26
 Thursday, 10-29-26
@@ -176,11 +177,6 @@ As of 10-20-26
 Daily Early Voter Turnouts will be on the Secretary of State’s
 Website
 .
-How to use:
-Select the Election and submit
-Select the Day you want to view and submit
-Scroll to the County you want to view
-You can also print a Detail Report
 Election Results & Notices
 Unofficial Results are posted after votes are tallied on Election Night. Official Results are updated after the Canvass. Please choose an Election from the list on the RESULTS link.
 RESULTS

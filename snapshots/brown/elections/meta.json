@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-27T00:23:53Z",
-  "html_sha256": "95e7973153c08aca5f06a91f07b5981b781727a521449897ded5975f8053ff66",
+  "fetched_at": "2026-10-27T08:47:14Z",
+  "html_sha256": "2880c4b68b6ff15b0b8b07935cbf08025937dd5cd299766051c573ce3c41d42c",
   "text_sha256": "da9a220ce2b7185fac25d5ac886f370493f65531ad535370543601d610a2eb8d",
-  "byte_size": 341871,
+  "byte_size": 342008,
   "title": "Elections & Voter Information - Brown County",
   "noncitizen_voting": {
     "present": false,
