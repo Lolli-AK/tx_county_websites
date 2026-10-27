@@ -292,6 +292,7 @@ October 22nd
 October 23rd
 October 24th
 October 25th
+October 26th
 Election Day Roster
 Results
 Unofficial
@@ -381,7 +382,7 @@ Filing as a Candidate
 Procedures for Write-In Candidate
 Frequently Asked Questions
 Current Voter Turnout
-Absentee Ballots: 40
+Absentee Ballots: 43
 October 19th: 281
 October 20th: 268
 October 21st: 212
@@ -389,8 +390,9 @@ October 22nd: 227
 October 23rd: 277
 October 24th: 178
 October 25th: 96
+October 26th: 281
 __________________
-Total: 1579
+Total: 1863
 How to find us.
 Gaines County Courthouse
 101 S Main St

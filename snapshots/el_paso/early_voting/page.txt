@@ -223,7 +223,7 @@ Map & Details
 Today's Hours:
 10:00 AM - 7:00 PM
 Current Wait Time:
-More Than 30 Minutes
+Less Than 10 Minutes
 EPCC Administrative Services Center
 9050 Viscount Blvd. 79925
 A-Building Foyer
@@ -304,7 +304,7 @@ Map & Details
 Today's Hours:
 8:00 AM - 5:00 PM
 Current Wait Time:
-More Than 30 Minutes
+Less Than 10 Minutes
 Hilos de Plata Senior Center
 4451 Delta Dr. 79905
 Classroom

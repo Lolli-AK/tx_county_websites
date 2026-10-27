@@ -127,15 +127,19 @@ October 21, 2026 - Voter List
 : 1686 (5519 total to-date)
 turnout breakdown
 October 22, 2026 - Voter List
-: 1658 (7717 total to-date)
+: 1658 (7177 total to-date)
 turnout breakdown
 October 23, 2026 - Voter List
 : 1923 (9100 total to-date)
+turnout breakdown
 October 24, 2026 - Voter List
 : 1212 (10312 total to-date)
+turnout breakdown
 October 25, 2026 - Voter List
-: 552 (10964 total to date)
+: 552 (10864 total to-date)
+turnout breakdown
 October 26, 2026 - Voter List
+: 1389 (12253 total to-date) turnout breakdown
 October 27, 2026 - Voter List
 October 28, 2026 - Voter List
 October 29, 2026 - Voter List
