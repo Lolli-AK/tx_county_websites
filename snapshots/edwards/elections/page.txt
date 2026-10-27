@@ -116,6 +116,7 @@ Sample Order of Cancellation 2026 RSISD
 Public Notice of Test of Express Voting and DS-300 Tabulators
 Notice of Delivery of Ballots By Mail 2026
 Notice of Convening of Early Voting Ballot Board 2026
+Notice of Delivery of Early Voting Balloting Materials 2026
 Daily Combination Form Early Voting:
 Republican May 18 2026
 Democratic May 18 2026
@@ -177,6 +178,7 @@ Oct 22 2026 Total
 Oct 23 2026 Total
 Oct 24 2026 Total
 Oct 25 2026 Total
+Oct 26 2026 Total
 Campaign Finance Reports:
 Garrett Grooms
 Stephen Smith

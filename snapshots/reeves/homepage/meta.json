@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.reevescounty.org/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-27T08:47:14Z",
-  "html_sha256": "7f160c3c4be1c0bc62b29bc595c23e26855b66c8fa385746fa21c29d336f0532",
-  "text_sha256": "4974df5d3e054f34b9812301ea0244a4efeae7be8760bb12a960d6880a780593",
-  "byte_size": 52047,
-  "title": "Reeves County, TX | Home",
+  "fetched_at": "2026-10-27T13:50:19Z",
+  "html_sha256": "9b9d9d753a3ffe56379e5b9553348c6a13ffd4484c1ecb886dfa8f3e424d05f6",
+  "text_sha256": "7988123648ecc15b979b1424f1fa69d7c27c8240f8c1e64a77224d3dd9f0bb78",
+  "byte_size": 312,
+  "title": "Access Denied",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

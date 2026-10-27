@@ -31,7 +31,7 @@ Elections
 Notices
 Agendas ↗
 Contact
-Early Voting
+Early Voting · Open Now
 Today, Tuesday, October 27 · 7:00 AM – 7:00 PM
 Multi‑Purpose Center · 480 S. Adams St.
 Details
@@ -90,11 +90,11 @@ Last day: Friday, October 30
 4 days left to vote early
 3
 Days
-19
+14
 Hours
-50
+43
 Min
-17
+59
 Sec
 Last day to register
 Mon, Oct 5
@@ -209,7 +209,7 @@ Sign Up
 68°
 F
 Weather · Eagle Pass
-Mostly Cloudy
+Cloudy
 Official portal · Transparency
 Commissioners Court Agendas
 Access agendas, minutes, recordings and official notices for every Maverick County Commissioners Court session. All public information from the county's governing body, in one place.

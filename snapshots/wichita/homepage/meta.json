@@ -6,12 +6,12 @@
   "redirect_chain": [
     "https://wichitacountytx.com/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 202,
+  "content_type": "text/html",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-27T08:47:14Z",
-  "html_sha256": "2fe558805a25738af3f7c0b363be57ead5d1d7d10fb0498808264843ee296104",
+  "fetched_at": "2026-10-27T13:50:19Z",
+  "html_sha256": "e3d40c28024db3ae27af0cfb75b969c3d61b7b3c728bca02234ff77742094bc5",
   "text_sha256": "8e1cfd6a4ecacfcb2e41b311153581f6e8533bdc172c8e91c6a7d24b3fc345bc",
   "byte_size": 50795,
   "title": "Wichita County | Wichita County",
