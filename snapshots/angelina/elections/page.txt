@@ -193,6 +193,8 @@ County Officers
 Order of Election
 Amended Order of Election
 General Election, Early Voting
+Ballot By Mail
+Ballot By Mail 10/26/26
 10/19/26
 10/20/26
 10/21/26
@@ -200,6 +202,7 @@ General Election, Early Voting
 10/23/26
 10/24/26
 10/25/26
+10/26/26
 Polling Place Resolution
 Resolution
 Election Results

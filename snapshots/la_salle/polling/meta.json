@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=289:general-election-for-november-8-2022%20&catid=78"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-27T13:50:19Z",
-  "html_sha256": "07924068fabf0bf2dfb714b9255d644b0afbfd3552f2edf24754325ebc75964e",
-  "text_sha256": "e02935d32b831959012f0086236486f24a019ecc8fbd9c25a2f4f55470694c39",
-  "byte_size": 388,
-  "title": "403: Access Forbidden",
+  "fetched_at": "2026-10-27T15:13:33Z",
+  "html_sha256": "4beb1bae93a46d516f8e4ec23d9e5c85a310a0b0863217462034dd64784be606",
+  "text_sha256": "2efe6e89f26ffd56f20e02ccebe3e6f470d6f914e94da220dbd27f3973ca8b67",
+  "byte_size": 83245,
+  "title": "General Election for November 8, 2022",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

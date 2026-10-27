@@ -74,18 +74,14 @@ Voting Order Priority (PDF)
 Reagan County Elections Candidate Contact Sheet (PDF)
 Candidate Forms (PDF)
 REAGAN COUNTY POLLING PLACES
-Election Day Polling Location
-7:00 AM – 7:00 PM
-PRECINCT NO. 1
-PRECINCT NO. 2
-PRECINCT NO. 3 ALL PRECINCTS WILL VOTE AT:
-PRECINCT NO. 4 REAGAN COUNTY COMMUNITY BUILDING
-1305 N. MONTANA AVENUE
-BIG LAKE TX 76932
+ELECTION DAY POLLING LOCATION:
+PRECINCT NO. 1                                                                                                                                                                                            PRECINCT NO. 2                                                                                                                                                                                PRECINCT NO. 3                                                                                                                                                                                      PRECINCT NO. 4
+ALL PRECINCTS WILL VOTE AT:
+REAGAN COUNTY COMMUNITY BUILDING                                                                                                                                                  1305 N. MONTANA AVENUE                                                                                                                                                                          BIG LAKE, TX 76932
+HOURS FOR ELECTION DAY:
+TUESDAY, NOVEMBER 3, 2026: 7:00 AM - 7:00 PM
 EARLY VOTING POLLING LOCATION:
-REAGAN COUNTY COMMUNITY BUILDING
-1305 N MONTANA AVENUE
-BIG LAKE TX 76932
+REAGAN COUNTY COMMUNITY BUILDING                                                                                                                                                  1305 N MONTANA AVENUE                                                                                                                                                                          BIG LAKE TX 76932
 HOURS FOR EARLY VOTING:
 MONDAY – FRIDAY, OCTOBER 19 – OCTOBER 23: 8:00 AM – 5:00 PM
 SATURDAY, OCTOBER 24: 6:00 AM – 6:00 PM
@@ -138,11 +134,13 @@ Hospital May 2, 2026 Election
 ▲
 SAMPLE ORDER OF CANCELLATION (PDF)
 Certification of Unopposed Candidates for Other Political Subdivisions (Not County) (PDF)
-Press the enter key or spacebar to expand or collapse the accordion
+2026 Elections
+▲
 MAY 26, 2026 PRIMARY RUNOFF
 ▲
 Canvass of General/Primary Runoff Election (PDF)
 NOTICE OF POST-ELECTION HAND COUNT AUDIT (PDF)
+nseDragSource,W1571,1,1,28
 Commissioner Court Agenda Canvassing Election 6-4-2026 Posting (PDF)
 Republican Sample Ballot (PDF)
 Republican Sample Ballot, Precinct 2 (PDF)
@@ -169,6 +167,8 @@ Early Voting Roster
 5/20/2026 Voting History
 5/19/2026 Voting History
 5/18/2026 Voting History
+Press the enter key or spacebar to expand or collapse the accordion
+Press the enter key or spacebar to expand or collapse the accordion
 Press the enter key or spacebar to expand or collapse the accordion
 Press the enter key or spacebar to expand or collapse the accordion
 City Elections - May 2026
