@@ -181,8 +181,8 @@ Fine Arts Lobby
 Map & Details
 Brown Middle School
 7820 Helen of Troy Dr. 79912
-Parent Center, Room 135-137
-(Centro de Padres, Cuarto 135-137)
+PCL Room A105
+(Cuarto PLC A105)
 Map & Details
 Campestre Elementary School
 11399 Socorro Rd. 79927
@@ -266,8 +266,8 @@ Lower Level, East Corridor
 Map & Details
 Coronado High School
 100 Champions Pl. 79912
-Cafeteria
-(Cafeteria)
+Lounge inside the Cafeteria
+(Sala de Descanso dentro de la Cafeteria)
 Map & Details
 Del Valle Elementary School
 9251 Escobar Dr. 79907

@@ -1482,7 +1482,7 @@
               Sample Ballots (Nov 3)
              </a>
             </li>
-            <li class="menu-item child-1">
+            <li class="menu-item child-1 menu-item--RANDOM">
              <a data-drupal-link-system-path="node/24855" href="/government/departments/elections-voter-registration/early-voting-statistics">
               Early Voting Statistics
              </a>
@@ -1521,14 +1521,14 @@
               Track your Ballot by Mail
              </a>
             </li>
-            <li class="menu-item child-1 menu-item--RANDOM menu-item--RANDOM">
+            <li class="menu-item child-1 menu-item--RANDOM">
              <a data-drupal-link-system-path="node/2159" href="/government/departments/elections-voter-registration/vote-by">
               Vote by...
               <span class="menu-dropdown-icon">
               </span>
              </a>
              <ul class="menu" data-level="2">
-              <li class="menu-item child-2 menu-item--RANDOM">
+              <li class="menu-item child-2">
                <a data-drupal-link-system-path="node/2150" href="/government/departments/elections-voter-registration/vote-by/in-person-ballot">
                 In-Person Ballot
                </a>
@@ -1802,10 +1802,24 @@
            <div class="content-wrapper">
             <div class="content">
              <div class="field--RANDOM field--RANDOM">
-              <div class="content-wrapper">
-               <div class="content">
-               </div>
-              </div>
+              <br/>
+              <b>
+               Fatal error
+              </b>
+              : Uncaught PDOException: SQLSTATE[08001] SQLConnect: 17 [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. in D:\AppsFBC\fbclib\phpclass\mssql_pdo.class.php:35
+Stack trace:
+#0 D:\AppsFBC\fbclib\phpclass\mssql_pdo.class.php(35): PDO-&gt;__construct()
+#1 D:\AppsFBC\mobileapi.fortbendcountytx.gov\fbctx\department_notices.php(13): mssql_pdo-&gt;conn()
+#2 {main}
+ thrown in
+              <b>
+               D:\AppsFBC\fbclib\phpclass\mssql_pdo.class.php
+              </b>
+              on line
+              <b>
+               35
+              </b>
+              <br/>
              </div>
              <div class="field--RANDOM field--RANDOM">
               <p>

@@ -75,13 +75,20 @@ Reagan County Elections Candidate Contact Sheet (PDF)
 Candidate Forms (PDF)
 REAGAN COUNTY POLLING PLACES
 ELECTION DAY POLLING LOCATION:
-PRECINCT NO. 1                                                                                                                                                                                            PRECINCT NO. 2                                                                                                                                                                                PRECINCT NO. 3                                                                                                                                                                                      PRECINCT NO. 4
+PRECINCT NO. 1
+PRECINCT NO. 2
+PRECINCT NO. 3
+PRECINCT NO. 4
 ALL PRECINCTS WILL VOTE AT:
-REAGAN COUNTY COMMUNITY BUILDING                                                                                                                                                  1305 N. MONTANA AVENUE                                                                                                                                                                          BIG LAKE, TX 76932
+REAGAN COUNTY COMMUNITY BUILDING
+1305 N. MONTANA AVENUE
+BIG LAKE, TX 76932
 HOURS FOR ELECTION DAY:
 TUESDAY, NOVEMBER 3, 2026: 7:00 AM - 7:00 PM
-EARLY VOTING POLLING LOCATION:
-REAGAN COUNTY COMMUNITY BUILDING                                                                                                                                                  1305 N MONTANA AVENUE                                                                                                                                                                          BIG LAKE TX 76932
+EARLY VOTING POLLING LOCATION
+REAGAN COUNTY COMMUNITY BUILDING
+1305 N MONTANA AVENUE
+BIG LAKE TX 76932
 HOURS FOR EARLY VOTING:
 MONDAY – FRIDAY, OCTOBER 19 – OCTOBER 23: 8:00 AM – 5:00 PM
 SATURDAY, OCTOBER 24: 6:00 AM – 6:00 PM
@@ -91,6 +98,8 @@ APPLICATIONS FOR BALLOT BY MAIL SHOULD BE MAILED TO:
 REAGAN COUNTY ELECTIONS CLERK
 P O BOX 100
 BIG LAKE, TX 76932
+2026 Elections
+▲
 November 3, 2026 General Election
 ▲
 Ballot Drawing Order for School Board Trustee District #1 (PDF)
@@ -100,7 +109,6 @@ ORDER COMBINING POLLING PLACES (PDF)
 ORDER OF ELECTION - NOVEMBER GENERAL ELECTION FOR COUNTY OFFICERS (PDF)
 Notice of Deadline to File an Application for Place on the Ballot Cities, School Districts and Other Political Subdivisions - School Board Trustees (PDF)
 NOTICE OF GENERAL ELECTION (PDF)
-Press the enter key or spacebar to expand or collapse the accordion
 Sample Ballots - November 3, 2026
 ▲
 PRECINCT 1 (PDF)
@@ -120,55 +128,16 @@ CERTIFICATION OF UNOPPOSED CANDIDATES (PDF)
 ORDER OF CANCELLATION- GENERAL ELECTION (PDF)
 NOTICE OF GENERAL ELECTION NOVEMBER 3, 2026 (PDF)
 Press the enter key or spacebar to expand or collapse the accordion
-Early Voting Daily Roster
+Early Voting Daily Roster - November 3, 2026
 ▲
-Voting History 10-19-2026
-Voting History 10-20-2026
-Voting History 10-21-2026
-Voting History 10-22-2026
-Voting History 10-23-2026
-Voting History 10-24-2026
-Voting History 10-25-2026
-Press the enter key or spacebar to expand or collapse the accordion
-Hospital May 2, 2026 Election
-▲
-SAMPLE ORDER OF CANCELLATION (PDF)
-Certification of Unopposed Candidates for Other Political Subdivisions (Not County) (PDF)
-2026 Elections
-▲
-MAY 26, 2026 PRIMARY RUNOFF
-▲
-Canvass of General/Primary Runoff Election (PDF)
-NOTICE OF POST-ELECTION HAND COUNT AUDIT (PDF)
-nseDragSource,W1571,1,1,28
-Commissioner Court Agenda Canvassing Election 6-4-2026 Posting (PDF)
-Republican Sample Ballot (PDF)
-Republican Sample Ballot, Precinct 2 (PDF)
-Democratic Sample Ballot (PDF)
-Public Notice of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment (PDF)
-Notice of Runoff Primary Election (PDF)
-Results
-▲
-Summary and Certification of Postelection Hand County Audit Results
-Republican Hand Count Results
-(Excel Spreadsheet)
-Democratic Hand Count Results
-(Excel Spreadsheet)
-Election Reconciliation - Official Totals
-Preliminary Election Reconciliation - Unofficial Totals
-Precinct Results 5/26/2026
-Official Results 5/26/2026
-Press the enter key or spacebar to expand or collapse the accordion
-Early Voting Roster
-▲
-5/26/2026 Voter History
-5/22/2026 Voter History
-5/21/2026 Voter History
-5/20/2026 Voting History
-5/19/2026 Voting History
-5/18/2026 Voting History
-Press the enter key or spacebar to expand or collapse the accordion
-Press the enter key or spacebar to expand or collapse the accordion
+Voting History 10-19-2026 (PDF)
+Voting History 10-20-2026 (PDF)
+Voting History 10-21-2026 (PDF)
+Voting History 10-22-2026 (PDF)
+Voting History 10-23-2026 (PDF)
+Voting History 10-24-2026 (PDF)
+Voting History 10-25-2026 (PDF)
+Voting History 10-26-2026 (PDF)
 Press the enter key or spacebar to expand or collapse the accordion
 Press the enter key or spacebar to expand or collapse the accordion
 City Elections - May 2026
@@ -194,6 +163,11 @@ Results
 Unofficial Results (PDF)
 Preliminary Election Reconciliation - Unofficial Totals (PDF)
 Press the enter key or spacebar to expand or collapse the accordion
+Hospital May 2, 2026 Election
+▲
+SAMPLE ORDER OF CANCELLATION (PDF)
+Certification of Unopposed Candidates for Other Political Subdivisions (Not County) (PDF)
+Press the enter key or spacebar to expand or collapse the accordion
 Press the enter key or spacebar to expand or collapse the accordion
 Press the enter key or spacebar to expand or collapse the accordion
 March 3, 2026 Primary Election
@@ -216,7 +190,7 @@ Preliminary Election Reconciliation - Unofficial Totals
 Election Reconciliation - Official Totals
 Unofficial Results
 Press the enter key or spacebar to expand or collapse the accordion
-Early Voting Daily Roster
+Early Voting Daily Roster - March 3, 2026
 ▲
 2-26-2026 List
 2-25-2026 List
@@ -260,6 +234,7 @@ Republican Precinct 1 Sample Ballots
 Republican Precinct 2 Sample Ballots
 Republican Precinct 3 Sample Ballots
 Republican Precinct 4 Sample Ballots
+Press the enter key or spacebar to expand or collapse the accordion
 Press the enter key or spacebar to expand or collapse the accordion
 2025 Elections
 ▲

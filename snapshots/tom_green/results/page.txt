@@ -125,6 +125,10 @@ Sample Ballot Page / Página de muestra de la boleta
 Current Election
 2026
 ▲
+November 3, 2026 - General Election
+Previous Elections
+2026
+▲
 May 26, 2026 - Primary Runoff Election
 Results:
 Official Cumulative Results (PDF)
@@ -132,9 +136,6 @@ Official Precinct Results (PDF)
 Hand Count Results (PDF)
 Preliminary Election Reconciliation - Official Totals (PDF)
 Reconciliation Total Votes Polling Location (PDF)
-Previous Elections
-2026
-▲
 March 3, 2026 - General Primary Election
 Results:
 Official Cumulative Results (PDF)

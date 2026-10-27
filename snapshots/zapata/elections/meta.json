@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-27T15:13:33Z",
-  "html_sha256": "579bd1d5d9a3bec7eb8c7b8056af5e4730da6cfb98273d13c01e79e192864024",
+  "fetched_at": "2026-10-27T21:58:19Z",
+  "html_sha256": "fc98f1deb80055d7053a80559b0fb2fa53af856cf3625d4c30902a47e818827e",
   "text_sha256": "f0948e333b49843108c6385207ccc2c12d97f2048a848c8f64e80cd536bb26b0",
-  "byte_size": 93658,
+  "byte_size": 93767,
   "title": "Zapata County, Texas",
   "noncitizen_voting": {
     "present": false,

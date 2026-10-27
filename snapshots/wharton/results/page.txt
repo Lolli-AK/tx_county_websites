@@ -65,7 +65,7 @@ Mon. Oct. 19
 Tues.  Oct. 20
 573
 481
-151
+150
 Wed. Oct. 21
 492
 447
@@ -83,17 +83,21 @@ Sat. Oct. 24
 236
 0
 Sun. Oct. 25
+0
 121
+0
 Mon. Oct. 26
+324
+289
+99
 Tues. Oct. 27
 Wed. Oct. 28
 Thurs. Oct. 29
 Fri. Oct. 30
 Totals
-2528
-2549
-714
-514
+2852
+2838
+812
 Voters
 10.19.26
 Voters
@@ -109,7 +113,8 @@ Voters
 Voters
 10.25.26
 Voters
-10.26.26  Voters  10.27.26  Voters 10.28.26   Voters 10.29.26
+10.26.26
+Voters  10.27.26  Voters 10.28.26   Voters 10.29.26
 Voters 10.30.26  Voters 11.03.2026
 May 26, 2026  Joint Primary Runoff
 Summary & Certification of Post-Election Hand Count Audit Results --

@@ -232,7 +232,7 @@ Map & Details
 Today's Hours:
 8:00 AM - 5:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 EPCC Transmountain Campus
 9570 Gateway North Blvd. 79924
 Pit, Next to the Union
@@ -250,7 +250,7 @@ Map & Details
 Today's Hours:
 8:00 AM - 5:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 El Paso County Northwest Annex
 435 E. Vinton Rd. 79821
 Community Room
@@ -340,7 +340,7 @@ Map & Details
 Today's Hours:
 9:00 AM - 6:00 PM
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Memorial Park Senior Citizen Center
 1800 Byron St. 79930
 Classroom
@@ -430,7 +430,7 @@ Map & Details
 Today's Hours:
 8:00 AM - 5:00 PM
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 W.E. Neill Community Center
 19210 Cobb Ave. 79853
 Library

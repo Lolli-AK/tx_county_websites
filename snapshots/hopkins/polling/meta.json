@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-27T15:13:33Z",
-  "html_sha256": "6ced3f4ee6a96dc4d7e4735c4078c19b490ba33e12642b9469398b8c681e9b75",
+  "fetched_at": "2026-10-27T21:58:19Z",
+  "html_sha256": "7660f4707b0ae9db694b371e2faa898f3d669be96ff3ed23df04f3e128a5925b",
   "text_sha256": "53d170898293046fc5494d2b9e88a7fdb26c3680ba527f297963b7c5f6aa1c1f",
-  "byte_size": 221093,
+  "byte_size": 221086,
   "title": "Hopkins County, Texas",
   "noncitizen_voting": {
     "present": false,

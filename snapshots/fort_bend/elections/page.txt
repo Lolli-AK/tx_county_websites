@@ -254,6 +254,16 @@ Home
 Government
 Departments
 Elections/ Voter Registration
+Fatal error
+: Uncaught PDOException: SQLSTATE[08001] SQLConnect: 17 [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. in D:\AppsFBC\fbclib\phpclass\mssql_pdo.class.php:35
+Stack trace:
+#0 D:\AppsFBC\fbclib\phpclass\mssql_pdo.class.php(35): PDO->__construct()
+#1 D:\AppsFBC\mobileapi.fortbendcountytx.gov\fbctx\department_notices.php(13): mssql_pdo->conn()
+#2 {main}
+thrown in
+D:\AppsFBC\fbclib\phpclass\mssql_pdo.class.php
+on line
+35
 We have received several reports that district information found on third party websites are reflecting outdated 2021-2025 district information.
 Please use the 'New Voter Precinct Interactive Web Map' and 'View my registration' for up-to-date 2026 district information.
 If you have any questions or concerns please do not hesitate to contact us at vote@fbctx.gov.
