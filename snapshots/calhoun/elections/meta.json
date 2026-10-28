@@ -8,12 +8,12 @@
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-28T04:50:48Z",
-  "html_sha256": "b6e7fa519f5f67d9bca6a7e974197a55bd9f9f0661d4c469ebfcf1786d878928",
-  "text_sha256": "2d894a3cd11094470e8d3498873aa0549b5df0d50f884019d80619396f2710b2",
-  "byte_size": 27834,
+  "fetched_at": "2026-10-28T12:25:05Z",
+  "html_sha256": "d5feb4c2a740716f48f7a1539c14d9207da7d5d70ba243354513c66fb5bef44f",
+  "text_sha256": "6665b5c3838c30d4f2e6df3ff7c3d6dbc1c618a24cea6e65ae949385e8bcb048",
+  "byte_size": 90200,
   "title": "CALHOUN COUNTY ELECTIONS - Calhoun County Texas",
   "noncitizen_voting": {
     "present": false,
@@ -27,7 +27,7 @@
       "fvap",
       "military_overseas_voter"
     ],
-    "count": 3
+    "count": 5
   },
   "error": null
 }

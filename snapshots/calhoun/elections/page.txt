@@ -1,4 +1,7 @@
 CALHOUN COUNTY ELECTIONS - Calhoun County Texas
+Skip to Main Content
+Open Accessibility Options
+Open the Accessible Link Tree
 Skip to content
 Calhoun County Texas
 The Official Calhoun County Texas Website
@@ -128,3 +131,230 @@ Vote Texas
 Who Represents Me
 Federal Voting Assistance Program
 Proudly powered by WordPress
+Arabic
+Chinese
+Danish
+Dutch
+English
+Español
+Finnish
+French
+German
+Hebrew
+Hungarian
+Hindi
+Italian
+Japanese
+Korean
+Malay
+Norwegian
+Swedish
+Serbian Latin
+Serbian Cirillic
+Polish
+Portuguese
+Tamil
+Accessibility Menu
+Choose a Safe Browsing Profile
+Active
+ON
+OFF
+Color Blindness Adjustments
+Color adjustment for colorblind users
+Selecting a color profile below will make the screen colors more distinct for each profile type.
+Red-green color blindness
+Deuteranomaly
+Protanomaly
+Protanopia
+Deuteranopia
+Blue-yellow color blindness
+Tritanopia
+Tritanomaly
+Other color blindness
+Achromatopsia
+Achromatomaly
+ON
+OFF
+Seizure Safe Mode
+Reduces saturation and stops animations
+This mode reduces the risk of seizure that result from flashing or blinking animations and risky color combinations by reducing saturation and stopping animations, transitions, and videos.
+ON
+OFF
+Visually Impaired Mode
+Adjusts screen to assist with visual elements
+This mode adjusts visual elements on the screen to assist users with visual impairment
+ON
+OFF
+Cognitive Disability Mode
+Improves identification of elements.
+This mode provides assistive highlighting of titles and links to allow users with cognitive disabilities to identify and navigate page elements.
+ON
+OFF
+ADHD/Focus Friendly Mode
+Reduces distractions and improves focus
+This mode reduces distractions to help users with ADHD and Neurodevelopmental disorders to read, browse, and focus content much easier.
+ON
+OFF
+Assistive Navigation Mode
+Enables keyboard navigation with screen reader
+This mode allows keyboard navigation throughout the page, and includes a screen reader for assistive navigation
+Content Control
+Readable Font
+Dyslexia Font
+Highlight Titles
+Highlight Links
+Text Magnifier
+Content Scaling
+Reset
+Font Size
+Reset
+Line Height
+Reset
+Letter Spacing
+Reset
+Align Left
+Align Center
+Align Right
+Design Control
+Dark Contrast
+Invert Colors
+Light Contrast
+Monochrome
+High Contrast
+High Saturation
+Low Saturation
+Adjust Text Colors
+Remove
+Adjust Title Colors
+Remove
+Adjust Background Colors
+Remove
+Orientation Control
+Mute Sounds
+Hide Images
+Reading Guide
+Stop Animations
+Reading Mask
+Highlight on Hover
+Highlight on Click
+Large Cursor
+Screen Reader
+Keyboard Navigation
+Accessibility Statement
+Page Link Tree
+Website Accessibility by
+Accessibility Statement
+We are committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards and best practices regularly.
+Conformance status
+The
+Web Content Accessibility Guidelines (WCAG)
+define requirements for designers and developers to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA.
+We have installed an automatic accessibility tool that runs in the background. This tool runs Ai and machine learning to remediate accessibility deficiencies in the HTML code. In addition, it provides an interface that allows visitors to manipulate their browsing experience. The complete toolset aims to assist this site in conforming as closely as possible to the standards by the
+WCAG 2.1 Level AA
+.
+Additional accessibility considerations
+Although our goal is WCAG 2.1 Level AA conformance, we have also applied some Level AAA Success Criteria: Images of text are only used for decorative purposes. Some WCAG 2.1 Level AA requirements are not included in the remediation process as they are outside of the scope of the website source code, including but not limited to video captions.
+Measures taken by this website to achieve compliance
+Complete WCAG 2.1 Level AA website audit and remediation on page load. All on-page elements are scanned and reviewed against our accessibility standards library to ensure compliance. If remediation is required, the element is tagged, and our Ai remediation tool makes necessary, non-invasive corrections on the client-side of the site
+Auto Image and Link recognition and remediation for content that does not contain alt or title text for users that require screen reader access; descriptions are stored for user adjustment to assist our machine learning algorithms
+Quick access to search Meriam Website for definitions and pronunciations of words.
+Colorblindness adjustments to improve distinction between colors for Red-green color blindness (Deuteranomaly, Protanomaly, Protanopia, Deuteranopia), Blue-yellow color blindness (Tritanopia, Tritanomaly), Other color blindness (Achromatopsia, Achromatomaly)
+Reset fonts to Arial or Implementation of
+Dyslexia friendly font
+Ability to Highlight Titles and Links
+Text Magnification
+Content, Font, Line Height, Line Spacing Scaling, and Zoom
+Content alignment including left, center, and right
+Dark and Light Contrast modes and High Contrast that increases contrast ratio to 135%, and complete inversion of colors
+Saturation adjustments including High (140% saturation), Low (90% saturation), Monochrome (0% saturation)
+Complete element color control including Title, Font, and background color adjustments with color-safe color palettes to ensure optimal contrast ratio of 4.5%
+Ability to stop motion (videos, animated graphics, web element transitions, etc.), hide all images, and mute sounds
+Simple reading guide or more elaborate page mask to assist users in focusing on-page content
+Highlight element on hover or focus to ensure both keyboard and mouse users can orient themselves on the focused element
+A screen reader that reads back page content on highlight
+Complete keyboard navigation control
+Aggregated settings into browsing profiles to quickly deploy accessibility configurations for multiple user types.
+Compatibility with browsers and assistive technology
+We strive to be compatible with the following assistive technologies:
+Google Chrome, Mozilla Firefox, Apple Safari, Opera and Microsoft Edge, JAWS, and NVDA (screen readers), both for Windows and for MAC users.
+Technical specifications
+Accessibility of this site relies on the following technologies to work with the particular combination of web browsers and any assistive technologies or plugins installed on your computer:
+HTML
+WAI-ARIA
+CSS
+JavaScript
+These technologies are relied upon for conformance with the accessibility standards used.
+Notes
+While our main goal is to make the entire site accessible to all users, there is a possibility that some pages may not have been discovered or do not have a satisfactory accessibility remediation solution at this time. We are committed to constantly improving the accessibility of this site to ensure it is accessible to all.
+Move or Hide the Accessibility Panel
+Hide Accessility Widget
+Hide for 1 Day
+Hide for 1 Week
+Hide for 1 Month
+Hide for 1 Year
+Select a length of time to hide the accessibility widget. If you wish to show the widget before this period ends, you will need to clear your site cookies.
+Confirm and Hide
+Page Link Tree
+Page Landmarks
+Banner
+Navigation
+Main
+Banner
+Contentinfo
+Page Links
+Skip to content
+CALHOUN COUNTY TEXAS
+Government
+Law Enforcement
+Courts
+Finance
+Operations
+Services
+About
+FAQ
+Email
+Candidate Campaign Finance Reports
+November 3, 2026 – SAMPLE BALLOTS
+List of declared write-in candidates
+Public Notice – Logic and accuracy test
+PROCLAMATION
+November 3, 2026 – Order of Election
+November 3, 2026 – Order of Election – Point Comfort
+Notice of General Election November 3, 2026
+Order Calling Voter Approval Tax Rate Election
+Notice of Voter-Approval Tax Rate Election
+Notice of Delivery of Early Voting Balloting Materials
+Notice of Convening of Early Voting Ballot Board
+November 3, 2026 Early Voting Hours
+TEXAS EARLY VOTING (VOTACION ANTICIPADA DE TEXAS)
+-CALHOUN COUNTY POLLING LOCATIONS
+APPLICATION FOR BALLOT BY MAIL (SOLICITUD DE BOLETA POR CORREO)
+FPCA
+VOTE TEXAS ID
+Central Count Station Plan
+NOTICE OF CHANGE OF ELECTION PRECINCTS EFFECTIVE 1-1-2022
+COVID – 19 : Health Protocols (protocolos de salud de covid 19)
+ONLINE POLL WORKER TRAINING (capacitacion de trabajadores de encuestas en linea)
+NOTICE OF VOTING ORDER PRIORITY (aviso de prioridad de voto)
+Voter Registration Application
+STATEWIDE SEARCH
+Precinct Map
+May 26, 2026 Primary Runoff Election Information
+May 2, 2026 CCISD Election Information
+March 5, 2026 Primary Election Information
+November 4, 2025 Election Information
+May 3, 2025 Election Information
+November 5, 2024 Election Information
+May 28, 2024 Election Information
+May 4, 2024 Election Information
+March 5, 2024 Election Information
+November 7, 2023 Election Information
+Texas Secretary of State – Elections Division
+Texas Ethics Commission
+League of Womens Voters of Texas
+Vote Texas
+Who Represents Me
+Federal Voting Assistance Program
+Proudly powered by WordPress
+Website Accessibility by
+Banner
