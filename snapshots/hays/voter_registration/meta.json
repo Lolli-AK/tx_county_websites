@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-28T14:36:22Z",
-  "html_sha256": "4f76d07bc1389f929998d0c3afab3a8b54513aabd4f3d20d78c833262b14a2cc",
+  "fetched_at": "2026-10-28T20:09:10Z",
+  "html_sha256": "3749e0edc0cf1b0ed5a8c5a6def6e8499dc5515d2b236dde709cf053f5b522b8",
   "text_sha256": "9c60ef7f0dec0d6d408429e927f335c1e1561065ecf8b3294f417bfb5e9232de",
-  "byte_size": 56846,
+  "byte_size": 57282,
   "title": "Voter Registration | Hays County, TX",
   "noncitizen_voting": {
     "present": false,

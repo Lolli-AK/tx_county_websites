@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-28T14:36:22Z",
-  "html_sha256": "60b15901316be1c1c38deb079d85865b0cf5d2dbc9a127d7a347abc194f2440f",
+  "fetched_at": "2026-10-28T20:09:10Z",
+  "html_sha256": "81e7c6379bfb9f257f71206729e07f364557770be4a1e39dca6f78fc24044657",
   "text_sha256": "16479aa4e4261f4f88414a32de31cd933fc3894a5e77b1d351b9682653c4c883",
-  "byte_size": 35294,
+  "byte_size": 35252,
   "title": "Voter Registration - Denton County, TX Elections",
   "noncitizen_voting": {
     "present": false,
