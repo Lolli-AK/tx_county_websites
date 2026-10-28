@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.jackcounty.texas.gov/elections-administrator/page/early-voting"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-27T21:58:19Z",
-  "html_sha256": "d7a9c216eeb3f228c3cdefeb7815a69f714625a5f1833feace38def3071e9638",
-  "text_sha256": "ea8115d5dddad8f9aef25034e932c8d1ed3418dceceb50ce1a3784bbe66081d6",
-  "byte_size": 2870,
-  "title": "Just a moment...",
+  "fetched_at": "2026-10-28T04:50:48Z",
+  "html_sha256": "b72683c35753b1ca887ba66201167e614e1175138fda55c03dfbda1c418f2343",
+  "text_sha256": "60cfd9b1510bd2880156bb6a0137ddca8ac6f1a026343805579000c8ebd1b026",
+  "byte_size": 46758,
+  "title": "Early Voting | Jack County TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
