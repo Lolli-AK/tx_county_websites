@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-28T12:25:05Z",
-  "html_sha256": "39cf82f41b579c4c067f71f503cc2b5a4968ae09c7ae3434ffbb232277703b3c",
+  "fetched_at": "2026-10-28T14:36:22Z",
+  "html_sha256": "8ffb595bf83630ac097a8b92651d2443dee36c9dabf22b8edeeaf0f9d9ce4b27",
   "text_sha256": "78a7d368bb77cc63fc7cf7349e55e90b44ac8b9f4cebd5dfcd6f13137e2b7dd0",
-  "byte_size": 118961,
+  "byte_size": 118993,
   "title": "McCulloch County, Texas",
   "noncitizen_voting": {
     "present": false,
