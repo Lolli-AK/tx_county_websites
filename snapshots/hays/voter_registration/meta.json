@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.hayscountytx.gov/265/Voter-Registration"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-28T20:09:10Z",
-  "html_sha256": "3749e0edc0cf1b0ed5a8c5a6def6e8499dc5515d2b236dde709cf053f5b522b8",
-  "text_sha256": "9c60ef7f0dec0d6d408429e927f335c1e1561065ecf8b3294f417bfb5e9232de",
-  "byte_size": 57282,
-  "title": "Voter Registration | Hays County, TX",
+  "fetched_at": "2026-10-29T00:40:52Z",
+  "html_sha256": "40b3ec6e171af9e09dc1aa2a7d3003be51d65be994a1e4ed391962981403f109",
+  "text_sha256": "80ec7622ed284d694aa4466b7bfe70c3220fd4d2bad1eaf704538b9191b7fbed",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

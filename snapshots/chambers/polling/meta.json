@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.chamberscountytx.gov/503/Current-Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-28T20:09:10Z",
-  "html_sha256": "3ad21672fdd5e17c7733a8dc4e2514c93c8c53cf87581fcf8d5346f8c557d6a5",
-  "text_sha256": "a49cf2404e61294bda4103aef5f1cb5d96bd1eca71d1b99068fe8ff64f33882b",
-  "byte_size": 88894,
-  "title": "Current Elections | Chambers County, TX",
+  "fetched_at": "2026-10-29T00:40:52Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

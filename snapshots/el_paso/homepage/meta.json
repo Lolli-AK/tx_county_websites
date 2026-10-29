@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.epcounty.com/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-28T20:09:10Z",
-  "html_sha256": "3d3dd4036b3efe504eed90f3cfc4b5a146c3d7ca54c4d4be84b5005f7e7388a0",
-  "text_sha256": "8608908425294b38041e9d346c725ca02282b1325749b4964077c349a641b5bf",
-  "byte_size": 89400,
-  "title": "El Paso County, TX | Official Website",
+  "fetched_at": "2026-10-29T00:40:52Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

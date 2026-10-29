@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-28T20:09:10Z",
-  "html_sha256": "ee8fd2101e6387e760b8f03d5c6e7bee901cb44ce489328e4ecb4a3f20e6d1d3",
+  "fetched_at": "2026-10-29T00:40:52Z",
+  "html_sha256": "0b5096637bddd3a129209fb3920bae7ea7aa2b91bae3ad619816eadaa27a64a4",
   "text_sha256": "d3baa288db12c21840c87f237f0e2381badaf497006c82b4626302836a982669",
-  "byte_size": 155351,
+  "byte_size": 155735,
   "title": "Callahan County, Texas",
   "noncitizen_voting": {
     "present": false,
