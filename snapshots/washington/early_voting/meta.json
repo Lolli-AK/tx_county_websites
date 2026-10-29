@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-28T20:55:08Z",
-  "html_sha256": "99c5f29bc2b3ab28f3fac3e4d783599aab904d310163afcb916a0dac3d9f6799",
+  "fetched_at": "2026-10-29T01:31:41Z",
+  "html_sha256": "e3a845f4490c939f585665f2572270c93078396051326c35a5d2e35dd6b4e7f9",
   "text_sha256": "c9267ecf8acf833faf212eced4148927bf9eb53ae126e2c5523969f60a25160c",
-  "byte_size": 221441,
+  "byte_size": 221555,
   "title": "Washington County, Texas",
   "noncitizen_voting": {
     "present": false,

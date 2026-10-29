@@ -72,6 +72,8 @@ General Information
 ▲
 County Election Official Listing from Texas Secretary of State -
 https://www.sos.state.tx.us/elections/voter/county.shtml
+Elimination of Straight-Party Voting Notice
+(Aviso Sobre la Eliminacion del Voto por Partido Politico)
 Voter Information
 ▲
 Ballot By Mail
@@ -192,6 +194,7 @@ BBM - 10/22/2026
 BBM - 10/24/2026
 BBM - 10/26/2026
 BBM - 10/27/2026
+BBM - 10/28/2026
 ELECTION RETURNS
 (resultados electorales)
 ** Important Dates / Fechas Importantes **
