@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-29T14:42:59Z",
-  "html_sha256": "371ee64df54308e9b886937adb735419f2c51d3c42564eddd735ac8ee1226966",
+  "fetched_at": "2026-10-29T18:15:06Z",
+  "html_sha256": "9b92b2982365c86e7512f9f3b8cad020ea5a912945eae02aac9e43e63f670297",
   "text_sha256": "9eae3bb26f2eb4b7e1f04b48fec17c97fc9163595804869412bb02c9316f77d7",
-  "byte_size": 20477,
+  "byte_size": 20504,
   "title": "Haskell County, Texas",
   "noncitizen_voting": {
     "present": false,
