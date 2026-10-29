@@ -6,24 +6,31 @@
   "redirect_chain": [
     "https://elections.bexar.gov/167/Military-Overseas-Voters"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-29T00:40:52Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-29T09:39:05Z",
+  "html_sha256": "631fd20066dfd597be4900da0bdd00821304241f7b60314844516e3151786777",
+  "text_sha256": "9750a13d1d3c8fe73b11f3fee845b9482b007336fff9c95e8f3b5a1d30c5324c",
+  "byte_size": 56266,
+  "title": "Military / Overseas Voters | Bexar County Elections, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "fvap",
+      "move_act",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 32
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

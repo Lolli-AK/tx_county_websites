@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.parkercountytx.gov/"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-29T01:31:41Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-29T09:39:05Z",
+  "html_sha256": "23307b8012c3fd03f0d389123903912b88db7e9af9b362d9bcad85486f3b9e55",
+  "text_sha256": "3ca4231896a265e63637669cfd09160200f7feefbc59bde7081dc9adff7da85a",
+  "byte_size": 56065,
+  "title": "Parker County, TX - Official Website | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

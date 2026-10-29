@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.wilcotx.gov/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-29T00:40:52Z",
-  "html_sha256": "673ee6ff1033ae61d636590c59c66f41a9020a6fb73107c523480eda7f0eb2eb",
-  "text_sha256": "f31a7746697c8721004abee6f10e0b9f357f62bb156e2243b606a9005e16b6da",
-  "byte_size": 3331,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-10-29T09:39:05Z",
+  "html_sha256": "0f1ba3eeaffcbd24873ca09f3c326dbd6709d7147b1d388d60142e98ab9293d3",
+  "text_sha256": "ef1c55804f27d48de379773bb41bca9088e5992243f914a17ab4555fc1aac968",
+  "byte_size": 92453,
+  "title": "Williamson County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

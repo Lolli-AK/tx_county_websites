@@ -6,15 +6,15 @@
   "redirect_chain": [
     "http://www.elliscountytx.gov/740/Voter-Registration-Information"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-29T00:40:52Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-10-29T09:39:05Z",
+  "html_sha256": "656ee83862acdc6257164182595d83aa8455a8ef629bf84cb9f5beff164d9c1a",
+  "text_sha256": "b62ccc0e6bbc9e52b624900e6218b9e465fb5d3918b418a8167d47dcd5de0036",
+  "byte_size": 74855,
+  "title": "Voter Registration Information | Ellis County, TX Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

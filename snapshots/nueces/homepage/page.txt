@@ -320,11 +320,6 @@ Payments
 Jury Duty
 Get the latest news and information sent directly to your inbox.
 Meetings & Events
-28
-Oct
-Wed
-9:00 AM - 5:00 PM
-Commissioners Court
 11
 Nov
 Wed
@@ -338,6 +333,11 @@ Commissioners Court
 26
 Nov
 Thu
+All Day
+Thanksgiving Holiday
+27
+Nov
+Fri
 All Day
 Thanksgiving Holiday
 More Events
