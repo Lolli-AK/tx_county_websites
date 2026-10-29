@@ -290,6 +290,7 @@ Order Of Election -  November General Election For County Officers
 Notification Of Election Training program
 Notice Of Combined Precincts
 Notice of Convening Of Early Voting Ballot Board
+Notice of Convening Of Central Counting Station
 Notice of Delivery Of Ballots Voted By Mail
 List Of Declarred Write-In Candidates
 Public Notice Of Public Logic And Accuracy Test and First Test Of Automatic Tabulating Equipment

@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-29T09:39:05Z",
-  "html_sha256": "7b1c781bde5d0125f55c1dfad69d18e0384735d8c20428e71262d2d0cb32ee16",
+  "fetched_at": "2026-10-29T14:42:59Z",
+  "html_sha256": "a1318f15f4adef5b65aeb3b6f96f06ffb3184d1e9163a59a5ccaa417f613588e",
   "text_sha256": "e4a61098adfd68212098ef49908e5c7af673faed5be851fef96b5bc38e756739",
-  "byte_size": 44247,
+  "byte_size": 43990,
   "title": "Homepage | Llano County, Texas",
   "noncitizen_voting": {
     "present": false,
