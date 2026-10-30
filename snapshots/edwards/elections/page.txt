@@ -117,6 +117,7 @@ Public Notice of Test of Express Voting and DS-300 Tabulators
 Notice of Delivery of Ballots By Mail 2026
 Notice of Convening of Early Voting Ballot Board 2026
 Notice of Delivery of Early Voting Balloting Materials 2026
+Notice of Convening of Central Counting Station 2026
 Daily Combination Form Early Voting:
 Republican May 18 2026
 Democratic May 18 2026
@@ -180,6 +181,8 @@ Oct 24 2026 Total
 Oct 25 2026 Total
 Oct 26 2026 Total
 Oct 27 2026 Total
+Oct 28 2026 Total
+Oct 29 2026 Total
 Campaign Finance Reports:
 Garrett Grooms
 Stephen Smith
