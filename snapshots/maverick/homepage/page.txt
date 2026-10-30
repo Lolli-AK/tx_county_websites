@@ -38,9 +38,6 @@ Details
 Elections
 New telephone number for the Elections Department: (830) 206-8351 · Fax (830) 206-8355
 View notice
-1NWS Alert(s)
-Flood Watch
-View
 Agenda
 Commissioners Court Special Meeting ·
 Wednesday, November 4, 2026 at 4:00 PM
@@ -93,11 +90,11 @@ Last day: Friday, October 30
 Today is the last day
 0
 Days
-14
+10
 Hours
-35
+43
 Min
-32
+54
 Sec
 Last day to register
 Mon, Oct 5
@@ -212,7 +209,7 @@ Sign Up
 68°
 F
 Weather · Eagle Pass
-Light Rain
+Cloudy
 Official portal · Transparency
 Commissioners Court Agendas
 Access agendas, minutes, recordings and official notices for every Maverick County Commissioners Court session. All public information from the county's governing body, in one place.

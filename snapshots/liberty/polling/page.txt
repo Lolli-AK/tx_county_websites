@@ -136,7 +136,7 @@ October 24, 2026 - Voter List
 : 1212 (10312 total to-date)
 turnout breakdown
 October 25, 2026 - Voter List
-: 552 (10864 total to-date)
+:  552 (10864 total to-date)
 turnout breakdown
 October 26, 2026 - Voter List
 : 1389 (12253 total to-date)
@@ -148,11 +148,14 @@ October 28, 2026 - Voter List
 : 1319 (14849 total to-date)
 turnout breakdown
 October 29, 2026 - Voter List
-: 1611 (16460 total to-date) turnout breakdown
+: 1611 (16460 total to-date)
+turnout breakdown
 October 30, 2026 - Voter List
 MAIL-IN BALLOT VOTERS:
-October 27, 2026 - Voter List
-: 331 Approved by Early Voting Ballot Board
+October 23, 2026 Mail-in Ballot Voter List
+: 331 approved for counting by Early Voting Ballot Board
+October 30, 2026 Mail-in Ballots Voter List
+: 98 approved for counting by Early Voting Ballot Board
 LIBERTY GRAND MUNICIPAL UTILITY DISTRICT NOS. 1 AND 1A VOTERS:
 October 23, 2026 - Voter List for Liberty Grand MUD No.1
 October 23, 2026 - Voter List for Liberty Grand MUD No. 1A

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-30T14:11:11Z",
-  "html_sha256": "87545b62c10cefebfb33e92ec53127be0afcc1620941aa527c070075b77d8839",
+  "fetched_at": "2026-10-30T17:51:37Z",
+  "html_sha256": "01b9e0aa7abbfc5d4503a23ac90bfb714cd5b15d16e3cecfbfef7c133732c06a",
   "text_sha256": "21abd81183f10e7882e2071b2a1fcaa678b24c1563adb0a8ae0702cef58dd61b",
-  "byte_size": 384931,
+  "byte_size": 385212,
   "title": "Cooke County, Texas",
   "noncitizen_voting": {
     "present": false,
