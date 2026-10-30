@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-29T18:15:06Z",
-  "html_sha256": "440efc6cc49093624782409017f3eeaf57a19940be3e0a066866f03636c3be2d",
+  "fetched_at": "2026-10-30T00:41:39Z",
+  "html_sha256": "5bdb2adaa017934654ee0868bd7b02b10b363ae755545f7a9efb36aacd80c346",
   "text_sha256": "fa4975829b64a8d91fb027b922695d3f068661d25044c1aa326b6ba018e50e04",
-  "byte_size": 125020,
+  "byte_size": 125038,
   "title": "Early Voting – November Election – Jefferson County, Texas",
   "noncitizen_voting": {
     "present": false,

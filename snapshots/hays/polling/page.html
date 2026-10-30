@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="removeSetHeights no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" lang="en">
+<html class="removeSetHeights no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n3-active wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active has-RANDOM" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -15,11 +15,21 @@
   </title>
   <meta content="Find information about current elections." name="description"/>
  </head>
- <body class="wide ae-current-elections-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
+ <body class="wide cpTextResizeOn doneLoading ae-current-elections-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
   <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
    <div>
     <p data-modulename="launcher">
      This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+    </p>
+   </div>
+  </div>
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
     </p>
    </div>
   </div>
@@ -119,22 +129,6 @@
          <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu" role="presentation">
           <input id="megaMenuPopupDirection" type="hidden"/>
           <input id="megaMenuWidthReference" type="hidden"/>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
          </aside>
         </nav>
         <div data-cprole="contentContainer" id="searchTS">
@@ -146,7 +140,7 @@
               <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
                <section class="widget widgetSearch skin43 widgetOptionSet15" id="widgetPreviewSearch">
                 <div class="widgetBody buttonRightInside">
-                 <input aria-label="Search Site" class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
+                 <input aria-label="Search Site" autocomplete="off" class="widgetSearchBox widgetSearchBoxGUID ui-autocomplete-input" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
                  <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon">
                   <img alt="Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=107" data-image="/ImageRepository/Document?documentID=108" src="/ImageRepository/Document?documentID=108"/>
                  </a>
@@ -178,11 +172,8 @@
         </div>
         <div class="hidden" id="bannerImagesJSON2">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=102" width="1280px"/>
         </div>
        </div>
       </div>
@@ -220,7 +211,7 @@
                      </div>
                      <input data-month="10" data-year="2026" name="monthToRender" type="hidden"/>
                      <h3 class="miniCalendarHeader miniCalendarHeader--RANDOM" role="presentation">
-                      <button aria-label="Previous Month, current month October 2026, go to September 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left cp-Btn--RANDOM">
+                      <button aria-label="Previous Month, current month October 2026, go to September 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left cp-Btn--RANDOM" disabled="">
                       </button>
                       <span aria-level="2" class="cp-RANDOM-title" id="miniCalendarHeaderGUID" role="heading">
                        October 2026
@@ -520,13 +511,11 @@ Saturday
                          </span>
                         </td>
                         <td class="today">
-                         <a aria-label="
-Thursday
- 29 October 2026 Click here for more information on events for this date." href="/calendar.aspx?view=list&amp;year=2026&amp;month=10&amp;day=29&amp;CID=29" tabindex="0">
+                         <span>
                           <time datetime="2026-10-29">
                            29
                           </time>
-                         </a>
+                         </span>
                         </td>
                         <td>
                          <a aria-label="
@@ -550,26 +539,10 @@ Friday
                     </div>
                     <div class="row narrow" data-event-list-row="true">
                      <input name="day-list" type="hidden"/>
-                     <div class="col col1 first">
-                      <ol class="semanticList" role="presentation">
-                       <li class="widgetItem" data-event-i-d="719">
-                        <h4 aria-level="3" class="widgetTitle" role="heading">
-                         Thu, Oct. 29
-                        </h4>
-                        <div class="widgetDesc">
-                         <strong>
-                          <a href="/Calendar.aspx?EID=719">
-                           Early Voting
-                          </a>
-                         </strong>
-                        </div>
-                       </li>
-                      </ol>
-                     </div>
-                     <div class="col col1 last">
+                     <div class="col col1 first last">
                       <ol class="semanticList" role="presentation">
                        <li class="widgetItem" data-event-i-d="720">
-                        <h4 class="widgetTitle">
+                        <h4 aria-level="3" class="widgetTitle" role="heading">
                          Fri, Oct. 30
                         </h4>
                         <div class="widgetDesc">
@@ -580,6 +553,10 @@ Friday
                          </strong>
                         </div>
                        </li>
+                      </ol>
+                     </div>
+                     <div class="col col1">
+                      <ol class="semanticList" role="presentation">
                       </ol>
                      </div>
                     </div>
@@ -715,12 +692,12 @@ Friday
                     </h2>
                     <ul>
                      <li>
-                      <a aria-describedby="audioeye_new_window_message" href="https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login" rel="noopener" target="_blank">
+                      <a aria-label="Am I Registered to Vote? Opens in new window" href="https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login" rel="noopener" target="_blank">
                        Am I Registered to Vote?
                       </a>
                      </li>
                      <li>
-                      <a aria-describedby="audioeye_new_window_message" href="https://www.sos.state.tx.us/elections/historical/index.shtml" rel="noopener" target="_blank">
+                      <a aria-label="Election Information and Turnout Opens in new window" href="https://www.sos.state.tx.us/elections/historical/index.shtml" rel="noopener" target="_blank">
                        Election Information and Turnout
                       </a>
                      </li>
@@ -730,27 +707,27 @@ Friday
                       </a>
                      </li>
                      <li>
-                      <a aria-describedby="audioeye_new_window_message" href="https://www.votetexas.gov/register-to-vote/update-voter-registration.html" rel="noopener" target="_blank">
+                      <a aria-label="Register or Update Your Voter Information Online Opens in new window" href="https://www.votetexas.gov/register-to-vote/update-voter-registration.html" rel="noopener" target="_blank">
                        Register or Update Your Voter Information Online
                       </a>
                      </li>
                      <li>
-                      <a aria-describedby="audioeye_new_window_message" href="https://www.votetexas.gov/voting/need-id.html" rel="noopener" target="_blank">
+                      <a aria-label="Required Identification for Voting Opens in new window" href="https://www.votetexas.gov/voting/need-id.html" rel="noopener" target="_blank">
                        Required Identification for Voting
                       </a>
                      </li>
                      <li>
-                      <a aria-describedby="audioeye_new_window_message" href="https://www.sos.texas.gov/elections/index.shtml" rel="noopener" target="_blank">
+                      <a aria-label="Useful Information for Voters Opens in new window" href="https://www.sos.texas.gov/elections/index.shtml" rel="noopener" target="_blank">
                        Useful Information for Voters
                       </a>
                      </li>
                      <li>
-                      <a aria-describedby="audioeye_new_window_message" href="https://www.votetexas.gov/voters-with-special-needs/index.html" rel="noopener" target="_blank">
+                      <a aria-label="Voters with Special Needs Opens in new window" href="https://www.votetexas.gov/voters-with-special-needs/index.html" rel="noopener" target="_blank">
                        Voters with Special Needs
                       </a>
                      </li>
                      <li>
-                      <a aria-describedby="audioeye_new_window_message" href="https://wrm.capitol.texas.gov/home" rel="noopener" target="_blank">
+                      <a aria-label="Who Represents Me? Opens in new window" href="https://wrm.capitol.texas.gov/home" rel="noopener" target="_blank">
                        Who Represents Me?
                       </a>
                      </li>
@@ -872,7 +849,7 @@ Friday
                     <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
-                       <a aria-label="Commissioners Court Agenda Opens in new window" class="fancyButton fancyButton58 docaccess-activated docaccess-status-unprocessable" href="https://public.destinyhosted.com/agenda_publish.cfm?id=42972" target="_blank">
+                       <a aria-label="Commissioners Court Agenda Opens in new window" class="fancyButton fancyButton58 docaccess-activated docaccess-status-unprocessable" href="https://public.destinyhosted.com/agenda_publish.cfm?id=42972" rel="noopener" target="_blank">
                         <span>
                          <span>
                           <span class="text">
@@ -889,7 +866,7 @@ Friday
                     <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
-                       <a aria-label="Elections Opens in new window" class="fancyButton fancyButton59" href="/172/Elections" target="_blank">
+                       <a aria-label="Elections Opens in new window" class="fancyButton fancyButton59" href="/172/Elections" rel="noopener" target="_blank">
                         <span>
                          <span>
                           <span class="text">
@@ -906,7 +883,7 @@ Friday
                     <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
-                       <a aria-label="Public Notices Opens in new window" class="fancyButton fancyButton60" href="/857/Public-Notices" target="_blank">
+                       <a aria-label="Public Notices Opens in new window" class="fancyButton fancyButton60" href="/857/Public-Notices" rel="noopener" target="_blank">
                         <span>
                          <span>
                           <span class="text">
@@ -945,7 +922,7 @@ Friday
                     <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
-                       <a aria-label="Financial Transparency Opens in new window" class="fancyButton fancyButton61" href="/180/Financial-RANDOM" target="_blank">
+                       <a aria-label="Financial Transparency Opens in new window" class="fancyButton fancyButton61" href="/180/Financial-RANDOM" rel="noopener" target="_blank">
                         <span>
                          <span>
                           <span class="text">
@@ -962,7 +939,7 @@ Friday
                     <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
-                       <a aria-label="Taxes Opens in new window" class="fancyButton fancyButton62" href="/175/Tax-RANDOM-RANDOM" target="_blank">
+                       <a aria-label="Taxes Opens in new window" class="fancyButton fancyButton62" href="/175/Tax-RANDOM-RANDOM" rel="noopener" target="_blank">
                         <span>
                          <span>
                           <span class="text">
@@ -979,7 +956,7 @@ Friday
                     <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
-                       <a aria-label="Jobs Opens in new window" class="fancyButton fancyButton63" href="https://www.governmentjobs.com/careers/hayscountytx" target="_blank">
+                       <a aria-label="Jobs Opens in new window" class="fancyButton fancyButton63" href="https://www.governmentjobs.com/careers/hayscountytx" rel="noopener" target="_blank">
                         <span>
                          <span>
                           <span class="text">
@@ -1022,7 +999,7 @@ Friday
                  </div>
                 </header>
                 <div class="widgetBody cpGrid cpGrid1">
-                 <div class="row wide">
+                 <div class="row narrow">
                   <div class="col col1 first last">
                    <ol class="pageStyles semanticList" role="presentation">
                     <li class="InfoAdvanced widgetItem fr-view">
@@ -1056,7 +1033,7 @@ Friday
                    <div class="col col1 first">
                     <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
-                      <a aria-describedby="audioeye_new_window_message" class="widgetDesc widgetGraphicLinksLink" href="https://www.facebook.com/hayscountytexas/" target="_blank">
+                      <a aria-describedby="audioeye_new_window_message" class="widgetDesc widgetGraphicLinksLink" href="https://www.facebook.com/hayscountytexas/" rel="noopener" target="_blank">
                        <img alt="Facebook" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=48'" onfocus="this.src='/ImageRepository/Document?documentID=48'" onmouseout="this.src='/ImageRepository/Document?documentID=48'" onmouseover="this.src='/ImageRepository/Document?documentID=48'" src="/ImageRepository/Document?documentID=48"/>
                       </a>
                      </li>
@@ -1120,7 +1097,7 @@ Friday
                  </div>
                 </header>
                 <div class="widgetBody cpGrid cpGrid1">
-                 <div class="row wide">
+                 <div class="row narrow">
                   <div class="col col1 first last">
                    <ol class="pageStyles semanticList" role="presentation">
                     <li class="InfoAdvanced widgetItem fr-view">
@@ -1141,7 +1118,7 @@ Friday
                       </a>
                      </p>
                      <p>
-                      <a aria-describedby="audioeye_new_window_message" href="https://hayscountytx.form.transform.civicplus.com/68171" rel="noopener" target="_blank">
+                      <a aria-label="Hays County website feedback Opens in new window" href="https://hayscountytx.form.transform.civicplus.com/68171" rel="noopener" target="_blank">
                        Hays County website feedback
                       </a>
                      </p>
@@ -1189,14 +1166,14 @@ Friday
                   <div class="col col1 first last">
                    <ol class="semanticList">
                     <li class="widgetItem QuickLinks">
-                     <a aria-label="Open Records - Helpful Links opens in new window" class="widgetDesc widgetQuickLinksLink" href="https://hayscountytx.govqa.us/WEBAPP/_rs/(S(hkunjx3qm3rzgirjymx5kj4v))/SupportHome.aspx?s=" rel="noopener" target="_blank">
+                     <a aria-label="Open Records Opens in new window" class="widgetDesc widgetQuickLinksLink" href="https://hayscountytx.govqa.us/WEBAPP/_rs/(S(hkunjx3qm3rzgirjymx5kj4v))/SupportHome.aspx?s=" rel="noopener" target="_blank">
                       Open Records
                      </a>
                      <div class="widgetMeta">
                      </div>
                     </li>
                     <li class="widgetItem QuickLinks">
-                     <a aria-label="Burn Ban Information - Helpful Links opens in new window" class="widgetDesc widgetQuickLinksLink" href="https://www.haysinformed.com/" rel="noopener" target="_blank">
+                     <a aria-label="Burn Ban Information Opens in new window" class="widgetDesc widgetQuickLinksLink" href="https://www.haysinformed.com/" rel="noopener" target="_blank">
                       Burn Ban Information
                      </a>
                      <div class="widgetMeta">
@@ -1252,35 +1229,35 @@ Friday
                      </div>
                     </li>
                     <li class="widgetItem QuickLinks">
-                     <a aria-label="Site Map - Site Links opens in new window" class="widgetDesc widgetQuickLinksLink" href="/sitemap" rel="noopener" target="_blank">
+                     <a aria-label="Site Map Opens in new window" class="widgetDesc widgetQuickLinksLink" href="/sitemap" rel="noopener" target="_blank">
                       Site Map
                      </a>
                      <div class="widgetMeta">
                      </div>
                     </li>
                     <li class="widgetItem QuickLinks">
-                     <a aria-label="Contact Us - Site Links opens in new window" class="widgetDesc widgetQuickLinksLink" href="/directory.aspx" rel="noopener" target="_blank">
+                     <a aria-label="Contact Us Opens in new window" class="widgetDesc widgetQuickLinksLink" href="/directory.aspx" rel="noopener" target="_blank">
                       Contact Us
                      </a>
                      <div class="widgetMeta">
                      </div>
                     </li>
                     <li class="widgetItem QuickLinks">
-                     <a aria-label="Accessibility - Site Links opens in new window" class="widgetDesc widgetQuickLinksLink" href="/site/accessibility" rel="noopener" target="_blank">
+                     <a aria-label="Accessibility Opens in new window" class="widgetDesc widgetQuickLinksLink" href="/site/accessibility" rel="noopener" target="_blank">
                       Accessibility
                      </a>
                      <div class="widgetMeta">
                      </div>
                     </li>
                     <li class="widgetItem QuickLinks">
-                     <a aria-label="Copyright Notices - Site Links opens in new window" class="widgetDesc widgetQuickLinksLink" href="/copyright" rel="noopener" target="_blank">
+                     <a aria-label="Copyright Notices Opens in new window" class="widgetDesc widgetQuickLinksLink" href="/copyright" rel="noopener" target="_blank">
                       Copyright Notices
                      </a>
                      <div class="widgetMeta">
                      </div>
                     </li>
                     <li class="widgetItem QuickLinks">
-                     <a aria-label="Privacy Policy - Site Links opens in new window" class="widgetDesc widgetQuickLinksLink" href="/site/privacy" rel="noopener" target="_blank">
+                     <a aria-label="Privacy Policy Opens in new window" class="widgetDesc widgetQuickLinksLink" href="/site/privacy" rel="noopener" target="_blank">
                       Privacy Policy
                      </a>
                      <div class="widgetMeta">
@@ -1369,12 +1346,35 @@ Friday
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
+  </div>
+  <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" role="presentation" tabindex="0">
+  </ul>
+  <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
+  </div>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="presentation">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31" role="presentation">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101" role="presentation">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="presentation">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
   </div>
   <div data-nosnippet="" id="ae_app">
    <div class="ae-module" id="ae_helpers">

@@ -50,6 +50,8 @@ Public Notice of Logic and Accuracy Test of Electronic Pollbook Equipment for 05
 Notice of November General Election
 Order of November General Election
 First Logic and Accuracy Test of Automatic Tabulating Equipment for 11/03/2026 Election
+Notice of Delivery of Ballots Voted by Mail for 11/03/2026 Election
+Amended Notice of Delivery of Ballots Voted by Mail for 11/03/2026 Election
 2026 Election Voter History
 10-19-26 Voter History
 10-20-26 Voter History
@@ -58,6 +60,9 @@ First Logic and Accuracy Test of Automatic Tabulating Equipment for 11/03/2026 E
 10-23-26 Voter History
 10-24-26 Voter History
 10-25-26 Voter History
+10-26-26 Voter History
+10-27-26 Voter History
+10-28-26 Voter History
 2026 Election Results
 Cumulative Results-3-3-2026
 Precinct Results-3-3-2026

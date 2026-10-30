@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-29T18:15:06Z",
-  "html_sha256": "16e4c4c6513602314eed97b027eeabdb2d0681b21143c541d008599bcc287c50",
+  "fetched_at": "2026-10-30T00:41:39Z",
+  "html_sha256": "322b5784d52f8382dbef4c15dc8a19cde60f84f7cc29b0166a4910b6e7796e83",
   "text_sha256": "7dd02487e6ccc7833c880f9e33103ba0c641b38e9530bdae00fb55c04c6b6f68",
-  "byte_size": 132389,
+  "byte_size": 132407,
   "title": "Ways to Submit your Voter Registration Application – Jefferson County, Texas",
   "noncitizen_voting": {
     "present": false,
