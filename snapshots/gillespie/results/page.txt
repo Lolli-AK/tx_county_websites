@@ -80,6 +80,8 @@ November 3, 2026 General Election Voting Turnout by Date
 10-28-26 In-Person Voter Roster (CSV)
 10-29-26 Ballot by Mail Returned (XLSX)
 10-29-26 In-Person Voter Roster (CSV)
+10-30-26 Ballot by Mail Returned (XLSX)
+10-30-26 In-Person Voter Roster (CSV)
 Year 2026
 March 3, 2026 Voting Turnout by Date
 02-17-26 Early Voting Roster (PDF)

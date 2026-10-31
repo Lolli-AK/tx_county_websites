@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.erath.tx.us/184/Elections-Administration"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-30T22:04:07Z",
-  "html_sha256": "e0466aff235a801a0699fbe71ec301c6e173a8032dd755bd6a30f3dae2686fbe",
-  "text_sha256": "58aee7afa352c7d9bce270d2a7dd06161b03879e3796a6928a911c6e308326fd",
-  "byte_size": 2852,
-  "title": "Just a moment...",
+  "fetched_at": "2026-10-31T04:48:21Z",
+  "html_sha256": "1387ecd8bd072c3d8d623c323d087cecf2113b69ecaab5aa3c5bbe1e511bd6a9",
+  "text_sha256": "fef5a4027a9f1e0fa9007d8d6475928613b122a71f3f9f9b609213b696fb5dab",
+  "byte_size": 55484,
+  "title": "Elections Administration | Erath County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

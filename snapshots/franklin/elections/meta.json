@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-30T22:04:07Z",
-  "html_sha256": "8d7239e9beb41f08f7360f954af0ca41fe08b944ddd25ad7e0bd0feb5a86e7d0",
+  "fetched_at": "2026-10-31T04:48:21Z",
+  "html_sha256": "318e102d598b77a393d5f1494357ac2867e6348f8338aa79e6dd154d830383f8",
   "text_sha256": "39e0445aee3c79f6480946621205cf43476f19046f9329f3e9e7afd62a16bc72",
-  "byte_size": 105835,
+  "byte_size": 105823,
   "title": "Franklin, TX – Franklin, TX – Elections Website",
   "noncitizen_voting": {
     "present": false,

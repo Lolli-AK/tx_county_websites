@@ -176,7 +176,7 @@ Precinct 2 - 20, 21, 22, 23 & 24
 Precinct 3 - 30, 31, 32 & 33
 Precinct 4 - 40, 41, 42 & 43
 EARLY VOTING TURNOUT
-Total Voters as of Thursday October 29, 2026: 7,873
+Total Early Voters as of October 30, 2026: 8,884
 Monday, October 19, 2026 - 1,294 Voters
 Tuesday, October 20, 2026 - 978 Voters
 Wednesday, October 21, 2026 - 811 Voters
@@ -198,6 +198,7 @@ When the voter first checked in, the bar code for the voter's precinct did not p
 Because Poll Pads do take a few minutes to update, it allowed for a second check in where the voter received one ballot with the precinct bar code printed.
 The first check in was canceled and updated in the state system. The voter received one ballot and only voted once. The tabulating machines and the total
 number of voters checked in are balanced and the voter did not vote twice.
+Friday, October 30, 2026 - 1,011 Voters
 For candidate filing information, please contact:
 Ms. Rosalinda Hernandez, Democratic Party Chair
 Phone: (830) 734-5313
