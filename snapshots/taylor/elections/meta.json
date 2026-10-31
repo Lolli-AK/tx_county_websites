@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://taylorcounty.texas.gov/212/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-31T13:57:14Z",
-  "html_sha256": "cc7e489c87e3f4856d2c1361c0c13892ccccdac7eab3a32ea90c0cd19a25c15d",
-  "text_sha256": "e22fe446a2d456808577035d0ec7dd4bb27951bba35dd0c9997b56e0d156e613",
-  "byte_size": 50903,
-  "title": "Elections | Taylor County, TX - Official Website",
+  "fetched_at": "2026-10-31T17:52:53Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

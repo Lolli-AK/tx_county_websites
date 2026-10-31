@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://valverdecounty.texas.gov/270/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-31T13:57:14Z",
-  "html_sha256": "f93bbe964749a320b2df47166dfdb48b8c18b1cbad2ab935ad1be5b3bf253764",
-  "text_sha256": "9a0003ef1e0068bbd97680977bdd4d59cf07050c3ed9f84dfc3f25f586d3bc95",
-  "byte_size": 148122,
-  "title": "Voter Registration & Elections | Val Verde County, TX",
+  "fetched_at": "2026-10-31T17:52:53Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }
