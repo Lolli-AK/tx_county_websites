@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://elections.bexar.gov/180/Register-to-Vote-Registration-Changes"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-10-31T13:57:14Z",
-  "html_sha256": "958787473065121604cfcb1d0a5b3ed1a0ddec8aca765643c80135ee4d873111",
-  "text_sha256": "65d35bfdd3cdf8ef0a30b9b2cf44fb1bfc4ff2ef22a8034c8a62a11c4e473c06",
-  "byte_size": 49910,
-  "title": "Register to Vote & Registration Changes | Bexar County Elections, TX",
+  "fetched_at": "2026-10-31T17:02:20Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

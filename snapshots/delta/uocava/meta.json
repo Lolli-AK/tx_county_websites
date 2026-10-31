@@ -6,31 +6,24 @@
   "redirect_chain": [
     "https://www.deltacountytx.com/elections/page/military-overseas-voters"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-31T13:57:14Z",
-  "html_sha256": "372312b4cb5f500706db5e7b1ef589c3dd91694848ee4dd3e4c80919829ed63d",
-  "text_sha256": "d5eecb3ad4ac0576a20b5a4e241cc1cc23847b17415dbbe9b6c54fb518e8c837",
-  "byte_size": 102743,
-  "title": "Military & Overseas Voters | Delta County, TX",
+  "fetched_at": "2026-10-31T17:02:20Z",
+  "html_sha256": "4bc457a3389b7f21902fec6ab4d84ca76746033e3c413a5f4ba81ca0fd636853",
+  "text_sha256": "6cebdffd9d7d82b36311a5b8c573b5dca59607d19f91f2af6aae463974baacb7",
+  "byte_size": 2861,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava",
-      "uocava_form",
-      "fvap",
-      "move_act",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 29
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

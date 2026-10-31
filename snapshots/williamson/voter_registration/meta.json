@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-10-31T13:57:14Z",
-  "html_sha256": "620b26ea8107d091744981ca9972b472d98a2320a40cffe76ad23abbd199adb5",
+  "fetched_at": "2026-10-31T17:02:20Z",
+  "html_sha256": "7ebdc657a2a2d041e2775fd336811ee6c9d29413a2f6c304edffd6b475fe83d0",
   "text_sha256": "2fc2501df991a176ba6b4436bae94f2298a96d388aece0d495540873defa4d23",
-  "byte_size": 73663,
+  "byte_size": 73446,
   "title": "Voter Registration | Williamson County, TX",
   "noncitizen_voting": {
     "present": false,

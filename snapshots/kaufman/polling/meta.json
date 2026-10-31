@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.kaufmancounty.net/434/CURRENT-ELECTION-INFORMATION"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-31T13:57:14Z",
-  "html_sha256": "2aa26fca2ae51aa3650bfaf4061ff1c14dc8ed4dcd948d9ded9233ec198a3faf",
-  "text_sha256": "2ca62dcdea884630b7ecccb7bd0139f03fe1dd6bc9c1301730f91647b952b276",
-  "byte_size": 70265,
-  "title": "CURRENT ELECTION INFORMATION | Kaufman County, TX",
+  "fetched_at": "2026-10-31T17:02:20Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }
