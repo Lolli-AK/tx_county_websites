@@ -6,15 +6,15 @@
   "redirect_chain": [
     "http://www.elliscountytx.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-01T05:11:58Z",
-  "html_sha256": "fbad7ffe6680acb3574e17f4a387ffaf1f9f92b6a824fdc48a51ac1afcb85683",
-  "text_sha256": "03ee50f3b064d5873921743863e3d5be33b9d1c6c2321af2b86b956c1aec628a",
-  "byte_size": 152275,
-  "title": "Ellis County, TX Official Website | Official Website",
+  "fetched_at": "2026-11-01T12:54:47Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-01T05:11:58Z",
-  "html_sha256": "109ce519fc550d9bcb84df748942ad062f8c6b3a269adf927ba5c4e91ae5446e",
-  "text_sha256": "9a9a27332f82593301afb9ba8f752bd5ab6305102bbdf6d9241e827eddd91f06",
+  "fetched_at": "2026-11-01T12:54:47Z",
+  "html_sha256": "9977f5f9fd091aa952d3d696d16ce5612c17b324b805e95c1d966027636870f7",
+  "text_sha256": "293d124b7fc39926d73f2d3a5233599ee22d8861611465625394d9b0f641b3e1",
   "byte_size": 2861,
   "title": "Just a moment...",
   "noncitizen_voting": {
