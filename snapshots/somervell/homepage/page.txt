@@ -24,7 +24,7 @@ Read on...
 View All News
 /CivicAlerts.aspx
 Upcoming Events
-October 2026
+November 2026
 Sun
 Mon
 Tue
@@ -32,10 +32,6 @@ Wed
 Thu
 Fri
 Sat
-27
-28
-29
-30
 1
 2
 3
@@ -66,7 +62,11 @@ Sat
 28
 29
 30
-31
+1
+2
+3
+4
+5
 There are no published events in current month.
 View All Events
 /Calendar.aspx

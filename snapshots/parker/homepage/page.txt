@@ -33,7 +33,7 @@ Or call (817)458-9848 to receive alerts.
 Parker Spotlight
 See what Parker County has to offer
 Calendar
-October 2026
+November 2026
 Su
 M
 Tu
@@ -41,10 +41,6 @@ W
 Th
 F
 Sa
-27
-28
-29
-30
 1
 2
 3
@@ -75,7 +71,11 @@ Sa
 28
 29
 30
-31
+1
+2
+3
+4
+5
 There are no published events in current month.
 View All
 /Calendar.aspx

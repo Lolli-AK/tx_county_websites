@@ -26,7 +26,7 @@ Library
 CALENDAR OF EVENTS
 Calendar
 Calendar
-October 2026
+November 2026
 Sun
 Mon
 Tue
@@ -64,7 +64,6 @@ Sat
 28
 29
 30
-31
 There are no published events in current month.
 View All Events
 /Calendar.aspx

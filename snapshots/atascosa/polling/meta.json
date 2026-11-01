@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://co.atascosa.tx.us/precinct-map/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-31T21:13:30Z",
-  "html_sha256": "ff6edde2b20b9e6dfa2cbd25396048d8648dfae36896cf74d78eab142a9f3c61",
-  "text_sha256": "0b54f17842ae969d45e2353e6a13871ae6c5522ca7a3a5b928aae1477cbc035a",
-  "byte_size": 29040,
-  "title": "Precinct Map – Atascosa County",
+  "fetched_at": "2026-11-01T05:11:58Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: _ssl.c:999: The handshake operation timed out"
 }

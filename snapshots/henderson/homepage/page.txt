@@ -26,7 +26,7 @@ Calendar
 Commissioners' Court
 Meetings / Events
 Commissioners' Court
-October 2026
+November 2026
 S
 M
 T
@@ -34,10 +34,6 @@ W
 T
 F
 S
-27
-28
-29
-30
 1
 2
 3
@@ -68,12 +64,27 @@ S
 28
 29
 30
-31
-There are no published events in current month.
+1
+2
+3
+4
+5
+Tue, Nov. 3
+Commissioners' Court
+Commissioners' Court
+Read On
+Tue, Nov. 10
+Commissioners' Court
+Commissioners' Court
+Read On
+Wed, Nov. 11
+Veterans Day
+Veterans Day
+Read On
 View All Meetings
 /Calendar.aspx
 Meetings / Events
-October 2026
+November 2026
 S
 M
 T
@@ -81,10 +92,6 @@ W
 T
 F
 S
-27
-28
-29
-30
 1
 2
 3
@@ -115,8 +122,23 @@ S
 28
 29
 30
-31
-There are no published events in current month.
+1
+2
+3
+4
+5
+Tue, Nov. 3
+ESD 7 Meeting
+ESD 7 Meeting
+Read On
+Tue, Nov. 3
+ESD 3 Meeting
+ESD 3 Meeting
+Read On
+Wed, Nov. 4
+Henderson County Historical Commission Meeting
+Henderson County Historical Commission Meeting
+Read On
 View All Events
 /Calendar.aspx
 Henderson County

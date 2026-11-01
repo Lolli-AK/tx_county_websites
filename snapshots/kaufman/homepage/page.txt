@@ -46,7 +46,7 @@ Tax Rate Information
 /QuickLinks.aspx
 Calendar & Upcoming Events
 Mark Your Calendars
-October 2026
+November 2026
 Sun
 Mon
 Tue
@@ -54,10 +54,6 @@ Wed
 Thu
 Fri
 Sat
-27
-28
-29
-30
 1
 2
 3
@@ -88,8 +84,15 @@ Sat
 28
 29
 30
-31
-There are no published events in current month.
+1
+2
+3
+4
+5
+Wed, Nov 11
+Veterans Day
+Thu, Nov 26 - Fri, Nov 27
+Thanksgiving Holiday
 View All Events
 /Calendar.aspx
 Contact Us

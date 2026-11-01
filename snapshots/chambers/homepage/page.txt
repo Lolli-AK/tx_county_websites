@@ -44,7 +44,7 @@ Find what’s happening with the latest events and mark your calendar
 Meetings
 Events
 Meetings
-October 2026
+November 2026
 Sun
 Mon
 Tue
@@ -52,10 +52,6 @@ Wed
 Thu
 Fri
 Sat
-27
-28
-29
-30
 1
 2
 3
@@ -86,12 +82,23 @@ Sat
 28
 29
 30
-31
-There are no published events in current month.
+1
+2
+3
+4
+5
+Tue, Nov. 10
+Commissioners Court - Regular Session
+Commissioners Court - Regular Session
+Read On
+Tue, Nov. 24
+Commissioners Court - Regular Session
+Commissioners Court - Regular Session
+Read On
 View All Events
 /Calendar.aspx
 Events
-October 2026
+November 2026
 Sun
 Mon
 Tue
@@ -99,10 +106,6 @@ Wed
 Thu
 Fri
 Sat
-27
-28
-29
-30
 1
 2
 3
@@ -133,8 +136,19 @@ Sat
 28
 29
 30
-31
-There are no published events in current month.
+1
+2
+3
+4
+5
+Wed, Nov. 11
+Offices Closed: Veteran's Day
+Offices Closed: Veteran's Day
+Read On
+Wed, Nov. 25 - Fri, Nov. 27
+Offices Closed: Thanksgiving Holidays
+Offices Closed: Thanksgiving Holidays
+Read On
 View All Events
 /Calendar.aspx
 Contact Us

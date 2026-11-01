@@ -14,7 +14,7 @@ Poll Worker Page
 Poll Worker Training
 View Current Election Information for November 3, 2026 Here
 Calendar
-October 2026
+November 2026
 S
 M
 T
@@ -22,10 +22,6 @@ W
 T
 F
 S
-27
-28
-29
-30
 1
 2
 3
@@ -56,8 +52,13 @@ S
 28
 29
 30
-31
-There are no published events in current month.
+1
+2
+3
+4
+5
+Wed, Nov. 11
+Veterans Day
 View All Events
 /Calendar.aspx
 FY2027 Adopted Budget

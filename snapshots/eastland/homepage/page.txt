@@ -39,7 +39,7 @@ Additional Info...
 View All News
 /CivicAlerts.aspx
 Calendar
-October 2026
+November 2026
 S
 M
 T
@@ -47,10 +47,6 @@ W
 T
 F
 S
-27
-28
-29
-30
 1
 2
 3
@@ -81,8 +77,17 @@ S
 28
 29
 30
-31
-There are no published events in current month.
+1
+2
+3
+4
+5
+Mon, Nov. 9
+Commissioners' Court Regular Meeting
+Wed, Nov. 11
+Veterans Day
+Wed, Nov. 11
+Veteran's Day
 View All Events
 /Calendar.aspx
 Contact Us

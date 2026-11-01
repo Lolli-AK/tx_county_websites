@@ -65,7 +65,7 @@ Mark Your Calendar
 Election Events
 VDR Classes
 Election Events
-October 2026
+November 2026
 S
 M
 T
@@ -73,10 +73,6 @@ W
 T
 F
 S
-27
-28
-29
-30
 1
 2
 3
@@ -107,12 +103,23 @@ S
 28
 29
 30
-31
-There are no published events in current month.
+1
+2
+3
+4
+5
+Tue, Nov. 3
+Last Day to Receive Ballot by Mail
+Tue, Nov. 3
+Election Day
+Wed, Nov. 11
+Veterans Day
+Thu, Nov. 26 - Fri, Nov. 27
+Thanksgiving Holiday
 View All Events
 /Calendar.aspx
 VDR Classes
-October 2026
+November 2026
 S
 M
 T
@@ -120,10 +127,6 @@ W
 T
 F
 S
-27
-28
-29
-30
 1
 2
 3
@@ -154,7 +157,11 @@ S
 28
 29
 30
-31
+1
+2
+3
+4
+5
 There are no published events in current month.
 View All Events
 /Calendar.aspx

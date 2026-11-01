@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://co.atascosa.tx.us/elections-administration/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-10-31T21:13:30Z",
-  "html_sha256": "dc9906933f98bf830d4ce6181e142157fa56b5f306339aef624decbf296db810",
-  "text_sha256": "f3e750b43ec3e600dfdb36963c19a6b88a592eaa0902c0bf5075560fb4aeee27",
-  "byte_size": 89898,
-  "title": "Elections Administration – Atascosa County",
+  "fetched_at": "2026-11-01T05:11:58Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: _ssl.c:999: The handshake operation timed out"
 }

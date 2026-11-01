@@ -103,7 +103,7 @@ EVENTS
 «
 »
 MONTH OF
-OCTOBER
+NOVEMBER
 2026
 Sunday
 Monday
@@ -115,127 +115,59 @@ Saturday
 1
 2
 3
+1
 4
 5
 6
 7
+Election Day - General Election
+11/03/2026 - 11/03/2026
+7:00 AM - 7:00 PM
 8
 9
 10
 11
-12
 1
+12
 13
 14
+VETERANS DAY - OFFICE CLOSED
+11/11/2026 - 11/11/2026
 15
 16
 17
-COLUMBUS DAY - OFFICE CLOSED
-10/12/2026 - 10/12/2026
 18
 19
-1
 20
-1
 21
-1
 22
-1
 23
-1
 24
-1
-Early Voting - General Election
-10/19/2026 - 10/23/2026
-8:00 am - 5:00 PM
-Early Voting - General Election
-10/19/2026 - 10/23/2026
-8:00 am - 5:00 PM
-Early Voting - General Election
-10/19/2026 - 10/23/2026
-8:00 am - 5:00 PM
-Early Voting - General Election
-10/19/2026 - 10/23/2026
-8:00 am - 5:00 PM
-Early Voting - General Election
-10/19/2026 - 10/23/2026
-8:00 am - 5:00 PM
-Early Voting - General Election
-10/24/2026 - 10/24/2026
-7:00 AM - 7:00 PM
 25
-1
 26
 1
 27
 1
 28
-1
+THANKSGIVING - OFFICE CLOSED
+11/26/2026 - 11/27/2026
+THANKSGIVING - OFFICE CLOSED
+11/26/2026 - 11/27/2026
 29
-1
 30
-1
-31
-EARLY VOTING - GENERAL ELECTION
-10/25/2026 - 10/25/2026
-12:00 pm - 6:00 PM
-Early Voting - General Election
-10/26/2026 - 10/30/2026
-7:00 am - 7:00 PM
-Early Voting - General Election
-10/26/2026 - 10/30/2026
-7:00 am - 7:00 PM
-Early Voting - General Election
-10/26/2026 - 10/30/2026
-7:00 am - 7:00 PM
-Early Voting - General Election
-10/26/2026 - 10/30/2026
-7:00 am - 7:00 PM
-Early Voting - General Election
-10/26/2026 - 10/30/2026
-7:00 am - 7:00 PM
 «
 »
-October
+November
 2026
-October 12, 2026
-COLUMBUS DAY - OFFICE CLOSED
-October 19, 2026
-Early Voting - General Election
-8:00 am - 5:00 PM
-October 20, 2026
-Early Voting - General Election
-8:00 am - 5:00 PM
-October 21, 2026
-Early Voting - General Election
-8:00 am - 5:00 PM
-October 22, 2026
-Early Voting - General Election
-8:00 am - 5:00 PM
-October 23, 2026
-Early Voting - General Election
-8:00 am - 5:00 PM
-October 24, 2026
-Early Voting - General Election
+November 3, 2026
+Election Day - General Election
 7:00 AM - 7:00 PM
-October 25, 2026
-EARLY VOTING - GENERAL ELECTION
-12:00 pm - 6:00 PM
-October 26, 2026
-Early Voting - General Election
-7:00 am - 7:00 PM
-October 27, 2026
-Early Voting - General Election
-7:00 am - 7:00 PM
-October 28, 2026
-Early Voting - General Election
-7:00 am - 7:00 PM
-October 29, 2026
-Early Voting - General Election
-7:00 am - 7:00 PM
-October 30, 2026
-Early Voting - General Election
-7:00 am - 7:00 PM
+November 11, 2026
+VETERANS DAY - OFFICE CLOSED
+November 26, 2026
+THANKSGIVING - OFFICE CLOSED
+November 27, 2026
+THANKSGIVING - OFFICE CLOSED
 View All
 CONNECT WITH US!
 Franklin County, TX Elections

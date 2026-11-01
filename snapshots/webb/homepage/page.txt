@@ -20,7 +20,7 @@ View All News
 /CivicAlerts.aspx
 Upcoming Events
 Mark your calendar
-October 2026
+November 2026
 S
 M
 T
@@ -28,10 +28,6 @@ W
 T
 F
 S
-27
-28
-29
-30
 1
 2
 3
@@ -62,9 +58,23 @@ S
 28
 29
 30
-31
-Sat, Oct. 31
-Happy Halloween
+1
+2
+3
+4
+5
+Sun, Nov. 1
+Daylight Saving Ends
+Sun, Nov. 1
+All Saints Day
+Mon, Nov. 2
+Jury Week - District Courts
+Mon, Nov. 2
+County Clerk's 20th Annual Blanket Drive Kick-Off
+Mon, Nov. 2
+Pre-Agenda
+Tue, Nov. 3
+Election Day
 View All Events
 /Calendar.aspx
 County Government

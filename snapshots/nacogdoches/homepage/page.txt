@@ -28,7 +28,7 @@ Subscribe to Notify Me to receive updates and information about community news a
 Read on...
 View All News
 /CivicAlerts.aspx
-October 2026
+November 2026
 S
 M
 T
@@ -36,10 +36,6 @@ W
 T
 F
 S
-27
-28
-29
-30
 1
 2
 3
@@ -70,8 +66,13 @@ S
 28
 29
 30
-31
-There are no published events in current month.
+1
+2
+3
+4
+5
+Wed, Nov. 11
+Veteran's Day
 View All Events
 /Calendar.aspx
 Contact Us
