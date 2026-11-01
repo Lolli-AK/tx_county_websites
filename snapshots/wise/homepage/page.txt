@@ -29,7 +29,7 @@ View All
 Tab Name
 Calendar
 Calendar
-October 2026
+November 2026
 Sun
 Mon
 Tue
@@ -37,10 +37,6 @@ Wed
 Thu
 Fri
 Sat
-27
-28
-29
-30
 01
 02
 03
@@ -71,8 +67,13 @@ Sat
 28
 29
 30
-31
-There are no published events in current month.
+01
+02
+03
+04
+05
+Wed, Nov. 11
+Veterans Day
 View All
 /Calendar.aspx
 Quick Links
