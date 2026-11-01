@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://valverdecounty.texas.gov/"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-01T13:45:08Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-11-01T14:34:55Z",
+  "html_sha256": "b455fbcf4eb347fe968dcc8433c3bb4341734fab40089a09e23f11ceddd8c4ac",
+  "text_sha256": "37272ce18aeb800646529c00198e99d8480da85bfed20fc4596cdcd55110efed",
+  "byte_size": 78046,
+  "title": "Val Verde County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

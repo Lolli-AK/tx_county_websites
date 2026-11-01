@@ -33,7 +33,7 @@ Agendas ↗
 Contact
 Election Day
 Starts in
-1d 23h 14m 26s
+1d 22h 02m 16s
 Tuesday, November 3 · 7:00 AM – 7:00 PM · at your precinct polling place
 Details
 Elections
@@ -91,11 +91,11 @@ Tuesday, November 3 · polls open at 7:00 AM
 2 days left to vote early
 1
 Days
-23
+22
 Hours
-14
+02
 Min
-26
+16
 Sec
 Last day to register
 Mon, Oct 5

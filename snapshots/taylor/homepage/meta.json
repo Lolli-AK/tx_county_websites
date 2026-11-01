@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://taylorcounty.texas.gov/"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-01T13:45:08Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-11-01T14:34:55Z",
+  "html_sha256": "99844f3218e88237ebf5b27dd6862b270111edcbe90a6e3249cfc9c2d8523424",
+  "text_sha256": "497ecf01add6b3c339cdba7b6c0aac16ccab7818d14e020cb5834c378d8e5eb8",
+  "byte_size": 67003,
+  "title": "Taylor County, TX - Official Website | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

@@ -6,27 +6,24 @@
   "redirect_chain": [
     "https://www.mclennan.gov/337/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-01T13:45:08Z",
-  "html_sha256": "b04490ce3eab281f91373d4e12340b5d779566795a07131f94610b3af1632885",
-  "text_sha256": "2ad563c59479b090fd7f5b8ef858c2565361663136d929ae28bd25c2fe82cfd8",
-  "byte_size": 96947,
-  "title": "Elections | McLennan County, TX",
+  "fetched_at": "2026-11-01T14:34:55Z",
+  "html_sha256": "ad75168d2c5279096a24b5e576b23d8086f69bb4dc327b9aec4bfbb4cd4dfa56",
+  "text_sha256": "80bda08ed762628371094f1e48295d88765b082a6b787d67dc1a39c71911c86f",
+  "byte_size": 3332,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
