@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://elections.mywoodcounty.com/election-information/upcoming-elections/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-01T19:26:01Z",
-  "html_sha256": "29265a025650c57e4d77f7c4d778fb39bc314d1938bc4430163e5e1fe6cfc6b2",
-  "text_sha256": "d1e175d72c1c6dd8ccfb8af2b8d4127cd5c49db9e3e0296720df0a25ab0516a3",
-  "byte_size": 26498,
-  "title": "Upcoming Elections - Wood County, TX Elections",
+  "fetched_at": "2026-11-02T01:15:06Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
