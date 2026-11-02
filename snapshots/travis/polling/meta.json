@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-02T17:20:03Z",
-  "html_sha256": "a7421a7b75a5ab15afd7171d12ee8ce4327a6efc194d67915a8e9f915d32aec2",
+  "fetched_at": "2026-11-02T19:40:09Z",
+  "html_sha256": "1f6400d0f45d82b291464b0b5d8412c698829d8f80667322d695625ecebd0e18",
   "text_sha256": "9e3d0bd6829727933cdde94754d3768f6f18d49587b9d531cbb07c4e0ec8a8e3",
-  "byte_size": 82407,
+  "byte_size": 82800,
   "title": "Current Election – Travis County Clerk",
   "noncitizen_voting": {
     "present": false,
