@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votedenton.gov/election-day-information/election-day-polling-sites/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-02T00:26:07Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-02T10:43:22Z",
+  "html_sha256": "b84f71aa88fcb5685db0bb793236e3de7d41d76b9d1b6be97f83f7af1a153a8d",
+  "text_sha256": "05062a14de3b80f9c067fa05e84156d0533c5dba45215d9e3b5574378c53e0ab",
+  "byte_size": 34928,
+  "title": "Election Day Polling Sites - Denton County, TX Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

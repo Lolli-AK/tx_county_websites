@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votedenton.gov/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-02T00:26:07Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-02T10:43:22Z",
+  "html_sha256": "f6eedf3dcd90a9c547e278d5068bbf2bdcf435fcf6aa96696bd719bb81516836",
+  "text_sha256": "705692c30e944dbc1c0e49e027cbea7ee95584aace7027d2f45a5aa74752b47e",
+  "byte_size": 45596,
+  "title": "Denton County, TX Elections | Elections Information",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

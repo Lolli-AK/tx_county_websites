@@ -33,7 +33,7 @@ Agendas ↗
 Contact
 Election Day
 Starts in
-1d 12h 02m 39s
+1d 01h 58m 37s
 Tuesday, November 3 · 7:00 AM – 7:00 PM · at your precinct polling place
 Details
 Elections
@@ -46,10 +46,11 @@ View
 Your voice matters
 Elections
 Official Maverick County elections information: where and when to vote, what to bring, sample ballots and results.
-General Election · Nov 3, 2026
+Election Day · Tuesday, Nov 3, 2026
 Vote on Tuesday, November 3
-Early voting ended October 30. On Election Day, vote at your precinct's polling place from 7:00 AM to 7:00 PM.
+On Election Day, vote at your precinct's polling place from 7:00 AM to 7:00 PM. Bring your photo ID and preview your sample ballot before you go.
 Find my polling place
+See my sample ballot
 Tuesday, November 3
 7:00 AM – 7:00 PM
 At your precinct's polling place
@@ -68,25 +69,23 @@ Preview your ballot
 Open the sample ballot for your precinct.
 4
 Go vote
-Your precinct's polling place on November 3.
-2026 General Election dates
-Oct 5
-Last day to register
-Passed
-Oct 19 – 30
-Early voting
-Passed
-Oct 23
-Last day to apply for ballot by mail
-Passed
-Nov 3
-Election Day · 7 AM – 7 PM
-Coming up
+Your precinct's polling place on Tuesday, November 3, 7 AM – 7 PM.
+Election Day · 2026 General Election
+When
+Tuesday, November 3
+Hours
+7:00 AM – 7:00 PM
+If you're in line at 7 PM, you can vote
+Where
+Your precinct's polling place
+16 polling places in the county
+What to bring
+Photo ID
+One of the 7 accepted
 On this page
-Early voting
+Nov 3 polling places
 What to bring
 Sample ballots
-Nov 3 polling places
 Contact
 More information
 Election Day
@@ -175,7 +174,7 @@ View on map
 Source: Maverick County Notice of General Election, issued September 9, 2026. If you don't know your precinct, check your voter registration record or call the Elections Department at (830) 206-8351.
 What to bring
 ID to vote in person
-Bring one of these 7 photo IDs. This applies to early voting and Election Day.
+On Election Day, bring one of these 7 photo IDs.
 Acceptable photo IDs
 1
 Texas Driver License (DPS)
@@ -201,8 +200,6 @@ Do I need to bring my voter registration certificate to vote?
 It is not required, but it is highly recommended. In some situations it allows you to vote a regular ballot instead of a provisional ballot. If you lost it, request a replacement from the voter registrar.
 My status says “Suspense.” Can I vote?
 Yes. It means the registrar is not certain of your current residence address — for example, because your certificate or other mail was returned as undeliverable. You can vote by completing a Statement of Residence when you vote within the same county.
-I moved to a new county and missed the deadline. Can I still vote?
-You may be eligible to vote a limited ballot in your new county, only during early voting at the main early voting polling place, as long as you are still registered in your former county. It is not available on Election Day.
 Source: Texas Secretary of State ·
 VoteTexas.gov
 .
@@ -245,11 +242,6 @@ Posted October 16, 2026
 Maverick County Elections Department Has a New Telephone Number
 Please be advised that the Maverick County Elections Department has changed its telephone number. New telephone number: 830-206-8351. Fax number: 830-206-8355. We kindly ask all Maverick County residents, voters, candidates and members of the community to update their contact information accordingly. For any election-related questions, voter registration assistance or general inquiries, please contact our office at our new telephone number.
 View full notice
-Public Notice
-Posted October 15, 2026
-Public Notice of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
-Notice is hereby given that the Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment for the voting system equipment that will be used in the November 03, 2026 General Election will be conducted on Saturday, October 17, 2026 at 3:00 P.M. at the 293rd District Courtroom, 500 Quarry St., Eagle Pass, to ascertain that it will accurately count the votes cast for all offices and on all measures.
-View PDF
 Contact
 Elections Administrator
 Marianna Flores-Garcia
@@ -267,34 +259,6 @@ marianna.flores@co.maverick.tx.us
 More information
 Registration, documents, results and finance
 Tap a topic to open it.
-Early voting and ballot by mail
-October 19 – 30 hours at the Multi-Purpose Center and ballot by mail deadlines.
-Early voting location
-Multi-Purpose Center
-480 S. Adams St.
-Eagle Pass, TX 78852
-Get directions
-Hours
-October 19 – 30, 2026
-Early voting hours at the Multi-Purpose Center
-Dates
-Days
-Hours
-October 19 – 23, 2026
-Mon – Fri
-8:00 AM – 5:00 PM
-October 24, 2026
-Saturday
-7:00 AM – 7:00 PM
-October 25, 2026
-Sunday
-9:00 AM – 3:00 PM
-October 26 – 30, 2026
-Mon – Fri
-7:00 AM – 7:00 PM
-Ballot by mail
-The deadline to apply for a ballot by mail was Friday, October 23, 2026
-If you already have your mail ballot, the last day for it to be received is Tuesday, November 3. Questions? Call the Elections Department at (830) 206-8351.
 Voter registration
 For future elections: eligibility, how to register and how to update your info.
 Registration deadline
@@ -373,7 +337,7 @@ View document
 PDF
 November 3, 2026
 Notice of General Election
-Polling places, early voting hours and ballot by mail
+Election Day polling places and election details
 Issued September 9, 2026 · Filed September 15, 2026
 View document
 PDF

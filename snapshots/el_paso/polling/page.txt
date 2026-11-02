@@ -314,16 +314,6 @@ Dr. Sue A. Shook Elementary School
 Library
 (Biblioteca)
 Map & Details
-EPCC Administrative Services Center
-9050 Viscount Blvd. 79925
-A-Building Foyer
-(Área de Espera de Edificio A)
-Map & Details
-ESC Region 19 Head Start Multipurpose Center
-11670 Chito Samaniego Dr. 79936
-Clint Room
-(Cuarto Clint)
-Map & Details
 Eastside Senior Citizen Center
 3200 Fierro Dr. 79935
 Lobby
@@ -374,10 +364,20 @@ Enrique Moreno County Courthouse
 Third Floor, Back Lobby
 (Tercer Piso, Área de Espera)
 Map & Details
+EPCC Administrative Services Center
+9050 Viscount Blvd. 79925
+A-Building Foyer
+(Área de Espera de Edificio A)
+Map & Details
 Escontrias STEAM Academy
 205 Buford Rd. 79927
 Lobby
 (Área de Espera)
+Map & Details
+ESC Region 19 Head Start Multipurpose Center
+11670 Chito Samaniego Dr. 79936
+Clint Room
+(Cuarto Clint)
 Map & Details
 Esperanza Acosta Moreno Library
 12480 Pebble Hills Blvd. 79938
@@ -429,6 +429,11 @@ Gonzalez Place
 Community Room
 (Cuarto Comunitario)
 Map & Details
+Hanks High School
+2001 N. Lee Trevino Dr. 79936
+Library
+(Biblioteca)
+Map & Details
 H.D. Hilley Elementary School
 693 N. Rio. Vista Rd. 79927
 Gymnasium
@@ -438,16 +443,6 @@ H.E. Charles Middle School
 4909 Trojan Dr. 79924
 Portable #1
 (Portátil #1)
-Map & Details
-H.R. Moye Elementary School
-4825 Alps Dr. 79904
-Multipurpose Room
-(Cuarto de Multiusos)
-Map & Details
-Hanks High School
-2001 N. Lee Trevino Dr. 79936
-Library
-(Biblioteca)
 Map & Details
 Helen Ball Elementary School
 1950 Firehouse Dr. 79936
@@ -469,6 +464,11 @@ Horizon Heights Elementary School
 Foyer
 (Área de Espera)
 Map & Details
+H.R. Moye Elementary School
+4825 Alps Dr. 79904
+Multipurpose Room
+(Cuarto de Multiusos)
+Map & Details
 Hurshel Antwine Middle School
 3830 Rich Beem Blvd. 79938
 Gymnasium
@@ -489,15 +489,15 @@ Judge Edward S. Marquez Library
 Study Room
 (Cuarto de Estudio)
 Map & Details
-KEYS Academy
-12380 Pine Springs Dr. 79928
-Parent Center
-(Centro de Padres)
-Map & Details
 Kennedy Brothers Memorial Recreation Center
 400 S Zaragoza Rd. 79907
 Kennedy Gym
 (Gimnasio Kennedy)
+Map & Details
+KEYS Academy
+12380 Pine Springs Dr. 79928
+Parent Center
+(Centro de Padres)
 Map & Details
 La Fe Montana Vista Community Center
 14618 Greg Dr. 79938
@@ -554,15 +554,15 @@ Nations Tobin Sports Center
 Small Rink
 (Pequeña Pista)
 Map & Details
-O'Shea Keleher Whole Child Academy
-1800 Leroy Bonse Dr. 79936
-Counseling Suite 503
-(Suite de Consejería 503)
-Map & Details
 Officer David Ortiz Recreation Center
 563 N. Carolina Dr. 79915
 Classroom A
 (Salón A)
+Map & Details
+O'Shea Keleher Whole Child Academy
+1800 Leroy Bonse Dr. 79936
+Counseling Suite 503
+(Suite de Consejería 503)
 Map & Details
 Oz Glaze Senior Center
 13969 Veny Webb St. 79928
@@ -624,11 +624,6 @@ Rosa Guerrero Elementary School
 Community Room
 (Cuarto Comunitario)
 Map & Details
-SISD District Service Center
-12440 Rojas Dr. 79928
-TSC Library
-(Biblioteca del TSC)
-Map & Details
 San Juan Senior Center
 5701 Tamburo Ct. 79905
 Classroom
@@ -643,6 +638,11 @@ Sierra Vista Elementary School
 1501 Bob Hope Dr. 79936
 Foyer
 (Área de Espera)
+Map & Details
+SISD District Service Center
+12440 Rojas Dr. 79928
+TSC Library
+(Biblioteca del TSC)
 Map & Details
 South El Paso Senior Citizens Center
 600 S. Ochoa St. 79901
@@ -679,11 +679,6 @@ UTEP–Union Building East
 Acacia Room 120A
 (Cuarto Acacia 120A)
 Map & Details
-W.E. Neill Community Center
-19210 Cobb Ave. 79853
-Library
-(Biblioteca)
-Map & Details
 Wayne Thornton Community Center at Grandview
 3134 Jefferson Ave. 79930
 Classroom
@@ -693,6 +688,11 @@ Wellington Chew Senior Center
 4430 Maxwell Ave. 79904
 Classroom
 (Salón)
+Map & Details
+W.E. Neill Community Center
+19210 Cobb Ave. 79853
+Library
+(Biblioteca)
 Map & Details
 Western Hills U.M.C.-Stewart Family Life Center A
 524 Thunderbird Dr. 79912
@@ -719,6 +719,11 @@ YISD Central Office
 Tigua Room
 (Cuarto Tigua)
 Map & Details
+Ysleta ISD Fine Arts
+8455 Alameda Ave. 79907
+Gallery
+(Galería)
+Map & Details
 YWCA-Central
 1600 Brown St. 79902
 Program Offices Room
@@ -739,18 +744,13 @@ YWCA-West
 Program Offices Room
 (Cuarto de Oficinas de Programa)
 Map & Details
-Ysleta ISD Fine Arts
-8455 Alameda Ave. 79907
-Gallery
-(Galería)
-Map & Details
 Zach White Elementary School
 4256 Roxbury Dr. 79922
 Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
 541,726
-Registered voters as of Sunday, November 1, 2026
+Registered voters as of Monday, November 2, 2026
 Are You Registered?
 Every Voice Makes an Impact.
 Every Vote Makes a Difference.

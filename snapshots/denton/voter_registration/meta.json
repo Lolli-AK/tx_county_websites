@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.votedenton.gov/voter-information/voter-registration/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-02T00:26:07Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-02T10:43:22Z",
+  "html_sha256": "81e7c6379bfb9f257f71206729e07f364557770be4a1e39dca6f78fc24044657",
+  "text_sha256": "16479aa4e4261f4f88414a32de31cd933fc3894a5e77b1d351b9682653c4c883",
+  "byte_size": 35252,
+  "title": "Voter Registration - Denton County, TX Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

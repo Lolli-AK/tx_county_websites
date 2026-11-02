@@ -6,24 +6,28 @@
   "redirect_chain": [
     "https://www.rockwallvotes.com/voter-information/ballot-by-mail/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-02T01:15:06Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-02T10:43:22Z",
+  "html_sha256": "23876c6ea59de3e8d68ae2d2107fe0d6c9c0aa29e9a6d69e5fb2ad8636d9126c",
+  "text_sha256": "b8df1d63266d84f9b745b99f9cdcd11b81d791df94b0da31752dc2ff9962d143",
+  "byte_size": 29046,
+  "title": "Ballot by Mail Application - Rockwall County, TX Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 12
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

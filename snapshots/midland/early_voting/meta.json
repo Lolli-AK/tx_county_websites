@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://votemidlandtx.gov/election-information/current-upcoming-elections/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-02T00:26:07Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-02T10:43:22Z",
+  "html_sha256": "13b51d4031dc48b9c23777d75fa0e8585814116ffb3a0191c4b8ea23cdc778dc",
+  "text_sha256": "4e9ae42fe1749776b3513a42cc35c64fd7319fd6c6164a32346e585a42e49b3e",
+  "byte_size": 110790,
+  "title": "Current/Upcoming Elections – Midland County, TX Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 4
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

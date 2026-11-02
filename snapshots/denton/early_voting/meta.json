@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.votedenton.gov/election-day-information/current-and-upcoming-election-information/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-02T00:26:07Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-02T10:43:22Z",
+  "html_sha256": "d6524d93570ac1103b74321144bfac0704d302cb961dac8ae842c60ce711807a",
+  "text_sha256": "9b87fcbf471517fc10fb842608d4cc96ee1582501c09e003b05b9bfef25f65bf",
+  "byte_size": 36308,
+  "title": "Current and Upcoming Election Information - Denton County, TX Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

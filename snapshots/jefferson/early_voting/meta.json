@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.jeffcotxvotes.gov/event/early-voting-november-election-8/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-02T00:26:07Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-02T10:43:22Z",
+  "html_sha256": "5bdb2adaa017934654ee0868bd7b02b10b363ae755545f7a9efb36aacd80c346",
+  "text_sha256": "fa4975829b64a8d91fb027b922695d3f068661d25044c1aa326b6ba018e50e04",
+  "byte_size": 125038,
+  "title": "Early Voting – November Election – Jefferson County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
