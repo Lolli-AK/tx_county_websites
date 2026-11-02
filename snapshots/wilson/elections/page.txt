@@ -269,6 +269,8 @@ MAIL
 IN PERSON
 /
 MAIL
+10.31.26 NO MAIL
+11.01.26 NO MAL
 Election Day Roster:
 11.03.26 IN PERSON / MAIL
 Ballot By Mail
@@ -1700,6 +1702,8 @@ Oct 31, 2025
 CTA
 Marcus Hurd
 Commissioner Pct 4
+Oct 26, 2026
+8th Day Before Election
 May 18, 2026
 8th Day Before Election
 Jan 15, 2026

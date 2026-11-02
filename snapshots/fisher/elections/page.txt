@@ -10,11 +10,6 @@ Quicklinks
 Toggle main menu visibility
 Menu
 Home
-Birth Death Certificates
-Election Page
-Guardianships
-Marriage License
-VOTER Registration
 County Offices
 County Judge
 County Commissioners
@@ -27,10 +22,22 @@ County Attorney
 County Clerk
 Forms
 County Treasurer
+Investment Policy
+Treasurer Reports
 County Tax Assessor/Collector
 County Auditor
 Procurement
+Financial Transparency
+Audit Information
+Budgets
+Conflict of Interest
+Financial Report
+Statement of Financial Condition
+Tax Rate
+Utility Reports
+Vendor Registration
 Sheriff
+Law Enforcement Center
 Justice of The Peace
 Emergency Management
 District Court
@@ -41,25 +48,17 @@ District Attorney
 Other County Offices
 Probation Office
 Extension Office
-Financial Transparency
-Investment Policy
-Budgets
-Financial Report
-Tax Rate
-Treasurer Reports
-Audit Information
-Utility Reports
-Statement of Financial Condition
-Conflict of Interest
-Vendor Registration
-Public Notices & News
-Public Information
-Public Notices
+Birth Death Certificates
 Career Opportunities
-Law Enforcement Center
+County Court Dockets
+Election Page
+Guardianships
+Marriage License
 Posted Notices
 Probate Civil
-County Court Dockets
+Public Notices & News
+Public Information
+VOTER Registration
 Contact Us
 VOTER
 Registrar
