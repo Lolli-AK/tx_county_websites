@@ -141,6 +141,53 @@ To use curbside voting, please park in the designated curbside space and call or
 Note:
 Rain or other inclement weather may delay curbside voting since the equipment cannot get wet.
 Registered Voters
+Election Results & Notices
+Unofficial Results are posted after votes are tallied on Election Night. Official Results are updated after the Canvass. Please choose an Election from the list on the RESULTS link.
+RESULTS
+Unofficial Reconciliation Form
+Official Reconciliation Form
+Election Notices:
+Gregg County Appraisal District
+:
+GCAD Election Order
+(Opens PDF)
+Notice of Ballot Draw
+(Opens PDF)
+Ballot Draw Results
+(Opens PDF)
+Notice of Election
+(Opens PDF)
+Sabine ISD
+:
+Trustee election order
+(Opens PDF)
+(will cancel election)
+VATRE election order
+(Opens PDF)
+Gregg County:
+Governor’s Proclamation
+(Opens PDF)
+Gregg County Order
+(Opens PDF)
+Notice of Election
+(Opens PDF)
+Notice of Training
+(Opens PDF)
+Notice of County Election Board Meeting
+(Opens PDF)
+Notice of L&A Test
+(Opens PDF)
+Results of Hash Comparison
+(Opens PDF)
+Notice of Poll Book Test
+(Opens PDF)
+Results of Pollbook Test
+(Opens PDF)
+Notice of Ballot Board Meeting
+(Opens PDF)
+Notice of Canvass
+Notice of Post Election Hand Count Audit
+Results of PEHCA
 Daily Voter Check-in Rosters
 This site works best with Google Chrome.
 Daily Voter Turnout
@@ -183,52 +230,6 @@ As of 10-20-26
 Daily Early Voter Turnouts will be on the Secretary of State’s
 Website
 .
-Election Results & Notices
-Unofficial Results are posted after votes are tallied on Election Night. Official Results are updated after the Canvass. Please choose an Election from the list on the RESULTS link.
-RESULTS
-Unofficial Reconciliation Form
-Official Reconciliation Form
-Election Notices:
-Gregg County Appraisal District
-:
-GCAD Election Order
-(Opens PDF)
-Notice of Ballot Draw
-(Opens PDF)
-Ballot Draw Results
-(Opens PDF)
-Notice of Election
-(Opens PDF)
-Sabine ISD
-:
-Trustee election order
-(Opens PDF)
-(will cancel election)
-VATRE election order
-(Opens PDF)
-Gregg County:
-Governor’s Proclamation
-(Opens PDF)
-Gregg County Order
-(Opens PDF)
-Notice of Election
-(Opens PDF)
-Notice of Training
-(Opens PDF)
-Notice of County Election Board Meeting
-(Opens PDF)
-Notice of L&A Test
-(Opens PDF)
-Results of Hash Comparison
-(Opens PDF)
-Notice of Poll Book Test
-(Opens PDF)
-Results of Pollbook Test
-Notice of Ballot Board Meeting
-(Opens PDF)
-Notice of Canvass
-Notice of Post Election Hand Count Audit
-Results of PEHCA
 What’s New
 Notice of Photo ID Required
 Notice of Voting Priority
