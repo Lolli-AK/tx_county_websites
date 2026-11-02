@@ -2,20 +2,19 @@
   "county": "Dallas",
   "page_type": "polling",
   "requested_url": "https://www.dallascountyvotes.org/vote-centers/",
-  "final_url": "https://experience.arcgis.com/experience/8204fc2e36cd4fac8729efcedd4fda7f/page/Page?views=Early-Voting",
+  "final_url": "https://www.dallascountyvotes.org/vote-centers/",
   "redirect_chain": [
-    "https://www.dallascountyvotes.org/vote-centers/",
-    "https://experience.arcgis.com/experience/8204fc2e36cd4fac8729efcedd4fda7f/page/Page?views=Early-Voting"
+    "https://www.dallascountyvotes.org/vote-centers/"
   ],
-  "http_status": 200,
-  "content_type": "text/html",
+  "http_status": 405,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-01T19:26:01Z",
-  "html_sha256": "4678dc72c8d89f98af76437cc90f26243ca0003481503fe733bef4cd36b6e661",
-  "text_sha256": "dd99a464aa84776781b9ad56c05bfe67525e9f22cded603ca8c49c6cb22e6d2f",
-  "byte_size": 10580,
-  "title": "Vote Center Finder 3.0",
+  "fetched_at": "2026-11-02T00:26:07Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

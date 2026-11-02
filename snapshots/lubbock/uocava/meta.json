@@ -6,29 +6,24 @@
   "redirect_chain": [
     "https://votelubbock.gov/voting-information/military-overseas/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-01T19:26:01Z",
-  "html_sha256": "e9bda48fe410cd36caf777ecf7774f3724747f9656d8ea657087d434a277a625",
-  "text_sha256": "9bd5c9279d98e47244ab13ee12fa1683e008237b820980d81e0519ff6cfb4bbb",
-  "byte_size": 26768,
-  "title": "Lubbock County, TX Elections",
+  "fetched_at": "2026-11-02T00:26:07Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 29
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

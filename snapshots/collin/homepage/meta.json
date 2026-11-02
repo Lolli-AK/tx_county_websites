@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.collincountytx.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-01T19:26:01Z",
-  "html_sha256": "ceabd26a7bb0258ba10f1638dfc8d78c523121e7851f4ddcdc77c01676ec4fd6",
-  "text_sha256": "3d38cddf0f574bea1bbc982c0a2114a91188d77dd4b2209e998dd7c81fee9b2c",
-  "byte_size": 22098,
-  "title": "Collin County Government",
+  "fetched_at": "2026-11-02T00:26:07Z",
+  "html_sha256": "2ee3620bca45570b4082d02e113fd7e6aa62b18b5e1e7712dce24a68f6f82b2b",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 278,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
