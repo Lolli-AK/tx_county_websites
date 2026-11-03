@@ -1,8 +1,10 @@
 McLennan County, TX | Official Website
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
 Website Sign In
+Accessible Menu
 Government
 County Services
 Safety & Justice
@@ -107,25 +109,31 @@ of I-35.
 * WHEN...From 4 PM CDT this afternoon through Friday morning.
 * IMPACTS...Excessive runoff may...
 View All
+Emergency Alerts
 /Calendar.aspx
 News & Events
 Keep up to date with upcoming events and meetings
 Notice of Adopted 2026 Tax Rate (PDF)
 Road Closures in McLennan County
 Read on...
+about
 County Notices and Public Service Announcements
 View County Notices and Public Service Announcements
 Read More
+about
 Covid-19 Resources
 View Related Information
 Create an Account
 With the MyAccount feature, you can customize your viewing experience, sign up for notifications, and engage in information you care about.
 Read More
+about
 McLennan County Five Year Tax History
 View Tax History
+about
 View All News
 /CivicAlerts.aspx
 November 2026
+Calendar
 Sun
 Mon
 Tue
@@ -178,6 +186,16 @@ Thanksgiving - County Offices Closed
 Read More
 View All Events
 /Calendar.aspx
+McLennan County
+Video Tour
+Tour Chapters ▼
+Welcome
+Economic Development
+Recruitment
+Quality of Life
+Entertainment & Tourism
+Education
+Community Organizations
 Visit the McLennan County Historical Commission's Website
 McLennan County Spotlight Video
 Captions for the spotlight video are viewable within the full screen video player.
@@ -190,6 +208,7 @@ Waco, TX 76701
 Department Contacts
 Phone:
 254-757-5000
+Phone Number
 Helpful Links
 Bond Office Questions
 County Budget Information
@@ -212,3 +231,4 @@ Loading
 Do Not Show Again
 Close
 []
+Explore your accessibility options

@@ -6,15 +6,15 @@
   "redirect_chain": [
     "http://www.elliscountytx.gov/312/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T20:50:26Z",
-  "html_sha256": "8af185f9c4bb148828ab3f25f20bdd9c54c2a8fb11268f0c29767cb3078d2a82",
-  "text_sha256": "9b2118b019dc8c01a37425e3195a1e0b029d41f2dbe6f4c1a9b05354856a1c7f",
-  "byte_size": 69765,
-  "title": "Elections | Ellis County, TX Official Website",
+  "fetched_at": "2026-11-03T21:30:40Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.bosquecounty.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T20:50:26Z",
-  "html_sha256": "b7bca9f38b8760da115db3b46456605441c9aef0e3eb3f6b03bad003d670869c",
-  "text_sha256": "2208e2f5a92ecde4a8d132819ada0fae5c857c87b4ccd71aeb437c16fb3ec1c7",
-  "byte_size": 60212,
-  "title": "Bosque County, TX | Official Website",
+  "fetched_at": "2026-11-03T21:30:40Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

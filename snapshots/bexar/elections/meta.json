@@ -2,20 +2,19 @@
   "county": "Bexar",
   "page_type": "elections",
   "requested_url": "https://www.bexar.org/elections",
-  "final_url": "https://www.bexar.org/1568/Elections-Department",
+  "final_url": "https://www.bexar.org/elections",
   "redirect_chain": [
-    "https://www.bexar.org/elections",
-    "https://www.bexar.org/1568/Elections-Department"
+    "https://www.bexar.org/elections"
   ],
-  "http_status": 404,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": null,
+  "content_type": null,
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T20:50:26Z",
-  "html_sha256": "8e8e662048a332a6ac9ece9f0b8fc6ed62293a848f43133dfb13d25033854cd5",
-  "text_sha256": "d93e34bd716933a43f3a14737af6e842da62c505daa73799a5f2ab797addaac4",
-  "byte_size": 695,
-  "title": "404 - File or directory not found.",
+  "fetched_at": "2026-11-03T21:30:40Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

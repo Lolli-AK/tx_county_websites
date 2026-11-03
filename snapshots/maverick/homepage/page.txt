@@ -33,7 +33,7 @@ Agendas ↗
 Contact
 Vote Today · Polls Open
 Polls close in
-03h 47m 46s
+02h 45m 14s
 Today 7:00 AM – 7:00 PM · at your precinct polling place
 Details
 Elections
@@ -90,11 +90,11 @@ Today is Election Day · polls close in
 Polls are open until 7:00 PM
 0
 Days
-03
+02
 Hours
-47
+45
 Min
-46
+14
 Sec
 Now
 Election Day
@@ -209,7 +209,7 @@ Sign Up
 80°
 F
 Weather · Eagle Pass
-Clear
+View forecast
 Official portal · Transparency
 Commissioners Court Agendas
 Access agendas, minutes, recordings and official notices for every Maverick County Commissioners Court session. All public information from the county's governing body, in one place.

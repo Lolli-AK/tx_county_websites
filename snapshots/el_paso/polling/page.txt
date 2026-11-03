@@ -175,7 +175,7 @@ Next to Claire's
 (Al Lado de Claire's)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 Benito Martinez Elementary School
 2640 Robert Wynn St. 79936
 Library
@@ -329,7 +329,7 @@ Gymnasium
 (Gimnasio)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Desert Hills Elementary School
 300 N. Kenazo Dr. 79928
 Main Hallway
@@ -448,14 +448,14 @@ Club House
 (Casa Club)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Enrique Moreno County Courthouse
 500 E. San Antonio Ave. 79901
 Third Floor, Back Lobby
 (Tercer Piso, Área de Espera)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 EPCC Administrative Services Center
 9050 Viscount Blvd. 79925
 A-Building Foyer
@@ -532,7 +532,7 @@ System Integration Room
 (Cuarto de Integración de Sistemas)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Gary del Palacio Recreation Center
 3001 Parkwood St. 79925
 Multipurpose Room
@@ -546,7 +546,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Hanks High School
 2001 N. Lee Trevino Dr. 79936
 Library
@@ -840,7 +840,7 @@ Foyer
 (Área de Espera)
 Map & Details
 Current Wait Time:
-More Than 30 Minutes
+20 - 30 Minutes
 SISD District Service Center
 12440 Rojas Dr. 79928
 TSC Library
