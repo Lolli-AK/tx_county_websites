@@ -329,7 +329,7 @@ Gymnasium
 (Gimnasio)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Desert Hills Elementary School
 300 N. Kenazo Dr. 79928
 Main Hallway
@@ -490,7 +490,7 @@ Pool Room
 (Cuarto de Billar)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Family Youth Services Center
 6314 Delta Dr. 79905
 Lobby
@@ -546,7 +546,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Hanks High School
 2001 N. Lee Trevino Dr. 79936
 Library
@@ -679,7 +679,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Marty Robbins Recreation Center
 11620 Vista Del Sol Dr. 79936
 Lobby
@@ -756,7 +756,7 @@ Portable
 (Portátil)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Paul C. Moreno Elementary School
 2300 San Diego Ave. 79930
 Multipurpose Room
@@ -840,7 +840,7 @@ Foyer
 (Área de Espera)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+More Than 30 Minutes
 SISD District Service Center
 12440 Rojas Dr. 79928
 TSC Library

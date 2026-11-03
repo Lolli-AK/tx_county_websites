@@ -2,31 +2,29 @@
   "county": "Bexar",
   "page_type": "elections",
   "requested_url": "https://www.bexar.org/elections",
-  "final_url": "https://elections.bexar.gov",
+  "final_url": "https://www.bexar.org/1568/Elections-Department",
   "redirect_chain": [
     "https://www.bexar.org/elections",
-    "https://elections.bexar.gov"
+    "https://www.bexar.org/1568/Elections-Department"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 404,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-03T19:54:59Z",
-  "html_sha256": "f3c06edf5eecff410855576be6c7d77a57c42e930f2805c916dfdfd02490965f",
-  "text_sha256": "c5cc839a81b10de83edcdf95c9c841baffc9f31dba1099534937e1dcf7bc5f4a",
-  "byte_size": 103339,
-  "title": "Bexar County Elections, TX | Official Website",
+  "fetched_at": "2026-11-03T20:50:26Z",
+  "html_sha256": "8e8e662048a332a6ac9ece9f0b8fc6ed62293a848f43133dfb13d25033854cd5",
+  "text_sha256": "d93e34bd716933a43f3a14737af6e842da62c505daa73799a5f2ab797addaac4",
+  "byte_size": 695,
+  "title": "404 - File or directory not found.",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }
