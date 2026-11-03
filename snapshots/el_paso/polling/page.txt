@@ -238,7 +238,7 @@ The People's Place
 (El Lugar de la Gente)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Carroll T. Welch Elementary School
 14510 McMahon Ave. 79928
 Portable #3
@@ -266,7 +266,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 City of San Elizario Municipal Court
 12004 Socorro Rd. Suite B, 79849
 Council Chambers
@@ -434,7 +434,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 El Paso County Northwest Annex
 435 E. Vinton Rd. 79821
 Community Room
@@ -728,7 +728,7 @@ Classroom A
 (Salón A)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 O'Shea Keleher Whole Child Academy
 1800 Leroy Bonse Dr. 79936
 Counseling Suite 503
@@ -840,7 +840,7 @@ Foyer
 (Área de Espera)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 SISD District Service Center
 12440 Rojas Dr. 79928
 TSC Library
