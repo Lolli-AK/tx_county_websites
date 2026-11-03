@@ -175,7 +175,7 @@ Next to Claire's
 (Al Lado de Claire's)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Benito Martinez Elementary School
 2640 Robert Wynn St. 79936
 Library
@@ -273,7 +273,7 @@ Council Chambers
 (Consejo de Cámaras)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Clint Junior High School
 12625 Alameda Ave. 79836
 Library Conference Room
@@ -455,7 +455,7 @@ Third Floor, Back Lobby
 (Tercer Piso, Área de Espera)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 EPCC Administrative Services Center
 9050 Viscount Blvd. 79925
 A-Building Foyer
@@ -532,7 +532,7 @@ System Integration Room
 (Cuarto de Integración de Sistemas)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Gary del Palacio Recreation Center
 3001 Parkwood St. 79925
 Multipurpose Room
@@ -679,7 +679,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Marty Robbins Recreation Center
 11620 Vista Del Sol Dr. 79936
 Lobby
@@ -728,7 +728,7 @@ Classroom A
 (Salón A)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 O'Shea Keleher Whole Child Academy
 1800 Leroy Bonse Dr. 79936
 Counseling Suite 503
@@ -896,7 +896,7 @@ Acacia Room 120A
 (Cuarto Acacia 120A)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+More Than 30 Minutes
 Wayne Thornton Community Center at Grandview
 3134 Jefferson Ave. 79930
 Classroom

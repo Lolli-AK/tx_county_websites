@@ -1,5 +1,4 @@
 Voter Registration Information | Ellis County, TX Official Website
-Loading
 Skip to Main Content
 Public Notice...
 EFFECTIVE IMMEDIATELY ELLIS COUNTY IS NOT UNDER A BURN BAN
@@ -156,9 +155,9 @@ Privacy Policy
 /QuickLinks.aspx
 Government Websites by
 CivicPlus®
-Enable Google Translate
 Loading
 Loading
 Do Not Show Again
 Close
 //Add these styles please:
+[]
