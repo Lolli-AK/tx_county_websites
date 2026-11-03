@@ -385,7 +385,7 @@ Library
 (Biblioteca)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Eastside Senior Citizen Center
 3200 Fierro Dr. 79935
 Lobby
@@ -434,7 +434,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-More Than 30 Minutes
+20 - 30 Minutes
 El Paso County Northwest Annex
 435 E. Vinton Rd. 79821
 Community Room
@@ -448,7 +448,7 @@ Club House
 (Casa Club)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Enrique Moreno County Courthouse
 500 E. San Antonio Ave. 79901
 Third Floor, Back Lobby
@@ -483,7 +483,7 @@ Meeting Room
 (Cuarto de Juntas)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+More Than 30 Minutes
 Fabens Community Center
 201 NW Camp St. 79838
 Pool Room
@@ -539,7 +539,7 @@ Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Gonzalez Place
 4101 Rich Beem Blvd. 79938
 Community Room
@@ -616,7 +616,7 @@ Teacher’s Lounge
 (Área de Maestros)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Jose J. Alderete Middle School
 801 Talbot Ave. 79835
 Entry Foyer
@@ -693,7 +693,7 @@ Classroom
 (Salón)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Mesita Elementary School
 3307 N. Stanton St. 79902
 Library
@@ -756,7 +756,7 @@ Portable
 (Portátil)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Paul C. Moreno Elementary School
 2300 San Diego Ave. 79930
 Multipurpose Room
@@ -882,7 +882,7 @@ By the Food Court, Next to Book Nook
 (Por el Patio de Comidas, al Lado del Book Nook)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+More Than 30 Minutes
 Tippin Elementary School
 6541 Bear Ridge Dr. 79912
 Community Room

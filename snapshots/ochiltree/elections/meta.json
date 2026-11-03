@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T22:30:01Z",
-  "html_sha256": "318fd33190529879974b1b01a0aad64f5f839f1cf19174af24f09c89c399b834",
+  "fetched_at": "2026-11-03T22:39:04Z",
+  "html_sha256": "172ab8bc2c9edcaa29424ede2d39f3b30fbea869c0ec2d2630f26bbe080b90bb",
   "text_sha256": "2139e2ce80fd3d472b0260755892bf3a02d605db0ff566cdae0dc3a75ed19ca6",
-  "byte_size": 382906,
+  "byte_size": 382907,
   "title": "Ochiltree County, Texas",
   "noncitizen_voting": {
     "present": false,

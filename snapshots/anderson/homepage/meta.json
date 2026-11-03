@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T21:30:40Z",
-  "html_sha256": "1899991c6d187a2a8f5bc11199f300f3affacd457f82b75b3ed214e37e1cb2cb",
+  "fetched_at": "2026-11-03T22:39:04Z",
+  "html_sha256": "e6eeb3ef9396387a171bb430a92e231da5b28f954cf4e6de588a9a0160da9b5d",
   "text_sha256": "67971a056b07cd8673cc6af76aad786203894754a22cbbe7deb1f18d48233263",
-  "byte_size": 47292,
+  "byte_size": 47437,
   "title": "Anderson County, Texas",
   "noncitizen_voting": {
     "present": false,

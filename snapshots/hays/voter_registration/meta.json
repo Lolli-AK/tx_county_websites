@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.hayscountytx.gov/265/Voter-Registration"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T21:30:40Z",
-  "html_sha256": "694a994e6ebe6cbb28b2186feb32aa656672623f82cd29f6ad39e65dc88533ae",
-  "text_sha256": "d44c878b16cb238c3c267f979438cd2a940ab62532af72961dde5e9cda9b23a4",
-  "byte_size": 1003,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-03T22:39:04Z",
+  "html_sha256": "c249470e6a95a02767fd986342c517de4de9634ff46108581102e7feb67a328c",
+  "text_sha256": "219bf089ebaf357af716fa822dccecb24626001493852758cfbe408b3231013c",
+  "byte_size": 54380,
+  "title": "Voter Registration | Hays County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content; headless_error: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.hayscountytx.gov/265/Voter-Registration\", waiting until \"domcontentloaded\"\n"
+  "error": null
 }
