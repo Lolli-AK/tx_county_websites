@@ -434,7 +434,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 El Paso County Northwest Annex
 435 E. Vinton Rd. 79821
 Community Room
@@ -532,7 +532,7 @@ System Integration Room
 (Cuarto de Integración de Sistemas)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Gary del Palacio Recreation Center
 3001 Parkwood St. 79925
 Multipurpose Room
@@ -658,7 +658,7 @@ Foyer
 (Área de Espera)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+More Than 30 Minutes
 Loma Terrace Elementary School
 8200 Ryland Dr. 79907
 Cottage in Parking Lot
@@ -686,7 +686,7 @@ Lobby
 (Área de Espera)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 Memorial Park Senior Citizen Center
 1800 Byron St. 79930
 Classroom
@@ -840,7 +840,7 @@ Foyer
 (Área de Espera)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+10 - 20 Minutes
 SISD District Service Center
 12440 Rojas Dr. 79928
 TSC Library
@@ -882,7 +882,7 @@ By the Food Court, Next to Book Nook
 (Por el Patio de Comidas, al Lado del Book Nook)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Tippin Elementary School
 6541 Bear Ridge Dr. 79912
 Community Room
@@ -896,7 +896,7 @@ Acacia Room 120A
 (Cuarto Acacia 120A)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Wayne Thornton Community Center at Grandview
 3134 Jefferson Ave. 79930
 Classroom

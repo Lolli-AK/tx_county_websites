@@ -142,16 +142,19 @@ Note:
 Rain or other inclement weather may delay curbside voting since the equipment cannot get wet.
 Registered Voters
 Election Results & Notices
+RESULTS:
 Unofficial Results
-are posted after votes are tallied on Election Night.
+will be posted on Election Night
+all-at-once
+after ALL polling locations have reported.
 Official Results
 are updated after the Canvass. Please choose an Election from the list on the RESULTS link.
 RESULTS
 :  Select
 “2026 GENERAL”.
-Results will be posted all at once after all polling locations have reported.
 Unofficial Reconciliation Form
 Official Reconciliation Form
+Statewide Results
 Election Notices:
 Gregg County Appraisal District
 :

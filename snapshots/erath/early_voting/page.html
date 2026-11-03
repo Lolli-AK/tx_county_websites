@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" lang="en">
+<html lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -16,17 +16,10 @@
   <meta content="Find the current voting locations, sample ballots and results." name="description"/>
   <meta content="election,elections,results,voting," name="keywords"/>
  </head>
- <body class="wide ae-current-elections-h1" data-audioeye-device-desktop="" data-audioeye-launcher="">
-  <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
-   <div>
-    <p data-modulename="launcher">
-     This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
-    </p>
-   </div>
-  </div>
+ <body class="wide">
   <div class="cp-PopOver cp-PopOver--modal cp-RANDOM" id="popoverModal">
    <div class="cp-PopOver-header">
-    <h3 aria-hidden="true" class="cp-PopOver-title" role="presentation" tabindex="-1">
+    <h3 class="cp-PopOver-title">
     </h3>
     <button class="cp-Btn cp-PopOver-close" onclick="closePopOverModal(event)">
     </button>
@@ -42,12 +35,12 @@
   </div>
   <div id="fb-root">
   </div>
-  <div aria-hidden="true" class="ae-exclude" id="skipToContentLinks" role="presentation" tabindex="-1">
-   <a aria-hidden="true" class="skipToContentLink ae-exclude" href="#ccGUID" role="presentation" tabindex="-1" target="_self">
+  <div id="skipToContentLinks">
+   <a class="skipToContentLink" href="#ccGUID" target="_self">
     Skip to Main Content
    </a>
   </div>
-  <form id="frmReferenceFormForTelerikEditorDialogs" role="presentation">
+  <form id="frmReferenceFormForTelerikEditorDialogs">
   </form>
   <input id="GoogleMapsKey" type="hidden"/>
   <input id="cpcDomain" type="hidden"/>
@@ -73,7 +66,7 @@
          - Manage notification subscriptions, save form progress and more.
         </span>
        </p>
-       <ul class="nav secondary" role="presentation">
+       <ul class="nav secondary">
         <li>
          <a class="button" href="/MyAccount" id="loggedOutToolbarSignInButton">
           Website Sign In
@@ -104,10 +97,10 @@
              <div class="row nest first last wide">
               <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
-                <section class="widget widgetSearch skin60 widgetOptionSet49" id="widgetPreviewSearch">
+                <section aria-label="Search" class="widget widgetSearch skin60 widgetOptionSet49" id="widgetPreviewSearch">
                  <div class="widgetBody buttonRightInside">
-                  <input aria-label="Search Site" class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search…" type="text" value=""/>
-                  <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon">
+                  <input class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search…" type="text" value=""/>
+                  <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon" role="button">
                    <img alt="Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=4255" data-image="/ImageRepository/Document?documentID=4256" src="/ImageRepository/Document?documentID=4256"/>
                   </a>
                   <label aria-hidden="true" class="searchLabel" for="searchFieldGUID">
@@ -122,7 +115,7 @@
            </div>
           </div>
          </div>
-         <nav aria-label="Main" class="siteNav mainNav" data-cprole="nav" id="mainNav" role="navigation">
+         <nav class="siteNav mainNav" data-cprole="nav" id="mainNav" role="navigation">
           <ol class="rootNavMenu" data-parent="1" id="mainNavMenu" role="menu">
            <li class="topMenuItem" data-displaymegamenu="True" data-pageid="27" id="MainItem27" role="none">
             <a aria-controls="mainNavMegaMenu27" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem1" href="/27/Government" id="mainNavGovernment" role="menuitem" target="_self">
@@ -150,26 +143,26 @@
             </a>
            </li>
           </ol>
-          <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu" role="presentation">
+          <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu">
            <input id="megaMenuPopupDirection" type="hidden"/>
            <input id="megaMenuWidthReference" type="hidden"/>
-           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27">
+           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="menu">
             <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
             </div>
            </aside>
-           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101">
+           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101" role="menu">
             <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
             </div>
            </aside>
-           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35">
+           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="menu">
             <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
             </div>
            </aside>
-           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31">
+           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu31" role="menu">
             <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
             </div>
            </aside>
-           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9">
+           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="menu">
             <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
             </div>
            </aside>
@@ -195,7 +188,7 @@
         <div class="mainWrap" data-cprole="structuralContainer" id="mainWrapTS" role="main">
          <div class="outerContentWrap" data-cprole="structuralContainer" id="outerContentWrapTS">
           <div class="contentWrap" data-cprole="structuralContainer" id="contentWrapTS">
-           <div aria-label="Breadcrumb" class="breadCrumbContainer" data-cprole="breadCrumbs" id="breadCrumbs" role="navigation">
+           <div class="breadCrumbContainer" data-cprole="breadCrumbs" id="breadCrumbs">
             <ol class="semanticList breadCrumbs">
              <li>
               <a class="breadCrumb" href="/">
@@ -213,7 +206,7 @@
               </a>
              </li>
              <li data-pageid="186" id="currentBCPage">
-              <a aria-current="page" class="breadCrumb" href="" role="button" tabindex="0">
+              <a aria-current="page" class="breadCrumb" href="">
                Current Elections
               </a>
              </li>
@@ -279,9 +272,8 @@
                    <div class="widgetBody pageStyles" id="widgetBodyGUID">
                     <div id="customHtmlGUID">
                      <div>
-                      <a aria-describedby="audioeye_new_window_message" class="countdown-timer countdown-active" data-background="#39ff14" data-date="2026-11-03 07:00" data-style="circles" data-timezone="America/Chicago" href="https://logwork.com/countdown-x5ym" id="time_countdown_420001" target="_blank">
-                       <div id="ovd_420001">
-                       </div>
+                      <a class="countdown-timer" data-background="#39ff14" data-date="2026-11-03 07:00" data-style="circles" data-timezone="America/Chicago" href="https://logwork.com/countdown-x5ym">
+                       Countdown to November 3rd Election
                       </a>
                      </div>
                     </div>
@@ -297,7 +289,7 @@
                  <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                   <section aria-labelledby="headerGUID" class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"March 3, 2026 Primary","DocumentIDs":"6341,6381,6384,6505,","FolderIds":",","SortedDocumentIds":"4671,4587,4588,4593,4655,4584,4585,4586,4574,"},{"Title":"May 2, 2026 City/School","DocumentIDs":"6394,6395,6396,6401,6471,6470,6469,6468,6467,6466,6465,6464,6493,6508,6554,6558,6598,","FolderIds":",","SortedDocumentIds":""},{"Title":"May 26, 2026 Primary Runoff","DocumentIDs":"6583,6601,","FolderIds":",","SortedDocumentIds":""},{"Title":"November 3, 2026 Mid Term","DocumentIDs":"6757,6798,6799,6807,6806,6810,6816,6815,6823,6845,6850,6907,6906,6905,6904,6911,6925,6924,6923,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
                    <div class="relatedDocuments" id="divRelatedDocuments_GUID">
-                    <header class="widgetHeader" id="headerGUID" role="presentation">
+                    <header class="widgetHeader" id="headerGUID">
                      <div>
                       <h2>
                        Erath County Notice of Election
@@ -313,22 +305,22 @@
                        <div class="first last">
                         <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="6384">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 Joint Resolution (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6384/2026-03-Joint-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-03 Joint Resolution (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6384/2026-03-Joint-RANDOM-PDF" target="_blank">
                            2026-03 Joint Resolution (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6341">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 Notice of Election En-Es (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6341/2026-03-Notice-of-RANDOM-En-Es-PDF" target="_blank">
+                          <a aria-label="2026-03 Notice of Election En-Es (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6341/2026-03-Notice-of-RANDOM-En-Es-PDF" target="_blank">
                            2026-03 Notice of Election En-Es (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6381">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 Public L&amp;A (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6381/2026-03-Public-LA-PDF" target="_blank">
+                          <a aria-label="2026-03 Public L&amp;A (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6381/2026-03-Public-LA-PDF" target="_blank">
                            2026-03 Public L&amp;A (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6505">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 Republican Canvass (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6505/2026-03-RANDOM-Canvass-PDF" target="_blank">
+                          <a aria-label="2026-03 Republican Canvass (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6505/2026-03-RANDOM-Canvass-PDF" target="_blank">
                            2026-03 Republican Canvass (PDF)
                           </a>
                          </li>
@@ -342,87 +334,87 @@
                        <div class="first last">
                         <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="6508">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 CDU Cancellation of Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6508/2026-05-CDU-RANDOM-of-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-05 CDU Cancellation of Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6508/2026-05-CDU-RANDOM-of-RANDOM-PDF" target="_blank">
                            2026-05 CDU Cancellation of Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6394">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 CSV Amended Order of General Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6394/2026-05-CSV-Amended-Order-of-General-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-05 CSV Amended Order of General Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6394/2026-05-CSV-Amended-Order-of-General-RANDOM-PDF" target="_blank">
                            2026-05 CSV Amended Order of General Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6395">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 CSV Amended Order of Special Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6395/2026-05-CSV-Amended-Order-of-Special-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-05 CSV Amended Order of Special Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6395/2026-05-CSV-Amended-Order-of-Special-RANDOM-PDF" target="_blank">
                            2026-05 CSV Amended Order of Special Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6464">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 CSV Cancellation of Special Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6464/2026-05-CSV-RANDOM-of-Special-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-05 CSV Cancellation of Special Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6464/2026-05-CSV-RANDOM-of-Special-RANDOM-PDF" target="_blank">
                            2026-05 CSV Cancellation of Special Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6465">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 CSV Notice of General Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6465/2026-05-CSV-Notice-of-General-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-05 CSV Notice of General Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6465/2026-05-CSV-Notice-of-General-RANDOM-PDF" target="_blank">
                            2026-05 CSV Notice of General Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6598">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 Public L and A (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6598/2026-05-Public-L-and-A-PDF" target="_blank">
+                          <a aria-label="2026-05 Public L and A (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6598/2026-05-Public-L-and-A-PDF" target="_blank">
                            2026-05 Public L and A (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6554">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 SDU Notice of Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6554/2026-05-SDU-Notice-of-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-05 SDU Notice of Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6554/2026-05-SDU-Notice-of-RANDOM-PDF" target="_blank">
                            2026-05 SDU Notice of Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6396">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 SDU Order of Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6396/2026-05-SDU-Order-of-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-05 SDU Order of Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6396/2026-05-SDU-Order-of-RANDOM-PDF" target="_blank">
                            2026-05 SDU Order of Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6466">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 SHI Notice and Order of Bond Election executed with exhibits final (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6466/2026-05-SHI-Notice-and-Order-of-Bond-RANDOM-executed-with-exhibits-final-PDF" target="_blank">
+                          <a aria-label="2026-05 SHI Notice and Order of Bond Election executed with exhibits final (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6466/2026-05-SHI-Notice-and-Order-of-Bond-RANDOM-executed-with-exhibits-final-PDF" target="_blank">
                            2026-05 SHI Notice and Order of Bond Election executed with exhibits final (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6467">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 SHI Notice and Order of Bond Election Spanish with exhibits final (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6467/2026-05-SHI-Notice-and-Order-of-Bond-RANDOM-Spanish-with-exhibits-final-PDF" target="_blank">
+                          <a aria-label="2026-05 SHI Notice and Order of Bond Election Spanish with exhibits final (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6467/2026-05-SHI-Notice-and-Order-of-Bond-RANDOM-Spanish-with-exhibits-final-PDF" target="_blank">
                            2026-05 SHI Notice and Order of Bond Election Spanish with exhibits final (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6468">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 SHI Order of Bond Election executed with exhibits final (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6468/2026-05-SHI-Order-of-Bond-RANDOM-executed-with-exhibits-final-PDF" target="_blank">
+                          <a aria-label="2026-05 SHI Order of Bond Election executed with exhibits final (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6468/2026-05-SHI-Order-of-Bond-RANDOM-executed-with-exhibits-final-PDF" target="_blank">
                            2026-05 SHI Order of Bond Election executed with exhibits final (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6469">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 SHI Order of Bond Election Spanish with exhibits final (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6469/2026-05-SHI-Order-of-Bond-RANDOM-Spanish-with-exhibits-final-PDF" target="_blank">
+                          <a aria-label="2026-05 SHI Order of Bond Election Spanish with exhibits final (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6469/2026-05-SHI-Order-of-Bond-RANDOM-Spanish-with-exhibits-final-PDF" target="_blank">
                            2026-05 SHI Order of Bond Election Spanish with exhibits final (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6493">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 SHI Order of General Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6493/2026-05-SHI-Order-of-General-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-05 SHI Order of General Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6493/2026-05-SHI-Order-of-General-RANDOM-PDF" target="_blank">
                            2026-05 SHI Order of General Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6558">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 SSV Notice of Special Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6558/2026-05-SSV-Notice-of-Special-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-05 SSV Notice of Special Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6558/2026-05-SSV-Notice-of-Special-RANDOM-PDF" target="_blank">
                            2026-05 SSV Notice of Special Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6470">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 SSV Order of Cancellation - General Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6470/2026-05-SSV-Order-of-RANDOM--RANDOM" target="_blank">
+                          <a aria-label="2026-05 SSV Order of Cancellation - General Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6470/2026-05-SSV-Order-of-RANDOM--RANDOM" target="_blank">
                            2026-05 SSV Order of Cancellation - General Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6401">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 SSV Order of General Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6401/2026-05-SSV-Order-of-General-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-05 SSV Order of General Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6401/2026-05-SSV-Order-of-General-RANDOM-PDF" target="_blank">
                            2026-05 SSV Order of General Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6471">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 SSV Order of Special Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6471/2026-05-SSV-Order-of-Special-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-05 SSV Order of Special Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6471/2026-05-SSV-Order-of-Special-RANDOM-PDF" target="_blank">
                            2026-05 SSV Order of Special Election (PDF)
                           </a>
                          </li>
@@ -436,12 +428,12 @@
                        <div class="first last">
                         <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="6583">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-0526 Notice of Joint Primary Runoff Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-unprocessable" href="/DocumentCenter/View/6583/2026-0526-Notice-of-Joint-Primary-Runoff-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-0526 Notice of Joint Primary Runoff Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6583/2026-0526-Notice-of-Joint-Primary-Runoff-RANDOM-PDF" target="_blank">
                            2026-0526 Notice of Joint Primary Runoff Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6601">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-0526 Public L and A (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6601/2026-0526-Public-L-and-A-PDF" target="_blank">
+                          <a aria-label="2026-0526 Public L and A (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6601/2026-0526-Public-L-and-A-PDF" target="_blank">
                            2026-0526 Public L and A (PDF)
                           </a>
                          </li>
@@ -455,97 +447,97 @@
                        <div class="first last">
                         <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="6923">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Bluff Dale ISD Notice of Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6923/2026-11-Bluff-Dale-ISD-Notice-of-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 Bluff Dale ISD Notice of Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6923/2026-11-Bluff-Dale-ISD-Notice-of-RANDOM-PDF" target="_blank">
                            2026-11 Bluff Dale ISD Notice of Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6807">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Bluff Dale ISD Order of General Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6807/2026-11-Bluff-Dale-ISD-Order-of-General-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 Bluff Dale ISD Order of General Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6807/2026-11-Bluff-Dale-ISD-Order-of-General-RANDOM-PDF" target="_blank">
                            2026-11 Bluff Dale ISD Order of General Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6906">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 County Notice of General Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6906/2026-11-County-Notice-of-General-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 County Notice of General Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6906/2026-11-County-Notice-of-General-RANDOM-PDF" target="_blank">
                            2026-11 County Notice of General Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6904">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 County Notice of Special Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6904/2026-11-County-Notice-of-Special-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 County Notice of Special Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6904/2026-11-County-Notice-of-Special-RANDOM-PDF" target="_blank">
                            2026-11 County Notice of Special Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6806">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 County Order of General Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6806/2026-11-County-Order-of-General-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 County Order of General Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6806/2026-11-County-Order-of-General-RANDOM-PDF" target="_blank">
                            2026-11 County Order of General Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6905">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 County Order of Special Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6905/2026-11-County-Order-of-Special-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 County Order of Special Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6905/2026-11-County-Order-of-Special-RANDOM-PDF" target="_blank">
                            2026-11 County Order of Special Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6799">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Governors Proclamation - General Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6799/2026-11-RANDOM-RANDOM--RANDOM" target="_blank">
+                          <a aria-label="2026-11 Governors Proclamation - General Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6799/2026-11-RANDOM-RANDOM--RANDOM" target="_blank">
                            2026-11 Governors Proclamation - General Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6815">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Governors Proclamation-Special Election SD 22 (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6815/2026-11-RANDOM-RANDOM-Special-RANDOM-SD-22-PDF" target="_blank">
+                          <a aria-label="2026-11 Governors Proclamation-Special Election SD 22 (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6815/2026-11-RANDOM-RANDOM-Special-RANDOM-SD-22-PDF" target="_blank">
                            2026-11 Governors Proclamation-Special Election SD 22 (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6924">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Huckabay ISD Notice of Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6924/2026-11-RANDOM-ISD-Notice-of-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 Huckabay ISD Notice of Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6924/2026-11-RANDOM-ISD-Notice-of-RANDOM-PDF" target="_blank">
                            2026-11 Huckabay ISD Notice of Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6810">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Huckabay ISD Order of General Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6810/2026-11-RANDOM-ISD-Order-of-General-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 Huckabay ISD Order of General Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6810/2026-11-RANDOM-ISD-Order-of-General-RANDOM-PDF" target="_blank">
                            2026-11 Huckabay ISD Order of General Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6845">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Lingleville ISD Order of Cancellation (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6845/2026-11-RANDOM-ISD-Order-of-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 Lingleville ISD Order of Cancellation (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6845/2026-11-RANDOM-ISD-Order-of-RANDOM-PDF" target="_blank">
                            2026-11 Lingleville ISD Order of Cancellation (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6925">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Morgan Mill ISD Notice of Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6925/2026-11-Morgan-Mill-ISD-Notice-of-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 Morgan Mill ISD Notice of Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6925/2026-11-Morgan-Mill-ISD-Notice-of-RANDOM-PDF" target="_blank">
                            2026-11 Morgan Mill ISD Notice of Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6757">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Morgan Mill ISD Order of General Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6757/2026-11-Morgan-Mill-ISD-Order-of-General-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 Morgan Mill ISD Order of General Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6757/2026-11-Morgan-Mill-ISD-Order-of-General-RANDOM-PDF" target="_blank">
                            2026-11 Morgan Mill ISD Order of General Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6850">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 MTGCD Order of Cancellation (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6850/2026-11-MTGCD-Order-of-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 MTGCD Order of Cancellation (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6850/2026-11-MTGCD-Order-of-RANDOM-PDF" target="_blank">
                            2026-11 MTGCD Order of Cancellation (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6798">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 MTGCD Order of General Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6798/2026-11-MTGCD-Order-of-General-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 MTGCD Order of General Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6798/2026-11-MTGCD-Order-of-General-RANDOM-PDF" target="_blank">
                            2026-11 MTGCD Order of General Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6823">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Notice of Ballot Draw for Texas State Senate, District 22 (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6823/2026-11-Notice-of-Ballot-Draw-for-Texas-State-Senate-RANDOM-22-PDF" target="_blank">
+                          <a aria-label="2026-11 Notice of Ballot Draw for Texas State Senate, District 22 (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6823/2026-11-Notice-of-Ballot-Draw-for-Texas-State-Senate-RANDOM-22-PDF" target="_blank">
                            2026-11 Notice of Ballot Draw for Texas State Senate, District 22 (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6911">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Public Notice L and A Test (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6911/2026-11-Public-Notice-L-and-A-Test-PDF" target="_blank">
+                          <a aria-label="2026-11 Public Notice L and A Test (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6911/2026-11-Public-Notice-L-and-A-Test-PDF" target="_blank">
                            2026-11 Public Notice L and A Test (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6907">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Santo ISD Notice of Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6907/2026-11-Santo-ISD-Notice-of-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 Santo ISD Notice of Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6907/2026-11-Santo-ISD-Notice-of-RANDOM-PDF" target="_blank">
                            2026-11 Santo ISD Notice of Election (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6816">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Santo ISD Order of General Election (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6816/2026-11-Santo-ISD-Order-of-General-RANDOM-PDF" target="_blank">
+                          <a aria-label="2026-11 Santo ISD Order of General Election (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6816/2026-11-Santo-ISD-Order-of-General-RANDOM-PDF" target="_blank">
                            2026-11 Santo ISD Order of General Election (PDF)
                           </a>
                          </li>
@@ -591,7 +583,7 @@
                <div class="outer col col24 first last" data-widgetcontainerid="GUID">
                 <div class="row nest first last wide">
                  <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
-                  <section class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"March 3, 2026 Primary","DocumentIDs":"6418,6441,","FolderIds":",","SortedDocumentIds":""},{"Title":"May 2, 2026 City/School","DocumentIDs":"6084,6607,6616,","FolderIds":",","SortedDocumentIds":""},{"Title":"May 26, 2026 Primary Runoff","DocumentIDs":"6677,6684,","FolderIds":",","SortedDocumentIds":""},{"Title":"November 3, 2026 Mid Term","DocumentIDs":"6950,6969,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
+                  <section aria-label="Related Documents" class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"March 3, 2026 Primary","DocumentIDs":"6418,6441,","FolderIds":",","SortedDocumentIds":""},{"Title":"May 2, 2026 City/School","DocumentIDs":"6084,6607,6616,","FolderIds":",","SortedDocumentIds":""},{"Title":"May 26, 2026 Primary Runoff","DocumentIDs":"6677,6684,","FolderIds":",","SortedDocumentIds":""},{"Title":"November 3, 2026 Mid Term","DocumentIDs":"6950,6969,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
                    <div class="relatedDocuments" id="divRelatedDocuments_GUID">
                     <div class="widgetBody cpGrid cpGrid1">
                      <div class="row sortableWidgetTitle">
@@ -602,12 +594,12 @@
                        <div class="first last">
                         <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="6418">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 In Person Roster (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6418/2026-03-In-Person-Roster-PDF" target="_blank">
+                          <a aria-label="2026-03 In Person Roster (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6418/2026-03-In-Person-Roster-PDF" target="_blank">
                            2026-03 In Person Roster (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6441">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 Returned ABBM (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6441/2026-03-RANDOM-ABBM-PDF" target="_blank">
+                          <a aria-label="2026-03 Returned ABBM (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6441/2026-03-RANDOM-ABBM-PDF" target="_blank">
                            2026-03 Returned ABBM (PDF)
                           </a>
                          </li>
@@ -621,12 +613,12 @@
                        <div class="first last">
                         <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="6607">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 In Person Roster (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6607/2026-05-In-Person-Roster-PDF" target="_blank">
+                          <a aria-label="2026-05 In Person Roster (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6607/2026-05-In-Person-Roster-PDF" target="_blank">
                            2026-05 In Person Roster (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6616">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 Returned ABBM (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6616/2026-05-RANDOM-ABBM-PDF" target="_blank">
+                          <a aria-label="2026-05 Returned ABBM (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6616/2026-05-RANDOM-ABBM-PDF" target="_blank">
                            2026-05 Returned ABBM (PDF)
                           </a>
                          </li>
@@ -640,12 +632,12 @@
                        <div class="first last">
                         <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="6677">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="05-26-2026 In Person Roster (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6677/05-26-2026-In-Person-Roster-PDF" target="_blank">
+                          <a aria-label="05-26-2026 In Person Roster (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6677/05-26-2026-In-Person-Roster-PDF" target="_blank">
                            05-26-2026 In Person Roster (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6684">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="05-26-2026 Returned ABBM (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6684/05-26-2026-RANDOM-ABBM-PDF" target="_blank">
+                          <a aria-label="05-26-2026 Returned ABBM (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6684/05-26-2026-RANDOM-ABBM-PDF" target="_blank">
                            05-26-2026 Returned ABBM (PDF)
                           </a>
                          </li>
@@ -659,12 +651,12 @@
                        <div class="first last">
                         <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="6950">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 In Person Roster (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6950/2026-11-In-Person-Roster-PDF" target="_blank">
+                          <a aria-label="2026-11 In Person Roster (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6950/2026-11-In-Person-Roster-PDF" target="_blank">
                            2026-11 In Person Roster (PDF)
                           </a>
                          </li>
                          <li class="widgetItem" data-documentid="6969">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Returned ABBMs (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6969/2026-11-RANDOM-ABBMs-PDF" target="_blank">
+                          <a aria-label="2026-11 Returned ABBMs (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6969/2026-11-RANDOM-ABBMs-PDF" target="_blank">
                            2026-11 Returned ABBMs (PDF)
                           </a>
                          </li>
@@ -685,7 +677,7 @@
                  <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                   <section aria-labelledby="headerGUID" class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"March 3, 2026 Primary","DocumentIDs":"6340,","FolderIds":",","SortedDocumentIds":""},{"Title":"May 2, 2026 City/School","DocumentIDs":"6397,","FolderIds":",","SortedDocumentIds":""},{"Title":"May 26, 2026 Primary Runoff","DocumentIDs":"6582,","FolderIds":",","SortedDocumentIds":""},{"Title":"November 3, 2026 Mid Term","DocumentIDs":"6776,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
                    <div class="relatedDocuments" id="divRelatedDocuments_GUID">
-                    <header class="widgetHeader" id="headerGUID" role="presentation">
+                    <header class="widgetHeader" id="headerGUID">
                      <div>
                       <h2>
                        Voting Locations and Hours for the Year 2026
@@ -699,9 +691,9 @@
                         March 3, 2026 Primary
                        </h3>
                        <div class="first last">
-                        <ol class="semanticList bullets" role="presentation">
+                        <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="6340">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 Voting Locations-Hours En-Es (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6340/2026-03-Voting-RANDOM-Hours-En-Es-PDF" target="_blank">
+                          <a aria-label="2026-03 Voting Locations-Hours En-Es (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6340/2026-03-Voting-RANDOM-Hours-En-Es-PDF" target="_blank">
                            2026-03 Voting Locations-Hours En-Es (PDF)
                           </a>
                          </li>
@@ -713,9 +705,9 @@
                         May 2, 2026 City/School
                        </h3>
                        <div class="first last">
-                        <ol class="semanticList bullets" role="presentation">
+                        <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="6397">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 City-School Voting Locations-Hours En-Es (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6397/2026-05-City-School-Voting-RANDOM-Hours-En-Es-PDF" target="_blank">
+                          <a aria-label="2026-05 City-School Voting Locations-Hours En-Es (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6397/2026-05-City-School-Voting-RANDOM-Hours-En-Es-PDF" target="_blank">
                            2026-05 City-School Voting Locations-Hours En-Es (PDF)
                           </a>
                          </li>
@@ -727,9 +719,9 @@
                         May 26, 2026 Primary Runoff
                        </h3>
                        <div class="first last">
-                        <ol class="semanticList bullets" role="presentation">
+                        <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="6582">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-0526 Voting Locations-Hours En-Es (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6582/2026-0526-Voting-RANDOM-Hours-En-Es-PDF" target="_blank">
+                          <a aria-label="2026-0526 Voting Locations-Hours En-Es (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6582/2026-0526-Voting-RANDOM-Hours-En-Es-PDF" target="_blank">
                            2026-0526 Voting Locations-Hours En-Es (PDF)
                           </a>
                          </li>
@@ -741,9 +733,9 @@
                         November 3, 2026 Mid Term
                        </h3>
                        <div class="first last">
-                        <ol class="semanticList bullets" role="presentation">
+                        <ol class="semanticList bullets">
                          <li class="widgetItem" data-documentid="6776">
-                          <a aria-describedby="audioeye_new_window_message" aria-label="2026-11 Polling Locations-Hours  En-Es (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6776/2026-11-Polling-RANDOM-Hours--RANDOM" target="_blank">
+                          <a aria-label="2026-11 Polling Locations-Hours  En-Es (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6776/2026-11-Polling-RANDOM-Hours--RANDOM" target="_blank">
                            2026-11 Polling Locations-Hours En-Es (PDF)
                           </a>
                          </li>
@@ -809,7 +801,7 @@
                     </li>
                    </ol>
                    <div class="cpTabPanels">
-                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="presentation">
+                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="tablist">
                      <li class="active" role="presentation">
                       <a aria-controls="tabGUID_0" aria-selected="true" class="tabButton" href="#tabGUID_0" id="tabBtnNarrowGUID_0" role="tab" tabindex="0">
                        <span class="tabName editable" contenteditable="false" data-sequence="0" data-tabname="March 3, 2026 Primary">
@@ -819,7 +811,7 @@
                      </li>
                     </ol>
                     <div aria-labelledby="tabBtnGUID_0" class="tabbedWidget cpTabPanel showing" id="tabGUID_0" role="tabpanel" tabindex="-1">
-                     <section class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6370,6369,6368,6366,6367,","FolderIds":",","SortedDocumentIds":"3733,3734,3812,3810,3811,"}]' data-widgetid="GUID" id="widgetRelDocGUID">
+                     <section aria-label="Related Documents" class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6370,6369,6368,6366,6367,","FolderIds":",","SortedDocumentIds":"3733,3734,3812,3810,3811,"}]' data-widgetid="GUID" id="widgetRelDocGUID">
                       <div class="relatedDocuments" id="divRelatedDocuments_GUID">
                        <div class="widgetBody cpGrid cpGrid1">
                         <div class="row sortableWidgetTitle">
@@ -827,43 +819,28 @@
                           <div class="first last">
                            <ol class="semanticList bullets">
                             <li class="widgetItem" data-documentid="6366">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Democratic Sample All Pcts pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6366/Democratic-Sample-All-Pcts" target="_blank">
+                             <a aria-label="Democratic Sample All Pcts pdf file" class="fileType pdf" href="/DocumentCenter/View/6366/Democratic-Sample-All-Pcts" target="_blank">
                               Democratic Sample All Pcts
-                              <span class="ae-compliance-indent">
-                               PDF
-                              </span>
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6367">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Republican Sample Pct 1 pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6367/Republican-Sample-Pct-1" target="_blank">
+                             <a aria-label="Republican Sample Pct 1 pdf file" class="fileType pdf" href="/DocumentCenter/View/6367/Republican-Sample-Pct-1" target="_blank">
                               Republican Sample Pct 1
-                              <span class="ae-compliance-indent">
-                               PDF
-                              </span>
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6368">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Republican Sample Pct 2 pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6368/Republican-Sample-Pct-2" target="_blank">
+                             <a aria-label="Republican Sample Pct 2 pdf file" class="fileType pdf" href="/DocumentCenter/View/6368/Republican-Sample-Pct-2" target="_blank">
                               Republican Sample Pct 2
-                              <span class="ae-compliance-indent">
-                               PDF
-                              </span>
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6369">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Republican Sample Pct 3 pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6369/Republican-Sample-Pct-3" target="_blank">
+                             <a aria-label="Republican Sample Pct 3 pdf file" class="fileType pdf" href="/DocumentCenter/View/6369/Republican-Sample-Pct-3" target="_blank">
                               Republican Sample Pct 3
-                              <span class="ae-compliance-indent">
-                               PDF
-                              </span>
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6370">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Republican Sample Pct 4 pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6370/Republican-Sample-Pct-4" target="_blank">
+                             <a aria-label="Republican Sample Pct 4 pdf file" class="fileType pdf" href="/DocumentCenter/View/6370/Republican-Sample-Pct-4" target="_blank">
                               Republican Sample Pct 4
-                              <span class="ae-compliance-indent">
-                               PDF
-                              </span>
                              </a>
                             </li>
                            </ol>
@@ -874,7 +851,7 @@
                       </div>
                      </section>
                     </div>
-                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="presentation">
+                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="tablist">
                      <li class="" role="presentation">
                       <a aria-controls="tabGUID_1" aria-selected="false" class="tabButton" href="#tabGUID_1" id="tabBtnNarrowGUID_1" role="tab" tabindex="-1">
                        <span class="tabName editable" contenteditable="false" data-sequence="1" data-tabname="May 2, 2026 City/School">
@@ -884,7 +861,7 @@
                      </li>
                     </ol>
                     <div aria-labelledby="tabBtnGUID_1" class="tabbedWidget cpTabPanel" id="tabGUID_1" role="tabpanel" tabindex="-1">
-                     <section class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6569,6568,6567,6596,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
+                     <section aria-label="Related Documents" class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6569,6568,6567,6596,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
                       <div class="relatedDocuments" id="divRelatedDocuments_GUID">
                        <div class="widgetBody cpGrid cpGrid1">
                         <div class="row sortableWidgetTitle">
@@ -892,22 +869,22 @@
                           <div class="first last">
                            <ol class="semanticList bullets">
                             <li class="widgetItem" data-documentid="6567">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Ballots City and School of Stephenville Sample (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6567/Ballots-City-and-School-of-RANDOM-Sample-PDF" target="_blank">
+                             <a aria-label="Ballots City and School of Stephenville Sample (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6567/Ballots-City-and-School-of-RANDOM-Sample-PDF" target="_blank">
                               Ballots City and School of Stephenville Sample (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6569">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Ballots DISD Sample (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6569/Ballots-DISD-Sample-PDF" target="_blank">
+                             <a aria-label="Ballots DISD Sample (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6569/Ballots-DISD-Sample-PDF" target="_blank">
                               Ballots DISD Sample (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6596">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Ballots HISD Sample (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6596/Ballots-HISD-Sample-PDF" target="_blank">
+                             <a aria-label="Ballots HISD Sample (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6596/Ballots-HISD-Sample-PDF" target="_blank">
                               Ballots HISD Sample (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6568">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Ballots SISD Sample (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6568/Ballots-SISD-Sample-PDF" target="_blank">
+                             <a aria-label="Ballots SISD Sample (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6568/Ballots-SISD-Sample-PDF" target="_blank">
                               Ballots SISD Sample (PDF)
                              </a>
                             </li>
@@ -919,7 +896,7 @@
                       </div>
                      </section>
                     </div>
-                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="presentation">
+                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="tablist">
                      <li class="" role="presentation">
                       <a aria-controls="tabGUID_2" aria-selected="false" class="tabButton" href="#tabGUID_2" id="tabBtnNarrowGUID_2" role="tab" tabindex="-1">
                        <span class="tabName editable" contenteditable="false" data-sequence="2" data-tabname="May 26, 2026 Primary Runoff">
@@ -929,7 +906,7 @@
                      </li>
                     </ol>
                     <div aria-labelledby="tabBtnGUID_2" class="tabbedWidget cpTabPanel" id="tabGUID_2" role="tabpanel" tabindex="-1">
-                     <section class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6580,6579,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
+                     <section aria-label="Related Documents" class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6580,6579,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
                       <div class="relatedDocuments" id="divRelatedDocuments_GUID">
                        <div class="widgetBody cpGrid cpGrid1">
                         <div class="row sortableWidgetTitle">
@@ -937,12 +914,12 @@
                           <div class="first last">
                            <ol class="semanticList bullets">
                             <li class="widgetItem" data-documentid="6579">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="ERATH_DEM Sample (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6579/ERATH_DEM-Sample-PDF" target="_blank">
+                             <a aria-label="ERATH_DEM Sample (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6579/ERATH_DEM-Sample-PDF" target="_blank">
                               ERATH_DEM Sample (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6580">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="ERATH_REP Sample (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6580/ERATH_REP-Sample-PDF" target="_blank">
+                             <a aria-label="ERATH_REP Sample (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6580/ERATH_REP-Sample-PDF" target="_blank">
                               ERATH_REP Sample (PDF)
                              </a>
                             </li>
@@ -954,7 +931,7 @@
                       </div>
                      </section>
                     </div>
-                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="presentation">
+                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="tablist">
                      <li class="" role="presentation">
                       <a aria-controls="tabGUID_3" aria-selected="false" class="tabButton" href="#tabGUID_3" id="tabBtnNarrowGUID_3" role="tab" tabindex="-1">
                        <span class="tabName editable" contenteditable="false" data-sequence="3" data-tabname="November 3, 2026 Mid Term">
@@ -964,7 +941,7 @@
                      </li>
                     </ol>
                     <div aria-labelledby="tabBtnGUID_3" class="tabbedWidget cpTabPanel" id="tabGUID_3" role="tabpanel" tabindex="-1">
-                     <section class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6873,6872,6871,6870,6869,6868,6867,6866,6865,6864,6863,6875,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
+                     <section aria-label="Related Documents" class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6873,6872,6871,6870,6869,6868,6867,6866,6865,6864,6863,6875,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
                       <div class="relatedDocuments" id="divRelatedDocuments_GUID">
                        <div class="widgetBody cpGrid cpGrid1">
                         <div class="row sortableWidgetTitle">
@@ -972,62 +949,62 @@
                           <div class="first last">
                            <ol class="semanticList bullets">
                             <li class="widgetItem" data-documentid="6875">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="November 2026 Certified Write-In Candidates (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6875/November-2026-RANDOM-Write-In-RANDOM-PDF" target="_blank">
+                             <a aria-label="November 2026 Certified Write-In Candidates (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6875/November-2026-RANDOM-Write-In-RANDOM-PDF" target="_blank">
                               November 2026 Certified Write-In Candidates (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6863">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Sample Ballots Pct 1 County (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6863/Sample-Ballots-Pct-1-County-PDF" target="_blank">
+                             <a aria-label="Sample Ballots Pct 1 County (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6863/Sample-Ballots-Pct-1-County-PDF" target="_blank">
                               Sample Ballots Pct 1 County (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6864">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Sample Ballots Pct 2 County (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6864/Sample-Ballots-Pct-2-County-PDF" target="_blank">
+                             <a aria-label="Sample Ballots Pct 2 County (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6864/Sample-Ballots-Pct-2-County-PDF" target="_blank">
                               Sample Ballots Pct 2 County (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6865">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Sample Ballots Pct 2 Huckabay ISD (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6865/Sample-Ballots-Pct-2-RANDOM-ISD-PDF" target="_blank">
+                             <a aria-label="Sample Ballots Pct 2 Huckabay ISD (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6865/Sample-Ballots-Pct-2-RANDOM-ISD-PDF" target="_blank">
                               Sample Ballots Pct 2 Huckabay ISD (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6866">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Sample Ballots Pct 3 Bluff Dale ISD (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6866/Sample-Ballots-Pct-3-Bluff-Dale-ISD-PDF" target="_blank">
+                             <a aria-label="Sample Ballots Pct 3 Bluff Dale ISD (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6866/Sample-Ballots-Pct-3-Bluff-Dale-ISD-PDF" target="_blank">
                               Sample Ballots Pct 3 Bluff Dale ISD (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6867">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Sample Ballots Pct 3 County (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6867/Sample-Ballots-Pct-3-County-PDF" target="_blank">
+                             <a aria-label="Sample Ballots Pct 3 County (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6867/Sample-Ballots-Pct-3-County-PDF" target="_blank">
                               Sample Ballots Pct 3 County (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6868">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Sample Ballots Pct 3 Morgan Mill ISD (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6868/Sample-Ballots-Pct-3-Morgan-Mill-ISD-PDF" target="_blank">
+                             <a aria-label="Sample Ballots Pct 3 Morgan Mill ISD (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6868/Sample-Ballots-Pct-3-Morgan-Mill-ISD-PDF" target="_blank">
                               Sample Ballots Pct 3 Morgan Mill ISD (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6869">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Sample Ballots Pct 3 Santo ISD (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6869/Sample-Ballots-Pct-3-Santo-ISD-PDF" target="_blank">
+                             <a aria-label="Sample Ballots Pct 3 Santo ISD (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6869/Sample-Ballots-Pct-3-Santo-ISD-PDF" target="_blank">
                               Sample Ballots Pct 3 Santo ISD (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6870">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Sample Ballots Pct 4 County (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6870/Sample-Ballots-Pct-4-County-PDF" target="_blank">
+                             <a aria-label="Sample Ballots Pct 4 County (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6870/Sample-Ballots-Pct-4-County-PDF" target="_blank">
                               Sample Ballots Pct 4 County (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6871">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Sample Ballots Pct 4 Huckabay ISD (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6871/Sample-Ballots-Pct-4-RANDOM-ISD-PDF" target="_blank">
+                             <a aria-label="Sample Ballots Pct 4 Huckabay ISD (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6871/Sample-Ballots-Pct-4-RANDOM-ISD-PDF" target="_blank">
                               Sample Ballots Pct 4 Huckabay ISD (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6872">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Sample Ballots Pct 4 Morgan Mill ISD (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6872/Sample-Ballots-Pct-4-Morgan-Mill-ISD-PDF" target="_blank">
+                             <a aria-label="Sample Ballots Pct 4 Morgan Mill ISD (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6872/Sample-Ballots-Pct-4-Morgan-Mill-ISD-PDF" target="_blank">
                               Sample Ballots Pct 4 Morgan Mill ISD (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6873">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="Sample Ballots Pct 4 Santo ISD (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6873/Sample-Ballots-Pct-4-Santo-ISD-PDF" target="_blank">
+                             <a aria-label="Sample Ballots Pct 4 Santo ISD (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6873/Sample-Ballots-Pct-4-Santo-ISD-PDF" target="_blank">
                               Sample Ballots Pct 4 Santo ISD (PDF)
                              </a>
                             </li>
@@ -1096,7 +1073,7 @@
                     </li>
                    </ol>
                    <div class="cpTabPanels">
-                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="presentation">
+                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="tablist">
                      <li class="active" role="presentation">
                       <a aria-controls="tabGUID_0" aria-selected="true" class="tabButton" href="#tabGUID_0" id="tabBtnNarrowGUID_0" role="tab" tabindex="0">
                        <span class="tabName editable" contenteditable="false" data-sequence="0" data-tabname="March 3, 2026 Primary">
@@ -1106,7 +1083,7 @@
                      </li>
                     </ol>
                     <div aria-labelledby="tabBtnGUID_0" class="tabbedWidget cpTabPanel showing" id="tabGUID_0" role="tabpanel" tabindex="-1">
-                     <section class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6457,6456,6459,6458,6510,6509,6540,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
+                     <section aria-label="Related Documents" class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6457,6456,6459,6458,6510,6509,6540,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
                       <div class="relatedDocuments" id="divRelatedDocuments_GUID">
                        <div class="widgetBody cpGrid cpGrid1">
                         <div class="row sortableWidgetTitle">
@@ -1114,37 +1091,37 @@
                           <div class="first last">
                            <ol class="semanticList bullets">
                             <li class="widgetItem" data-documentid="6509">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 Democratic Official Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6509/2026-03-RANDOM-RANDOM-Results-PDF" target="_blank">
+                             <a aria-label="2026-03 Democratic Official Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6509/2026-03-RANDOM-RANDOM-Results-PDF" target="_blank">
                               2026-03 Democratic Official Results (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6456">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 Democratic Unofficial Early Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6456/2026-03-RANDOM-RANDOM-Early-Results-PDF" target="_blank">
+                             <a aria-label="2026-03 Democratic Unofficial Early Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6456/2026-03-RANDOM-RANDOM-Early-Results-PDF" target="_blank">
                               2026-03 Democratic Unofficial Early Results (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6458">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 Democratic Unofficial Final Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6458/2026-03-RANDOM-RANDOM-Final-Results-PDF" target="_blank">
+                             <a aria-label="2026-03 Democratic Unofficial Final Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6458/2026-03-RANDOM-RANDOM-Final-Results-PDF" target="_blank">
                               2026-03 Democratic Unofficial Final Results (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6540">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 Post-Election Hand Count Audit (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6540/2026-03-Post-RANDOM-Hand-Count-Audit-PDF" target="_blank">
+                             <a aria-label="2026-03 Post-Election Hand Count Audit (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6540/2026-03-Post-RANDOM-Hand-Count-Audit-PDF" target="_blank">
                               2026-03 Post-Election Hand Count Audit (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6510">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 Republican Official Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6510/2026-03-RANDOM-RANDOM-Results-PDF" target="_blank">
+                             <a aria-label="2026-03 Republican Official Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6510/2026-03-RANDOM-RANDOM-Results-PDF" target="_blank">
                               2026-03 Republican Official Results (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6457">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 Republican Unofficial Early Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6457/2026-03-RANDOM-RANDOM-Early-Results-PDF" target="_blank">
+                             <a aria-label="2026-03 Republican Unofficial Early Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6457/2026-03-RANDOM-RANDOM-Early-Results-PDF" target="_blank">
                               2026-03 Republican Unofficial Early Results (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6459">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-03 Republican Unofficial Final Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6459/2026-03-RANDOM-RANDOM-Final-Results-PDF" target="_blank">
+                             <a aria-label="2026-03 Republican Unofficial Final Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6459/2026-03-RANDOM-RANDOM-Final-Results-PDF" target="_blank">
                               2026-03 Republican Unofficial Final Results (PDF)
                              </a>
                             </li>
@@ -1156,7 +1133,7 @@
                       </div>
                      </section>
                     </div>
-                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="presentation">
+                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="tablist">
                      <li class="" role="presentation">
                       <a aria-controls="tabGUID_1" aria-selected="false" class="tabButton" href="#tabGUID_1" id="tabBtnNarrowGUID_1" role="tab" tabindex="-1">
                        <span class="tabName editable" contenteditable="false" data-sequence="1" data-tabname="May 2, 2026 City/School">
@@ -1166,7 +1143,7 @@
                      </li>
                     </ol>
                     <div aria-labelledby="tabBtnGUID_1" class="tabbedWidget cpTabPanel" id="tabGUID_1" role="tabpanel" tabindex="-1">
-                     <section class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6127,6638,6636,6656,6657,6672,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
+                     <section aria-label="Related Documents" class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6127,6638,6636,6656,6657,6672,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
                       <div class="relatedDocuments" id="divRelatedDocuments_GUID">
                        <div class="widgetBody cpGrid cpGrid1">
                         <div class="row sortableWidgetTitle">
@@ -1174,27 +1151,27 @@
                           <div class="first last">
                            <ol class="semanticList bullets">
                             <li class="widgetItem" data-documentid="6656">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 Official Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6656/2026-05-RANDOM-Results-PDF" target="_blank">
+                             <a aria-label="2026-05 Official Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6656/2026-05-RANDOM-Results-PDF" target="_blank">
                               2026-05 Official Results (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6672">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 Post-Election Hand Count Audit Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6672/2026-05-Post-RANDOM-Hand-Count-Audit-Results-PDF" target="_blank">
+                             <a aria-label="2026-05 Post-Election Hand Count Audit Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6672/2026-05-Post-RANDOM-Hand-Count-Audit-Results-PDF" target="_blank">
                               2026-05 Post-Election Hand Count Audit Results (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6657">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 Reconciliation of Total Votes Cast at each Polling Location (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6657/2026-05-RANDOM-of-Total-Votes-Cast-at-each-Polling-RANDOM-PDF" target="_blank">
+                             <a aria-label="2026-05 Reconciliation of Total Votes Cast at each Polling Location (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6657/2026-05-RANDOM-of-Total-Votes-Cast-at-each-Polling-RANDOM-PDF" target="_blank">
                               2026-05 Reconciliation of Total Votes Cast at each Polling Location (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6636">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 Unofficial Early Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6636/2026-05-RANDOM-Early-Results-PDF" target="_blank">
+                             <a aria-label="2026-05 Unofficial Early Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6636/2026-05-RANDOM-Early-Results-PDF" target="_blank">
                               2026-05 Unofficial Early Results (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6638">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-05 Unofficial Total Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6638/2026-05-RANDOM-Total-Results-PDF" target="_blank">
+                             <a aria-label="2026-05 Unofficial Total Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6638/2026-05-RANDOM-Total-Results-PDF" target="_blank">
                               2026-05 Unofficial Total Results (PDF)
                              </a>
                             </li>
@@ -1206,7 +1183,7 @@
                       </div>
                      </section>
                     </div>
-                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="presentation">
+                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="tablist">
                      <li class="" role="presentation">
                       <a aria-controls="tabGUID_2" aria-selected="false" class="tabButton" href="#tabGUID_2" id="tabBtnNarrowGUID_2" role="tab" tabindex="-1">
                        <span class="tabName editable" contenteditable="false" data-sequence="2" data-tabname="May 26, 2026 Primary Runoff">
@@ -1216,7 +1193,7 @@
                      </li>
                     </ol>
                     <div aria-labelledby="tabBtnGUID_2" class="tabbedWidget cpTabPanel" id="tabGUID_2" role="tabpanel" tabindex="-1">
-                     <section class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6692,6691,6694,6693,6706,6705,6710,6712,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
+                     <section aria-label="Related Documents" class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections='[{"Title":"","DocumentIDs":"6692,6691,6694,6693,6706,6705,6710,6712,","FolderIds":",","SortedDocumentIds":""}]' data-widgetid="GUID" id="widgetRelDocGUID">
                       <div class="relatedDocuments" id="divRelatedDocuments_GUID">
                        <div class="widgetBody cpGrid cpGrid1">
                         <div class="row sortableWidgetTitle">
@@ -1224,42 +1201,42 @@
                           <div class="first last">
                            <ol class="semanticList bullets">
                             <li class="widgetItem" data-documentid="6705">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-0526 Official Democratic Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6705/2026-0526-RANDOM-RANDOM-Results-PDF" target="_blank">
+                             <a aria-label="2026-0526 Official Democratic Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6705/2026-0526-RANDOM-RANDOM-Results-PDF" target="_blank">
                               2026-0526 Official Democratic Results (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6706">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-0526 Official Republican Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6706/2026-0526-RANDOM-RANDOM-Results-PDF" target="_blank">
+                             <a aria-label="2026-0526 Official Republican Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6706/2026-0526-RANDOM-RANDOM-Results-PDF" target="_blank">
                               2026-0526 Official Republican Results (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6712">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-0526 Post-Election Hand Count Audit (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6712/2026-0526-Post-RANDOM-Hand-Count-Audit-PDF" target="_blank">
+                             <a aria-label="2026-0526 Post-Election Hand Count Audit (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6712/2026-0526-Post-RANDOM-Hand-Count-Audit-PDF" target="_blank">
                               2026-0526 Post-Election Hand Count Audit (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6710">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-0526 Reconciliation of Total Votes Cast at each Polling Location (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6710/2026-0526-RANDOM-of-Total-Votes-Cast-at-each-Polling-RANDOM-PDF" target="_blank">
+                             <a aria-label="2026-0526 Reconciliation of Total Votes Cast at each Polling Location (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6710/2026-0526-RANDOM-of-Total-Votes-Cast-at-each-Polling-RANDOM-PDF" target="_blank">
                               2026-0526 Reconciliation of Total Votes Cast at each Polling Location (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6691">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-0526 Unofficial Early Democratic Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6691/2026-0526-RANDOM-Early-RANDOM-Results-PDF" target="_blank">
+                             <a aria-label="2026-0526 Unofficial Early Democratic Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6691/2026-0526-RANDOM-Early-RANDOM-Results-PDF" target="_blank">
                               2026-0526 Unofficial Early Democratic Results (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6692">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-0526 Unofficial Early Republican Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6692/2026-0526-RANDOM-Early-RANDOM-Results-PDF" target="_blank">
+                             <a aria-label="2026-0526 Unofficial Early Republican Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6692/2026-0526-RANDOM-Early-RANDOM-Results-PDF" target="_blank">
                               2026-0526 Unofficial Early Republican Results (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6694">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-0526 Unofficial Total Democratic Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6694/2026-0526-RANDOM-Total-RANDOM-Results-PDF" target="_blank">
+                             <a aria-label="2026-0526 Unofficial Total Democratic Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6694/2026-0526-RANDOM-Total-RANDOM-Results-PDF" target="_blank">
                               2026-0526 Unofficial Total Democratic Results (PDF)
                              </a>
                             </li>
                             <li class="widgetItem" data-documentid="6693">
-                             <a aria-describedby="audioeye_new_window_message" aria-label="2026-0526 Unofficial Total Republican Results (PDF) pdf file" class="fileType pdf docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/6693/2026-0526-RANDOM-Total-RANDOM-Results-PDF" target="_blank">
+                             <a aria-label="2026-0526 Unofficial Total Republican Results (PDF) pdf file" class="fileType pdf" href="/DocumentCenter/View/6693/2026-0526-RANDOM-Total-RANDOM-Results-PDF" target="_blank">
                               2026-0526 Unofficial Total Republican Results (PDF)
                              </a>
                             </li>
@@ -1271,7 +1248,7 @@
                       </div>
                      </section>
                     </div>
-                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="presentation">
+                    <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="tablist">
                      <li class="" role="presentation">
                       <a aria-controls="tabGUID_3" aria-selected="false" class="tabButton" href="#tabGUID_3" id="tabBtnNarrowGUID_3" role="tab" tabindex="-1">
                        <span class="tabName editable" contenteditable="false" data-sequence="3" data-tabname="November 3, 2026 Mid Term">
@@ -1281,13 +1258,13 @@
                      </li>
                     </ol>
                     <div aria-labelledby="tabBtnGUID_3" class="tabbedWidget cpTabPanel" id="tabGUID_3" role="tabpanel" tabindex="-1">
-                     <section class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections="" data-widgetid="GUID" id="widgetRelDocGUID">
+                     <section aria-label="Related Documents" class="widget widgetRelatedDocuments skin60" data-columncount="1" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-sections="" data-widgetid="GUID" id="widgetRelDocGUID">
                       <div class="relatedDocuments" id="divRelatedDocuments_GUID">
                        <div class="widgetBody cpGrid cpGrid1">
                         <div class="row sortableWidgetTitle">
                          <div class="relatedDocumentsSection selfClear" data-documentids="" data-folderids="" data-sorteddocumentids="">
                           <div class="first last">
-                           <ol class="semanticList bullets" role="presentation">
+                           <ol class="semanticList bullets">
                            </ol>
                           </div>
                          </div>
@@ -1308,89 +1285,89 @@
             </div>
            </div>
           </div>
-          <aside class="secondaryContent" data-cprole="contentContainer" id="featureColumn" role="presentation">
+          <aside class="secondaryContent" data-cprole="contentContainer" id="featureColumn">
            <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
            </div>
           </aside>
          </div>
          <div class="siteSidebar" data-cprole="structuralContainer" id="siteSidebarTS">
-          <aside data-cprole="contentContainer" id="sidebarContainer1TS" role="presentation">
+          <aside data-cprole="contentContainer" id="sidebarContainer1TS">
            <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
            </div>
           </aside>
-          <nav aria-label="Secondary" class="siteNav secondaryNav" data-cprole="nav" id="secondaryNav">
-           <ol class="rootNavMenu accordionNav" data-parent="184" id="secondaryMenusecondaryNav">
-            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="188" id="SideItem188" tabindex="0">
+          <nav class="siteNav secondaryNav" data-cprole="nav" id="secondaryNav">
+           <ol class="rootNavMenu accordionNav" data-parent="184" id="secondaryMenusecondaryNav" role="menu">
+            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="188" id="SideItem188" role="menuitem" tabindex="0">
              <div class="accordionNavItem">
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/188/Voting-RANDOM-Help" target="_self">
                Voting Information &amp; Help
               </a>
              </div>
             </li>
-            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="185" id="SideItem185" tabindex="-1">
+            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="185" id="SideItem185" role="menuitem" tabindex="-1">
              <div class="accordionNavItem">
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/185/Voter-RANDOM" target="_self">
                Voter Registration
               </a>
              </div>
             </li>
-            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="186" id="SideItem186" tabindex="-1">
+            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="186" id="SideItem186" role="menuitem" tabindex="-1">
              <div class="accordionNavItem">
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/186/Current-RANDOM" target="_self">
                Current Elections
               </a>
              </div>
             </li>
-            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="346" id="SideItem346" tabindex="-1">
+            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="346" id="SideItem346" role="menuitem" tabindex="-1">
              <div class="accordionNavItem">
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/346/Vote-by-Mail" target="_self">
                Vote by Mail
               </a>
              </div>
             </li>
-            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="275" id="SideItem275" tabindex="-1">
+            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="275" id="SideItem275" role="menuitem" tabindex="-1">
              <div class="accordionNavItem">
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/275/Election-RANDOM-Maps" target="_self">
                Election Precincts Maps
               </a>
              </div>
             </li>
-            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="347" id="SideItem347" tabindex="-1">
+            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="347" id="SideItem347" role="menuitem" tabindex="-1">
              <div class="accordionNavItem">
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/347/Poll-Workers" target="_self">
                Poll Workers
               </a>
              </div>
             </li>
-            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="348" id="SideItem348" tabindex="-1">
+            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="348" id="SideItem348" role="menuitem" tabindex="-1">
              <div class="accordionNavItem">
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/348/Student-Workers" target="_self">
                Student Workers
               </a>
              </div>
             </li>
-            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="427" id="SideItem427" tabindex="-1">
+            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="427" id="SideItem427" role="menuitem" tabindex="-1">
              <div class="accordionNavItem">
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/427/Volunteer-Deputy-RANDOM" target="_self">
                Volunteer Deputy Registrar
               </a>
              </div>
             </li>
-            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="349" id="SideItem349" tabindex="-1">
+            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="349" id="SideItem349" role="menuitem" tabindex="-1">
              <div class="accordionNavItem">
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/349/Candidate-RANDOM" target="_self">
                Candidate Information
               </a>
              </div>
             </li>
-            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="428" id="SideItem428" tabindex="-1">
+            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="428" id="SideItem428" role="menuitem" tabindex="-1">
              <div class="accordionNavItem">
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/428/Campaign-Filing-Forms" target="_self">
                Campaign Filing Forms
               </a>
              </div>
             </li>
-            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="187" id="SideItem187" tabindex="-1">
+            <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="187" id="SideItem187" role="menuitem" tabindex="-1">
              <div class="accordionNavItem">
               <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/187/Historical-RANDOM" target="_self">
                Historical Information
@@ -1399,7 +1376,7 @@
             </li>
            </ol>
           </nav>
-          <aside data-cprole="contentContainer" id="sidebarContainer2TS" role="presentation">
+          <aside data-cprole="contentContainer" id="sidebarContainer2TS">
            <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
            </div>
           </aside>
@@ -1422,10 +1399,10 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid2">
-                 <nav class="widgetGraphicLinksNav">
+                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                   <div class="row wide">
                    <div class="col col1 first">
-                    <ul class="semanticList" role="presentation">
+                    <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton252" href="/193/Human-RANDOM" target="_self">
@@ -1442,7 +1419,7 @@
                     </ul>
                    </div>
                    <div class="col col1 last">
-                    <ul class="semanticList" role="presentation">
+                    <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton253" href="/129/Agendas-Minutes" target="_self">
@@ -1478,10 +1455,10 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid2">
-                 <nav class="widgetGraphicLinksNav">
+                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                   <div class="row wide">
                    <div class="col col1 first">
-                    <ul class="semanticList" role="presentation">
+                    <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton254" href="/296/Juror-RANDOM" target="_self">
@@ -1498,7 +1475,7 @@
                     </ul>
                    </div>
                    <div class="col col1 last">
-                    <ul class="semanticList" role="presentation">
+                    <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton255" href="/246/Commissioners" target="_self">
@@ -1536,10 +1513,10 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid2">
-                 <nav class="widgetGraphicLinksNav">
+                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
                   <div class="row wide">
                    <div class="col col1 first">
-                    <ul class="semanticList" role="presentation">
+                    <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton256" href="https://www.erathfinance.org/" target="_self">
@@ -1556,7 +1533,7 @@
                     </ul>
                    </div>
                    <div class="col col1 last">
-                    <ul class="semanticList" role="presentation">
+                    <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton257" href="/alertcenter.aspx" target="_self">
@@ -1597,9 +1574,9 @@
              <div class="inner col col15 first last idGUID" data-widgetcontainerid="GUID">
               <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
                <section aria-labelledby="headerGUID" class="widget widgetInfoAdvanced skin62 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                <header class="widgetHeader" id="headerGUID" role="presentation">
+                <header class="widgetHeader" id="headerGUID">
                  <div class="">
-                  <h3 aria-level="2" role="heading">
+                  <h3>
                    Contact Us
                   </h3>
                  </div>
@@ -1609,7 +1586,7 @@
                   <div class="col col1 first last">
                    <ol class="pageStyles semanticList">
                     <li class="InfoAdvanced widgetItem fr-view">
-                     <h3 aria-level="2" class="subhead2" role="heading">
+                     <h3 class="subhead2">
                       Erath County Courthouse
                      </h3>
                     </li>
@@ -1656,15 +1633,15 @@
             <div class="row nest first last wide">
              <div class="inner col col8 first last idGUID" data-widgetcontainerid="GUID">
               <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
-               <section class="widget widgetInfoAdvanced skin62 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                <header class="widgetHeader" id="headerGUID" role="presentation">
+               <section aria-label="Info Advanced" class="widget widgetInfoAdvanced skin62 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
+                <header class="widgetHeader" id="headerGUID">
                  <div class="">
                  </div>
                 </header>
                 <div class="widgetBody cpGrid cpGrid1">
                  <div class="row wide">
                   <div class="col col1 first last">
-                   <ol class="pageStyles semanticList" role="presentation">
+                   <ol class="pageStyles semanticList">
                     <li class="InfoAdvanced widgetItem fr-view">
                      <p>
                       <a href="/">
@@ -1693,15 +1670,15 @@
             <div class="row nest first last wide">
              <div class="inner col col13 first last idGUID" data-widgetcontainerid="GUID">
               <div data-widget-controller-path="/QuickLinks/Widget" data-widget-id="GUID">
-               <section class="widget widgetQuickLinks skin65 widgetOptionSet48" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="quickLinks" id="widgetQuicklinkGUID">
-                <header class="widgetHeader" id="quickLinksHeaderGUID" role="presentation">
+               <section aria-label="Quick Links" class="widget widgetQuickLinks skin65 widgetOptionSet48" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="quickLinks" id="widgetQuicklinkGUID">
+                <header class="widgetHeader" id="quickLinksHeaderGUID">
                  <div class="">
                  </div>
                 </header>
                 <div class="widgetBody cpGrid cpGrid4">
                  <div class="row autoWidths left narrow">
                   <div class="col col1 first">
-                   <ol class="semanticList" role="presentation">
+                   <ol class="semanticList">
                     <li class="widgetItem QuickLinks">
                      <a aria-label="Home - Site Links" class="widgetDesc widgetQuickLinksLink" href="/" rel="" target="_self">
                       Home
@@ -1712,7 +1689,7 @@
                    </ol>
                   </div>
                   <div class="col col1">
-                   <ol class="semanticList" role="presentation">
+                   <ol class="semanticList">
                     <li class="widgetItem QuickLinks">
                      <a aria-label="Site Map - Site Links" class="widgetDesc widgetQuickLinksLink" href="/sitemap" rel="" target="_self">
                       Site Map
@@ -1723,7 +1700,7 @@
                    </ol>
                   </div>
                   <div class="col col1">
-                   <ol class="semanticList" role="presentation">
+                   <ol class="semanticList">
                     <li class="widgetItem QuickLinks">
                      <a aria-label="Contact Us - Site Links" class="widgetDesc widgetQuickLinksLink" href="/directory.aspx" rel="" target="_self">
                       Contact Us
@@ -1734,7 +1711,7 @@
                    </ol>
                   </div>
                   <div class="col col1 last">
-                   <ol class="semanticList" role="presentation">
+                   <ol class="semanticList">
                     <li class="widgetItem QuickLinks">
                      <a aria-label="Accessibility - Site Links" class="widgetDesc widgetQuickLinksLink" href="/accessibility" rel="" target="_self">
                       Accessibility
@@ -1814,7 +1791,7 @@
    </div>
   </div>
   <div id="google-translate-container">
-   <i class="google-translate-dropdown-arrow" role="presentation">
+   <i class="google-translate-dropdown-arrow">
    </i>
   </div>
   <div>
@@ -1825,37 +1802,6 @@
   <div>
   </div>
   <div id="root-picker-outlet">
-  </div>
-  <div data-nosnippet="" id="ae_app">
-   <div class="ae-module" id="ae_helpers">
-   </div>
-   <div class="ae-module" id="ae_compliance">
-   </div>
-   <aside aria-label="Accessibility options" class="ae-module ae-active ae-cta-position-preset-right-lower" dir="ltr" id="ae_launcher">
-    <button aria-label="Explore your accessibility options">
-     <div class="ae-left">
-      <span>
-       Explore your accessibility options
-      </span>
-     </div>
-     <div class="ae-right">
-      <span class="icomoon-wrapper">
-       <div>
-        <span class="icomoon-cta ae-icon-launcher-universalaccess ae-initial-cta">
-         <span class="icomoon-cta path1 a11y-icon-figure-and-border">
-         </span>
-         <span class="icomoon-cta path2 a11y-icon-background">
-         </span>
-        </span>
-       </div>
-      </span>
-     </div>
-    </button>
-   </aside>
-   <span aria-hidden="true" id="ae_placeholder_toolbar">
-   </span>
-   <span aria-hidden="true" id="ae_placeholder_site-menu">
-   </span>
   </div>
  </body>
 </html>
