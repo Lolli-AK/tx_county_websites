@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-83°F
+84°F
 EN
 ES
 Government
@@ -33,7 +33,7 @@ Agendas ↗
 Contact
 Election Day
 Starts in
-15h 05m 42s
+12h 47m 55s
 Tuesday, November 3 · 7:00 AM – 7:00 PM · at your precinct polling place
 Details
 Elections
@@ -90,11 +90,11 @@ Election Day in
 Tuesday, November 3 · polls open at 7:00 AM
 0
 Days
-15
+12
 Hours
-05
+47
 Min
-42
+55
 Sec
 Election Day
 Tue, Nov 3
@@ -205,10 +205,10 @@ Emergency Operations Center
 Sign Up for Emergency Alerts
 Get urgent Maverick County notifications by text, call or email: severe weather, evacuations, road closures and emergencies.
 Sign Up
-83°
+84°
 F
 Weather · Eagle Pass
-Mostly Clear
+Clear
 Official portal · Transparency
 Commissioners Court Agendas
 Access agendas, minutes, recordings and official notices for every Maverick County Commissioners Court session. All public information from the county's governing body, in one place.
