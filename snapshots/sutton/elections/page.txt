@@ -60,6 +60,15 @@ elections@co.sutton.tx.us
 201 Sample Ballot
 301 Sample Ballot
 401 Sample Ballot
+VOTER TURNOUT FOR ELECTION DAY
+9:30am
+42
+11:30am
+94
+1:30pm
+3:30pm
+5:30pm
+7:00pm
 2026 Important Election Dates
 General Election Polling Location
 Secretary of State Voter Registration

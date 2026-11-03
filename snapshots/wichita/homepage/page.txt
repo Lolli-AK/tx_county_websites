@@ -70,8 +70,6 @@ Submit Agenda Item
 Calendar
 More Results
 No Results found for: {{ input }}
-Burn Ban Lifted
-Effective Oct. 28, 2026
 Common Resources
 Road Work Needed Form
 Application for Court Appointed Attorney

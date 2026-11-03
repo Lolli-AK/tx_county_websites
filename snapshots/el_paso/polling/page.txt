@@ -238,7 +238,7 @@ The People's Place
 (El Lugar de la Gente)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Carroll T. Welch Elementary School
 14510 McMahon Ave. 79928
 Portable #3
@@ -273,7 +273,7 @@ Council Chambers
 (Consejo de Cámaras)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Clint Junior High School
 12625 Alameda Ave. 79836
 Library Conference Room
@@ -434,7 +434,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+More Than 30 Minutes
 El Paso County Northwest Annex
 435 E. Vinton Rd. 79821
 Community Room
@@ -490,7 +490,7 @@ Pool Room
 (Cuarto de Billar)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Family Youth Services Center
 6314 Delta Dr. 79905
 Lobby
@@ -686,7 +686,7 @@ Lobby
 (Área de Espera)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+More Than 30 Minutes
 Memorial Park Senior Citizen Center
 1800 Byron St. 79930
 Classroom
@@ -840,7 +840,7 @@ Foyer
 (Área de Espera)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 SISD District Service Center
 12440 Rojas Dr. 79928
 TSC Library
