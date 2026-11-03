@@ -241,6 +241,7 @@ PUBLIC TESTS
 HASH VALADATION 11.03.2026
 L&A PUBLIC NOTICE FIRST TEST
 NOTICE OF CONVENING OF EVBB
+NOTICE OF POST-ELECTION HAND COUNT AUDIT
 _______________________________________________________________________________________________
 SAMPLE BALLOTS BY POLLING LOCATIONS
 101    Milton Baptist Church

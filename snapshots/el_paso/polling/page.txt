@@ -266,7 +266,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 City of San Elizario Municipal Court
 12004 Socorro Rd. Suite B, 79849
 Council Chambers
@@ -350,7 +350,7 @@ Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Dr. Green Elementary School
 5430 Buckley Dr. 79912
 Multipurpose Room
@@ -434,7 +434,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 El Paso County Northwest Annex
 435 E. Vinton Rd. 79821
 Community Room
@@ -483,7 +483,7 @@ Meeting Room
 (Cuarto de Juntas)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Fabens Community Center
 201 NW Camp St. 79838
 Pool Room
@@ -532,7 +532,7 @@ System Integration Room
 (Cuarto de Integración de Sistemas)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Gary del Palacio Recreation Center
 3001 Parkwood St. 79925
 Multipurpose Room
@@ -686,7 +686,7 @@ Lobby
 (Área de Espera)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Memorial Park Senior Citizen Center
 1800 Byron St. 79930
 Classroom
@@ -777,7 +777,7 @@ Auditorium
 (Auditorio)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Polk Elementary School
 940 Belvidere St. 79912
 Library
@@ -840,14 +840,14 @@ Foyer
 (Área de Espera)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 SISD District Service Center
 12440 Rojas Dr. 79928
 TSC Library
 (Biblioteca del TSC)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+Less Than 10 Minutes
 South El Paso Senior Citizens Center
 600 S. Ochoa St. 79901
 Multipurpose Room
