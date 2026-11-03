@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.deltacountytx.com/commissioners/page/county-precinct-maps"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-02T23:44:50Z",
-  "html_sha256": "f1df1c0f2ed2d6bef794af139537bd4a19411f94ce915f59a2d28fe8bd456628",
-  "text_sha256": "1b6fa7dc8231db0a1ed6672db7e792dc136e8bde6ed55b555248312f54993a09",
-  "byte_size": 3216,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-03T01:55:25Z",
+  "html_sha256": "651fcb95453b9e5b77e49dd03343b6efaca1ca828d22bf239a258625cb11f303",
+  "text_sha256": "85acc0a927b81260d519592c1dae80518cebf57e60dfcf11cbfb6d5049c8e0b4",
+  "byte_size": 98466,
+  "title": "County Precinct Maps | Delta County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
