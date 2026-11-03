@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.galvestoncountytx.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-03T01:55:25Z",
-  "html_sha256": "3b6dc06a22f95c85265446913f694e4edbed1dfaa07e6be0bb7dda30ee960d3f",
-  "text_sha256": "e9f9459941a3786b80810cafb15e25a21fdc43dd29469c90e429d344e76c334e",
-  "byte_size": 53651,
-  "title": "Galveston County, TX | Home",
+  "fetched_at": "2026-11-03T05:55:40Z",
+  "html_sha256": "d31cbf749d59cf498b6f3036fbc80633cb65a6c06cf724765795263d2ef89513",
+  "text_sha256": "61c875e152875f8edf89ab6de9a179dbee111552dfa22ddd1d118b8244b9d8be",
+  "byte_size": 331,
+  "title": "Access Denied",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

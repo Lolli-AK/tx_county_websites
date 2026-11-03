@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-77°F
+74°F
 EN
 ES
 Government
@@ -33,7 +33,7 @@ Agendas ↗
 Contact
 Election Day
 Starts in
-10h 47m 41s
+06h 48m 18s
 Tuesday, November 3 · 7:00 AM – 7:00 PM · at your precinct polling place
 Details
 Elections
@@ -46,12 +46,12 @@ View
 Your voice matters
 Elections
 Official Maverick County elections information: where and when to vote, what to bring, sample ballots and results.
-Election Day · Tuesday, Nov 3, 2026
-Vote on Tuesday, November 3
-On Election Day, vote at your precinct's polling place from 7:00 AM to 7:00 PM. Bring your photo ID and preview your sample ballot before you go.
+Today is Election Day
+Polls are open today
+Vote at your precinct's polling place from 7:00 AM to 7:00 PM. Bring your photo ID.
 Find my polling place
 See my sample ballot
-Tuesday, November 3
+Today, Tuesday, November 3
 7:00 AM – 7:00 PM
 At your precinct's polling place
 Registration for this election is closed
@@ -73,6 +73,7 @@ Your precinct's polling place on Tuesday, November 3, 7 AM – 7 PM.
 Election Day · 2026 General Election
 When
 Tuesday, November 3
+Today
 Hours
 7:00 AM – 7:00 PM
 If you're in line at 7 PM, you can vote

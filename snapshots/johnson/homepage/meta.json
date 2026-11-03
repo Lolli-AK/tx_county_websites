@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.johnsoncountytx.org/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-03T01:55:25Z",
-  "html_sha256": "ddde08c0660f20b8fc99ffed88be5f9a474182ceeb4c759c7295cd33109149f1",
-  "text_sha256": "3edadca2962c4e229c9622af34f076636a7791d5ab89f7386ea16772ac2f67e8",
-  "byte_size": 84915,
-  "title": "Johnson County, TX | Home",
+  "fetched_at": "2026-11-03T05:55:40Z",
+  "html_sha256": "63a2b758fce2c99cc872b2b681cb5a84d4f9cdbc6dac45aa768d1f29bd3ca0b0",
+  "text_sha256": "f42683313a1424db5620d5af11bf3c6ee94cc10a159c309052a8c6175dbd6578",
+  "byte_size": 315,
+  "title": "Access Denied",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }
