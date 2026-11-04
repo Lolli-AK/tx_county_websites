@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-03T22:39:04Z",
-  "html_sha256": "3e0690d0e79e4f96d31f6a5ee5f5fdf83e40a22b82192625734afb8bac888e99",
+  "fetched_at": "2026-11-03T23:39:09Z",
+  "html_sha256": "afa9e5fe7db5e74fdf45287d332c6af4542aef6fdb00796cd39878117008628c",
   "text_sha256": "beecc3ae8dee524ab15ffc3abc7a775096a09a0b2366b023eb71d60289981dc2",
-  "byte_size": 31297,
+  "byte_size": 31296,
   "title": "Voter Information - Jim Wells County Elections",
   "noncitizen_voting": {
     "present": false,

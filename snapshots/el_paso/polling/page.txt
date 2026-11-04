@@ -378,14 +378,14 @@ Library
 (Biblioteca)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Dr. Sue A. Shook Elementary School
 13777 Paseo Del Este Blvd. 79928
 Library
 (Biblioteca)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Eastside Senior Citizen Center
 3200 Fierro Dr. 79935
 Lobby
@@ -511,7 +511,7 @@ Apparatus Bay
 (Bahía de Aparatos)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Fire Station #2
 111 E. Borderland Rd. 79932
 Apparatus Bay
@@ -539,21 +539,21 @@ Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Gonzalez Place
 4101 Rich Beem Blvd. 79938
 Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Hanks High School
 2001 N. Lee Trevino Dr. 79936
 Library
 (Biblioteca)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 H.D. Hilley Elementary School
 693 N. Rio. Vista Rd. 79927
 Gymnasium
@@ -567,7 +567,7 @@ Portable #1
 (Portátil #1)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Helen Ball Elementary School
 1950 Firehouse Dr. 79936
 Library
@@ -616,7 +616,7 @@ Teacher’s Lounge
 (Área de Maestros)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+More Than 30 Minutes
 Jose J. Alderete Middle School
 801 Talbot Ave. 79835
 Entry Foyer
@@ -665,7 +665,7 @@ Cottage in Parking Lot
 (Cabaña en el Estacionamiento)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Lujan Chavez Elementary School
 2200 Sun Country Dr. 79938
 Library
@@ -693,7 +693,7 @@ Classroom
 (Salón)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Mesita Elementary School
 3307 N. Stanton St. 79902
 Library
@@ -756,7 +756,7 @@ Portable
 (Portátil)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Paul C. Moreno Elementary School
 2300 San Diego Ave. 79930
 Multipurpose Room
@@ -770,14 +770,14 @@ Gymnasium
 (Gimnasio)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Pebble Hills High School
 14400 Pebble Hills Blvd. 79938
 Auditorium
 (Auditorio)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+More Than 30 Minutes
 Polk Elementary School
 940 Belvidere St. 79912
 Library
@@ -833,21 +833,21 @@ Meeting Room
 (Cuarto de Juntas)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Sierra Vista Elementary School
 1501 Bob Hope Dr. 79936
 Foyer
 (Área de Espera)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+More Than 30 Minutes
 SISD District Service Center
 12440 Rojas Dr. 79928
 TSC Library
 (Biblioteca del TSC)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 South El Paso Senior Citizens Center
 600 S. Ochoa St. 79901
 Multipurpose Room
@@ -889,7 +889,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 UTEP–Union Building East
 351 W. University Ave. 79968
 Acacia Room 120A
@@ -924,7 +924,7 @@ SFLC Foyer
 (Área de Espera SFLC)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Western Technical College-East
 9624 Plaza Cir. 79927
 Penske Room

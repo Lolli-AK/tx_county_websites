@@ -71,6 +71,7 @@ Calendar
 More Results
 No Results found for: {{ input }}
 Election Results
+Election Menu
 Current Election Information
 Current Election Notices, Turnout and Rosters
 Sample Ballots
@@ -85,9 +86,7 @@ Poll watchers
 Current Officeholder & Candidate Information
 Contact Information
 Election Results
-Official Results
-No posts found.
-Election Results Archive
+Election results will appear here as they are posted.
 Wichita County
 Quick Links
 Road Work Needed Form

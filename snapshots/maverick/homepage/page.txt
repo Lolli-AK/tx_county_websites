@@ -33,7 +33,7 @@ Agendas ↗
 Contact
 Vote Today · Polls Open
 Polls close in
-02h 00m 17s
+01h 06m 21s
 Today 7:00 AM – 7:00 PM · at your precinct polling place
 Details
 Elections
@@ -90,11 +90,11 @@ Today is Election Day · polls close in
 Polls are open until 7:00 PM
 0
 Days
-02
+01
 Hours
-00
+06
 Min
-17
+21
 Sec
 Now
 Election Day
