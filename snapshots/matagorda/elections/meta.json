@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T01:54:27Z",
-  "html_sha256": "f87d53663c6cb7a4d7ae5b113da14e59392bd6788228e0efcd70ed84ad0bc5a2",
+  "fetched_at": "2026-11-04T02:30:06Z",
+  "html_sha256": "081e9f8362df70eaea450a07eeb98d6f13b2dc96768cd87a1cad1f515441e86c",
   "text_sha256": "106840c0e671354bd5b0535078ebf3d3fd4988d16b4d0755a7c41e4e77f83537",
-  "byte_size": 48796,
+  "byte_size": 48899,
   "title": "Elections & Voting | Matagorda County, Texas",
   "noncitizen_voting": {
     "present": false,

@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T01:54:27Z",
-  "html_sha256": "bfa301486f4784ae426d50dcbddb6efb0a9063e80d892c204519fffbfebf9f53",
+  "fetched_at": "2026-11-04T02:30:06Z",
+  "html_sha256": "ec10a683fb8796920231820c357644f88fc779263fc6543f905740e1f7ce212b",
   "text_sha256": "7bfca3e9b830b4dbea2f1d1c3fff0cb1e9b3185b2e56b069ff31a80a6715d273",
-  "byte_size": 143583,
+  "byte_size": 143684,
   "title": "Gaines County, Texas",
   "noncitizen_voting": {
     "present": false,

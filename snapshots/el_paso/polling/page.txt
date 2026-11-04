@@ -357,7 +357,7 @@ Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Dr. Josefina Villamil Tinajero PK-8 School
 301 Lisbon St. 79905
 Old Gym
@@ -434,7 +434,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-More Than 30 Minutes
+10 - 20 Minutes
 El Paso County Northwest Annex
 435 E. Vinton Rd. 79821
 Community Room
