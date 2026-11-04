@@ -161,7 +161,7 @@ Main Room
 (Cuarto Principal)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+More Than 30 Minutes
 Austin High School
 3500 Memphis Ave. 79930
 Fine Arts Lobby
@@ -203,7 +203,7 @@ PCL Room A105
 (Cuarto PLC A105)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 Campestre Elementary School
 11399 Socorro Rd. 79927
 Lobby
@@ -217,7 +217,7 @@ Entry Foyer
 (Entrada Principal)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Canutillo Nutrition Center
 7351 Bosque Rd. 79835
 Exercise Room
@@ -266,7 +266,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 City of San Elizario Municipal Court
 12004 Socorro Rd. Suite B, 79849
 Council Chambers
@@ -343,7 +343,7 @@ Foyer
 (Área de Espera)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Dorris Van Doren Library
 551 Redd Rd. 79912
 Multipurpose Room
@@ -357,7 +357,7 @@ Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+10 - 20 Minutes
 Dr. Josefina Villamil Tinajero PK-8 School
 301 Lisbon St. 79905
 Old Gym
@@ -434,7 +434,7 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+More Than 30 Minutes
 El Paso County Northwest Annex
 435 E. Vinton Rd. 79821
 Community Room
@@ -497,7 +497,7 @@ Lobby
 (Área de Espera)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Fire Station #15
 115 Shorty Ln. 79922
 Apparatus Bay
@@ -532,7 +532,7 @@ System Integration Room
 (Cuarto de Integración de Sistemas)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 Gary del Palacio Recreation Center
 3001 Parkwood St. 79925
 Multipurpose Room
@@ -553,7 +553,7 @@ Library
 (Biblioteca)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 H.D. Hilley Elementary School
 693 N. Rio. Vista Rd. 79927
 Gymnasium
@@ -581,7 +581,7 @@ Classroom
 (Salón)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 Horizon Fire Department Station #2
 12361 Paseo Del Este Blvd. 79928
 Apparatus Bay
@@ -609,7 +609,7 @@ Gymnasium
 (Gimnasio)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+10 - 20 Minutes
 Jane Hambric K-8 School
 3535 Nolan Richardson Dr. 79936
 Teacher’s Lounge
@@ -672,7 +672,7 @@ Library
 (Biblioteca)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Martin Luther King Memorial Apartments
 9101 Butternut St. 79907
 Community Room
@@ -728,7 +728,7 @@ Classroom A
 (Salón A)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+More Than 30 Minutes
 O'Shea Keleher Whole Child Academy
 1800 Leroy Bonse Dr. 79936
 Counseling Suite 503
@@ -742,7 +742,7 @@ Main Dining Area
 (Comedor Principal)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+Less Than 10 Minutes
 Park Elementary School
 3601 Edgar Park Ave. 79904
 Foyer
@@ -847,7 +847,7 @@ TSC Library
 (Biblioteca del TSC)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 South El Paso Senior Citizens Center
 600 S. Ochoa St. 79901
 Multipurpose Room
@@ -945,7 +945,7 @@ Library
 (Biblioteca)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+Less Than 10 Minutes
 YISD Central Office
 9600 Sims Dr. 79925
 Tigua Room
@@ -987,7 +987,7 @@ Program Offices Room
 (Cuarto de Oficinas de Programa)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Zach White Elementary School
 4256 Roxbury Dr. 79922
 Multipurpose Room

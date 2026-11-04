@@ -72,7 +72,7 @@ night, you must click on the RELOAD button on your browser menu to get updated r
 will appear at 7 p.m. on election night. Election results will be updated beginning at 8:30 p.m., and then at
 half hour intervals until tabulation is completed. The time of the latest returns will appear in the bottom left
 corner of the result page. Results posted on this page are unofficial. Official results are canvassed by the
-political subdivision holding the election and kept by the city, school, or county filing officer.
+political subdivision holding the election and kept by the city, school, or county filing officer .
 If you would like to receive notices as results are posted and updated, please
 Like Collin County on Facebook
 or
@@ -81,6 +81,7 @@ Follow Collin County on X
 Election Result Archive
 Results
 November 3, 2026 - Certified Write-In Candidates Vote Summary
+November 3, 2026 - General and Special Election - Early Voting Summary Report
 Kaleb Breaux
 Elections Administrator
 Send an Email

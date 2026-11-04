@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.wilcotx.gov/294/Voter-Registration"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T01:19:34Z",
-  "html_sha256": "14aacb7d788119a8d2dd927d8595d43d488e9adb0b0ca3bf933bc45e4059829d",
-  "text_sha256": "088c36d7c9a0350408d4af7a338ca21a8c8d50b3bc405d086e59dc92d25e8fd4",
-  "byte_size": 3332,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-04T01:54:27Z",
+  "html_sha256": "d67cfe2b10b490a9a61e6d18c8f7b9e4d85e2fb1f444d37520057f374bcd95f0",
+  "text_sha256": "2e285abbbf40df2633d89297e47f1c0f17f2f1c9539faea6714cbddb9e29c051",
+  "byte_size": 50603,
+  "title": "Voter Registration | Williamson County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

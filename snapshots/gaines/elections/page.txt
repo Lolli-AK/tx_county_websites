@@ -386,7 +386,7 @@ Filing as a Candidate
 Procedures for Write-In Candidate
 Frequently Asked Questions
 Current Voter Turnout
-Absentee Ballots: 48
+Absentee Ballots: 52
 October 19th: 281
 October 20th: 268
 October 21st: 212
@@ -399,8 +399,9 @@ October 27th: 275
 October 28th: 314
 October 29th: 317
 October 30th: 533
+November 3rd: 1,509
 __________________
-Total: 3,307
+Total:5,095
 How to find us.
 Gaines County Courthouse
 101 S Main St
