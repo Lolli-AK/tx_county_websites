@@ -147,7 +147,7 @@ Fine Arts Lobby
 (Área de Espera de Bellas Artes)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Anthony Town Hall
 401 Wildcat Dr. 79821
 Court Room
@@ -161,7 +161,7 @@ Main Room
 (Cuarto Principal)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 Austin High School
 3500 Memphis Ave. 79930
 Fine Arts Lobby
@@ -189,7 +189,7 @@ Library
 (Biblioteca)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Bowie High School
 801 S. San Marcial St. 79905
 Fine Arts Lobby
@@ -245,7 +245,7 @@ Portable #3
 (Portátil #3)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 Center for Career and Technology Education
 1170 N. Walnut St. 79930
 Custodial Lounge
@@ -266,14 +266,14 @@ Community Room
 (Cuarto Comunitario)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 City of San Elizario Municipal Court
 12004 Socorro Rd. Suite B, 79849
 Council Chambers
 (Consejo de Cámaras)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Clint Junior High School
 12625 Alameda Ave. 79836
 Library Conference Room
@@ -329,7 +329,7 @@ Gymnasium
 (Gimnasio)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Desert Hills Elementary School
 300 N. Kenazo Dr. 79928
 Main Hallway
@@ -343,7 +343,7 @@ Foyer
 (Área de Espera)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Dorris Van Doren Library
 551 Redd Rd. 79912
 Multipurpose Room
@@ -357,7 +357,7 @@ Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 Dr. Josefina Villamil Tinajero PK-8 School
 301 Lisbon St. 79905
 Old Gym
@@ -378,7 +378,7 @@ Library
 (Biblioteca)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 Dr. Sue A. Shook Elementary School
 13777 Paseo Del Este Blvd. 79928
 Library
@@ -427,7 +427,7 @@ Cafeteria
 (Cafeteria)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 El Paso County Eastside Annex
 2350 George Dieter Dr. 79936
 Community Room
@@ -490,7 +490,7 @@ Pool Room
 (Cuarto de Billar)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Family Youth Services Center
 6314 Delta Dr. 79905
 Lobby
@@ -511,7 +511,7 @@ Apparatus Bay
 (Bahía de Aparatos)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Fire Station #2
 111 E. Borderland Rd. 79932
 Apparatus Bay
@@ -532,7 +532,7 @@ System Integration Room
 (Cuarto de Integración de Sistemas)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+10 - 20 Minutes
 Gary del Palacio Recreation Center
 3001 Parkwood St. 79925
 Multipurpose Room
@@ -581,7 +581,7 @@ Classroom
 (Salón)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Horizon Fire Department Station #2
 12361 Paseo Del Este Blvd. 79928
 Apparatus Bay
@@ -595,7 +595,7 @@ Foyer
 (Área de Espera)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+More Than 30 Minutes
 H.R. Moye Elementary School
 4825 Alps Dr. 79904
 Multipurpose Room
@@ -665,7 +665,7 @@ Cottage in Parking Lot
 (Cabaña en el Estacionamiento)
 Map & Details
 Current Wait Time:
-20 - 30 Minutes
+Less Than 10 Minutes
 Lujan Chavez Elementary School
 2200 Sun Country Dr. 79938
 Library
@@ -721,7 +721,7 @@ Small Rink
 (Pequeña Pista)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Officer David Ortiz Recreation Center
 563 N. Carolina Dr. 79915
 Classroom A
@@ -735,14 +735,14 @@ Counseling Suite 503
 (Suite de Consejería 503)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+20 - 30 Minutes
 Oz Glaze Senior Center
 13969 Veny Webb St. 79928
 Main Dining Area
 (Comedor Principal)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Park Elementary School
 3601 Edgar Park Ave. 79904
 Foyer

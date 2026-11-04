@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T00:39:08Z",
-  "html_sha256": "ca721877ac241c7b003af7aea57fec3c3ff8ba2fcd784d8008d99896f5bfbf99",
+  "fetched_at": "2026-11-04T01:19:34Z",
+  "html_sha256": "a13a9615b9234ded0e5d45b1afd68c109dea5012e7ad009c6b71807f5d6b553a",
   "text_sha256": "e6b7552223d07a4cfb16782e52291890c14132db528a4eb924afae9d942ae646",
-  "byte_size": 71113,
+  "byte_size": 71038,
   "title": "Elections | Polk County, TX",
   "noncitizen_voting": {
     "present": false,
