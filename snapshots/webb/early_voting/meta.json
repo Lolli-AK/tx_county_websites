@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.webbcountytx.gov/ElectionsAdministration/EarlyVotingSites/"
   ],
-  "http_status": 404,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T14:39:40Z",
-  "html_sha256": "83c24267cbce36028c4477cbc4e6810de766619c11087f2a4222faf1e6565fa2",
-  "text_sha256": "bd497142a991c90a6234b118a41a390f9cbdf330da6ae6b643cc786f6aae76bd",
-  "byte_size": 40512,
-  "title": "Custom404 • Webb County, TX • CivicEngage",
+  "fetched_at": "2026-11-04T15:39:37Z",
+  "html_sha256": "e91c0ab36bb9c3b5b63f9b82232baad946f7ca2c53d9ae49773b0b1c0c9c7f20",
+  "text_sha256": "3a2e89b7cd6b3544f981649ef17090054b791f8d5a6825ca5c16456d8597d099",
+  "byte_size": 3213,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

@@ -6,28 +6,24 @@
   "redirect_chain": [
     "https://www.eastlandcounty.gov/1301/Military-Overseas-Voters"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T14:39:40Z",
-  "html_sha256": "419bae1235806a99488093b4f839c299fe5d44b6770339816c0ce3e3754647e1",
-  "text_sha256": "a04fc3768ef43c8b29fc239b39ab5e118b55f0f1e6124fe16b397eb99a4718c5",
-  "byte_size": 43031,
-  "title": "Military & Overseas Voters | Eastland County, TX",
+  "fetched_at": "2026-11-04T15:39:37Z",
+  "html_sha256": "f4cca83350f8f539db5c8da02d688fb4088165fa818cb418752c59f165453ffd",
+  "text_sha256": "1940e78a3a4082a17e94a3372a46c9db80a83f97c9cf5b2bc237ad99ccfddf53",
+  "byte_size": 3219,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter"
-    ],
-    "count": 8
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

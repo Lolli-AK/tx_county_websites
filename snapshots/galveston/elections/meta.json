@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://galvestonvotes.org/election-information/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-04T14:39:40Z",
-  "html_sha256": "8576b65467199b1f8a40e68a49bdbd987954e1e8ec3cd2884faf526f43cbab9b",
-  "text_sha256": "f609d81d60cf73272e20a5a80fe1f7591639e4465b12674dcbd047801a72e415",
-  "byte_size": 20874,
-  "title": "Election Information - Galveston County, TX",
+  "fetched_at": "2026-11-04T15:39:37Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

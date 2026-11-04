@@ -2,20 +2,19 @@
   "county": "Gregg",
   "page_type": "polling",
   "requested_url": "https://www.greggcountyvotes.com/upcoming-elections/",
-  "final_url": "https://greggcountyvotes.gov/upcoming-elections/",
+  "final_url": "https://www.greggcountyvotes.com/upcoming-elections/",
   "redirect_chain": [
-    "https://www.greggcountyvotes.com/upcoming-elections/",
-    "https://greggcountyvotes.gov/upcoming-elections/"
+    "https://www.greggcountyvotes.com/upcoming-elections/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-04T14:39:40Z",
-  "html_sha256": "3399f4f5c1e35a454f0d5fcf87d080a10a2e3cfbc67e1cc0c58389a9ed068581",
-  "text_sha256": "ddc16359ba2be5def25b68623d57840e5dc1f194715fbdc9c54d5a3a9863d010",
-  "byte_size": 28065,
-  "title": "Upcoming Elections - Gregg County TX – Elections Department",
+  "fetched_at": "2026-11-04T15:39:37Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

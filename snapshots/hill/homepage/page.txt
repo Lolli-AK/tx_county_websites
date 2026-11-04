@@ -32,6 +32,7 @@ Probate Court
 County Auditor
 Constable
 Sheriff
+Abandoned Property
 County Jail
 Sex Offender Registration & Information
 Justice of The Peace

@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://franklincountytxelections.gov/election-information/upcoming-election/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-04T14:39:40Z",
-  "html_sha256": "17d7bce65fff24231b96dfc7d7b199228c1104c5743584bf5fd00fb870d35601",
-  "text_sha256": "4e2638ed277ca95701048ffb12da23cb292bb7b7e6acff9aa73747582950c514",
-  "byte_size": 148661,
-  "title": "Upcoming Election – Franklin, TX",
+  "fetched_at": "2026-11-04T15:39:37Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 7
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.collincountytx.gov/elections/election-results"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T14:39:40Z",
-  "html_sha256": "77e31bcb20b30e0154671fcc79032dc41ddb07ca17b3bb246caf3619f1bf0981",
-  "text_sha256": "d561b263095e78013fc56290e0ecaccea0247177c21942ec7f45740421606cc6",
-  "byte_size": 22203,
-  "title": "Election Results",
+  "fetched_at": "2026-11-04T15:39:37Z",
+  "html_sha256": "2ee3620bca45570b4082d02e113fd7e6aa62b18b5e1e7712dce24a68f6f82b2b",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 278,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],

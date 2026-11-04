@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://franklincountytxelections.gov/election-information/upcoming-election/early-voting-in-person-roster/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-04T14:39:40Z",
-  "html_sha256": "3c7d625fec768397b16ccde35c7be0e106ada567f9812e794f8d0f1b1f1226e1",
-  "text_sha256": "0a3ace01ada21397c4aa0bcd14399a0e561da5fd023fc73843851b41a9d0e93f",
-  "byte_size": 64238,
-  "title": "EARLY VOTING IN PERSON ROSTER – Franklin, TX",
+  "fetched_at": "2026-11-04T15:39:37Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 3
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
