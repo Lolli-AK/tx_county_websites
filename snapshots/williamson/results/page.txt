@@ -1,5 +1,4 @@
 Results Archive | Williamson County, TX
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 Government
 Residents
@@ -70,6 +69,8 @@ June 13, 2026 City of Hutto Runoff- Preliminary Election Reconciliation- Unoffic
 June 13, 2026 City of Hutto Runoff- Certification of Completed Post-Election Hand Count Audit (PDF)
 June 13, 2026 City of Hutto Runoff- Election Reconciliation- Official Totals (PDF)
 June 13, 2026 City of Hutto Runoff- Reconciliation of Total Votes Cast at Each Polling Location (PDF)
+November 3, 2026 Joint General and Special Elections
+November 3, 2026 Joint General and Special Elections- Preliminary Election Reconciliation- Unofficial Totals (PDF)
 Election Result 2025
 May 3, 2025 Joint General and Special Election
 May 3, 2025 Joint General and Special - Preliminary Election Reconciliation - Unofficial Totals (PDF)
@@ -435,5 +436,3 @@ Loading
 Do Not Show Again
 Close
 []
-Hi, how can I help?
-Explore your accessibility options

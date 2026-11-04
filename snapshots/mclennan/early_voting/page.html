@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="removeSetHeights" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -17,10 +17,17 @@
   <meta content="Current Election Results" name="description"/>
   <meta content="Current Election Results McLennan County" name="keywords"/>
  </head>
- <body class="wide">
+ <body class="wide ae-device-desktop ae-launcher ae-current-election-results-h1">
+  <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
+   <div>
+    <p data-modulename="launcher">
+     This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+    </p>
+   </div>
+  </div>
   <div class="cp-PopOver cp-PopOver--modal cp-RANDOM" id="popoverModal">
    <div class="cp-PopOver-header">
-    <h3 class="cp-PopOver-title">
+    <h3 aria-hidden="true" class="cp-PopOver-title" role="presentation" tabindex="-1">
     </h3>
     <button class="cp-Btn cp-PopOver-close" onclick="closePopOverModal(event)">
     </button>
@@ -36,12 +43,12 @@
   </div>
   <div id="fb-root">
   </div>
-  <div id="skipToContentLinks">
-   <a class="skipToContentLink" href="#ccGUID" target="_self">
+  <div aria-hidden="true" class="ae-exclude" id="skipToContentLinks" role="presentation" tabindex="-1">
+   <a aria-hidden="true" class="skipToContentLink ae-exclude" href="#ccGUID" role="presentation" tabindex="-1" target="_self">
     Skip to Main Content
    </a>
   </div>
-  <form id="frmReferenceFormForTelerikEditorDialogs">
+  <form id="frmReferenceFormForTelerikEditorDialogs" role="presentation">
   </form>
   <input id="GoogleMapsKey" type="hidden"/>
   <input id="cpcDomain" type="hidden"/>
@@ -67,7 +74,7 @@
          - Manage notification subscriptions, save form progress and more.
         </span>
        </p>
-       <ul class="nav secondary">
+       <ul class="nav secondary" role="presentation">
         <li>
          <a class="button" href="/MyAccount" id="loggedOutToolbarSignInButton" onclick="popupSignIn(); return false;">
           Website Sign In
@@ -91,45 +98,48 @@
          </div>
         </div>
         <div data-cprole="structuralContainer" id="mainNavTS">
-         <nav aria-label="Main" class="siteNav mainNav" data-cprole="nav" id="mainNav">
-          <ol class="rootNavMenu" data-parent="1" id="mainNavMenu" role="menu">
-           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="27" id="MainItem27" role="none">
-            <a aria-controls="mainNavMegaMenu27" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem1" href="/27/Government" id="mainNavGovernment" role="menuitem" target="_self">
+         <nav aria-label="Main" class="siteNav mainNav" data-ae-site-menu-link="true" data-cprole="nav" id="mainNav">
+          <button class="ae-offscreen ae-accessible-menu-button" data-custom-label="" id="ae-sitemenu-button-0" tabindex="0" type="button">
+           Accessible Menu
+          </button>
+          <ol class="rootNavMenu" data-parent="1" id="mainNavMenu">
+           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="27" id="MainItem27">
+            <a aria-controls="mainNavMegaMenu27" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem1" href="/27/Government" id="mainNavGovernment" target="_self">
              Government
             </a>
            </li>
-           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="101" id="MainItem101" role="none">
-            <a aria-controls="mainNavMegaMenu101" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem2" href="/101/County-RANDOM" id="mainNavCountyServices" role="menuitem" target="_self">
+           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="101" id="MainItem101">
+            <a aria-controls="mainNavMegaMenu101" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem2" href="/101/County-RANDOM" id="mainNavCountyServices" target="_self">
              County Services
             </a>
            </li>
-           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="35" id="MainItem35" role="none">
-            <a aria-controls="mainNavMegaMenu35" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem3" href="/35/Safety-Justice" id="mainNavSafetyJustice" role="menuitem" target="_self">
+           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="35" id="MainItem35">
+            <a aria-controls="mainNavMegaMenu35" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem3" href="/35/Safety-Justice" id="mainNavSafetyJustice" target="_self">
              Safety &amp; Justice
             </a>
            </li>
-           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="9" id="MainItem9" role="none">
-            <a aria-controls="mainNavMegaMenu9" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem4" href="/9/How-Do-I" id="mainNavHowDoI" role="menuitem" target="_self">
+           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="9" id="MainItem9">
+            <a aria-controls="mainNavMegaMenu9" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem4" href="/9/How-Do-I" id="mainNavHowDoI" target="_self">
              How Do I...
             </a>
            </li>
           </ol>
-          <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu">
+          <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu" role="presentation">
            <input id="megaMenuPopupDirection" type="hidden"/>
            <input id="megaMenuWidthReference" type="hidden"/>
-           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="menu">
+           <aside aria-label="" class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="menu">
             <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
             </div>
            </aside>
-           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101" role="menu">
+           <aside aria-label="" class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101" role="menu">
             <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
             </div>
            </aside>
-           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="menu">
+           <aside aria-label="" class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="menu">
             <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
             </div>
            </aside>
-           <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="menu">
+           <aside aria-label="" class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="menu">
             <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
             </div>
            </aside>
@@ -143,10 +153,10 @@
             <div class="row nest first last wide">
              <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
               <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
-               <section aria-label="Search" class="widget widgetSearch skin66 widgetOptionSet36" id="widgetPreviewSearch">
+               <section class="widget widgetSearch skin66 widgetOptionSet36" id="widgetPreviewSearch" role="search">
                 <div class="widgetBody buttonRightInside">
-                 <input class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search our site..." type="text" value=""/>
-                 <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon" role="button">
+                 <input aria-label="Search Site" class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search our site..." type="text" value=""/>
+                 <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon">
                   <img alt="Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=15650" data-image="/ImageRepository/Document?documentID=15649" src="/ImageRepository/Document?documentID=15649"/>
                  </a>
                  <label aria-hidden="true" class="searchLabel" for="searchFieldGUID">
@@ -188,31 +198,34 @@
       <main data-cprole="structuralContainer" id="mainSectionTS">
        <div data-cprole="structuralContainer" id="mainContainerTS">
         <div class="siteWrap">
-         <div class="mainWrap flexTS" data-cprole="structuralContainer" id="mainWrapTS">
+         <div class="mainWrap flexTS" data-cprole="structuralContainer" id="mainWrapTS" role="main">
           <div class="siteSidebar" data-cprole="structuralContainer" id="siteSidebarTS">
-           <aside data-cprole="contentContainer" id="sidebarContainer1TS">
+           <aside data-cprole="contentContainer" id="sidebarContainer1TS" role="presentation">
             <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
             </div>
            </aside>
            <nav aria-label="Secondary" class="siteNav secondaryNav" data-cprole="nav" id="secondaryNav">
-            <ol class="rootNavMenu accordionNav" data-parent="337" id="secondaryMenusecondaryNav" role="menu">
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1106" id="SideItem1106" role="menuitem" tabindex="0">
+            <ol class="rootNavMenu accordionNav" data-parent="337" id="secondaryMenusecondaryNav">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1106" id="SideItem1106" tabindex="0">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/1106/Ballot-by-Mail" target="_self">
                 Ballot by Mail
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="991" id="SideItem991" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="991" id="SideItem991" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/991/Campaign-Finance-Reports" target="_self">
                 Campaign Finance Reports
                </a>
-               <a aria-controls="submenu-lvl1-991" aria-expanded="false" aria-label="Campaign Finance Reports Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+               <a aria-controls="submenu-lvl1-991" aria-expanded="false" aria-label="Campaign Finance Reports submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
+                <span class="ae-compliance-indent">
+                 undefined
+                </span>
                </a>
               </div>
-              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="991" id="submenu-lvl1-991" role="menu">
-               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="1252" id="SideItem1252" role="menuitem" tabindex="0">
+              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="991" id="submenu-lvl1-991">
+               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="1252" id="SideItem1252" tabindex="0">
                 <div class="accordionNavItem">
                  <a class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="/1252/2024-RANDOM-Finance-Reports" target="_self">
                   <span lang="en">
@@ -221,7 +234,7 @@
                  </a>
                 </div>
                </li>
-               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="1293" id="SideItem1293" role="menuitem" tabindex="-1">
+               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="1293" id="SideItem1293" tabindex="-1">
                 <div class="accordionNavItem">
                  <a class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="/1293/2025-RANDOM-Finance-Reports" target="_self">
                   <span lang="en">
@@ -230,7 +243,7 @@
                  </a>
                 </div>
                </li>
-               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="1337" id="SideItem1337" role="menuitem" tabindex="-1">
+               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="1337" id="SideItem1337" tabindex="-1">
                 <div class="accordionNavItem">
                  <a class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="/1337/2026-RANDOM-Finance-Reports" target="_self">
                   <span lang="en">
@@ -241,114 +254,117 @@
                </li>
               </ol>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="546" id="SideItem546" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="546" id="SideItem546" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/546/Current-RANDOM-Results" target="_self">
                 Current Election Results
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="338" id="SideItem338" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="338" id="SideItem338" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/338/Current-Office-Holders-with-Contact-Info" target="_self">
                 Current Office Holders with Contact Information
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="344" id="SideItem344" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="344" id="SideItem344" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/344/Election-Links" target="_self">
                 Election Links
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="549" id="SideItem549" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="549" id="SideItem549" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/549/Election-Worker-RANDOM" target="_self">
                 Election Worker Employment
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="362" id="SideItem362" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="362" id="SideItem362" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/362/Information-for-RANDOM" target="_self">
                 Information for Candidates
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1336" id="SideItem1336" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1336" id="SideItem1336" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/1336/March-3-2026-Joint-Primary-RANDOM" target="_self">
                 March 3, 2026 Joint Primary Election
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1341" id="SideItem1341" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1341" id="SideItem1341" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/1341/May-2-2026-RANDOM-RANDOM" target="_self">
                 May 2, 2026 City/School Election
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1345" id="SideItem1345" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1345" id="SideItem1345" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/1345/May-26-2026-Joint-Primary-Runoff-Electio" target="_self">
                 May 26, 2026 Joint Primary Runoff Election
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="369" id="SideItem369" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="369" id="SideItem369" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/369/McLennan-County-Maps" target="_self">
                 McLennan County Maps
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1195" id="SideItem1195" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1195" id="SideItem1195" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/1195/Military-and-RANDOM-Voters-FPCAs" target="_self">
                 Military and Overseas Voters (FPCAs)
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1350" id="SideItem1350" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1350" id="SideItem1350" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/1350/November-3-2026-Joint-General-RANDOM" target="_self">
                 November 3, 2026 Joint General Election
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="659" id="SideItem659" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="659" id="SideItem659" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/659/Online-Poll-Worker-RANDOM" target="_self">
                 Online Poll Worker Training
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="406" id="SideItem406" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="406" id="SideItem406" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/406/Past-RANDOM-Results" target="_self">
                 Past Elections Results
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1265" id="SideItem1265" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1265" id="SideItem1265" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/1265/Poll-Watcher-RANDOM" target="_self">
                 Poll Watcher Information
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="370" id="SideItem370" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="370" id="SideItem370" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/370/Precinct-Street-Guide" target="_self">
                 Precinct Street Guide
                </a>
-               <a aria-controls="submenu-lvl1-370" aria-expanded="false" aria-label="Precinct Street Guide Submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button">
+               <a aria-controls="submenu-lvl1-370" aria-expanded="false" aria-label="Precinct Street Guide submenu" class="openAccordionNav accordionSecondaryNavItem" href="#" role="button" tabindex="0">
+                <span class="ae-compliance-indent">
+                 undefined
+                </span>
                </a>
               </div>
-              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="370" id="submenu-lvl1-370" role="menu">
-               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="392" id="SideItem392" role="menuitem" tabindex="0">
+              <ol aria-hidden="true" class="accordionNavContainer accordionNavContainer--lvl1" data-parent="370" id="submenu-lvl1-370">
+               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="392" id="SideItem392" tabindex="0">
                 <div class="accordionNavItem">
                  <a class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="/Facilities/Facility/PrepopulatedSearch?isReservableOnly=false&amp;categoryIDs=2" target="_self">
                   <span lang="en">
@@ -357,7 +373,7 @@
                  </a>
                 </div>
                </li>
-               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="378" id="SideItem378" role="menuitem" tabindex="-1">
+               <li class="sideNavLi subMenuItem hasAccordionChildren" data-pageid="378" id="SideItem378" tabindex="-1">
                 <div class="accordionNavItem">
                  <a class="navMenuItem cpComponent" data-type="SecondaryMenuItem" href="/378/Foreword" target="_self">
                   <span lang="en">
@@ -368,42 +384,42 @@
                </li>
               </ol>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1177" id="SideItem1177" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1177" id="SideItem1177" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/1177/Video-RANDOM" target="_self">
                 Video Archives
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1151" id="SideItem1151" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1151" id="SideItem1151" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/1151/Volunteer-Deputy-RANDOM" target="_self">
                 Volunteer Deputy Registrar
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="383" id="SideItem383" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="383" id="SideItem383" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/383/Vote-RANDOM-RANDOM" target="_self">
                 Vote Centers/Polling Locations
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="384" id="SideItem384" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="384" id="SideItem384" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/384/Voter-RANDOM" target="_self">
                 Voter Registration
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1181" id="SideItem1181" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="1181" id="SideItem1181" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/1181/Voter-RANDOM-RANDOM" target="_self">
                 Voter Registration Certificates
                </a>
               </div>
              </li>
-             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="658" id="SideItem658" role="menuitem" tabindex="-1">
+             <li class="topMenuItem sideNavLi hasAccordionChildren" data-pageid="658" id="SideItem658" tabindex="-1">
               <div class="accordionNavItem">
                <a class="navMainItem secondaryNavItem cpComponent" data-type="SecondaryMainItem" href="/658/Voters-With-Special-Needs" target="_self">
                 Voters With Special Needs
@@ -412,14 +428,14 @@
              </li>
             </ol>
            </nav>
-           <aside data-cprole="contentContainer" id="sidebarContainer2TS">
+           <aside data-cprole="contentContainer" id="sidebarContainer2TS" role="presentation">
             <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
             </div>
            </aside>
           </div>
           <div class="outerContentWrap flexTS" data-cprole="structuralContainer" id="outerContentWrapTS">
            <div class="contentWrap" data-cprole="structuralContainer" id="contentWrapTS">
-            <div class="breadCrumbContainer" data-cprole="breadCrumbs" id="breadCrumbs">
+            <div aria-label="Breadcrumb" class="breadCrumbContainer" data-cprole="breadCrumbs" id="breadCrumbs" role="navigation">
              <ol class="semanticList breadCrumbs">
               <li>
                <a class="breadCrumb" href="/">
@@ -442,7 +458,7 @@
                </a>
               </li>
               <li data-pageid="546" id="currentBCPage">
-               <a aria-current="page" class="breadCrumb" href="">
+               <a aria-current="page" class="breadCrumb" href="" role="button" tabindex="0">
                 Current Election Results
                </a>
               </li>
@@ -457,7 +473,7 @@
               <input id="pageShowFeatureColumn" name="pageShowFeatureColumn" type="hidden"/>
               <input id="hdnIsLayoutPage" name="hdnIsLayoutPage" type="hidden"/>
               <input id="hdnPageStatus" name="hdnPageStatus" type="hidden"/>
-              <h1 class="headline" id="versionHeadLine">
+              <h1 aria-level="1" class="headline" id="versionHeadLine" role="heading">
                Current Election Results
               </h1>
               <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
@@ -468,27 +484,27 @@
                    <div class="widget editor pageStyles" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' id="divEditorGUID">
                     <div class="fr-view">
                      <p>
-                      <a href="https://tx-mclennancounty.civicplus.com/DocumentCenter/View/19087/Cumulative-Results-4" rel="noopener" target="_blank">
+                      <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://tx-mclennancounty.civicplus.com/DocumentCenter/View/19087/Cumulative-Results-4" rel="noopener" target="_blank">
                        Election Night Results (.pdf)
                       </a>
                      </p>
                      <p>
-                      <a href="https://tx-mclennancounty.civicplus.com/DocumentCenter/View/19088/Vote-Centers-RANDOM-4" rel="noopener" target="_blank">
+                      <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://tx-mclennancounty.civicplus.com/DocumentCenter/View/19088/Vote-Centers-RANDOM-4" rel="noopener" target="_blank">
                        Election Day Vote Center Reports (.pdf)
                       </a>
                      </p>
                      <p>
-                      <a href="https://tx-mclennancounty.civicplus.com/DocumentCenter/View/19091/Preliminary-RANDOM-RANDOM-11-3-2026" rel="noopener" target="_blank">
+                      <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://tx-mclennancounty.civicplus.com/DocumentCenter/View/19091/Preliminary-RANDOM-RANDOM-11-3-2026" rel="noopener" target="_blank">
                        Preliminary Election Reconciliation Form (.pdf)
                       </a>
                      </p>
                      <p>
-                      <a href="https://tx-mclennancounty.civicplus.com/DocumentCenter/View/18981/EV-Turnout-Totals" rel="noopener" target="_blank">
+                      <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://tx-mclennancounty.civicplus.com/DocumentCenter/View/18981/EV-Turnout-Totals" rel="noopener" target="_blank">
                        Turnout Totals for Early Voting: In-Person and By-Mail (.pdf)
                       </a>
                      </p>
                      <p>
-                      <a href="https://tx-mclennancounty.civicplus.com/DocumentCenter/View/18980/Daily-List-of-EV-Voters" rel="noopener" target="_blank">
+                      <a aria-describedby="audioeye_new_window_message" class="docaccess-activated docaccess-status-enabled" href="https://tx-mclennancounty.civicplus.com/DocumentCenter/View/18980/Daily-List-of-EV-Voters" rel="noopener" target="_blank">
                        List of Early Voters: In-Person and By-Mail (.pdf)
                       </a>
                      </p>
@@ -504,10 +520,10 @@
                   <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                    <div class="widget editor pageStyles" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' id="divEditorGUID">
                     <div class="fr-view">
-                     <h1 class="headline">
+                     <h1 aria-level="2" class="headline" role="heading">
                       Past Election Results
                      </h1>
-                     <h2 class="subhead1">
+                     <h2 class="subhead1" role="presentation">
                       <a href="https://www.mclennan.gov/406/Past-RANDOM-Results">
                        Click here to view past election results.
                       </a>
@@ -524,7 +540,7 @@
              </div>
             </div>
            </div>
-           <aside class="secondaryContent" data-cprole="contentContainer" id="featureColumn">
+           <aside class="secondaryContent" data-cprole="contentContainer" id="featureColumn" role="presentation">
             <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
             </div>
            </aside>
@@ -548,13 +564,13 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid2">
-                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
+                 <nav class="widgetGraphicLinksNav">
                   <div class="row wide">
                    <div class="col col1 first">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
-                       <a class="fancyButton fancyButton315" href="/agendacenter" target="_self">
+                       <a class="fancyButton fancyButton315 docaccess-activated docaccess-status-unprocessable" href="/agendacenter" target="_self">
                         <span>
                          <span>
                           <span class="text">
@@ -573,7 +589,7 @@
                     </ul>
                    </div>
                    <div class="col col1 last">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton316" href="/337/Elections" target="_self">
@@ -614,10 +630,10 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid2">
-                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
+                 <nav class="widgetGraphicLinksNav">
                   <div class="row wide">
                    <div class="col col1 first">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton386" href="/1259/Careers" target="_self">
@@ -639,7 +655,7 @@
                     </ul>
                    </div>
                    <div class="col col1 last">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton317" href="/412/Juror-Home" target="_self">
@@ -680,10 +696,10 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid2">
-                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
+                 <nav class="widgetGraphicLinksNav">
                   <div class="row wide">
                    <div class="col col1 first">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton387" href="https://correctionsrecordssearch.com/mclennancounty" target="_self">
@@ -705,7 +721,7 @@
                     </ul>
                    </div>
                    <div class="col col1 last">
-                    <ul class="semanticList">
+                    <ul class="semanticList" role="presentation">
                      <li class="widgetItem GraphicLinks">
                       <div>
                        <a class="fancyButton fancyButton320" href="/218/Tax-Office" target="_self">
@@ -751,15 +767,15 @@
              <div class="row nest first last wide">
               <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
-                <section aria-label="Info Advanced" class="widget widgetInfoAdvanced skin73 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID">
+                <section class="widget widgetInfoAdvanced skin73 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
+                 <header class="widgetHeader" id="headerGUID" role="presentation">
                   <div class="">
                   </div>
                  </header>
                  <div class="widgetBody cpGrid cpGrid1">
                   <div class="row wide">
                    <div class="col col1 first last">
-                    <ol class="pageStyles semanticList">
+                    <ol class="pageStyles semanticList" role="presentation">
                      <li class="InfoAdvanced widgetItem fr-view">
                       <p>
                        <a href="/">
@@ -785,9 +801,9 @@
               <div class="inner col col5 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
                 <section aria-labelledby="headerGUID" class="widget widgetInfoAdvanced skin70 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID">
+                 <header class="widgetHeader" id="headerGUID" role="presentation">
                   <div class="">
-                   <h3>
+                   <h3 aria-level="2" role="heading">
                     Contact Us
                    </h3>
                   </div>
@@ -823,6 +839,9 @@
                        Phone:
                        <a class="Hyperlink" href="tel:254-757-5000" target="_self">
                         254-757-5000
+                        <span class="ae-compliance-indent">
+                         Phone Number
+                        </span>
                        </a>
                       </p>
                      </li>
@@ -850,9 +869,9 @@
               <div class="inner col col6 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/QuickLinks/Widget" data-widget-id="GUID">
                 <section aria-labelledby="quickLinksHeaderGUID" class="widget widgetQuickLinks skin70 widgetOptionSet37" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="quickLinks" id="widgetQuicklinkGUID">
-                 <header class="widgetHeader" id="quickLinksHeaderGUID">
+                 <header class="widgetHeader" id="quickLinksHeaderGUID" role="presentation">
                   <div class="">
-                   <h3>
+                   <h3 aria-level="2" role="heading">
                     <a href="/QuickLinks.aspx?CID=38">
                      Helpful Links
                     </a>
@@ -885,7 +904,7 @@
                       </div>
                      </li>
                      <li class="widgetItem QuickLinks">
-                      <a aria-label="Directions to Tradinghouse Lake (PDF) - Government Related Links opens in new window" class="widgetDesc widgetQuickLinksLink" href="/DocumentCenter/View/980" rel="noopener" target="_blank">
+                      <a aria-label="Directions to Tradinghouse Lake (PDF) - Government Related Links opens in new window" class="widgetDesc widgetQuickLinksLink docaccess-activated docaccess-status-enabled" href="/DocumentCenter/View/980" rel="noopener" target="_blank">
                        Directions to Tradinghouse Lake (PDF)
                       </a>
                       <div class="widgetMeta">
@@ -934,9 +953,9 @@
               <div class="inner col col4 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/QuickLinks/Widget" data-widget-id="GUID">
                 <section aria-labelledby="quickLinksHeaderGUID" class="widget widgetQuickLinks skin70 widgetOptionSet37" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="quickLinks" id="widgetQuicklinkGUID">
-                 <header class="widgetHeader" id="quickLinksHeaderGUID">
+                 <header class="widgetHeader" id="quickLinksHeaderGUID" role="presentation">
                   <div class="">
-                   <h3>
+                   <h3 aria-level="2" role="heading">
                     <a href="/QuickLinks.aspx?CID=39">
                      Site Links
                     </a>
@@ -1010,15 +1029,15 @@
              <div class="row nest first last wide">
               <div class="inner col col6 first last idGUID" data-widgetcontainerid="GUID">
                <div data-widget-controller-path="/InfoAdvanced/Widget" data-widget-id="GUID">
-                <section aria-label="Info Advanced" class="widget widgetInfoAdvanced skin71 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
-                 <header class="widgetHeader" id="headerGUID">
+                <section class="widget widgetInfoAdvanced skin71 widgetOptionSet5" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="infoAdv" id="divInfoAdvGUID">
+                 <header class="widgetHeader" id="headerGUID" role="presentation">
                   <div class="">
                   </div>
                  </header>
                  <div class="widgetBody cpGrid cpGrid1">
                   <div class="row wide">
                    <div class="col col1 first last">
-                    <ol class="pageStyles semanticList">
+                    <ol class="pageStyles semanticList" role="presentation">
                      <li class="InfoAdvanced widgetItem fr-view">
                       <p>
                        <a href="/">
@@ -1115,6 +1134,37 @@
   <div>
   </div>
   <div id="root-picker-outlet">
+  </div>
+  <div data-nosnippet="" id="ae_app">
+   <div class="ae-module" id="ae_helpers">
+   </div>
+   <div class="ae-module" id="ae_compliance">
+   </div>
+   <aside aria-label="Accessibility options" class="ae-module ae-active ae-cta-position-preset-right-lower" dir="ltr" id="ae_launcher">
+    <button aria-label="Explore your accessibility options">
+     <div class="ae-left">
+      <span>
+       Explore your accessibility options
+      </span>
+     </div>
+     <div class="ae-right">
+      <span class="icomoon-wrapper">
+       <div>
+        <span class="icomoon-cta ae-icon-launcher-universalaccess ae-initial-cta">
+         <span class="icomoon-cta path1 a11y-icon-figure-and-border">
+         </span>
+         <span class="icomoon-cta path2 a11y-icon-background">
+         </span>
+        </span>
+       </div>
+      </span>
+     </div>
+    </button>
+   </aside>
+   <span aria-hidden="true" id="ae_placeholder_toolbar">
+   </span>
+   <span aria-hidden="true" id="ae_placeholder_site-menu">
+   </span>
   </div>
  </body>
 </html>

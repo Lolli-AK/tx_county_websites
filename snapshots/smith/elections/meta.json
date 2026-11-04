@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.smith-county.com/227/Voter-Registration"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T07:29:55Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-11-04T08:29:58Z",
+  "html_sha256": "b4ab1c740966dccf7096d35bda7ee45b84b083ccc62b5fbd9467bf07cf66fe94",
+  "text_sha256": "4a6c0d01c14227a8c810b0e079b0e031eea692f0b896661036216fbea8b4a30a",
+  "byte_size": 64664,
+  "title": "Voter Registration | Smith County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
+  "error": null
 }
