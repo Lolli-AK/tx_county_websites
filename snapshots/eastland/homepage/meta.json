@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.eastlandcounty.gov/"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T15:39:37Z",
-  "html_sha256": "de71ea17c383a4a74e3e397b9004bc0b6e77e4dd03837cc5b8cf8d386f5b50c6",
-  "text_sha256": "a9011bac9edab309c225dfcd7f812b98cd19ab44ffba7f392b52b02f2dfb170a",
-  "byte_size": 3219,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T17:02:05Z",
+  "html_sha256": "2c7e2b4bc6d2dee7ea1798eec340a9a4a0a7d18f149560e1fbb1136c631c593e",
+  "text_sha256": "b6b1d5a45af3ed228e2ea6be06800c5dd8b32f97ad29d2d8a8682644d5158164",
+  "byte_size": 64727,
+  "title": "Eastland County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

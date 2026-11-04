@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.jeffcotxvotes.gov/elections/elections-dept/election-polling-locations/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-04T15:39:37Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-04T17:02:05Z",
+  "html_sha256": "f3b208f9f4e3c1b1f0ec165139a9c22ac6bb69fccafa83fe6e79529a7169bf94",
+  "text_sha256": "14bbe181eb7f8b50a196ac2a95f7f288e5dfa7e350f2b33835c9f6d5b1e134b8",
+  "byte_size": 131997,
+  "title": "Election Polling Locations & Times – Jefferson County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

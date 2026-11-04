@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.la-salle.tx.us/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T16:27:24Z",
-  "html_sha256": "bd6d0d0a618a0dd3bcb813dcf60e21898f87a92ffede0b5cb518a1d0d769450d",
-  "text_sha256": "6d8397f85019d1a5632ea9ef16aa601b4cd603d05b546d25c7e2fc65f58e3d81",
-  "byte_size": 81562,
-  "title": "La Salle County, Texas - Official Website",
+  "fetched_at": "2026-11-04T17:02:05Z",
+  "html_sha256": "06eb3fdcfb2f60ad9e2c8d1cd47dd5f6ccdca8d253037ebe86f696606beebcb3",
+  "text_sha256": "d84f59230c9020f47cc9ec0d7e081c1cbe05221aa5846dc29b5b10dc5b36562d",
+  "byte_size": 388,
+  "title": "403: Access Forbidden",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

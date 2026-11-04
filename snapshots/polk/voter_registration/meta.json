@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.polktx.gov/386/Voter-Registration"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T16:27:24Z",
-  "html_sha256": "1fd367ba0a79395ad1ba45cca2b4aa9e9d3c1b23aee4f4f37ab6aecd45ee8f59",
-  "text_sha256": "e19729571ae050dd01df746fe58e02dc62ee81ddc0af4c4a35b65cff0b982517",
-  "byte_size": 3195,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T17:02:05Z",
+  "html_sha256": "45a41a6a0fa2c8f373cfb79ec9c66fedbbef3e3a862d99f98b79d3a63a80ba8b",
+  "text_sha256": "4203ce42ed7f2a2267ba23d0e5f734cc2e8d6b2d9af406ac241b38fe6ff56a92",
+  "byte_size": 44124,
+  "title": "Voter Registration | Polk County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

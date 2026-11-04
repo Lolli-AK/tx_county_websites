@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.somervell.co/160/Elections"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T16:27:24Z",
-  "html_sha256": "77c61f323cb7afde4e3866cb77a88ad43b578dd1844959397144f6ca4f867a4e",
-  "text_sha256": "be9e84dc37b4847fe8bc5a79fb9248f661ae4f0026c5d0da1d7ce40223d9206b",
-  "byte_size": 3201,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T17:02:05Z",
+  "html_sha256": "cb1916d401726920bbd0fbe030b46788957fb2b5d45a66123bb3dd1583a7d845",
+  "text_sha256": "e81fe863440abdebc0d0749d2863579054c8ddb3eef7f38324a22cb9a634343d",
+  "byte_size": 48627,
+  "title": "Elections | Somervell County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

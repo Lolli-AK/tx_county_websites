@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.irion.tx.us/"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T15:39:37Z",
-  "html_sha256": "0d8545ba3de0b5a4d0c84772fc5b4b9d7a8c2d67f05d0a3adbef3ef3922f331c",
-  "text_sha256": "0af92318cb2cd1f784cefcab52b74251c01eaed371c8f1b1479bee87947893ff",
-  "byte_size": 3207,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T17:02:05Z",
+  "html_sha256": "5169869f66657e4f280d1b69c66209ceb02fdc32002fd0acb42d442140d87962",
+  "text_sha256": "6686680ffabc084ee54baeb16542d83b794a41576ce62e8d3bb15afb6cdc52ac",
+  "byte_size": 52563,
+  "title": "Irion County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

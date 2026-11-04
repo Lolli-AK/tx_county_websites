@@ -6,24 +6,29 @@
   "redirect_chain": [
     "https://www.comanchecountytx.gov/250/Vote-by-Mail-and-MilitaryOverseas-Voters"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T15:39:37Z",
-  "html_sha256": "65534e8ac61e687753749af61e98547a21f1e3616ac7893f7e2cadbe3c9fa1b3",
-  "text_sha256": "f68fa0968ccd5ab4569e41c2417e0b8b258ae8559fc0aaee9d5a64489ceebaff",
-  "byte_size": 3225,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T17:02:05Z",
+  "html_sha256": "acf050f333b1fdc6df3a4784d5dd1eb7a93a9861fd454e7f2b58ed9318c2545b",
+  "text_sha256": "8d3113d65d64a9ef15a54d541d2addbaac6bb03557f13b40e41bd588c78e5fe0",
+  "byte_size": 55726,
+  "title": "Vote by Mail and Military/Overseas Voters | Comanche County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava",
+      "uocava_form",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 19
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

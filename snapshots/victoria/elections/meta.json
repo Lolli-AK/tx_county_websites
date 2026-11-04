@@ -7,24 +7,26 @@
     "https://www.vctx.org/page/elections.home",
     "https://www.victoriacountytx.gov/page/elections.home"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T16:27:24Z",
-  "html_sha256": "acf47f9169472c7b0a256fdc551e63a9f48dd5cc455553f61f08f7d9c5b46e4f",
-  "text_sha256": "3412889813e4940fef25c65a4c5b59cabc56938e0cf6ea37f5f1faf90c29bdcc",
-  "byte_size": 3225,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T17:02:05Z",
+  "html_sha256": "8baa2282ca38d96c2d73f258e2ef519a7d2223d70021aeb13693f7017b8f153d",
+  "text_sha256": "d062a99acdc9e18623d9e6d1c71a6acaa80ea692521b7220eed3e4ad39e02dbd",
+  "byte_size": 70674,
+  "title": "Elections | Victoria County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

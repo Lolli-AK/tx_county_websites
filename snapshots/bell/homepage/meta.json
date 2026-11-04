@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.bellcountytx.com/"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T15:39:37Z",
-  "html_sha256": "68ed3e7b20d647e33783e0c65890cf35f6aac28d02ce7b20106dc740a32d9ef9",
-  "text_sha256": "343d94af6626b89cbd534b74068b9a69fb11414ec320aadb2dc9a72bd8efe7c4",
-  "byte_size": 145,
-  "title": "403 Forbidden",
+  "fetched_at": "2026-11-04T17:02:05Z",
+  "html_sha256": "03ac0a625cdd1ee2b12e741bd6db36ccbf8da87a4ece999710f7516656e15101",
+  "text_sha256": "8f0df5892654d740cd6af9564f8f4d582dfd524e5406078963726afdce70a54f",
+  "byte_size": 74975,
+  "title": "Bell County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

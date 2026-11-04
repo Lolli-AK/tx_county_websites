@@ -2,19 +2,19 @@
   "county": "Victoria",
   "page_type": "homepage",
   "requested_url": "https://www.vctx.org",
-  "final_url": "https://www.victoriacountytx.gov/",
+  "final_url": "https://www.victoriacountytx.gov",
   "redirect_chain": [
     "https://www.vctx.org",
-    "https://www.victoriacountytx.gov/"
+    "https://www.victoriacountytx.gov"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T16:27:24Z",
-  "html_sha256": "b82cecf00929e6849f85ce6b58ed36acc27bebb32d25ceb57fc840e3d33cf3ff",
-  "text_sha256": "c2c8ee2f998a2d3f50d7f3d9fc0850febc27c877387a10f639490c6d223cc537",
-  "byte_size": 53544,
+  "fetched_at": "2026-11-04T17:02:05Z",
+  "html_sha256": "1a34e5e62d1ac7b12fa11c45d1c193774dba0d6b36d67c71f6e19cfeb229753a",
+  "text_sha256": "ab484c21bbda9b9adc642797c5798c8a5adf73e7402e4a2ede53f53631b3fec9",
+  "byte_size": 50624,
   "title": "Victoria County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,

@@ -23,6 +23,7 @@ Election Results (Past & Present)
 Link to SOS Gillespie County Early Voting Turnout by Date
 Link to Live Reporting on Election Day Evening from Secretary of State (SOS) Office
 11-03-26 Unofficial Cumulative Results (PDF)
+11-03-26 Unofficial Precinct Results (PDF)
 05-02-26 Preliminary Election Reconciliation - Unofficial Totals (PDF)
 05-02-26 Unofficial Cumulative Results Report (PDF)
 2026 Democratic Primary and Runoff Results
@@ -84,6 +85,7 @@ November 3, 2026 General Election Voting Turnout by Date
 10-30-26 Ballot by Mail Returned (XLSX)
 10-30-26 In-Person Voter Roster (CSV)
 11-01-26 Ballot by Mail Returned (XLSX)
+11-03-26 Ballot by Mail Returned (XLSX)
 11-03-26 In-Person Voter Roster (CSV)
 Year 2026
 March 3, 2026 Voting Turnout by Date

@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.polktx.gov/389/Election-Results"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T16:27:24Z",
-  "html_sha256": "d69dae79a917a4c9f53dff52b4fb7833751beb99876cdb7e97c109407be78ba3",
-  "text_sha256": "085dbe72d4de6976a87d010f8e5114bcd752bc284dd6fe2361d256b38664123c",
-  "byte_size": 3195,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T17:02:05Z",
+  "html_sha256": "cb30125e5281802b6d61c62e2142e5a5662435aa587e8bdd9da6479134017906",
+  "text_sha256": "b0babe5ead45557346f98bdb3711c4601561c058f386c10c667aea34d9820d15",
+  "byte_size": 41518,
+  "title": "Election Results | Polk County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

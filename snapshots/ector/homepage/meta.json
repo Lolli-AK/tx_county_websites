@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.ectorcountytx.gov/"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T15:39:37Z",
-  "html_sha256": "0c5051bd9852a4d2f74743efa6066f69844a62c3facb41318b96d39d2f334ab7",
-  "text_sha256": "498199041bb52ee4ea0b89a749dac281292d6f1a426ca7c997c3095963a13413",
-  "byte_size": 3216,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T17:02:05Z",
+  "html_sha256": "2faccc1153e88747b8205e1fae2f4a785724ed096e6fa18f3b2700fbaed6921a",
+  "text_sha256": "23632c00370c0481ed2bc9b8c7ea6490d34b15b9ef67a1ddbde49af042ce869b",
+  "byte_size": 66783,
+  "title": "Ector County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.burnetcountytexas.org/1334/Voter-Registration"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T15:39:37Z",
-  "html_sha256": "9bc1820f840cae222a8ed96588f8163485160ab3925acd77e709bf46cd0bf338",
-  "text_sha256": "671d029ceb1d7acc3fd181d9a69dcaacde2fae8cc3948c59c8daefa70735f38c",
-  "byte_size": 3228,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T17:02:05Z",
+  "html_sha256": "5951c766808863e2f0c007e433de0a15e24083f52f2c5604dced5b3063a4d50a",
+  "text_sha256": "b45f94e7c22e7feee3c374058be4adf6d6da239eee43192ae02858653604f778",
+  "byte_size": 46244,
+  "title": "Voter Registration | Burnet County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
