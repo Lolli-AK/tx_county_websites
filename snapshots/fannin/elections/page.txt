@@ -504,6 +504,8 @@ A LOS VOTANTES CALIFICADOS RESIDENTES DE
 LA CIUDAD DE LEONARD
 Public Notice of Logic and Accuracy Testing (LAT)
 LAT - First Test
+Unofficial Cumulative Results
+Unofficial Precinct Results
 Important Dates:
 Last day to Register to Vote – Monday, October 5, 2026
 Early Voting Period - Monday, October 19 - October 30, 2026
@@ -530,6 +532,7 @@ October 27, 2026 - 585 Voters
 October 28, 2026 - 513 Voters
 October 29, 2026 - 572 Voters
 October 30, 2026 - 901 Voters
+November 3, 2026 - 4174 Voters
 Early Voters - City of Leonard
 October 19, 2026 - 30 Voters
 October 20, 2026 - 22 Voters
@@ -543,6 +546,7 @@ October 27, 2026 -20 Voters
 October 28, 2026 - 21 Voters
 October 29, 2026 - 30 Voters
 October 30, 2026 - 40 Voters
+November 3, 2026 - 305 Voters
 2025 Elections
 ▲
 November 4, 2025 Constitutional Amendment Election

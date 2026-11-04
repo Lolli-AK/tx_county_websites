@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.smith-county.com/236/Current-Election-Results"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T06:29:56Z",
-  "html_sha256": "e30c761231681b35456cf46625bbe33eb79f8d2788753baab479e97a691e7bdf",
-  "text_sha256": "dda677341dffc1d2d956ae0c4dffc31488abcd4699a125914b16a61292531d88",
-  "byte_size": 62777,
-  "title": "Current Election Results | Smith County, TX",
+  "fetched_at": "2026-11-04T07:29:55Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ReadTimeout: The read operation timed out"
 }
