@@ -73,10 +73,6 @@ S
 3
 4
 5
-Tue, Nov 3
-Meridian Grassroots
-Meridian Grassroots
-Read On
 Wed, Nov 4
 County Court at Law Docket
 County Court at Law Docket
@@ -88,6 +84,10 @@ Read On
 Mon, Nov 9
 Commissioners Court
 Commissioners Court
+Read On
+Mon, Nov 9
+District Court Civil Non-Jury Docket
+District Court Civil Non-Jury Docket
 Read On
 View All Events
 /Calendar.aspx

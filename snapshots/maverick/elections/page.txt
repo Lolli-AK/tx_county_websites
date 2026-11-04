@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-62°F
+59°F
 EN
 ES
 Government
@@ -32,7 +32,7 @@ Notices
 Agendas ↗
 Contact
 Results · General Election
-Check the results here as they are posted
+Results are now available
 November 3, 2026 General Election
 View results
 Elections
@@ -49,9 +49,436 @@ General Election · Nov 3, 2026
 Election Results
 The polls closed at 7:00 PM. Reports are posted here as the Elections Department releases them.
 Unofficial results. They become official after the Commissioners Court canvass.
+TABLE
 Early Voting Results
-Pending · will be posted here as soon as it's available
-Reload this page in a few minutes to see the results.
+In person only · 9,587 ballots · mail ballots not yet included.
+View
+Unofficial results
+Early voting in person
+9,587 ballots processed. Mail ballots and Election Day ballots are not yet included.
+Watch the live announcement
+Federal
+3 races
+U.S. Senator
+Ken Paxton
+REP
+2,243
+23.40%
+James Talarico
+DEM
+60,064
+63.25%
+Ted Brown
+LIB
+301
+6.14%
+Write-in
+23
+0.24%
+U.S. Rep. District 23
+Brandon Herrera
+REP
+2,077
+25.35%
+Katy Padilla Stout
+DEM
+4,759
+58.09%
+Ben Mendoza
+IND
+336
+4.10%
+U.S. Rep. District 28
+Tano E. Tijerina
+REP
+287
+20.57%
+Henry Cuellar
+DEM
+860
+61.65%
+Marlón Durán
+GRN
+52
+3.73%
+State
+22 races
+Governor
+Greg Abbott
+REP
+2,665
+27.80%
+Gina Hinojosa
+DEM
+6,104
+63.67%
+Pat Dixon
+LIB
+105
+1.10%
+Write-in
+11
+0.11%
+Lieutenant Governor
+Dan Patrick
+REP
+2,367
+24.69%
+Vikki Goodwin
+DEM
+5,301
+55.29%
+Anthony Cristo
+LIB
+307
+3.20%
+Kevin McCormick
+GRN
+121
+1.26%
+Write-in
+21
+0.22%
+Attorney General
+Mayes Middleton
+REP
+2,297
+23.96%
+Nathan Johnson
+DEM
+5,450
+56.85%
+Tom Oxford
+LIB
+234
+2.44%
+Comptroller of Public Accounts
+Don Huffines
+REP
+2,179
+22.73%
+Sarah Eckhardt
+DEM
+5,297
+55.25%
+V. Alonzo Echavarria-Garza
+LIB
+410
+4.28%
+Shehla Faizi
+GRN
+91
+0.95%
+Commissioner of the General Land Office
+Dawn Buckingham
+REP
+2,168
+22.61%
+Benjamin Flores
+DEM
+5,772
+60.21%
+Neill Snider
+LIB
+172
+1.79%
+Commissioner of Agriculture
+Nate Sheets
+REP
+2,192
+22.86%
+Clayton Tucker
+DEM
+5,287
+55.15%
+Austin R. Kelly
+LIB
+312
+3.25%
+Railroad Commissioner
+Bo French
+REP
+2,200
+22.95%
+Jon Rosenthal
+DEM
+5,313
+55.42%
+Arthur DiBianca
+LIB
+331
+3.45%
+Chief Justice, Supreme Court
+Jimmy Blacklock
+REP
+2,417
+25.21%
+Maggie Ellis
+DEM
+5,432
+56.66%
+Justice, Supreme Court, Place 2 (Unexpired Term)
+James P. Sullivan
+REP
+2,531
+26.40%
+Chari Kelly
+DEM
+5,442
+56.76%
+Justice, Supreme Court, Place 7
+Kyle Hawkins
+REP
+2,396
+24.99%
+Kristen Hawkins
+DEM
+5,450
+56.85%
+Justice, Supreme Court, Place 8
+Brett Busby
+REP
+2,267
+23.65%
+Gisela D. Triana
+DEM
+5,530
+57.68%
+Judge, Court of Criminal Appeals, Place 3
+Thomas Smith
+REP
+2,454
+25.60%
+Okey Anyiam
+DEM
+5,058
+52.76%
+Mark Ash
+LIB
+265
+2.76%
+Judge, Court of Criminal Appeals, Place 4
+Kevin Patrick Yeary
+REP
+2,367
+24.69%
+Audra Riley
+DEM
+5,277
+55.04%
+Judge, Court of Criminal Appeals, Place 9
+John Messinger
+REP
+2,317
+24.17%
+Holly Taylor
+DEM
+5,347
+55.77%
+State Senator, District 19
+Marcus Cardenas
+REP
+2,326
+24.26%
+Roland Gutierrez
+DEM
+5,589
+58.30%
+State Representative, District 74
+Robert Garza
+REP
+2,067
+21.56%
+Eddie Morales, Jr
+DEM
+6,622
+69.07%
+Chief Justice, 15th Court of Appeals District
+Scott Brister
+REP
+2,255
+23.52%
+Jerry Zimmerer
+DEM
+5,410
+56.43%
+Justice, 15th Court of Appeals District, Place 2
+Scott K. Field
+REP
+2,268
+23.66%
+Tom Baker
+DEM
+5,437
+56.71%
+Justice, 15th Court of Appeals District, Place 3
+April Farris
+REP
+2,397
+25.00%
+Marc M. Meyer
+DEM
+5,283
+55.11%
+Chief Justice, 4th Court of Appeals District
+Bert Richardson
+REP
+2,168
+22.61%
+Antonia "Toni" Arteaga
+DEM
+5,485
+57.21%
+District Judge, 293rd Judicial District
+Maribel Flores
+DEM
+6,507
+67.87%
+District Judge, 365th Judicial District
+Amado Abascal
+DEM
+6,375
+66.50%
+County
+13 races
+County Judge
+Ruben J Camarillo
+REP
+1,020
+10.64%
+Gerardo "Jerry" Morales
+DEM
+5,908
+61.63%
+David R. Saucedo
+IND
+2,142
+22.34%
+Judge, County Court at Law (Unexpired Term)
+Ricardo Ramos
+REP
+3,291
+34.33%
+Cecilia A. Mascorro
+DEM
+5,380
+56.12%
+District Clerk
+Leopoldo "Polo" Vielma
+DEM
+6,301
+65.72%
+County Clerk
+Sara Montemayor
+DEM
+6,413
+66.89%
+County Treasurer
+Rito J. Valdez
+DEM
+6,388
+66.63%
+County Commissioner, Precinct 1 (Unexpired Term)
+Mario Cruz
+DEM
+1,781
+67.06%
+County Commissioner, Precinct 2
+Tom Cary
+REP
+504
+28.97%
+Rosy Cantu
+DEM
+1,091
+62.70%
+County Commissioner, Precinct 4
+Guadalupe "Lupe" Negrete
+REP
+703
+26.83%
+Alejandro Esquivel
+DEM
+1,700
+64.89%
+Justice of the Peace, Precinct 1
+Anna Gabriela Derbez
+REP
+627
+23.61%
+Kina Mancha
+DEM
+1,660
+62.50%
+Justice of the Peace, Precinct 2
+Ernie Leija
+DEM
+1,123
+64.54%
+Justice of the Peace, Precinct 3, Place 1
+Gilbert Salas
+REP
+612
+24.82%
+Edgar Juarez
+DEM
+1,097
+44.48%
+Write-in: Domingo Rodriguez
+561
+Justice of the Peace, Precinct 3, Place 2
+Lidia Montes
+REP
+43
+40.95%
+Brianna Salas
+DEM
+56
+53.33%
+Justice of the Peace, Precinct 4
+Tere Hernandez
+DEM
+1,778
+67.86%
+Eagle Pass Independent School District
+3 races
+Trustee, Position 3
+Victor E. Perry
+5,809
+60.59%
+Trustee, Position 4
+Hilda P. Martinez
+4,321
+45.07%
+Mario Castillon
+2,458
+25.64%
+Trustee, Position 5
+Claudio Heredia
+5,591
+58.32%
+Maverick County Hospital District
+1 race
+Board of Directors (vote for up to 2)
+Erika Diaz
+3,149
+16.42%
+Stephany Valdez
+3,682
+19.20%
+Guillermo Hernandez
+910
+4.75%
+Eliezer Hernandez Yeled Shalom P Clinic
+2,167
+11.30%
+Jesus Casas
+2,292
+11.95%
+Judy Canales
+1,747
+9.11%
+Figures from the Maverick County Elections Department live announcement. Results are unofficial until the Commissioners Court canvass.
 Election Public Notices
 Public Notice
 Posted October 16, 2026

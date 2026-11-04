@@ -113,6 +113,8 @@ for your House Number.
 Date of Birth (MM/DD/YYYY):
 House Number:
 Check Registration & Find Sample Ballot
+Preliminary Election Reconciliation – Unofficial Totals
+Unofficial Election Day Results with Assigned Write-Ins
 Unofficial Election Day Results
 Unofficial Early Voting & Absentee Results
 Pre-Tabulation Zero Report

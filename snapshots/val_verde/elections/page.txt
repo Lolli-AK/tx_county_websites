@@ -199,6 +199,10 @@ Because Poll Pads do take a few minutes to update, it allowed for a second check
 The first check in was canceled and updated in the state system. The voter received one ballot and only voted once. The tabulating machines and the total
 number of voters checked in are balanced and the voter did not vote twice.
 Friday, October 30, 2026 - 1,011 Voters
+ELECTION DAY
+Tuesday, November 3, 202
+6 Voters
+Unofficial Election Results
 For candidate filing information, please contact:
 Ms. Rosalinda Hernandez, Democratic Party Chair
 Phone: (830) 734-5313

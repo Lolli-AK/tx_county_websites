@@ -196,7 +196,9 @@ Write in Candidate List
 Escribir en la lista de candidatos
 - This list will be found in the voting booth when you arrive at the polls to vote.
 Papeleta de muestra en español
-Early Voting/ Absentee Unofficial Results
+Early Voting/ Absentee/ Election Day Unofficial Results
+Unofficial Reconciliation
+Certification of 2nd and 3rd Logics and Accuracy Tests
 Last Day to Register to Vote for this election is:
 Monday, October 5, 2026
 (El último día para registrarse para votar en estas elecciones es el jueves 5 de
