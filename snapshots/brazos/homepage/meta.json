@@ -2,20 +2,20 @@
   "county": "Brazos",
   "page_type": "homepage",
   "requested_url": "https://www.brazoscountytx.gov/",
-  "final_url": "https://www.brazoscountytx.gov/?ki-cf-botcl=1",
+  "final_url": "https://brazoscountytx.gov/",
   "redirect_chain": [
     "https://www.brazoscountytx.gov/",
-    "https://www.brazoscountytx.gov/?ki-cf-botcl=1"
+    "https://brazoscountytx.gov/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T18:21:53Z",
-  "html_sha256": "d1e6a4d4cd57e634a17476a997ca5c49ce9a198dc8d4de2f5ae56deedac4bc36",
-  "text_sha256": "abe8c844fd26c465dc49c0878951a0a65b6efe6fc5c8b0c97818f15ef64fd556",
-  "byte_size": 3219,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T19:20:40Z",
+  "html_sha256": "00fa084968f1b3167b50ee9e65f8d6ce59ccdfcf14efdffae956fd3c68b7a1c2",
+  "text_sha256": "1aec25b0518d1aec0976f8e970c39109b33a7b5651dc570238dc679af76f03fc",
+  "byte_size": 65582,
+  "title": "Brazos County, TX – Official Website – Official Website of Brazos County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
