@@ -122,6 +122,11 @@ Para registrarse para votar en el condado de De Witt, puede regoger una tarjeta 
 Current and Upcoming Elections
 This page will be updated with the time, date, and place for each election including a listing of the precinct polling places and sample ballot information. At the conclusion of an election, the results from the election will also be posted on this page.
 UNOFFICIAL EARLY VOTING RESULTS
+UNOFFICIAL CUMULATIVE RESULTS
+- INCLUDES EARLY VOTING, ABSENTEE AND ELECTION DAY
+PRELIMINARY ELECTION RECONCILIATION
+- UNOFFICIAL TOTALS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 SAMPLE BALLOTS PRECINCT 1 (101, 102)
 SAMPLE BALLOTS PRECINCT 2 (201, 202, 203)
 SAMPLE BALLOTS PRECINCT 3 (301, 302, 303)
@@ -152,11 +157,13 @@ Early Voting in Person 10/28/2026
 Ballot by Mail 10/20/2026
 Early Voting in Person 10/29/2026
 Ballot by Mail 10/21/2026
-Early Voting in Person 10/30/2026
+Early Voting in Person 10/30/202
 Ballot by Mail 10/22/2026
 Ballot by Mail 10/23/2026
 Ballot by Mail 10/26/2026
+ELECTION DAY IN PERSON VOTING ROSTER
 Ballot by Mail 10/27/2026
+Election Day in Person 11/03/2026
 Ballot by Mail 10/28/2026
 Ballot by Mail 10/29/2026
 Ballot by Mail 10/30/2026

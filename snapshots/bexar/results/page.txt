@@ -1,2 +1,8 @@
-504 Gateway Time-out
-504 Gateway Time-out
+List Elections
+Election List
+Election Night Reporting
+Filter by:
+ALL
+Elections not available!
+Copyright 2026 - SOE Software
+Powered by SOE Software

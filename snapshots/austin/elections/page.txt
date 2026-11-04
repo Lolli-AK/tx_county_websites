@@ -139,7 +139,7 @@ L& A Testing -
 Automatic Tabulation Equipment
 ;
 E-Poll Books
-Voting Results Summary
+Early Voting Results Summary
 Notice of Convening EVBB
 Voting Results by Precinct
 Order Calling SVC

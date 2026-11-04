@@ -76,6 +76,7 @@ Certification of Public LAT
 Hash Test Results (PASS)
 Notice of LAT of Poll Pads
 Certification of LAT of Poll Pads
+Unofficial Results for November 3 2026 General Election
 Primary Runoff Information
 Notice of Election for Primary Runoff
 Logic & Accuracy Testing Notice for Runoff

@@ -115,7 +115,9 @@ Preliminary Election Reconciliation
 Post-Election Hand Count Audit Summary and Certification
 VOTER LISTS--
 ELECTION DAY:
-November 3, 2026 - Voter List
+November 3, 2026 -
+Voter List (5000)
+Voter List (5000-6089)
 EARLY VOTING:
 October 19, 2026 - Voter List
 : 1956

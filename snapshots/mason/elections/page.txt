@@ -120,6 +120,9 @@ SPECIFIC
 INFORMATION
 November 3, 2026 General Election
 ▲
+11/03/26 GENERAL ELECTION
+RESULTS
+!
 Monday, October 5, 2026 is the LAST day to register for the November General Election.
 First day to apply for Ballot by Mail - Thursday, January 1, 2026.
 Last Day to Receive an Application for Ballot by Mail Or FPCA - Friday, October 23, 2026.
@@ -128,7 +131,9 @@ Results
 )
 Logic and Accuracy Testing (2) Date: October 16, 2026 @ 10am (
 Results
-)/Post Election
+)/Post Election (
+Results
+)
 GOVERNOR'S PROCLAMATION ORDERING NOVEMBER 3, 2026 GENERAL ELECTION.
 ORDER OF ELECTION - NOVEMBER GENERAL ELECTION FOR COUNTY OFFICERS
 NOTICE OF GENERAL ELECTION - NOVEMBER 3, 2026 GENERAL ELECTION

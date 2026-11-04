@@ -119,6 +119,8 @@ Official Canvass Results
 **Early Voting and Mail-In Ballot Results**
 Reconciliation of Total Votes Cast at Each Polling Location
 Press ENTER key to focus on the active panel
+**Unofficial Results**
+Preliminary Election Reconciliation
 Palo Pinto County Courthouse   |   520 Oak Street   |   Palo Pinto, TX 76484
 Web Accessibility
 Staff Login
