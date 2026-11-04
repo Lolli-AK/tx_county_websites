@@ -6,28 +6,24 @@
   "redirect_chain": [
     "https://www.calhouncotx.org/calhoun-county-elections/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T17:40:32Z",
-  "html_sha256": "756068d39d8ed36b01507229227fa7e762c391d1871065900eea68b1bb801531",
-  "text_sha256": "0b4e885b2f26ca6977f55a56d8aeafd95e6c6a3c6301d36fde9beb3c8c2334a9",
-  "byte_size": 29793,
-  "title": "CALHOUN COUNTY ELECTIONS - Calhoun County Texas",
+  "fetched_at": "2026-11-04T18:21:53Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter"
-    ],
-    "count": 3
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }
