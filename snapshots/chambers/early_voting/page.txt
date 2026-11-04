@@ -70,10 +70,12 @@ Voting Precinct 7 (PDF)
 Voting Precinct 8 (PDF)
 Voting Precinct 9 (PDF)
 Results
-ED Precinct Results 11-03-2026 - Unofficial-WM-WM
-EV Canvass Results Unofficial - WM (PDF)
-EV Cumulative Results Unofficial - WM (PDF)
-EV Precinct Results Unofficial - WM (PDF)
+ED Canvass Results 11-03-2026 - Unofficial-WM (PDF)
+ED Cumulative Results 11-03-2026 - Unofficial-WM (PDF)
+ED Precinct Results 11-03-2026 - Unofficial-WM (PDF)
+EV Canvass Results 11-03-2026 - Unofficial - WM (PDF)
+EV Cumulative Results 11-03-2026 - Unofficial - WM (PDF)
+EV Precinct Results 11-03-2026 - Unofficial - WM (PDF)
 Election Information & Turnout Data
 Tabulation Livestream
 Agendas & Minutes
