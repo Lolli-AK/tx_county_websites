@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T14:39:40Z",
-  "html_sha256": "6bb3708323b063596a25aca580ddd94840ec8eb1f5b82722efb68a1029d89498",
+  "fetched_at": "2026-11-04T16:27:24Z",
+  "html_sha256": "08fa757bb4107399423f562e1ad73931f57dc4c85c623eea3aeda2f963086b96",
   "text_sha256": "5e3aad129c88f48b28be6f29b24795a1081738336ced3b0d00b72faf7f4c0e0f",
-  "byte_size": 55614,
+  "byte_size": 55612,
   "title": "Elections - Parmer County",
   "noncitizen_voting": {
     "present": false,
