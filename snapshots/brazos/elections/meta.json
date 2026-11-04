@@ -2,19 +2,20 @@
   "county": "Brazos",
   "page_type": "elections",
   "requested_url": "https://elections.brazoscountytx.gov/",
-  "final_url": "https://elections.brazoscountytx.gov/",
+  "final_url": "https://elections.brazoscountytx.gov/?ki-cf-botcl=1",
   "redirect_chain": [
-    "https://elections.brazoscountytx.gov/"
+    "https://elections.brazoscountytx.gov/",
+    "https://elections.brazoscountytx.gov/?ki-cf-botcl=1"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T19:20:40Z",
-  "html_sha256": "fb273875ec901d0baafbf55c7caeeb1c376796b302ed5962b0f663cc74909b91",
-  "text_sha256": "796f175a4e509d1e12b3533fb7db804df8472165d75943d6e71873ce587dd59f",
-  "byte_size": 28385,
-  "title": "Brazos Votes – Official Website of the Brazos County, Texas Elections Administration",
+  "fetched_at": "2026-11-04T19:46:45Z",
+  "html_sha256": "7775d04a44d0a058acec41b78c79b1f2c2ea6d2721c124b916d330d5fe003040",
+  "text_sha256": "9818740f6fe401e7e6705dc31af23041cc000d8a311a8b31ef18d41fa1ea3ee1",
+  "byte_size": 3237,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
