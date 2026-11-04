@@ -184,6 +184,16 @@ Dorris Van Doren Library
 Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
+EPCC Administrative Services Center
+9050 Viscount Blvd. 79925
+A-Building Foyer
+(Área de Espera de Edificio-A)
+Map & Details
+EPCC Transmountain Campus
+9570 Gateway North Blvd. 79924
+Pit, Next to the Union
+(Pit, al Lado de la Unión)
+Map & Details
 El Paso County Eastside Annex
 2350 George Dieter Dr. 79936
 Community Room
@@ -198,16 +208,6 @@ Enrique Moreno County Courthouse - Main Early Voting Location
 500 E. San Antonio Ave. 79901
 Third Floor, Back Lobby
 (Tercer Piso, Área de Espera)
-Map & Details
-EPCC Administrative Services Center
-9050 Viscount Blvd. 79925
-A-Building Foyer
-(Área de Espera de Edificio-A)
-Map & Details
-EPCC Transmountain Campus
-9570 Gateway North Blvd. 79924
-Pit, Next to the Union
-(Pit, al Lado de la Unión)
 Map & Details
 Esperanza Acosta Moreno Library
 12480 Pebble Hills Blvd. 79938
@@ -299,6 +299,11 @@ UTEP-Union Building East
 River View Room 102H
 (Cuarto River View 102H)
 Map & Details
+W.E. Neill Community Center
+19210 Cobb Ave. 79853
+Library
+(Biblioteca)
+Map & Details
 Wayne Thornton Community Center at Grandview
 3134 Jefferson Ave. 79930
 Classroom
@@ -308,11 +313,6 @@ Wellington Chew Senior Center
 4430 Maxwell Ave. 79904
 Classroom
 (Salón)
-Map & Details
-W.E. Neill Community Center
-19210 Cobb Ave. 79853
-Library
-(Biblioteca)
 Map & Details
 Western Technical College-Northeast
 9451 Diana Dr. 79924
