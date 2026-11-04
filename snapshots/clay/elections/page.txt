@@ -60,8 +60,10 @@ Henrietta, TX
 Federal Write-in Absentee Ballot (FWAB)
 Track Your Ballot by Mail
 November 3, 2026 General Election
-EARLY VOTING RESULTS
-RESULTS TOTALS
+Early Voting Results
+Results Bar Graph
+Results Summary
+Precinct Results
 ALL RESULTS ARE UNOFFICIAL UNTIL CANVASSED.
 Preliminary Reconciliation
 Order of Election
