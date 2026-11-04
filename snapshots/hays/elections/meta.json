@@ -6,28 +6,24 @@
   "redirect_chain": [
     "https://www.hayscountytx.gov/172/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T09:12:20Z",
-  "html_sha256": "39cea8670fe252523594e8d39731cdb39f04e33f1a43f7c645a0d850303d91b2",
-  "text_sha256": "10fda80d2233b58062a144ea935727c49cf96a37a2e931081c7bf06bd9e86c04",
-  "byte_size": 83965,
-  "title": "Elections | Hays County, TX",
+  "fetched_at": "2026-11-04T10:09:43Z",
+  "html_sha256": "54ac975ab64bc08fe8ec679c4c5cd31b83f38710751bd28e190dc07af53038ea",
+  "text_sha256": "7539b4b105ad4c761a13952fcc14bb2ef6eb8a980d8ed909fa06433bc427ad4e",
+  "byte_size": 3330,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava",
-      "uocava_form",
-      "military_overseas_voter"
-    ],
-    "count": 4
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
