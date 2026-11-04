@@ -121,6 +121,7 @@ November 3, 2026 -
 General Election
 Results:
 Final Unofficial Results
+(updated)
 Precinct by Precinct Unofficial Results
 Unofficial Results - Early Voting Only
 Important Dates
@@ -138,7 +139,7 @@ Election Day - In Person Rosters
 10/19/2026
 10/20/2026
 10/21/2026
-Coming Soon
+11/03/2026
 10/22/2026
 10/23/2026
 10/24/2026
@@ -153,7 +154,7 @@ Election Day - Ballot by Mail Rosters
 10/19/2026
 10/20/2026
 10/21/2026
-Coming Soon
+11/03/2026
 10/22/2026
 10/23/2026
 10/24/2026
