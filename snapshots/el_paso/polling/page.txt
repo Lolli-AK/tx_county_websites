@@ -161,7 +161,7 @@ Main Room
 (Cuarto Principal)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Austin High School
 3500 Memphis Ave. 79930
 Fine Arts Lobby
@@ -203,7 +203,7 @@ PCL Room A105
 (Cuarto PLC A105)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Campestre Elementary School
 11399 Socorro Rd. 79927
 Lobby
@@ -245,7 +245,7 @@ Portable #3
 (Portátil #3)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Center for Career and Technology Education
 1170 N. Walnut St. 79930
 Custodial Lounge
@@ -308,7 +308,7 @@ Meeting Room
 (Cuarto de Juntas)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Congressman Silvestre & Carolina Reyes School
 7440 Northern Pass Dr. 79911
 Lower Level, East Corridor
@@ -343,7 +343,7 @@ Foyer
 (Área de Espera)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Dorris Van Doren Library
 551 Redd Rd. 79912
 Multipurpose Room
@@ -357,7 +357,7 @@ Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Dr. Josefina Villamil Tinajero PK-8 School
 301 Lisbon St. 79905
 Old Gym
@@ -385,7 +385,7 @@ Library
 (Biblioteca)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Eastside Senior Citizen Center
 3200 Fierro Dr. 79935
 Lobby
@@ -427,7 +427,7 @@ Cafeteria
 (Cafeteria)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 El Paso County Eastside Annex
 2350 George Dieter Dr. 79936
 Community Room
@@ -490,7 +490,7 @@ Pool Room
 (Cuarto de Billar)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Family Youth Services Center
 6314 Delta Dr. 79905
 Lobby
@@ -511,7 +511,7 @@ Apparatus Bay
 (Bahía de Aparatos)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 Fire Station #2
 111 E. Borderland Rd. 79932
 Apparatus Bay
@@ -532,14 +532,14 @@ System Integration Room
 (Cuarto de Integración de Sistemas)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Gary del Palacio Recreation Center
 3001 Parkwood St. 79925
 Multipurpose Room
 (Cuarto de Multiusos)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Gonzalez Place
 4101 Rich Beem Blvd. 79938
 Community Room
@@ -574,7 +574,7 @@ Library
 (Biblioteca)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Hilos de Plata Senior Center
 4451 Delta Dr. 79905
 Classroom
@@ -595,7 +595,7 @@ Foyer
 (Área de Espera)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 H.R. Moye Elementary School
 4825 Alps Dr. 79904
 Multipurpose Room
@@ -609,7 +609,7 @@ Gymnasium
 (Gimnasio)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 Jane Hambric K-8 School
 3535 Nolan Richardson Dr. 79936
 Teacher’s Lounge
@@ -693,7 +693,7 @@ Classroom
 (Salón)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+More Than 30 Minutes
 Mesita Elementary School
 3307 N. Stanton St. 79902
 Library
@@ -721,7 +721,7 @@ Small Rink
 (Pequeña Pista)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Officer David Ortiz Recreation Center
 563 N. Carolina Dr. 79915
 Classroom A
@@ -735,7 +735,7 @@ Counseling Suite 503
 (Suite de Consejería 503)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+10 - 20 Minutes
 Oz Glaze Senior Center
 13969 Veny Webb St. 79928
 Main Dining Area
@@ -847,7 +847,7 @@ TSC Library
 (Biblioteca del TSC)
 Map & Details
 Current Wait Time:
-10 - 20 Minutes
+Less Than 10 Minutes
 South El Paso Senior Citizens Center
 600 S. Ochoa St. 79901
 Multipurpose Room
@@ -945,7 +945,7 @@ Library
 (Biblioteca)
 Map & Details
 Current Wait Time:
-Less Than 10 Minutes
+20 - 30 Minutes
 YISD Central Office
 9600 Sims Dr. 79925
 Tigua Room

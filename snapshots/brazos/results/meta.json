@@ -2,20 +2,19 @@
   "county": "Brazos",
   "page_type": "results",
   "requested_url": "https://elections.brazoscountytx.gov/results/",
-  "final_url": "https://elections.brazoscountytx.gov/results/?ki-cf-botcl=1",
+  "final_url": "https://elections.brazoscountytx.gov/results/",
   "redirect_chain": [
-    "https://elections.brazoscountytx.gov/results/",
-    "https://elections.brazoscountytx.gov/results/?ki-cf-botcl=1"
+    "https://elections.brazoscountytx.gov/results/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-03T23:39:09Z",
-  "html_sha256": "0ce952e397121b0be6cbd59c03d734265e4f99392ab4cf6b5ba51266e654bc4f",
-  "text_sha256": "33ba9c849093ff7b3a7dfe1ece51017d863d6a3b17518f30cdbec73efbd1d55c",
-  "byte_size": 3237,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T00:39:08Z",
+  "html_sha256": "23b05f577358f3d6c3dd2e896d17b429f9e0af5a0230ade5cb95ee8163bd73a8",
+  "text_sha256": "367761a97355951a0f56ac00a438a5a4dcf5d35dceab851c05fd8e2407e65ba6",
+  "byte_size": 73108,
+  "title": "Results – Brazos Votes",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

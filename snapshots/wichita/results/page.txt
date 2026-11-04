@@ -71,7 +71,7 @@ Calendar
 More Results
 No Results found for: {{ input }}
 Election Results
-Election Menu
+Elections Menu
 Current Election Information
 Current Election Notices, Turnout and Rosters
 Sample Ballots
