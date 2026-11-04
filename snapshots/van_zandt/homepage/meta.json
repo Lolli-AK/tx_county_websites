@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T03:29:54Z",
-  "html_sha256": "1b6ab60164aecc67fc2b5f5608a3152b783700077e9e58528fb3517b4f6e90a4",
+  "fetched_at": "2026-11-04T04:29:55Z",
+  "html_sha256": "35f561f3a351cca4a9cc2a60b7d707bc095f0bd050f510ef40775b20cbe0a3f8",
   "text_sha256": "db3fc397405c148f8a1cef797d68b7d73c752437151d41be4a75c5585a85370b",
-  "byte_size": 39161,
+  "byte_size": 39189,
   "title": "Home Page - Van Zandt County",
   "noncitizen_voting": {
     "present": false,

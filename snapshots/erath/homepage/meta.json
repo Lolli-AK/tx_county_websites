@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.erath.tx.us/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T03:29:54Z",
-  "html_sha256": "651d4828c3112ec1df874626e3c17c476976bda3f425de026a11a274d0e54b3f",
-  "text_sha256": "c4f53c7272462622695b831fd4ffd74f71c4491a2a6063b819f347848bc0a057",
-  "byte_size": 3330,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-04T04:29:55Z",
+  "html_sha256": "22f2f1daece820fb9a5c0eb2651720eba313c0092dcff2f31dcf3f9900ea4db4",
+  "text_sha256": "8b6bbbc85c903dd096d6e246c6e1e858912490f3cf4559d5477c41877b36c8e4",
+  "byte_size": 65823,
+  "title": "Erath County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

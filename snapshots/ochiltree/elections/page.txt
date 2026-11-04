@@ -168,6 +168,7 @@ Notice of Canvass - Tex. Elec. Code 172.116
 Notice of Delivery of Provisional Ballots
 (Aviso de Entrega de Boletas Provisionales)
 Certification of Second Test of Automatic Tabulating Equipment
+Certification of Third Test of Automatic Tabulating Equipment
 SampIe ballots / Boletas de Muestra
 Precinct 1
 (Precinto 1)
@@ -208,7 +209,8 @@ BBM - 11/02/2026
 BBM - 11/03/2026
 ELECTION RETURNS
 (resultados electorales)
-Unofficial Results - Absentee and Early Voting Summary and Precinct Summary
+Unofficial Results - Absentee, Early Voting and Election Day Summary and Precinct Summary
+Preliminary Election Reconciliation - Unofficial Totals
 ** Important Dates / Fechas Importantes **
 First Day to Apply for Ballot by Mail
 Thursday, January 1, 2026*

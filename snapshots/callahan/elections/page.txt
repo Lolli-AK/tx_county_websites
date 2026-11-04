@@ -56,6 +56,7 @@ Logic and Accuracy Test on Tabulating Equipment
 #2
 Notice of Election
 Logic and Accuracy Test on Electronic Pollbook Equipment
+Preliminary Election Reconciliation - Unofficial Totals
 Early Voting Locations
 Main Early Voting Location
 Courthouse -100 West 4th St., Basement, Baird
@@ -112,6 +113,7 @@ General Election
 10-28-2026
 10-29-2026
 10-30-2026
+11-03-2026
 City of Clyde Election
 10-19-2026
 10-20-2026
@@ -125,6 +127,7 @@ City of Clyde Election
 10-28-2026
 10-29-2026
 10-30-2026
+11-03-2026
 Clyde CISD Election
 10-19-2026
 10-20-2026
@@ -138,6 +141,7 @@ Clyde CISD Election
 10-28-2026
 10-29-2026
 10-30-2026
+11-03-2026
 May 26, 2026, Primary Runoff Election
 ▲
 May 26, 2026, Primary Runoff Election

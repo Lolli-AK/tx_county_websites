@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.erath.tx.us/185/Voter-Registration"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T03:29:54Z",
-  "html_sha256": "88d6cf7fe5315a652e1cf7239139970ac8f005748356fa179a45871dc0b6d613",
-  "text_sha256": "bf355c4132f2c3f1882b2bc6b1099a5d60cfd280f5d62bd918f32f22f36c339a",
-  "byte_size": 56975,
-  "title": "Voter Registration | Erath County, TX",
+  "fetched_at": "2026-11-04T04:29:55Z",
+  "html_sha256": "32172dcd156f765ccd5d8cf804789c6dd0c9e406639192bcad4644767f88640a",
+  "text_sha256": "4e342727ac346a7a52fcecc8c740b748f64ed0e6acbb1c1b720016abfc6978fe",
+  "byte_size": 3331,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
