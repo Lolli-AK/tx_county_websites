@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=251:march-2020-primary-election-results&catid=78:government"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T19:46:45Z",
-  "html_sha256": "65abcb06c856c24c7e26510b72df22324c4b0a34c1a597c0a677b29a0668bcd0",
-  "text_sha256": "dc990bdb22441916790fe0777f22016f66b9231570d3224177bb8f4daba1d661",
-  "byte_size": 59831,
-  "title": "March 2020 Primary Election Results",
+  "fetched_at": "2026-11-04T20:33:44Z",
+  "html_sha256": "94daecfd48aba2dec04e18c67f8412386e4750a5b08c20968d9df5bd362764d5",
+  "text_sha256": "fce60df486914336d4f8f9d494a7ab9293cf418741386e7dfd716771b7dc1520",
+  "byte_size": 388,
+  "title": "403: Access Forbidden",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

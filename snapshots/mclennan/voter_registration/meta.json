@@ -6,27 +6,24 @@
   "redirect_chain": [
     "https://www.mclennan.gov/384/Voter-Registration"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T19:46:45Z",
-  "html_sha256": "43f6291ccbad16a624e3ff930134fc16d63ac9f7a0cdc7462445badb90022372",
-  "text_sha256": "5ac87e4a549940cacbe7b23bac3e7762be63e0eaf5dd9a2b7c52bf1d8d96468d",
-  "byte_size": 64944,
-  "title": "Voter Registration | McLennan County, TX",
+  "fetched_at": "2026-11-04T20:33:44Z",
+  "html_sha256": "4f2b2ad727495c1c69ad122fb1dce0fd27eaf8e919d72aaa2cb2b064da98d30b",
+  "text_sha256": "1d876fefbf0f954f2eb7af4f720b279bcd3762b74b777a3208127d8234fb1628",
+  "byte_size": 3329,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "military_overseas_voter"
-    ],
-    "count": 3
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

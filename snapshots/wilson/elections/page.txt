@@ -272,7 +272,10 @@ MAIL
 10.31.26 NO MAIL
 11.01.26 NO MAL
 Election Day Roster:
-11.03.26 IN PERSON / MAIL
+11.03.26
+IN PERSON
+/
+MAIL
 Ballot By Mail
 Send inquiries to
 elections@wilsoncountytx.gov
