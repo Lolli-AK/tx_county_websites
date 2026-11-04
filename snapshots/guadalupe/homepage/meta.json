@@ -10,7 +10,7 @@
   "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T20:33:44Z",
+  "fetched_at": "2026-11-04T21:35:07Z",
   "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "byte_size": 0,
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectError: [Errno 113] No route to host"
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

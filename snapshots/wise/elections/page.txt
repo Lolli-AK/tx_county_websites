@@ -116,6 +116,7 @@ ajax-loader.gif
 ajax-loader.gif
 ELECTION RESULTS:
 November 3, 2026 General and Special Election Unofficial Cumulative Results Report - Final
+Preliminary Election Reconciliation - Unofficial Totals
 PAST ELECTION RESULTS
 :
 May 26, 2026 Joint Primary Runoff Election Final Official Cumulative Results Report

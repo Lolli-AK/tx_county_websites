@@ -6,11 +6,11 @@
   "redirect_chain": [
     "https://results.enr.clarityelections.com/TX/Travis/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 202,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-04T20:33:44Z",
+  "fetched_at": "2026-11-04T21:35:07Z",
   "html_sha256": "46178ca33387449ef53d984b10189f0d066800cff333d782b2cbb8c11bfb8b6f",
   "text_sha256": "5ee277732f315ec616e52f83224aae04af9724711a0a3b20a4c50986b6a1c555",
   "byte_size": 12523,
