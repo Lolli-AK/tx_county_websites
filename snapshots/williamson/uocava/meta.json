@@ -6,24 +6,28 @@
   "redirect_chain": [
     "https://www.wilcotx.gov/598/FPCA-Military-Overseas"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T21:35:07Z",
-  "html_sha256": "602e3e2ecc4dcfd5e3ca5d8d4987eb74cf15051ce30e218ace2fac95aec7c25b",
-  "text_sha256": "cc6e897f0abdaa8b5ba90ea5cda18c550038d3aa318e8998591acadeddefbca6",
-  "byte_size": 3198,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T22:33:26Z",
+  "html_sha256": "75c2daf0c01d013a8f0f9976141710bf398909b3356935b28a87222c93223ccc",
+  "text_sha256": "bd58807ed6459f7d874c65c2f78e34fcc743f6dbd63b603828c9deff6ab636cf",
+  "byte_size": 49118,
+  "title": "FPCA Military & Overseas | Williamson County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter"
+    ],
+    "count": 20
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

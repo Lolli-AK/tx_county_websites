@@ -1,84 +1,130 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="en-us">
+<html lang="en">
  <head>
-  <title>
-   Just a moment...
-  </title>
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
-  <meta content="noindex,nofollow" name="robots"/>
-  <meta content="width=device-width,initial-scale=1" name="viewport"/>
-  <meta content="default-src 'none'; script-src 'nonce-DLZmQnnYbucRZWpJhXXyp1' 'unsafe-eval' https://challenges.cloudflare.com; script-src-attr 'none'; style-src 'unsafe-inline'; img-src 'self' https://challenges.cloudflare.com; connect-src 'self' https://challenges.cloudflare.com; frame-src 'self' https://challenges.cloudflare.com blob:; child-src 'self' https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri 'self'" http-equiv="content-security-policy"/>
-  <meta content="360" http-equiv="refresh"/>
+  <meta charset="utf-8"/>
+  <link href="https://apps.wilcotx.gov/elections/favicon.ico" rel="icon"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="en" property="og:locale"/>
  </head>
- <body>
-  <div class="main-wrapper _1cbb22829c3abb7d1b906501" role="main">
-   <div class="main-content">
-    <div class="_4a98edd8090013310fa007a1">
-     <img alt="Icon for www.wilcotx.gov" class="_629c51738756db6f526053ba _512ee1ca883b13d77e2a6101" src="/favicon.ico"/>
-     <h1>
-      www.wilcotx.gov
-     </h1>
+ <body data-sveltekit-preload-data="hover">
+  <div>
+   <header class="svelte-i77q72">
+    <a href="https://www.wilcotx.gov/elections">
+     <img alt="Williamson County W Logo" class="svelte-i77q72" src="https://apps.wilco.org/utils/wilcoMark.svg" width="100px"/>
+    </a>
+    <h1 class="svelte-i77q72">
+     Voter and Sample Ballot Lookup
+    </h1>
+    <div class="languageToggle svelte-i77q72">
+     <div class="svelte-1hx8anb">
+      <label class="sr-only svelte-1hx8anb" for="lang">
+       Language
+      </label>
+      <select aria-label="Language" class="svelte-1hx8anb" id="lang">
+       <option value="en">
+        English
+       </option>
+       <option value="es">
+        Español
+       </option>
+      </select>
+     </div>
     </div>
-    <h2 class="_9b1d768f9c7ba019b024dede _c350281c65e1429eab6c90db" id="_448028f34e3fa83481d8f781">
-     Performing security verification
-    </h2>
-    <p class="_dd40035c222d2910d90ba1e1 _8629ad85ebb90d15f805e944" id="_42559994ee36de9179191fa9">
-     This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+   </header>
+   <div class="directionsAndLinkBack svelte-i77q72">
+    <a href="https://www.wilcotx.gov/elections">
+     Williamson County Elections
+    </a>
+    <p>
+     Please search by Name and Date of Birth.
     </p>
-    <div id="_dae01202b9fa24bd12aab385">
-     <div>
-      <div>
-       <div>
+   </div>
+   <p aria-live="polite" class="srOnly svelte-i77q72" role="status">
+   </p>
+   <h2>
+    Select an Election
+   </h2>
+   <select class="svelte-i77q72" id="electionDropdown" name="electionDropdown" required="" title="Election Drop-down">
+    <option value="0">
+     Select Election
+    </option>
+    <option value="g26">
+     Joint General and Special Elections - November 3, 2026
+    </option>
+   </select>
+   <br/>
+   <div class="searchShell svelte-i77q72">
+    <div class="searchSection svelte-i77q72">
+     <form class="svelte-i77q72" id="nameDOBSection" novalidate="">
+      <h4>
+       Name
+      </h4>
+      <div class="voterName svelte-i77q72">
+       <div class="firstName">
+        <input class="svelte-i77q72" id="firstNameInput" name="firstName" title="First Name Input" type="text"/>
+        <br/>
+        <label for="firstNameInput">
+         First Name
+        </label>
        </div>
-       <input id="cf-chl-widget-ppppp_response" name="cf-turnstile-response" type="hidden"/>
+       <div class="lastName">
+        <input class="svelte-i77q72" id="lastNameInput" name="lastName" title="Last Name Input" type="text"/>
+        <br/>
+        <label for="lastNameInput">
+         Last Name
+        </label>
+       </div>
       </div>
-     </div>
+      <h4>
+       Date of Birth
+      </h4>
+      <div class="voterDOB svelte-i77q72">
+       <div class="voterDOBelement svelte-i77q72">
+        <div class="dobControls svelte-i77q72">
+         <input aria-describedby="dobHint" autocomplete="bday" class="svelte-i77q72" id="dobInput" inputmode="numeric" name="dob" placeholder="MM/DD/YYYY" title="Date of Birth" type="text"/>
+         <div class="dobCalendar svelte-i77q72">
+          <input aria-describedby="dobHint" aria-label="Choose date of birth from calendar" class="svelte-i77q72" max="2008-11-04" min="1916-11-04" title="Choose date of birth from calendar" type="date"/>
+         </div>
+        </div>
+        <label for="dobInput">
+         Date of Birth
+        </label>
+        <span id="dobHint">
+         Type month/day/year (MM/DD/YYYY) or use the calendar. You can also type eight digits (MMDDYYYY).
+        </span>
+       </div>
+      </div>
+      <button class="button button__blue svelte-i77q72" type="submit">
+       Search
+      </button>
+     </form>
     </div>
-    <div id="_767b41bcc6af3be4e9f9a2bc">
-     <h2 class="_8629ad85ebb90d15f805e944" id="_f45ecfae1fbe47ba47612ad3">
-      Verification successful. Waiting for www.wilcotx.gov to respond
-     </h2>
-    </div>
-    <div class="_1c25ee662a6a7b70a220d163 _a4296d87c41ff902caa24821" id="_246e6b160dff7076f4d77927">
-     <div class="_cc0fd0ceefd72c8bb1212d10">
-      <div>
-      </div>
-      <div>
-      </div>
-      <div>
-      </div>
-      <div>
-      </div>
-     </div>
+    <div aria-busy="false" class="svelte-i77q72" id="searchResults">
+     <p class="searchPrompt svelte-i77q72">
+      Search a voter for information
+     </p>
     </div>
    </div>
-  </div>
-  <div class="footer" role="contentinfo">
-   <div class="footer-inner">
-    <div class="footer-wrapper">
-     <div>
-      <div class="ray-id">
-       Ray ID:
-       <code>
-        a556c0a76b721fda
-       </code>
-      </div>
-     </div>
-     <div class="footer-link-wrapper">
-      <span class="footer-text">
-       Performance and Security by
-       <a aria-label="Cloudflare, opens in a new tab" href="https://www.cloudflare.com?utm_source=challenge&amp;utm_campaign=m" rel="noopener noreferrer" target="_blank">
-        Cloudflare
-       </a>
-      </span>
-      <span class="footer-divider">
-      </span>
-      <a aria-label="Privacy, opens in a new tab" class="footer-text" href="https://www.cloudflare.com/privacypolicy/" rel="noopener noreferrer" target="_blank">
-       Privacy
-      </a>
-     </div>
+   <div class="bottomLinks svelte-i77q72">
+    <a href="https://www.wilcotx.gov/elections">
+     Williamson County Elections
+    </a>
+   </div>
+   <section>
+    <div class="adminInfo">
+     This is provided as a service to Williamson County and all information presented is based solely on the names and addresses of registered voters. If you feel there is any discrepancy in the provided information please email
+     <a href="mailto:VoterRegistration@wilcotx.gov">
+      VoterRegistration@wilcotx.gov
+     </a>
+     or call 512-943-1630. Voter registrations are effective 30 days after the submission of the application. If you have recently applied and do not see your name in the lookup, please check back.
+     <br/>
+     <br/>
+     If you are currently registered to vote in Williamson County and have moved within the county or have changed your name, please make sure to update your voter registration information.
     </div>
+   </section>
+   <div aria-atomic="true" aria-live="polite" class="toast-container svelte-ypwkk1">
+   </div>
+   <div aria-atomic="true" aria-live="assertive" id="svelte-announcer">
    </div>
   </div>
  </body>

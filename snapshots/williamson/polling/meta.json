@@ -2,19 +2,20 @@
   "county": "Williamson",
   "page_type": "polling",
   "requested_url": "https://www.wilcotx.gov/VoterLookup",
-  "final_url": "https://www.wilcotx.gov/VoterLookup",
+  "final_url": "https://apps.wilcotx.gov/elections/voterlookup",
   "redirect_chain": [
-    "https://www.wilcotx.gov/VoterLookup"
+    "https://www.wilcotx.gov/VoterLookup",
+    "https://apps.wilcotx.gov/elections/voterlookup"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-04T21:35:07Z",
-  "html_sha256": "e2f9261145751b08adc1cb40ace4f5a49fcc6c513b2dfd15f88eab87f0fbdcfc",
-  "text_sha256": "c9020eb5db8fde902302bc20da15c7168f26d9e80438fc7f580a0c35c26debd0",
-  "byte_size": 3198,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-04T22:33:26Z",
+  "html_sha256": "8c1112765e37b950e529fb78a2ff62fbde560b8eafe0450a356808a2cbee7c66",
+  "text_sha256": "8adfaacb9708c9bc19ca7217d4fac7360438d8e93e09981fad4f9bef3c89a0cc",
+  "byte_size": 4761,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
