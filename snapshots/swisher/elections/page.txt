@@ -51,9 +51,17 @@ Fax: 806-995-2214
 m.montgomery@swishercounty.gov
 11-03-2026 - GENERAL AND TULIA ISD VOTER APPROVAL TAX RATE ELECTION (3 DE NOVIEMBRE DE 2026 - ELECCION SOBRE LA TASA IMPOSITIVA SOJETA A LA APROBACION DE LOS VOTANTES DISTRITO ESCOLAR INDEPENDIENTE DE TULIA)
 ▲
-Local Election Results (R
+Local Election Unofficial Results
+(R
 esultados electorales actuales)
-Election Reconciliation
+Election Preliminary Reconciliation
+(Conciliación preliminar)
+Notice of Risk Limiting Audit
+(Aviso de auditoría de limitación de riesgos)
+Notice of Post-Election Hand Count
+(Aviso de recuento manual posterior a las elecciones) - Coming Soon (Próximamente)
+Early Voting Ballot Board and Central Counting Station (
+Junta de votacion anticipada y estacion central de escrutinio)
 Notice of Tulia Independent School District Tax Rate Election
 (Aviso de la Elección de la Tasa Impositiva del Distrito Escolar Independiente de Tulia)
 Notice of General Election (
@@ -112,8 +120,6 @@ Lista de votación anticipada por correo)
 Early Voting In Person Roster (
 Lista de votación anticipada presencial
 )
-Early Voting Ballot Board and Central Counting Station (
-Junta de votacion anticipada y estacion central de escrutinio)
 Notice of Public Testing of Voter Tabulating Equipment
 (
 Aviso de prueba pública de equipos de tabulación
@@ -584,7 +590,7 @@ CITY OF KRESS & KRESS ISD
 TULIA ISD
 EARLY VOTING ROSTER
 (LISTA DE VOTACION ANTICPADA)
-JOINT ELECTIONS COMMISSION (COMISION CONJUNTA DE ELECCIONES)
+JOINT ELECTIONS COMMISSION (COMISION DE ELECCIONES)
 ▲
 06-24-2026 - Notice of Joint Elections Commission Meeting
 (Aviso de reunión conjunta de la Comisión Electoral)

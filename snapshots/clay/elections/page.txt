@@ -65,10 +65,11 @@ Results Bar Graph
 Results Summary
 Precinct Results
 ALL RESULTS ARE UNOFFICIAL UNTIL CANVASSED.
-Preliminary Reconciliation
+Prelim Reconciliation
 Order of Election
 Notice of Testing
 Henrietta ISD Notice
+Rec. Votes Cast
 Notice of Election
 Golburg ISD Notice
 Goldburg ISD Order
@@ -79,7 +80,9 @@ Sample Ballot- Commissioner Pct. 2- Inside Henrietta ISD
 Sample Ballot- Commissioner Pct. 4- Outside Henrietta ISD
 Sample Ballot- Commissioner Pct. 4- Inside Henrietta ISD
 List of Declared Write-In Candidates
+Manual Count Audit
 Primary Election March 3, 2026
+EV RESULTS.pdf
 ED RESULTS.pdf
 TOTALS.pdf
 NOTICE OF PRIMARY ELECTION

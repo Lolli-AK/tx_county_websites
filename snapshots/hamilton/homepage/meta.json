@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.hamiltoncountytx.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T15:51:47Z",
-  "html_sha256": "de74524da76d73266f90d05bc69b23e0e26df599adc4cd0d82c0bd47c2b10ba4",
-  "text_sha256": "a675282954d77f7744269e08817e08b4157e44fef3f2a19ec31b24d280bb0883",
-  "byte_size": 40162,
-  "title": "Hamilton County, Texas",
+  "fetched_at": "2026-11-05T19:42:50Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: TooManyRedirects: Exceeded maximum allowed redirects."
 }

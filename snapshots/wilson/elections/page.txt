@@ -293,6 +293,12 @@ Nixon-Smiley CISD- Order of Election
 Floresville ISD- Order of Election
 Floresville ISD- Election Cancellation District 3
 Floresville ISD- Election Cancellation District 5
+Order of Appointment for Judges/Alt. Judges
+L&A Testing
+Order Calling for SVC
+Notice of Delivery to Ballot Board
+Notice of Ballot Correction for Poth ISD
+Notice of Ballot Destruction for Poth ISD
 County- Notice of Election
 Poth ISD- Notice of Election
 (
@@ -307,11 +313,6 @@ Stockdale ISD- Notice of Election
 español
 )
 Nixon-Smiley CISD- Notice of Election
-Order of Appointment for Judges/Alt. Judges
-L&A Testing
-Order Calling for SVC
-Notice of Delivery to Ballot Board
-Notice of Ballot Correction
 Sample Ballots:
 PCT 1
 PCT 2

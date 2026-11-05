@@ -6,24 +6,28 @@
   "redirect_chain": [
     "https://www.johnsoncountytx.org/departments/elections-office/military-overseas-citizens-vote-by-mail"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T15:51:47Z",
-  "html_sha256": "090bc6a582a92c9212ba6e835fe935c447cf8d6c699a60e55f5003d34f64bcbc",
-  "text_sha256": "6e8e929709f4447f5ef8a2a8e8e9b56b194fe433d04b1c95c1b32581f488a3ad",
-  "byte_size": 383,
-  "title": "Access Denied",
+  "fetched_at": "2026-11-05T19:42:50Z",
+  "html_sha256": "7741bad9f6f8b72138f138f1029e193387cec025ea0fcb37dbfacebfcfded3b3",
+  "text_sha256": "86b5dfbc337b5f0ddb1aae718630cacf26c17ba7346e118261b495f0779809f2",
+  "byte_size": 117829,
+  "title": "Federal Post Card Application (FPCA) for Military/Overseas Citizens to Vote by Mail | Johnson County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 17
   },
   "error": null
 }
