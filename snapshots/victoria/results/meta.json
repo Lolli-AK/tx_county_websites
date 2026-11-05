@@ -2,19 +2,20 @@
   "county": "Victoria",
   "page_type": "results",
   "requested_url": "https://www.vctx.org/page/elections.results",
-  "final_url": "https://www.vctx.org/page/elections.results",
+  "final_url": "https://www.victoriacountytx.gov/page/elections.results",
   "redirect_chain": [
-    "https://www.vctx.org/page/elections.results"
+    "https://www.vctx.org/page/elections.results",
+    "https://www.victoriacountytx.gov/page/elections.results"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T11:32:11Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-11-05T15:51:47Z",
+  "html_sha256": "ca37695e9e9e1239d0e3370470a8820d294247f35094b6defaafb2d9ee24ff0a",
+  "text_sha256": "66e407015e986ce1f5f44528ae9d97bc858f9f1beb4c8a1b5f762c649ad16c8a",
+  "byte_size": 54413,
+  "title": "Election Results | Victoria County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectTimeout: timed out"
+  "error": null
 }

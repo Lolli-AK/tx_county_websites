@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://co.atascosa.tx.us/elections-administration/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T11:32:11Z",
-  "html_sha256": "ad23402dcf2558d85a72204d0c760293aa6b9c52baf9d53ced99c3d920b7892a",
-  "text_sha256": "7f716cb531842f5a2660ee0b9e41dd512e24ff2ff502249671fc488e1ed3af3b",
-  "byte_size": 91123,
-  "title": "Elections Administration – Atascosa County",
+  "fetched_at": "2026-11-05T15:51:47Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectError: [Errno -3] Temporary failure in name resolution"
 }
