@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.jackcounty.texas.gov/elections-administrator"
   ],
-  "http_status": 200,
+  "http_status": 403,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T07:55:28Z",
-  "html_sha256": "03c89dcdac2e696d1ab32e4b8d6181948f7f14e5ac5fad3cdbbbdd4e82f706aa",
-  "text_sha256": "57bc38870e3b94ee9ed09d2bff89ecc94abc8deb2f2a3dea009c0e965c8b8757",
-  "byte_size": 49263,
-  "title": "Elections Administrator | Jack County TX",
+  "fetched_at": "2026-11-05T08:55:26Z",
+  "html_sha256": "7a5d25667d1b99b4693242c11d5c5cf71cb4f0504fd2e41eff07d5c5c73ba736",
+  "text_sha256": "d5de142d94d84f99a636f07faebccc9932474f752cdb317bfe3eb71cb49c64e9",
+  "byte_size": 3225,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

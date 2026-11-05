@@ -1,8 +1,10 @@
 Elections | McLennan County, TX
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
 Website Sign In
+Accessible Menu
 Government
 County Services
 Safety & Justice
@@ -10,6 +12,7 @@ How Do I...
 Search
 Ballot by Mail
 Campaign Finance Reports
+undefined
 2024 Campaign Finance Reports
 2025 Campaign Finance Reports
 2026 Campaign Finance Reports
@@ -28,6 +31,7 @@ Online Poll Worker Training
 Past Elections Results
 Poll Watcher Information
 Precinct Street Guide
+undefined
 Election Day Vote Centers
 Foreword
 Video Archives
@@ -48,13 +52,15 @@ Voting by Mail
 Ballot by Mail Application (.pdf)
 Voter Registration Information
 Am I Registered to Vote? (link)
+opens PDF
 ID required for Texas Voters
 Identificación requerida para votantes de Texas
+opens PDF
 Election Results
 Contact Us
 Jared Goldsmith
 Elections Administrator, MPA, CERA
-[email protected]
+elections@mclennan.gov
 Elections
 Physical Address
 View Map
@@ -102,6 +108,7 @@ Waco, TX 76701
 Department Contacts
 Phone:
 254-757-5000
+Phone Number
 Helpful Links
 Bond Office Questions
 County Budget Information
@@ -124,3 +131,4 @@ Loading
 Do Not Show Again
 Close
 []
+Explore your accessibility options
