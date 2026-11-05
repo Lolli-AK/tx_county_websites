@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n3-active wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active has-RANDOM" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -13,7 +13,17 @@
   <meta content="" name="description"/>
   <meta content="Home" name="keywords"/>
  </head>
- <body class="wide">
+ <body class="wide withFeatureColumn cpTextResizeOn doneLoading">
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="Loading" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
+    </p>
+   </div>
+  </div>
   <div class="cp-PopOver cp-PopOver--modal cp-RANDOM" id="popoverModal">
    <div class="cp-PopOver-header">
     <h3 class="cp-PopOver-title">
@@ -88,44 +98,36 @@
          <ol class="rootNavMenu" data-parent="1" id="mainNavMenu" role="menu">
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="27" id="MainItem27" role="none">
            <a aria-controls="mainNavMegaMenu27" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem1" href="/27/Government" id="mainNavGovernment" role="menuitem" target="_self">
-            Government
+            <span>
+             Government
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="101" id="MainItem101" role="none">
            <a aria-controls="mainNavMegaMenu101" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem2" href="/101/Community" id="mainNavCommunity" role="menuitem" target="_self">
-            Community
+            <span>
+             Community
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="35" id="MainItem35" role="none">
            <a aria-controls="mainNavMegaMenu35" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem3" href="/35/Business" id="mainNavBusiness" role="menuitem" target="_self">
-            Business
+            <span>
+             Business
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="True" data-pageid="9" id="MainItem9" role="none">
            <a aria-controls="mainNavMegaMenu9" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem4" href="/9/How-Do-I" id="mainNavHowDoI" role="menuitem" target="_self">
-            How Do I...
+            <span>
+             How Do I...
+            </span>
            </a>
           </li>
          </ol>
          <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu">
           <input id="megaMenuPopupDirection" type="hidden"/>
           <input id="megaMenuWidthReference" type="hidden"/>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="menu">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101" role="menu">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="menu">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="menu">
-           <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
          </aside>
         </nav>
         <div data-cprole="contentContainer" id="searchTS">
@@ -137,7 +139,7 @@
               <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
                <section aria-label="Search" class="widget widgetSearch skin62 widgetOptionSet31" id="widgetPreviewSearch">
                 <div class="widgetBody buttonRightInside">
-                 <input class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
+                 <input autocomplete="off" class="widgetSearchBox widgetSearchBoxGUID ui-autocomplete-input" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
                  <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon" role="button">
                   <img alt="Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=1703" data-image="/ImageRepository/Document?documentID=1704" src="/ImageRepository/Document?documentID=1704"/>
                  </a>
@@ -165,11 +167,8 @@
         </div>
         <div class="hidden" id="bannerImagesJSON60">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=1700" width="1280px"/>
         </div>
        </div>
       </div>
@@ -282,7 +281,7 @@
                     <ul class="semanticList">
                      <li class="widgetItem GraphicLinks">
                       <div>
-                       <a aria-label="Agendas &amp; Minutes Opens in new window" class="fancyButton fancyButton219" href=" https://andrewscountytx.meetingmanager.tylerapp.com/39520prod/tylermm/calendar/ " target="_blank">
+                       <a aria-label="Agendas &amp; Minutes Opens in new window" class="fancyButton fancyButton219" href=" https://andrewscountytx.meetingmanager.tylerapp.com/39520prod/tylermm/calendar/ " rel="noopener" target="_blank">
                         <span>
                          <span>
                           <span class="text">
@@ -466,7 +465,7 @@
               <div class="row nest first last wide">
                <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
                 <div class="widget widgetTabbed skin69" data-widgetid="GUID" id="divTabbedGUID">
-                 <ol aria-hidden=".ToString().ToLowerInvariant()" class="tabbedWidget cpTabs" role="tablist">
+                 <ol aria-hidden="false" class="tabbedWidget cpTabs" role="tablist">
                   <li class="active" role="presentation">
                    <a aria-controls="tabGUID_0" aria-selected="true" class="tabButton" href="#tabGUID_0" id="tabBtnGUID_0" role="tab" tabindex="0">
                     <span class="tabName editable" contenteditable="false" data-sequence="0" data-tabname="Calendar">
@@ -476,7 +475,7 @@
                   </li>
                  </ol>
                  <div class="cpTabPanels">
-                  <ol aria-hidden="True.ToString().ToLowerInvariant()" class="tabbedWidgetNarrow cpTabs" role="tablist">
+                  <ol aria-hidden="true" class="tabbedWidgetNarrow cpTabs" role="tablist">
                    <li class="active" role="presentation">
                     <a aria-controls="tabGUID_0" aria-selected="true" class="tabButton" href="#tabGUID_0" id="tabBtnNarrowGUID_0" role="tab" tabindex="0">
                      <span class="tabName editable" contenteditable="false" data-sequence="0" data-tabname="Calendar">
@@ -495,7 +494,7 @@
                         </div>
                         <input data-month="11" data-year="2026" name="monthToRender" type="hidden"/>
                         <h3 class="miniCalendarHeader miniCalendarHeader--RANDOM" role="presentation">
-                         <button aria-label="Previous Month, current month November 2026, go to October 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left cp-Btn--RANDOM">
+                         <button aria-label="Previous Month, current month November 2026, go to October 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left cp-Btn--RANDOM" disabled="">
                          </button>
                          <span aria-level="3" class="cp-RANDOM-title" id="miniCalendarHeaderGUID" role="heading">
                           November 2026
@@ -801,7 +800,7 @@ Saturday
                          </tbody>
                         </table>
                        </div>
-                       <div class="row text narrow" data-event-list-row="true">
+                       <div class="row text wide" data-event-list-row="true">
                         <input name="day-list" type="hidden"/>
                         <p class="widgetItem">
                          There are no published events in current month.
@@ -832,7 +831,8 @@ Saturday
           </div>
          </div>
         </div>
-        <div id="banner2-62">
+        <div class="bannerObject external" data-image-scale="true" id="bannerDivbanner2">
+         <img alt="" class="bannerObject" src="/ImageRepository/Document?documentID=1711" width="1667.3059027777776px"/>
         </div>
        </div>
       </div>
@@ -851,7 +851,7 @@ Saturday
                  </div>
                 </header>
                 <div class="widgetBody cpGrid cpGrid1">
-                 <div class="row wide">
+                 <div class="row narrow">
                   <div class="col col1 first last">
                    <ol class="pageStyles semanticList">
                     <li class="InfoAdvanced widgetItem fr-view">
@@ -893,7 +893,7 @@ Saturday
                  </div>
                 </header>
                 <div class="widgetBody cpGrid cpGrid1">
-                 <div class="row wide">
+                 <div class="row narrow">
                   <div class="col col1 first last">
                    <ol class="pageStyles semanticList">
                     <li class="InfoAdvanced widgetItem fr-view">
@@ -1211,12 +1211,35 @@ Saturday
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
+  </div>
+  <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" tabindex="0">
+  </ul>
+  <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
+  </div>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu9" role="menu">
+   <div class="pageContent cpGrid cpGrid24" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
   </div>
  </body>
 </html>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="removeSetHeights no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n3-active wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active has-RANDOM" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -13,10 +13,27 @@
   <meta content="" name="description"/>
   <meta content="Home" name="keywords"/>
  </head>
- <body class="wide">
+ <body class="wide withFeatureColumn cpTextResizeOn doneLoading" data-audioeye-device-desktop="" data-audioeye-launcher="">
+  <div aria-live="polite" class="ae-blurb-noaudio" data-nosnippet="" id="ae_enabled_site" role="status">
+   <div>
+    <p data-modulename="launcher">
+     This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
+    </p>
+   </div>
+  </div>
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="Loading" src="/Common/images/ajax-loader.gif"/>
+    <p>
+     Loading
+    </p>
+   </div>
+  </div>
   <div class="cp-PopOver cp-PopOver--modal cp-RANDOM" id="popoverModal">
    <div class="cp-PopOver-header">
-    <h3 class="cp-PopOver-title">
+    <h3 class="cp-PopOver-title" role="presentation">
     </h3>
     <button class="cp-Btn cp-PopOver-close" onclick="closePopOverModal(event)">
     </button>
@@ -88,27 +105,37 @@
          <ol class="rootNavMenu" data-parent="1" id="mainNavMenu" role="menu">
           <li class="topMenuItem" data-displaymegamenu="False" data-pageid="1195" id="MainItem1195" role="none">
            <a aria-controls="ParentMainItem1195" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem1" href="/1195/Elected-RANDOM" id="mainNavElectedOfficials" role="menuitem" target="_self">
-            Elected Officials
+            <span>
+             Elected Officials
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="False" data-pageid="27" id="MainItem27" role="none">
            <a aria-controls="ParentMainItem27" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem2" href="/27/Departments" id="mainNavDepartments" role="menuitem" target="_self">
-            Departments
+            <span>
+             Departments
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="False" data-pageid="9" id="MainItem9" role="none">
            <a aria-controls="ParentMainItem9" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem3" href="/9/How-Do-I" id="mainNavHowDoI" role="menuitem" target="_self">
-            How Do I
+            <span>
+             How Do I
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="False" data-pageid="35" id="MainItem35" role="none">
            <a aria-controls="ParentMainItem35" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem4" href="/35/Public-RANDOM-Notices" id="mainNavPublicMeetingsNotices" role="menuitem" target="_self">
-            Public Meetings &amp; Notices
+            <span>
+             Public Meetings &amp; Notices
+            </span>
            </a>
           </li>
           <li class="topMenuItem" data-displaymegamenu="False" data-pageid="31" id="MainItem31" role="none">
            <a aria-controls="ParentMainItem31" aria-expanded="false" aria-haspopup="true" class="navMainItem mainNavItem mainNavItem5" href="/31/News-RANDOM" id="mainNavNewsInformation" role="menuitem" target="_self">
-            News &amp; Information
+            <span>
+             News &amp; Information
+            </span>
            </a>
           </li>
          </ol>
@@ -133,7 +160,7 @@
                  <div data-widget-controller-path="/Layout/WidgetSearch" data-widget-id="GUID">
                   <section aria-label="Search" class="widget widgetSearch skin62 widgetOptionSet37" id="widgetPreviewSearch">
                    <div class="widgetBody buttonRightInside">
-                    <input class="widgetSearchBox widgetSearchBoxGUID" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
+                    <input autocomplete="off" class="widgetSearchBox widgetSearchBoxGUID ui-autocomplete-input" cp5ph="true" id="searchFieldGUID" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search..." type="text" value=""/>
                     <a class="widgetSearchButton widgetSearchButtonGUID" href="/Search/Results" id="btnSearchIcon" role="button">
                      <img alt="Go to Site Search" class="imageHover" data-hover="/ImageRepository/Document?documentID=119" data-image="/ImageRepository/Document?documentID=118" src="/ImageRepository/Document?documentID=118"/>
                     </a>
@@ -154,11 +181,8 @@
         </div>
         <div class="hidden" id="bannerImagesJSON73">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=237" width="1280px"/>
         </div>
        </div>
       </div>
@@ -177,7 +201,7 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid2">
-                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
+                 <nav class="widgetGraphicLinksNav">
                   <div class="row wide">
                    <div class="col col1 first">
                     <ul class="semanticList">
@@ -233,7 +257,7 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid2">
-                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
+                 <nav class="widgetGraphicLinksNav">
                   <div class="row wide">
                    <div class="col col1 first">
                     <ul class="semanticList">
@@ -289,7 +313,7 @@
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid2">
-                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
+                 <nav class="widgetGraphicLinksNav">
                   <div class="row wide">
                    <div class="col col1 first">
                     <ul class="semanticList">
@@ -361,7 +385,7 @@
                <div class="outer col col24 first last" data-widgetcontainerid="GUID">
                 <div class="row nest first last wide">
                  <div class="inner col col24 first last idGUID" data-widgetcontainerid="GUID">
-                  <section aria-label="Carousel" aria-labelledby="headerGUID" class="widget widgetCarousel" data-transition="fade" data-transitiontiming="1" data-widgetid="GUID" id="divCarouselGUID">
+                  <section aria-label="Carousel" class="widget widgetCarousel" data-transition="fade" data-transitiontiming="1" data-widgetid="GUID" id="divCarouselGUID">
                    <div class="widgetBody">
                     <div class="widgetCarousel-container">
                      <div class="widgetCarousel-window">
@@ -378,7 +402,7 @@
                      </button>
                      <button aria-label="Next" class="arrow next widgetCarousel-next disabled">
                      </button>
-                     <ol class="semanticList pager dots">
+                     <ol class="semanticList pager dots" role="presentation">
                      </ol>
                     </div>
                     <div class="playPause">
@@ -423,7 +447,7 @@
                <div class="widget widgetCalendar skin70 widgetOptionSet38" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch="matchMultiColumn" data-elementqueryunmatch="unmatchMultiColumn" data-modulewidgettype="calendar" id="widgetCalendarGUID">
                 <div class="widgetHeader">
                  <div class="">
-                  <h3 id="calendarHeaderGUID">
+                  <h3 aria-level="2" id="calendarHeaderGUID" role="heading">
                    <a href="/calendar.aspx?CID=14%2C24">
                     Calendar
                    </a>
@@ -437,7 +461,7 @@
                    </div>
                    <input data-month="11" data-year="2026" name="monthToRender" type="hidden"/>
                    <h3 class="miniCalendarHeader miniCalendarHeader--RANDOM" role="presentation">
-                    <button aria-label="Previous Month, current month November 2026, go to October 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left cp-Btn--RANDOM">
+                    <button aria-label="Previous Month, current month November 2026, go to October 2026" class="cp-RANDOM-arrow cp-RANDOM-arrow--left cp-Btn--RANDOM" disabled="">
                     </button>
                     <span aria-level="3" class="cp-RANDOM-title" id="miniCalendarHeaderGUID" role="heading">
                      November 2026
@@ -777,7 +801,7 @@ Saturday
                     </ol>
                    </div>
                    <div class="col col1">
-                    <ol class="semanticList">
+                    <ol class="semanticList" role="presentation">
                     </ol>
                    </div>
                   </div>
@@ -812,14 +836,14 @@ Saturday
                   <div class="col col1 first last">
                    <ol class="semanticList">
                     <li class="widgetItem QuickLinks">
-                     <a aria-label="FY2027 Adopted Budget - Helpful Links" class="widgetDesc widgetQuickLinksLink" href="/DocumentCenter/View/3187/FY27-Adopted-Budget--RANDOM" rel="" target="_self">
+                     <a aria-label="FY2027 Adopted Budget - Helpful Links" class="widgetDesc widgetQuickLinksLink docaccess-activated docaccess-status-disabled" href="/DocumentCenter/View/3187/FY27-Adopted-Budget--RANDOM" rel="" target="_self">
                       FY2027 Adopted Budget
                      </a>
                      <div class="widgetMeta">
                      </div>
                     </li>
                     <li class="widgetItem QuickLinks">
-                     <a aria-label="Adopted Budget - Helpful Links opens in new window" class="widgetDesc widgetQuickLinksLink" href="https://www.burnetcountytexas.org/ArchiveCenter/ViewFile/Item/60" rel="noopener" target="_blank">
+                     <a aria-label="Adopted Budget Opens in new window" class="widgetDesc widgetQuickLinksLink docaccess-activated docaccess-status-disabled" href="https://www.burnetcountytexas.org/ArchiveCenter/ViewFile/Item/60" rel="noopener" target="_blank">
                       Adopted Budget
                      </a>
                      <div class="widgetMeta">
@@ -847,7 +871,7 @@ Saturday
                      </div>
                     </li>
                     <li class="widgetItem QuickLinks">
-                     <a aria-label="County Holidays - Helpful Links opens in new window" class="widgetDesc widgetQuickLinksLink" href="/DocumentCenter/View/1952/FY27-Holiday-RANDOM" rel="noopener" target="_blank">
+                     <a aria-label="County Holidays Opens in new window" class="widgetDesc widgetQuickLinksLink docaccess-activated docaccess-status-disabled" href="/DocumentCenter/View/1952/FY27-Holiday-RANDOM" rel="noopener" target="_blank">
                       County Holidays
                      </a>
                      <div class="widgetMeta">
@@ -936,7 +960,7 @@ Saturday
                  </div>
                 </div>
                 <div class="widgetBody cpGrid cpGrid1">
-                 <nav aria-labelledby="GraphicLinkHeaderText" class="widgetGraphicLinksNav">
+                 <nav class="widgetGraphicLinksNav">
                   <ul class="semanticList">
                    <li class="widgetItem GraphicLinks">
                     <a class="widgetDesc widgetGraphicLinksLink" href="/facebook" target="_self">
@@ -1036,7 +1060,7 @@ Saturday
                  </div>
                 </header>
                 <div class="widgetBody cpGrid cpGrid6">
-                 <div class="row autoWidths center narrow">
+                 <div class="row autoWidths center wide">
                   <div class="col col1 first">
                    <ol class="semanticList">
                     <li class="widgetItem QuickLinks">
@@ -1180,12 +1204,50 @@ Saturday
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
+  </div>
+  <ul class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" id="ui-id-1" role="presentation" tabindex="0">
+  </ul>
+  <div aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible" role="status">
+  </div>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
+  </div>
+  <div data-nosnippet="" id="ae_app">
+   <div class="ae-module" id="ae_helpers">
+   </div>
+   <div class="ae-module" id="ae_compliance">
+   </div>
+   <aside aria-label="Accessibility options" class="ae-module ae-active ae-cta-position-preset-right-mid-lower" dir="ltr" id="ae_launcher">
+    <button aria-label="Explore your accessibility options">
+     <div class="ae-left">
+      <span>
+       Explore your accessibility options
+      </span>
+     </div>
+     <div class="ae-right">
+      <span class="icomoon-wrapper">
+       <div>
+        <span class="icomoon-cta ae-icon-launcher-universalaccess ae-initial-cta">
+         <span class="icomoon-cta path1 a11y-icon-figure-and-border">
+         </span>
+         <span class="icomoon-cta path2 a11y-icon-background">
+         </span>
+        </span>
+       </div>
+      </span>
+     </div>
+    </button>
+   </aside>
+   <span aria-hidden="true" id="ae_placeholder_toolbar">
+   </span>
+   <span aria-hidden="true" id="ae_placeholder_site-menu">
+   </span>
   </div>
  </body>
 </html>
