@@ -2,20 +2,19 @@
   "county": "Victoria",
   "page_type": "homepage",
   "requested_url": "https://www.vctx.org",
-  "final_url": "https://www.victoriacountytx.gov",
+  "final_url": "https://www.vctx.org",
   "redirect_chain": [
-    "https://www.vctx.org",
-    "https://www.victoriacountytx.gov"
+    "https://www.vctx.org"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T10:32:03Z",
-  "html_sha256": "1a34e5e62d1ac7b12fa11c45d1c193774dba0d6b36d67c71f6e19cfeb229753a",
-  "text_sha256": "ab484c21bbda9b9adc642797c5798c8a5adf73e7402e4a2ede53f53631b3fec9",
-  "byte_size": 50624,
-  "title": "Victoria County, TX | Official Website",
+  "fetched_at": "2026-11-05T11:32:11Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

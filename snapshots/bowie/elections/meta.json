@@ -2,20 +2,19 @@
   "county": "Bowie",
   "page_type": "elections",
   "requested_url": "https://www.co.bowie.tx.us/page/bowie.Elections",
-  "final_url": "https://www.bowiecounty.org/page/bowie.Elections",
+  "final_url": "https://www.co.bowie.tx.us/page/bowie.Elections",
   "redirect_chain": [
-    "https://www.co.bowie.tx.us/page/bowie.Elections",
-    "https://www.bowiecounty.org/page/bowie.Elections"
+    "https://www.co.bowie.tx.us/page/bowie.Elections"
   ],
-  "http_status": 404,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T10:32:03Z",
-  "html_sha256": "0fc00ddfd8bf1ba6b8d84c730aee643793e9fab6e3f046292747bf7632e75e22",
-  "text_sha256": "8cbc458e0854d1f46cf9b688a505b59120d336de9d9a551d8ba75c6ab5ee57c2",
-  "byte_size": 30753,
-  "title": "Custom404 • Bowie County, TX • CivicEngage",
+  "fetched_at": "2026-11-05T11:32:11Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

@@ -2,20 +2,19 @@
   "county": "Bowie",
   "page_type": "homepage",
   "requested_url": "https://www.co.bowie.tx.us/",
-  "final_url": "https://www.bowiecounty.org",
+  "final_url": "https://www.co.bowie.tx.us/",
   "redirect_chain": [
-    "https://www.co.bowie.tx.us/",
-    "https://www.bowiecounty.org"
+    "https://www.co.bowie.tx.us/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T10:32:03Z",
-  "html_sha256": "abca30720d52c964719c824e907f3c2e1d0dce9c579255bc91d822f09d35171e",
-  "text_sha256": "b5520c4afa8d03c9e3a925bc1b7898da438586334bec9645ebd0e3f8e4c589ce",
-  "byte_size": 52026,
-  "title": "Bowie County, TX | Official Website",
+  "fetched_at": "2026-11-05T11:32:11Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }
