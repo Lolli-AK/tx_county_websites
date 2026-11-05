@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.jeffcotxvotes.gov/voter-registration/voter-registration/ways-to-submit-your-voter-registration-application/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "322b5784d52f8382dbef4c15dc8a19cde60f84f7cc29b0166a4910b6e7796e83",
-  "text_sha256": "7dd02487e6ccc7833c880f9e33103ba0c641b38e9530bdae00fb55c04c6b6f68",
-  "byte_size": 132407,
-  "title": "Ways to Submit your Voter Registration Application – Jefferson County, Texas",
+  "fetched_at": "2026-11-05T05:20:48Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

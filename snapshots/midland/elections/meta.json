@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://votemidlandtx.gov/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "895edbb7250e736c1578228e92923c733c6beb4495abfa3bf3de883cb293350e",
-  "text_sha256": "f1bc06a1363cc817aae9808a0ce66fe1b78a58a7e33538cff2da57a6d211b3ae",
-  "byte_size": 67885,
-  "title": "Midland County, TX Elections – Midland County, TX Elections",
+  "fetched_at": "2026-11-05T05:20:48Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 3
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

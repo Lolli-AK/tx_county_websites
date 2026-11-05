@@ -6,28 +6,24 @@
   "redirect_chain": [
     "https://www.polktx.gov/313/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "20c5d206157ac82e71a6c1a7b0b70209f4b8cb83bd4bd7d257d64f415abda3ee",
-  "text_sha256": "5dcf389858a703265152e11a554f8c6a68787fa0d5e5e660e17f43f463440c02",
-  "byte_size": 71308,
-  "title": "Elections | Polk County, TX",
+  "fetched_at": "2026-11-05T05:20:48Z",
+  "html_sha256": "cd6db981b4e3e89bcd0e5fb76bdb35a709bd013d851226a62294e60c13936e84",
+  "text_sha256": "221ba35d77302c5c2d6bf8ab58645b43461cb2589f0efe6013d45ee7d0265ddb",
+  "byte_size": 3195,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter"
-    ],
-    "count": 3
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

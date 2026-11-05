@@ -6,27 +6,24 @@
   "redirect_chain": [
     "https://www.milamcounty.net/departments/elections_and_voter_registrar/index.php"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "aa7d4583dd04b2621d09758c7d109a84336570ee46c0879b8f797f23be20347f",
-  "text_sha256": "d555c2e5e15a2f79dc4ff66d61295d63debab8033704b150185c89c9ae96da2f",
-  "byte_size": 98266,
-  "title": "Milam County, TX",
+  "fetched_at": "2026-11-05T05:20:48Z",
+  "html_sha256": "68ed3e7b20d647e33783e0c65890cf35f6aac28d02ce7b20106dc740a32d9ef9",
+  "text_sha256": "343d94af6626b89cbd534b74068b9a69fb11414ec320aadb2dc9a72bd8efe7c4",
+  "byte_size": 145,
+  "title": "403 Forbidden",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

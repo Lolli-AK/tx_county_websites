@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://elections.mywoodcounty.com/election-information/polling-locations/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "db23044fc278425654462621680a4cd137b8ee6ae9d7049e2bc8c57441a409f8",
-  "text_sha256": "c5d1943be2eebd3024e5d50907a2ed4f96342f10a5452932bf9d09f99e71cddf",
-  "byte_size": 22843,
-  "title": "Polling Locations - Wood County, TX Elections",
+  "fetched_at": "2026-11-05T05:20:48Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

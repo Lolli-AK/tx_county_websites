@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.somervell.co/161/Past-Election-Results"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "cab744db05e1ddca8c77e652c011ce214ffe2f1993de99709d9b44cb03599329",
-  "text_sha256": "ca758d85c74348068e207fad993307a2bebc9a54cfece3e4f4c3d4928097aaa5",
-  "byte_size": 35313,
-  "title": "Past Election Results | Somervell County, TX",
+  "fetched_at": "2026-11-05T05:20:48Z",
+  "html_sha256": "93142bed50886a0f4e876a1e4c70d98d47503db47c22c933823590c1da8d6a2c",
+  "text_sha256": "b784084917f0e55800c806273785b4b5a96fdfa2ebc788c43115c99a3dcebce0",
+  "byte_size": 3201,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
