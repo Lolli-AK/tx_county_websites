@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-04T22:33:26Z",
-  "html_sha256": "7919a0c4f023efbee0b18c3722f628b5c0f37c31ddcddc9baf5ba4328a54f709",
+  "fetched_at": "2026-11-04T23:05:48Z",
+  "html_sha256": "aae9f3bb2fe4b366a705220be4cb4b3e81a10f5c14077471a96a44e22903dab9",
   "text_sha256": "8ec777808a0f5e10ff3b616ee5ca27a93925f10f4dc17a668bd19c81af1c2aec",
-  "byte_size": 134919,
+  "byte_size": 134961,
   "title": "Military & Overseas Voters – Dallas County Elections Department",
   "noncitizen_voting": {
     "present": false,

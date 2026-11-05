@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.chamberscountytx.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T22:33:26Z",
-  "html_sha256": "ad41734de1aa63a765b0a3d540f547b54589f052c6c7e348e9f8612d09f8b5a1",
-  "text_sha256": "30d30d1dfb3fde79e70d9b5b806bf0d6482683b07cdb55541f2cecd74517452a",
-  "byte_size": 119024,
-  "title": "Chambers County, TX | Official Website",
+  "fetched_at": "2026-11-04T23:05:48Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

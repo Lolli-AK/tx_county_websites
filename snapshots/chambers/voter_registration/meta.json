@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.chamberscountytx.gov/335/Register-to-Vote"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T22:33:26Z",
-  "html_sha256": "1f880333ffb2549edae9d2faae3ea9e6c723a2144461ce7ce277109e82645810",
-  "text_sha256": "d95c58ddea35f16e84c5fd1a7b4da9b6e2ee1109a3bf2fce87361bbbc5785b04",
-  "byte_size": 80533,
-  "title": "Register to Vote | Chambers County, TX",
+  "fetched_at": "2026-11-04T23:05:48Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.kendallcountytx.gov/262/Current-Election-Information"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T22:33:26Z",
-  "html_sha256": "61c8277dbe1171305d8aea8b47766116facd32fc20b7e433b9248a84ff54d0bc",
-  "text_sha256": "2b234f12e7bc17e85f4c01bea041cf8598ff22a437c832a0277a411b02d630fb",
-  "byte_size": 180897,
-  "title": "Current Election Information | Kendall County, TX",
+  "fetched_at": "2026-11-04T23:05:48Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

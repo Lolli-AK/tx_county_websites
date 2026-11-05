@@ -6,15 +6,15 @@
   "redirect_chain": [
     "http://www.elliscountytx.gov/403/Prior-Election-Results"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-04T22:33:26Z",
-  "html_sha256": "1fbb6225f89f929ec5ba2f1851ca5fbe734a45099b30854082d172e572491ad7",
-  "text_sha256": "69563c8b07a6a2754aa71ea10ea5f7e70dfb6fbc1ab4d2ab82fc3ad89dbe4b74",
-  "byte_size": 55006,
-  "title": "Prior Election Results | Ellis County, TX Official Website",
+  "fetched_at": "2026-11-04T23:05:48Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }
