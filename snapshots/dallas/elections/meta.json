@@ -6,27 +6,24 @@
   "redirect_chain": [
     "https://www.dallascountyvotes.org/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "e5f86acd2f95cc17d9c1f5f683657c4d8d4d7a6448a2dfc80dc2e774af7fe4c2",
-  "text_sha256": "a3ba30c8a3195453a6ddc59491ba5dcf79be38c9bb35d08dc2b3e7ea0295d66a",
-  "byte_size": 170368,
-  "title": "Dallas County Elections Department – Dallas County Elections – Your trusted source for voting information, resources, and updates. Explore voter registration, election details, polling locations, and essential tools to help you make informed choices. Empowering Dallas County to engage, educate, and vote",
+  "fetched_at": "2026-11-05T04:29:19Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "military_overseas_voter"
-    ],
-    "count": 11
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

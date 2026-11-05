@@ -6,28 +6,24 @@
   "redirect_chain": [
     "https://www.ectorcountytx.gov/271/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "f5976ec81e56eaf0fe835059f862c8061c809acf11de7d7eb431005a11a918c2",
-  "text_sha256": "5b64bb1bd753d03ef062065f0cf405aa5b354367c1862d098f782cd2740bf561",
-  "byte_size": 432568,
-  "title": "Elections | Ector County, TX",
+  "fetched_at": "2026-11-05T04:29:19Z",
+  "html_sha256": "5558730c3fdd92d3e3fdfa213eafe4d1cac841971bfaee2c8aaef463a404960e",
+  "text_sha256": "29f097354213df51659394880ce6792530c328c491059951692963f646b0274b",
+  "byte_size": 3216,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter"
-    ],
-    "count": 7
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

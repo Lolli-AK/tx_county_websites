@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.howard.tx.us/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "2a542a79cd4c942eaf152c6aa4a574be121413b201c3dd178afc494c295f2e18",
-  "text_sha256": "7d17f49cc5100be7be7e699b6eb3af84899a04920dba89688da24859e127a710",
-  "byte_size": 52777,
-  "title": "Howard County, TX | Official Website",
+  "fetched_at": "2026-11-05T04:29:19Z",
+  "html_sha256": "73b503a645c88c17a565f6389770732862fddc15670a47a984853dedff9d6d67",
+  "text_sha256": "9a1e913db2849ef4a13515c4a1303a6f32df63f45b346807d70f1194f443ce3d",
+  "byte_size": 3210,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

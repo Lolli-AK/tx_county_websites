@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.howard.tx.us/1239/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "747ab8423e2e1952ef4d0eb3ce494901c2c77c8804ba96f84593aa1223c963f5",
-  "text_sha256": "245998a5d3e4d8dd9505f1c01c39665a7891bd8c50ea8577ce0dac62ecf7de02",
-  "byte_size": 49004,
-  "title": "Elections | Howard County, TX",
+  "fetched_at": "2026-11-05T04:29:19Z",
+  "html_sha256": "f87767cf43e5bb099211007d92277d0569eb0c447d5a50981b0ef0967db972bb",
+  "text_sha256": "facbd1f343b501b2055af4eecc720bb92e60936da5db25abeba245b9318424f3",
+  "byte_size": 3210,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

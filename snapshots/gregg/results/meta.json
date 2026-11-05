@@ -2,20 +2,19 @@
   "county": "Gregg",
   "page_type": "results",
   "requested_url": "https://www.greggcountyvotes.com/past-election-results/",
-  "final_url": "https://greggcountyvotes.gov/past-election-results/",
+  "final_url": "https://www.greggcountyvotes.com/past-election-results/",
   "redirect_chain": [
-    "https://www.greggcountyvotes.com/past-election-results/",
-    "https://greggcountyvotes.gov/past-election-results/"
+    "https://www.greggcountyvotes.com/past-election-results/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "230a9d1e3d77954761d97df04a1a95031bd61229e9c61a85db7eeb1c5077dc64",
-  "text_sha256": "221588ede2995c6095528ee18f600a5aa0efa68cdc57ab888568b2ee28841a9e",
-  "byte_size": 41603,
-  "title": "Past Election Results - Gregg County TX – Elections Department",
+  "fetched_at": "2026-11-05T04:29:19Z",
+  "html_sha256": "fc02b47128f26b7d053448422440cad754b16060b515428eb5c22c3a6ecbfbdc",
+  "text_sha256": "1e937dab267c1ddbbabd96c355f82e725a29a24aeed9743d74a1a263840d23bc",
+  "byte_size": 4608,
+  "title": "Let's confirm you are human",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

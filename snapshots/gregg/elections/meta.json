@@ -2,32 +2,28 @@
   "county": "Gregg",
   "page_type": "elections",
   "requested_url": "https://www.greggcountyvotes.com/",
-  "final_url": "https://greggcountyvotes.gov/",
+  "final_url": "https://www.greggcountyvotes.com/",
   "redirect_chain": [
-    "https://www.greggcountyvotes.com/",
-    "https://greggcountyvotes.gov/"
+    "https://www.greggcountyvotes.com/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "a3b32636d30ad580a3a16a479e37acb2592c872062ef978f76ba4414fe79110d",
-  "text_sha256": "2554b27e6e342200cc189549cce44c770b1bfaf0cfb178d70f5307a9f501d45a",
-  "byte_size": 53789,
-  "title": "Gregg County TX – Elections Department | Elections Information",
+  "fetched_at": "2026-11-05T04:29:19Z",
+  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
+  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
+  "byte_size": 4573,
+  "title": "Human Verification",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "military_overseas_voter"
-    ],
-    "count": 4
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

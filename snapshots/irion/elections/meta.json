@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.irion.tx.us/1205/Elections"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "863d650ce57bc3e5545b6e54c2d92dafae6bc8160f12f32bab04837130669b46",
-  "text_sha256": "35b31ccde93ec74f7fda010e60eeebc62baaa918c0fb70c9790002e6dfde7d2f",
-  "byte_size": 41166,
-  "title": "Elections | Irion County, TX",
+  "fetched_at": "2026-11-05T04:29:19Z",
+  "html_sha256": "7895ba0776e958901d66e27f3de3061238b8d058e985740cd7816c436b9dc2b9",
+  "text_sha256": "7c8dcfc12754ab13cdba0ea229203cbe13b97710c9e58daf9ea8a30a623eac6f",
+  "byte_size": 3207,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

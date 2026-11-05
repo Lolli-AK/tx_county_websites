@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://votelubbock.gov/voting-information/register-to-vote/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "8feea6ba7c36836d61c4676b1a82d5547120522475eeeaba70b2cd1cde53838c",
-  "text_sha256": "8791241db147501283af433a4aa3a155b3cd297bc96df79a27d5b07a187a0fd6",
-  "byte_size": 19587,
-  "title": "Lubbock County, TX Elections",
+  "fetched_at": "2026-11-05T04:29:19Z",
+  "html_sha256": "fc02b47128f26b7d053448422440cad754b16060b515428eb5c22c3a6ecbfbdc",
+  "text_sha256": "1e937dab267c1ddbbabd96c355f82e725a29a24aeed9743d74a1a263840d23bc",
+  "byte_size": 4608,
+  "title": "Let's confirm you are human",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

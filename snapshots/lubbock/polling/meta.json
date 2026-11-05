@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://votelubbock.gov/election-information/election-day-information/"
   ],
-  "http_status": 200,
+  "http_status": 405,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "bb4aa063ee2e2177e344704f4b9833a910fb30024d580d87e82b114457f8c5ed",
-  "text_sha256": "4a5a57e2cfbaf45261cac88eaf4265eada51fa1da9aff56ee0d68722cdecfc7e",
-  "byte_size": 15597,
-  "title": "Lubbock County, TX Elections",
+  "fetched_at": "2026-11-05T04:29:19Z",
+  "html_sha256": "fc02b47128f26b7d053448422440cad754b16060b515428eb5c22c3a6ecbfbdc",
+  "text_sha256": "1e937dab267c1ddbbabd96c355f82e725a29a24aeed9743d74a1a263840d23bc",
+  "byte_size": 4608,
+  "title": "Let's confirm you are human",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

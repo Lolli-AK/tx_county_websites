@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.henderson-county.com/221/Elections-Voter-Registration"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "fd7d0b20a7537f8c50f7b689a19be95c5d2883fbc048ebb70a2ff9646e05d97e",
-  "text_sha256": "b13679a50698699532f297fd74663a823299eaaafdb95962b0c3ec17f1a4a4e0",
-  "byte_size": 55467,
-  "title": "Elections / Voter Registration | Henderson County, TX",
+  "fetched_at": "2026-11-05T04:29:19Z",
+  "html_sha256": "f2263ca9045ef690b63fe22418e51968ffdf7c04b9c852feae87bc586ff9b4ff",
+  "text_sha256": "b93060eeec64d43ee32b9c97e78450cb22fa189ed1acf132532dee2632249249",
+  "byte_size": 3225,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }

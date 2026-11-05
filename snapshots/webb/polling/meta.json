@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.webbcountytx.gov/ElectionsAdministration/ElectionDaySites/"
   ],
-  "http_status": 404,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-05T03:29:12Z",
-  "html_sha256": "0bb9719196f4268830ffa29d17b66fdf1ce7cf59c5ca87103cacecb3378d0b07",
-  "text_sha256": "3a34a812d3c7581b5df9a383d374288c4f816deb32fe185d760d710ecdbf6992",
-  "byte_size": 40512,
-  "title": "Custom404 • Webb County, TX • CivicEngage",
+  "fetched_at": "2026-11-05T04:29:19Z",
+  "html_sha256": "24bbbb5298ed1aca234b9eb2deb5458ffdc0c55436edf2f536a0fbafa6a9edb7",
+  "text_sha256": "28ef82bcc3ad8662589e8ee520a65a1f66270bb02925400af4ea581b4a9624ea",
+  "byte_size": 3213,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
