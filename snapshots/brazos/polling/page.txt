@@ -4,7 +4,7 @@ Performing security verification
 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
 Verification successful. Waiting for elections.brazoscountytx.gov to respond
 Ray ID:
-a55aaaca5f7416a7
+a55b03dd1b17319e
 Performance and Security by
 Cloudflare
 Privacy
