@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.deltacountytx.com/elections/page/election-results"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T05:55:19Z",
-  "html_sha256": "fc360682e23b5330b7374510d076d8bfc4d5fc5c481372c8b2b185ed0fb67e8f",
-  "text_sha256": "c0c386593c2a211e9abc2da1869a01954a9e3540658d3d76b5b1b420dd4a10f9",
-  "byte_size": 3216,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T06:55:33Z",
+  "html_sha256": "7ea60bd97ba5615913a38de40f7be7576f295c50ad84b76eb010edc4c7fee1c3",
+  "text_sha256": "7f86546d9335a403b23b1bf4d51e2ceb662e186dc10e8234cfc62467c28c6c8d",
+  "byte_size": 125569,
+  "title": "Election Results | Delta County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
