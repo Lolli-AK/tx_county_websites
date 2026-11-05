@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://votemidlandtx.gov/voter-information/voter-registration-sites/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-05T05:20:48Z",
-  "html_sha256": "fc02b47128f26b7d053448422440cad754b16060b515428eb5c22c3a6ecbfbdc",
-  "text_sha256": "1e937dab267c1ddbbabd96c355f82e725a29a24aeed9743d74a1a263840d23bc",
-  "byte_size": 4608,
-  "title": "Let's confirm you are human",
+  "fetched_at": "2026-11-05T05:55:19Z",
+  "html_sha256": "7148eabf8b9f8ccd25e5d2025ead40a4a6c4ca0731e16b2c6e8bd770f605db61",
+  "text_sha256": "b9c999f40eb62b19fc2f2a34246f7f4e785abd20fc89caf9125b30196b032617",
+  "byte_size": 65672,
+  "title": "Voter Registration Sites – Midland County, TX Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

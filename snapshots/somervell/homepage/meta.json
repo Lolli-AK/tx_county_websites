@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.somervell.co/"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T05:20:48Z",
-  "html_sha256": "ec89bb02a177728d4a2f9c3c007ee2545c3d1e58c26374aa5c96a195bc684aae",
-  "text_sha256": "cba7a9124c384a4319a6ee1f74f3929c75d40f2de45e8cd3fe179eddad0760aa",
-  "byte_size": 3201,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T05:55:19Z",
+  "html_sha256": "fde25631cdd957de1131f7bd5537c6f758e141d834b9ec24b2774224738fb667",
+  "text_sha256": "ab31ba4930a744534b4ca35517ea66e618867911c587ed00bad3a74b3ba8525f",
+  "byte_size": 56364,
+  "title": "Somervell County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

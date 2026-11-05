@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.henderson-county.com/"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T04:29:19Z",
-  "html_sha256": "dab721a609c211790808c990d9a063a23f394b8be31d4297605b1d8cac948e75",
-  "text_sha256": "ac8d6f49a0acc6fba32157844c77d111e81ec224084f5cf7c88bcd6c17484c32",
-  "byte_size": 3225,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T05:55:19Z",
+  "html_sha256": "acef13590f0825b28d579218fe2c152a008f51d3c70fa1932d98722bc6e8b763",
+  "text_sha256": "ef9a3a70f3ffb571630c56b847ba688a9f56bc646136967156eeb2b554cc166e",
+  "byte_size": 74729,
+  "title": "Henderson County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.collincountytx.gov/elections/voter-registration-information"
   ],
-  "http_status": 403,
-  "content_type": "text/html",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T04:29:19Z",
-  "html_sha256": "2ee3620bca45570b4082d02e113fd7e6aa62b18b5e1e7712dce24a68f6f82b2b",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 278,
-  "title": null,
+  "fetched_at": "2026-11-05T05:55:19Z",
+  "html_sha256": "f19d624c764326b32d9ef00e5821ca5dd40441ec1bda79291c83ebd4897eb4f6",
+  "text_sha256": "b06f5322040fb9159b82d9c2479fc03a30f59150cb34338e17cab34c904c879e",
+  "byte_size": 36970,
+  "title": "Voter Registration Information",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
   "error": null
 }

@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://votelubbock.gov/election-information/historical-election-results/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-05T04:29:19Z",
-  "html_sha256": "fc02b47128f26b7d053448422440cad754b16060b515428eb5c22c3a6ecbfbdc",
-  "text_sha256": "1e937dab267c1ddbbabd96c355f82e725a29a24aeed9743d74a1a263840d23bc",
-  "byte_size": 4608,
-  "title": "Let's confirm you are human",
+  "fetched_at": "2026-11-05T05:55:19Z",
+  "html_sha256": "1c727279b5ed3cc0a5538653ae9dbc6fdd7fec977544b4a09f442aacb92d29a3",
+  "text_sha256": "38cade1bc0a5fc5a9c8649e6a4c07d1bf371abb4d22f1b348f2c64669f58bc2f",
+  "byte_size": 184465,
+  "title": "Lubbock County, TX Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

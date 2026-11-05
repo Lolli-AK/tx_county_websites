@@ -7,24 +7,26 @@
     "https://www.vctx.org/page/elections.registration",
     "https://www.victoriacountytx.gov/page/elections.registration"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T05:20:48Z",
-  "html_sha256": "25d80aba66ca7397fcb8cf242f12484c1f1e17702c23c40afaf54323967a9616",
-  "text_sha256": "986c76fe769406bc77d209465fca66e957ed7ae76f267e54e5e2e91cb82e25bb",
-  "byte_size": 3225,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T05:55:19Z",
+  "html_sha256": "d5b1be791b14bc376134f47a4c2f51958241ac4e064fb6a2ed8c3f7021ce5ea6",
+  "text_sha256": "321ec2d73b7b3ad63cdf34f796b813907a72bd4992de6388d917d56df92f2251",
+  "byte_size": 59161,
+  "title": "Voter Registration | Victoria County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

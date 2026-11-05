@@ -6,24 +6,29 @@
   "redirect_chain": [
     "https://www.bastropvotes.org/voter-information-2/military-and-overseas-voters/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-05T04:29:19Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-05T05:55:19Z",
+  "html_sha256": "0f6da9aa54efd3360f8f9ee4179f72df790676d05064890e91f5fae4bd1edf02",
+  "text_sha256": "1acba8e31b9a205ca8039b97c74e88d4bd3d9186001b511a7c3a4f0ab5005d24",
+  "byte_size": 38012,
+  "title": "Military and Overseas Voters - Bastrop County, TX Elections",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 32
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

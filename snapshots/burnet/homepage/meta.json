@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.burnetcountytexas.org/"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T04:29:19Z",
-  "html_sha256": "bc16ae9b515953915d91936220280e11e9571454e30badc4a22cadaba486e06e",
-  "text_sha256": "95ab9ef2823989d31e48b7772b9609c4b1aab99bca6e874ed317fceda92b4030",
-  "byte_size": 3228,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T05:55:19Z",
+  "html_sha256": "2d75dc6f0c07dec414980136ff313ff1da640644f51e29ef1a8e7dafb6da368a",
+  "text_sha256": "4cf9d734c0d8f27590ae62d73939a3112a7b0a929d9ee552740a31348a8b933c",
+  "byte_size": 51827,
+  "title": "Burnet County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

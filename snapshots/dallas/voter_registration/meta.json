@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.dallascountyvotes.org/voters/registration/register/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-05T04:29:19Z",
-  "html_sha256": "ca66437265e936aa6c7d5b9f268df62749a5aa968f1a98054f6be857c3d62b3a",
-  "text_sha256": "7aca378fa68b9e65ebbc0ecbad64278e76ba9942bf76fe80ede96c5d9c70df1b",
-  "byte_size": 4573,
-  "title": "Human Verification",
+  "fetched_at": "2026-11-05T05:55:19Z",
+  "html_sha256": "ad2989ce656a4328940a041409b3ed4dbd4f5d29521d5afdc91e997397b60dfa",
+  "text_sha256": "5078ffe64de85bb8d2aea81c0c04c0607beab422454c1657623463f74db44de7",
+  "byte_size": 104222,
+  "title": "Register to Vote – Dallas County Elections Department",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 3
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

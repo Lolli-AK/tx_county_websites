@@ -6,24 +6,29 @@
   "redirect_chain": [
     "https://www.webbcountytx.gov/702/Military-Overseas-Voters"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T04:29:19Z",
-  "html_sha256": "0149de4b5ac5620a0bfd15c5d9633c02080f35d6b1577509d8aae3ab0183f316",
-  "text_sha256": "fab036ddfec05d5d5a4719baf419e9ed601314cbe6f20d792bb51f490860d389",
-  "byte_size": 3213,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T05:55:19Z",
+  "html_sha256": "20daa7d5eb9d2e1163441d82aa3bfa35f5f851948fd5812ed3b4ed97c362f644",
+  "text_sha256": "81e38e64589634803fa308e787ae9acd067a04f9978f3a51455c2150a4e9922b",
+  "byte_size": 59042,
+  "title": "Military & Overseas Voters | Webb County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 23
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

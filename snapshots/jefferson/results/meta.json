@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.jeffcotxvotes.gov/elections/history-maps/archived-election-results/"
   ],
-  "http_status": 405,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-05T05:20:48Z",
-  "html_sha256": "fc02b47128f26b7d053448422440cad754b16060b515428eb5c22c3a6ecbfbdc",
-  "text_sha256": "1e937dab267c1ddbbabd96c355f82e725a29a24aeed9743d74a1a263840d23bc",
-  "byte_size": 4608,
-  "title": "Let's confirm you are human",
+  "fetched_at": "2026-11-05T05:55:19Z",
+  "html_sha256": "e49e15a86b53a9c6f7bd2a351b6d6faee60391adeb7125faa5267df3f7a49640",
+  "text_sha256": "ad31a9f947c0d1ce43ea3b35c29d32cd28e4a49ff87a4f235c9def5592d3441e",
+  "byte_size": 130777,
+  "title": "Archived Election Results – Jefferson County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

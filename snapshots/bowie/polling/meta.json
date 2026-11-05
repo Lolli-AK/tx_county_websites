@@ -7,15 +7,15 @@
     "https://www.co.bowie.tx.us/page/bowie.PastElectionInformation",
     "https://www.bowiecounty.org/page/bowie.PastElectionInformation"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 404,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T04:29:19Z",
-  "html_sha256": "d34506075244038d05481d3dd272a9ba6096f7aa258b65ad037fa54c2b69754b",
-  "text_sha256": "1dafe0006016cc11e8d5ad7dc0bf71b4314b99176d52db7ff448e8a1c52bda4d",
-  "byte_size": 3210,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-05T05:55:19Z",
+  "html_sha256": "f758a97884a98e81ea147e8b58e8a9934c700ad2bec9dfa0423aad507b5bf3e6",
+  "text_sha256": "4205baff913acf658c14af4ea34ac67731e707760c6e08706dcd538e40a35d36",
+  "byte_size": 30767,
+  "title": "Custom404 • Bowie County, TX • CivicEngage",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
