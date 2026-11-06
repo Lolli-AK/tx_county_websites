@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.johnsoncountytx.org/departments/elections-office/current-election-results"
   ],
-  "http_status": 404,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-06T01:32:56Z",
-  "html_sha256": "1a151f189a04102497b0d85cc76c2f1dc1824624b9ab22d352db851b2f84eb2c",
-  "text_sha256": "092e3215a688da37f373df599ca2c2f94be8cd0b12be1f82b347678a0292c8aa",
-  "byte_size": 82387,
-  "title": "| Johnson County, TX",
+  "fetched_at": "2026-11-06T10:35:34Z",
+  "html_sha256": "3df53ce9cffe923c7cbb4027a185412da56ff0e62f7c569a947355fce9b1dd45",
+  "text_sha256": "84531cb61da0ccacbba57b1d10e5633e0c9f5179d6d57421bdada6adf02fc44b",
+  "byte_size": 368,
+  "title": "Access Denied",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.nuecesco.com/county-services/county-clerk/elections-department"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-06T01:32:56Z",
-  "html_sha256": "7a40234a5be8e293ed350c1f064af67efc13cddfc6e10b42f926fb6a5489b515",
-  "text_sha256": "d16c6f4b62d90b0d766314083f98c45340fbe2c3923213101608d43462676cde",
-  "byte_size": 157377,
-  "title": "Elections Department | Nueces County, TX",
+  "fetched_at": "2026-11-06T10:35:34Z",
+  "html_sha256": "c186a367d890c672827b36f62698e8cb03e213a9124176b4cd975e98bb00a089",
+  "text_sha256": "36271e6e8fa0be733955fbe4506e74458dd833dcd2eeb1a0c7a82ed5853dbce8",
+  "byte_size": 371,
+  "title": "Access Denied",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

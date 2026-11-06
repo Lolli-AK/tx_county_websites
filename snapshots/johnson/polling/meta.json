@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.johnsoncountytx.org/departments/elections-office/early-voting-and-election-day-locations-651"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-06T01:32:56Z",
-  "html_sha256": "f1084eb34299ba58155369f3dd24ac9e5d6087f24fb4153648374d2f7fc586d7",
-  "text_sha256": "e4093ba5dd29d3e283bc024f2884a4b92b9f7e48126a5f0404f0880fcc7a9ee9",
-  "byte_size": 112100,
-  "title": "TBA | Johnson County, TX",
+  "fetched_at": "2026-11-06T10:35:34Z",
+  "html_sha256": "6966cd9d950fbaebdf1dca2583aa90e0031293cfacd9969387ca315fb1aaee3d",
+  "text_sha256": "0a025440fa9e28877fbaf9972fa5a05dd147a9150fbffdeaeafb397028ae68d2",
+  "byte_size": 387,
+  "title": "Access Denied",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

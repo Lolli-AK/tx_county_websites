@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.brazoriacountyclerktx.gov/departments/elections/voter-registration"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-06T01:32:56Z",
-  "html_sha256": "955a90b4b3081f4bbe7eb1ad5a7991dad309603f24b5e321c60318caeaa81bc8",
-  "text_sha256": "2b88b5acca7373ce137c77edd9c0e3e7ea93b1da34b25dedfeb9184caab35ce0",
-  "byte_size": 67294,
-  "title": "Voter Registration | Brazoria County Clerk",
+  "fetched_at": "2026-11-06T10:35:34Z",
+  "html_sha256": "1d8c7e8dea27ba1cbc32d37692e47a4bf7b33403cd7dbb71355880046a6cec06",
+  "text_sha256": "28d7e7ea02a57d754b358a4a1579e5c94778f523d7690a099a3c198ff2ebc2a1",
+  "byte_size": 361,
+  "title": "Access Denied",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }
