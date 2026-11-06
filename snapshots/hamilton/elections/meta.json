@@ -6,24 +6,29 @@
   "redirect_chain": [
     "https://www.hamiltoncountytx.gov/page/hamilton.elections"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-06T10:35:34Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-11-06T15:26:35Z",
+  "html_sha256": "5329bfbab2aed0eafd6fddd16e7c8024d9a083ba8685a8d2e242921511dde963",
+  "text_sha256": "a3ea84449fac0c71a3331fb81bc4028748805597184fd8d05367796b4a4b059e",
+  "byte_size": 356962,
+  "title": "Hamilton County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "fvap",
+      "military_overseas_voter",
+      "citizen_abroad"
+    ],
+    "count": 42
   },
-  "error": "plain_fetch_error: TooManyRedirects: Exceeded maximum allowed redirects."
+  "error": null
 }

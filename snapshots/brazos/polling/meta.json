@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-06T10:35:34Z",
-  "html_sha256": "c6dd3eaafdad34ac9d969f888659b4bcbccb499ee5d5f9be7de79b9939558f7a",
+  "fetched_at": "2026-11-06T15:26:35Z",
+  "html_sha256": "d843b785c81b80095fad9dad8126d7177e77051ad8156348f6e0ecfd8094de31",
   "text_sha256": "1065bf08845368506d18cd79cb24f70860a2c9ba1ce3b6a0f1ff2a9d049c7839",
-  "byte_size": 61106,
+  "byte_size": 61128,
   "title": "Where and When to Vote – Brazos Votes",
   "noncitizen_voting": {
     "present": false,
