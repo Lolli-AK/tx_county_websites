@@ -9,8 +9,8 @@
   </title>
  </head>
  <body>
-  <a alt="Press enter to skip the Navigation" href="#section1" id="skip-navigation" tab-index="0" title="Press enter to skip to the Navigation">
-   Skip Navigation
+  <a href="#section1" id="skip-navigation" title="Skip to main content">
+   Skip to main content
   </a>
   <form action="./" id="nseForm" method="post">
    <div class="aspNetHidden">
@@ -18,7 +18,7 @@
    </div>
    <div class="aspNetHidden">
    </div>
-   <div class="topnavcolor outercontainer floatleft clearfix" id="topnavwrapper">
+   <div aria-label="Utility navigation" class="topnavcolor outercontainer floatleft clearfix" id="topnavwrapper" role="navigation">
     <div class="innercontainer clearfix no-margin no-border" id="topnav">
      <input id="hdnModifiedDate" type="hidden"/>
      <div class="rltbOverlay">
@@ -157,7 +157,7 @@
      </div>
     </div>
    </div>
-   <div class="outercontainer floatleft clearfix" id="headerwrapper">
+   <div class="outercontainer floatleft clearfix" id="headerwrapper" role="banner">
     <div class="innercontainer clearfix" id="header">
      <div class="widgettable">
       <div class="widgetitem no-margin no-border vertical-align-layout" id="CP2_CR2_WB_0">
@@ -658,7 +658,7 @@
      </div>
     </div>
    </div>
-   <div class="outercontainer floatleft clearfix" id="slideshowwrapper">
+   <div aria-label="Featured content" class="outercontainer floatleft clearfix" id="slideshowwrapper" role="region">
     <div class="outercontainer floatleft clearfix no-border no-margin" id="slideshow">
      <div class="widgettable">
       <div class="widgetitem" id="CP3_CR3_WB_0">
@@ -691,7 +691,7 @@
      </div>
     </div>
    </div>
-   <div aria-label="main-content" class="outercontainer floatleft clearfix" id="section1" role="main">
+   <div class="outercontainer floatleft clearfix" id="section1" role="main" tabindex="-1">
     <div class="innercontainer clearfix" id="section1in">
      <div class="clearfix" data-aos="flip-left" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-once="true">
       <div class="widgettable">
@@ -775,7 +775,7 @@
      </div>
     </div>
    </div>
-   <div class="outercontainer floatleft clearfix" id="section2">
+   <div aria-label="Additional content" class="outercontainer floatleft clearfix" id="section2" role="region">
     <div class="innercontainer clearfix" id="section2in">
      <div class="clearfix" data-aos="fade-right" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-once="true">
       <div class="widgettable">
@@ -785,9 +785,11 @@
           <div class="widgettable">
            <div class="widgetitem" id="CP6_CR6_ctl00_0_CR1_0_WB_0">
             <div class="eztext_area">
-             <span class="Heading2">
-              News and Announcements
-             </span>
+             <h2>
+              <span class="Heading2">
+               News and Announcements
+              </span>
+             </h2>
             </div>
            </div>
            <div class="widgetitem" id="CP6_CR6_ctl00_0_CR1_0_WB_1">
@@ -927,20 +929,22 @@
            </div>
            <div class="widgetitem" id="CP6_CR6_ctl00_0_CR1_0_WB_2">
             <div class="eztext_area">
-             <strong>
-              County
-             </strong>
-             <a class="highlite" draggable="true" id="rptWidgets_aLnk_4" title="Drag this item...">
-              <span class="icon-pencil-square-o" id="rptWidgets_aBtn_4">
-              </span>
-             </a>
-             <strong>
-              Regulations and Ordinances
-             </strong>
-             <a class="highlite" draggable="true" id="rptWidgets_aLnk_1" title="Drag this item...">
-              <span class="icon-mountains" id="rptWidgets_aBtn_1">
-              </span>
-             </a>
+             <h2>
+              <strong>
+               County
+              </strong>
+              <a class="highlite" draggable="true" id="rptWidgets_aLnk_4" title="Drag this item...">
+               <span class="icon-pencil-square-o" id="rptWidgets_aBtn_4">
+               </span>
+              </a>
+              <strong>
+               Regulations and Ordinances
+              </strong>
+              <a class="highlite" draggable="true" id="rptWidgets_aLnk_1" title="Drag this item...">
+               <span class="icon-mountains" id="rptWidgets_aBtn_1">
+               </span>
+              </a>
+             </h2>
             </div>
            </div>
            <div class="widgetitem" id="CP6_CR6_ctl00_0_CR1_0_WB_3">
@@ -1081,15 +1085,17 @@
      </div>
     </div>
    </div>
-   <div class="outercontainer floatleft clearfix" id="section3">
+   <div aria-label="Community information" class="outercontainer floatleft clearfix" id="section3" role="region">
     <div class="innercontainer clearfix" id="section3in">
      <div class="clearfix" data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-once="true">
       <div class="widgettable">
        <div class="widgetitem" id="CP5_CR5_WB_0">
         <div class="eztext_area">
-         <span class="Heading2">
-          Welcome to Potter County
-         </span>
+         <h2>
+          <span class="Heading2">
+           Welcome to Potter County
+          </span>
+         </h2>
         </div>
        </div>
        <div class="widgetitem" id="CP5_CR5_WB_1">
@@ -1102,11 +1108,13 @@
        </div>
        <div class="widgetitem" id="CP5_CR5_WB_2">
         <div class="eztext_area">
-         <span class="Heading4underline">
-          <strong>
-           County Recognitions and Awards
-          </strong>
-         </span>
+         <h2>
+          <span class="Heading4underline">
+           <strong>
+            County Recognitions and Awards
+           </strong>
+          </span>
+         </h2>
         </div>
        </div>
        <div class="widgetitem" id="CP5_CR5_WB_3">
@@ -1200,7 +1208,7 @@
      </div>
     </div>
    </div>
-   <div class="outercontainer floatleft clearfix" id="section4">
+   <div aria-label="Additional resources" class="outercontainer floatleft clearfix" id="section4" role="region">
     <div class="clearfix" id="section4in">
      <div class="clearfix" data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-once="true">
       <div class="widgettable">
@@ -1215,7 +1223,7 @@
      </div>
     </div>
    </div>
-   <div class="outercontainer floatleft clearfix" id="footerwrapper">
+   <div class="outercontainer floatleft clearfix" id="footerwrapper" role="contentinfo">
     <div class="innercontainer clearfix" id="footerin">
      <div class="innercontainer" id="footer">
       <div class="clearfix" data-aos="fade-in" data-aos-duration="800" data-aos-easing="ease-in-out" data-aos-once="true">

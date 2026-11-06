@@ -2,19 +2,20 @@
   "county": "Coke",
   "page_type": "elections",
   "requested_url": "https://www.co.coke.tx.us/page/coke.Elections",
-  "final_url": "https://www.co.coke.tx.us/page/coke.Elections",
+  "final_url": "https://www.co.coke.tx.us/page/Elections",
   "redirect_chain": [
-    "https://www.co.coke.tx.us/page/coke.Elections"
+    "https://www.co.coke.tx.us/page/coke.Elections",
+    "https://www.co.coke.tx.us/page/Elections"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-05T19:42:50Z",
-  "html_sha256": "e6659d1dc7c2264e1687db56933c86975a73481d14767203a62a0e2e8e45b344",
-  "text_sha256": "bcfc909e26663a9a2f51fc923e46d662c93802de036e3d46890dc8a8470d201c",
-  "byte_size": 136954,
-  "title": "Elections - Coke County",
+  "fetched_at": "2026-11-06T01:32:56Z",
+  "html_sha256": "a5bfcccae5f6d88b2e7efd7d67b9be320c2da05be22fdcbb5a43f3a5d79ed65e",
+  "text_sha256": "ef7289760ae79d852646c9663045e9620d086b484aef548464a4f8495ec2ac91",
+  "byte_size": 115098,
+  "title": "Elections | Coke County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
