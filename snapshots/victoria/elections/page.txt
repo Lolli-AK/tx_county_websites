@@ -37,17 +37,13 @@ Government
 Departments
 Elections
 Elections
-Countdown to Election Day!
-November 3, 2026. Polls Open at 7:00 a.m.
-Countdown Timer
-Updated Polling Location Information
-2026 - 2028 Polling Locations
-Note: Locations in
-BOLD
-are new locations.
-How to Cast Your Vote (In-Person)
-Casting Your Vote on ES&S ExpressVote Ballot Marking Device
-Casting Your Vote Using ES&S DS300 Ballot Scanner
+Why Are The Results Unofficial?
+In Texas, voters have up to six days after the election to:
+cure deficiencies with their mail-in ballot
+return their ballot if they are overseas or deployed military voters
+have their provisional ballot status determined
+The ballot board must then convene to perform a Post Election Hand Count Audit, which verifies the results of three different races across three different polling locations. These races and locations are determined by the Texas Secretary of State.
+A canvass must occur. This means the results are presented to the governing body and results are accepted. In this election, the governing body is the County Judge and Commissioners' Court. This can take place up to 14 days after the election. Canvas is scheduled to occur at the Commissioners' Court meeting on Monday, November 16th at 10:00 a.m.
 [rotating image slideshow removed for determinism]
 Contact Us
 Karen Cline, REO

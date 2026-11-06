@@ -291,6 +291,7 @@ Notice of General Election
 Notice of Public Testing of Automatic Tabulating Equipment
 Notice of Testing of Electronic Pollbook
 Notice of Early Voting Ballot Board Convenings
+Notice of Convening Central Counting Station
 Notice of Delivery of Provisional Balloting Materials
 Notice of Post Election Hand Count Audit
 Random Hand Count, Notice of Additional Hand Count Audit
