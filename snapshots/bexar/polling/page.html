@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="removeSetHeights no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" lang="en">
+<html class="removeSetHeights no-flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-muli-n3-active wf-muli-n4-active wf-muli-i4-active wf-muli-n7-active has-RANDOM" lang="en">
  <head>
   <meta content="text/html; charset=utf-8" http-equiv="Content-type"/>
   <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -12,7 +12,17 @@
   </title>
   <meta charset="utf-8" content="text/html" http-equiv="Content-Type"/>
  </head>
- <body class="wide doneLoading">
+ <body class="wide cpTextResizeOn doneLoading">
+  <div id="divAjaxProgress">
+   <div id="divAjaxShade">
+   </div>
+   <div class="loading" id="divAjaxImgProgress">
+    <img alt="Loading" src="/Common/images/ajax-loader.gif" title="Loading"/>
+    <p>
+     Loading
+    </p>
+   </div>
+  </div>
   <div class="cp-PopOver cp-PopOver--modal cp-RANDOM" id="popoverModal">
    <div class="cp-PopOver-header">
     <h3 class="cp-PopOver-title">
@@ -139,26 +149,6 @@
          <aside class="megaMenu" data-cprole="megaMenu" id="megaMenu">
           <input id="megaMenuPopupDirection" type="hidden"/>
           <input id="megaMenuWidthReference" type="hidden"/>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="menu">
-           <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="menu">
-           <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_303 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu303" role="menu">
-           <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_145 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu145" role="menu">
-           <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
-          <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 hidden" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101" role="menu">
-           <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
-           </div>
-          </aside>
          </aside>
         </nav>
        </div>
@@ -228,11 +218,8 @@
         </div>
         <div class="hidden" id="bannerImagesJSON293">
         </div>
-        <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
-         <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
-         </a>
-         <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
-         </a>
+        <div class="bannerObject external fixedBanner" data-image-scale="true" id="bannerDivbanner1">
+         <img alt="" class="bannerObject" data-is-delayed="false" src="/ImageRepository/Document?documentID=41925" width="1280px"/>
         </div>
        </div>
       </div>
@@ -261,12 +248,12 @@
             <input id="hdnDontCallNotifications" name="hdnDontCallNotifications" type="hidden"/>
             <div class="newCP moduleContentNew" id="404Content">
              <input id="intUserID" type="hidden"/>
-             <table border="0" cellpadding="0" cellspacing="0" summary="Table for layout purposes" width="0">
+             <table summary="Table for layout purposes" width="0">
               <tbody>
                <tr>
                 <td>
                  <br/>
-                 <table border="0" cellpadding="0" cellspacing="5" summary="Item no longer available">
+                 <table summary="Item no longer available">
                   <tbody>
                    <tr>
                     <td align="left" colspan="2">
@@ -552,7 +539,7 @@
                   </div>
                  </header>
                  <div class="widgetBody cpGrid cpGrid1">
-                  <div class="row wide">
+                  <div class="row narrow">
                    <div class="col col1 first last">
                     <ol class="pageStyles semanticList">
                      <li class="InfoAdvanced widgetItem fr-view">
@@ -586,8 +573,8 @@
                     <div class="col col1 first">
                      <ul class="semanticList">
                       <li class="widgetItem GraphicLinks">
-                       <a class="widgetDesc widgetGraphicLinksLink" href="/facebook" target="_blank">
-                        <img alt="Facebook (opens in new window)" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=40979'" onfocus="this.src='/ImageRepository/Document?documentID=40979'" onmouseout="this.src='/ImageRepository/Document?documentID=40979'" onmouseover="this.src='/ImageRepository/Document?documentID=40979'" src="/ImageRepository/Document?documentID=40979"/>
+                       <a aria-label="Facebook (opens in new window) Opens in new window" class="widgetDesc widgetGraphicLinksLink" href="/facebook" rel="noopener" target="_blank">
+                        <img alt="Facebook (opens in new window) Opens in new window" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=40979'" onfocus="this.src='/ImageRepository/Document?documentID=40979'" onmouseout="this.src='/ImageRepository/Document?documentID=40979'" onmouseover="this.src='/ImageRepository/Document?documentID=40979'" src="/ImageRepository/Document?documentID=40979"/>
                        </a>
                       </li>
                      </ul>
@@ -595,8 +582,8 @@
                     <div class="col col1">
                      <ul class="semanticList">
                       <li class="widgetItem GraphicLinks">
-                       <a class="widgetDesc widgetGraphicLinksLink" href="/linkedin" target="_blank">
-                        <img alt="Linkedin (opens in new window)" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=40980'" onfocus="this.src='/ImageRepository/Document?documentID=40980'" onmouseout="this.src='/ImageRepository/Document?documentID=40980'" onmouseover="this.src='/ImageRepository/Document?documentID=40980'" src="/ImageRepository/Document?documentID=40980"/>
+                       <a aria-label="Linkedin (opens in new window) Opens in new window" class="widgetDesc widgetGraphicLinksLink" href="/linkedin" rel="noopener" target="_blank">
+                        <img alt="Linkedin (opens in new window) Opens in new window" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=40980'" onfocus="this.src='/ImageRepository/Document?documentID=40980'" onmouseout="this.src='/ImageRepository/Document?documentID=40980'" onmouseover="this.src='/ImageRepository/Document?documentID=40980'" src="/ImageRepository/Document?documentID=40980"/>
                        </a>
                       </li>
                      </ul>
@@ -604,8 +591,8 @@
                     <div class="col col1">
                      <ul class="semanticList">
                       <li class="widgetItem GraphicLinks">
-                       <a class="widgetDesc widgetGraphicLinksLink" href="/twitter" target="_blank">
-                        <img alt="X (opens in new window)" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=40981'" onfocus="this.src='/ImageRepository/Document?documentID=40981'" onmouseout="this.src='/ImageRepository/Document?documentID=40981'" onmouseover="this.src='/ImageRepository/Document?documentID=40981'" src="/ImageRepository/Document?documentID=40981"/>
+                       <a aria-label="X (opens in new window) Opens in new window" class="widgetDesc widgetGraphicLinksLink" href="/twitter" rel="noopener" target="_blank">
+                        <img alt="X (opens in new window) Opens in new window" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=40981'" onfocus="this.src='/ImageRepository/Document?documentID=40981'" onmouseout="this.src='/ImageRepository/Document?documentID=40981'" onmouseover="this.src='/ImageRepository/Document?documentID=40981'" src="/ImageRepository/Document?documentID=40981"/>
                        </a>
                       </li>
                      </ul>
@@ -613,8 +600,8 @@
                     <div class="col col1">
                      <ul class="semanticList">
                       <li class="widgetItem GraphicLinks">
-                       <a class="widgetDesc widgetGraphicLinksLink" href="/nextdoor" target="_blank">
-                        <img alt="Nextdoor (opens in new window)" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=40983'" onfocus="this.src='/ImageRepository/Document?documentID=40983'" onmouseout="this.src='/ImageRepository/Document?documentID=40983'" onmouseover="this.src='/ImageRepository/Document?documentID=40983'" src="/ImageRepository/Document?documentID=40983"/>
+                       <a aria-label="Nextdoor (opens in new window) Opens in new window" class="widgetDesc widgetGraphicLinksLink" href="/nextdoor" rel="noopener" target="_blank">
+                        <img alt="Nextdoor (opens in new window) Opens in new window" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=40983'" onfocus="this.src='/ImageRepository/Document?documentID=40983'" onmouseout="this.src='/ImageRepository/Document?documentID=40983'" onmouseover="this.src='/ImageRepository/Document?documentID=40983'" src="/ImageRepository/Document?documentID=40983"/>
                        </a>
                       </li>
                      </ul>
@@ -622,8 +609,8 @@
                     <div class="col col1 last">
                      <ul class="semanticList">
                       <li class="widgetItem GraphicLinks">
-                       <a class="widgetDesc widgetGraphicLinksLink" href="/youtube" target="_blank">
-                        <img alt="YouTube (opens in new window)" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=40984'" onfocus="this.src='/ImageRepository/Document?documentID=40984'" onmouseout="this.src='/ImageRepository/Document?documentID=40984'" onmouseover="this.src='/ImageRepository/Document?documentID=40984'" src="/ImageRepository/Document?documentID=40984"/>
+                       <a aria-label="YouTube (opens in new window) Opens in new window" class="widgetDesc widgetGraphicLinksLink" href="/youtube" rel="noopener" target="_blank">
+                        <img alt="YouTube (opens in new window) Opens in new window" class="graphicButtonLink" onblur="this.src='/ImageRepository/Document?documentID=40984'" onfocus="this.src='/ImageRepository/Document?documentID=40984'" onmouseout="this.src='/ImageRepository/Document?documentID=40984'" onmouseover="this.src='/ImageRepository/Document?documentID=40984'" src="/ImageRepository/Document?documentID=40984"/>
                        </a>
                       </li>
                      </ul>
@@ -672,7 +659,7 @@
                   </div>
                  </header>
                  <div class="widgetBody cpGrid cpGrid1">
-                  <div class="row wide">
+                  <div class="row narrow">
                    <div class="col col1 first last">
                     <ol class="pageStyles semanticList">
                      <li class="InfoAdvanced widgetItem fr-view">
@@ -857,7 +844,7 @@
                       </div>
                      </li>
                      <li class="widgetItem QuickLinks">
-                      <a aria-label="Job Opportunities - BC - Footer - Helpful Links opens in new window" class="widgetDesc widgetQuickLinksLink" href="/employment" rel="noopener" target="_blank">
+                      <a aria-label="Job Opportunities Opens in new window" class="widgetDesc widgetQuickLinksLink" href="/employment" rel="noopener" target="_blank">
                        Job Opportunities
                       </a>
                       <div class="widgetMeta">
@@ -878,7 +865,7 @@
                       </div>
                      </li>
                      <li class="widgetItem QuickLinks">
-                      <a aria-label="Open Records Request - BC - Footer - Helpful Links opens in new window" class="widgetDesc widgetQuickLinksLink" href="/3500" rel="noopener" target="_blank">
+                      <a aria-label="Open Records Request Opens in new window" class="widgetDesc widgetQuickLinksLink" href="/3500" rel="noopener" target="_blank">
                        Open Records Request
                       </a>
                       <div class="widgetMeta">
@@ -892,7 +879,7 @@
                       </div>
                      </li>
                      <li class="widgetItem QuickLinks">
-                      <a aria-label="Privacy Policy - BC - Footer - Helpful Links opens in new window" class="widgetDesc widgetQuickLinksLink" href="/411/Privacy-Policy" rel="noopener" target="_blank">
+                      <a aria-label="Privacy Policy Opens in new window" class="widgetDesc widgetQuickLinksLink" href="/411/Privacy-Policy" rel="noopener" target="_blank">
                        Privacy Policy
                       </a>
                       <div class="widgetMeta">
@@ -1036,12 +1023,35 @@
   </div>
   <div>
   </div>
-  <div class="hidden activeWidgetSkinComponentsOnPageJson">
-   []
-  </div>
   <div>
   </div>
   <div id="root-picker-outlet">
+  </div>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu27" role="menu">
+   <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu35" role="menu">
+   <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_303 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu303" role="menu">
+   <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_145 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu145" role="menu">
+   <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <aside class="contentTop mainNavMegaMenu megaMenuContainer pageID_101 moved megaMenu" data-cprole="contentContainer" data-orientation="horizontal" id="mainNavMegaMenu101" role="menu">
+   <div class="pageContent cpGrid cpGrid24 showInMobile" data-containerid="GUID" id="ccGUID">
+   </div>
+  </aside>
+  <div class="bannerSlideshowControlsNew none" id="bannerSlideshowControls_banner1">
+   <a aria-label="Banner Arrow Previous" class="arrowNew prev" id="arrowPrev_banner1" tabindex="0">
+   </a>
+   <a aria-label="Banner Arrow Next" class="arrowNew next" id="arrowNext_banner1" tabindex="0">
+   </a>
   </div>
  </body>
 </html>
