@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.hayscountytx.gov/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-07T17:37:36Z",
-  "html_sha256": "1009d7f50370eb17abea5bc0b6e23217a1ac7734e697e17c76f1fb29ab43d09a",
-  "text_sha256": "81f0c115b4c6d68a6f07e65135e7003479d55b2dcab12d23b1f5991b02534ac2",
-  "byte_size": 3332,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-07T21:37:36Z",
+  "html_sha256": "81f41f2d92ca832d8f0fdd4f47547620b447fbffe04d1f5c8c700bf98824f4b7",
+  "text_sha256": "013851884bb5584e1b43f91a2780495b52f367bf4784eadf342ac9fad931ebdb",
+  "byte_size": 77217,
+  "title": "Hays County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
