@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-07T09:46:48Z",
-  "html_sha256": "943693d5aca7417fad0b961462ab4f9f6995a77fa4dbda2fd3e3122641af8979",
+  "fetched_at": "2026-11-07T14:27:19Z",
+  "html_sha256": "363de4a23ddee8c488404b64d463cf69ca836b2119ecaf3979a65b4d0e74acf1",
   "text_sha256": "f49bdfd2cd29b0bd60a9c8a1af626226676c562fd4e0aec463f3c679aab19611",
-  "byte_size": 64951,
+  "byte_size": 64931,
   "title": "Ballot by Mail, Absentee, Military, and Overseas Voters | Hays County, TX",
   "noncitizen_voting": {
     "present": false,
