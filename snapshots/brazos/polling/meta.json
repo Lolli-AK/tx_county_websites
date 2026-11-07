@@ -2,20 +2,19 @@
   "county": "Brazos",
   "page_type": "polling",
   "requested_url": "https://elections.brazoscountytx.gov/where-and-when-to-vote/",
-  "final_url": "https://elections.brazoscountytx.gov/where-and-when-to-vote/?ki-cf-botcl=1",
+  "final_url": "https://elections.brazoscountytx.gov/where-and-when-to-vote/",
   "redirect_chain": [
-    "https://elections.brazoscountytx.gov/where-and-when-to-vote/",
-    "https://elections.brazoscountytx.gov/where-and-when-to-vote/?ki-cf-botcl=1"
+    "https://elections.brazoscountytx.gov/where-and-when-to-vote/"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-07T00:43:37Z",
-  "html_sha256": "68cae02bb85bb45677b51bc4a1d53df0a2fdef36673fb8a13f0efc05f382b85b",
-  "text_sha256": "a4708690a86161812b563ce050de6f1be63394ab836c95962fa376cb214af176",
-  "byte_size": 3237,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-07T09:46:48Z",
+  "html_sha256": "fba97213043783e8d6911c0796dee2875969324ae8c284a78d8e3511bb578ad6",
+  "text_sha256": "04e8aa743a30e96c736aa060aed25b95ade9a95c3735c3e05b2214d58f8646f7",
+  "byte_size": 39983,
+  "title": "Where and When to Vote – Brazos Votes",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

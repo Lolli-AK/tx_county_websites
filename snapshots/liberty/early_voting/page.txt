@@ -110,15 +110,14 @@ KID VOTE RESULTS!
 UNOFFICIAL ELECTION RESULTS:
 Cumulative Results-Early Voting and Absentee
 Cumulative Results-Final
-Precinct Results
 Preliminary Election Reconciliation
 Post-Election Hand Count Audit Summary and Certification
 VOTER LISTS--
-ELECTION DAY:
+ELECTION DAY: 6090 VOTERS
 November 3, 2026 -
 Voter List (5000)
 Voter List (5000-6089)
-EARLY VOTING:
+EARLY VOTING: 19,115 VOTERS
 October 19, 2026 - Voter List
 : 1956
 turnout breakdown
@@ -153,8 +152,12 @@ October 29, 2026 - Voter List
 : 1611 (16460 total to-date)
 turnout breakdown
 October 30, 2026 - Voter List
-: 2554 (19014 total to-date) turnout breakdown
-MAIL-IN BALLOT VOTERS:
+: 2554 (19014 total to-date)
+turnout breakdown
+Final List of Limited Voters
+: 101 total voters
+MAIL-IN BALLOT VOTERS: 495 VOTERS
+Final Voter List of Mail-in Ballot Voters: 495 approved by Early Voting Ballot Board
 October 23, 2026 Mail-in Ballot Voter List
 : 331 approved for counting by Early Voting Ballot Board
 October 30, 2026 Mail-in Ballots Voter List

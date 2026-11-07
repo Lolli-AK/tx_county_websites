@@ -2,19 +2,20 @@
   "county": "Williamson",
   "page_type": "polling",
   "requested_url": "https://www.wilcotx.gov/VoterLookup",
-  "final_url": "https://www.wilcotx.gov/VoterLookup",
+  "final_url": "https://apps.wilcotx.gov/elections/voterlookup",
   "redirect_chain": [
-    "https://www.wilcotx.gov/VoterLookup"
+    "https://www.wilcotx.gov/VoterLookup",
+    "https://apps.wilcotx.gov/elections/voterlookup"
   ],
-  "http_status": 403,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-07T00:43:37Z",
-  "html_sha256": "29c6f6b23370c35afc067daf017d8f2992e8eda106b68ea7c79d4bfb4c1bfe65",
-  "text_sha256": "44f1c8c889ae10c1ab1cb7aac19603e64a8930d578b905162e8d1a5aedf7d4e8",
-  "byte_size": 3332,
-  "title": "Attention Required! | Cloudflare",
+  "fetched_at": "2026-11-07T09:46:48Z",
+  "html_sha256": "a4c53e5d9d5d0080670e6f39426511f036ab990ffc0e394093e2842baf02d03f",
+  "text_sha256": "8adfaacb9708c9bc19ca7217d4fac7360438d8e93e09981fad4f9bef3c89a0cc",
+  "byte_size": 4761,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
