@@ -106,7 +106,6 @@ See all calendar events!
 Social Media and Alerts
 Lavaca County Sheriff's Office
 Lavaca County EMS
-https://www.facebook.com/LavacaCountyCrimeStoppers
 Lavaca County Office of Emergency Management and Homeland Security
 County Google Map
 [live weather removed for determinism]
