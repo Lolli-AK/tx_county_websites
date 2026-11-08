@@ -2,28 +2,31 @@
   "county": "Bexar",
   "page_type": "elections",
   "requested_url": "https://www.bexar.org/elections",
-  "final_url": "https://www.bexar.org/elections",
+  "final_url": "https://elections.bexar.gov",
   "redirect_chain": [
-    "https://www.bexar.org/elections"
+    "https://www.bexar.org/elections",
+    "https://elections.bexar.gov"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-08T12:59:16Z",
-  "html_sha256": "8f5e7e7e8ac89dd4549315c47f11eedd6c2dd8fbb797f98104b1952ac2a8635c",
-  "text_sha256": "d44c878b16cb238c3c267f979438cd2a940ab62532af72961dde5e9cda9b23a4",
-  "byte_size": 1003,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-08T14:36:28Z",
+  "html_sha256": "d073d6721a89525dd79e9f086caa59d2c99f37c65712b80bce158967c0971c8e",
+  "text_sha256": "024d05ac7bbb272956a40faae211044fa9315c4b11a098015631555fbf64b0c5",
+  "byte_size": 105597,
+  "title": "Bexar County Elections, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "military_overseas_voter"
+    ],
+    "count": 1
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content; headless_error: TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.bexar.org/elections\", waiting until \"domcontentloaded\"\n"
+  "error": null
 }
