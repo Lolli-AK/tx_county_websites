@@ -6,15 +6,15 @@
   "redirect_chain": [
     "http://www.elliscountytx.gov/1338/Whats-Allowed-at-the-Polling-Place"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-08T05:16:45Z",
-  "html_sha256": "44898e0dd8277d3ba6db0b4c2a945c9348c378a1ac357be7c1a8046ed61fcdc4",
-  "text_sha256": "07f1db4af792c402d0e240234cc4d2aac9d8a0513817c8f74ce1afafee5bdfd4",
-  "byte_size": 52935,
-  "title": "What's Allowed at the Polling Place? | Ellis County, TX Official Website",
+  "fetched_at": "2026-11-08T12:59:16Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

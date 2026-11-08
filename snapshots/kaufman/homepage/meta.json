@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.kaufmancounty.net/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-08T05:16:45Z",
-  "html_sha256": "78d1e91ed65a69462d4f4a388a65bc6513f788d318bb30d77252a28806075159",
-  "text_sha256": "f958e382e937c44bcf96162f0d5a066f7cecdb9c2cf7c97b4683ffc078210173",
-  "byte_size": 73126,
-  "title": "Kaufman County, TX | Official Website",
+  "fetched_at": "2026-11-08T12:59:16Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }
