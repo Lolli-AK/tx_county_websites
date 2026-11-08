@@ -6,24 +6,26 @@
   "redirect_chain": [
     "https://www.co.orange.tx.us/directory/ElectionsAdministration"
   ],
-  "http_status": 504,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-08T05:16:45Z",
-  "html_sha256": "73e946a26e39cc6bf915ff46b3e4117a8da8f56b43436322d66354ccd4cad890",
-  "text_sha256": "fa41aa1c5194b01563de77a13fc1afb83e8e72d5d28e8cff4928f6d1c1689a4e",
-  "byte_size": 993,
-  "title": "ERROR: The request could not be satisfied",
+  "fetched_at": "2026-11-08T13:51:38Z",
+  "html_sha256": "b34c20efd16e2f2002bfb32c1b65eb53df55dc1e1373714d67e4c62db8c9f912",
+  "text_sha256": "7352d6f3e985e5d3e8e7d1e0d5f1e236434365ce6b4c47a3865057e7478f1218",
+  "byte_size": 15876,
+  "title": "Welcome to the Official Website of Orange County, Texas - Elections Administration",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form"
+    ],
+    "count": 2
   },
   "error": null
 }

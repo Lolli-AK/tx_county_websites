@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.randallcounty.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-08T05:16:45Z",
-  "html_sha256": "1aa7bc2f06b2fc17795f049d224cf8268f98e7441e055b283d020c271d68fcd3",
-  "text_sha256": "92a94fb8f0c5d2570cb356141ea6587e791b3eab381dac2f4e1995941ca503c3",
-  "byte_size": 50455,
-  "title": "Randall County, TX | Official Website",
+  "fetched_at": "2026-11-08T13:51:38Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

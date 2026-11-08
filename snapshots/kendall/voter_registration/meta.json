@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.kendallcountytx.gov/232/Voter-Registration"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-08T05:16:45Z",
-  "html_sha256": "a62465b43aa94e37ad7811d959e2034643c337013e7e9e391cadb83e580298c1",
-  "text_sha256": "f4aa6dd48828e6ef2d995d26e8f02da751e60dbdac9e7fa996461fa5dc1b6004",
-  "byte_size": 65467,
-  "title": "Voter Registration | Kendall County, TX",
+  "fetched_at": "2026-11-08T13:51:38Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }
