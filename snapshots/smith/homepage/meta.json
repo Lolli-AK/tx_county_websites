@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-07T21:37:36Z",
-  "html_sha256": "7ae3da5df79a864d3beaf8bd43fc73c2b4120ceac29b2a1fd1a3e9f4f0b37231",
+  "fetched_at": "2026-11-08T05:16:45Z",
+  "html_sha256": "515695628d9a6b79ea8cce91015ebc340430736945ebd862b1ddb146493ee759",
   "text_sha256": "43303b2dd4cb2f12033d7d4049bf2f369b0368b40b589a9c09391464484bad61",
-  "byte_size": 57261,
+  "byte_size": 57380,
   "title": "Smith County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
