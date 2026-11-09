@@ -1,62 +1,216 @@
 <!DOCTYPE html>
-<html class="size-mode-LARGE esriLtr jimu-ltr en-us en" dir="ltr" lang="en-us">
+<html lang="en-US">
  <head>
-  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-  <meta content="width=device-width,initial-scale=1,user-scalable=yes" name="viewport"/>
-  <meta content="IE=EDGE" http-equiv="X-UA-Compatible"/>
-  <meta content="Gl928UcZRBt8t7njrpXivrsVrbVcc7sLybtCMZ6Dzlg" name="google-site-verification"/>
-  <meta content="script-src 'self' 'unsafe-eval' blob: *.arcgis.com *.esri.com https://cdn.jsdelivr.net/npm/@esri/arcgis-html-sanitizer@2.9.0/dist/umd/arcgis-html-sanitizer.min.js https://js.arcgis.com/calcite-components/5.1.1/ https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js https://www.googletagmanager.com https://developer.api.autodesk.com" http-equiv="Content-Security-Policy"/>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="origin" name="referrer"/>
   <title>
-   Vote Center Finder 3.0
+   Sign In
   </title>
-  <link href="https://experience.arcgis.com/experience/HEX" rel="canonical"/>
-  <link href="assets/exb.ico" rel="shortcut icon"/>
-  <base href="/cdn/3751/experience/"/>
-  <meta content="Vote Center Finder 3.0" name="title"/>
-  <meta content="Revised Vote Center Finder" name="description"/>
-  <meta content="EXB Experience,JavaScript,lastEditor:kevin.burns_dallascountygis,modified: 1793628736412,publishVersion:1.21.0,Ready To Use,status: Published,template:jewelrybox,version:1.21.0,Web Application,Web Experience,Web Mapping Application,Web Page,Web Site" name="keywords"/>
-  <link href="https://www.arcgis.com/sharing/rest/content/items/HEX/info/thumbnail/thumbnail1791563049298.png" rel="image_src"/>
-  <meta content="summary" name="twitter:card"/>
-  <meta content="@arcgisonline" name="twitter:site"/>
-  <meta content="Vote Center Finder 3.0" name="twitter:title"/>
-  <meta content="Revised Vote Center Finder" name="twitter:description"/>
-  <meta content="https://www.arcgis.com/sharing/rest/content/items/8204fc2e36cd4fac8729efcedd4fda7f/info/thumbnail/thumbnail1791563049298.png" name="twitter:image"/>
-  <meta content="Vote Center Finder 3.0" property="og:title"/>
-  <meta content="Revised Vote Center Finder" property="og:description"/>
-  <meta content="https://www.arcgis.com/sharing/rest/content/items/8204fc2e36cd4fac8729efcedd4fda7f/info/thumbnail/thumbnail1791563049298.png" property="og:image"/>
  </head>
- <body class="calcite-mode-dark">
-  <div id="loading">
-   <div class="loading-content">
-    <div class="justify-content-center jimu-primary-loading-app">
-    </div>
-   </div>
-  </div>
-  <div id="app">
-   <div aria-atomic="true" aria-live="assertive" class="sr-only" data-testid="route-title-announcer" role="status">
-    Vote Center Finder 3.0
-   </div>
-   <div class="page-renderer d-flex flex-column app-root-emotion-cache-ltr-1xlk1uu" data-testid="pageRenderer">
-    <div class="page jimu-outline-inside app-root-emotion-cache-ltr-yoc2pl" data-pageid="home" id="home">
-     <div class="layout fixed-layout d-flex w-100 flex-grow-1 app-root-emotion-cache-ltr-3cyen5" data-layoutid="layout_1">
-      <div class="app-root-emotion-cache-ltr-1nvu187" data-layoutid="layout_1">
-       <div class="d-flex layout-item is-widget app-root-emotion-cache-ltr-1nxyklf animation-end" data-layoutid="layout_1" data-layoutitemid="0">
-        <div class="d-flex w-100 animate-wrapper">
-         <div class="widget-renderer layout-item-content w-100 app-root-emotion-cache-ltr-1bvwbo4" data-widgetid="widget_76">
-          <div class="widget-content jimu-outline-inside">
-           <div class="jimu-surface jimu-surface-flat jimu-surface-shape-none jimu-surface-level-paper surface jimu-paper jimu-paper-flat jimu-paper-shape-none jimu-paper-transparent jimu-widget widget-embed app-root-emotion-cache-ltr-14yeghb-Surface-root-Paper-root">
-           </div>
+ <body>
+  <div class="content-container">
+   <div>
+    <div id="appInfo">
+     <div class="app-info">
+      <section class="app-banner text-center font-size--3">
+       <span class="avenir-demi">
+        ArcGIS Experience Builder
+       </span>
+       wants to access your ArcGIS Online account information
+       <a class="js-modal-toggle help-toggle" data-modal="appinfo" tabindex="0">
+       </a>
+      </section>
+      <div class="js-modal modal-overlay" data-modal="appinfo">
+       <div aria-labelledby="modal" class="modal-content" role="dialog">
+        <h4>
+         ArcGIS Experience Builder
+        </h4>
+        <a aria-label="Close modal" class="js-modal-toggle right modal-close" tabindex="0">
+        </a>
+        <div class="clearfix trailer-half flex flex-justify">
+         <img class="left app-logo" src="https://www.arcgis.com/sharing/oauth2/apps/experienceBuilder/vendorinfo/thumbnail1777662343281.png"/>
+         <div>
+          <div class="text-dark-gray font-size--2">
+           Developed by
+          </div>
+          <div class="font-size-0">
+           Esri
           </div>
          </div>
+        </div>
+        <div>
+         Esri publishes a set of ready-to-use maps and apps that are available as part of ArcGIS. ArcGIS is a mapping platform that enables you to create interactive maps and apps to share within your organization or publicly.
         </div>
        </div>
       </div>
      </div>
     </div>
-   </div>
-   <div id="jimu-overlays-container">
-   </div>
-   <div class="arcade-global-datasources-component d-none">
+    <div class="content">
+     <div class="content-wrap">
+      <div class="js-header header-bar flex flex-justify">
+       <h1 class="font-size-1 page-title width-full">
+        Sign in
+       </h1>
+      </div>
+      <div id="loginComponents">
+       <div class="alert alert-red js-message" id="errMessage" tabindex="0">
+       </div>
+       <section class="arcgis-login">
+        <div aria-live="polite" class="js-accordion accordion" role="tablist">
+         <div class="js-accordion-section accordion-section is-active">
+          <div aria-controls="loginPanel" aria-expanded="true" class="accordion-title word-break" id="loginTitle" role="tab" tabindex="0">
+           <span class="accordion-icon">
+           </span>
+           <span>
+            ArcGIS login
+           </span>
+          </div>
+          <div aria-labelledby="loginTitle" class="accordion-content" id="loginPanel" role="region">
+           <form action="https://www.arcgis.com/sharing/oauth2/signin" autocomplete="off" class="container" id="oauth" method="POST" name="arcgis" novalidate="" spellcheck="false">
+            <input id="oauth_state" name="oauth_state" type="hidden"/>
+            <input id="authorize" name="authorize" type="hidden"/>
+            <label class="field-icon">
+             <input aria-describedby="username-error" aria-label="Username" autocapitalize="off" autocomplete="off" autocorrect="off" class="padding-left-2" id="user_username" name="username" placeholder="Username" required="" type="text"/>
+             <div class="input-error-message js-username-error" id="username-error" role="alert">
+             </div>
+            </label>
+            <label class="field-icon">
+             <input aria-describedby="password-error" aria-label="Password" class="padding-left-2" id="user_password" name="password" placeholder="Password" required="" type="password"/>
+             <div class="input-error-message js-password-error" id="password-error" role="alert">
+             </div>
+            </label>
+            <div class="flex justify-end width-full">
+             <button class="btn-link" id="pwdToggleBtn" type="button">
+              <span id="pwdToggleText">
+               Show
+              </span>
+             </button>
+            </div>
+            <label class="" id="persistUserLabel">
+             <input id="persistUser" name="persist" type="checkbox"/>
+             Keep me signed in
+            </label>
+            <div class="flex">
+             <button class="btn btn-small btn-fill" id="signIn" type="submit">
+              Sign In
+             </button>
+             <button class="btn btn-small btn-fill btn-clear margin-left-half" id="cancel" type="button">
+              Cancel
+             </button>
+            </div>
+           </form>
+           <div class="leader-quarter btn-fill font-size--3">
+            <a href="https://www.arcgis.com/sharing/oauth2/troubleshoot?oauth_state=aWhqn5dZXSRU7MxIXiLAbzg..N2yOq5oBZQRLVHBWmynR3mIJukWeX1F-TyxzTlOKdKRijB6TAmYmG3LWpLYM5wsv3L1A9TnoohEoRFpe_k1A2ss383YVVL6_FFCuI-i24hQGvkCBiRE8EE4SXpaQT8IKVDCiBDjnbU1oW3ufMs_303xpPIqO8DttwbJaLEVp0wmlIFsx-RANDOM-Comd1DHjeCcygnc28p809_PG9bJY5apvcFatz7WxjxYNly3SBmvtDkq3LRDFIERZCTshNNRk4LWS8WB6dbSkP1vD_2H3VjUTU69ZviVKwaEgheB8OzxlEjAgS6zujHx4kaWkMqwfzTo3A3c_oIUfv-RANDOM-YlRSJZcRw1kxhEX_-J68hR1f_caYcRr8cIYbH5oIw5MYrqsnFGQXs0bOBIWgAmQd_TA9iDlM_P0T47wIKxsFX4eNPJ46dly1pZ-RANDOM-RANDOM-LIhc3A1JbWlt_1tQv9oWXURB73D1qYQsyZMNYX4xS15TybLg&amp;forgotMy=username">
+             Forgot username?
+            </a>
+            or
+            <a href="https://www.arcgis.com/sharing/oauth2/troubleshoot?oauth_state=aWhqn5dZXSRU7MxIXiLAbzg..N2yOq5oBZQRLVHBWmynR3mIJukWeX1F-TyxzTlOKdKRijB6TAmYmG3LWpLYM5wsv3L1A9TnoohEoRFpe_k1A2ss383YVVL6_FFCuI-i24hQGvkCBiRE8EE4SXpaQT8IKVDCiBDjnbU1oW3ufMs_303xpPIqO8DttwbJaLEVp0wmlIFsx-RANDOM-Comd1DHjeCcygnc28p809_PG9bJY5apvcFatz7WxjxYNly3SBmvtDkq3LRDFIERZCTshNNRk4LWS8WB6dbSkP1vD_2H3VjUTU69ZviVKwaEgheB8OzxlEjAgS6zujHx4kaWkMqwfzTo3A3c_oIUfv-RANDOM-YlRSJZcRw1kxhEX_-J68hR1f_caYcRr8cIYbH5oIw5MYrqsnFGQXs0bOBIWgAmQd_TA9iDlM_P0T47wIKxsFX4eNPJ46dly1pZ-RANDOM-RANDOM-LIhc3A1JbWlt_1tQv9oWXURB73D1qYQsyZMNYX4xS15TybLg&amp;forgotMy=password">
+             Forgot password?
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </section>
+       <section class="my-orgs">
+        <div aria-live="polite" class="js-accordion accordion" role="tablist">
+         <div class="js-accordion-section accordion-section">
+          <div aria-controls="myOrgsPanel" class="accordion-title" id="myOrgsTitle" role="tab" tabindex="0">
+           <span class="accordion-icon">
+           </span>
+           <span>
+            Your ArcGIS organization's URL
+           </span>
+          </div>
+          <div aria-labelledby="myOrgsTitle" class="accordion-content" id="myOrgsPanel" role="region">
+           <div class="js-info-enterprise">
+            <a class="leader-half block-el hide font-size--3" href="#" id="addOrgLink">
+             Enter another organization
+            </a>
+           </div>
+           <div class="js-add-enterprise">
+            <div id="orgInputWrapper">
+             <label>
+              <div class="flex flex-wrap" dir="ltr">
+               <input aria-describedby="orgKey-error" dir="ltr" id="orgKey" type="text"/>
+               <div class="post-org" dir="ltr">
+                .maps.arcgis.com
+               </div>
+              </div>
+              <div class="input-error-message" id="orgKey-error" role="alert">
+              </div>
+             </label>
+             <label id="remOrgLabel">
+              <input id="remOrg" type="checkbox"/>
+              Remember this URL
+             </label>
+            </div>
+            <p class="font-size--3 hide" id="maxOrgsNotice">
+             Only 3 URL's can be saved at a time. You can remove a saved URL to remember another.
+            </p>
+            <div class="flex flex-justify actions-area">
+             <button class="btn btn-small btn-transparent invisible" id="backLink">
+              Back
+             </button>
+             <button class="btn btn-small" id="orgContinue">
+              Continue
+             </button>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </section>
+       <section class="social-login">
+        <ul class="social-wrapper flex flex-justify list-plain">
+         <li class="btn btn-fill btn-clear padded-section">
+          <a class="js-provider-github" href="https://www.arcgis.com/sharing/oauth2/social/authorize?socialLoginProviderName=github&amp;oauth_state=aWhqn5dZXSRU7MxIXiLAbzg..N2yOq5oBZQRLVHBWmynR3mIJukWeX1F-TyxzTlOKdKRijB6TAmYmG3LWpLYM5wsv3L1A9TnoohEoRFpe_k1A2ss383YVVL6_FFCuI-i24hQGvkCBiRE8EE4SXpaQT8IKVDCiBDjnbU1oW3ufMs_303xpPIqO8DttwbJaLEVp0wmlIFsx-RANDOM-Comd1DHjeCcygnc28p809_PG9bJY5apvcFatz7WxjxYNly3SBmvtDkq3LRDFIERZCTshNNRk4LWS8WB6dbSkP1vD_2H3VjUTU69ZviVKwaEgheB8OzxlEjAgS6zujHx4kaWkMqwfzTo3A3c_oIUfv-RANDOM-YlRSJZcRw1kxhEX_-J68hR1f_caYcRr8cIYbH5oIw5MYrqsnFGQXs0bOBIWgAmQd_TA9iDlM_P0T47wIKxsFX4eNPJ46dly1pZ-RANDOM-RANDOM-LIhc3A1JbWlt_1tQv9oWXURB73D1qYQsyZMNYX4xS15TybLg">
+           <div aria-label="Sign in GitHub" class="tooltip flex-item">
+           </div>
+          </a>
+         </li>
+         <li class="btn btn-fill btn-clear padded-section">
+          <a class="js-provider-facebook" href="https://www.arcgis.com/sharing/oauth2/social/authorize?socialLoginProviderName=facebook&amp;oauth_state=aWhqn5dZXSRU7MxIXiLAbzg..N2yOq5oBZQRLVHBWmynR3mIJukWeX1F-TyxzTlOKdKRijB6TAmYmG3LWpLYM5wsv3L1A9TnoohEoRFpe_k1A2ss383YVVL6_FFCuI-i24hQGvkCBiRE8EE4SXpaQT8IKVDCiBDjnbU1oW3ufMs_303xpPIqO8DttwbJaLEVp0wmlIFsx-RANDOM-Comd1DHjeCcygnc28p809_PG9bJY5apvcFatz7WxjxYNly3SBmvtDkq3LRDFIERZCTshNNRk4LWS8WB6dbSkP1vD_2H3VjUTU69ZviVKwaEgheB8OzxlEjAgS6zujHx4kaWkMqwfzTo3A3c_oIUfv-RANDOM-YlRSJZcRw1kxhEX_-J68hR1f_caYcRr8cIYbH5oIw5MYrqsnFGQXs0bOBIWgAmQd_TA9iDlM_P0T47wIKxsFX4eNPJ46dly1pZ-RANDOM-RANDOM-LIhc3A1JbWlt_1tQv9oWXURB73D1qYQsyZMNYX4xS15TybLg">
+           <div aria-label="Sign in Facebook" class="tooltip flex-item">
+           </div>
+          </a>
+         </li>
+         <li class="btn btn-fill btn-clear padded-section">
+          <a class="js-provider-google" href="https://www.arcgis.com/sharing/oauth2/social/authorize?socialLoginProviderName=google&amp;oauth_state=aWhqn5dZXSRU7MxIXiLAbzg..N2yOq5oBZQRLVHBWmynR3mIJukWeX1F-TyxzTlOKdKRijB6TAmYmG3LWpLYM5wsv3L1A9TnoohEoRFpe_k1A2ss383YVVL6_FFCuI-i24hQGvkCBiRE8EE4SXpaQT8IKVDCiBDjnbU1oW3ufMs_303xpPIqO8DttwbJaLEVp0wmlIFsx-RANDOM-Comd1DHjeCcygnc28p809_PG9bJY5apvcFatz7WxjxYNly3SBmvtDkq3LRDFIERZCTshNNRk4LWS8WB6dbSkP1vD_2H3VjUTU69ZviVKwaEgheB8OzxlEjAgS6zujHx4kaWkMqwfzTo3A3c_oIUfv-RANDOM-YlRSJZcRw1kxhEX_-J68hR1f_caYcRr8cIYbH5oIw5MYrqsnFGQXs0bOBIWgAmQd_TA9iDlM_P0T47wIKxsFX4eNPJ46dly1pZ-RANDOM-RANDOM-LIhc3A1JbWlt_1tQv9oWXURB73D1qYQsyZMNYX4xS15TybLg">
+           <div aria-label="Sign in Google" class="tooltip flex-item">
+           </div>
+          </a>
+         </li>
+         <li class="btn btn-fill btn-clear padded-section">
+          <a class="js-provider-apple" href="https://www.arcgis.com/sharing/oauth2/social/authorize?socialLoginProviderName=apple&amp;oauth_state=aWhqn5dZXSRU7MxIXiLAbzg..N2yOq5oBZQRLVHBWmynR3mIJukWeX1F-TyxzTlOKdKRijB6TAmYmG3LWpLYM5wsv3L1A9TnoohEoRFpe_k1A2ss383YVVL6_FFCuI-i24hQGvkCBiRE8EE4SXpaQT8IKVDCiBDjnbU1oW3ufMs_303xpPIqO8DttwbJaLEVp0wmlIFsx-RANDOM-Comd1DHjeCcygnc28p809_PG9bJY5apvcFatz7WxjxYNly3SBmvtDkq3LRDFIERZCTshNNRk4LWS8WB6dbSkP1vD_2H3VjUTU69ZviVKwaEgheB8OzxlEjAgS6zujHx4kaWkMqwfzTo3A3c_oIUfv-RANDOM-YlRSJZcRw1kxhEX_-J68hR1f_caYcRr8cIYbH5oIw5MYrqsnFGQXs0bOBIWgAmQd_TA9iDlM_P0T47wIKxsFX4eNPJ46dly1pZ-RANDOM-RANDOM-LIhc3A1JbWlt_1tQv9oWXURB73D1qYQsyZMNYX4xS15TybLg">
+           <div aria-label="Sign in Apple" class="tooltip flex-item">
+           </div>
+          </a>
+         </li>
+        </ul>
+       </section>
+       <section class="create-acct">
+        <div class="text-center font-size--3 padded-section">
+         No account?
+         <a href="https://goto.arcgis.com/production-esri-signup">
+          Create an account
+         </a>
+        </div>
+       </section>
+       <div class="privacy-link">
+        <div class="font-size--3 text-right">
+         <a href="https://trust.arcgis.com/en/privacy/privacy-tab-intro.htm" target="_blank">
+          Privacy
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="hide" id="personaComponents">
+      </div>
+     </div>
+    </div>
    </div>
   </div>
  </body>
