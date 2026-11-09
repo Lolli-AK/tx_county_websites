@@ -2,19 +2,19 @@
   "county": "Bexar",
   "page_type": "elections",
   "requested_url": "https://www.bexar.org/elections",
-  "final_url": "https://elections.bexar.gov/",
+  "final_url": "https://elections.bexar.gov",
   "redirect_chain": [
     "https://www.bexar.org/elections",
-    "https://elections.bexar.gov/"
+    "https://elections.bexar.gov"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
-  "render_mode": "headless",
+  "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-09T00:39:05Z",
-  "html_sha256": "d4f2744eeeff8f08a336b8a396837a91ffe58275ab838cb3a0a647458f12f740",
-  "text_sha256": "662d8139d979e489967da3b2eee661d5a62024cb4ff77a1cbd72819a5b39beb2",
-  "byte_size": 107265,
+  "fetched_at": "2026-11-09T11:06:35Z",
+  "html_sha256": "1883d6e1ac55928e1912290b2f2847ff08de71ddd91647da5ff026913c1e4e12",
+  "text_sha256": "024d05ac7bbb272956a40faae211044fa9315c4b11a098015631555fbf64b0c5",
+  "byte_size": 105597,
   "title": "Bexar County Elections, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
