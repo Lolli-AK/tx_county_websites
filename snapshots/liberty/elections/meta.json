@@ -2,19 +2,20 @@
   "county": "Liberty",
   "page_type": "elections",
   "requested_url": "https://www.co.liberty.tx.us/page/liberty.elections",
-  "final_url": "https://www.co.liberty.tx.us/page/liberty.elections",
+  "final_url": "https://www.co.liberty.tx.us/page/elections",
   "redirect_chain": [
-    "https://www.co.liberty.tx.us/page/liberty.elections"
+    "https://www.co.liberty.tx.us/page/liberty.elections",
+    "https://www.co.liberty.tx.us/page/elections"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-09T17:53:11Z",
-  "html_sha256": "1b0a7ed8537c8f6bb0dba02f5f3468ba6c367b5778cdef0305c6ae21cea407f2",
-  "text_sha256": "e59cc72cc95295e4367350c7ff4011d7d6c8371bcf127260120c5b455d545a6b",
-  "byte_size": 53529,
-  "title": "Liberty County, Texas",
+  "fetched_at": "2026-11-09T22:06:18Z",
+  "html_sha256": "af5455e1f0e1cc5b6953ad8e43dbaa44a8346ca6932989454d7ca08575d34266",
+  "text_sha256": "283a677dbe5024f37c7446144c82a57530aaa0e1011493541767f7487534ac88",
+  "byte_size": 46379,
+  "title": "Elections | Liberty County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

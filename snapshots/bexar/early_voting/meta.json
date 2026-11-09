@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-09T17:53:11Z",
-  "html_sha256": "43c9ae6145986e292da7485388b812a0dabab989478aaee419abc4302ac6fcab",
+  "fetched_at": "2026-11-09T22:06:18Z",
+  "html_sha256": "127877877069d028520bed2c2cb0802cd6167c8b0a2f84c92d223c456c53eeb7",
   "text_sha256": "82ff4f03e51510b8bed3fdbe0f4ef9f237cdb8e4a44d272b208271ac8de0e550",
-  "byte_size": 53382,
+  "byte_size": 52926,
   "title": "Custom404 • Bexar County, TX • CivicEngage",
   "noncitizen_voting": {
     "present": false,

@@ -2,19 +2,20 @@
   "county": "Liberty",
   "page_type": "results",
   "requested_url": "https://www.co.liberty.tx.us/page/liberty.elections.past.historical",
-  "final_url": "https://www.co.liberty.tx.us/page/liberty.elections.past.historical",
+  "final_url": "https://www.co.liberty.tx.us/page/elections.past.historical",
   "redirect_chain": [
-    "https://www.co.liberty.tx.us/page/liberty.elections.past.historical"
+    "https://www.co.liberty.tx.us/page/liberty.elections.past.historical",
+    "https://www.co.liberty.tx.us/page/elections.past.historical"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-09T17:53:11Z",
-  "html_sha256": "ca595cda903006d20684c6c9f1831d8abafb7fc8874499c136ebf0506ce3ad67",
-  "text_sha256": "4c9fa80e176c09f78b4c776b05879984c59f0d26d48d7e8a1c03b7dd55aec04d",
-  "byte_size": 45323,
-  "title": "Liberty County, Texas",
+  "fetched_at": "2026-11-09T22:06:18Z",
+  "html_sha256": "edaaad8ed4f551da74f564d1e34d99d7d57f01bd3dbd37c22d8bc8b94b1d41ce",
+  "text_sha256": "a9a5afb8f28641fbfd35b6624c47e775dcd9b2ebc3852e1f8877705b1b86bff2",
+  "byte_size": 41769,
+  "title": "Elections-Historical | Liberty County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
