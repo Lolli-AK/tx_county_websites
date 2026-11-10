@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-10T15:52:37Z",
-  "html_sha256": "2f3fc414c8be337ae108cf10c34327324f2bae7372c076525d7833b4a1432f92",
+  "fetched_at": "2026-11-10T16:53:24Z",
+  "html_sha256": "10c38d88331d624425b68a8b80d3b2f0425f667ae9c74ffe881160d27a34a228",
   "text_sha256": "e0d3bff4da86e883f494ca528b90f73a737b2102b19f239cd685767e2451f6a5",
-  "byte_size": 126633,
+  "byte_size": 126756,
   "title": "Elections & Voter Registration | Comal County, TX",
   "noncitizen_voting": {
     "present": false,
