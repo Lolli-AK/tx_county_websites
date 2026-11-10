@@ -10,9 +10,9 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-09T22:06:18Z",
-  "html_sha256": "d19d54f4c993c6d05dd9c487d9e475eefaf58319bac401093e514c7d78117660",
-  "text_sha256": "14be9736c75c513674bf21240d24a3b9fdfa7418f8bf0d20464267401beca2d7",
+  "fetched_at": "2026-11-10T06:41:02Z",
+  "html_sha256": "cfceaf01d7985f22011ab1856e1649cd9f301d184024ebc9460928d86aaf5ba2",
+  "text_sha256": "bc4ef11f8690c58e01623b309c36d6d385b7d79258d40c1b90c0be1d66eeaf09",
   "byte_size": 37991,
   "title": "Voter Registration Information - Bastrop County, TX Elections",
   "noncitizen_voting": {

@@ -184,6 +184,7 @@ Sample Ballots
 402
 LIST OF DECLARED WRITE-IN CANDIDATES / LISTA DE CANDIDATOS DECLARADOS ELIGIBLES PARA RECIBIR VOTOS POR INSERCION ESCRITA
 NOTICE OF CANVASS
+ELECTION RECONCILIATION - OFFICIAL TOTALS
 First Day to Apply for Ballot by Mail
 Thursday, January 1, 2026*
 *First day to file does not move because of New Year's Day holiday. An "Annual ABBM" or FPCA for a January or February 2026 election may be filed earlier, but not earlier than the 60th day before the date of the January or February election.
@@ -1161,6 +1162,7 @@ General Election - November 3, 2026
 UNOFFICIAL SUMMARY RESULTS
 UNOFFICIAL RESULTS BY PRECINCT
 PRELIMINARY ELECTION RECONCILIATION- UNOFFICIAL
+ELECTION RECONCILIATION - OFFICIAL TOTALS
 Joint Primary Runoff Election
 May 26, 2026
 ▲
