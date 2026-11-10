@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-10T06:41:02Z",
-  "html_sha256": "af5455e1f0e1cc5b6953ad8e43dbaa44a8346ca6932989454d7ca08575d34266",
+  "fetched_at": "2026-11-10T15:52:37Z",
+  "html_sha256": "78d8bb0f58f3870b9e584d8279e11f4a97d41c1331d6ef4f8a27c44aa1c5ffec",
   "text_sha256": "283a677dbe5024f37c7446144c82a57530aaa0e1011493541767f7487534ac88",
-  "byte_size": 46379,
+  "byte_size": 46389,
   "title": "Elections | Liberty County, TX",
   "noncitizen_voting": {
     "present": false,

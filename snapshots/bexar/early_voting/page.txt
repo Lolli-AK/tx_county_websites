@@ -4,7 +4,7 @@ Performing security verification
 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
 Verification successful. Waiting for www.bexar.org to respond
 Ray ID:
-a58312730d61cf0f
+a5863a819ea35212
 Performance and Security by
 Cloudflare
 Privacy
