@@ -107,46 +107,83 @@ Elections & Voting
 Job Openings
 Public Information Requests
 Return to Elections Page
-The Liberty County Courthouse will be
-closed
-on Wednesday, October 21, 2026.
-The Elections Department will be
-open
-on Wednesday, October 21, 2026.
-Notice of Election & Polling Locations
-Notice of Consolidated Precincts
-Sample Ballots
-Live-Stream of Election Rooms
+Notice of Election & Polling Locations (PDF)
+Notice of Consolidated Precincts (PDF)
+Sample Ballots (PDF)
+Live-Stream of Election Rooms (PDF)
 Important Election Dates
 Official Election Results:
-Canvass Results
-Cumulative Results
-Precinct by Precinct Results
-Reconciliation Statement
+Canvass Results (PDF)
+Cumulative Results (PDF)
+Precinct by Precinct Results (PDF)
+Reconciliation Statement (PDF)
 KID VOTE RESULTS!
 Texas Secretary of State Results (Statewide)
 Unofficial Election Results:
-Cumulative Results-Early Voting and Absentee
-Cumulative Results-Final
-Precinct Results
-Preliminary Election Reconciliation
+Cumulative Results-Early Voting and Absentee (PDF)
+Cumulative Results-Final (PDF)
+Preliminary Election Reconciliation (PDF)
 Post-Election Hand Count Audit Summary and Certification
 Voter Lists
 Election Day:
-November 3, 2026 - Voter List
+November 3, 2026 -
+Voter List (5000) (PDF)
+,
+Voter List (5000-6089) (PDF)
 Early Voting:
-October 19, 2026 - Voter List
-October 20, 2026 - Voter List
-October 21, 2026 - Voter List
-October 22, 2026 - Voter List
-October 23, 2026 - Voter List
-October 24, 2026 - Voter List
-October 25, 2026 - Voter List
-October 26, 2026 - Voter List
-October 27, 2026 - Voter List
-October 28, 2026 - Voter List
-October 29, 2026 - Voter List
-October 30, 2026 - Voter List
+October 19, 2026 - Voter List (PDF)
+: 1956
+turnout breakdown
+October 20, 2026 - Voter List (PDF)
+: 1877
+( total to date)
+turnout breakdown
+October 21, 2026 - Voter List (PDF)
+: 1 686
+(5519 total to date)
+turnout breakdown
+October 22, 2026 - Voter List (PDF)
+: 1658
+(7177 total to date)
+turnout breakdown
+October 23, 2026 - Voter List (PDF)
+: 1923
+(9100 total to date)
+turnout breakdown
+October 24, 2026 - Voter List (PDF)
+: 1212
+(10312 total to date)
+turnout breakdown
+October 25, 2026 - Voter List (PDF)
+: 552
+(10864 total to date)
+turnout breakdown
+October 26, 2026 - Voter List (PDF)
+: 1389
+(12253 total to date)
+turnout breakdown
+October 27, 2026 - Voter List (PDF)
+: 1276
+(13529 total to date)
+turnout breakdown
+October 28, 2026 - Voter List (PDF)
+:1319
+(14849 total to date)
+turnout breakdown
+October 29, 2026 - Voter List (PDF)
+: 1611
+(16460 total to date)
+turnout breakdown
+October 30, 2026 - Voter List (PDF)
+: 2554
+(19014 total to date)
+turnout breakdown
+Limited Ballot Voter List
+: 101
+Mail-in Ballot Voter List
+: 495
+Liberty Grand MUD 1: Voter List
+Liberty Grand MUD 1-A: Voter List
 Election Notices:
 City of Liberty Election Order
 City of Liberty Special Election Notice
@@ -159,6 +196,7 @@ Liberty Grand Municipal Utility District No. 1 Notice
 New Curbside Voting Rules (pdf)
 Curbside Oath Form (pdf)
 Notices Related to Early Voting Ballot Board and Signature Committee Meetings and Audits
+Notice of Risk Limiting Audit
 Notice of Convening of Early Voting Ballot Board
 Order Calling for Signature Verification Committee
 Notification of Appointed Members to Signature Verification Committee
@@ -171,7 +209,7 @@ Training Session at Dayton Community Center - October 2, 2026 9 AM
 Training Session at Jack Hartel Building - October 1, 2026 at 1:30 PM
 Automatic Tabulating Equipment Testing Notices:
 September 22, 2026 - Notice of Automatic Tabulating Equipment Testing
-Confirmation of Automatic Tabulating Equipment Testing
+Confirmation of Automatic Tabulating Equipment Testing 9-22-2026
 List of Judges and Alternates
 Address
 Liberty County Courthouse

@@ -2,16 +2,17 @@
   "county": "Liberty",
   "page_type": "results",
   "requested_url": "https://www.co.liberty.tx.us/page/liberty.elections.past.historical",
-  "final_url": "https://www.co.liberty.tx.us/page/elections.past.historical",
+  "final_url": "https://www.libertycountytx.gov/page/elections.past.historical",
   "redirect_chain": [
     "https://www.co.liberty.tx.us/page/liberty.elections.past.historical",
-    "https://www.co.liberty.tx.us/page/elections.past.historical"
+    "https://www.libertycountytx.gov/page/liberty.elections.past.historical",
+    "https://www.libertycountytx.gov/page/elections.past.historical"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-10T16:53:24Z",
+  "fetched_at": "2026-11-10T22:59:33Z",
   "html_sha256": "4bb50d548b00e3c9712585b098285703bc0842ac3399f3c1d657382ed98016ee",
   "text_sha256": "a9a5afb8f28641fbfd35b6624c47e775dcd9b2ebc3852e1f8877705b1b86bff2",
   "byte_size": 41779,

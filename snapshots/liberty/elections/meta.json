@@ -2,16 +2,17 @@
   "county": "Liberty",
   "page_type": "elections",
   "requested_url": "https://www.co.liberty.tx.us/page/liberty.elections",
-  "final_url": "https://www.co.liberty.tx.us/page/elections",
+  "final_url": "https://www.libertycountytx.gov/page/elections",
   "redirect_chain": [
     "https://www.co.liberty.tx.us/page/liberty.elections",
-    "https://www.co.liberty.tx.us/page/elections"
+    "https://www.libertycountytx.gov/page/liberty.elections",
+    "https://www.libertycountytx.gov/page/elections"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-10T16:53:24Z",
+  "fetched_at": "2026-11-10T22:59:33Z",
   "html_sha256": "78d8bb0f58f3870b9e584d8279e11f4a97d41c1331d6ef4f8a27c44aa1c5ffec",
   "text_sha256": "283a677dbe5024f37c7446144c82a57530aaa0e1011493541767f7487534ac88",
   "byte_size": 46389,

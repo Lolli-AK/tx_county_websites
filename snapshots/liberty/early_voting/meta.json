@@ -2,19 +2,20 @@
   "county": "Liberty",
   "page_type": "early_voting",
   "requested_url": "https://www.co.liberty.tx.us/page/liberty.elections.2026-11-03",
-  "final_url": "https://www.co.liberty.tx.us/page/elections.2026-11-03",
+  "final_url": "https://www.libertycountytx.gov/page/elections.2026-11-03",
   "redirect_chain": [
     "https://www.co.liberty.tx.us/page/liberty.elections.2026-11-03",
-    "https://www.co.liberty.tx.us/page/elections.2026-11-03"
+    "https://www.libertycountytx.gov/page/liberty.elections.2026-11-03",
+    "https://www.libertycountytx.gov/page/elections.2026-11-03"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-10T16:53:24Z",
-  "html_sha256": "332f879b9f916971a6d589e5c1fa872f83d71ce11328e85030b6112f987b0ce4",
-  "text_sha256": "b9f3421c9f57069425547f2d36613e43ae19d94c35a3f933c8cd4926414f80c1",
-  "byte_size": 41800,
+  "fetched_at": "2026-11-10T22:59:33Z",
+  "html_sha256": "1c20a739deeea49b19b4bcbdb1ac634d452334b226b681c7bb50d7805cc07a4e",
+  "text_sha256": "87110049bc9ee5f0600f4c7eb3eabbb27bd441d342d99900ce0da8c8cf608d96",
+  "byte_size": 48106,
   "title": "Elections:11-3-2026 | Liberty County, TX",
   "noncitizen_voting": {
     "present": false,

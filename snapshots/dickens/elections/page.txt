@@ -134,7 +134,8 @@ Community Center - 402 N. Burlington, Spur Tx, 79370
 Precinct 4:
 Spur Dickens County Museum - 319 Burlington, Spur TX, 79370
 Precinct 5:
-Dickens County Courthouse - 512 Montgomery, Dickens TX, 79229
+Clerk's Office
+- 508 Crow, Dickens TX, 79229
 Precinct 6:
 S.P.E.C. Willie Room - F.M. 836, Spur Tx, 79370
 November 3, 2026 Order of Elections
@@ -149,6 +150,12 @@ Unofficial Results 11/3/2026 Election
 Preliminary Election Reconciliation-Unofficial Totals
 Notice of Post-Election Hand Count Audit
 Summary and Certification of Post-Election hand Count Audit Results
+Post-Election Hand Count Audit Returns
+Election Reconciliation-Official
+Reconciliation of Total Votes Cast at Polling Location
+Official Results
+Official Results by Precinct
+Notice of RLA
 Notice of Joint Election
 Public Notice of Public L&AT and First Test of Automatic Tabulating Equipment
 NOTICE OF ELECTION TRAINING

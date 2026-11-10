@@ -575,6 +575,7 @@ Official 3/3/2026 Republican Primary
 Official 3/3/2026 Democratic Primary
 Official 5/26/2026 Republican Primary Runoff
 Official 5/26/2026 Democratic Primary Runoff
+Official 11/3/2026 General Election
 Official 3/3/2020 Democratic Party Primary Results
 Official 3/3/2020 Republican Party Primary Results
 Official 7/14/2020 Democratic Party Primary Runoff Results.txt
@@ -596,6 +597,7 @@ Official 3/3/2026 Republican Primary.txt
 Official 3/3/2026 Democratic Primary.txt
 Official 5/26/2026 Republican Primary Runoff.txt
 Official 5/26/2026 Democratic Primary Runoff.txt
+Official 11/3/2026 General Election.txt
 Press the enter key or spacebar to expand or collapse the accordion
 Election Reconciliation Documents
 ▲
@@ -634,6 +636,8 @@ March 3, 2026 Republican and Democratic Primary - Preliminary Reconciliation
 March 3, 2026 Republican and Democratic Primary - Official Reconciliation
 May 26, 2026 Republican and Democratic Primary Runoff - Preliminary Reconciliation
 May 26, 2026 Republican and Democratic Primary Runoff - Official Reconciliation
+November 3, 2026 General Election - Preliminary Reconciliation
+November 3, 2026 General Election - Official Reconciliation
 Press the enter key or spacebar to expand or collapse the accordion
 Recent Election Information
 ▲

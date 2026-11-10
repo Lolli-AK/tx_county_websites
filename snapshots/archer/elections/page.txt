@@ -87,10 +87,12 @@ Application for Ballot by mail - Spanish
 Archer County Vote Center Polling Locations
 November 3rd, 2026 General Election
 ▲
+Election Reconciliation- OFFICIAL TOTALS
+Cumulative Results Report- OFFICIAL RESULTS
+Precinct Results Report- OFFICIAL REPORT
+Notice of Risk-Limiting Audit
 Notice of Post-Election Hand Count Audit
 Notice of Canvass- November 3, 2026 General Election
-UNOFFICIAL Cumulative Results- November 3rd-General Election
-Preliminary Election Reconciliation
 Texas Secretary of State-List for Certified Write-In Candidates
 Sample Ballots (All Precincts Included)
 Notice of Logic and Accuracy Testing

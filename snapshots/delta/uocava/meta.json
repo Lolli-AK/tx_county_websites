@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-10T16:53:24Z",
-  "html_sha256": "982cdfca4b6a36b15014dbbbf1ad38ac80f77d7ce0fd9111379dda96be67d33d",
+  "fetched_at": "2026-11-10T22:59:33Z",
+  "html_sha256": "372312b4cb5f500706db5e7b1ef589c3dd91694848ee4dd3e4c80919829ed63d",
   "text_sha256": "d5eecb3ad4ac0576a20b5a4e241cc1cc23847b17415dbbe9b6c54fb518e8c837",
-  "byte_size": 102783,
+  "byte_size": 102743,
   "title": "Military & Overseas Voters | Delta County, TX",
   "noncitizen_voting": {
     "present": false,
