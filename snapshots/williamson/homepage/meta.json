@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-10T22:59:33Z",
-  "html_sha256": "07b72e982186f40ee0c99727fcd4c890d861156e4db098ae3b8f9cd4342740f5",
+  "fetched_at": "2026-11-11T05:26:09Z",
+  "html_sha256": "57de15e575b69fa4d49e83b4ad3c67135c93c5d58aa88e21b5097e57ae3be2ef",
   "text_sha256": "040d79827c796725f7a1e2650406771e50945cec0ceac5b1b5ee6e6a8cddd5ef",
-  "byte_size": 70352,
+  "byte_size": 70246,
   "title": "Williamson County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
