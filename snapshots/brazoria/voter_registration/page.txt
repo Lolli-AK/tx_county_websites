@@ -64,11 +64,6 @@ Precinct Maps
 Sample Ballots
 Vote by Mail
 Voter Registration
-Central Count Station Cameras
-Ballot Delivery Cameras
-Ballot Board Signature Verification
-Ballot Board Signature Verification 2
-Warehouse Drop-off Cameras
 Juvenile
 General Information
 Juvenile Payments
@@ -150,11 +145,6 @@ Vote by Mail
 +
 Military and Overseas Voters
 Voter Registration
-Central Count Station Cameras
-Ballot Delivery Cameras
-Ballot Board Signature Verification
-Ballot Board Signature Verification 2
-Warehouse Drop-off Cameras
 Juvenile
 +
 General Information

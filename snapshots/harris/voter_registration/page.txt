@@ -52,7 +52,6 @@ How to Register to Vote
 Check Your Voter Registration Status
 Get a Voter Registration Application
 Voter Suspense Information
-Find a Voter Registration Event Near You
 Voter Registration Data
 Frequently Asked Questions
 Volunteer Deputy Voter Registrar
@@ -79,73 +78,116 @@ Search Harris County Tax Office
 Search Results
 ×
 Close
-Register to Vote
-To vote in a Harris County election, you must be registered to vote at least 30 days before the election date. To change your name or address, a completed and signed application is also required.
-The Harris County Voter Registration Department serves over 2.5 million registered voters in the nation’s third largest county. Voter registration materials are available in English, Spanish, Vietnamese and Chinese.
-Eligibility for Registration:
-To be eligible for registration as a voter in this state, a person must:
-be 18 years of age
-*
-or older;
-be a United States citizen;
-not have been determined by a final judgment of a court exercising probate jurisdiction to be:
-totally mentally incapacitated; or
-partially mentally incapacitated without the right to vote;
-not have been finally convicted
-†
-of a felony or, if so convicted, must have:
-fully discharged the person’s sentence, including any term of incarceration, parole, or supervision, or completed a period of probation ordered by any court; or
-been pardoned or otherwise released from the resulting disability to vote; and
-be a resident of the county in which application for registration is made.
-* To be eligible to apply for registration, a person must, on the date the registration application is submitted to the registrar, be at least 17 years and 10 months of age and satisfy the above requirements except for age.
-† A person is not considered to have been finally convicted of an offense for which the criminal proceedings are deferred without an adjudication of guilt.
-Confirm your Voter Registration Status
-You may easily confirm your voter registration status by searching for it on
-our website
-or the
-Texas Secretary of State's website
-. If you are currently living in Harris County but are registered to vote in another county, you must be registered to vote in Harris County at least 30 days prior to Election Day in order to vote in Harris County.
-Where to Register to Vote
-Registering to vote is fast and easy! Simply complete a Voter Registration Application and mail the signed application (at least 30 days before the election date) to:
+Please call
+713-274-VOTE (8683)
+if you need assistance in English, Spanish, Vietnamese, or Chinese.
+How to Register to Vote
+Instructions:
+Click on each question below to view more information.
++
+Am I Eligible to Vote?
+To be eligible to vote in Harris County, Texas, a person must:
+be at least 17 years and 10 months to register, and be 18 years old by Election Day;
+be a United States citizen; and
+be a resident of Harris County.
+There are some reasons why a person who meets all these requirements may still NOT be eligible to vote, including if they:
+have been declared totally or partially mentally incapacitated by a court and denied the right to vote; or
+have been convicted of a felony and are still serving their sentence, including probation and parole.
+Please note:
+College students have the option to register to vote in the county where they live while they are at school OR at their hometown address.
++
+Am I Registered to Vote?
+Check if you are registered to vote in Harris County online
+HERE
+OR at the Texas Secretary of State's website
+HERE
+.
+Please note:
+If you are already registered, it’s still a good idea to double-check your information before the voter registration deadline. Voters may need to update their registration for reasons such as moving to a new address or changing their name.
++
+How Do I Register to Vote?
+If you are registering to vote in Texas for the first time, you must:
+1) Get a voter registration application, fill it out, and sign it.
+2) Submit your completed application to the Harris County Tax Office.
+See below for instructions on how to get and submit your voter registration application.
+Please note:
+Texas does not have universal online voter registration. But, if you are already registered to vote in Texas and just need to update information like your name or address, you can make the changes online at
+TEXAS.GOV
+.
+1) How to Get a Voter Registration Application
+You can get a voter registration application online, in person, or by mail.
+Online
+To get an application ONLINE, you can:
+Use our voter registration application portal to fill out and print your application
+HERE
+.
+OR
+Download and print a
+blank
+application online through the Harris County Tax Office in English
+HERE
+.
+o For Spanish, click
+HERE
+.
+o For Vietnamese, click
+HERE
+.
+o For Chinese, click
+HERE
+.
+OR
+Request an application online through the Texas Secretary of State website
+HERE
+.
+In Person
+To get an application IN PERSON:
+You can pick up an application at any
+Harris County Tax Office location
+during business hours;
+OR
+You can try any local U.S. Postal office, public library, high school,
+Texas Department of Public Safety (DPS)
+site,
+Texas Health and Human Services Commission
+site, and other government offices during their business hours.
+o
+Please note:
+Availability may vary by location. Call ahead to make sure applications are available before you go.
+By Mail
+To get an application sent to you BY MAIL, you can
+email
+the Harris County Tax Office at
+voters@tax.hctx.net
+.
+You MUST provide a mailing address where you want the application sent AND a phone number in your email.
+2) How to Submit Your Voter Registration Application
+Once your application is filled out and signed, you can submit your completed application by mail or in person.
+By Mail
+To submit your application BY MAIL, send your application to the following address at least 30 days before the election date*:
 ANNETTE RAMIREZ
 Tax Assessor-Collector & Voter Registrar
 P.O. Box 3527
 Houston, Texas 77253-3527
-Obtain a Voter Registration Application by these convenient ways:
-Visit any Harris County Tax Office location and submit your completed, signed form from 8:00 a.m. to 4:30 p.m., Monday through Friday except Wednesdays. Our location can be found
-here
-.
-Download and print an application in
-English
-on the SOS site or
-download here
-,
-Spanish
-on the SOS site or
-download here
-,
-Vietnamese
-, or
-Chinese
-Request an application online from the
-Texas Secretary of State
-.
-Request, via e-mail at
-voters@tax.hctx.net
-, and our office will mail a paper application to you. Please provide a mailing address and phone number in your email. (Harris County Tax Office)
-Call
-713-274-VOTE (8683)
-to be assisted in English, Spanish, Vietnamese, or Chinese.
-You can pick-up an application at your local U.S. Postal office, library, high school,
-Texas Department of Public Safety (DPS) site
-,
-Texas Health and Human Services Commission
-and other government offices.
-Voter Registration Applications
-English
-Spanish
-Vietnamese
-Chinese
+*For your application to be valid for an upcoming election, it must be postmarked on or before the voter registration deadline for that election.
+Please note:
+If you're mailing your application close to the deadline, we recommend taking it directly to a post office and requesting an official USPS postmark at the counter to ensure it is dated on time."
+In Person
+To submit your application IN PERSON, you can bring your application to any
+Harris County Tax Office location
+during business hours.
+Tax Office business hours are Mondays, Tuesdays, Thursdays and Fridays from 8 a.m. to 4:30 p.m. All locations are closed on Wednesdays.
+Download and print a
+blank
+application in multiple languages!
+For English, click
+HERE.
+For Spanish, click
+HERE.
+For Vietnamese, click
+HERE.
+For Chinese, click
+HERE.
 Send completed voter registration applications to the address below:
 Annette Ramirez
 Tax Assessor-Collector & Voter Registrar
