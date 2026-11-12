@@ -140,11 +140,6 @@ Total
 65,921
 Mark Your Calendar
 County Holiday
-Wednesday
-,
-November
-11th
-County Holiday
 Thursday
 ,
 November
@@ -189,6 +184,11 @@ Monday
 ,
 May
 31st
+County Holiday
+Monday
+,
+September
+6th
 View More
 Connect With Us
 Sitemap

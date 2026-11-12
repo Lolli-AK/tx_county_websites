@@ -65,26 +65,6 @@
   <div class="outer-wrap" id="outer-wrap">
    <div class="inner-wrap" id="inner-wrap">
     <div class="cpToolbars newCP mui-fixed" id="divToolbars">
-     <div class="alertToolbar cpToolbar" id="1_divAlertBar">
-      <div class="alertToolbarInner" id="1_divAlertToolbarInner">
-       <a class="alertText" href="/AlertCenter.aspx" id="1_lnkAlertText">
-        <img alt="Emergency Alert" class="redDot" id="1_imgDot" src="/Common/Images/AlertCenter/alertBarBlink.svg"/>
-        <span class="customAlert" id="1_customAlert">
-         Public Notice
-        </span>
-       </a>
-       <span class="alertContainer" id="1_spnAlertContainer">
-        <a class="alert" href="/AlertCenter.aspx?AID=County-Holiday-Office-Closure-RANDOM-D-45" target="_self">
-         County Holiday Office Closure: Veterans' Day
-         <span>
-          Read On...
-         </span>
-        </a>
-       </span>
-      </div>
-     </div>
-     <div class="alertBarEmpty" id="1_divAlertBarEmpty">
-     </div>
      <div class="cpToolbar user public">
       <div class="inner selfClear">
        <p class="dropdown">
@@ -870,14 +850,14 @@ Saturday
                               </time>
                              </span>
                             </td>
-                            <td class="today">
+                            <td>
                              <span>
                               <time datetime="2026-11-11">
                                11
                               </time>
                              </span>
                             </td>
-                            <td>
+                            <td class="today">
                              <span>
                               <time datetime="2026-11-12">
                                12
@@ -1256,14 +1236,14 @@ Saturday
                               </time>
                              </span>
                             </td>
-                            <td class="today">
-                             <a href="/calendar.aspx?view=list&amp;year=2026&amp;month=11&amp;day=11&amp;CID=33" tabindex="0">
+                            <td>
+                             <span>
                               <time datetime="2026-11-11">
                                11
                               </time>
-                             </a>
+                             </span>
                             </td>
-                            <td>
+                            <td class="today">
                              <span>
                               <time datetime="2026-11-12">
                                12
@@ -1443,32 +1423,7 @@ Saturday
                         </div>
                         <div class="row narrow" data-event-list-row="true">
                          <input name="day-list" type="hidden"/>
-                         <div class="col col1 first">
-                          <ol class="semanticList">
-                           <li class="widgetItem" data-event-i-d="1206">
-                            <h4 class="widgetTitle">
-                             Wed, Nov. 11
-                            </h4>
-                            <div class="widgetDesc">
-                             <strong>
-                              <a href="/Calendar.aspx?EID=1206">
-                               Veterans' Day - County Holiday - Offices Closed
-                              </a>
-                             </strong>
-                             All Midland County Offices will be closed in observance of the Veterans' Day holiday.
-                            </div>
-                            <a class="readOn" href="/Calendar.aspx?EID=1206">
-                             <span class="visuallyHidden">
-                              Veterans' Day - County Holiday - Offices Closed
-                             </span>
-                             <span aria-hidden="true">
-                              Read On...
-                             </span>
-                            </a>
-                           </li>
-                          </ol>
-                         </div>
-                         <div class="col col1 last">
+                         <div class="col col1 first last">
                           <ol class="semanticList">
                            <li class="widgetItem" data-event-i-d="1228">
                             <h4 class="widgetTitle">
@@ -1491,6 +1446,10 @@ Saturday
                              </span>
                             </a>
                            </li>
+                          </ol>
+                         </div>
+                         <div class="col col1">
+                          <ol class="semanticList">
                           </ol>
                          </div>
                         </div>

@@ -58,11 +58,6 @@ View All Events
 /Calendar.aspx
 Holidays
 Nov
-11
-Veteran's Day
-Veteran's Day
-Read on...
-Nov
 26
 Thanksgiving
 Thanksgiving
@@ -71,6 +66,11 @@ Dec
 24
 Christmas Eve
 Christmas Eve
+Read on...
+Dec
+25
+Christmas Day
+Christmas Day
 Read on...
 View All Events
 /Calendar.aspx
