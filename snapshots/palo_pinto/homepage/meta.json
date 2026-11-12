@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-12T06:29:52Z",
-  "html_sha256": "250c3841fa458af5b351b16c99d918753784dfb4df895f7310cedac28c49e623",
+  "fetched_at": "2026-11-12T16:23:58Z",
+  "html_sha256": "187fdb940ea7df08b2a489b26de6b8f28166e7daefc7a543260fc9788f38ac46",
   "text_sha256": "d5aa60ee73b42ae1df660789d1ce5f0c5c6303291ae4d25a961dbe11a2f19d3c",
-  "byte_size": 29949,
+  "byte_size": 29726,
   "title": "Home | Palo Pinto County, Texas",
   "noncitizen_voting": {
     "present": false,

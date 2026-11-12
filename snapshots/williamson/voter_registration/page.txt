@@ -1,4 +1,5 @@
 Voter Registration | Williamson County, TX
+This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 Government
 Residents
@@ -6,10 +7,10 @@ Departments
 Business
 How Do I...
 Search
+Voter Registration
 Home
 Departments
 Elections
-Voter Registration
 Voter Registration
 Voter Registration Certificates
 You do not need to present your card to vote, you simply need your photo ID. The current certificates are orange and white and expire December 31, 2027. You can check your registration status and voting precinct at
@@ -18,7 +19,7 @@ VoteTexas.gov
 Learn more about Voter ID requirements here:
 Voter ID Information | Williamson County, TX
 To request a replacement certificate please email
-[email protected]
+VoterRegistration@wilcotx.gov
 or call 512-943-1630.
 Voter Registration Information
 In order to vote, you must be registered. Applications must be submitted at least 30 days before the election date.
@@ -81,3 +82,5 @@ Loading
 Do Not Show Again
 Close
 []
+Hi, how can I help?
+Explore your accessibility options

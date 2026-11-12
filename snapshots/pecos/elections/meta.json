@@ -2,15 +2,16 @@
   "county": "Pecos",
   "page_type": "elections",
   "requested_url": "https://www.co.pecos.tx.us/election-information/",
-  "final_url": "https://www.co.pecos.tx.us/election-information/",
+  "final_url": "https://www.co.pecos.tx.us/election-information/?doing_wp_cron=1794502468.1579799652099609375000",
   "redirect_chain": [
-    "https://www.co.pecos.tx.us/election-information/"
+    "https://www.co.pecos.tx.us/election-information/",
+    "https://www.co.pecos.tx.us/election-information/?doing_wp_cron=1794502468.1579799652099609375000"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-12T06:29:52Z",
+  "fetched_at": "2026-11-12T16:23:58Z",
   "html_sha256": "f52ecec47248e4b5ee6cfe27d907f0396d912700560ab58c9d2210584a8146c4",
   "text_sha256": "66ce6e87d0a3158a86f389927c3bfa5fa1b3f6fd071a711817f3701a5253392e",
   "byte_size": 36895,

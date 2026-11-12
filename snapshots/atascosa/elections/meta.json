@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-12T06:29:52Z",
-  "html_sha256": "ad23402dcf2558d85a72204d0c760293aa6b9c52baf9d53ced99c3d920b7892a",
-  "text_sha256": "7f716cb531842f5a2660ee0b9e41dd512e24ff2ff502249671fc488e1ed3af3b",
-  "byte_size": 91123,
+  "fetched_at": "2026-11-12T16:23:58Z",
+  "html_sha256": "254f564d379ce50bc196930ccb02f4244ff1ac822b929185625792ef8bc663ac",
+  "text_sha256": "c524b8be3b5f5095fb18700ba86317c199c1453a594789616b8e70f406d80c7f",
+  "byte_size": 94105,
   "title": "Elections Administration – Atascosa County",
   "noncitizen_voting": {
     "present": false,
@@ -21,9 +21,12 @@
     "count": 0
   },
   "uocava": {
-    "present": false,
-    "terms": [],
-    "count": 0
+    "present": true,
+    "terms": [
+      "uocava_form",
+      "military_overseas_voter"
+    ],
+    "count": 2
   },
   "error": null
 }

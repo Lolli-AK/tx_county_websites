@@ -29,7 +29,7 @@ County Clerk
 County Court-At-Law #1
 County Court-At-Law #2
 County Judge
-County Tax Assessor-Collector
+County Tax Assessor
 County Treasurer
 Justice of the Peace
 Precinct 1
@@ -55,14 +55,13 @@ Building Maintenance
 Collections
 Emergency Management
 Fire Marshal
-Floodplain Administrator
+Permits and Inspections
 Housing Authority
 Probation
 Adult Probation
 Juvenile Probation
 Purchasing
 Texas AgriLife Extension
-Veterans Services
 Voter Registrar
 Services
 County Trapper
@@ -72,8 +71,8 @@ Courthouse Security
 Drug Abuse Assistance Education (DARE)
 Elections
 Indigent Services
-Permits and Inspections
 Pretrial Services
+Veterans Services
 Veterans Treatment Court
 Financial Transparency
 Audited Financial Reports
