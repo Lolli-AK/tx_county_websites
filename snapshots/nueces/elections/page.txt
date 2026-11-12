@@ -356,7 +356,6 @@ Election History
 Election GIS Maps
 Notices
 Voting System
-Sample Ballot 1126 (Precinct)
 Thank a Veteran
 +
 Business Information
@@ -494,13 +493,26 @@ The Nueces County Clerk serves as Chief Elections Officer of the 17th largest co
 Under the County Clerk's Office, the Elections Division conducts special, primary, and general elections for Nueces County and governmental entities within the County.
 Nueces County thrives when every person takes part in the voting process. Our website is designed to inform and assist voters so they can successfully cast their ballot.
 The electoral process only succeeds when all voters in our community are informed and actively participate. As the Nueces County Clerk, I encourage you to learn more about the elections process and make your voice heard in the upcoming elections.
-November 3, 2026 General Election
-ELECTION RESULTS
-(Unofficial) Canvass Results
-(Unofficial) Cumulative Results
-(Unofficial) Precinct Results
-(Unofficial) Election Reconciliation
-Early Voting Turnout
+December 12, 2026 Runoff Election
+Important Dates:
+Thursday, November 12th:
+Last day to Register to Vote
+Tuesday, December 1st:
+Last day to Apply for Mail Ballot
+(we must receive your application by this day)
+Monday, November 30th:
+First day of Early Voting
+Tuesday, December 8th:
+Last day of Early Voting
+Saturday, December 12th:
+Election Day
+Apply for Ballot By Mail
+Mail your completed Application for Ballot by Mail to:
+Kara Sands
+Nueces County Clerk
+Attn: Elections Department
+P.O. Box 2627
+Corpus Christi, Texas 78403
 Ballot By Mail Tracker
 Texas Election Code 87.121(g).(h).(i)., requires this posting
 If you are having issues accessing this tracker, please visit
@@ -511,6 +523,7 @@ county voter registrar
 Election Day Campaign Signs Rules and Regulations
 Election and Voter Complaint form
 All formal complaints must be filed with the Secretary of State office.
+November 3, 2026 General Election
 Election Day Roster (In Person)
 Early Voting Daily Roster (In Person)
 October 19 - October 25
@@ -518,25 +531,7 @@ October 26 - October 30
 *Texas Election code 87.121(g).(h).(i)., requires this posting
 Early Voting Daily Roster (Mail)
 *Texas Election code 87.121(g).(h).(i)., requires this posting
-Important Dates:
-Monday, October 5th:
-Last day to Register to Vote
-Friday, October 23rd:
-Last day to Apply for Mail Ballot
-(we must receive your application by this day)
-Monday, October 19th:
-First day of Early Voting
-Friday, October 30th:
-Last day of Early Voting
-Tuesday, November 3rd:
-Election Day
-Apply for Ballot By Mail
-Mail your completed Application for Ballot by Mail to:
-Kara Sands
-Nueces County Clerk
-Attn: Elections Department
-P.O. Box 2627
-Corpus Christi, Texas 78403
+Early Voting Turnout
 Eligibility Requirements for Voting by Mail
 65 years of age or older on Election Day;
 Disabled;

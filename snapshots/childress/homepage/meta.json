@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.childresstx.us/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-12T17:27:00Z",
-  "html_sha256": "78fa275e5df6c5b8b470ac0e9e65e4e63ab6a3636ad00d707f0725ce6b95b5d3",
-  "text_sha256": "9045023eb85eefe77af3a5e60b6ac5b2eb802a344df5ba521fdfe8b78cb02214",
-  "byte_size": 14161,
-  "title": "Childress County Texas",
+  "fetched_at": "2026-11-12T23:22:11Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1018)"
 }

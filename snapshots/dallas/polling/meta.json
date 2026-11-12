@@ -2,19 +2,19 @@
   "county": "Dallas",
   "page_type": "polling",
   "requested_url": "https://www.dallascountyvotes.org/vote-centers/",
-  "final_url": "https://www.arcgis.com/sharing/rest/oauth2/authorize?client_id=experienceBuilder&response_type=code&expiration=20160&redirect_uri=https%3A%2F%2Fexperience.arcgis.com%2Fcdn%2F3921%2Fjimu-core%2Foauth-callback.html&state=%7B%22id%22%3A%224dd986d0-debe-11f1-826a-67c3c890159e%22%7D&locale=en-us&style=&code_challenge_method=S256&code_challenge=LhNsa31cWXUMuzUzbmLr9WFbCdBCJxuPG6NYv5a58kI&showSignupOption=true&signupType=esri&hideCancel=false&force_login=false",
+  "final_url": "https://www.arcgis.com/sharing/rest/oauth2/authorize?client_id=experienceBuilder&response_type=code&expiration=20160&redirect_uri=https%3A%2F%2Fexperience.arcgis.com%2Fcdn%2F3921%2Fjimu-core%2Foauth-callback.html&state=%7B%22id%22%3A%22eb498510-deef-11f1-8c18-937918d592d9%22%7D&locale=en-us&style=&code_challenge_method=S256&code_challenge=Qn_Evc170WBB7Um4mF0hVzIv7VjajT9Qxi1Nikwd2JQ&showSignupOption=true&signupType=esri&hideCancel=false&force_login=false",
   "redirect_chain": [
     "https://www.dallascountyvotes.org/vote-centers/",
-    "https://www.arcgis.com/sharing/rest/oauth2/authorize?client_id=experienceBuilder&response_type=code&expiration=20160&redirect_uri=https%3A%2F%2Fexperience.arcgis.com%2Fcdn%2F3921%2Fjimu-core%2Foauth-callback.html&state=%7B%22id%22%3A%224dd986d0-debe-11f1-826a-67c3c890159e%22%7D&locale=en-us&style=&code_challenge_method=S256&code_challenge=LhNsa31cWXUMuzUzbmLr9WFbCdBCJxuPG6NYv5a58kI&showSignupOption=true&signupType=esri&hideCancel=false&force_login=false"
+    "https://www.arcgis.com/sharing/rest/oauth2/authorize?client_id=experienceBuilder&response_type=code&expiration=20160&redirect_uri=https%3A%2F%2Fexperience.arcgis.com%2Fcdn%2F3921%2Fjimu-core%2Foauth-callback.html&state=%7B%22id%22%3A%22eb498510-deef-11f1-8c18-937918d592d9%22%7D&locale=en-us&style=&code_challenge_method=S256&code_challenge=Qn_Evc170WBB7Um4mF0hVzIv7VjajT9Qxi1Nikwd2JQ&showSignupOption=true&signupType=esri&hideCancel=false&force_login=false"
   ],
   "http_status": 200,
   "content_type": "text/html",
   "render_mode": "headless",
   "external": true,
-  "fetched_at": "2026-11-12T17:27:00Z",
-  "html_sha256": "3de078330c7191e558b5b2f80d3b748ba1566712ff95a8591af9f8aca48d0b26",
+  "fetched_at": "2026-11-12T23:22:11Z",
+  "html_sha256": "5f7cae8be33102b41a0043964036dea53075eafc4de5f783577a101fb4c5a384",
   "text_sha256": "5acf6aa263e3f2d6b7c7c45fcc2164d90e37d110997acf8bc1fd18e959a18b33",
-  "byte_size": 12446,
+  "byte_size": 10796,
   "title": "Sign In",
   "noncitizen_voting": {
     "present": false,

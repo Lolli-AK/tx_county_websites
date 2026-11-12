@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.haskellcountytx.gov/page/haskell.Elections"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 404,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-12T17:27:00Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-11-12T23:22:11Z",
+  "html_sha256": "1969d2207592eaed5e28006616c28ff085f22ce95e69e0439da1d0c4fc427ebf",
+  "text_sha256": "4c80a9fec426edb63d12174498ae179c0f6550b6cfdf4861e1541875c02c84ff",
+  "byte_size": 37233,
+  "title": "Custom404 • Haskell County, TX • CivicEngage",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)"
+  "error": null
 }

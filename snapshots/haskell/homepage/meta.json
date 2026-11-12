@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.haskellcountytx.gov/"
   ],
-  "http_status": null,
-  "content_type": null,
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-12T17:27:00Z",
-  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "byte_size": 0,
-  "title": null,
+  "fetched_at": "2026-11-12T23:22:11Z",
+  "html_sha256": "7d1292d78589e4c0435cbc3341c5733b9330d4bf9cd53ae8a50c612b643dd216",
+  "text_sha256": "523a5cb7aeb18705e37d0771c6fa72aec6fa502899ac2db126e5096839a9746d",
+  "byte_size": 56519,
+  "title": "Haskell County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1018)"
+  "error": null
 }

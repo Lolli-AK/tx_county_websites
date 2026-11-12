@@ -77,8 +77,8 @@ Toggle main menu visibility
 Menu
 Agendas, Minutes, and Videos
 Online Court Payments
-District Court
-County Court
+Pay District Court
+Pay County Court
 Emergency Management
 Elections & Voting
 Election Information
