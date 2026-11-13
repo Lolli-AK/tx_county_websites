@@ -201,6 +201,10 @@ Unofficial – Results
 Precinct by Precinct Report
 Unofficial Preliminary Reconciliation Form
 Official Election Reconciliation
+Reconciliation of Total Votes at Each Polling Location
+Canvass of Special Election
+Canvass of General Election
+Summary of Returns
 Post Election Hand Count Audit:
 Notice of Early Voting Ballot Board Members
 Notice of Post Election Hand Count Audit

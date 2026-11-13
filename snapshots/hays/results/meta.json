@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-13T15:44:49Z",
-  "html_sha256": "c26d9b1f41f503fbbb4164d22f60cc428e9ceafcb6e3ca3a1510c18bfaaecb95",
+  "fetched_at": "2026-11-13T21:17:29Z",
+  "html_sha256": "91a9806f99cb161c5b9257ca20f75d8312368bd976db6562ef720f1ecca76d31",
   "text_sha256": "45c2f3a31238db0659d321e7e9110c74d25cede66e1991e371a1a03c43f2a932",
-  "byte_size": 52506,
+  "byte_size": 52962,
   "title": "Election Results Archive | Hays County, TX",
   "noncitizen_voting": {
     "present": false,

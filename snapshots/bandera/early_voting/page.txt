@@ -168,6 +168,8 @@ Precinct 410
 NISD VATRE Ballot
 NISD Bond Ballot
 REQUIRED NOTICES
+Notice of Post Election Hand Count Audit
+Notice of Designation of Early Voting Ballot Board Members for the Post Election Hand Count Audit
 Notice Of Election
 Order of Election
 Order of Appointments

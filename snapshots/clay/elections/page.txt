@@ -69,10 +69,12 @@ Prelim Reconciliation
 Order of Election
 Notice of Testing
 Henrietta ISD Notice
+Manual Count Audit
 Rec. Votes Cast
 Notice of Election
 Golburg ISD Notice
 Goldburg ISD Order
+Notice to Open Ballot Box
 Sample Ballot- Commissioner Pct. 1 & 3- Outside Henrietta ISD
 Sample Ballot- Commissioner Pct 1 & 3- Inside Henrietta ISD
 Sample Ballot- Commissioner Pct. 2- Outside Henrietta ISD
@@ -80,7 +82,6 @@ Sample Ballot- Commissioner Pct. 2- Inside Henrietta ISD
 Sample Ballot- Commissioner Pct. 4- Outside Henrietta ISD
 Sample Ballot- Commissioner Pct. 4- Inside Henrietta ISD
 List of Declared Write-In Candidates
-Manual Count Audit
 Primary Election March 3, 2026
 EV RESULTS.pdf
 ED RESULTS.pdf
