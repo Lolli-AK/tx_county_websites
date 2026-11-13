@@ -10,7 +10,7 @@
   "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-12T23:22:11Z",
+  "fetched_at": "2026-11-13T05:50:05Z",
   "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "byte_size": 0,
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1018)"
+  "error": "plain_fetch_error: ConnectTimeout: _ssl.c:1001: The handshake operation timed out"
 }

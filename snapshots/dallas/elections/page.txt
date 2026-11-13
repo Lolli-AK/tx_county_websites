@@ -217,7 +217,7 @@ Become a Pollworker
 EVENTS
 Upcoming events
 Community Outreach Events (0)
-December 12, 2026- Runoff Election (13)
+December 12, 2026- Runoff Election (12)
 November 3, 2026 - General Election & Joint Election (1)
 Poll Worker Training (0)
 Volunteer Deputy Registrar Training (0)
@@ -322,9 +322,6 @@ Voter Registration Events
 »
 November
 2026
-November 12, 2026
-Last Day to Register to Vote or Make a Change of Address
-december-12-2026-runoff-election
 November 17, 2026
 Last Day to Canvass
 november-3-2026-general-and-joint-election
