@@ -2,18 +2,19 @@
   "county": "Pecos",
   "page_type": "homepage",
   "requested_url": "https://www.co.pecos.tx.us/",
-  "final_url": "https://www.co.pecos.tx.us/",
+  "final_url": "https://www.co.pecos.tx.us/?doing_wp_cron=1794586427.8829860687255859375000",
   "redirect_chain": [
-    "https://www.co.pecos.tx.us/"
+    "https://www.co.pecos.tx.us/",
+    "https://www.co.pecos.tx.us/?doing_wp_cron=1794586427.8829860687255859375000"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-13T14:16:00Z",
-  "html_sha256": "4218f2eb5eb87f91391f21846c5d9dd9aaa5f4a866314dd48c773fbb59fe659a",
-  "text_sha256": "00441fa998481ed02f52d826cb03fb735cc0a110e18a64b1dfb6a34311d268cd",
-  "byte_size": 35749,
+  "fetched_at": "2026-11-13T15:44:49Z",
+  "html_sha256": "e587d150b2f7cb86c1fbd84dd12a2d2f5fde4af86dc6b08edfa41bd874459906",
+  "text_sha256": "871c64ce90a465430d09c8432b9f140ae6df1e6f37b49fe50a713efa250ab337",
+  "byte_size": 35265,
   "title": "Pecos County – co.pecos.tx.us",
   "noncitizen_voting": {
     "present": false,

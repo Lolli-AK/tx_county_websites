@@ -100,8 +100,12 @@ Gray County Precinct Map
 November 3, 2026 General Election
 ▲
 Unofficial Election Results
+Precinct by Precinct Results
 Preliminary Election Reconciliation
+Official Election Reconciliation
+Reconciliation of Votes at Each Polling Place
 Election Notice
+Post Election Hand Count Notice
 Groom ISD Voter-Approval Tax Rate Election Notice
 (Spanish)
 Public Logic & Accuracy Testing

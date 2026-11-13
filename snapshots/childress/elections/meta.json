@@ -10,7 +10,7 @@
   "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-13T14:16:00Z",
+  "fetched_at": "2026-11-13T15:44:49Z",
   "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "byte_size": 0,
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "plain_fetch_error: ConnectTimeout: _ssl.c:1001: The handshake operation timed out"
+  "error": "plain_fetch_error: TooManyRedirects: Exceeded maximum allowed redirects."
 }
