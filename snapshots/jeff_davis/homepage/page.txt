@@ -16,6 +16,7 @@ County Attorney
 County Clerk
 County Treasurer
 County Tax Assessor/Collector
+County Auditor
 Constable
 Sheriff
 Justice of The Peace

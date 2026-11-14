@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-13T21:17:29Z",
-  "html_sha256": "823aed80b70a8b449a636b1d46f128d16f8e9e68fb3c74a4de8ef5ee23bb220a",
+  "fetched_at": "2026-11-14T05:39:36Z",
+  "html_sha256": "0eb19146fa0da243c31bedc6da292e3fe8d0cd4b7303f2a2d5e23fffcd279946",
   "text_sha256": "30f150fc0c7d0bb25c77333b5c7adc67b53efd227104b0739e45c75964ac5e1c",
-  "byte_size": 474635,
+  "byte_size": 474802,
   "title": "Goliad County, Texas",
   "noncitizen_voting": {
     "present": false,
