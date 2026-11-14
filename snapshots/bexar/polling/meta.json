@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.bexar.org/3184/Election-Day-Vote-Information"
   ],
-  "http_status": 404,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 429,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-14T05:39:36Z",
-  "html_sha256": "0ede623113d5ca04f194f96308ce7903fbd9b454ec601c281042723ca59c2fd5",
-  "text_sha256": "e31fcba410b21714f940db44099ea2bff30a53b6d88c1f2c301b2ab18d2fb990",
-  "byte_size": 52666,
-  "title": "Custom404 • Bexar County, TX • CivicEngage",
+  "fetched_at": "2026-11-14T13:13:20Z",
+  "html_sha256": "c901c1ce035d8f071e0aac5e53b937958055d3b95c8df4e329ed58806fdaf4cc",
+  "text_sha256": "4c3b41f647a6c71495ef444b10f7bf40aeabc5b852a4c5998d51f699264be4cd",
+  "byte_size": 3192,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
