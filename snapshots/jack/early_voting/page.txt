@@ -4,7 +4,7 @@ Performing security verification
 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
 Verification successful. Waiting for www.jackcounty.texas.gov to respond
 Ray ID:
-a5af49afbb142ed8
+a5b0865eef27c573
 Performance and Security by
 Cloudflare
 Privacy

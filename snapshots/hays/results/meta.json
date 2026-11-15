@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.hayscountytx.gov/257/Election-Results-Archive"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-15T15:03:07Z",
-  "html_sha256": "87aeb95051a70f63937301e078e05a5595751ae61eb9aeb11f723cf99e89c0c6",
-  "text_sha256": "b1386e4905155ed11b3b39527531039ba93d4df5edc38902ce98f8c859433cc3",
-  "byte_size": 53809,
-  "title": "Election Results Archive | Hays County, TX",
+  "fetched_at": "2026-11-15T18:38:46Z",
+  "html_sha256": "e55d726d4b5e4dc06168fac0bc562c7d069b24dadd524c793d0aa75ddca6113d",
+  "text_sha256": "cb4301be49a6b50939844a4543503893909a14552ac0c558216280f5c0df42e1",
+  "byte_size": 3330,
+  "title": "Attention Required! | Cloudflare",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
