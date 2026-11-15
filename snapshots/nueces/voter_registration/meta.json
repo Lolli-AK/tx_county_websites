@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-14T19:49:16Z",
-  "html_sha256": "e48a21055798fcae4fd5487e893ce385501ec03b05de97f93eec91b5aa5aac8d",
+  "fetched_at": "2026-11-15T00:53:28Z",
+  "html_sha256": "95692e110eb44db2927b74aec23d4177666e7fe92692c775825bb8a86c18f3c4",
   "text_sha256": "b13e7dc5dba07fb6b2a588a31a5d0c44df94de8106440894e1ca9af638b2a1ef",
-  "byte_size": 137107,
+  "byte_size": 137477,
   "title": "Register To Vote | Nueces County, TX",
   "noncitizen_voting": {
     "present": false,
