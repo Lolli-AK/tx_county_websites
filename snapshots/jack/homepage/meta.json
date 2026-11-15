@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.jackcounty.texas.gov/"
   ],
-  "http_status": 403,
+  "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-15T00:53:28Z",
-  "html_sha256": "1e72790e53e74b494650e4c58deac839c1425f70c51280a84e6170bbc06b98f8",
-  "text_sha256": "123a30c1d4963e2900ed50e56a8a6e1a7b5037c04ce0ad3f69c52a0972112c20",
-  "byte_size": 3225,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-15T10:32:38Z",
+  "html_sha256": "dc781a1ea2850f6f7f8e58f2b598c0d22c7988b1c0ca89eb1bdbf5996ac61be4",
+  "text_sha256": "f831a35ec36b9f45a3362eb479dfed652e5b67c239b67cdfc12e1836177e8193",
+  "byte_size": 51942,
+  "title": "Home Page | Jack County TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }
