@@ -1,93 +1,18 @@
-March 2020 Primary Election Results
-101 Courthouse Square
-Cotulla, TX 78014
-Log in
-LOGIN TO YOUR ACCOUNT
-Username
-Password
-Show Password
-Log in
-Web Authentication
-Remember me
-Forgot Username?
-Forgot Password?
-Home
-Employee Email
-Employee Tech Support - T1
-Employee Tech Support - T2
-Commissioners Court
-COUNTY JUDGE
-COUNTY COMMISSIONERS
-Pct.1 Commissioner - Noel Niavez
-Pct.2 Commissioner - Joaquin Alba
-Pct.3 Commissioner - Erasmo Ramirez, Jr.
-Pct.4 Commissioner - Raul Ayala
-AGENDAS AND MEETINGS
-ORDINANCES
-PUBLIC NOTICES
-PROCLAMATIONS
-COUNTY MAPS
-MODEL SUBDIVISION RULES
-PERMITS & APPLICATIONS
-COUNTY ROADWAY POLICY
-COUNTY ROADS UNIFORM SPEED LIMITS
-COUNTY FISCAL YEAR 2013-2014 TAX RATE
-COUNTY BUDGETS
-ANNUAL FINANCIAL REPORTS
-COUNTY BIDS
-COUNTY GRANTS
-Offices
-DISTRICT COURT
-District Attorney
-COUNTY SHERIFF
-COUNTY/ DISTRICT CLERK
-COUNTY TREASURER
-COUNTY TAX ASSESSOR/ COLLECTOR
-COUNTY ATTORNEY
-JUSTICE OF THE PEACE
-Pct.1 Justice of the Peace - Roxanna Rodriguez
-Pay Online
-Pct.2 Justice of the Peace - Frank Weikel
-Pay Online
-Pct.3 Justice of the Peace - Ernesto Ramirez
-Pay Online
-Pct.4 Justice of the Peace - Janie Megliorino
-CONSTABLES
-Pct.1, 5 & 6 Constable - Humberto Gonzalez Jr.
-Pct.2 Constable - Rene Maldonado
-Pct.3 Constable - Carlos Benavides
-Pct.4 Constable - Guy Megliorino
---- COUNTY DEPARTMENTS ---
-ELECTIONS DEPARTMENT
-FIRE DEPARTMENT
-JUVENILE PROBATION
-VETERANS AFFAIRS
-NURSING HOME
-ELDERLY NUTRITION CENTER
-EXTENSION AGENT
-Community
-LOCAL EMERGENCY PLANNING COMMITTEE
-LEPC Agendas
-MARTINEZ PARK SPORTS COMPLEX
-ARTS AND CULTURE
-Brush Country Museum
-Cotulla Main Street
-PUBLIC SAFETY
-COUNTY NEWS
-TXDOT RELATED
-UPCOMING COUNTY PROJECTS
-HEALTH AND SAFETY
-AREA SEX OFFENDERS
-Visitors
-HOTELS AND LODGING
-RESTAURANTS
-HISTORICAL INFO
-AIRPORT SERVICES
-Open Records
-Employment
-Contact Us
-Calendar
-Search
-March 2020 Primary Election Results
-March 3, 2020 Democratic Primary Results
-March 3, 2020 Republican Primary Results
+1 - Can&#039;t create/write to file &#039;/tmp/#sql-temptable-163679-4e8b5a-269d.MAI&#039; (Errcode: 30 &quot;Read-only file system&quot;)
+1 - Can't create/write to file '/tmp/#sql-temptable-163679-4e8b5a-269d.MAI' (Errcode: 30 "Read-only file system")
+You may not be able to visit this page because of:
+an
+out-of-date bookmark/favourite
+a search engine that has an
+out-of-date listing for this site
+a
+mistyped address
+you have
+no access
+to this page
+The requested resource was not found.
+An error has occurred while processing your request.
+Please try one of the following pages:
+Home Page
+If difficulties persist, please contact the website administrator and report the error below.
+Can't create/write to file '/tmp/#sql-temptable-163679-4e8b5a-269d.MAI' (Errcode: 30 "Read-only file system")

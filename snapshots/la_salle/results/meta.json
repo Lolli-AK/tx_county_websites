@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=251:march-2020-primary-election-results&catid=78:government"
   ],
-  "http_status": 200,
+  "http_status": 500,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-16T00:51:59Z",
-  "html_sha256": "ab29aff56e4375cb2b5caa33a9062ee438faf57b9b03475af5cc70c5d8255675",
-  "text_sha256": "dc990bdb22441916790fe0777f22016f66b9231570d3224177bb8f4daba1d661",
-  "byte_size": 59831,
-  "title": "March 2020 Primary Election Results",
+  "fetched_at": "2026-11-16T10:48:38Z",
+  "html_sha256": "39655923c4f686b6fd9bf40b86cf29657d6c8a528207b9ce59bc0b4f36b81eef",
+  "text_sha256": "5a15f19339233cdfea251bced4af744c6878d16223961b1eb5228fbafae13a84",
+  "byte_size": 2026,
+  "title": "1 - Can&#039;t create/write to file &#039;/tmp/#sql-temptable-163679-4e8b5a-269d.MAI&#039; (Errcode: 30 &quot;Read-only file system&quot;)",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

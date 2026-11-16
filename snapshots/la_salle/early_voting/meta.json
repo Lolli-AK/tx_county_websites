@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.la-salle.tx.us/index.php/offices/election-board?view=article&id=248:early-voting-rosters-march-2020&catid=78:government"
   ],
-  "http_status": 200,
+  "http_status": 500,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-16T00:51:59Z",
-  "html_sha256": "7ca02f9eb4515d448a3462f48fbd4b5d1cb7d858c504665ff20a4fecce2eaca9",
-  "text_sha256": "a316b726e590ac57c8dd9cbc2e6e7d55e897ff012691bf138fea90653e9bd055",
-  "byte_size": 68207,
-  "title": "Early Voting Rosters March 2020",
+  "fetched_at": "2026-11-16T10:48:38Z",
+  "html_sha256": "bd7383ef7874fbad9a40101164ef3b0906cdf37e71db436938928195e214935d",
+  "text_sha256": "6460ab5a04520002408e2355ea40eba44f6e2182fb60b03d00a2aed469f9ab74",
+  "byte_size": 2029,
+  "title": "1 - Can&#039;t create/write to file &#039;/tmp/#sql-temptable-163679-4e8b52-413aa.MAI&#039; (Errcode: 30 &quot;Read-only file system&quot;)",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

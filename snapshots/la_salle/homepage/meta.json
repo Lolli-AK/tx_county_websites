@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.la-salle.tx.us/"
   ],
-  "http_status": 200,
+  "http_status": 500,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-16T00:51:59Z",
-  "html_sha256": "4e12015c401d7c7e5cf1c5c5a3080e2e6a0db865659af99333e43b64ad2e4f89",
-  "text_sha256": "83c76812c7ed4c57cb05266c39610755c63686b179ab6cf6217e09a6a58c5de2",
-  "byte_size": 95678,
-  "title": "La Salle County, Texas - Official Website",
+  "fetched_at": "2026-11-16T10:48:38Z",
+  "html_sha256": "876f984c01b352e6ac21b8d02845074a066d3f97199427f5ab1052b2b15b5102",
+  "text_sha256": "61654a12fa407455689b08bd8d4e1e1fac57e81101cfa047a5e8fff087ce76c9",
+  "byte_size": 2029,
+  "title": "1 - Can&#039;t create/write to file &#039;/tmp/#sql-temptable-163679-4e8b47-414bb.MAI&#039; (Errcode: 30 &quot;Read-only file system&quot;)",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
