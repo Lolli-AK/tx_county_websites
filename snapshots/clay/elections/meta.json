@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-16T10:48:38Z",
-  "html_sha256": "3614cdf6f792a211cb2182dd5ab96891f8fdccb8e9d53baaebc15760fbf5751d",
+  "fetched_at": "2026-11-16T17:34:55Z",
+  "html_sha256": "b700f793fe46cba0f9c6f3c2d2216c66947e230d2a0dfd0be75fba0bd2449d5b",
   "text_sha256": "b8e4761da9b082d7d3bc65073455f4de3a5e8cd48585b1b11c2ca6989dedb90b",
-  "byte_size": 179389,
+  "byte_size": 179347,
   "title": "Elections Administrator | claycounty",
   "noncitizen_voting": {
     "present": false,

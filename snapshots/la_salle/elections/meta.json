@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.la-salle.tx.us/index.php/offices/election-board"
   ],
-  "http_status": 500,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-16T10:48:38Z",
-  "html_sha256": "0b947d5b4edcf3a86b5f7d577bc5b4aa49ec64e7a6e9b181f62f8c3ac40100bb",
-  "text_sha256": "56ab9d1f2cf1794bb2b1e2793d250c6fab02e5d970d7f6e5a3fa9706c8d89254",
-  "byte_size": 2026,
-  "title": "1 - Can&#039;t create/write to file &#039;/tmp/#sql-temptable-163679-4e8b48-268b.MAI&#039; (Errcode: 30 &quot;Read-only file system&quot;)",
+  "fetched_at": "2026-11-16T17:34:55Z",
+  "html_sha256": "06eb3fdcfb2f60ad9e2c8d1cd47dd5f6ccdca8d253037ebe86f696606beebcb3",
+  "text_sha256": "d84f59230c9020f47cc9ec0d7e081c1cbe05221aa5846dc29b5b10dc5b36562d",
+  "byte_size": 388,
+  "title": "403: Access Forbidden",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

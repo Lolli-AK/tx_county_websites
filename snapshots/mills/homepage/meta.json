@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-16T10:48:38Z",
-  "html_sha256": "8220c7c7cdf5923f3c0411b75761f419a9ce06c4981e859857bf402506b18c02",
+  "fetched_at": "2026-11-16T17:34:55Z",
+  "html_sha256": "7f92b03510ccccd8185b10654ae786fe95408b12f8730b9e48258d91973424d0",
   "text_sha256": "806476b4d024dc22d8727dc439b71cf3d0a5cf307825df245ed2e3ee702f9e2c",
-  "byte_size": 48593,
+  "byte_size": 48595,
   "title": "Mills County, Texas",
   "noncitizen_voting": {
     "present": false,

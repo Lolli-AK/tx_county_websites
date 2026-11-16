@@ -148,18 +148,11 @@ de
 Muestra
 del
 Condado
+Notice of Risk Limiting Audit
 ELECTION NIGHT RETURNS
 Vuelve la Noche de las
 Elección
 s
-Summary & Certificate Post Election Hand Count
-Resumen y Certificacion de Los Resultados De La Auditoria De Conteo
-Manual Posterior a La Eleccion
-Manuel Posterior a La Eleccion
-Democrat - Summary of Post-Election Hand Count
-Audit
-Republican - Summary of Post-Election Hand Count
-Audit
 Reconcilliation of Total Votes Cast at Each
 Polling Location
 Summary & Certificate of Post-Election Hand Count Audit Results
@@ -167,7 +160,6 @@ Resumen Y Certificacion de los Resultados de la Auditoria de
 Conteo Manual Posterior a la
 Elección
 s
-Reconciliation of total Votes Cast at a Polling Location
 2026 - Primary Election
 2026 - ELECCIÓNS
 2026 County Offices up for Election

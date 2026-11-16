@@ -116,6 +116,7 @@ Election Total
 Precinct by Precinct
 Reconciliation Form
 Notice of Canvass
+Notice of Lovelady ISD Canvass
 Canvass
 Joint General / Special Election
 List of Voting Locations
