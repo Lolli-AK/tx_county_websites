@@ -571,16 +571,867 @@
       </strong>
       All Vote Centers will be open from 7:00 a.m. to 7:00 p.m.
      </p>
+     <p>
+      For a Vote Center near you click on the “SEARCH” button below. We will try to determine your nearest Vote Center, but the results may be inconsistent based on your device’s security settings. The full list of Vote Centers is below, and you can filter by zip code to find a Vote Center near you!
+     </p>
+     <div class="b-top pt-4">
+      <div class="section__title section__title--small text-clr-red mb-3">
+       Find My Nearest Vote Center
+      </div>
+      <a class="btn" href="#" id="findClosestLocationButton">
+       Search
+      </a>
+     </div>
+     <div id="nearestLocation">
+     </div>
     </div>
    </div>
   </section>
-  <div class="container">
-   <div class="row mb-5">
-    <div class="col text-center">
-     Election Day Vote Centers will become available as the election gets closer.
+  <section class="section" id="searchTop">
+   <div class="container">
+    <div class="row">
+     <div class="col">
+      <div class="section__title section__title--small text-clr-red text-center mb-4">
+       All Vote Centers
+      </div>
+      <form accept-charset="UTF-8" action="/voter-information/election-day-vote-centers/search" class="simple_form new_q" data-remote="true" id="new_q" method="post" novalidate="novalidate">
+       <div class="row align-items-center justify-content-center">
+        <div class="col-lg-4">
+         <div class="form-group string required q_address_cont">
+          <input class="form-control string required" id="q_address_cont" name="q[address_cont]" placeholder="Filter by Zip Code" type="tel"/>
+         </div>
+        </div>
+        <div class="col-lg-2 text-center form-group">
+         <button class="btn">
+          Submit
+         </button>
+        </div>
+        <div class="col-lg-2 text-center text-xl-left form-group">
+         <a class="text-clr-black" data-method="post" data-remote="true" href="/voter-information/election-day-vote-centers/reset" rel="nofollow">
+          Reset
+         </a>
+        </div>
+       </div>
+      </form>
+     </div>
+    </div>
+    <div class="row mt-4">
+     <div class="col">
+      <div id="map">
+      </div>
+      <div id="mapScript">
+      </div>
+     </div>
+    </div>
+    <div class="row mt-5" id="locations">
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/benito-martinez-elementary-school">
+         Benito Martinez Elementary School
+        </a>
+       </strong>
+       <br/>
+       2640 Robert Wynn St. 79936
+       <br/>
+       Library
+       <br/>
+       <em>
+        (Biblioteca)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/benito-martinez-elementary-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/bill-sybert-k-8-school">
+         Bill Sybert K-8 School
+        </a>
+       </strong>
+       <br/>
+       11530 Edgemere Blvd. 79936
+       <br/>
+       Library
+       <br/>
+       <em>
+        (Biblioteca)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/bill-sybert-k-8-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/bowie-high-school">
+         Bowie High School
+        </a>
+       </strong>
+       <br/>
+       801 S. San Marcial St. 79905
+       <br/>
+       Fine Arts Lobby
+       <br/>
+       <em>
+        (Área de Espera de Bellas Artes)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/bowie-high-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/brown-middle-school">
+         Brown Middle School
+        </a>
+       </strong>
+       <br/>
+       7820 Helen of Troy Dr. 79912
+       <br/>
+       PCL Room A105
+       <br/>
+       <em>
+        (Cuarto PLC A105)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/brown-middle-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/center-for-career-and-technology-education">
+         Center for Career and Technology Education
+        </a>
+       </strong>
+       <br/>
+       1170 N. Walnut St. 79930
+       <br/>
+       Custodial Lounge
+       <br/>
+       <em>
+        (Salón de Custodios)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/center-for-career-and-technology-education">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/community-connections-center">
+         Community Connections Center
+        </a>
+       </strong>
+       <br/>
+       5300 Warriors Dr. 79932
+       <br/>
+       Meeting Room
+       <br/>
+       <em>
+        (Cuarto de Juntas)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/community-connections-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/congressman-silvestre-carolina-reyes-school">
+         Congressman Silvestre &amp; Carolina Reyes School
+        </a>
+       </strong>
+       <br/>
+       7440 Northern Pass Dr. 79911
+       <br/>
+       Lower Level, East Corridor
+       <br/>
+       <em>
+        (Nivel Inferior, Corredor Este)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/congressman-silvestre-carolina-reyes-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/coronado-high-school">
+         Coronado High School
+        </a>
+       </strong>
+       <br/>
+       100 Champions Pl. 79912
+       <br/>
+       Lounge inside the Cafeteria
+       <br/>
+       <em>
+        (Sala de Descanso dentro de la Cafeteria)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/coronado-high-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/dorris-van-doren-library">
+         Dorris Van Doren Library
+        </a>
+       </strong>
+       <br/>
+       551 Redd Rd. 79912
+       <br/>
+       Multipurpose Room
+       <br/>
+       <em>
+        (Cuarto de Multiusos)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/dorris-van-doren-library">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/dr-green-elementary-school">
+         Dr. Green Elementary School
+        </a>
+       </strong>
+       <br/>
+       5430 Buckley Dr. 79912
+       <br/>
+       Multipurpose Room
+       <br/>
+       <em>
+        (Cuarto de Multiusos)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/dr-green-elementary-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/el-paso-community-college-rio-grande-campus">
+         El Paso Community College-Rio Grande Campus
+        </a>
+       </strong>
+       <br/>
+       906 El Paso St. 79902
+       <br/>
+       The Little Temple
+       <br/>
+       <em>
+        (El Pequeño Templo)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/el-paso-community-college-rio-grande-campus">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/el-paso-county-eastside-annex">
+         El Paso County Eastside Annex
+        </a>
+       </strong>
+       <br/>
+       2350 George Dieter Dr. 79936
+       <br/>
+       Community Room
+       <br/>
+       <em>
+        (Cuarto Comunitario)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/el-paso-county-eastside-annex">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/el-paso-tennis-club">
+         El Paso Tennis Club
+        </a>
+       </strong>
+       <br/>
+       2510 N. St. Vrain St. 79902
+       <br/>
+       Club House
+       <br/>
+       <em>
+        (Casa Club)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/el-paso-tennis-club">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/el-paso-county-courthouse">
+         Enrique Moreno County Courthouse
+        </a>
+       </strong>
+       <br/>
+       500 E. San Antonio Ave. 79901
+       <br/>
+       Third Floor, Back Lobby
+       <br/>
+       <em>
+        (Tercer Piso, Área de Espera)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/el-paso-county-courthouse">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/fire-station-15">
+         Fire Station #15
+        </a>
+       </strong>
+       <br/>
+       115 Shorty Ln. 79922
+       <br/>
+       Apparatus Bay
+       <br/>
+       <em>
+        (Bahía de Aparatos)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/fire-station-15">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/fire-station-2">
+         Fire Station #2
+        </a>
+       </strong>
+       <br/>
+       111 E. Borderland Rd. 79932
+       <br/>
+       Apparatus Bay
+       <br/>
+       <em>
+        (Bahía de Aparatos)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/fire-station-2">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/helen-ball-elementary-school">
+         Helen Ball Elementary School
+        </a>
+       </strong>
+       <br/>
+       1950 Firehouse Dr. 79936
+       <br/>
+       Library
+       <br/>
+       <em>
+        (Biblioteca)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/helen-ball-elementary-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/jane-hambric-k-8-school">
+         Jane Hambric K-8 School
+        </a>
+       </strong>
+       <br/>
+       3535 Nolan Richardson Dr. 79936
+       <br/>
+       Teacher’s Lounge
+       <br/>
+       <em>
+        (Área de Maestros)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/jane-hambric-k-8-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/keys-academy">
+         KEYS Academy
+        </a>
+       </strong>
+       <br/>
+       12380 Pine Springs Dr. 79928
+       <br/>
+       Parent Center
+       <br/>
+       <em>
+        (Centro de Padres)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/keys-academy">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/marty-robbins-recreation-center">
+         Marty Robbins Recreation Center
+        </a>
+       </strong>
+       <br/>
+       11620 Vista Del Sol Dr. 79936
+       <br/>
+       Lobby
+       <br/>
+       <em>
+        (Área de Espera)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/marty-robbins-recreation-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/mesita-elementary-school">
+         Mesita Elementary School
+        </a>
+       </strong>
+       <br/>
+       3307 N. Stanton St. 79902
+       <br/>
+       Library
+       <br/>
+       <em>
+        (Biblioteca)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/mesita-elementary-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/o-shea-keleher-whole-child-academy">
+         O'Shea Keleher Whole Child Academy
+        </a>
+       </strong>
+       <br/>
+       1800 Leroy Bonse Dr. 79936
+       <br/>
+       Counseling Suite 503
+       <br/>
+       <em>
+        (Suite de Consejería 503)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/o-shea-keleher-whole-child-academy">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/polk-elementary-school">
+         Polk Elementary School
+        </a>
+       </strong>
+       <br/>
+       940 Belvidere St. 79912
+       <br/>
+       Library
+       <br/>
+       <em>
+        (Biblioteca)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/polk-elementary-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/rosa-guerrero-elementary-school">
+         Rosa Guerrero Elementary School
+        </a>
+       </strong>
+       <br/>
+       7530 Lakehurst Rd. 79912
+       <br/>
+       Community Room
+       <br/>
+       <em>
+        (Cuarto Comunitario)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/rosa-guerrero-elementary-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/sisd-district-service-center">
+         SISD District Service Center
+        </a>
+       </strong>
+       <br/>
+       12440 Rojas Dr. 79928
+       <br/>
+       TSC Library
+       <br/>
+       <em>
+        (Biblioteca del TSC)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/sisd-district-service-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/sierra-vista-elementary-school">
+         Sierra Vista Elementary School
+        </a>
+       </strong>
+       <br/>
+       1501 Bob Hope Dr. 79936
+       <br/>
+       Foyer
+       <br/>
+       <em>
+        (Área de Espera)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/sierra-vista-elementary-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/south-el-paso-senior-citizens-center">
+         South El Paso Senior Citizens Center
+        </a>
+       </strong>
+       <br/>
+       600 S. Ochoa St. 79901
+       <br/>
+       Multipurpose Room
+       <br/>
+       <em>
+        (Cuarto de Multiusos)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/south-el-paso-senior-citizens-center">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/the-monte-vista-at-coronado">
+         The Monte Vista at Coronado
+        </a>
+       </strong>
+       <br/>
+       1575 Belvidere St. 79912
+       <br/>
+       Activity Room
+       <br/>
+       <em>
+        (Cuarto de Actividades)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/the-monte-vista-at-coronado">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/the-shoppes-at-solana">
+         The Shoppes at Solana
+        </a>
+       </strong>
+       <br/>
+       750 Sunland Park Dr. 79912
+       <br/>
+       By the Food Court, Next to Book Nook
+       <br/>
+       <em>
+        (Por el Patio de Comidas, al Lado del Book Nook)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/the-shoppes-at-solana">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/tippin-elementary-school">
+         Tippin Elementary School
+        </a>
+       </strong>
+       <br/>
+       6541 Bear Ridge Dr. 79912
+       <br/>
+       Community Room
+       <br/>
+       <em>
+        (Cuarto Comunitario)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/tippin-elementary-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/utep-union-building-east">
+         UTEP–Union Building East
+        </a>
+       </strong>
+       <br/>
+       351 W. University Ave. 79968
+       <br/>
+       Acacia Room 120A
+       <br/>
+       <em>
+        (Cuarto Acacia 120A)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/utep-union-building-east">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/western-hills-u-m-c-stewart-family-life-center-a">
+         Western Hills U.M.C.-Stewart Family Life Center A
+        </a>
+       </strong>
+       <br/>
+       524 Thunderbird Dr. 79912
+       <br/>
+       SFLC Foyer
+       <br/>
+       <em>
+        (Área de Espera SFLC)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/western-hills-u-m-c-stewart-family-life-center-a">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/ywca-central">
+         YWCA-Central
+        </a>
+       </strong>
+       <br/>
+       1600 Brown St. 79902
+       <br/>
+       Program Offices Room
+       <br/>
+       <em>
+        (Cuarto de Oficinas de Programa)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/ywca-central">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/ywca-west">
+         YWCA-West
+        </a>
+       </strong>
+       <br/>
+       313 Bartlett Dr. 79912
+       <br/>
+       Program Offices Room
+       <br/>
+       <em>
+        (Cuarto de Oficinas de Programa)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/ywca-west">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
+     <div class="col-md-6 col-lg-4 col-xl-4 pt-4 border-top--blue">
+      <p>
+       <strong>
+        <a class="text-clr-black" href="/voter-information/election-day-vote-centers/zach-white-elementary-school">
+         Zach White Elementary School
+        </a>
+       </strong>
+       <br/>
+       4256 Roxbury Dr. 79922
+       <br/>
+       Multipurpose Room
+       <br/>
+       <em>
+        (Cuarto de Multiusos)
+       </em>
+       <br/>
+       <strong>
+        <a class="text-clr-red" href="/voter-information/election-day-vote-centers/zach-white-elementary-school">
+         Map &amp; Details
+        </a>
+       </strong>
+      </p>
+     </div>
     </div>
    </div>
-  </div>
+  </section>
   <footer class="region-footer">
    <div class="region-footer__top bg-clr-blue">
     <div class="container text-center">

@@ -83,6 +83,11 @@ Certification of 3rd Test of Automatic Tabulating Equipment
 Notice of Canvassing for the November 3 2026 General Election
 Notice of Post Election Hand Count Audit
 Notice of Risk Limiting Audit
+Order Approving Canvass
+Official Cumulative Results
+Official Precinct Results
+Official Reconciliation
+Reconciliation of Total Votes Cast
 Primary Runoff Information
 Notice of Election for Primary Runoff
 Logic & Accuracy Testing Notice for Runoff

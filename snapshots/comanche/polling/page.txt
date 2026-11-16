@@ -202,6 +202,7 @@ Precinct by Precinct Report
 Unofficial Preliminary Reconciliation Form
 Official Election Reconciliation
 Reconciliation of Total Votes at Each Polling Location
+Official Results
 Canvass of Special Election
 Canvass of General Election
 Summary of Returns
@@ -228,7 +229,6 @@ Order of Election
 Lingleville ISD
 Order of Cancellation
 Certification of Unopposed Candidates
-/DocumentCenter/View/1962
 Agendas & Minutes
 Forms
 FAQs

@@ -201,6 +201,7 @@ Escribir en la lista de candidatos
 - This list will be found in the voting booth when you arrive at the polls to vote.
 Papeleta de muestra en español
 Unofficial Reconciliation
+Official Reconciliation
 Certification of 2nd and 3rd Logics and Accuracy Tests
 Post Election Hand Count Results
 Last Day to Register to Vote for this election is:
