@@ -96,14 +96,6 @@ Email:
 Invalid Email Format
 Reason for Inquiry
 reCAPTCHA is required
-English
-??
-VOTER ALERT:
-A text saying your mail-in ballot wasn’t received is NOT from the Houston County Elections Office. Our office does not have a text messaging system. Treat it as a scam. Do not click links or share personal information.
-Español
-?? AVISO AL VOTANTE: Si recibe un texto que dice que no se recibió su boleta por correo, NO es de la Oficina de Elecciones del Condado de Houston. No tenemos un sistema de mensajes de texto. Trátelo como una estafa. No abra enlaces ni comparta datos personales.
-November 3rd Joint General / Special Election
-Sample Ballot
 November 3, 2026 General Mid-Term / Special Election
 ▲
 Election Results
@@ -111,7 +103,8 @@ Official
 Election Total
 Precinct by Precinct
 Reconciliation Form
-Preliminary/Unofficial
+Precinct Reconciliation Form
+Preliminary /Unofficial
 Election Total
 Precinct by Precinct
 Reconciliation Form
@@ -146,6 +139,188 @@ Notice of Post-Election Hand Count Audit
 (Replaces Partial Manual Recount)
 Notice of Designation of Early Voting Ballot Board Members for
 the Post-Election Hand Count Audit
+Summary and Certification of Post-Election Hand Count Audit Results
+Post-Election Hand Count Audit Returns
+Notice of Risk Limiting Audit (RLA)
+2027 Elections
+▲
+May 1, 2027 LPS Elections
+▲
+Local Political Subdivision Elections Being Held
+* You Will Vote Based On Your School District!
+List of Voting Locations
+(Cities, Schools, Hospital Districts)
+Entity
+Order
+Notice
+Sample Ballot
+Map
+Results
+Crockett ISD
+Election Order
+Election Notice
+Precinct 1 Precinct 2
+Precinct 3  Precinct 4  Precinct 5
+Precinct 6
+Precinct 7
+Voting Map
+Unofficial Results
+Kennard ISD
+Election Order
+Election Notice
+Sample Ballo
+t
+Voting Map
+Unofficial Results
+Grapeland ISD
+Election Order
+Election Notice
+Sample Ballots
+Voting Map
+Unofficial Results
+Latexo ISD
+Election Orde
+r
+Election Notice
+Sample Ballots
+Voting Map
+Unofficial Results
+Lovelady ISD
+Election Order
+Election Notice
+Sample Ballots
+Voting Map
+Unofficial Results
+Elkhart ISD
+Election Order
+Election Notice
+Sample Ballots
+Voting Map
+Unofficial Results
+Groveton ISD
+Election Order
+CANCELED
+Sample Ballots
+Voting Map
+Unofficial Results
+City of Crockett
+Election Order
+Election Notice
+District 1     District 2   District 3   District 4   District 5
+Voting Map
+Unofficial Results
+City of Kennard
+Election Order
+CANCELED
+Sample Ballots
+Unofficial Results
+City of Grapeland
+Election Order
+Election Notice
+Sample Ballots
+Unofficial Results
+City of Latexo
+Election Order
+CANCELED
+Sample Ballots
+Unofficial Results
+City of Lovelady
+Election Order
+CANCELED
+Sample Ballot
+Unofficial Results
+Houston County Hospital District
+Election Order
+CANCELED
+Sample Ballots
+Unofficial Resul
+ts
+Grapeland Hospital District
+Election Order
+CANCELED
+Sample Ballots
+Unofficial Results
+H
+ouston County Groundwater Conservation District
+Election Order
+CANCELED
+Sample Ballots
+Unofficial Results
+ELECTIONS CONTRACTED TO BE CONDUCTED BY THE HOUSTON COUNTY ELECTIONS OFFICE
+* You Will Vote Based On Your School District!
+List of Voting Locations
+Joint LPS General Election for
+Election Results
+*Given in Grand Total Format to Ensure Voter Confidentiality*
+Official
+Election Total
+Precinct by Precinct
+Reconciliation Form
+Precinct Reconciliation Form
+Preliminary /Unofficial
+Election Total
+Precinct by Precinct
+Reconciliation Form
+Joint General Election Postings
+JOINT SAMPLE BALLOT
+Notice of The City of Crockett Canvass
+Notice of Crockett I.S.D. Canvass
+Notice of Kennard I.S.D. Canvass
+Notice of Lovelady I.S.D. Canvass
+Order of Election
+Notice of Joint Election
+Sample Ballot
+Notice of Public Testing of Automatic Tabulating Equipment
+Notice of Public Logic and Accuracy Test of Electronic Pollbook Equipmen
+t
+Notice of Election Training Program
+Central Counting Station - Written Plan
+Notice of Delivery of Balloting Materials to Early Voting Ballot Board
+Notice of Delivery of Balloting Materials to Central Counting Station
+Notice of Delivery of Provisional Ballot
+s
+Rosters
+Early Voting
+Ballot By Mail
+Election Day
+Notice of Post-Election Hand Count Audit                                                                                                                (Replaces Partial Manual Recount)
+Notice of Designation of Early Voting Ballot Board Members for                               the Post-Election Hand Count Audit
+Summary and Certification of Post-Election Hand Count Audit Results
+Post-Election Hand Count Audit Returns
+November 1, 2027 Constitutional Amendment Election
+▲
+Election Results
+Official
+Election Total
+Precinct by Precinct
+Reconciliation Form
+Preliminary/Unofficial
+Election Total
+Precinct by Precinct
+Reconciliation Form
+Notice of Canvass
+Canvass
+List of Voting Locations
+Order of Election
+Lovelady ISD Order of Election
+Notice of Joint General / Special Election
+Sample Ballot
+PROCLOMATION OF ELECTION
+Notice of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+Notice of Public Logic and Accuracy Test of Electronic Pollbook Equipment
+Certification of Logic and Accuracy Test of Electronic Poll Book Equipment
+Certification of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+Notice of Election Training Program
+Central Counting Station - Written Plan
+Notice of Delivery of Balloting Materials to Early Voting Ballot Board
+Notice of Delivery of Balloting Materials to Central Counting Station
+Notice of Delivery of Provisional Ballots
+Rosters
+Early Voting
+Ballot By Mail
+Election Day
+Notice of Post-Election Hand Count Audit                                                                                                                (Replaces Partial Manual Recount)
+Notice of Designation of Early Voting Ballot Board Members for                               the Post-Election Hand Count Audit
 Summary and Certification of Post-Election Hand Count Audit Results
 Post-Election Hand Count Audit Returns
 Previous Elections

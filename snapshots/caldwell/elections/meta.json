@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-17T17:08:45Z",
-  "html_sha256": "7cd2fc3eda8d7cc9b22e7b323f242f26b7aed5effe88f0cad475dbe04f784850",
-  "text_sha256": "71f8fabc9d0df843562506fa5d1514d25f28ef4d5a91e481a9cea3aa0d5af5ea",
-  "byte_size": 519297,
+  "fetched_at": "2026-11-17T18:18:49Z",
+  "html_sha256": "df3ac262793e14b92498c97685b7821ad8c8aae2a80d13de7841c65419f65d74",
+  "text_sha256": "a75dddbdd8526e556cfad201feae19da78daefa4cae3f6ee0ba55902f0e22822",
+  "byte_size": 522847,
   "title": "Elections Office - Caldwell County, TX",
   "noncitizen_voting": {
     "present": false,
@@ -26,7 +26,7 @@
       "uocava_form",
       "military_overseas_voter"
     ],
-    "count": 7
+    "count": 8
   },
   "error": null
 }
