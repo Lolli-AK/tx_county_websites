@@ -358,7 +358,8 @@ and Wait Times
 Sample Ballot
 Election Results
 Check Voter Registration
-Joint Runoff Election Date - December 12, 2026 - Archive Page Link
+General Uniform Election Date - November 3, 2026 - Archive Page
+Joint Runoff Election Date - December 12, 2026
 First day to apply for a ballot by mail:
 Thursday, January 1, 2026
 Last day to register to vote:
@@ -369,35 +370,6 @@ Tuesday, December 1, 2026
 (Received)
 Early Voting:
 Monday, November 30, 2026 - Tuesday, December 8, 2026
-General Uniform Election Date - November 3, 2026
-First day to apply for a ballot by mail:
-Thursday, January 1, 2026
-Last day to register to vote:
-Monday, October 5, 2026
-(Postmarked)
-Last day to apply for Ballot by Mail:
-Friday, October 23, 2026
-(Received)
-Early Voting:
-Monday, October 19, 2026 - Friday, October 30, 2026
-Appraisal District Board Elections in Counties with Populations of 75,000 or More
-Tarrant County Appraisal District Candidate Information
-Tarrant County Appraisal District (TAD) qualifying packet 2026
-List of Qualified Candidates for Tarrant County Appraisal Board of Directors
-Important Election Dates for 2026
-Governor’s Proclamation for November 3, 2026 General Election
-Governor’s Proclamation for November 3, 2026 Special Election for Senate District 22
-Governor’s Proclamation for November 3, 2026 Special Election for House District 93
-Candidate’s Guide to Nomination and General Election for 2026
-Advisory No. 2025-14: Deadlines for Vacancies and Replacement Nominees for the General Election for State and County Officers (November 3, 2026)
-Important Dates for the Party Conventions, Primary Elections, and General Election
-Candidate Listing Information (from the SOS Website)
-Candidate Ballot Order Information by County by Party (from the SOS Website)
-Independent Candidate Filings (PDF)
-November 2026, Uniform Election Law Calendar
-*
-Extra postage is required for sending in your ballot by mail for the November 3, 2026 election. One Forever stamp will not suffice.
-*
 Additional Election Information
 Register to Vote
 Voter ID Requirements for Voting in Person
@@ -417,16 +389,15 @@ Voter Registration Applications
 Additional Sample Ballot Information
 Sample Ballot
 Districts Holding an Election
-List of Declared Write-In Candidates
 Check Voter Registration
 Early Voting Location Information
-Locations Voting Wait Times
+Voting Location Wait Times
 Early Voting Schedule and Locations
 Early Voting Map
 Election Day Location Information
 Tarrant County registered voters on Election Day can vote at any Vote Center location from 7 a.m. to 7 p.m.
 Vote Center locations are chosen by the entity holding the election (city, ISD, or county) and therefore are not always the same.  Other circumstances, such as building or road construction and scheduling conflicts on privately owned locations, can also affect whether or not a location is used.  Use one of the links below to find an Election Day Vote Center Location.
-Locations Voting Wait Times
+Voting Locations Wait Times
 Election Day Vote Center Locations
 Election Day Vote Center Map
 Limited Ballot
@@ -472,7 +443,7 @@ Ballot Storage Quorum 1-2
 ***
 *** Note:
 Some livestream sources do not display in some browsers.  If you have trouble streaming in Firefox or Safari, please try Chrome or Edge, as these browsers have not had any issues with the panoramic camera streams.
-Absentee (by Mail), Early Voting Statistics, Election Day Statistics and Provisional Ballot Count
+Absentee (by Mail), Early Voting Statistics, Election Day Statistics, and Provisional Ballot Count
 Daily Count of  Mail Totals
 Daily Count of Early Voters In-Person
 Election Day Voter Counts of  In-Person by Location
@@ -493,20 +464,15 @@ SOS Statewide Statistics, Ballot by Mail Tracker and Candidate Lists
 Statewide Election Information and Turnout Data
 Ballot by Mail Tracker
 FPCA Ballot Tracker
-Candidate Listing Information (from the SOS Website)
-Candidate Ballot Order Information by County by Party (from the SOS Website)
 Statewide Election Night Results
 Election Reports
 Cumulative Reports and Precinct-by-Precinct Report
 Cumulative Report
-November 3, 2026
+December 12, 2026
 No Later Than 7:15 p.m. - Early Voting Results Report
 No Later Than 9 p.m. - Results Report
 No Later Than 10 p.m. - Results Report
 No Later Than 11 p.m. - Results Report
-November 4, 2026
-No Later Than 1 a.m. - Results Report
-No Later Than 2 a.m. - Results Report
 Graphical Election Night Reporting Tool (ENR)
 Zip File - Early Voting Locations Cumulative Reports
 Zip File - Vote Center Locations Cumulative Reports
@@ -515,7 +481,7 @@ Zip File - Scanned results tapes for Early Voting by vote counting machines
 Zip File - Scanned results tapes for Election Day by vote counting machines
 **
 Precinct Report
-** Generated in the weeks after the election, expected in December.
+** Generated in the weeks after the election; expected in January.
 Additional Election Reports and Exports
 Audit and Reconciliation Reports
 Post-Election Hand Count Audit
@@ -527,17 +493,14 @@ Other Reports
 Political Subdivision in Election
 Tally Export formatted in comma-delimited text
 Election Related Notices
-Governor’s Proclamation ordering the November 3, 2026 General Election
 Notices related to Public Testing of Voting Equipment and  Logic and Accuracy Test of Electronic Pollbook
 Notice of Public Test of the Voting Equipment
 Public Test Completion Certification
 Notice of Logic and Accuracy Test of Electronic Pollbook Equipment
 Logic and Accuracy Test of Electronic Pollbook Completion Certification
 Central Count Station Plan
-The Central Counting Station will convene on Tuesday, November 3, 2026, no earlier than 2 p.m., for the purpose of counting ballots at either the primary or alternate locations listed in the Central Counting Station Plan.
-The Central Counting Station will reconvene on Monday, November 9, 2026, no earlier than 5 p.m., for the purpose of counting ballots at either the primary or alternate locations listed in the Central Counting Station Plan.
-November 3, 2026, Joint General Election Law Calendar
-Notice of Delivery of Provisional Ballots
+The Central Counting Station will convene on Saturday, December 12, 2026, no earlier than 2 p.m., for the purpose of counting ballots at either the primary or alternate locations listed in the Central Counting Station Plan.
+The Central Counting Station will reconvene on Friday, December 18, 2026, no earlier than 5 p.m., for the purpose of counting ballots at either the primary or alternate locations listed in the Central Counting Station Plan.
 Poll Worker Training Schedule
 Notice of Delivery of Ballots Voted By Mail
 Notice of Convening of Early Voting Ballot Board
@@ -561,140 +524,14 @@ Election Order
 Election Notice
 Candidates / Contests
 Canceled Election?
-Tarrant County
-Election Orders (
-General
-and
-Special
-)
-Election Notice (
-General
-,
-Special
-)
-Candidates
 Tarrant County Appraisal District (TAD)
 Election Order
 Election Notice
 Candidates
-State of Texas
-Governor’s Proclamation for November General Election
-Governor’s Proclamation for November Special Election for Senate District 22
-Governor’s Proclamation for November Special Election for House District 93
-Candidates
-Special Election for Senate District 22 - Candidates
-Ballot Order Draw Notice
-Special Election for House District 93 - Candidates
-Ballot Order Draw Notice
-City of Benbrook
-Election Orders
-(
-English
-,
-Spanish
-,
-Vietnamese
-)
-Election Notice (
-English
-,
-Spanish
-,
-Vietnamese
-)
-Candidates
-(See Candidate for Member of Council, Place..)
-Town of Flower Mound
-Election Order
-Election Notice
-Contests
-City of Forest Hill
-Election Order
-Special Election Notice
-Candidates/Contests
-City of North Richland Hills
-Bond Election
-Election Order (
-English
-,
-Spanish
-,
-Vietnamese
-)
-General Election Notice (
-English
-,
-Spanish
-,
-Vietnamese
-)
-Special Election Notice (
-English
-,
-Spanish
-,
-Vietnamese
-)
-Contests
-(See Propositions A - D)
 City of River Oaks
 Election Order
 Election Notice
 Candidates
-City of White Settlement
-Election Order
-General Election Notice (
-English
-,
-Spanish
-,
-Vietnamese
-)
-Candidates
-Eagle Mountain-Saginaw ISD
-Bond and Vatre Election
-Election Orders
-Voter Approval Tax Rate Election (VATRE)
-Bond Election
-Election Notices (
-Bond
-and
-Vatre
-)
-Contests
-Keller ISD
-Bond Election
-Order of General Election for Place 4 and Place 5
-Order for Special Election for Place 6
-Election Notices (
-General Election
-,
-Special Election
-, and
-Bond Election
-)
-Candidates
-Bond Propositions
-TC Fresh Water Supply District 2
-Election Order
-Election Notice
-Contests
-Cancelled
-Carroll ISD
-Election Order
-Candidates
-Cancelled
-Benbrook Library
-Election Order
-Election Notice
-Candidates
-Cancelled
-Parker and Tarrant Counties Municipal Utility District No. 1
-(Not contracting )
-Election Notice
-Tarrant County Fresh Water Supply District No. 3
-(Not contracting )
-Election Notice
 Texas Election Code Section 87.121 - EARLY VOTING ROSTERS:
 (a)  The early voting clerk shall maintain for each election a roster listing each person who votes an early voting ballot by personal appearance and a roster listing each person to whom an early voting ballot to be voted by mail is sent.
 (b)  For each person listed, the applicable roster must include: (1)  the person's name, address, and voter registration number; (2)  an identification of the person's county election precinct of registration; and (3)  the date of voting or the date the ballot was mailed to the person, as applicable.
@@ -743,7 +580,7 @@ ElectionsInfo@tarrantcountytx.gov
 Phone: 817-831-8683
 TDD: 817-759-7801
 Hours of Business: Monday – Friday, 8 a.m. - 5 p.m.
-This page was last modified on November 13, 2026
+This page was last modified on November 16, 2026
 TARRANT COUNTY, TEXAS
 County Telephone Operator
 817-884-1111
