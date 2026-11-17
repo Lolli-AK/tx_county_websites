@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-17T07:14:50Z",
-  "html_sha256": "764470869177f9eaa6dc58d7d13ad1db1ff53f6f944d81321a1d97e1ee98dafb",
+  "fetched_at": "2026-11-17T17:08:45Z",
+  "html_sha256": "0b57d3f50daa41348ba36f9f6baae6b1e656bdb9dd0c3adee6ec94275afcdc45",
   "text_sha256": "1e9ecff7d8d19f0ca8ecb98cd51284eee4a560174c66f77caf63b5c2458baec1",
-  "byte_size": 68732,
+  "byte_size": 68916,
   "title": "Throckmorton County Elections Administrator",
   "noncitizen_voting": {
     "present": false,

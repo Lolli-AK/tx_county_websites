@@ -119,9 +119,11 @@ Press the enter key or spacebar to expand or collapse the accordion
 Register to Vote
 To register to vote in De Witt County, you may pick up a voter registration card at the De Witt County Election Administration Office.
 Para registrarse para votar en el condado de De Witt, puede regoger una tarjeta de registro en la oficina de Administration Electoral del condado de De Witt.
-Current and Upcoming Elections
+Current Election
 This page will be updated with the time, date, and place for each election including a listing of the precinct polling places and sample ballot information. At the conclusion of an election, the results from the election will also be posted on this page.
-UNOFFICIAL EARLY VOTING RESULTS
+FINAL OFFICIAL RESULTS AS CANVASSED
+OFFICIAL ELECTION RECONCILIATION
+RECONCILIATION OF TOTAL VOTES CAST AT EACH POLLING LOCATION
 UNOFFICIAL CUMULATIVE RESULTS
 - INCLUDES EARLY VOTING, ABSENTEE AND ELECTION DAY
 PRELIMINARY ELECTION RECONCILIATION
@@ -179,6 +181,9 @@ Notice of Election Worker Training
 Notice of Convening the Early Voting Ballot Board
 Notice of Delivery of Ballots Voted By Mail
 Notice of Risk-Limiting Audit
+Notice of Post Election Hand Count Audit
+Notice of Additional Polling Place or Precinct for the Post Election Hand Count Audit
+Notice of Designation of Early Voting Ballot Board Members for the Post Election Hand Count Audit
 General Information for Voters and Candidates
 Where To Vote - Precinct Map
 ▲

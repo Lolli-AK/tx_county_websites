@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-17T07:14:50Z",
-  "html_sha256": "ff7e6f05973749709356eae79cc27c71b556d87bfc1792cb12f65b1ad4cdf1a8",
+  "fetched_at": "2026-11-17T17:08:45Z",
+  "html_sha256": "fe3623ca3b4faf2db09a26ada14636486c495383e00c2e7a55975f48d766363f",
   "text_sha256": "08772bffca5f76fe58aef58c36207e366b9168ec513f64bd905364e245825581",
-  "byte_size": 49166,
+  "byte_size": 49167,
   "title": "Morris County, Texas",
   "noncitizen_voting": {
     "present": false,
