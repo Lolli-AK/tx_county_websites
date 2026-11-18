@@ -112,21 +112,23 @@ Notice of Canvass
 Notice of Lovelady ISD Canvass
 Canvass
 Joint General / Special Election
+PROCLOMATION OF ELECTION
 List of Voting Locations
 Order of Election
 Lovelady ISD Order of Election
 Notice of Joint General / Special Election
 Sample Ballot
 Certified Write-In Candidate List
-PROCLOMATION OF ELECTION
-Notice of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
-Notice of Public Logic and Accuracy Test of Electronic Pollbook Equipment
-Certification of Logic and Accuracy Test of Electronic Poll Book Equipment
-Certification of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
 Notice of Election Training Program
 Due to construction all training locations have been moved to
 Houston County Senior Citizens Center
 713 Wells St, Crockett, TX 75835
+TESTING
+Notice of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+Notice of Public Logic and Accuracy Test of Electronic Pollbook Equipment
+Certification of Logic and Accuracy Test of Electronic Poll Book Equipment
+Certification of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+DELIVERY OF MATERIALS
 Central Counting Station - Written Plan
 Notice of Delivery of Balloting Materials to Early Voting Ballot Board
 Notice of Delivery of Balloting Materials to Central Counting Station
@@ -135,6 +137,7 @@ Rosters
 Early Voting
 Ballot By Mail
 Election Day
+Required Audit Information
 Notice of Post-Election Hand Count Audit
 (Replaces Partial Manual Recount)
 Notice of Designation of Early Voting Ballot Board Members for
@@ -142,8 +145,6 @@ the Post-Election Hand Count Audit
 Summary and Certification of Post-Election Hand Count Audit Results
 Post-Election Hand Count Audit Returns
 Notice of Risk Limiting Audit (RLA)
-2027 Elections
-▲
 May 1, 2027 LPS Elections
 ▲
 Local Political Subdivision Elections Being Held
@@ -324,6 +325,8 @@ Notice of Designation of Early Voting Ballot Board Members for            
 Summary and Certification of Post-Election Hand Count Audit Results
 Post-Election Hand Count Audit Returns
 Previous Elections
+▲
+2027 Elections
 ▲
 2026 Elections
 ▲

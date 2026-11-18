@@ -83,8 +83,8 @@ Texas Election RESULTS
 Looking For...?
 Elections Results
 Election Results -UnOfficial Reconciliation
-Election Results -UnOfficial Precinct by Precinct
-Election Results -UnOfficial Cumulative
+Election Results -Official Precinct by Precinct
+Election Results -Official Cumulative
 Voter Registration
 Voting Information
 November 3, 2026 General Election - Election Day in Person

@@ -217,15 +217,15 @@ Become a Pollworker
 EVENTS
 Upcoming events
 Community Outreach Events (0)
-December 12, 2026- Runoff Election (12)
-November 3, 2026 - General Election & Joint Election (1)
+May 01, 2027 - General & Joint Election (7)
+November 3, 2026 - General Election & Joint Election (0)
 Poll Worker Training (0)
 Volunteer Deputy Registrar Training (0)
 Voter Registration Events (0)
 Event Type:
 All Events
 Community Outreach Events
-December 12, 2026- Runoff Election
+May 01, 2027 - General & Joint Election
 November 3, 2026 - General Election & Joint Election
 Poll Worker Training
 Volunteer Deputy Registrar Training
@@ -304,16 +304,10 @@ Last Day to Canvass
 28
 29
 30
-1
-Early Voting
-11/30/2026 - 12/04/2026
-8:00 AM - 5:00 PM
-Monday - Friday
-* Time is subject to change
 Event Type:
 All Events
 Community Outreach Events
-December 12, 2026- Runoff Election
+May 01, 2027 - General & Joint Election
 November 3, 2026 - General Election & Joint Election
 Poll Worker Training
 Volunteer Deputy Registrar Training
@@ -322,13 +316,7 @@ Voter Registration Events
 »
 November
 2026
-November 17, 2026
-Last Day to Canvass
-november-3-2026-general-and-joint-election
-November 30, 2026
-Early Voting
-8:00 AM - 5:00 PM
-december-12-2026-runoff-election
+Sorry, no events this month!
 View All
 GET INVOLVED
 Become a Pollworker

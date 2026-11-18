@@ -304,9 +304,10 @@ Early Voting and Election Day Locations
 Sample Ballots
 November 3, 2026 - General Election Results
 ▲
-Unofficial Custom Table Report November 3 2026 General.pdf
-Unofficial Precinct Summary November 3 2026 General Results.pdf
-Unofficial Summary Results November 3 2026 General Election.pdf
+Election Reconciliation - Official Totals.pdf
+Official Custom Table Report General November 3 2026 Election.pdf
+Official Precinct Summary Results General November 3 2026 Election.pdf
+Official Summary Results General November 3 2026 Election.pdf
 Download file
 Press the enter key or spacebar to expand or collapse the accordion
 The 4 closest Election Day Voting Centers in you Area.
@@ -359,6 +360,7 @@ Public Notice of Test of Automatic Tabulating Equipment.pdf
 Woodbine SUD Certification of Unopposed Candidates - November 3 2026 Election.pdf
 Woodbine SUD Order of Cancellation November 3 2026 Election.pdf
 Public Notice of Logic and Accuracy Test of Electronic Pollbook Equipment.pdf
+Notice of Rist-Limiting Audit.pdf
 Download file
 Press the enter key or spacebar to expand or collapse the accordion
 Early Voting Reporting

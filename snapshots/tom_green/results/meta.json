@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-17T18:18:49Z",
-  "html_sha256": "65c527e1cc1a283071d58f1d7a77e16256ac1e436fb211d607bafd916476d871",
+  "fetched_at": "2026-11-18T16:46:02Z",
+  "html_sha256": "b0b547b32792f6de7ea066cefc8dadd192d50787b08a4c4df7b1f7a8bd6995d4",
   "text_sha256": "7fe44281b8db7e13108df8c25b0d613bcd11bd1e4855eda7e36c13d8512ba872",
-  "byte_size": 140551,
+  "byte_size": 140515,
   "title": "Tom Green County",
   "noncitizen_voting": {
     "present": false,

@@ -2,19 +2,21 @@
   "county": "Wilson",
   "page_type": "elections",
   "requested_url": "https://www.co.wilson.tx.us/page/wilson.Elections",
-  "final_url": "https://www.co.wilson.tx.us/page/wilson.Elections",
+  "final_url": "https://www.wilsoncountytx.gov/page/Elections",
   "redirect_chain": [
-    "https://www.co.wilson.tx.us/page/wilson.Elections"
+    "https://www.co.wilson.tx.us/page/wilson.Elections",
+    "https://www.wilsoncountytx.gov/page/wilson.Elections",
+    "https://www.wilsoncountytx.gov/page/Elections"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-17T18:18:49Z",
-  "html_sha256": "b589a1469411b17d223889ad90f8922c13aa00146a2eb6cdbb837cfaf91516ef",
-  "text_sha256": "07bdcd519daf4e28668d8fc1b291a944650b1b6faf3412990fa8d440c4645eaf",
-  "byte_size": 437828,
-  "title": "Wilson County, Texas",
+  "fetched_at": "2026-11-18T16:46:02Z",
+  "html_sha256": "6bed2d138fb34259b8bfbb71ed55fb38e7dae3049291bccaa91efdbfcb4829b2",
+  "text_sha256": "ac3d54434ef5c9d7f0d1656e2e29892f2155bd957db5af389b34c92f2225f39c",
+  "byte_size": 323503,
+  "title": "Elections and Voting | Wilson County, Texas",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

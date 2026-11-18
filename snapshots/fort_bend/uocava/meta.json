@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-17T18:18:49Z",
-  "html_sha256": "c727052bbfbf62accb0a68ec849367aa13271843f5df284c6549505575f7114a",
+  "fetched_at": "2026-11-18T16:46:02Z",
+  "html_sha256": "244b638b1f44ff322d1d35e9cd17664973c254cda53bc548d1570a1c9bd57532",
   "text_sha256": "fac70a092273ae14a73a8674fdddf0ca54824fad4270b86ef81b54f1ddc2e22e",
-  "byte_size": 163603,
+  "byte_size": 163567,
   "title": "Military and Overseas Voters | Fort Bend County",
   "noncitizen_voting": {
     "present": false,

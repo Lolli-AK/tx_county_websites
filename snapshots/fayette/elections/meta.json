@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-17T18:18:49Z",
-  "html_sha256": "aee1f3fd2630b938b575c0a907d1896bd73e26a10a4a2de4eb4556a39aa8df1a",
-  "text_sha256": "c1fd5bf344e61fc084ea9f2466ff6b6ab919126e80f393f9007da11918b21f86",
-  "byte_size": 219882,
+  "fetched_at": "2026-11-18T16:46:02Z",
+  "html_sha256": "32919867bc313fe28eae911c9d08b3863c8f33e22d98bfbe452623b29bcc5c64",
+  "text_sha256": "afc50c6b2a4efffc57467089312ff2094c7b9447e9d702c7deb9575ccf7f7d2a",
+  "byte_size": 220130,
   "title": "Elections - Fayette County",
   "noncitizen_voting": {
     "present": false,
@@ -26,7 +26,7 @@
       "uocava_form",
       "fvap"
     ],
-    "count": 5
+    "count": 6
   },
   "error": null
 }

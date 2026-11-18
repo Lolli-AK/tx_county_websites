@@ -138,6 +138,7 @@ Results by Precinct - Official
 Dates/Times/Polling Locations
 Sample Ballot - all precincts
 Early Voting Roster Reports - Daily
+Notice of Risk-Limiting Audit
 Notice of Election
 Order Calling for Signature Verification Committee
 Notice of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment

@@ -177,6 +177,7 @@ List of Declared Write-In Candidates
 Reconciliation
 Unofficial
 Official
+Reconciliation of Total Votes Cast
 Sample Ballots
 All Precinct Sample Ballots
 Hermeligh ISD
@@ -352,9 +353,12 @@ November 3, 2026 General Election
 Election Results
 Unofficial-
 Summary
--By Precinct
+-
+By Precinct
 Official-
-Summary- By Precinct
+Summary
+-
+By Precinct
 May 26, 2026 Primary Runoff Election
 Election Results
 Unofficial-
@@ -439,6 +443,8 @@ C/OH & EXPENDITURES
 C/OH & EXPENDITURES
 Roy Gill-
 CTA-2025
+-
+C/OH
 -
 C/OH
 -

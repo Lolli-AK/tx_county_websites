@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.brazoriacountytx.gov/"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-17T18:18:49Z",
-  "html_sha256": "0051198c0e4dfcf8140b8bde580254e1277faf082483d857ea74306f4fd0ae9c",
-  "text_sha256": "733671d0b9f29773c343de95701ea0d9ba92677aa81f396ba35582dcddc9d60a",
-  "byte_size": 116965,
-  "title": "Brazoria County, TX | Home",
+  "fetched_at": "2026-11-18T16:46:02Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.brazoriacountytx.gov'. (_ssl.c:1018)"
 }
