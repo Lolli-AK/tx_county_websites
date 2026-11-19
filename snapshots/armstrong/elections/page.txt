@@ -304,6 +304,7 @@ Certification Of Logic And Accuracy Test Of Electronic Pollbook Equipment
 Preliminary Election Reconciliation - Unofficial Totals
 Election Recontiliation - Official Totals
 Canvass County Votes Report
+Reconciliation Of Total Votes Cast At Each Polling Location
 Notice Of Post-Election Hand Count Audit
 Summary And Certification Of Posst-Election Hand Count Audit Results
 Certified Write-in Candidates

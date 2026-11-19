@@ -135,6 +135,7 @@ for your House Number.
 Date of Birth (MM/DD/YYYY):
 House Number:
 Check Registration & Find Sample Ballot
+Notice of Risk-Limiting Audit
 Official Results
 Official Election Reconciliation
 Election Results by Precinct

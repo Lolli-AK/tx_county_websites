@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-18T16:46:02Z",
-  "html_sha256": "d7297418fed2286c666d8ba3ce7b0fc47eb6fbb0202be913af40326c30382fde",
+  "fetched_at": "2026-11-19T16:52:53Z",
+  "html_sha256": "e5032f4560cc109aad407d6072b07cb96fabf8ddcf63506d551bda6cd1b57639",
   "text_sha256": "25299ba1f9ef1ad72cdaee7be10ef1dee6394fe5489251e44ec2825f74ce95e9",
-  "byte_size": 43520,
+  "byte_size": 44570,
   "title": "Welcome to the Official Website of Orange County, Texas - Election Results",
   "noncitizen_voting": {
     "present": false,

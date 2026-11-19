@@ -162,6 +162,11 @@ Historical
 Accessibility
 [rotating image slideshow removed for determinism]
 News & Announcements
+November 18, 2026
+Notice of Risk Limiting Audit: November 03rd Election
+2026
+central-count
+news-announcements
 November 9, 2026
 Notice of Post-Election Hand Count Audit: November 3rd General & Joint Election
 2026
@@ -201,10 +206,6 @@ Voter Registration Drive-Thru
 2026
 news-announcements
 voter-registration
-September 28, 2026
-Irving ISD – Notice of Election
-2026
-notice
 View All
 Election Information
 Sample Ballot
