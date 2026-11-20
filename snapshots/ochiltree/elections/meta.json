@@ -2,19 +2,20 @@
   "county": "Ochiltree",
   "page_type": "elections",
   "requested_url": "https://www.co.ochiltree.tx.us/page/ochiltree.Elections",
-  "final_url": "https://www.co.ochiltree.tx.us/page/ochiltree.Elections",
+  "final_url": "https://www.co.ochiltree.tx.us/page/Elections",
   "redirect_chain": [
-    "https://www.co.ochiltree.tx.us/page/ochiltree.Elections"
+    "https://www.co.ochiltree.tx.us/page/ochiltree.Elections",
+    "https://www.co.ochiltree.tx.us/page/Elections"
   ],
   "http_status": 200,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-19T16:52:53Z",
-  "html_sha256": "265f458f57b64344e886bcf2b191d9fa36089082782c19ee1550b430fc5fdf8c",
-  "text_sha256": "049ec5f1b523512916f0aba28e33bf986427783e7e6478ee6661a86927e5f990",
-  "byte_size": 386091,
-  "title": "Ochiltree County, Texas",
+  "fetched_at": "2026-11-20T16:28:07Z",
+  "html_sha256": "be216f381090c7d5e6f2fae58869b8483de17571cfab79141f52c54cd676e293",
+  "text_sha256": "a5bbb59d80dc228d8f25d23da490608fc080ebbedfc38bb3e0dfbba0ec94ac24",
+  "byte_size": 128162,
+  "title": "Elections & Voting | Ochiltree County, TX",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -26,7 +27,7 @@
       "uocava_form",
       "military_overseas_voter"
     ],
-    "count": 12
+    "count": 13
   },
   "error": null
 }

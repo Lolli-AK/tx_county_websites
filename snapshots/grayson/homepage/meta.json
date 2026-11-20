@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-19T16:52:53Z",
-  "html_sha256": "0594f1d74f98a6a5220f81c9356de2fed196c1f210895d3c074ec0cdc6b01b17",
+  "fetched_at": "2026-11-20T16:28:07Z",
+  "html_sha256": "ec321885f13c70c9559922469dbe06aa10053c446ba13b74691d58d7c744f78e",
   "text_sha256": "1606452cd047d550928a9b6bbd49f76c79996286be3cec1f4537291dea139728",
-  "byte_size": 42512,
+  "byte_size": 42508,
   "title": "Homepage | Grayson County Texas",
   "noncitizen_voting": {
     "present": false,

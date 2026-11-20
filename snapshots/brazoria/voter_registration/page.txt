@@ -64,8 +64,6 @@ Precinct Maps
 Sample Ballots
 Vote by Mail
 Voter Registration
-Ballot Board Signature Verification
-Ballot Board Signature Verification 2
 Juvenile
 General Information
 Juvenile Payments
@@ -147,8 +145,6 @@ Vote by Mail
 +
 Military and Overseas Voters
 Voter Registration
-Ballot Board Signature Verification
-Ballot Board Signature Verification 2
 Juvenile
 +
 General Information

@@ -103,6 +103,7 @@ Election Results
 Precinct by Precinct Results
 Preliminary Election Reconciliation
 Official Election Reconciliation
+Cast Vote Records for 11/03/2026
 Reconciliation of Votes at Each Polling Place
 Election Notice
 Post Election Hand Count Notice

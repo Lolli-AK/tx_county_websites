@@ -6,29 +6,24 @@
   "redirect_chain": [
     "https://www.hamiltoncountytx.gov/page/hamilton.elections"
   ],
-  "http_status": 200,
+  "http_status": 404,
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-19T16:52:53Z",
-  "html_sha256": "276ed6a258539f47a18913c0c0e257d925ddca7ed89bd31389e2baf871ab9f18",
-  "text_sha256": "adb0b24b37468e205859f801b112b99006666ca765c665877b387993ca00896b",
-  "byte_size": 356269,
-  "title": "Hamilton County, Texas",
+  "fetched_at": "2026-11-20T16:28:07Z",
+  "html_sha256": "dbfd997072a274bef4a4214dc7b662e8ef3791284e07c8e015477b2f8e5f906a",
+  "text_sha256": "0b4c543bb0b671fbfac630b7a7494f7e1c1a3bf11a28ab6cba820331cebfd856",
+  "byte_size": 29968,
+  "title": "Custom404 • Hamilton County, TX • CivicEngage",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form",
-      "fvap",
-      "military_overseas_voter",
-      "citizen_abroad"
-    ],
-    "count": 42
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }
