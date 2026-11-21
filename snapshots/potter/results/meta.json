@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-20T16:28:07Z",
-  "html_sha256": "9c5f3a4906ee750f8daa252c28c5be3322dbb528b90ca8aba3cc4731de49ed8c",
+  "fetched_at": "2026-11-21T15:42:16Z",
+  "html_sha256": "98603f66341ba129df480f78d6fa8f0ff53ef02014ff312711d2192a5e7e2daf",
   "text_sha256": "d953632b0d484e620eefb4350373c2928a4efcef3e574c0e67139ad820d86001",
-  "byte_size": 257690,
+  "byte_size": 257911,
   "title": "Historical Results | Potter County Elections Administration | Amarillo",
   "noncitizen_voting": {
     "present": false,

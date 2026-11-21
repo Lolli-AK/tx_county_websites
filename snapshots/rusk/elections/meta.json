@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-20T16:28:07Z",
-  "html_sha256": "1326ce9aa1ab095ba2c88142780519b0de4e66f4932d005ca97061d72104b51a",
+  "fetched_at": "2026-11-21T15:42:16Z",
+  "html_sha256": "a89b5c8f27dc4544361616d65d17abda95c76b3a7210f2c6b40395dbceed9c35",
   "text_sha256": "5d35d64ff561ab76ff8530c6f8e4c27fde92ca0c173f085295e86196ed7f9e1b",
-  "byte_size": 191434,
+  "byte_size": 191604,
   "title": "Elections & Voting | Rusk County, Texas",
   "noncitizen_voting": {
     "present": false,

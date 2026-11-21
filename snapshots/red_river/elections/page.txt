@@ -88,6 +88,7 @@ Official Cumulative Results
 Official Precinct Results
 Official Reconciliation
 Reconciliation of Total Votes Cast
+Summary and Certification of PEHCA Results
 Primary Runoff Information
 Notice of Election for Primary Runoff
 Logic & Accuracy Testing Notice for Runoff

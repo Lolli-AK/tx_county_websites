@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-20T16:28:07Z",
-  "html_sha256": "3eedf4a1a8d6c8ffbafa19de535d506728695492f26a0f3f41846b22d46cb96c",
+  "fetched_at": "2026-11-21T15:42:16Z",
+  "html_sha256": "13979e40a70a0e673ea98bb08dc23882aaa74f2caf9c2638808613978744ec86",
   "text_sha256": "9bc3d8867b395de95619e6d6a2dab8c202dc6f413fe848225b2fcb7111271e34",
-  "byte_size": 44150,
+  "byte_size": 44164,
   "title": "Wheeler County, Texas",
   "noncitizen_voting": {
     "present": false,

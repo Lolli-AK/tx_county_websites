@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-20T16:28:07Z",
-  "html_sha256": "d3a3ae13328dfb1aa36f9eab55c9867cc0df19b01cc50bcf5ee849273a9a48fa",
+  "fetched_at": "2026-11-21T15:42:16Z",
+  "html_sha256": "243764a67df00b18143cfecdeab1618bd49e5302e8cc84a861a1289c65ae25a6",
   "text_sha256": "be18f890eba2c63ea392803cf77a94b86cb58c114af3a9bcaa23cdcb3c0111d7",
-  "byte_size": 37083,
+  "byte_size": 37097,
   "title": "Sterling County, Texas",
   "noncitizen_voting": {
     "present": false,

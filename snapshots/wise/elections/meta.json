@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-20T16:28:07Z",
-  "html_sha256": "fd4e6c6ca4dcccca10787b71452c15e83ce1ccd85f5f9cab6f1f9c62221ea2de",
+  "fetched_at": "2026-11-21T15:42:16Z",
+  "html_sha256": "69845754de906f19ecc8be502573256d121cdef574ac872a1b466e575f35c26e",
   "text_sha256": "d883ad3ea8d8c8e9e190bc975e8181c490f32445d6808e0fd814490bb2010d13",
-  "byte_size": 112765,
+  "byte_size": 112760,
   "title": "Elections | Wise County, TX",
   "noncitizen_voting": {
     "present": false,

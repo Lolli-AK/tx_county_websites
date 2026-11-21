@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-20T16:28:07Z",
-  "html_sha256": "93736d485ef30a4ee8c6bceac47bb36906c8286cfeb416d8de6c8c304bba3675",
+  "fetched_at": "2026-11-21T15:42:16Z",
+  "html_sha256": "c7f9848916f92b48432baccd0c7057e013fb514dfbcfb97d08a7b2879a9daecb",
   "text_sha256": "58b1bd89189d491e4ae199965e612399ed85cc79594e023fa7338cf35f1310ae",
-  "byte_size": 54573,
+  "byte_size": 54587,
   "title": "Homepage | Medina County TX",
   "noncitizen_voting": {
     "present": false,

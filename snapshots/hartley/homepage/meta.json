@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-20T16:28:07Z",
-  "html_sha256": "eb8e66792118c8d01b0e939a04f8cd98e24a5dd4f14cedd4187756b8e14d9353",
+  "fetched_at": "2026-11-21T15:42:16Z",
+  "html_sha256": "c4ee43fe700e10a24bd58474d225f0eb6ef41fab95908406352c62e7ad24496b",
   "text_sha256": "698021c13211f30540543143878d8faba2237b5fc7757b0aaf64c92060cd50a0",
-  "byte_size": 48101,
+  "byte_size": 48115,
   "title": "Hartley County, Texas",
   "noncitizen_voting": {
     "present": false,

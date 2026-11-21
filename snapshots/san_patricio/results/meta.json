@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-20T16:28:07Z",
-  "html_sha256": "09f5b87132d2100048a0e9d7fe1da9d81591de5a68b1b2c015ff039a1e5de678",
+  "fetched_at": "2026-11-21T15:42:16Z",
+  "html_sha256": "d18988056016adeeefc932789c3a000d834ea07adab6d2096317e54a2b842080",
   "text_sha256": "4b5565be4619099e2c82ac1c910e272e26b80d03edf5fb645b5eb8a6b788e416",
-  "byte_size": 99167,
+  "byte_size": 99211,
   "title": "Elections Results Archive 06 | San Patricio County TX",
   "noncitizen_voting": {
     "present": false,

@@ -11,10 +11,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-20T16:28:07Z",
-  "html_sha256": "bff3017eddb48907511451981518f7385e90878efb3bef01693c1d22de143a85",
+  "fetched_at": "2026-11-21T15:42:16Z",
+  "html_sha256": "163ff1d61522513ee9d99dbdf893045e6834e11f1da7c4d4827cfa2effa3a631",
   "text_sha256": "2521c817f5c85fd4a82e3beb6fe80fa3318a1df6c3602447695445007343fed2",
-  "byte_size": 40795,
+  "byte_size": 40809,
   "title": "Cottle County, Texas",
   "noncitizen_voting": {
     "present": false,
