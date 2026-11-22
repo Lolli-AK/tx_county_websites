@@ -80,9 +80,9 @@
       Maverick County, TX
      </span>
      <div class="flex items-center gap-2">
-      <a aria-label="Current weather: 68 degrees Fahrenheit" class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-white/10 hover:bg-white/20 ring-1 ring-white/20 text-white font-bold text-[11px] transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-300" href="/weather">
+      <a aria-label="Current weather: 70 degrees Fahrenheit" class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-white/10 hover:bg-white/20 ring-1 ring-white/20 text-white font-bold text-[11px] transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-300" href="/weather">
        <span>
-        68°F
+        70°F
        </span>
       </a>
       <div aria-label="Language selector" class="lang-pill" role="group">
@@ -160,6 +160,8 @@
      </ul>
     </nav>
     <div class="flex items-center gap-2">
+     <a aria-label="Search the site" class="inline-grid place-items-center w-10 h-10 rounded-lg bg-white/10 hover:bg-white/20 ring-1 ring-white/20 text-white transition" data-open-search="" href="/search" title="Search">
+     </a>
      <a class="hidden md:inline-flex items-center gap-2 text-sm font-semibold text-white/85 hover:text-white transition" href="/contact">
       Contact
      </a>
@@ -308,8 +310,10 @@
   </aside>
   <main class="flex-1 focus:outline-none" id="main" tabindex="-1">
    <section class="relative hero-mesh text-white overflow-hidden">
-    <video aria-hidden="true" autoplay="" class="absolute inset-0 w-full h-full object-cover object-top z-0" loop="" muted="" playsinline="" poster="/tenant-assets/maverick/logo.webp" preload="auto">
-     <source src="/tenant-assets/maverick/hero.webm" type="video/webm">
+    <video aria-hidden="true" autoplay="" class="absolute inset-0 w-full h-full object-cover object-top z-0" loop="" muted="" playsinline="" poster="/tenant-assets/maverick/hero-poster.jpg" preload="auto">
+     <source src="/tenant-assets/maverick/hero-v2.webm" type="video/webm">
+      <source src="/tenant-assets/maverick/hero-v2.mp4" type="video/mp4">
+      </source>
      </source>
     </video>
     <div aria-hidden="true" class="absolute inset-0 z-10 bg-gradient-to-br from-black/65 via-black/40 to-black/70">
@@ -330,6 +334,71 @@
        Official website of Maverick County, Texas
       </p>
      </div>
+     <div class="md:col-span-12">
+      <form action="/search" class="max-w-4xl rounded-2xl bg-white p-4 sm:p-5 text-ink-900 shadow-[0_20px_50px_rgba(0,0,0,0.3)]" method="get" role="search">
+       <label class="block text-sm sm:text-[15px] font-bold" for="site-q">
+        Search the whole site and the agendas
+       </label>
+       <div class="mt-3 flex flex-col sm:flex-row gap-2.5">
+        <input autocomplete="off" class="h-14 w-full flex-1 rounded-xl border-2 border-ink-200 px-4 text-base sm:text-lg focus:border-[var(--county-primary)] focus:outline-none" data-search-trigger="" id="site-q" minlength="2" name="q" placeholder="E.g. “budget”, “marriage license”, “November 23 meeting”" required="" type="search"/>
+        <button class="h-14 inline-flex items-center justify-center gap-2 rounded-xl bg-[var(--county-primary)] px-7 font-bold text-white hover:opacity-90" type="submit">
+         Search
+        </button>
+       </div>
+       <fieldset class="mt-3 flex flex-wrap items-center gap-2 text-sm">
+        <legend class="sr-only">
+         Search in
+        </legend>
+        <label class="cursor-pointer">
+         <input checked="" class="peer sr-only" name="in" type="radio" value="all"/>
+         <span class="inline-block rounded-full border border-ink-200 px-3.5 py-1.5 font-semibold text-ink-700 peer-checked:border-transparent peer-checked:bg-[var(--county-primary)] peer-checked:text-white peer-focus-visible:ring-2 peer-focus-visible:ring-[var(--county-primary)]">
+          All
+         </span>
+        </label>
+        <label class="cursor-pointer">
+         <input class="peer sr-only" name="in" type="radio" value="agendas"/>
+         <span class="inline-block rounded-full border border-ink-200 px-3.5 py-1.5 font-semibold text-ink-700 peer-checked:border-transparent peer-checked:bg-[var(--county-primary)] peer-checked:text-white peer-focus-visible:ring-2 peer-focus-visible:ring-[var(--county-primary)]">
+          Agendas
+         </span>
+        </label>
+        <label class="cursor-pointer">
+         <input class="peer sr-only" name="in" type="radio" value="services"/>
+         <span class="inline-block rounded-full border border-ink-200 px-3.5 py-1.5 font-semibold text-ink-700 peer-checked:border-transparent peer-checked:bg-[var(--county-primary)] peer-checked:text-white peer-focus-visible:ring-2 peer-focus-visible:ring-[var(--county-primary)]">
+          Services
+         </span>
+        </label>
+        <label class="cursor-pointer">
+         <input class="peer sr-only" name="in" type="radio" value="notices"/>
+         <span class="inline-block rounded-full border border-ink-200 px-3.5 py-1.5 font-semibold text-ink-700 peer-checked:border-transparent peer-checked:bg-[var(--county-primary)] peer-checked:text-white peer-focus-visible:ring-2 peer-focus-visible:ring-[var(--county-primary)]">
+          Notices
+         </span>
+        </label>
+        <label class="cursor-pointer">
+         <input class="peer sr-only" name="in" type="radio" value="news"/>
+         <span class="inline-block rounded-full border border-ink-200 px-3.5 py-1.5 font-semibold text-ink-700 peer-checked:border-transparent peer-checked:bg-[var(--county-primary)] peer-checked:text-white peer-focus-visible:ring-2 peer-focus-visible:ring-[var(--county-primary)]">
+          News
+         </span>
+        </label>
+       </fieldset>
+      </form>
+      <div class="mt-4 flex flex-wrap items-center gap-2 text-sm font-semibold">
+       <span class="text-white/80">
+        Popular:
+       </span>
+       <a class="rounded-full bg-white/15 px-3.5 py-1.5 text-white backdrop-blur hover:bg-white/25" href="/agendas?tab=upcoming">
+        Next meeting agenda
+       </a>
+       <a class="rounded-full bg-white/15 px-3.5 py-1.5 text-white backdrop-blur hover:bg-white/25" href="/elections">
+        Election results
+       </a>
+       <a class="rounded-full bg-white/15 px-3.5 py-1.5 text-white backdrop-blur hover:bg-white/25" href="/open-records">
+        Open records
+       </a>
+       <a class="rounded-full bg-white/15 px-3.5 py-1.5 text-white backdrop-blur hover:bg-white/25" href="/resources/employment-opportunities">
+        Jobs
+       </a>
+      </div>
+     </div>
     </div>
    </section>
    <section class="container mx-auto px-4 py-12">
@@ -347,50 +416,6 @@
      </a>
     </div>
     <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-     <li class="min-w-0">
-      <a class="block h-full rounded-2xl group focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--county-primary)] focus-visible:ring-offset-2" href="/events/HEX">
-       <div class="rounded-2xl border border-ink-200 bg-white text-ink-900 shadow-sm p-0 overflow-hidden h-full hover:-translate-y-0.5 hover:shadow-md transition flex flex-col hover:border-[var(--county-primary)]">
-        <div class="bg-gradient-to-br from-[var(--county-primary)] to-brand-900 text-white p-5 flex items-start justify-between gap-3 relative overflow-hidden">
-         <div class="relative leading-none">
-          <p class="text-3xl md:text-4xl font-extrabold">
-           21
-          </p>
-          <p class="text-xs font-bold tracking-widest mt-1 text-white/85">
-           NOV
-          </p>
-         </div>
-         <div class="relative flex flex-col items-end gap-1.5">
-          <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-widest bg-emerald-100 text-emerald-800">
-           community
-          </span>
-         </div>
-        </div>
-        <div class="p-5 flex-1 flex flex-col">
-         <h3 class="font-bold text-base text-ink-900 leading-tight">
-          Market Day at the Lake Returns for Fall Edition
-         </h3>
-         <div class="mt-3 space-y-1.5 text-xs text-ink-600">
-          <p class="flex items-center gap-1.5">
-           Saturday, November 21, 2026 · 5:00 PM
-          </p>
-          <p class="flex items-start gap-1.5">
-           <span>
-            Maverick County Lake
-           </span>
-          </p>
-         </div>
-         <p class="text-xs text-ink-600 mt-3 line-clamp-3 break-words [overflow-wrap:anywhere]">
-          Market Day at the Lake is back with its Fall Edition. Families and friends are invited to grab a bite and shop from local vendors while enjoying a fall evening by the lake and supporting small businesses.
-
-**When:** Saturday, November 21, 2026, 5 to 11 p.m.
-**Where:** Maverick County Lake
-
-[View the original post on Facebook](https://www.facebook.com/MaverickCountyTX/posts/pfbid0qWUAoBfR3fxAF8LyJvB28fAc9S8AG2EpGXa6NGD7RNvQ4k9XjbfjVry3Jc2PYZwMl)
-         </p>
-        </div>
-       </div>
-      </a>
-     </li>
      <li class="min-w-0">
       <a class="block h-full rounded-2xl group focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--county-primary)] focus-visible:ring-offset-2" href="/events/HEX">
        <div class="rounded-2xl border border-ink-200 bg-white text-ink-900 shadow-sm p-0 overflow-hidden h-full hover:-translate-y-0.5 hover:shadow-md transition flex flex-col hover:border-[var(--county-primary)]">
@@ -503,6 +528,46 @@ Family and friends are welcome.
         <div class="mt-3 space-y-1.5 text-xs text-ink-600">
          <p class="flex items-center gap-1.5">
           Thursday, November 26, 2026
+         </p>
+         <p class="flex items-start gap-1.5">
+          <span>
+           All county offices closed
+          </span>
+         </p>
+        </div>
+        <p class="text-xs text-ink-600 mt-3 line-clamp-3 break-words [overflow-wrap:anywhere]">
+         All Maverick County offices will be closed in observance of this federal holiday.
+        </p>
+       </div>
+      </div>
+     </li>
+     <li class="min-w-0">
+      <div class="rounded-2xl border border-ink-200 bg-white text-ink-900 shadow-sm p-0 overflow-hidden h-full hover:-translate-y-0.5 hover:shadow-md transition flex flex-col hover:border-[var(--county-primary)]">
+       <div class="bg-gradient-to-br from-rose-600 to-rose-800 text-white p-5 flex items-start justify-between gap-3 relative overflow-hidden">
+        <div class="relative leading-none">
+         <p class="text-3xl md:text-4xl font-extrabold">
+          27
+         </p>
+         <p class="text-xs font-bold tracking-widest mt-1 text-white/85">
+          NOV
+         </p>
+        </div>
+        <div class="relative flex flex-col items-end gap-1.5">
+         <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-widest bg-rose-100 text-rose-800">
+          holiday
+         </span>
+        </div>
+       </div>
+       <div class="p-5 flex-1 flex flex-col">
+        <p class="text-[10px] uppercase tracking-widest font-extrabold text-ink-500 mb-1">
+         Holiday
+        </p>
+        <h3 class="font-bold text-base text-ink-900 leading-tight">
+         Day After Thanksgiving
+        </h3>
+        <div class="mt-3 space-y-1.5 text-xs text-ink-600">
+         <p class="flex items-center gap-1.5">
+          Friday, November 27, 2026
          </p>
          <p class="flex items-start gap-1.5">
           <span>
@@ -1392,7 +1457,7 @@ Family and friends are welcome.
      <div class="rounded-2xl bg-gradient-to-br from-sky-600 via-sky-700 to-sky-900 text-white p-5 md:p-6 shadow-md hover:shadow-lg hover:-translate-y-0.5 transition flex items-center justify-between gap-4">
       <div class="flex items-center gap-4">
        <div class="text-5xl md:text-6xl font-extrabold leading-none">
-        68°
+        70°
         <span class="text-base font-bold opacity-80">
          F
         </span>
@@ -1629,6 +1694,29 @@ Family and friends are welcome.
     </div>
    </div>
   </footer>
+  <dialog aria-label="Search the county website" class="site-search" data-i18n='{"placeholder":"Search services, departments, notices or an agenda topic…","close":"Close","label":"Search the county website","suggestions":"Suggestions","recent":"Recent searches","best":"Best match","none":"Nothing found for those words. Try other words.","all":"See all results","searching":"Searching…","hint":"↑ ↓ to move · Enter to open · Esc to close","lang":"en"}' data-suggestions='["Next meeting agenda","Marriage license","Election results","Budget","Jobs","County judge"]' id="site-search">
+   <div class="ss-panel">
+    <form action="/search" class="ss-bar" method="get" role="search">
+     <label class="sr-only" for="ss-q">
+      Search the county website
+     </label>
+     <input aria-autocomplete="list" aria-controls="ss-results" aria-expanded="false" autocomplete="off" id="ss-q" name="q" placeholder="Search services, departments, notices or an agenda topic…" role="combobox" spellcheck="false" type="search"/>
+     <button aria-label="Close" class="ss-esc" data-ss-close="" type="button">
+      Esc
+     </button>
+    </form>
+    <div aria-label="Search the county website" class="ss-results" id="ss-results" role="listbox">
+    </div>
+    <div class="ss-foot">
+     <span>
+      ↑ ↓ to move · Enter to open · Esc to close
+     </span>
+     <a data-ss-all="" href="/search">
+      See all results
+     </a>
+    </div>
+   </div>
+  </dialog>
   <div class="a11y-fab" id="a11y-fab">
    <button aria-controls="a11y-panel" aria-expanded="false" aria-label="Accessibility options" id="a11y-fab-btn" type="button">
    </button>

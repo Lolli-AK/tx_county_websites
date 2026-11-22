@@ -6,7 +6,7 @@ Loading
 Skip to main content
 Maverick County, TX · Official Website
 Maverick County, TX
-68°F
+70°F
 EN
 ES
 Government
@@ -44,19 +44,22 @@ View
 Official site · County
 Welcome to Maverick County
 Official website of Maverick County, Texas
+Search the whole site and the agendas
+Search
+Search in
+All
+Agendas
+Services
+Notices
+News
+Popular:
+Next meeting agenda
+Election results
+Open records
+Jobs
 Events
 Upcoming events
 View all
-21
-NOV
-community
-Market Day at the Lake Returns for Fall Edition
-Saturday, November 21, 2026 · 5:00 PM
-Maverick County Lake
-Market Day at the Lake is back with its Fall Edition. Families and friends are invited to grab a bite and shop from local vendors while enjoying a fall evening by the lake and supporting small businesses.
-**When:** Saturday, November 21, 2026, 5 to 11 p.m.
-**Where:** Maverick County Lake
-[View the original post on Facebook](https://www.facebook.com/MaverickCountyTX/posts/pfbid0qWUAoBfR3fxAF8LyJvB28fAc9S8AG2EpGXa6NGD7RNvQ4k9XjbfjVry3Jc2PYZwMl)
 22
 NOV
 community
@@ -81,6 +84,14 @@ holiday
 Holiday
 Thanksgiving Day
 Thursday, November 26, 2026
+All county offices closed
+All Maverick County offices will be closed in observance of this federal holiday.
+27
+NOV
+holiday
+Holiday
+Day After Thanksgiving
+Friday, November 27, 2026
 All county offices closed
 All Maverick County offices will be closed in observance of this federal holiday.
 Quick access
@@ -207,7 +218,7 @@ Emergency Operations Center
 Sign Up for Emergency Alerts
 Get urgent Maverick County notifications by text, call or email: severe weather, evacuations, road closures and emergencies.
 Sign Up
-68°
+70°
 F
 Weather · Eagle Pass
 Mostly Cloudy
@@ -247,6 +258,10 @@ ADA Title II
 Bilingual ES/EN
 Powered by
 Now Group Digital AI
+Search the county website
+Esc
+↑ ↓ to move · Enter to open · Esc to close
+See all results
 Accessibility
 Settings for vision and motion
 Text size

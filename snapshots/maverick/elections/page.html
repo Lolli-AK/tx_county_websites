@@ -80,9 +80,9 @@
       Maverick County, TX
      </span>
      <div class="flex items-center gap-2">
-      <a aria-label="Current weather: 68 degrees Fahrenheit" class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-white/10 hover:bg-white/20 ring-1 ring-white/20 text-white font-bold text-[11px] transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-300" href="/weather">
+      <a aria-label="Current weather: 70 degrees Fahrenheit" class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-white/10 hover:bg-white/20 ring-1 ring-white/20 text-white font-bold text-[11px] transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-300" href="/weather">
        <span>
-        68°F
+        70°F
        </span>
       </a>
       <div aria-label="Language selector" class="lang-pill" role="group">
@@ -162,6 +162,8 @@
      </ul>
     </nav>
     <div class="flex items-center gap-2">
+     <a aria-label="Search the site" class="inline-grid place-items-center w-10 h-10 rounded-lg bg-white/10 hover:bg-white/20 ring-1 ring-white/20 text-white transition" data-open-search="" href="/search" title="Search">
+     </a>
      <a class="hidden md:inline-flex items-center gap-2 text-sm font-semibold text-white/85 hover:text-white transition" href="/contact">
       Contact
      </a>
@@ -2948,6 +2950,29 @@
     </div>
    </div>
   </footer>
+  <dialog aria-label="Search the county website" class="site-search" data-i18n='{"placeholder":"Search services, departments, notices or an agenda topic…","close":"Close","label":"Search the county website","suggestions":"Suggestions","recent":"Recent searches","best":"Best match","none":"Nothing found for those words. Try other words.","all":"See all results","searching":"Searching…","hint":"↑ ↓ to move · Enter to open · Esc to close","lang":"en"}' data-suggestions='["Next meeting agenda","Marriage license","Election results","Budget","Jobs","County judge"]' id="site-search">
+   <div class="ss-panel">
+    <form action="/search" class="ss-bar" method="get" role="search">
+     <label class="sr-only" for="ss-q">
+      Search the county website
+     </label>
+     <input aria-autocomplete="list" aria-controls="ss-results" aria-expanded="false" autocomplete="off" id="ss-q" name="q" placeholder="Search services, departments, notices or an agenda topic…" role="combobox" spellcheck="false" type="search"/>
+     <button aria-label="Close" class="ss-esc" data-ss-close="" type="button">
+      Esc
+     </button>
+    </form>
+    <div aria-label="Search the county website" class="ss-results" id="ss-results" role="listbox">
+    </div>
+    <div class="ss-foot">
+     <span>
+      ↑ ↓ to move · Enter to open · Esc to close
+     </span>
+     <a data-ss-all="" href="/search">
+      See all results
+     </a>
+    </div>
+   </div>
+  </dialog>
   <div class="a11y-fab" id="a11y-fab">
    <button aria-controls="a11y-panel" aria-expanded="false" aria-label="Accessibility options" id="a11y-fab-btn" type="button">
    </button>
