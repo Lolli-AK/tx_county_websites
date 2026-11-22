@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.beecounty.gov/162/Elections-Administration"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-21T15:42:16Z",
-  "html_sha256": "d8da2a6eb858ace64c1f0572379e55fc40f482eb4825be6e2293bd835639433c",
-  "text_sha256": "860206e39c029776025dacd0b17aa906938037409af5bcc180d5e04c4684fba9",
-  "byte_size": 60715,
-  "title": "Elections Administration | Bee County, TX",
+  "fetched_at": "2026-11-22T15:44:28Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "uocava_form"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }

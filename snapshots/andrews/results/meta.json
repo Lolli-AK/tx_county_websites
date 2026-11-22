@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.andrews.tx.us/193/Election-Results"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
+  "http_status": null,
+  "content_type": null,
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-21T15:42:16Z",
-  "html_sha256": "40907f16b870ee446394dea53f43ab0fd957e0422072cca639ada1f89bb582eb",
-  "text_sha256": "981157c8f44f599e4e0d14ebdc64225166db7db91ff9f8b7a1d80df1bc98af95",
-  "byte_size": 46181,
-  "title": "Election Results | Andrews County, TX",
+  "fetched_at": "2026-11-22T15:44:28Z",
+  "html_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "byte_size": 0,
+  "title": null,
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "plain_fetch_error: ConnectTimeout: timed out"
 }
