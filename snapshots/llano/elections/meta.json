@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-22T15:44:28Z",
-  "html_sha256": "e9f8288903ff08b2f3df24b5308298a4317fb50c0c3daf46ad8c56ceaa75adf6",
-  "text_sha256": "693d8fde194f9fa46ee90d48a7e3b96265b751a02a3b3210ac26657d27fb14fc",
-  "byte_size": 176813,
+  "fetched_at": "2026-11-23T19:34:55Z",
+  "html_sha256": "0a4ea2d965b7a37051f14cc7377cbfae4a4de96b54bcca002b869e8cb3bb82d5",
+  "text_sha256": "dc90906ba7a3729aaf83a63c6451940a5c796686fb7cadeb328c2b01fe0796e9",
+  "byte_size": 187296,
   "title": "Elections | Llano County Texas",
   "noncitizen_voting": {
     "present": false,
@@ -29,7 +29,7 @@
       "military_overseas_voter",
       "citizen_abroad"
     ],
-    "count": 30
+    "count": 32
   },
   "error": null
 }

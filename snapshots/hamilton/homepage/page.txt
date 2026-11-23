@@ -22,10 +22,10 @@ Notices
 Quick Link
 Quick Link Example
 Link
-Longer Quick Link Goes Here
+Land Records
 Longer Quick Link
 Example Quick Link
-Example Quick Link
+Now Hiring
 Example Quick Link
 Example Quick Link
 /QuickLinks.aspx
@@ -257,7 +257,7 @@ Quick Links
 Quick Link
 Quick Link Example
 Link
-Longer Quick Link Goes Here
+Land Records
 Longer Quick Link
 /QuickLinks.aspx
 Site Links

@@ -117,7 +117,7 @@ Toggle main menu visibility
 Menu
 Llano County Candidate Information
 Llano County Campaign Finance Filings
-Elections Archive
+ELECTIONS ARCHIVE
 Secretary of State
 Federal Voting Assistance Program
 votetexas.gov
@@ -153,63 +153,21 @@ Solicitud de Bolet
 a por Correo
 -
 Español
-GENERAL ELECTION INFORMATION
-FOR MORE SPECIFIC ELECTION INFORMATION SCROLL DOWN TO THE SPECIFIC ELECTION
 Track Your Ballot:
 Please note, these links will take you to state websites that allow you to track the status of your Ballot by Mail or FPCA Ballot as well as your FPCA and Application for Ballot by Mail.
 Rastree su boleta electoral:
 Tenga en cuenta que estos enlaces lo llevarán a sitios web estatales que le permiten rastrear el estado de su boleta electoral por correo o boleta de la FPCA, así como su FPCA y la solicitud de boleta por correo.
 Ballot By Mail Tracking
 FPCA Tracking
-VOTERS WITH DISABILITIES
-Pursuant to Section 63.0015, Election Code, an election officer shall give voting order priority to individuals with a mobility problem that substantially impairs the person's ability to move around. A person assisting an individual with a mobility problem may also, at the individual's request, be given voting order priority. Disabilities and conditions that may qualify you for voting order priority include paralysis, lung disease, the use of portable oxygen, cardiac deficiency, severe limitation in the ability to walk due to arthritic, neurological, or orthopedic condition, wheelchair confinement, arthritis, foot disorder, the inability to walk 200 feet without stopping to rest, or use of a brace, cane, crutch, or other assistive device.
-Para ver esta información en español, haga clic a continuación:
-NOTICE OF VOTING ORDER PRIORITY FOR VOTERS WITH CERTAIN DISABILITIES/ AVISO de PRIORIDAD de ORDEN de VOTACIÓN PARA VOTANTES CON CIERTAS DISCAPACIDADES
-CURBSIDE VOTING
-You can also vote curbside by calling 325-247-5425 (press 1 to speak with a representative). We will need to know the polling location you are at, as well as the color and make of your vehicle. We will then inform the election personnel at your polling location and they will be with you promptly.
 VOTER PARTICIPATION
 Voter Participation is uploaded to the Secretary of States website nightly each day of the election. If you would like to review the participation you can download the files directly at the web address above.
-Daily Vote History
-10/19/2026
-10/20/2026
-10/21/2026
-10/22/2026
-10/23/2026
-10/24/2026
-10/25/2026
-10/26/2026
-10/27/2026
-10/28/2026
-10/29/2026
-10/30/2026
-11/3/2026
-November 3, 2026 General Election
+May 1, 2027 Uniform Election
 ▲
-FINAL OFFICIAL RESULTS AS CANVASSED
-Early Voting/ Absentee/ Election Day Unofficial Results
-This section contains information regarding the November 3, 2026 General Election.
-We will be participating in the County Wide Polling Place Program on Election Day for the November General Election
-PRINTABLE
-SAMPLE BALLOT
--
-This ballot shows all races that
-could
-be voted on in the county. At the local level, only voters who are in a specific precinct will vote on the races within that precinct.
-Write in Candidate List
-/
-Escribir en la lista de candidatos
-- This list will be found in the voting booth when you arrive at the polls to vote.
-Papeleta de muestra en español
-Unofficial Reconciliation
-Official Reconciliation
-Certification of 2nd and 3rd Logics and Accuracy Tests
-Post Election Hand Count Results
-Canvass Printout
+This section contains information regarding the May 1, 2027 Uniform Election.
+We will be participating in the County Wide Polling Place Program on Election Day
 Last Day to Register to Vote for this election is:
-Monday, October 5, 2026
-(El último día para registrarse para votar en estas elecciones es el jueves 5 de
-octubre
-de 2026)
+Thursday, April 1, 2027
+(El último día para registrarse para votar en estas elecciones es el Jueves, 1 de abril de 2027)
 Are you unsure if you are registered to vote?
 Click here to find out!
 Voter Registration
@@ -219,32 +177,23 @@ All polling locations are ADA accessible and have ADA compliant equipment for vo
 If you need assistance you may bring an assistant of your choice OR you can request assistance from an election worker at check-in. All assistants could be required to complete an oath at check-in, depending on the sort of assistance required.
 All polling locations have Curbside voting available to voters who are physically unable to enter the polling place without personal assistance or likelihood of injuring the voter's health.
 EARLY VOTING HOURS ( ALL LOCATIONS) | Horario de Votación Temprana (todas las ubicaciones abajo)
-Early voting will begin on Monday, October 19, 2026 through Friday, October 30, 2026
-(La votación anticipada comenzará del lunes 19 de octubre de 2026 al viernes 30 de octubre de 2026.
+Early voting will begin on Monday, April 19, 2027- Tuesday, April 27, 2027
+(La votación anticipada comenzará del Lunes, 19 de abril de 2027 al Martes, 27 de abril de 2027.
 )
 Early Voting Hours for all locations:
-Monday, October 19- Friday, October 23, 2026
-:
-8:00 a.m. to 5:00 p.m.
-Saturday, October 24, 2026
-:
-7:00 a.m. to 7:00 p.m
-.
-Sunday, October 25, 2026
-:
-10:00 a.m. to 4:00 p.m.
-Monday, October 26, 2026 to Friday, October 30, 2026
-:
-7:00 a.m. to 7:00 p.m.
-ELECTION DAY INFORMATION | Sitios de votación el Día de Elección
-Tuesday, November 3, 2026
-(Martes, 3 de noviembre de 2026)
+Hours Coming Soon
+ELECTION DAY | DÍA DE ELECCIÓN
+Saturday, May 1, 2027
+(Sábado, 1 de mayo de 2027)
 Polls will be open 7:00am until 7:00 pm at each location
 (Las urnas estarán abiertas de 7:00 a.m. a 7:00 p.m. en cada lugar)
-IMPORTANT DATES | FECHAS IMPORTANTES
+GIS MAP OF POLLING LOCATIONS
+-
+If you are unsure where your closest polling location is, or which precinct you live in, you can click the GIS Map link here and enter your address into the search to find information specific to your residence address.
+IMPORTANT DATES |FECHAS IMPORTANTES
 First day to apply for a Ballot by Mail-
-Thursday, January 1, 2026
-(Primer día para solicitar una boleta por correo: Jueves, 1 de enero de 2026)
+Thursday, January 1, 2027
+(Primer día para solicitar una boleta por correo: Jueves, 1 de enero de 2027)
 Application for Ballot by Mail
 shall be mailed to:
 (
@@ -268,36 +217,20 @@ Español
 Last day to
 apply for a Ballot by Mail
 –
-Friday, October 23, 2026
+Tuesday, April 20, 2027
 (must be received by this day, NOT postmarked)
 Las solicitudes para boletas que se votarán adelantada por correo deberán recibirse no más tardar de las horas de negocio el
 Viernes, 23 de octubre de 2026)
 Last day to
 apply for FPCA
 –
-Friday, October 23, 2026
+Tuesday, April 20, 2027
 (must be received by this day, NOT postmarked)
 (La Tarjeta Federal Postal de Solicitud deberán recibirse no más tardar de las horas de negocio el
 Viernes, 23 de octubre de 2026
 )
-ORDERS AND NOTICES | PEDIDOS Y AVISOS
-Notice of Election Board Meeting
-Order of Election- Llano County
-Notice of Election- Llano County
-Order of Election- Deerhaven Water District
-Notice of Election Worker Training
-Notice of Logics and Accuracy Test
-Certification of Logics and Accuracy Tests
-Central Counting Station Plan
-Order for Additional EV on Saturday and Sunday
-UPDATED-
-Notice of Designation of EVBB Members for Post Election Hand Count Audit & Dates and Times
-UPDATED-
-Notice of EVBB and Delivery of Absentee Ballots
-Ordinance Cancelling Election
-Notice of Risk Limiting Audit
-Notice of Canvass
-updated-11/5/2026
+ORDERS AND NOTICES | PEDIDOS Y AVISOS
+Coming Soon
 Press the enter key or spacebar to expand or collapse the accordion
 LLANO COUNTY POLLING LOCATIONS
 ▲
@@ -347,6 +280,114 @@ Google Map
 GIS MAP OF POLLING LOCATIONS
 If you are unsure where your closest polling location is, or which precinct you live in, you can click the GIS Map link above and enter your address into the search to find information specific to your residence address.
 Questions? Please call the Llano County Elections Office: (325) 247-5425
+Press the enter key or spacebar to expand or collapse the accordion
+IMPORTANT ELECTION DATES
+▲
+Upcoming Elections
+January 1, 2027- First day to submit Annual Applications for Ballot by Mail | 1 de enero de 2027: primer día para presentar solicitudes anuales para votar por correo
+Application for Ballot by Mail
+- English
+Solicitud de Bolet
+a por Correo
+-
+Español
+May 1, 2027- May General Election Date
+Monday, December 14, 2026-
+Deadline to post notice of candidate filing deadline for local political subdivisions that have a first day to file for their candidates
+Tuesday, January 12, 2027-
+Last Day for Candidates Planning to File for a Place on the General Election Ballot (Local Non-County Political Subdivisions Only) to Register to Vote or Update Voter Registration
+Wednesday, January 13, 2027-
+First Day to File for Place on General Election Ballot (for local political subdivisions ONLY)
+Friday, February 12, 2027-
+Deadline to File for Place on General Election Ballot (for local political subdivisions ONLY) at 5:00 p.m.
+Last Day to Order General Election or Election on a Measure
+Thursday, April 1, 2027-
+Last Day to Register to Vote for the May 1, 2027 General Election
+Monday, April 19, 2027-
+Early Voting Begins for the May 1, 2027 General Election
+Tuesday, April 20, 2027-
+Last Day to Apply for Ballot by Mail (Must be Received, not Postmarked)
+Tuesday, April 27, 2027-
+Last day of Early Voting
+Saturday, May 1, 2027-
+Last day to received ballot by mail (election day) at 7:00 p.m. if carrier envelope is not postmarked,
+OR
+Monday, May 3, 2027-
+(next business day after Election Day) at 5:00 p.m.
+if
+carrier envelope is postmarked by 7:00 p.m. at the location of the election on Election Day (unless overseas or military voter deadlines apply)
+1 de mayo de 2027: Fecha de la elección general de mayo
+Lunes, 14 de diciembre de 2026:
+Fecha límite para publicar el aviso sobre el plazo de presentación de candidaturas para aquellas subdivisiones políticas locales que tengan una fecha de inicio para la presentación de candidaturas
+Martes, 12 de enero de 2027:
+Último día para que los candidatos que planean postularse para un lugar en la boleta de la elección general (solo en subdivisiones políticas locales que no sean condados) se registren para votar o actualicen su registro electoral
+Miércoles, 13 de enero de 2027:
+Primer día para presentar la candidatura para un lugar en la boleta de la elección general (solo para subdivisiones políticas locales)
+Viernes, 12 de febrero de 2027:
+Fecha límite para presentar la candidatura para un lugar en la boleta de la elección general (solo para subdivisiones políticas locales), hasta las 5:00 p. m.
+Último día para convocar una elección general o una elección sobre una medida específica
+Jueves, 1 de abril de 2027:
+Último día para registrarse para votar en la elección general del 1 de mayo de 2027
+Lunes, 19 de abril de 2027:
+Comienza la votación anticipada para la elección general del 1 de mayo de 2027
+Martes, 20 de abril de 2027:
+Último día para solicitar una boleta por correo (debe ser recibida, no basta con que tenga el sello postal)
+Martes, 27 de abril de 2027:
+Último día de la votación anticipada
+Sábado, 1 de mayo de 2027:
+Último día para recibir la boleta por correo (día de la elección) hasta las 7:00 p. m., si el sobre de envío no tiene sello postal;
+O
+Lunes, 3 de mayo de 2027:
+(siguiente día hábil después del día de la elección) hasta las 5:00 p. m., si el sobre de envío tiene un sello postal con fecha anterior a las 7:00 p. m. del día de la elección (a menos que se apliquen plazos específicos para votantes en el extranjero o militares)
+November 2, 2027- Uniform Election Date
+Thursday, June 17, 2027-
+Deadline to post notice of candidate filing deadline for local political subdivisions that have a first day to file for their candidates
+Friday, July 16, 2027-
+Last Day for Candidates Planning to File for a Place on the General Election Ballot (Local Non-County Political Subdivisions Only) to Register to Vote or Update Voter Registration
+Saturday, July 17, 2027 (“first day” does not move; office hours not required)-
+First Day to File for Place on General Election Ballot (for local political subdivisions ONLY)
+Monday, August 16, 2027-
+Deadline to File for Place on General Election Ballot (for local political subdivisions ONLY) at 5:00 p.m.
+Last Day to Order General Election or Election on a Measure
+Monday, October 4, 2027-
+Last Day to Register to Vote for the November 2, 2027 General Election
+Thursday October 21, 2027 (first day under SB 2753)-
+Early Voting Begins for the November 2, 2027 Election
+Friday, October 22, 2027-
+Last Day to Apply for Ballot by Mail (Must be Received, not Postmarked)
+Monday November 1, 2027 (last day under SB 2753)-
+Last day of Early Voting
+Tuesday, November 2, 2027, 2027-
+Last day to received ballot by mail (election day) at 7:00 p.m. if carrier envelope is not postmarked,
+OR
+Wednesday, November 3, 2027-
+(next business day after Election Day) at 5:00 p.m.
+if
+carrier envelope is postmarked by 7:00 p.m. at the location of the election on Election Day (unless overseas or military voter deadlines apply)
+2 de noviembre de 2027 - Fecha de elecciones generales
+Jueves, 17 de junio de 2027:
+Fecha límite para publicar el aviso de la fecha límite de inscripción de candidatos para las subdivisiones políticas locales que tengan un primer día para la inscripción de sus candidatos
+Viernes, 16 de julio de 2027:
+Último día para que los candidatos que planean inscribirse para aparecer en la boleta electoral general (solo para subdivisiones políticas locales no condales) se registren para votar o actualicen su registro de votante
+Sábado, 17 de julio de 2027:
+(el "primer día" no cambia; no se requiere horario de oficina) - Primer día para inscribirse para aparecer en la boleta electoral general (solo para subdivisiones políticas locales)
+Lunes, 16 de agosto de 2027 -
+Fecha límite para presentar la candidatura para un lugar en la boleta de la elección general (solo para subdivisiones políticas locales), hasta las 5:00 p. m.
+Último día para solicitar elecciones generales o sobre una medida electoral
+Lunes, 4 de octubre de 2027:
+Último día para registrarse para votar en las elecciones generales del
+2 de noviembre de 2027
+Jueves, 21 de octubre de 2027:
+(primer día según la Ley SB 2753): Comienza la votación anticipada para las elecciones del 2 de noviembre de 2027
+Viernes, 22 de octubre de 2027:
+Último día para solicitar la boleta por correo (debe recibirse, no solo tener matasellos)
+Lunes, 1 de noviembre de 2027:
+(último día según la Ley SB 2753): Último día de votación anticipada
+Martes, 2 de noviembre de 2027:
+Último día para recibir la boleta por correo (día de las elecciones) a las 7:00 p. m. Si el sobre no tiene matasellos,
+O
+Miércoles 3 de noviembre de 2027:
+(siguiente día hábil después del día de las elecciones) a las 17:00 h, si el sobre tiene matasellos antes de las 19:00 h en el lugar de las elecciones (a menos que se apliquen plazos para votantes en el extranjero o militares).
 Press the enter key or spacebar to expand or collapse the accordion
 County Wide Polling Place Program Notice of Special Meeting
 ▲
@@ -457,6 +498,16 @@ Confidentiality Guide for Voters
 Confidentiality Form- Victim
 Confidentiality Form- Peace Officer
 Confidentiality Form- Judicial and Peace Officer spouse
+Press the enter key or spacebar to expand or collapse the accordion
+VOTERS WITH DISABILITIES
+▲
+VOTERS WITH DISABILITIES
+Pursuant to Section 63.0015, Election Code, an election officer shall give voting order priority to individuals with a mobility problem that substantially impairs the person's ability to move around. A person assisting an individual with a mobility problem may also, at the individual's request, be given voting order priority. Disabilities and conditions that may qualify you for voting order priority include paralysis, lung disease, the use of portable oxygen, cardiac deficiency, severe limitation in the ability to walk due to arthritic, neurological, or orthopedic condition, wheelchair confinement, arthritis, foot disorder, the inability to walk 200 feet without stopping to rest, or use of a brace, cane, crutch, or other assistive device.
+Para ver esta información en español, haga clic a continuación:
+NOTICE OF VOTING ORDER PRIORITY FOR VOTERS WITH CERTAIN DISABILITIES / AVISO de PRIORIDAD de ORDEN de VOTACIÓN PARA VOTANTES CON CIERTAS DISCAPACIDADES
+(opens PDF document)
+CURBSIDE VOTING
+You can also vote curbside by calling 325-247-5425 (press 1 to speak with a representative). We will need to know the polling location you are at, as well as the color and make of your vehicle. We will then inform the election personnel at your polling location and they will be with you promptly.
 Press the enter key or spacebar to expand or collapse the accordion
 Vote By Mail (ABBM)/ Military & Overseas Voters (FPCA)
 ▲

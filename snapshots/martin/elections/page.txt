@@ -1,5 +1,4 @@
 FAQs - CivicPlus.CMS.FAQ
-Loading
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
@@ -8,6 +7,22 @@ About Us
 Departments
 Services
 How Do I...
+Facebook
+Twitter
+Pinterest
+Delicious
+Blogger
+LinkedIn
+Home
+My Account
+Printer Friendly
+Email Page
+Contact Us
+RSS
+Site Map
+Translate Page
+Notifications
+Documents
 Search
 Home
 FAQ
@@ -80,24 +95,8 @@ Permits
 Copyright
 Powered by CivicPlus®
 /QuickLinks.aspx
-Enable Google Translate
 Loading
 Loading
 Do Not Show Again
 Close
-Facebook
-Twitter
-Pinterest
-Delicious
-Blogger
-LinkedIn
-Home
-My Account
-Printer Friendly
-Email Page
-Contact Us
-RSS
-Site Map
-Translate Page
-Notifications
-Documents
+[]
