@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=UTF-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-23T19:34:55Z",
-  "html_sha256": "390d0921b33f880cf76e1844b93aa86be95f4237e24142745e0c0288cb0ed164",
+  "fetched_at": "2026-11-24T19:09:26Z",
+  "html_sha256": "d298a45ff400a5a1299b8a9e8bc07099a8269ee47f9af79dfc5d9dd0ec596bcb",
   "text_sha256": "dace6e2711b8df3b1b588a8a0763b30d7651232a7e184589667ffb9d6caf2321",
-  "byte_size": 167370,
+  "byte_size": 167457,
   "title": "Welcome to Fort Bend County | Fort Bend County",
   "noncitizen_voting": {
     "present": false,
