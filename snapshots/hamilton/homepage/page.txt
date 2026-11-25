@@ -19,14 +19,14 @@ Payments
 Burn Status
 Public
 Notices
-Quick Link
+Justice of the Peace
 Notice of Foreclosure Sales
-Link
+Sheriff
 Land Records
-Longer Quick Link
+County Clerk
 Example Quick Link
 Now Hiring
-Example Quick Link
+District Clerk
 Example Quick Link
 /QuickLinks.aspx
 Calendar
@@ -230,23 +230,7 @@ View All Events
 /Calendar.aspx
 News
 See Whats Happening in Hamilton County
-Stay connected!
-Subscribe to Notify Me to receive updates and information about community news and happenings.
-Read on...
-Create an Account
-With the MyAccount feature, you can customize your viewing experience, sign up for notifications, and engage in information you care about.
-Read on...
-Stay connected!
-Subscribe to Notify Me to receive updates and information about community news and happenings.
-Read on...
-Keep in Touch
-Stay in touch with us by following us on Twitter, becoming our friend on Facebook, or subscribing to one of our RSS Feeds.
-Stay connected!
-Subscribe to Notify Me to receive updates and information about community news and happenings.
-Read on...
-Website Personalization Now Available!
-With the launch of the new MyAccount feature, visitors to our website can now enhance their viewing experience!
-Read on...
+[rotating image slideshow removed for determinism]
 View All News
 /CivicAlerts.aspx
 Contact Us
@@ -254,11 +238,11 @@ Hamilton County Courthouse
 102 N Rice Street
 Hamilton, TX 76531
 Quick Links
-Quick Link
+Justice of the Peace
 Notice of Foreclosure Sales
-Link
+Sheriff
 Land Records
-Longer Quick Link
+County Clerk
 /QuickLinks.aspx
 Site Links
 Home

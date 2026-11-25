@@ -1,10 +1,8 @@
 McLennan County, TX | Official Website
-This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled "Explore your accessibility options".
 Skip to Main Content
 Create a Website Account
 - Manage notification subscriptions, save form progress and more.
 Website Sign In
-Accessible Menu
 Government
 County Services
 Safety & Justice
@@ -85,11 +83,17 @@ Ben Perry
 Precinct 4 Commissioner
 View Commissioners Court Members
 Emergency Alerts
-Freeze Watch issued November 24 at 11:03AM CST until November 26 at 9:00AM CST by NWS Fort Worth TX
-* WHAT...Sub-freezing temperatures as low as 30 possible.
+Freeze Warning issued November 25 at 12:27AM CST until November 26 at 9:00AM CST by NWS Fort Worth TX
+* WHAT...Sub-freezing temperatures as low as 31 expected.
 * WHERE...Bell, Falls, Freestone, Limestone, McLennan, Anderson,
 Leon, Milam, and Robertson Counties.
-* WHEN...From 11 PM Wednesday to 9 AM CST Thursday.
+* WHEN...From 11 PM this evening to 9 AM CST Thursday.
+* IMPACTS...Frost and freeze...
+Freeze Warning issued November 25 at 12:27AM CST until November 26 at 9:00AM CST by NWS Fort Worth TX
+* WHAT...Sub-freezing temperatures as low as 31 expected.
+* WHERE...Bell, Falls, Freestone, Limestone, McLennan, Anderson,
+Leon, Milam, and Robertson Counties.
+* WHEN...From 11 PM this evening to 9 AM CST Thursday.
 * IMPACTS...Frost and freeze...
 Freeze Watch issued November 24 at 11:03AM CST until November 26 at 9:00AM CST by NWS Fort Worth TX
 * WHAT...Sub-freezing temperatures as low as 30 possible.
@@ -97,40 +101,26 @@ Freeze Watch issued November 24 at 11:03AM CST until November 26 at 9:00AM CST b
 Leon, Milam, and Robertson Counties.
 * WHEN...From 11 PM Wednesday to 9 AM CST Thursday.
 * IMPACTS...Frost and freeze...
-Flash Flood Warning issued October 3 at 1:20PM CDT until October 3 at 4:15PM CDT by NWS Fort Worth TX
-FFWFWD
-The National Weather Service in Fort Worth has issued a
-* Flash Flood Warning for...
-North Central Bell County in central Texas...
-Southeastern Coryell County in central Texas...
-Southwestern McLennan County in central Texas...
-* Until 415...
 View All
-Emergency Alerts
 /Calendar.aspx
 News & Events
 Keep up to date with upcoming events and meetings
 Notice of Adopted 2026 Tax Rate (PDF)
 Road Closures in McLennan County
 Read on...
-about
 County Notices and Public Service Announcements
 View County Notices and Public Service Announcements
 Read More
-about
 Covid-19 Resources
 View Related Information
 Create an Account
 With the MyAccount feature, you can customize your viewing experience, sign up for notifications, and engage in information you care about.
 Read More
-about
 McLennan County Five Year Tax History
 View Tax History
-about
 View All News
 /CivicAlerts.aspx
 November 2026
-Calendar
 Sun
 Mon
 Tue
@@ -179,16 +169,6 @@ Thanksgiving - County Offices Closed
 Read More
 View All Events
 /Calendar.aspx
-McLennan County
-Video Tour
-Tour Chapters ▼
-Welcome
-Economic Development
-Recruitment
-Quality of Life
-Entertainment & Tourism
-Education
-Community Organizations
 Visit the McLennan County Historical Commission's Website
 McLennan County Spotlight Video
 Captions for the spotlight video are viewable within the full screen video player.
@@ -201,7 +181,6 @@ Waco, TX 76701
 Department Contacts
 Phone:
 254-757-5000
-Phone Number
 Helpful Links
 Bond Office Questions
 County Budget Information
@@ -224,4 +203,3 @@ Loading
 Do Not Show Again
 Close
 []
-Explore your accessibility options

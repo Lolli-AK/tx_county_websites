@@ -105,7 +105,7 @@ Precincts 2 and 6-Quitaque Hope Center,
 Hours: 7:00 AM-7:00 PM
 Nov. 3, 2026 Official Results
 Nov. 3, 2026 Official Results By Precinct
-Nov. 3, 2026 Preliminary Reconciliation Form
+Nov. 3, 2026 Election Reconciliation-Official Totals
 Notice of Risk Limiting Audit
 Notice of Post-election Hand Count Audit
 Summary and Certification of Post-Election Hand Count Audit Results
@@ -115,6 +115,10 @@ Post-Election Hand Count Tally Sheets
 ▲
 November 3, 2026 General Election
 ▲
+Certification of Public Logic and Accuracy Test and First Test of Automatic Tabulating Equipment
+Certification of Logic and Accuracy Test of Electronic Pollbook Equipment
+Certification of Second Test of Automatic Tabulating Equipment Used At The Central Counting Station
+Certification of Third Test of Automatic Tabulating Equipment Used At The Central Counting Station
 Notice of Training
 Notice of Election
 Notice

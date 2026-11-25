@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-24T19:09:26Z",
-  "html_sha256": "3be01abe5700f1833c9bdcf0f7996f8a01d7508ae828055d1f73bf7ac88d8232",
+  "fetched_at": "2026-11-25T18:14:42Z",
+  "html_sha256": "9e817a7ee479143b67b8e6b38ec028c3fb3593559c328a389cbed83f9b7b3f06",
   "text_sha256": "7f2134588cc441465b0d72b738381e1ee66c8590d3331f350d9318c6f9e38972",
-  "byte_size": 56230,
+  "byte_size": 56099,
   "title": "Polk County, TX | Official Website",
   "noncitizen_voting": {
     "present": false,
