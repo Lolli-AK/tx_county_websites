@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-25T18:14:42Z",
-  "html_sha256": "588dd980c29eb30b79f770411e1d1854b388ebdcbad9f6bc61e52b6d4948c43f",
+  "fetched_at": "2026-11-26T17:56:07Z",
+  "html_sha256": "a31ca8f3e71c97fa791752e5ae61dadffaddd6afc55888f1c97a9af2f57d1f72",
   "text_sha256": "887f65808ee41c69177a00f4e771369f428f3762e719f7697eb3398341dcc40b",
-  "byte_size": 43965,
+  "byte_size": 44077,
   "title": "Home | Hardin County, Texas",
   "noncitizen_voting": {
     "present": false,
