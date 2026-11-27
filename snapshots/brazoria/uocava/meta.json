@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": true,
-  "fetched_at": "2026-11-26T17:56:07Z",
-  "html_sha256": "b90c7e36bdf2114ac03a4c5c3f619baac5f9881d6ba815f978002a715cff1078",
+  "fetched_at": "2026-11-27T17:41:45Z",
+  "html_sha256": "81d48fdb5c0b635f49eaf15418182ab6278ba39aac51864e5a4fcb455ae71078",
   "text_sha256": "abcc027728836336b22d1da985fef1a32e68bc228116c45dbf80cfde23d423db",
-  "byte_size": 57627,
+  "byte_size": 57959,
   "title": "Military and Overseas Voters | Brazoria County Clerk",
   "noncitizen_voting": {
     "present": false,

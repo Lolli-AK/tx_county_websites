@@ -10,10 +10,10 @@
   "content_type": "text/html; charset=utf-8",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-26T17:56:07Z",
-  "html_sha256": "b317d458be7ce6773a4ae13e2bbdbdcd016087a6b467d9202f57eeb134b2c7fa",
+  "fetched_at": "2026-11-27T17:41:45Z",
+  "html_sha256": "10b018a9f3b001f6e378a736fd92bf6de7be22edd63d0422dddfb8749a2dfc5a",
   "text_sha256": "235e30ee004dbd129c0ef6df7bf6ee5df7b34e71a94d2ae7c8c51400879ddcb9",
-  "byte_size": 62939,
+  "byte_size": 63150,
   "title": "Voter Registration | Reeves County, TX",
   "noncitizen_voting": {
     "present": false,

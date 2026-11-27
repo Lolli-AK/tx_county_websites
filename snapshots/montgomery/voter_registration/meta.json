@@ -10,9 +10,9 @@
   "content_type": "text/html",
   "render_mode": "plain",
   "external": false,
-  "fetched_at": "2026-11-26T17:56:07Z",
-  "html_sha256": "22b0fb91b1b5faa90a3373cdd33ebe9bb24d4c133b8df24dbe25f3aa728bf66b",
-  "text_sha256": "3904b2e9d4926dc7198d3c34a7190eb765e12b6462f183cccca3d0cd2f1b8f38",
+  "fetched_at": "2026-11-27T17:41:45Z",
+  "html_sha256": "46d1f686b2c16beff74ad5f8f7ce3bbd999952c5e9740b57ad9baf4c6a828614",
+  "text_sha256": "60f7b2061e1fb59a05272020a5dff8afcfc9b6bf131485595a81b8b172f330f7",
   "byte_size": 17490,
   "title": "Montgomery County Elections Voter Registration",
   "noncitizen_voting": {

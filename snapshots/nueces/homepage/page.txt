@@ -322,11 +322,6 @@ Payments
 Jury Duty
 Get the latest news and information sent directly to your inbox.
 Meetings & Events
-26
-Nov
-Thu
-All Day
-Thanksgiving Holiday
 27
 Nov
 Fri
@@ -340,6 +335,11 @@ Commissioners Court
 24
 Dec
 Thu
+All Day
+Christmas Holiday
+25
+Dec
+Fri
 All Day
 Christmas Holiday
 More Events
