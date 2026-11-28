@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.johnsoncountytx.org/departments/elections-office"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-27T17:41:45Z",
-  "html_sha256": "976065ff7255df86a57b2093442bdc776af6cd1d5a9c30188ac0964e5443caa0",
-  "text_sha256": "c49382afbb758fe172e29e862785e7e8d2ef7861722a68801c146969a804cb4c",
-  "byte_size": 113027,
-  "title": "Elections Office | Johnson County, TX",
+  "fetched_at": "2026-11-28T16:27:13Z",
+  "html_sha256": "129565e9c41b30faa1c01ce80fd8307c0bed2a2661229529f46af3b0b23513b2",
+  "text_sha256": "3bdba1a367df4ba4de9015e7611b5603bd4b9a8ea2e9af2c8980e59aa8e145c4",
+  "byte_size": 343,
+  "title": "Access Denied",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 1
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

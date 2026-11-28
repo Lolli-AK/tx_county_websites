@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.co.la-salle.tx.us/index.php/offices/election-board"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=UTF-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-27T17:41:45Z",
-  "html_sha256": "409a32cc9b476842e655e2571c26dfd5c703ea50cd76900651dbb8ceb34d3a1f",
-  "text_sha256": "cc5ccf9dcad76881f3398d8cd4037dfa9a3efe06eeff73dcc4b74eef90d3cb1a",
-  "byte_size": 89216,
-  "title": "ELECTIONS DEPARTMENT",
+  "fetched_at": "2026-11-28T16:27:13Z",
+  "html_sha256": "4fd0708a8462b42d523166f867f741c2d416dd53c3749296ce78dcf04cef971d",
+  "text_sha256": "8ebbf3035163df24b098929bec43648cccb9808277d97057375b866b12dda5a9",
+  "byte_size": 388,
+  "title": "403: Access Forbidden",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

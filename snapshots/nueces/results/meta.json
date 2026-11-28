@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.nuecesco.com/county-services/county-clerk/elections-department/election-history"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-27T17:41:45Z",
-  "html_sha256": "08ecda69fc1db977c602e276dbf1756cbc31eeef7f44f096942e6bf7ed4d7c4e",
-  "text_sha256": "920704472bdc703e860936a8e3020ea8eb9eea721d6097f7e9958ffbf6988827",
-  "byte_size": 138086,
-  "title": "Election History | Nueces County, TX",
+  "fetched_at": "2026-11-28T16:27:13Z",
+  "html_sha256": "27f351886eaa8b7d8f5b6aaf2e78aaa44f6b99ed5f7a2973a1a7205b3cc25590",
+  "text_sha256": "bf3f0daf7f1af0e166372de994bab2b0abcfda50f4a4f638ddba0947fede58ff",
+  "byte_size": 388,
+  "title": "Access Denied",
   "noncitizen_voting": {
     "present": false,
     "terms": [],

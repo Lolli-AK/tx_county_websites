@@ -57,11 +57,6 @@ Read on...
 View All Events
 /Calendar.aspx
 Holidays
-Nov
-26
-Thanksgiving
-Thanksgiving
-Read on...
 Dec
 24
 Christmas Eve
@@ -71,6 +66,11 @@ Dec
 25
 Christmas Day
 Christmas Day
+Read on...
+Jan
+1
+New Year's Day
+New Year's Day
 Read on...
 View All Events
 /Calendar.aspx

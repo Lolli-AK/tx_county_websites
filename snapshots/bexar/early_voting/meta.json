@@ -6,15 +6,15 @@
   "redirect_chain": [
     "https://www.bexar.org/2237/Early-Vote-Information"
   ],
-  "http_status": 429,
-  "content_type": "text/html; charset=UTF-8",
+  "http_status": 404,
+  "content_type": "text/html; charset=utf-8",
   "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-27T17:41:45Z",
-  "html_sha256": "ece113573fc1c582ac086760f58a5409dd884284eaf88d034a3ef3a85d947c43",
-  "text_sha256": "bbd77b05e4548cbe9284765fcd07d5ddc82492bbedb68d6ec477d0016c835e3b",
-  "byte_size": 3192,
-  "title": "Just a moment...",
+  "fetched_at": "2026-11-28T16:27:13Z",
+  "html_sha256": "bbd025b34797de586bef9b6f3bbcd08ca30e9fe0e6bea9d51d7de0d04b956bb0",
+  "text_sha256": "a81890c462e496adc998f32647c6f04fd30f3078e2b0dbcb69e3aa321e77032d",
+  "byte_size": 52946,
+  "title": "Custom404 • Bexar County, TX • CivicEngage",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +25,5 @@
     "terms": [],
     "count": 0
   },
-  "error": "bot_challenge_not_cleared: captured security-check page, not content"
+  "error": null
 }

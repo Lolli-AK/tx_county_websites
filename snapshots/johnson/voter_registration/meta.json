@@ -6,26 +6,24 @@
   "redirect_chain": [
     "https://www.johnsoncountytx.org/departments/elections-office/register-to-vote"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=utf-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-27T17:41:45Z",
-  "html_sha256": "2d8cdf825a135b79ea7822d631f67e20a2d8cf5becfdfeef09df8cf6bda6ff82",
-  "text_sha256": "c7ceee3a1e51cb11db1e2c2f46596980285664b06fd0edfc1b23402e5efe5eb4",
-  "byte_size": 115159,
-  "title": "Register to Vote | Johnson County, TX",
+  "fetched_at": "2026-11-28T16:27:13Z",
+  "html_sha256": "0d0fadd8b295bcc479b7c06259d932ef878188a90af7f09c51cb48ce3ee17353",
+  "text_sha256": "4f68b3c02e110e2965dd81c8a1e7bdc9dc3f59ae0ffa2eaffa24d9d5356160f3",
+  "byte_size": 360,
+  "title": "Access Denied",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
     "count": 0
   },
   "uocava": {
-    "present": true,
-    "terms": [
-      "military_overseas_voter"
-    ],
-    "count": 2
+    "present": false,
+    "terms": [],
+    "count": 0
   },
   "error": null
 }

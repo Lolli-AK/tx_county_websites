@@ -2,19 +2,20 @@
   "county": "Brazos",
   "page_type": "voter_registration",
   "requested_url": "https://elections.brazoscountytx.gov/register-to-vote/",
-  "final_url": "https://elections.brazoscountytx.gov/register-to-vote/",
+  "final_url": "https://elections.brazoscountytx.gov/register-to-vote/?ki-cf-botcl=1",
   "redirect_chain": [
-    "https://elections.brazoscountytx.gov/register-to-vote/"
+    "https://elections.brazoscountytx.gov/register-to-vote/",
+    "https://elections.brazoscountytx.gov/register-to-vote/?ki-cf-botcl=1"
   ],
-  "http_status": 200,
-  "content_type": "text/html; charset=UTF-8",
-  "render_mode": "plain",
+  "http_status": 403,
+  "content_type": "text/html; charset=utf-8",
+  "render_mode": "headless",
   "external": false,
-  "fetched_at": "2026-11-27T17:41:45Z",
-  "html_sha256": "bdbfe6454c4ccb3e12e3ec046c3b8a908ae66ef775de3d356acc8ac60c70083c",
-  "text_sha256": "2ba2743602485bca9969a1601e3449fc7abb6003884e8793b2896842838067ab",
-  "byte_size": 34358,
-  "title": "Register to Vote – Brazos Votes",
+  "fetched_at": "2026-11-28T16:27:13Z",
+  "html_sha256": "83bf1c865e9d1d5f3ce43d4814fa17b2d23d4755d91e6e2382dbcbb64c9b090b",
+  "text_sha256": "47202e4c3ed2d70ef337477338634d10657c70dd96382f9302bbb00c8456b2c4",
+  "byte_size": 3237,
+  "title": "Just a moment...",
   "noncitizen_voting": {
     "present": false,
     "terms": [],
@@ -25,5 +26,5 @@
     "terms": [],
     "count": 0
   },
-  "error": null
+  "error": "bot_challenge_not_cleared: captured security-check page, not content"
 }
